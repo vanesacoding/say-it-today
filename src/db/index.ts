@@ -11,11 +11,14 @@ const dbPromise = openDB('say-it-today', 1, {
 
 export async function initDb() {
   const db = await dbPromise
-  const existing = new Set(await db.getAllKeys('cards'))
-  const missing = seedCards.filter((card) => !existing.has(card.id))
-  if (missing.length) {
+  const existing = new Map((await db.getAll('cards') as Card[]).map((card) => [card.id, card]))
+  const seeded = seedCards.map((card) => {
+    const saved = existing.get(card.id)
+    return saved ? { ...card, favorite: saved.favorite, status: saved.status, reviewInterval: saved.reviewInterval, nextReviewAt: saved.nextReviewAt, correctCount: saved.correctCount, wrongCount: saved.wrongCount, lastReviewedAt: saved.lastReviewedAt } : card
+  })
+  if (seeded.length) {
     const tx = db.transaction('cards', 'readwrite')
-    await Promise.all(missing.map((card) => tx.store.put(card)))
+    await Promise.all(seeded.map((card) => tx.store.put(card)))
     await tx.done
   }
   if (!(await db.get('settings', 'main'))) await db.put('settings', defaultSettings, 'main')

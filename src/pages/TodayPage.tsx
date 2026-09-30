@@ -8,6 +8,7 @@ export const DAILY_CARD_LIMIT = 8
 
 export function makeQueue(cards: Card[]) {
   const target = cards.filter((card) => card.tags.some((tag) => tag === '商务英语' || tag === '日常进阶'))
+    .sort((a, b) => Number(a.id.split('-').at(-1)) - Number(b.id.split('-').at(-1)))
   const due = target.filter((card) => isDue(card))
   const fresh = target.filter((card) => card.status === 'new')
   const business = fresh.filter((card) => card.tags.includes('商务英语'))
@@ -55,7 +56,7 @@ export function TodayPage({ cards, settings, onUpdate }: { cards: Card[]; settin
     <button className="study-back" onClick={() => setStarted(false)}>‹ 返回今日目标</button>
     <header className="today-header"><div><span className="eyebrow">TODAY'S 5 MINUTES</span><h1>{card?.theme ?? '商务与日常进阶'}</h1></div><p>还剩 <b>{queue.length}</b> 句</p></header>
     <ProgressBar value={completed} max={total} />
-    {card ? <LearningCard card={card} locale={settings.accent} showChinese={settings.showChinese} autoPlay={settings.autoPlay}
+    {card ? <LearningCard card={card} showChinese={settings.showChinese}
       onFavorite={toggleFavorite} onRate={next} /> : <section className="empty-state"><span>✓</span><h2>今天完成了</h2><p>这些句子已经排进下一次复习。</p></section>}
   </main>
 }

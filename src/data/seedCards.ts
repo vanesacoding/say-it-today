@@ -96,9 +96,17 @@ const targetData: TargetSeed[] = [
   ['日常进阶', '这让我重新看清了事情的轻重。', 'That really put things into perspective.', 'That really put things ____.', 'into perspective', ['into perspective', 'in perspective view', 'to the right scale', 'under context'], 'put things into perspective', '表示一件事帮助自己更客观地判断问题的重要性或全貌。', 'That put the things in perspective.', 'That helped me see the bigger picture.']
 ]
 
+const targetPhonetics = [
+  '/əˈlaɪn ɑːn/', '/slɪp jʊr maɪnd/', '/flæɡ ə kənˈsɜːrn/', '/nɑːt kwaɪt maɪ θɪŋ/',
+  '/ˈmænɪdʒ ˌekspekˈteɪʃənz/', '/kætʃ ˌsʌmwʌn ɔːf ˈɡɑːrd/', '/teɪk ðɪs ˌɔːfˈlaɪn/', '/ɑːn ðə fens/',
+  '/kiːp ˌsʌmwʌn ɪn ðə luːp/', '/ɡoʊ aʊt əv jʊr weɪ/', '/ˈtentətɪv/', '/riːd bɪˈtwiːn ðə laɪnz/',
+  '/ɡet ˈklærəti ɑːn/', '/ɡɪv ˌsʌmwʌn ðə ˈbenəfɪt əv ðə daʊt/', '/ɪɡˈzekjətɪv ˈbaɪ ɪn/', '/pʊt θɪŋz ˌɪntuː pərˈspektɪv/'
+]
+
 const targetCards: Card[] = targetData.map(([track, cn, sentence, question, answer, options, expression, explanation, wrongExample, alternative], index) => ({
   id: `seed-target-${index + 1}`, cn, sentence, question, answer, options, expression, explanation, wrongExample,
   correctExample: sentence, alternatives: [alternative], scene: track === '商务英语' ? 'work' : 'chat', tags: [track, expression], theme: track,
+  phonetic: targetPhonetics[index], image: `/images/advanced/${index + 1}.webp`,
   difficulty: 'challenging', source: 'seed', createdAt: '2026-09-30T00:00:00.000Z', favorite: false, status: 'new', reviewInterval: 0,
   nextReviewAt: null, correctCount: 0, wrongCount: 0, lastReviewedAt: null
 }))

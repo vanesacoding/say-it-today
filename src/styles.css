@@ -48,10 +48,10 @@ h1 { margin-bottom: 6px; font-size: 2rem; letter-spacing: .03em; }
 .answer p { margin: 0; color: var(--muted); }
 .explanation { padding: 22px 2px 10px; border-bottom: 1px solid var(--line); }
 .explanation h3 { margin: 5px 0 7px; color: var(--accent); }
+.explanation .phonetic { margin: -2px 0 12px; color: var(--quiet); font-family: ui-sans-serif, system-ui, sans-serif; font-size: .9rem; letter-spacing: .03em; }
 .explanation p { line-height: 1.55; }
 .explanation em { font-style: normal; color: var(--accent); font-weight: 800; }
 .alternative { background: #f0ebe3; border-radius: 12px; padding: 12px; }
-.speech-row { display: flex; justify-content: space-between; gap: 10px; align-items: flex-start; padding: 14px 0; }
 .speech-control { display: flex; align-items: center; gap: 3px; }
 .text-button, .speed, .back, .inline-actions button { border: 0; color: var(--ink); background: transparent; padding: 7px 3px; }
 .speed { color: var(--muted); font-size: .78rem; }

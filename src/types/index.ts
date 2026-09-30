@@ -17,6 +17,7 @@ export interface Card {
   scene: string
   tags: string[]
   expression: string
+  phonetic?: string
   theme?: string
   image?: string
   difficulty: Difficulty
