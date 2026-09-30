@@ -106,7 +106,7 @@ const targetPhonetics = [
 const targetCards: Card[] = targetData.map(([track, cn, sentence, question, answer, options, expression, explanation, wrongExample, alternative], index) => ({
   id: `seed-target-${index + 1}`, cn, sentence, question, answer, options, expression, explanation, wrongExample,
   correctExample: sentence, alternatives: [alternative], scene: track === '商务英语' ? 'work' : 'chat', tags: [track, expression], theme: track,
-  phonetic: targetPhonetics[index], image: `/images/advanced/${index + 1}.webp`,
+  phonetic: targetPhonetics[index], image: `${import.meta.env.BASE_URL}images/advanced/${index + 1}.webp`,
   difficulty: 'challenging', source: 'seed', createdAt: '2026-09-30T00:00:00.000Z', favorite: false, status: 'new', reviewInterval: 0,
   nextReviewAt: null, correctCount: 0, wrongCount: 0, lastReviewedAt: null
 }))
@@ -124,7 +124,7 @@ const personalityCards: Card[] = personalityData.map(([cn, sentence, question, a
   id: `seed-personality-${index + 1}`,
   cn: `他/她有点${cn}。`, sentence, question, answer, options: [...options], expression, explanation, wrongExample,
   correctExample: sentence, alternatives: [], scene: 'chat', tags: ['人物性格', cn], theme: '描述人物性格',
-  image: `/images/personality/${image}`, difficulty: 'daily', source: 'seed', createdAt: '2026-09-30T00:00:00.000Z',
+  image: `${import.meta.env.BASE_URL}images/personality/${image}`, difficulty: 'daily', source: 'seed', createdAt: '2026-09-30T00:00:00.000Z',
   favorite: false, status: 'new', reviewInterval: 0, nextReviewAt: null, correctCount: 0, wrongCount: 0, lastReviewedAt: null
 }))
 
