@@ -42,11 +42,11 @@ export interface Settings {
 }
 
 export const defaultSettings: Settings = {
-  newPerDay: 6,
-  reviewPerDay: 4,
+  newPerDay: 8,
+  reviewPerDay: 8,
   accent: 'en-US',
-  goal: '日常口语',
-  difficulty: 'daily',
+  goal: '商务英语与日常进阶',
+  difficulty: 'challenging',
   autoPlay: false,
   showChinese: true
 }
