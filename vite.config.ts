@@ -50,7 +50,7 @@ export default defineConfig(({ mode }) => {
       },
       workbox: {
         navigateFallback: 'index.html',
-        globPatterns: ['**/*.{js,css,html,svg,png,webp,woff2}'],
+        globPatterns: ['**/*.{js,css,html,svg,png,jpg,webp,mp3,woff2}'],
         globIgnores: ['images/personality/*.png']
       }
     })

@@ -3,8 +3,9 @@ import { seedCards } from '../data/seedCards'
 import { defaultSettings, type Card, type DailyPlan, type Settings } from '../types'
 import { createDailyPlan, localDateKey, completePlanCard } from '../utils/dailyPlan'
 
-const dbPromise = openDB('say-it-today', 2, {
+const dbPromise = openDB('say-it-today', 3, {
   upgrade(db) {
+    if (!db.objectStoreNames.contains('visualSessions')) db.createObjectStore('visualSessions')
     if (!db.objectStoreNames.contains('cards')) db.createObjectStore('cards', { keyPath: 'id' })
     if (!db.objectStoreNames.contains('settings')) db.createObjectStore('settings')
     if (!db.objectStoreNames.contains('dailyPlans')) db.createObjectStore('dailyPlans', { keyPath: 'date' })
@@ -109,4 +110,17 @@ export async function importData(raw: string) {
 export async function clearProgress() {
   const cards = await getCards()
   await saveCards(cards.map((card) => ({ ...card, favorite: false, status: 'new', reviewInterval: 0, nextReviewAt: null, correctCount: 0, wrongCount: 0, lastReviewedAt: null })))
+}
+
+export interface VisualSession { order: string[]; cursor: number; batchStart: number; favorites: string[]; round: number }
+export async function getVisualSession(ids: string[]): Promise<VisualSession> {
+  const db = await dbPromise
+  const saved = await db.get('visualSessions', 'fruits') as VisualSession | undefined
+  if (saved && saved.order.length === ids.length && new Set(saved.order).size === ids.length && saved.order.every((id) => ids.includes(id)) && Number.isInteger(saved.cursor) && saved.cursor >= 0 && saved.cursor <= ids.length && Number.isInteger(saved.batchStart) && saved.batchStart <= saved.cursor && saved.batchStart >= 0 && Array.isArray(saved.favorites)) return saved
+  const session: VisualSession = { order: ids, cursor: 0, batchStart: 0, favorites: Array.isArray(saved?.favorites) ? saved.favorites.filter((id) => ids.includes(id)) : [], round: 1 }
+  await db.put('visualSessions', session, 'fruits')
+  return session
+}
+export async function saveVisualSession(session: VisualSession) {
+  await (await dbPromise).put('visualSessions', session, 'fruits')
 }

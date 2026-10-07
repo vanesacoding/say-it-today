@@ -20,7 +20,7 @@ assert.deepEqual(afterReload.cardIds, initial.cardIds)
 assert.deepEqual(afterReload.completedIds, [card.id])
 assert.equal((await getCards()).find((item) => item.id === card.id)!.favorite, true)
 assert.equal((await getCards()).find((item) => item.id === card.id)!.wrongCount, 1)
-const db = await openDB('say-it-today', 2)
+const db = await openDB('say-it-today', 3)
 // Force a transaction failure: neither card counters nor plan completion may partially commit.
 const originalPut = IDBObjectStore.prototype.put
 IDBObjectStore.prototype.put = function (value, key) {
