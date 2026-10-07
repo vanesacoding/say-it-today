@@ -5,11 +5,13 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc --noEmit && vite build",
+    "build": "node scripts/check-audio-assets.mjs && tsc --noEmit && vite build",
+    "audio:generate": "python3 scripts/generate-audio.py",
     "preview": "vite preview",
     "check": "node --import tsx scripts/check-srs.ts && node --import tsx scripts/check-db.ts && node --import tsx scripts/check-ui.ts"
   },
   "dependencies": {
+    "@phosphor-icons/react": "^2.1.10",
     "@vite-pwa/assets-generator": "^1.0.0",
     "idb": "^8.0.3",
     "react": "^19.1.1",

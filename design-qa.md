@@ -1,31 +1,42 @@
-# Vocabulary and scene-sentence QA
+# Say It Today redesign QA
 
-Reference: uploaded 01-1000045315.mp4, 18.33 seconds, 720×1562. Contact sheet sampled every three seconds and visually inspected. The reference uses scenario illustrations, Chinese meaning, a sentence with a missing expression, a countdown, and a revealed highlighted answer. The app adapts this learning mechanism into its existing simple portrait card flow.
+final result: passed
 
-## Content and imagery
+## Evidence
+- Selected visual truth: ../generated_images/exec-2510d283-18b2-4e94-8893-67dedb4a9687.png (third displayed concept, selected by user).
+- Browser-rendered implementation: /workspace/scratch/say-it-today-layout-final.jpg.
+- Full comparison: /workspace/scratch/say-it-today-comparison-final.jpg.
+- Initial comparison: /workspace/scratch/say-it-today-comparison-first.jpg.
+- Viewports: actual browser iframe viewports 390 × 844 and 320 × 844; desktop preview 1363 × 936. The existing PWA was modified in place, without a new mobile template.
+- Source: 853 × 1844 pixels, normalized to 390 × 844. Implementation: 1363 × 936 screenshot, 390 × 844 app region extracted at x≈307, y=30. No device bezel is included in either comparison. Density normalized to CSS pixel scale 1.
+- State: everyday advanced, first sentence, answer revealed, auto-next disabled. English and Chinese content match the selected concept. The secondary 320px frame uses the same content.
+- Full view and text/control region were inspected together in the normalized comparison image. The 780px-wide comparison is readable without separate enlarged crops.
 
-- 66 distinct words: 23 fruits, 23 vegetables, 20 kitchen objects.
-- 24 full sentences: six each for buffet, cafe, travel/check-in, and everyday conversation. Each has a Chinese meaning, blank prompt, key expression, pronunciation and concise usage note.
-- All 66 vocabulary photos replaced with Wikimedia Commons images; source native longest dimension is at least 640px. WebP output is 640×640, preserving aspect ratio with padding. Source author/license links are available in each card and docs/visual-assets.md.
-- All photos inspected in a contact sheet. Orchard-only apricot, leafy fig, mixed-kiwi collage, small whisk/pan and unsuitable ladle sources were replaced. Rounded-square photo field preserves the complete subject.
-- Sentence scenes use four original SVG cues: buffet counter, coffee cup, transport, conversation. They remain sharp at every display density.
-- 90 prerecorded MP3 files decoded with ffprobe; all under the five-second reveal interval. Speech is neural synthesis, not human narration.
+## Comparison history
+1. First capture: P1 — primary action below the mobile viewport (controls y≈843..971 on 390px and y≈826..954 on 320px). P2 — explanation density and header spacing moved the audio and primary action below the source's hierarchy.
+2. Fixes: shorten the preview explanation; place detailed usage and the new follow-up question in expandable sections; reduce header spacing; move sentence IPA inside usage; enlarge English type to 25px; make the footer sticky to keep the primary action reachable.
+3. Final capture: primary action visible within both 844px viewports, no horizontal overflow (scrollWidth equals 390/320). English focus highlight, cream/olive palette, audio controls, heart action and compact progress now match the selected direction. Added pause, usage detail and follow-up affordances are intentional functional additions, rather than mock fidelity defects.
 
-## Browser evidence
+## Required surfaces
+- Typography: system sans fonts match the reference's sans direction, readable Chinese prompt and larger English phrase. English 25px/1.5 at 390px, 22px/1.5 at 320px. Text wraps without truncation. Minor Chinese fallback-weight differences are P3.
+- Spacing/layout: same open page surface, generous but useful spacing, two modes and compact progress, no nested practice panels. Sticky footer remains accessible with longer content.
+- Colors/tokens: cream #f6f4ec, ink #303b2d, olive #4c5f3f, sage #e0e3cb; foregrounds remain distinct. Muted hints are intentionally secondary.
+- Images/icons: retained licensed 640 × 640 word photographs (natural dimensions checked in browser). Standard Phosphor icons replace the old handcrafted scene illustration; play and heart visually match the selected design. No new raster asset is required by the selected screen.
+- Copy/content: 66 words, 24 basic expressions, 24 upper-intermediate expressions targeting learners around IELTS 6.5. This is a practice difficulty target, not automated assessment or a guaranteed score. Follow-ups ask learners to explain reasons, compare alternatives or give examples.
 
-Local preview checked in Chrome at http://terminal.local:4173/, viewport 1363×936. The main column is 440px wide. Revealed vocabulary and sentence cards were captured and visually inspected. Typography remains compact: 20px title, 27px word, 23px sentence, 13–16px supporting text.
+## Functional verification
+- Real Jenny sentence MP3 decoded in the browser: duration 5.952s, readyState 4, no media error. Slow replay: playbackRate 0.8, paused=false immediately after clicking.
+- Browser: hidden answer → revealed sentence, follow-up expansion, favorite → favorites → return, basic/advanced topic switching, vocabulary switching, 640px image decoding.
+- Automated tests: long audio blocks auto advance until ended; favorites, 8-second advanced reveal, separate level progress, refresh restore, old favorites, and existing database/SRS behavior.
+- Console reviewed: reported errors originate from the cloud browser extension content script, not the app; no app-source error observed.
+- Production build and MP3 integrity/manifest verification pass. CI audio generation is a deployment-specific check to complete on publication.
 
-Verified vocabulary start/pause/reveal, topic picker, sentence blank before reveal, highlighted key expression after reveal, playback controls and sentence favorite list. No application console errors were observed; extension metadata errors originate outside the app.
+## Findings and follow-up
+No actionable P0/P1/P2 findings remain. P3: the system Chinese font varies slightly by device; actual phone audio output should be compared by the user after publication because automated verification establishes decoding/playback, not perceived timbre.
 
-## Automated validation
-
-npm run check covers hidden answers, five-second reveal, pause/resume, audio source and slow rate, favorites, automatic advance, refresh recovery, six-card completion, unseen next batch, old expression favorites/counters, separate topic progress, cross-mode favorites and append-only deck expansion.
-
-VITE_BASE_PATH=/say-it-today/ npm run build validates TypeScript and production bundling. Topic media chunks are separately precached and remain below Workbox's 2MiB individual-file limit.
-
-## Remaining verification limits
-
-Physical iOS/Android autoplay and installation were not tested. Explicit replay remains available if automatic audio is rejected by the browser. Small-screen CSS exists, but this report does not claim a physical-device test. Offline readiness was checked through generated precache coverage; airplane-mode behavior was not separately exercised.
-
-## Publication audio adjustment
-Existing 23 fruit recordings are reused from the already-public visualAssets.json unchanged. No new audio is uploaded. The 43 added words and 24 sentences use device English speech synthesis with normal/slow replay and a visible device-voice note. Voice quality depends on the device.
+## Implementation checklist
+- [x] Implement selected third direction in existing PWA.
+- [x] Keep generated MP3s out of git; distribute through deployment artifacts.
+- [x] Use Jenny for added words and all sentences.
+- [x] Preserve existing progress and favorites; separate basic and advanced decks.
+- [x] Verify mobile layouts, core interactions, media decoding, tests and production build.

@@ -1,0 +1,370 @@
+{
+  "voice": "en-US-JennyNeural",
+  "rate": "-5%",
+  "entries": {
+    "artichoke": {
+      "text": "artichoke",
+      "file": "artichoke-8f7e34ba0455.mp3"
+    },
+    "asparagus": {
+      "text": "asparagus",
+      "file": "asparagus-4c5dbb51dbf0.mp3"
+    },
+    "beetroot": {
+      "text": "beetroot",
+      "file": "beetroot-e93a33955d7b.mp3"
+    },
+    "broccoli": {
+      "text": "broccoli",
+      "file": "broccoli-3805fb78d278.mp3"
+    },
+    "cauliflower": {
+      "text": "cauliflower",
+      "file": "cauliflower-734bf8916a79.mp3"
+    },
+    "celery": {
+      "text": "celery",
+      "file": "celery-b7efc9811506.mp3"
+    },
+    "leek": {
+      "text": "leek",
+      "file": "leek-a7a859ecb0f8.mp3"
+    },
+    "radish": {
+      "text": "radish",
+      "file": "radish-b29a981745a1.mp3"
+    },
+    "turnip": {
+      "text": "turnip",
+      "file": "turnip-32bb6ccf72b8.mp3"
+    },
+    "cabbage": {
+      "text": "cabbage",
+      "file": "cabbage-c812e3fecf18.mp3"
+    },
+    "eggplant": {
+      "text": "eggplant",
+      "file": "eggplant-f639c6e01b84.mp3"
+    },
+    "zucchini": {
+      "text": "zucchini",
+      "file": "zucchini-6c42763a7e05.mp3"
+    },
+    "bell-pepper": {
+      "text": "bell pepper",
+      "file": "bell-pepper-202b24206dfe.mp3"
+    },
+    "sweet-potato": {
+      "text": "sweet potato",
+      "file": "sweet-potato-97567a2ffbd1.mp3"
+    },
+    "pumpkin": {
+      "text": "pumpkin",
+      "file": "pumpkin-9fa6f98ad732.mp3"
+    },
+    "ginger": {
+      "text": "ginger",
+      "file": "ginger-9ac07971b246.mp3"
+    },
+    "garlic": {
+      "text": "garlic",
+      "file": "garlic-3d47f79de002.mp3"
+    },
+    "okra": {
+      "text": "okra",
+      "file": "okra-3b456d87da88.mp3"
+    },
+    "bok-choy": {
+      "text": "bok choy",
+      "file": "bok-choy-6a25c9c0982f.mp3"
+    },
+    "brussels-sprout": {
+      "text": "Brussels sprouts",
+      "file": "brussels-sprout-8cfc12c8b553.mp3"
+    },
+    "cucumber": {
+      "text": "cucumber",
+      "file": "cucumber-cf242787935f.mp3"
+    },
+    "carrot": {
+      "text": "carrot",
+      "file": "carrot-c1070cd58272.mp3"
+    },
+    "onion": {
+      "text": "onion",
+      "file": "onion-a702e666e860.mp3"
+    },
+    "colander": {
+      "text": "colander",
+      "file": "colander-062a96d4611e.mp3"
+    },
+    "whisk": {
+      "text": "whisk",
+      "file": "whisk-9e8dd0289da2.mp3"
+    },
+    "spatula": {
+      "text": "spatula",
+      "file": "spatula-ed2d1a7dcce7.mp3"
+    },
+    "tongs": {
+      "text": "tongs",
+      "file": "tongs-048f4e0d9be0.mp3"
+    },
+    "ladle": {
+      "text": "ladle",
+      "file": "ladle-a6e62b46b183.mp3"
+    },
+    "peeler": {
+      "text": "peeler",
+      "file": "peeler-7aed1a00e045.mp3"
+    },
+    "grater": {
+      "text": "grater",
+      "file": "grater-65c968320cb4.mp3"
+    },
+    "sieve": {
+      "text": "sieve",
+      "file": "sieve-7d497f9917a9.mp3"
+    },
+    "corkscrew": {
+      "text": "corkscrew",
+      "file": "corkscrew-9000e710c2cf.mp3"
+    },
+    "rolling-pin": {
+      "text": "rolling pin",
+      "file": "rolling-pin-63fe10b90b5e.mp3"
+    },
+    "cutting-board": {
+      "text": "cutting board",
+      "file": "cutting-board-ed0a47a96452.mp3"
+    },
+    "apron": {
+      "text": "apron",
+      "file": "apron-d7983f2e7d36.mp3"
+    },
+    "kettle": {
+      "text": "kettle",
+      "file": "kettle-7d23644d58c9.mp3"
+    },
+    "frying-pan": {
+      "text": "frying pan",
+      "file": "frying-pan-86cf0502ec44.mp3"
+    },
+    "saucepan": {
+      "text": "saucepan",
+      "file": "saucepan-e626891b9713.mp3"
+    },
+    "measuring-cup": {
+      "text": "measuring cup",
+      "file": "measuring-cup-08a5fd0557bb.mp3"
+    },
+    "mortar-and-pestle": {
+      "text": "mortar and pestle",
+      "file": "mortar-and-pestle-aede826666f4.mp3"
+    },
+    "oven-mitt": {
+      "text": "oven mitt",
+      "file": "oven-mitt-97d2594a28bc.mp3"
+    },
+    "baking-tray": {
+      "text": "baking tray",
+      "file": "baking-tray-0dca81db4f9b.mp3"
+    },
+    "slotted-spoon": {
+      "text": "slotted spoon",
+      "file": "slotted-spoon-a9c238856cac.mp3"
+    },
+    "sentence-all-you-can-eat": {
+      "text": "This is all-you-can-eat.",
+      "file": "sentence-all-you-can-eat-0a60179995e9.mp3"
+    },
+    "sentence-help-yourself": {
+      "text": "Please help yourself.",
+      "file": "sentence-help-yourself-62a9e98d1dd3.mp3"
+    },
+    "sentence-refill": {
+      "text": "Can I get a refill?",
+      "file": "sentence-refill-3c67d34bf1ad.mp3"
+    },
+    "sentence-restocking": {
+      "text": "They're restocking it.",
+      "file": "sentence-restocking-836bcdeb4791.mp3"
+    },
+    "sentence-included": {
+      "text": "Are drinks included?",
+      "file": "sentence-included-7f055890b7af.mp3"
+    },
+    "sentence-another-plate": {
+      "text": "Could I get another plate?",
+      "file": "sentence-another-plate-8d3e2a5a36c5.mp3"
+    },
+    "sentence-to-go": {
+      "text": "I'd like a latte to go.",
+      "file": "sentence-to-go-c106d0e3ba24.mp3"
+    },
+    "sentence-decaf": {
+      "text": "Do you have decaf?",
+      "file": "sentence-decaf-3eeefadd36d0.mp3"
+    },
+    "sentence-less-ice": {
+      "text": "Could I have less ice?",
+      "file": "sentence-less-ice-68789d999978.mp3"
+    },
+    "sentence-oat-milk": {
+      "text": "Can I have it with oat milk?",
+      "file": "sentence-oat-milk-003caf6e6e0d.mp3"
+    },
+    "sentence-recommend": {
+      "text": "What would you recommend?",
+      "file": "sentence-recommend-e61dcb74acfc.mp3"
+    },
+    "sentence-check": {
+      "text": "Could I get the check, please?",
+      "file": "sentence-check-2e02601168b3.mp3"
+    },
+    "sentence-way": {
+      "text": "Is this the way to the station?",
+      "file": "sentence-way-6b5450e100ce.mp3"
+    },
+    "sentence-get-off": {
+      "text": "Where should I get off?",
+      "file": "sentence-get-off-08ade69c95ac.mp3"
+    },
+    "sentence-transfer": {
+      "text": "Do I need to transfer?",
+      "file": "sentence-transfer-0ed2e9438d88.mp3"
+    },
+    "sentence-on-foot": {
+      "text": "How long does it take on foot?",
+      "file": "sentence-on-foot-adc6c6c2bf3d.mp3"
+    },
+    "sentence-reservation": {
+      "text": "I have a reservation under Chen.",
+      "file": "sentence-reservation-0afc7be5b3ff.mp3"
+    },
+    "sentence-check-in": {
+      "text": "I'd like to check in.",
+      "file": "sentence-check-in-4fe07cbfb6ca.mp3"
+    },
+    "sentence-say-again": {
+      "text": "Could you say that again?",
+      "file": "sentence-say-again-11517ae20759.mp3"
+    },
+    "sentence-speak-slowly": {
+      "text": "Could you speak a little more slowly?",
+      "file": "sentence-speak-slowly-361e5d8947ec.mp3"
+    },
+    "sentence-give-minute": {
+      "text": "Give me a minute.",
+      "file": "sentence-give-minute-35bb56ba10b3.mp3"
+    },
+    "sentence-works": {
+      "text": "That works for me.",
+      "file": "sentence-works-fc1a01abdc11.mp3"
+    },
+    "sentence-on-way": {
+      "text": "I'm on my way.",
+      "file": "sentence-on-way-c1cbad4ab1be.mp3"
+    },
+    "sentence-up-to-you": {
+      "text": "It's up to you.",
+      "file": "sentence-up-to-you-16fb4fc465ec.mp3"
+    },
+    "sentence-balance": {
+      "text": "I value flexibility because it helps me strike a balance between work and personal life.",
+      "file": "sentence-balance-ffdb0173a2f8.mp3"
+    },
+    "sentence-weigh-up": {
+      "text": "Before making a decision, I tend to weigh up the pros and cons rather than rush into it.",
+      "file": "sentence-weigh-up-6395d9ec6e00.mp3"
+    },
+    "sentence-perspective": {
+      "text": "I used to find it frustrating, but looking at it from a different perspective changed my mind.",
+      "file": "sentence-perspective-e97380cbfd85.mp3"
+    },
+    "sentence-long-run": {
+      "text": "It may be inconvenient at first, but I think the benefits outweigh the drawbacks in the long run.",
+      "file": "sentence-long-run-bc7b5f3408c0.mp3"
+    },
+    "sentence-point": {
+      "text": "I see your point, although I'm not entirely convinced that it would work in practice.",
+      "file": "sentence-point-1a7f076ebfe5.mp3"
+    },
+    "sentence-priority": {
+      "text": "What matters most to me is having enough time to pursue my interests outside work.",
+      "file": "sentence-priority-75691140287e.mp3"
+    },
+    "sentence-variety": {
+      "text": "What appeals to me about a buffet is the variety, although I try not to take more than I can finish.",
+      "file": "sentence-variety-762fa4e7ad59.mp3"
+    },
+    "sentence-dietary": {
+      "text": "Would you mind letting me know which dishes are suitable for someone with dietary restrictions?",
+      "file": "sentence-dietary-ac0e82a4b6d1.mp3"
+    },
+    "sentence-portion": {
+      "text": "I'd rather start with a small portion and go back for more if I'm still hungry.",
+      "file": "sentence-portion-8d67a69a91fe.mp3"
+    },
+    "sentence-value-money": {
+      "text": "It seems reasonably priced, provided that the quality lives up to our expectations.",
+      "file": "sentence-value-money-2390fb1903b9.mp3"
+    },
+    "sentence-seasonal": {
+      "text": "I tend to choose seasonal ingredients because they're often fresher and have more flavour.",
+      "file": "sentence-seasonal-d9da54c2ee11.mp3"
+    },
+    "sentence-meal": {
+      "text": "For me, eating out is as much about spending time with people as it is about the food.",
+      "file": "sentence-meal-8dcf0e549089.mp3"
+    },
+    "sentence-cafe-quiet": {
+      "text": "I usually go for somewhere quiet, where I can unwind without feeling rushed.",
+      "file": "sentence-cafe-quiet-7a17ad5835a6.mp3"
+    },
+    "sentence-cut-back": {
+      "text": "I've been trying to cut back on caffeine, so I'll have something without coffee today.",
+      "file": "sentence-cut-back-21330255f4f8.mp3"
+    },
+    "sentence-too-sweet": {
+      "text": "Could you make it a little less sweet? I find the regular version slightly overpowering.",
+      "file": "sentence-too-sweet-acae178b6a8a.mp3"
+    },
+    "sentence-atmosphere": {
+      "text": "The coffee is decent, but it's the relaxed atmosphere that keeps me coming back.",
+      "file": "sentence-atmosphere-fc7a3b91425f.mp3"
+    },
+    "sentence-work-cafe": {
+      "text": "Working in a cafe can be refreshing, as long as the background noise doesn't become distracting.",
+      "file": "sentence-work-cafe-629c7c546fc8.mp3"
+    },
+    "sentence-local": {
+      "text": "I'd rather support an independent cafe, even if it costs a little more than a chain.",
+      "file": "sentence-local-bb393d97ad5b.mp3"
+    },
+    "sentence-off-beaten": {
+      "text": "I enjoy visiting places off the beaten track because they give me a better sense of local life.",
+      "file": "sentence-off-beaten-7309ac16f675.mp3"
+    },
+    "sentence-transport": {
+      "text": "Public transport is usually my first choice, unless I'm carrying too much luggage.",
+      "file": "sentence-transport-70919d7d51d7.mp3"
+    },
+    "sentence-location": {
+      "text": "I'd prefer a centrally located hotel, even if the room is slightly smaller.",
+      "file": "sentence-location-def1b58ef10d.mp3"
+    },
+    "sentence-delay": {
+      "text": "Our train was delayed, which meant we had to change our plans at the last minute.",
+      "file": "sentence-delay-18f0bfdb047e.mp3"
+    },
+    "sentence-make-most": {
+      "text": "With only a couple of days available, we tried to make the most of our time without rushing around.",
+      "file": "sentence-make-most-3093474b6e0a.mp3"
+    },
+    "sentence-travel-perspective": {
+      "text": "Travelling has broadened my perspective by exposing me to ways of life different from my own.",
+      "file": "sentence-travel-perspective-9fb353cadcc5.mp3"
+    }
+  }
+}

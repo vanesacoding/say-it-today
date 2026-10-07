@@ -1,10 +1,10 @@
 # Vocabulary and scene-sentence assets
 
-66 curated vocabulary entries: 23 fruits, 23 vegetables, 20 kitchen tools. 24 practical sentence entries: 6 each for buffet, cafe, travel/check-in and everyday conversation. Content is reviewed and shipped in JSON; no runtime generation or external API key is required. Each item has Chinese meaning, key pronunciation, an example or usage note, and bundled prerecorded neural speech. Vocabulary metadata includes topic, part of speech, level and applicable regional aliases. Sentence metadata separates full sentence, blank prompt and highlighted expression.
+66 curated vocabulary entries: 23 fruits, 23 vegetables, 20 kitchen tools. 48 sentence entries: 24 basic practical expressions and 24 upper-intermediate expressions across buffet, cafe, travel/check-in and everyday conversation. The advanced set targets learners around IELTS 6.5, focusing on reasons, comparisons, qualifications and useful collocations; it is an editorial difficulty target, not a score prediction. Each advanced entry includes a follow-up speaking question and a response goal. Content is shipped in JSON; no learner API key or runtime text generation is required.
 
 ## Images and licenses
 
-All vocabulary photos below use Wikimedia Commons sources with native longest edge of at least 640 pixels. Photos were resized with preserved aspect ratio and padded to 640×640 WebP. Attribution and license links appear inside each vocabulary card. The licenses below apply to their respective images separately from the application code. The SVG scene cues are original vector illustrations in VisualQuiz.tsx.
+All vocabulary photos below use Wikimedia Commons sources with native longest edge of at least 640 pixels. Photos were resized with preserved aspect ratio and padded to 640×640 WebP. Attribution and license links appear inside each vocabulary card. The licenses below apply to their respective images separately from the application code. The redesigned sentence screen uses an open typographic layout and Phosphor UI icons.
 
 | Word | Author and source | License | Original dimensions |
 |---|---|---|---|
@@ -77,11 +77,13 @@ All vocabulary photos below use Wikimedia Commons sources with native longest ed
 
 ## Audio
 
-Audio is build-time en-US-JennyNeural speech, generated at -5% speed with edge-tts. It is synthetic, not human recording. Words play as words; sentence cards play the whole natural sentence. The slow control uses 0.8× playback. Images and audio are bundled in separate topic media chunks and precached for offline playback after an initial successful installation.
+All playback now uses prerecorded en-US-JennyNeural speech, generated at -5% speed with edge-tts. It is synthetic, not a human recording. Existing 23 fruit recordings remain unchanged. The other 43 words and all 48 sentences are generated into ignored public/audio files at build time. Only the generation script and text/filename manifest are committed; new MP3 files are never uploaded to the public git repository. The generated files are included in the publicly accessible Pages deployment, and precached for offline playback. This separates audio distribution from source control; it does not make deployed audio private.
+
+Run `python3 -m pip install edge-tts==7.2.8`, then `npm run audio:generate` before `npm run build`. CI performs these steps and caches generated recordings. Filenames include the voice, rate and text hash; changing text generates a new file rather than replaying a stale cached sentence. The build checks MP3 headers, nonempty files and manifest hashes, and fails on missing audio instead of silently switching to device speech. Local generation and playback have been verified; CI generation still needs to be verified on the next deployment. Long recordings finish before the automatic next-card timer runs. Slow replay remains 0.8× with the browser's pitch-preserving playback.
 
 ## Progress
 
 Each topic persists its own cursor, order, batch start, favorites and review round in IndexedDB. Additions append to existing queues rather than reset progress. Switching topics restores the saved position, and favorites combine all topics. Earlier expression cards and their learning records remain preserved.
 
-## Publication audio adjustment
-Existing 23 fruit recordings are reused from the already-public visualAssets.json unchanged. No new audio is uploaded. The 43 added words and 24 sentences use device English speech synthesis with normal/slow replay and a visible device-voice note. Voice quality depends on the device.
+## Design revision in progress
+The user selected the third concept: cream, olive and open typography. The redesigned screen has passed browser QA at 390px and 320px. Basic and advanced sentence decks have separate theme keys, so switching difficulty keeps their progress independent. The first load after this upgrade opens an advanced sentence deck without deleting old progress or favorites. Later topic and difficulty choices remain persistent. Publication is pending deployment verification.

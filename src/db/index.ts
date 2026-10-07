@@ -114,10 +114,18 @@ export async function clearProgress() {
 
 export interface VisualSession { order: string[]; cursor: number; batchStart: number; favorites: string[]; round: number }
 
-export type VisualTheme = 'fruits' | 'vegetables' | 'kitchen' | 'buffet' | 'cafe' | 'outing' | 'everyday'
+export type VisualTheme = 'fruits' | 'vegetables' | 'kitchen' | 'buffet' | 'cafe' | 'outing' | 'everyday' | 'buffet-advanced' | 'cafe-advanced' | 'outing-advanced' | 'everyday-advanced'
 export async function getVisualTheme(): Promise<VisualTheme> {
-  const value = await (await dbPromise).get('visualSessions', 'active-topic')
-  return ['fruits', 'vegetables', 'kitchen', 'buffet', 'cafe', 'outing', 'everyday'].includes(value) ? value as VisualTheme : 'fruits'
+  const db = await dbPromise
+  let value = await db.get('visualSessions', 'active-topic')
+  // Open the upgraded experience at the learner's requested level once, while
+  // retaining all previous decks and honoring choices made after this upgrade.
+  if (!await db.get('visualSessions', 'experience-v2')) {
+    value = ['buffet', 'cafe', 'outing', 'everyday'].includes(value) ? `${value}-advanced` : 'everyday-advanced'
+    await db.put('visualSessions', value, 'active-topic')
+    await db.put('visualSessions', true, 'experience-v2')
+  }
+  return ['fruits', 'vegetables', 'kitchen', 'buffet', 'cafe', 'outing', 'everyday', 'buffet-advanced', 'cafe-advanced', 'outing-advanced', 'everyday-advanced'].includes(value) ? value as VisualTheme : 'everyday-advanced'
 }
 export async function getVisualFavorites(): Promise<string[]> {
   const records = await (await dbPromise).getAll('visualSessions')

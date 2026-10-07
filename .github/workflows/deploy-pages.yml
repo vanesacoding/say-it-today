@@ -24,6 +24,16 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install edge-tts==7.2.8
+      - uses: actions/cache@v4
+        with:
+          path: public/audio
+          key: jenny-v1-${{ hashFiles('src/data/vocabulary.json', 'src/data/sentences.json', 'src/data/advanced-sentences.json', 'scripts/generate-audio.py') }}
+          restore-keys: jenny-v1-
+      - run: npm run audio:generate
       - run: npm run check
       - run: npm run build
         env:
