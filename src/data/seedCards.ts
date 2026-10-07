@@ -78,22 +78,22 @@ const lifeCards: Card[] = Object.entries(groups).flatMap(([scene, cards]) => car
 type TargetSeed = [track: '商务英语' | '日常进阶', cn: string, sentence: string, question: string, answer: string, options: string[], expression: string, explanation: string, wrong: string, alternative: string]
 
 const targetData: TargetSeed[] = [
-  ['商务英语', '我们先统一一下优先事项。', "Let's align on our priorities first.", "Let's ____ our priorities first.", 'align on', ['align on', 'agree to', 'line up at', 'match with'], 'align on', 'align on 表示团队就目标、范围或优先级达成共同理解，比 agree 更强调对齐认知。', "Let's align our priorities first.", "Let's make sure we're aligned on priorities."],
-  ['日常进阶', '这事我完全忘了。', 'It completely slipped my mind.', 'It completely ____ my mind.', 'slipped', ['slipped', 'escaped from', 'missed', 'forgot through'], 'slip your mind', 'slip your mind 是自然口语，表示一时忘记某事。', 'It slipped from my mind.', 'It totally slipped my mind.'],
-  ['商务英语', '我想提出一个顾虑。', "I'd like to flag a concern.", "I'd like to ____ a concern.", 'flag', ['flag', 'mark out', 'raise up', 'signal to'], 'flag a concern', 'flag 在商务语境中表示把问题提出来供大家注意，语气直接但不冒犯。', "I'd like to flag up a concern to you.", "There is one concern I'd like to raise."],
-  ['日常进阶', '这不太合我的口味。', "It's not quite my thing.", "It's not quite ____.", 'my thing', ['my thing', 'for my taste of', 'my style thing', 'to my liking it'], 'not quite my thing', '委婉表达自己不喜欢某种活动、风格或选择，比 I hate it 更得体。', "It's not my cup.", "It's not really for me."],
-  ['商务英语', '我们需要管理好客户的预期。', "We need to manage the client's expectations.", 'We need to ____ the client\'s expectations.', 'manage', ['manage', 'control on', 'handle with', 'reduce down'], 'manage expectations', 'manage expectations 指提前说明现实范围、时间或结果，避免对方产生不切实际的期待。', "We need to control the client's expectations.", "We should set realistic expectations with the client."],
+  ['商务英语', '我们先统一一下优先事项。', "Let's align on our priorities first.", "Let's ____ our priorities first.", 'align on', ['align on', 'agree to', 'line up at', 'match with'], 'align on', 'align on 表示团队就目标、范围或优先级达成共同理解，比 agree 更强调对齐认知。align our priorities 也可以成立，但更侧重协调优先事项本身。', "Let's align on to our priorities first.", "Let's make sure we're aligned on priorities."],
+  ['日常进阶', '这事我完全忘了。', 'It completely slipped my mind.', 'It completely ____ my mind.', 'slipped', ['slipped', 'passed', 'missed', 'left'], 'slip your mind', 'slip your mind 是自然口语，表示一时忘记某事。', 'It slipped from my mind.', 'It totally slipped my mind.'],
+  ['商务英语', '我想提出一个顾虑。', "I'd like to flag a concern.", "I'd like to ____ a concern.", 'flag', ['flag', 'mark out', 'raise up', 'signal to'], 'flag a concern', 'flag 在商务语境中表示把问题提出来供大家注意，语气直接但不冒犯。', "I'd like to flag to a concern.", "There is one concern I'd like to raise."],
+  ['日常进阶', '这不太合我的口味。', "It's not quite my thing.", "It's not quite ____.", 'my thing', ['my thing', 'my liking', 'my preference for', 'to my taste of'], 'not quite my thing', '委婉表达自己不喜欢某种活动、风格或选择，比 I hate it 更得体。', "It's not my cup.", "It's not really for me."],
+  ['商务英语', '我们需要管理好客户的预期。', "We need to manage the client's expectations.", 'We need to ____ the client\'s expectations.', 'manage', ['manage', 'control on', 'handle with', 'reduce down'], 'manage expectations', 'manage expectations 指提前说明现实范围、时间或结果，避免对方产生不切实际的期待。', "We need to manage with the client's expectations.", "We should set realistic expectations with the client."],
   ['日常进阶', '这个消息让我措手不及。', 'The news caught me off guard.', 'The news caught me ____.', 'off guard', ['off guard', 'without guard', 'by surprise of', 'unready'], 'catch someone off guard', '表示突发情况让人没有心理准备，常用于消息、问题或反应。', 'The news caught me unpreparedly.', 'I was taken aback by the news.'],
   ['商务英语', '这个问题我们会后单独聊。', "Let's take this offline.", "Let's take this ____.", 'offline', ['offline', 'outside', 'afterward meeting', 'privately out'], 'take this offline', '会议中表示把偏题或需要深入讨论的问题留到会后小范围处理。', "Let's discuss this out of the meeting.", "Let's follow up on this after the meeting."],
-  ['日常进阶', '我还在犹豫。', "I'm still on the fence.", "I'm still ____.", 'on the fence', ['on the fence', 'in two minds of', 'between choices', 'not decided yetly'], 'on the fence', '表示尚未决定、两边都在考虑；比 I don’t know 更准确。', "I'm still on a fence.", "I haven't made up my mind yet."],
+  ['日常进阶', '我还在犹豫。', "I'm still on the fence.", "I'm still ____.", 'on the fence', ['on the fence', 'in the fence', 'at the fence', 'over the fence'], 'on the fence', '表示尚未决定、两边都在考虑；比 I don’t know 更准确。', "I'm still on a fence.", "I haven't made up my mind yet."],
   ['商务英语', '请随时同步给相关方。', 'Please keep the stakeholders in the loop.', 'Please keep the stakeholders ____.', 'in the loop', ['in the loop', 'on the line', 'inside information', 'updated with it'], 'keep someone in the loop', '表示持续让相关人员掌握进展，是项目协作中的高频表达。', 'Please keep the stakeholders on the loop.', 'Please keep everyone updated.'],
-  ['日常进阶', '我特意绕道去帮她。', 'I went out of my way to help her.', 'I ____ to help her.', 'went out of my way', ['went out of my way', 'went by my way', 'made an extra road', 'went beyond me'], 'go out of your way', '表示付出额外努力做某事，通常强调体贴或不嫌麻烦。', 'I went out from my way to help her.', 'I made a special effort to help her.'],
+  ['日常进阶', '我特意多花了些力气去帮她。', 'I went out of my way to help her.', 'I ____ to help her.', 'went out of my way', ['went out of my way', 'went by my way', 'made an extra road', 'went beyond me'], 'go out of your way', '表示付出额外努力做某事，通常强调体贴或不嫌麻烦。', 'I went out from my way to help her.', 'I made a special effort to help her.'],
   ['商务英语', '目前的时间表只是暂定。', 'The timeline is tentative at this stage.', 'The timeline is ____ at this stage.', 'tentative', ['tentative', 'temporary planned', 'uncertainly', 'roughly decided'], 'tentative', 'tentative 表示尚未最终确认、之后可能调整，适合计划、日期和协议。', 'The timeline is tentatively at this stage.', 'The timeline is still provisional.'],
   ['日常进阶', '你得听懂他的言外之意。', 'You have to read between the lines.', 'You have to read ____.', 'between the lines', ['between the lines', 'behind his words', 'inside the sentence', 'through the meanings'], 'read between the lines', '表示从没有明说的话中理解真实含义或态度。', 'You have to read behind the lines.', 'Pay attention to what he is implying.'],
   ['商务英语', '我想进一步确认一下具体范围。', "I'd like to get more clarity on the scope.", "I'd like to get more ____ on the scope.", 'clarity', ['clarity', 'clear', 'clarification about of', 'details clear'], 'get clarity on', 'get clarity on 用于礼貌地要求把范围、职责或要求说得更明确。', "I'd like to get more clear on the scope.", "Could we clarify the scope a little further?"],
   ['日常进阶', '先往好处想，别急着下结论。', "Let's give her the benefit of the doubt.", "Let's give her ____.", 'the benefit of the doubt', ['the benefit of the doubt', 'a positive doubt', 'the good assumption', 'some trust benefit'], 'give someone the benefit of the doubt', '在证据不足时暂且相信对方没有恶意或有合理解释。', "Let's give her a benefit of doubt.", "Let's not jump to conclusions."],
   ['商务英语', '这项方案需要得到高层支持。', 'We need executive buy-in for this proposal.', 'We need executive ____ for this proposal.', 'buy-in', ['buy-in', 'approval from', 'supporting in', 'agreement of'], 'executive buy-in', 'buy-in 不只是批准，还包含关键人员真正认同并愿意支持执行。', 'We need executives buy in this proposal.', 'We need senior leadership to back this proposal.'],
-  ['日常进阶', '这让我重新看清了事情的轻重。', 'That really put things into perspective.', 'That really put things ____.', 'into perspective', ['into perspective', 'in perspective view', 'to the right scale', 'under context'], 'put things into perspective', '表示一件事帮助自己更客观地判断问题的重要性或全貌。', 'That put the things in perspective.', 'That helped me see the bigger picture.']
+  ['日常进阶', '这让我重新看清了事情的轻重。', 'That really put things into perspective.', 'That really put things ____.', 'into perspective', ['into perspective', 'in perspective view', 'to the right scale', 'under context'], 'put things into perspective', '表示一件事帮助自己更客观地判断问题的重要性或全貌。', 'That really put things into perspectively.', 'That helped me see the bigger picture.']
 ]
 
 const targetPhonetics = [
@@ -106,7 +106,7 @@ const targetPhonetics = [
 const targetCards: Card[] = targetData.map(([track, cn, sentence, question, answer, options, expression, explanation, wrongExample, alternative], index) => ({
   id: `seed-target-${index + 1}`, cn, sentence, question, answer, options, expression, explanation, wrongExample,
   correctExample: sentence, alternatives: [alternative], scene: track === '商务英语' ? 'work' : 'chat', tags: [track, expression], theme: track,
-  phonetic: targetPhonetics[index], image: `${import.meta.env.BASE_URL}images/advanced/${index + 1}.webp`,
+  phonetic: targetPhonetics[index], image: `${(import.meta.env?.BASE_URL ?? '/')}images/advanced/${index + 1}.webp`,
   difficulty: 'challenging', source: 'seed', createdAt: '2026-09-30T00:00:00.000Z', favorite: false, status: 'new', reviewInterval: 0,
   nextReviewAt: null, correctCount: 0, wrongCount: 0, lastReviewedAt: null
 }))
@@ -124,7 +124,7 @@ const personalityCards: Card[] = personalityData.map(([cn, sentence, question, a
   id: `seed-personality-${index + 1}`,
   cn: `他/她有点${cn}。`, sentence, question, answer, options: [...options], expression, explanation, wrongExample,
   correctExample: sentence, alternatives: [], scene: 'chat', tags: ['人物性格', cn], theme: '描述人物性格',
-  image: `${import.meta.env.BASE_URL}images/personality/${image}`, difficulty: 'daily', source: 'seed', createdAt: '2026-09-30T00:00:00.000Z',
+  image: `${(import.meta.env?.BASE_URL ?? '/')}images/personality/${image}`, difficulty: 'daily', source: 'seed', createdAt: '2026-09-30T00:00:00.000Z',
   favorite: false, status: 'new', reviewInterval: 0, nextReviewAt: null, correctCount: 0, wrongCount: 0, lastReviewedAt: null
 }))
 

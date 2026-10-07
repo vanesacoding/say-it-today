@@ -40,14 +40,25 @@ export interface Settings {
   difficulty: Difficulty
   autoPlay: boolean
   showChinese: boolean
+  timedChallenge?: boolean
+}
+
+export interface DailyPlan {
+  date: string
+  cardIds: string[]
+  completedIds: string[]
+  reviewIds: string[]
+  practiceDraft: string
+  practiceDone: boolean
 }
 
 export const defaultSettings: Settings = {
-  newPerDay: 8,
-  reviewPerDay: 8,
+  newPerDay: 3,
+  reviewPerDay: 2,
   accent: 'en-US',
   goal: '商务英语与日常进阶',
   difficulty: 'challenging',
   autoPlay: false,
-  showChinese: true
+  showChinese: true,
+  timedChallenge: false
 }
