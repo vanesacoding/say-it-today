@@ -1,38 +1,31 @@
-# Visual quiz design QA
+# Vocabulary and scene-sentence QA
 
-Source: uploaded 1000045314.mp4, frame at 5 seconds, learning region x=0,y=483,w=720,h=407. Source frame /tmp/video-reference/frame.png.
-Implementation: /workspace/scratch/say-it-today-visual-qa-final.jpg, browser-rendered local preview at http://terminal.local:4173/.
-Viewport: 1363 × 936 CSS pixels, 1× screenshot density. Existing responsive PWA main column is 440px wide; learning stage is 396 × 416px. Source learning region normalized proportionally to 396 × 224px. Comparison: /tmp/video-reference/comparison.jpg.
-State: first fruit (jackfruit), revealed, playback paused.
+Reference: uploaded 01-1000045315.mp4, 18.33 seconds, 720×1562. Contact sheet sampled every three seconds and visually inspected. The reference uses scenario illustrations, Chinese meaning, a sentence with a missing expression, a countdown, and a revealed highlighted answer. The app adapts this learning mechanism into its existing simple portrait card flow.
 
-## Findings
-No actionable P0/P1/P2 findings within the agreed adaptation: the video's learning mechanism and teal picture stage are used in the existing portrait PWA, rather than reproducing its surrounding video-player interface.
+## Content and imagery
 
-- Typography: system sans font, 21px question, 27px answer, 14px Chinese and 13px IPA. Reduced answer size responds to the user's oversized-font feedback. Text fits without truncation.
-- Layout: same question → real fruit → Chinese/English/IPA sequence, plus countdown line. Intentional taller portrait layout with larger identifiable fruit. Controls fit within the tested viewport. Small-width CSS reduces image and spacing.
-- Colors: teal learning background, white answer and white circular image field match the reference direction. Warm existing app canvas and green controls are preserved.
-- Imagery: jackfruit is the supplied reference fruit cropped before Chinese text appears; image loads at 232px natural width. Remaining 22 actual fruit photographs visually checked in a contact sheet for matching labels. No decorative unrelated photography.
-- Copy: What is this?, matching fruit labels and pronunciation, one optional-looking sample sentence. The main flow has no choice options, grading gate, settings page or practice form.
+- 66 distinct words: 23 fruits, 23 vegetables, 20 kitchen objects.
+- 24 full sentences: six each for buffet, cafe, travel/check-in, and everyday conversation. Each has a Chinese meaning, blank prompt, key expression, pronunciation and concise usage note.
+- All 66 vocabulary photos replaced with Wikimedia Commons images; source native longest dimension is at least 640px. WebP output is 640×640, preserving aspect ratio with padding. Source author/license links are available in each card and docs/visual-assets.md.
+- All photos inspected in a contact sheet. Orchard-only apricot, leafy fig, mixed-kiwi collage, small whisk/pan and unsuitable ladle sources were replaced. Rounded-square photo field preserves the complete subject.
+- Sentence scenes use four original SVG cues: buffet counter, coffee cup, transport, conversation. They remain sharp at every display density.
+- 90 prerecorded MP3 files decoded with ffprobe; all under the five-second reveal interval. Speech is neural synthesis, not human narration.
 
-## Interaction evidence
-Browser: start, pause, early reveal, replay pronunciation and reveal screen checked; image load verified; no application console errors (browser-extension metadata errors excluded).
-React/IndexedDB checks: 5-second reveal, paused clock, automatic next, normal/slow audio, favorite list, current-card reload, six-card completion, next fresh batch, prior expression favorites and learning counters preserved.
-Audio: 23 MP3s decoded with ffprobe, each between 0.2 and 5 seconds. Pre-generated neural voice; not human narration. All bundled in visualAssets.json and included in the offline-cached application bundle.
-Build: npm run check and VITE_BASE_PATH=/say-it-today/ npm run build passed.
+## Browser evidence
 
-## Comparison history
-Initial source and revealed implementation combined in the same comparison image. No visual P0/P1/P2 fixes required. Browser screenshot captures were repeated after repaint to obtain the matching revealed state; stale pre-reveal frames were excluded.
+Local preview checked in Chrome at http://terminal.local:4173/, viewport 1363×936. The main column is 440px wide. Revealed vocabulary and sentence cards were captured and visually inspected. Typography remains compact: 20px title, 27px word, 23px sentence, 13–16px supporting text.
 
-## Follow-up polish
-P3: the open-source fruit photographs are low-resolution training photos. Higher-resolution product photography would improve sharpness on larger displays.
-Residual gap: physical iOS/Android audio autoplay policy was not tested. Explicit “听发音” replay is available if the browser rejects automatic playback.
+Verified vocabulary start/pause/reveal, topic picker, sentence blank before reveal, highlighted key expression after reveal, playback controls and sentence favorite list. No application console errors were observed; extension metadata errors originate outside the app.
 
-## Implementation checklist
-- [x] Reference captured and viewed
-- [x] Implementation captured and viewed
-- [x] Combined full learning-region comparison
-- [x] Focused fruit, label and IPA inspected at readable scale
-- [x] Core flow and persistence checked
-- [x] Browser console checked
+## Automated validation
 
-final result: passed
+npm run check covers hidden answers, five-second reveal, pause/resume, audio source and slow rate, favorites, automatic advance, refresh recovery, six-card completion, unseen next batch, old expression favorites/counters, separate topic progress, cross-mode favorites and append-only deck expansion.
+
+VITE_BASE_PATH=/say-it-today/ npm run build validates TypeScript and production bundling. Topic media chunks are separately precached and remain below Workbox's 2MiB individual-file limit.
+
+## Remaining verification limits
+
+Physical iOS/Android autoplay and installation were not tested. Explicit replay remains available if automatic audio is rejected by the browser. Small-screen CSS exists, but this report does not claim a physical-device test. Offline readiness was checked through generated precache coverage; airplane-mode behavior was not separately exercised.
+
+## Publication audio adjustment
+Existing 23 fruit recordings are reused from the already-public visualAssets.json unchanged. No new audio is uploaded. The 43 added words and 24 sentences use device English speech synthesis with normal/slow replay and a visible device-voice note. Voice quality depends on the device.

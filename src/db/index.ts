@@ -113,14 +113,33 @@ export async function clearProgress() {
 }
 
 export interface VisualSession { order: string[]; cursor: number; batchStart: number; favorites: string[]; round: number }
-export async function getVisualSession(ids: string[]): Promise<VisualSession> {
+
+export type VisualTheme = 'fruits' | 'vegetables' | 'kitchen' | 'buffet' | 'cafe' | 'outing' | 'everyday'
+export async function getVisualTheme(): Promise<VisualTheme> {
+  const value = await (await dbPromise).get('visualSessions', 'active-topic')
+  return ['fruits', 'vegetables', 'kitchen', 'buffet', 'cafe', 'outing', 'everyday'].includes(value) ? value as VisualTheme : 'fruits'
+}
+export async function getVisualFavorites(): Promise<string[]> {
+  const records = await (await dbPromise).getAll('visualSessions')
+  return [...new Set(records.flatMap((record) => Array.isArray(record?.favorites) ? record.favorites : []))]
+}
+export async function getVisualSession(ids: string[], theme: VisualTheme = 'fruits'): Promise<VisualSession> {
   const db = await dbPromise
-  const saved = await db.get('visualSessions', 'fruits') as VisualSession | undefined
-  if (saved && saved.order.length === ids.length && new Set(saved.order).size === ids.length && saved.order.every((id) => ids.includes(id)) && Number.isInteger(saved.cursor) && saved.cursor >= 0 && saved.cursor <= ids.length && Number.isInteger(saved.batchStart) && saved.batchStart <= saved.cursor && saved.batchStart >= 0 && Array.isArray(saved.favorites)) return saved
-  const session: VisualSession = { order: ids, cursor: 0, batchStart: 0, favorites: Array.isArray(saved?.favorites) ? saved.favorites.filter((id) => ids.includes(id)) : [], round: 1 }
-  await db.put('visualSessions', session, 'fruits')
+  const saved = await db.get('visualSessions', theme) as VisualSession | undefined
+  let session: VisualSession
+  if (saved && Array.isArray(saved.order) && new Set(saved.order).size === saved.order.length && Number.isInteger(saved.cursor) && saved.cursor >= 0 && saved.cursor <= saved.order.length && Number.isInteger(saved.batchStart) && saved.batchStart <= saved.cursor && saved.batchStart >= 0 && Array.isArray(saved.favorites)) {
+    // Reconcile additions/removals without replaying previously completed words.
+    const valid = new Set(ids)
+    const order = saved.order.filter((id) => valid.has(id))
+    session = { ...saved, order: [...order, ...ids.filter((id) => !order.includes(id))], cursor: saved.order.slice(0, saved.cursor).filter((id) => valid.has(id)).length, batchStart: saved.order.slice(0, saved.batchStart).filter((id) => valid.has(id)).length, favorites: saved.favorites.filter((id) => valid.has(id)), round: Number.isInteger(saved.round) && saved.round > 0 ? saved.round : 1 }
+  } else session = { order: ids, cursor: 0, batchStart: 0, favorites: Array.isArray(saved?.favorites) ? saved.favorites.filter((id) => ids.includes(id)) : [], round: 1 }
+  await db.put('visualSessions', session, theme)
   return session
 }
-export async function saveVisualSession(session: VisualSession) {
-  await (await dbPromise).put('visualSessions', session, 'fruits')
+export async function saveVisualSession(session: VisualSession, theme: VisualTheme = 'fruits') {
+  const tx = (await dbPromise).transaction('visualSessions', 'readwrite')
+  void tx.done.catch(() => {})
+  await tx.store.put(session, theme)
+  await tx.store.put(theme, 'active-topic')
+  await tx.done
 }

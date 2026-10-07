@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "jackfruit",
+    "word": "jackfruit",
+    "cn": "菠萝蜜",
+    "phonetic": "/ˈdʒæk.fruːt/",
+    "example": "Have you ever tried jackfruit?",
+    "theme": "fruits",
+    "level": "challenging",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Mullookkaaran",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Jackfruit_Flesh.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  {
+    "id": "dragon-fruit",
+    "word": "dragon fruit",
+    "cn": "火龙果",
+    "phonetic": "/ˈdræɡ.ən fruːt/",
+    "example": "This dragon fruit has white flesh.",
+    "theme": "fruits",
+    "level": "challenging",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "SMasters",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Pitaya_cross_section_ed2.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  {
+    "id": "lychee",
+    "word": "lychee",
+    "cn": "荔枝",
+    "phonetic": "/ˈliː.tʃiː/",
+    "example": "Peel the lychee before you eat it.",
+    "theme": "fruits",
+    "level": "challenging",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "B.navez",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Litchi_chinensis_fruits.JPG",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  },
+  {
+    "id": "mangosteen",
+    "word": "mangosteen",
+    "cn": "山竹",
+    "phonetic": "/ˈmæŋ.ɡə.stiːn/",
+    "example": "The mangosteen has a thick purple rind.",
+    "theme": "fruits",
+    "level": "challenging",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Ivar Leidus",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Mangosteens_-_whole_and_opened.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "rambutan",
+    "word": "rambutan",
+    "cn": "红毛丹",
+    "phonetic": "/ræmˈbuː.tən/",
+    "example": "Rambutan looks hairy on the outside.",
+    "theme": "fruits",
+    "level": "challenging",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Ivar Leidus",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Rambutans_with_seed.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "passion-fruit",
+    "word": "passion fruit",
+    "cn": "百香果",
+    "phonetic": "/ˈpæʃ.ən fruːt/",
+    "example": "Add some passion fruit to your yogurt.",
+    "theme": "fruits",
+    "level": "challenging",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Ivar Leidus",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Passion_fruits_-_whole_and_halved.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "papaya",
+    "word": "papaya",
+    "cn": "木瓜",
+    "phonetic": "/pəˈpaɪ.ə/",
+    "example": "Wait until the papaya is ripe.",
+    "theme": "fruits",
+    "level": "challenging",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Ivar Leidus",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Papaya_-_longitudinal_section.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "pomegranate",
+    "word": "pomegranate",
+    "cn": "石榴",
+    "phonetic": "/ˈpɑː.məˌɡræn.ɪt/",
+    "example": "Pomegranate seeds add a little crunch.",
+    "theme": "fruits",
+    "level": "challenging",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Ivar Leidus",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Pomegranate_fruit_-_whole_and_piece_with_arils.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "guava",
+    "word": "guava",
+    "cn": "番石榴",
+    "phonetic": "/ˈɡwɑː.və/",
+    "example": "Would you like some guava juice?",
+    "theme": "fruits",
+    "level": "challenging",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Ivar Leidus",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Guava_pink_fruit.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "avocado",
+    "word": "avocado",
+    "cn": "牛油果",
+    "phonetic": "/ˌæv.əˈkɑː.doʊ/",
+    "example": "Slice an avocado for the salad.",
+    "theme": "fruits",
+    "level": "daily",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "No machine-readable author provided. Marco.Finke~commonswiki assumed (based on copyright claims).",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Avocado.jpg",
+      "licenseUrl": ""
+    }
+  },
+  {
+    "id": "fig",
+    "word": "fig",
+    "cn": "无花果",
+    "phonetic": "/fɪɡ/",
+    "example": "Fresh figs are soft and sweet.",
+    "theme": "fruits",
+    "level": "challenging",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Ivar Leidus",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Fig_(Ficus_carica)_fruit_halved.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "persimmon",
+    "word": "persimmon",
+    "cn": "柿子",
+    "phonetic": "/pərˈsɪm.ən/",
+    "example": "This persimmon is still a little firm.",
+    "theme": "fruits",
+    "level": "challenging",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Frank Schulenburg",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Fuyu_persimmon_fruits,_one_cut_open.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "kumquat",
+    "word": "kumquat",
+    "cn": "金橘",
+    "phonetic": "/ˈkʌm.kwɑːt/",
+    "example": "You can eat the peel of a kumquat.",
+    "theme": "fruits",
+    "level": "challenging",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Ivar Leidus",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Kumquat_from_Spain.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "nectarine",
+    "word": "nectarine",
+    "cn": "油桃",
+    "phonetic": "/ˈnek.tə.riːn/",
+    "example": "A nectarine has smooth skin.",
+    "theme": "fruits",
+    "level": "challenging",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Fumikas Sagisavas",
+      "license": "CC0",
+      "url": "https://commons.wikimedia.org/wiki/File:Yellow_nectarines.jpg",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    }
+  },
+  {
+    "id": "apricot",
+    "word": "apricot",
+    "cn": "杏",
+    "phonetic": "/ˈeɪ.prɪ.kɑːt/",
+    "example": "I bought a bag of dried apricots.",
+    "theme": "fruits",
+    "level": "challenging",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Silverije",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Marelica_Ke%C4%8Dkemetska_ru%C5%BEa_-_zreli_plodovi_na_grani.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "grapefruit",
+    "word": "grapefruit",
+    "cn": "葡萄柚",
+    "phonetic": "/ˈɡreɪp.fruːt/",
+    "example": "This grapefruit tastes a little bitter.",
+    "theme": "fruits",
+    "level": "challenging",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Ivar Leidus",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Grapefruits_-_whole-halved-segments.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "quince",
+    "word": "quince",
+    "cn": "榅桲",
+    "phonetic": "/kwɪns/",
+    "example": "Quince is often cooked into jelly.",
+    "theme": "fruits",
+    "level": "challenging",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "DKrieger",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Quitten-0014.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  {
+    "id": "cantaloupe",
+    "word": "cantaloupe",
+    "cn": "甜瓜",
+    "phonetic": "/ˈkæn.tə.loʊp/",
+    "example": "Cut the cantaloupe into small pieces.",
+    "theme": "fruits",
+    "level": "challenging",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Renee Comet (Photographer)",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Cantaloupe.jpg",
+      "licenseUrl": ""
+    }
+  },
+  {
+    "id": "tamarillo",
+    "word": "tamarillo",
+    "cn": "树番茄",
+    "phonetic": "/ˌtæm.əˈrɪl.oʊ/",
+    "example": "Scoop out the flesh of the tamarillo.",
+    "theme": "fruits",
+    "level": "challenging",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "C T Johansson",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Solanum_betaceum-IMG_0242.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  {
+    "id": "salak",
+    "word": "salak",
+    "cn": "蛇皮果",
+    "phonetic": "/ˈsɑː.læk/",
+    "example": "Salak has a scaly brown skin.",
+    "theme": "fruits",
+    "level": "challenging",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Crisco 1492",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Salak_(Salacca_zalacca),_2015-05-17.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "kiwi",
+    "word": "kiwi",
+    "cn": "猕猴桃",
+    "phonetic": "/ˈkiː.wiː/",
+    "example": "A kiwi is green inside.",
+    "theme": "fruits",
+    "level": "daily",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Luc Viatour",
+      "license": "CC BY-SA 2.5",
+      "url": "https://commons.wikimedia.org/wiki/File:Kiwi_(Actinidia_chinensis)_1_Luc_Viatour.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5"
+    }
+  },
+  {
+    "id": "pineapple",
+    "word": "pineapple",
+    "cn": "菠萝",
+    "phonetic": "/ˈpaɪnˌæp.əl/",
+    "example": "This pineapple is really juicy.",
+    "theme": "fruits",
+    "level": "daily",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Suniltg at Malayalam Wikipedia",
+      "license": "CC BY 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E0%B4%95%E0%B5%88%E0%B4%A4%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%95%E0%B5%8D%E0%B4%95.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+    }
+  },
+  {
+    "id": "raspberry",
+    "word": "raspberry",
+    "cn": "树莓",
+    "phonetic": "/ˈræzˌber.i/",
+    "example": "Top the pancakes with raspberries.",
+    "theme": "fruits",
+    "level": "daily",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Ivar Leidus",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Raspberry_-_halved_(Rubus_idaeus).jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "artichoke",
+    "word": "artichoke",
+    "cn": "洋蓟",
+    "phonetic": "/ˈɑːr.tɪ.tʃoʊk/",
+    "example": "Steam the artichoke until the leaves are tender.",
+    "theme": "vegetables",
+    "level": "challenging",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Jamain",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Artichoke_J1.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  {
+    "id": "asparagus",
+    "word": "asparagus",
+    "cn": "芦笋",
+    "phonetic": "/əˈspær.ə.ɡəs/",
+    "example": "Trim the ends of the asparagus.",
+    "theme": "vegetables",
+    "level": "challenging",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Evan-Amos",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Asparagus-Bundle.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  {
+    "id": "beetroot",
+    "word": "beetroot",
+    "cn": "甜菜根",
+    "phonetic": "/ˈbiːt.ruːt/",
+    "example": "Roasted beetroot tastes sweet.",
+    "theme": "vegetables",
+    "level": "daily",
+    "partOfSpeech": "noun",
+    "aliases": [
+      "beet（美式）"
+    ],
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "BriannaWalther",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Detroitdarkredbeets.png",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  {
+    "id": "broccoli",
+    "word": "broccoli",
+    "cn": "西兰花",
+    "phonetic": "/ˈbrɑː.kə.li/",
+    "example": "Cut the broccoli into small florets.",
+    "theme": "vegetables",
+    "level": "daily",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "USDA  Lance Cheung",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Broccoli.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
+  },
+  {
+    "id": "cauliflower",
+    "word": "cauliflower",
+    "cn": "菜花",
+    "phonetic": "/ˈkɑː.ləˌflaʊ.ɚ/",
+    "example": "This soup is made with cauliflower.",
+    "theme": "vegetables",
+    "level": "daily",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Coyau",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Chou-fleur_02.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  {
+    "id": "celery",
+    "word": "celery",
+    "cn": "芹菜",
+    "phonetic": "/ˈsel.ɚ.i/",
+    "example": "Chop two stalks of celery.",
+    "theme": "vegetables",
+    "level": "daily",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Lombroso",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Celery_1.jpg",
+      "licenseUrl": ""
+    }
+  },
+  {
+    "id": "leek",
+    "word": "leek",
+    "cn": "韭葱",
+    "phonetic": "/liːk/",
+    "example": "Wash the leek carefully to remove the dirt.",
+    "theme": "vegetables",
+    "level": "challenging",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Amada44",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Leek_on_white_background_-_0947.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "radish",
+    "word": "radish",
+    "cn": "小萝卜",
+    "phonetic": "/ˈræd.ɪʃ/",
+    "example": "Slice the radishes thinly for the salad.",
+    "theme": "vegetables",
+    "level": "daily",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Self, en:User:Jengod",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Radish_3371103037_4ab07db0bf_o.jpg",
+      "licenseUrl": ""
+    }
+  },
+  {
+    "id": "turnip",
+    "word": "turnip",
+    "cn": "芜菁",
+    "phonetic": "/ˈtɝː.nɪp/",
+    "example": "Peel the turnip before cooking it.",
+    "theme": "vegetables",
+    "level": "challenging",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "thebittenword.com",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Turnip_2622027.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
+  },
+  {
+    "id": "cabbage",
+    "word": "cabbage",
+    "cn": "卷心菜",
+    "phonetic": "/ˈkæb.ɪdʒ/",
+    "example": "Shred the cabbage for the slaw.",
+    "theme": "vegetables",
+    "level": "daily",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Original photo by and (c)2007 NaJina McEnany. Photo prepared by User:Ram-Man. Used by permission.",
+      "license": "CC BY-SA 2.5",
+      "url": "https://commons.wikimedia.org/wiki/File:Cabbages_Green_and_Purple_2120px.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5"
+    }
+  },
+  {
+    "id": "eggplant",
+    "word": "eggplant",
+    "cn": "茄子",
+    "phonetic": "/ˈeɡ.plænt/",
+    "example": "Grill the eggplant with a little olive oil.",
+    "theme": "vegetables",
+    "level": "daily",
+    "partOfSpeech": "noun",
+    "aliases": [
+      "aubergine（英式）"
+    ],
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Joydeep",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Solanum_melongena_24_08_2012_(1).JPG",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  {
+    "id": "zucchini",
+    "word": "zucchini",
+    "cn": "西葫芦",
+    "phonetic": "/zuːˈkiː.ni/",
+    "example": "This zucchini is perfect for roasting.",
+    "theme": "vegetables",
+    "level": "daily",
+    "partOfSpeech": "noun",
+    "aliases": [
+      "courgette（英式）"
+    ],
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Evan-Amos",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:CSA-Striped-Zucchini.jpg",
+      "licenseUrl": ""
+    }
+  },
+  {
+    "id": "bell-pepper",
+    "word": "bell pepper",
+    "cn": "甜椒",
+    "phonetic": "/ˈbel ˌpep.ɚ/",
+    "example": "Remove the seeds from the bell pepper.",
+    "theme": "vegetables",
+    "level": "daily",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Kham Tran - www.khamtran.com",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Green-Yellow-Red-Pepper-2009.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  {
+    "id": "sweet-potato",
+    "word": "sweet potato",
+    "cn": "红薯",
+    "phonetic": "/ˌswiːt pəˈteɪ.toʊ/",
+    "example": "Bake the sweet potato until it is soft.",
+    "theme": "vegetables",
+    "level": "daily",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Llez",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Ipomoea_batatas_006.JPG",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  {
+    "id": "pumpkin",
+    "word": "pumpkin",
+    "cn": "南瓜",
+    "phonetic": "/ˈpʌmp.kɪn/",
+    "example": "I would like a bowl of pumpkin soup.",
+    "theme": "vegetables",
+    "level": "daily",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Infrogmation of New Orleans",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:FrenchMarketPumpkinsB.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  {
+    "id": "ginger",
+    "word": "ginger",
+    "cn": "生姜",
+    "phonetic": "/ˈdʒɪn.dʒɚ/",
+    "example": "Grate a small piece of fresh ginger.",
+    "theme": "vegetables",
+    "level": "daily",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Sanjay Acharya (Sanjay ach at en.wikipedia)",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Ginger_cross_section.jpg",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  },
+  {
+    "id": "garlic",
+    "word": "garlic",
+    "cn": "大蒜",
+    "phonetic": "/ˈɡɑːr.lɪk/",
+    "example": "Crush two cloves of garlic.",
+    "theme": "vegetables",
+    "level": "daily",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Ivar Leidus",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Garlic_bulbs_and_cloves.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "okra",
+    "word": "okra",
+    "cn": "秋葵",
+    "phonetic": "/ˈoʊ.krə/",
+    "example": "The okra becomes tender when cooked.",
+    "theme": "vegetables",
+    "level": "challenging",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Earth100",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Okra_Aug_25_2012.JPG",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  {
+    "id": "bok-choy",
+    "word": "bok choy",
+    "cn": "小白菜",
+    "phonetic": "/ˌbɑːk ˈtʃɔɪ/",
+    "example": "Stir-fry the bok choy with garlic.",
+    "theme": "vegetables",
+    "level": "daily",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "spurekar",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Bok_Choy_(49553125456).jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
+  },
+  {
+    "id": "brussels-sprout",
+    "word": "Brussels sprouts",
+    "cn": "抱子甘蓝",
+    "phonetic": "/ˌbrʌs.əlz ˈspraʊts/",
+    "example": "Roast the Brussels sprouts until golden.",
+    "theme": "vegetables",
+    "level": "daily",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Eric Hunt",
+      "license": "CC BY 2.5",
+      "url": "https://commons.wikimedia.org/wiki/File:Brussels_sprout_closeup.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5"
+    }
+  },
+  {
+    "id": "cucumber",
+    "word": "cucumber",
+    "cn": "黄瓜",
+    "phonetic": "/ˈkjuː.kʌm.bɚ/",
+    "example": "Add some cucumber slices to the sandwich.",
+    "theme": "vegetables",
+    "level": "daily",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Misiokk",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Cucumbers.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "carrot",
+    "word": "carrot",
+    "cn": "胡萝卜",
+    "phonetic": "/ˈkær.ət/",
+    "example": "Peel and chop the carrots.",
+    "theme": "vegetables",
+    "level": "daily",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Evan-Amos",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Vegetable-Carrot-Bundle-wStalks.jpg",
+      "licenseUrl": ""
+    }
+  },
+  {
+    "id": "onion",
+    "word": "onion",
+    "cn": "洋葱",
+    "phonetic": "/ˈʌn.jən/",
+    "example": "Dice the onion into small pieces.",
+    "theme": "vegetables",
+    "level": "daily",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Colin",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Mixed_onions.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  {
+    "id": "colander",
+    "word": "colander",
+    "cn": "滤水篮",
+    "phonetic": "/ˈkɑː.lən.dɚ/",
+    "example": "Drain the pasta in a colander.",
+    "theme": "kitchen",
+    "level": "challenging",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Wikimedia Commons",
+      "license": "CC0",
+      "url": "https://commons.wikimedia.org/wiki/File:Ge%C3%ABmailleerd_vergiet_-_INDUS_V08877.jpg",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    }
+  },
+  {
+    "id": "whisk",
+    "word": "whisk",
+    "cn": "打蛋器",
+    "phonetic": "/wɪsk/",
+    "example": "Beat the eggs with a whisk.",
+    "theme": "kitchen",
+    "level": "daily",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Sylt90",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Roesle_Schneebesen.JPG",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  {
+    "id": "spatula",
+    "word": "spatula",
+    "cn": "刮刀",
+    "phonetic": "/ˈspætʃ.ə.lə/",
+    "example": "Scrape the bowl with a spatula.",
+    "theme": "kitchen",
+    "level": "daily",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Micke",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Degskrapor.png",
+      "licenseUrl": ""
+    }
+  },
+  {
+    "id": "tongs",
+    "word": "tongs",
+    "cn": "食品夹",
+    "phonetic": "/tɑːŋz/",
+    "example": "Use the tongs to turn the chicken.",
+    "theme": "kitchen",
+    "level": "daily",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Sac86738 at English Wikipedia",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Kitchen-tongs.png",
+      "licenseUrl": ""
+    }
+  },
+  {
+    "id": "ladle",
+    "word": "ladle",
+    "cn": "汤勺",
+    "phonetic": "/ˈleɪ.dəl/",
+    "example": "Use a ladle to serve the soup.",
+    "theme": "kitchen",
+    "level": "challenging",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Marc-Lautenbacher",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Set_of_serving_ladles_on_stainless_kitchen_wall.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "peeler",
+    "word": "peeler",
+    "cn": "削皮器",
+    "phonetic": "/ˈpiː.lɚ/",
+    "example": "Remove the skin with a peeler.",
+    "theme": "kitchen",
+    "level": "daily",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Pengo",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Peeler_01_Pengo.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  {
+    "id": "grater",
+    "word": "grater",
+    "cn": "擦丝器",
+    "phonetic": "/ˈɡreɪ.t̬ɚ/",
+    "example": "Use a grater to shred the cheese.",
+    "theme": "kitchen",
+    "level": "daily",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Photograph:  Frank C. Müller, Baden-Baden",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Kuechenreibe_(fcm).jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "sieve",
+    "word": "sieve",
+    "cn": "筛网",
+    "phonetic": "/sɪv/",
+    "example": "Sift the flour through a sieve.",
+    "theme": "kitchen",
+    "level": "challenging",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Evan-Amos",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Kitchen-Strainer.jpg",
+      "licenseUrl": ""
+    }
+  },
+  {
+    "id": "corkscrew",
+    "word": "corkscrew",
+    "cn": "开瓶钻",
+    "phonetic": "/ˈkɔːrk.skruː/",
+    "example": "Open the wine with a corkscrew.",
+    "theme": "kitchen",
+    "level": "challenging",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Alvesgaspar",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Corkscrews_December_2014-1.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "rolling-pin",
+    "word": "rolling pin",
+    "cn": "擀面杖",
+    "phonetic": "/ˈroʊ.lɪŋ pɪn/",
+    "example": "Roll out the dough with a rolling pin.",
+    "theme": "kitchen",
+    "level": "daily",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Peter Kammer",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Rollingpin.jpg",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  },
+  {
+    "id": "cutting-board",
+    "word": "cutting board",
+    "cn": "砧板",
+    "phonetic": "/ˈkʌt̬.ɪŋ bɔːrd/",
+    "example": "Put the vegetables on the cutting board.",
+    "theme": "kitchen",
+    "level": "daily",
+    "partOfSpeech": "noun",
+    "aliases": [
+      "chopping board"
+    ],
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Donovan Govan.",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Chopping_Board.jpg",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  },
+  {
+    "id": "apron",
+    "word": "apron",
+    "cn": "围裙",
+    "phonetic": "/ˈeɪ.prən/",
+    "example": "Put on an apron before you start cooking.",
+    "theme": "kitchen",
+    "level": "daily",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "AllisonSmith21",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:CottonApron.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "kettle",
+    "word": "kettle",
+    "cn": "烧水壶",
+    "phonetic": "/ˈket̬.əl/",
+    "example": "Fill the kettle with fresh water.",
+    "theme": "kitchen",
+    "level": "daily",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Holger Ellgaard",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Bernadotte_Wasserkessel.jpg",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  },
+  {
+    "id": "frying-pan",
+    "word": "frying pan",
+    "cn": "平底煎锅",
+    "phonetic": "/ˈfraɪ.ɪŋ pæn/",
+    "example": "Heat a little oil in the frying pan.",
+    "theme": "kitchen",
+    "level": "daily",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Jim Stonos",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Stainless_Steel_Frying_Pan.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "saucepan",
+    "word": "saucepan",
+    "cn": "长柄深锅",
+    "phonetic": "/ˈsɔːs.pæn/",
+    "example": "Warm the milk in a small saucepan.",
+    "theme": "kitchen",
+    "level": "daily",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Erik Streb",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Kupferkasserolle_Stielkasserolle_16_cm_Casserole.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  {
+    "id": "measuring-cup",
+    "word": "measuring cup",
+    "cn": "量杯",
+    "phonetic": "/ˈmeʒ.ɚ.ɪŋ kʌp/",
+    "example": "Use a measuring cup for the milk.",
+    "theme": "kitchen",
+    "level": "daily",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "No machine-readable author provided. Batty~commonswiki assumed (based on copyright claims).",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Simple_Measuring_Cup.jpg",
+      "licenseUrl": ""
+    }
+  },
+  {
+    "id": "mortar-and-pestle",
+    "word": "mortar and pestle",
+    "cn": "研钵和研杵",
+    "phonetic": "/ˈmɔːr.t̬ɚ ənd ˈpes.əl/",
+    "example": "Crush the spices with a mortar and pestle.",
+    "theme": "kitchen",
+    "level": "challenging",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Evan-Amos",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:White-Mortar-and-Pestle.jpg",
+      "licenseUrl": ""
+    }
+  },
+  {
+    "id": "oven-mitt",
+    "word": "oven mitt",
+    "cn": "隔热手套",
+    "phonetic": "/ˈʌv.ən mɪt/",
+    "example": "Wear an oven mitt to handle the hot tray.",
+    "theme": "kitchen",
+    "level": "daily",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Masterclass",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Oven_gloves_in_use.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
+  },
+  {
+    "id": "baking-tray",
+    "word": "baking tray",
+    "cn": "烤盘",
+    "phonetic": "/ˈbeɪ.kɪŋ treɪ/",
+    "example": "Place the cookies on a baking tray.",
+    "theme": "kitchen",
+    "level": "daily",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Elleff Groom",
+      "license": "CC0",
+      "url": "https://commons.wikimedia.org/wiki/File:Altes_Backblech.JPG",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    }
+  },
+  {
+    "id": "slotted-spoon",
+    "word": "slotted spoon",
+    "cn": "漏勺",
+    "phonetic": "/ˈslɑː.t̬ɪd spuːn/",
+    "example": "Lift the dumplings out with a slotted spoon.",
+    "theme": "kitchen",
+    "level": "challenging",
+    "partOfSpeech": "noun",
+    "pictureFit": "contain",
+    "kind": "word",
+    "credit": {
+      "author": "Mfrisk",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Typical_slotted_spoons.JPG",
+      "licenseUrl": ""
+    }
+  }
+]

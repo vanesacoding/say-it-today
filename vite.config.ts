@@ -26,6 +26,12 @@ export default defineConfig(({ mode }) => {
   return {
     base: process.env.VITE_BASE_PATH || '/',
     server: { allowedHosts: ['terminal.local'] },
+    build: { rollupOptions: { output: { manualChunks(id) {
+      if (id.includes('/data/visualAssets.json')) return 'existing-fruit-recordings'
+      if (id.includes('/data/fruits-media.json')) return 'fruits-media'
+      if (id.includes('/data/vegetables-media.json')) return 'vegetables-media'
+      if (id.includes('/data/kitchen-media.json')) return 'kitchen-media'
+    } } } },
     plugins: [
     react(),
     localApi(),

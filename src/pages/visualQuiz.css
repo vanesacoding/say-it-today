@@ -11,7 +11,7 @@ body { margin: 0; background: #f5f0e8; }
 .visual-progress { display: flex; justify-content: space-between; color: #64746d; font-size: 12px; margin-bottom: 12px; }
 .picture-stage { padding: 26px 22px 24px; background: #20777a; color: #fff; border-radius: 8px; text-align: center; }
 .picture-question { font-size: 21px; margin: 0 0 24px; line-height: 1.3; }
-.fruit-photo { width: 178px; height: 178px; border-radius: 50%; overflow: hidden; background: white; margin: 0 auto; display: grid; place-items: center; }
+.fruit-photo { width: 192px; height: 192px; border-radius: 12px; overflow: hidden; background: white; margin: 0 auto; display: grid; place-items: center; }
 .fruit-photo img { display: block; width: 100%; height: 100%; object-fit: contain; }
 .word-reveal { min-height: 113px; display: flex; flex-direction: column; justify-content: center; padding-top: 16px; }
 .visual-app .word-reveal h2 { font-size: 27px; line-height: 1.2; font-weight: 650; margin: 5px 0 7px; letter-spacing: 0; }
@@ -49,3 +49,18 @@ body { margin: 0; background: #f5f0e8; }
 .visual-favorites button { font-size: 12px; color: #426352; background: transparent; padding: 0 5px; }
 @media (max-width: 360px) { .visual-app { padding: 18px 16px; } .visual-header { margin-bottom: 20px; } .fruit-photo { width: 155px; height: 155px; } .picture-stage { padding: 22px 16px 18px; } .visual-app h1 { font-size: 18px; } }
 @media (prefers-reduced-motion: reduce) { .picture-timer span { transition: none; } }
+
+.topic-picker { display: flex; justify-content: space-between; align-items: center; margin: -9px 0 18px; font-size: 12px; color: #5b7166; }
+.topic-picker select { max-width: 220px; min-height: 42px; padding: 8px 10px; background: #eeeee5; border: 1px solid #d1d9ce; border-radius: 6px; color: #315d50; font: inherit; font-size: 13px; }
+.word-alias { font-size: 12px; text-align: center; color: #637769; margin: 6px 0; }
+.image-credit { font-size: 10px; text-align: center; color: #718276; margin: 6px 0 0; overflow-wrap: anywhere; line-height: 1.5; }
+.image-credit summary { cursor: pointer; padding: 5px; }
+.image-credit a { color: #527060; }
+.sentence-stage { background: #386b63; padding-top: 22px; }
+.scene-art { width: 210px; height: 105px; margin: 0 auto 22px; color: #dbebe0; }
+.scene-art svg { width: 100%; height: 100%; }
+.sentence-cn { font-size: 16px; line-height: 1.7; margin: 0 0 17px; }
+.visual-app .sentence-prompt { font-size: 23px; line-height: 1.55; font-weight: 550; min-height: 72px; margin: 0; overflow-wrap: anywhere; }
+.sentence-prompt strong { color: #ffdbbc; font-weight: 650; }
+.sentence-stage .word-reveal { min-height: 60px; padding-top: 12px; }
+.topic-picker select:focus-visible { outline: 3px solid #b25770; outline-offset: 3px; }
