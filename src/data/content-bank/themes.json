@@ -1,0 +1,28 @@
+[
+  { "id": "school-communication", "name": "家校沟通", "track": "daily-life", "description": "与老师沟通孩子表现、作业、同伴关系和学校安排" },
+  { "id": "family-routines", "name": "家庭安排", "track": "daily-life", "description": "接送、家务、作息、临时变动和家庭分工" },
+  { "id": "parenting-moments", "name": "亲子沟通", "track": "daily-life", "description": "鼓励、提醒、设边界、处理情绪和共同解决问题" },
+  { "id": "health-appointments", "name": "健康与就医", "track": "daily-life", "description": "描述症状、预约、问诊、用药和复查" },
+  { "id": "shopping-services", "name": "购物与售后", "track": "daily-life", "description": "选购、尺码、退换、维修、配送和投诉" },
+  { "id": "food-hosting", "name": "餐饮与做客", "track": "daily-life", "description": "点餐、饮食偏好、过敏、招待和礼貌回应" },
+  { "id": "travel-transport", "name": "出行与交通", "track": "daily-life", "description": "问路、打车、航班、住宿和行程变化" },
+  { "id": "neighborhood-community", "name": "邻里与社区", "track": "daily-life", "description": "邻里寒暄、社区活动、求助、提醒和公共空间" },
+  { "id": "emotions-personality", "name": "情绪与性格", "track": "daily-life", "description": "准确描述人物性格、当下感受和行为特点" },
+
+  { "id": "meetings-facilitation", "name": "会议推进", "track": "business", "description": "开场、聚焦、打断、总结和安排后续" },
+  { "id": "projects-progress", "name": "项目与进度", "track": "business", "description": "同步进展、说明阻碍、分配责任和跟进交付" },
+  { "id": "priorities-deadlines", "name": "优先级与截止期", "track": "business", "description": "排优先级、争取时间、调整范围和管理预期" },
+  { "id": "stakeholder-clients", "name": "客户与相关方", "track": "business", "description": "确认需求、维护关系、同步风险和争取支持" },
+  { "id": "feedback-disagreement", "name": "反馈与分歧", "track": "business", "description": "提出顾虑、礼貌反对、给反馈和寻找共识" },
+  { "id": "presentations-updates", "name": "汇报与表达", "track": "business", "description": "陈述观点、解释数据、突出重点和回答问题" },
+  { "id": "email-messaging", "name": "邮件与即时沟通", "track": "business", "description": "催办、确认、澄清、提醒和专业收尾" },
+
+  { "id": "opinions-reasons", "name": "观点与理由", "track": "advanced-daily", "description": "表达立场、补充理由、保留意见和改变看法" },
+  { "id": "polite-boundaries", "name": "礼貌拒绝与边界", "track": "advanced-daily", "description": "拒绝邀请、提出边界、争取空间和避免冒犯" },
+  { "id": "small-talk-connection", "name": "寒暄与建立连接", "track": "advanced-daily", "description": "自然开启、延续和结束轻松对话" },
+  { "id": "problems-complaints", "name": "问题与投诉", "track": "advanced-daily", "description": "说明问题、表达不满、提出补救而不过度强硬" },
+  { "id": "plans-decisions", "name": "计划与决定", "track": "advanced-daily", "description": "权衡选择、表达犹豫、做决定和调整计划" },
+  { "id": "social-nuance", "name": "社交分寸", "track": "advanced-daily", "description": "理解言外之意、缓和语气、避免误会和体面回应" },
+  { "id": "digital-life", "name": "数字生活", "track": "advanced-daily", "description": "群聊、视频会议、社交媒体、隐私和线上协作" },
+  { "id": "learning-growth", "name": "学习与成长", "track": "advanced-daily", "description": "谈学习方法、习惯、复盘、自信和持续进步" }
+]
