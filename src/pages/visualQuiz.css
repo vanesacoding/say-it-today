@@ -45,9 +45,6 @@ body { margin: 0; background: var(--paper); color: var(--ink); }
 .visual-tip { text-align: center; font-size: 12px; color: var(--muted); margin: 11px 0 31px; }
 .word-tools { display: flex; align-items: center; gap: 19px; padding-bottom: 22px; }
 .word-tools button { background: transparent; color: var(--olive); padding: 0; font-size: 13px; }
-.listen-button { gap: 12px; }
-.listen-button > span { display: grid; place-items: center; width: 40px; height: 40px; border-radius: 50%; background: var(--olive); color: white; }
-.word-tools .slow-button { padding: 0 13px; min-height: 32px; background: #eeece3; border-radius: 20px; font-size: 12px; }
 .favorite-button { margin-left: auto; width: 44px; }
 .usage-note { border-top: 1px solid var(--line); padding-top: 16px; }
 .usage-note > p { display: flex; flex-wrap: wrap; gap: 6px 12px; margin: 0 0 4px; font-size: 13px; line-height: 1.7; }
@@ -61,7 +58,7 @@ body { margin: 0; background: var(--paper); color: var(--ink); }
 .follow-up[open] ~ .image-credit { margin-top: 10px; }
 .image-credit { font-size: 10px; color: #858b7d; overflow-wrap: anywhere; }
 .image-credit a { color: #727f66; line-height: 1.7; }
-.audio-note, .visual-error { font-size: 12px; line-height: 1.7; color: #9d4c38; }
+.visual-error { font-size: 12px; line-height: 1.7; color: #9d4c38; }
 .visual-controls { padding-top: 25px; }
 .visual-primary { width: 100%; background: var(--olive); color: white; border-radius: 8px; padding: 13px 20px; min-height: 51px !important; gap: 18px; font-size: 15px !important; font-weight: 500; }
 .play-options { display: flex; justify-content: center; align-items: center; gap: 22px; min-height: 44px; margin-top: 8px; font-size: 11px; color: #7a8470; }

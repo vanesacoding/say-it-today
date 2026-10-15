@@ -2,29 +2,19 @@ import type { VisualTheme } from '../db'
 import vocabulary from './vocabulary.json'
 import sentences from './sentences.json'
 import advancedSentences from './advanced-sentences.json'
-import neuralAudio from './neural-audio.json'
 import fruits from './fruits-media.json'
 import vegetables from './vegetables-media.json'
 import kitchen from './kitchen-media.json'
-import existingFruitMedia from './visualAssets.json'
 export interface VisualWord {
-  id: string; word: string; cn: string; phonetic: string; example: string; audio: string
+  id: string; word: string; cn: string; phonetic: string; example: string
   theme: VisualTheme; kind: 'word' | 'sentence'; image?: string; pictureFit?: 'contain' | 'cover'; aliases?: string[]
   focus?: string; prompt?: string
   level?: string; followUp?: string; speakingGoal?: string
   credit?: { author: string; license: string; url: string; licenseUrl: string }
 }
 const media: Record<string, { image?: string }> = { ...fruits, ...vegetables, ...kitchen }
-const recordings: Record<string, { audio: string }> = existingFruitMedia
-const generatedRecordings: Record<string, { text: string; file: string }> = neuralAudio.entries
-const audioFor = (id: string, text: string) => {
-  if (recordings[id]) return recordings[id].audio
-  const recording = generatedRecordings[id]
-  if (!recording || recording.text !== text) throw new Error(`Missing or stale Jenny recording: ${id}`)
-  return `${import.meta.env?.BASE_URL || '/'}audio/${recording.file}`
-}
-export const visualWords: VisualWord[] = vocabulary.map((item) => ({ ...item, ...media[item.id], audio: audioFor(item.id, item.word) })) as VisualWord[]
-export const sentenceCards: VisualWord[] = [...sentences, ...advancedSentences.map((item) => ({ ...item, theme: `${item.theme}-advanced`, prompt: item.word.replace(item.focus, '_____') }))].map((item) => ({ ...item, ...media[item.id], audio: audioFor(item.id, item.word) })) as VisualWord[]
+export const visualWords: VisualWord[] = vocabulary.map((item) => ({ ...item, ...media[item.id] })) as VisualWord[]
+export const sentenceCards: VisualWord[] = [...sentences, ...advancedSentences.map((item) => ({ ...item, theme: `${item.theme}-advanced`, prompt: item.word.replace(item.focus, '_____') }))].map((item) => ({ ...item, ...media[item.id] })) as VisualWord[]
 export const learningCards = [...visualWords, ...sentenceCards]
 export const visualThemes: { id: VisualTheme; label: string; kind: 'word' | 'sentence' }[] = [
   { id: 'fruits', label: '水果', kind: 'word' },

@@ -5,10 +5,9 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "node scripts/check-audio-assets.mjs && tsc --noEmit && vite build",
+    "build": "tsc --noEmit && vite build",
     "content:generate": "node scripts/generate-content-bank.mjs",
     "content:check": "node scripts/check-content-bank.mjs",
-    "audio:generate": "python3 scripts/generate-audio.py",
     "preview": "vite preview",
     "check": "node scripts/check-content-bank.mjs && node --import tsx scripts/check-srs.ts && node --import tsx scripts/check-db.ts && node --import tsx scripts/check-ui.ts"
   },
