@@ -114,6 +114,9 @@
  .screen.readerScreen.landscapeReader{position:fixed!important;inset:0!important;width:100vw!important;height:100dvh!important;transform:none;padding:5px max(10px,env(safe-area-inset-right)) 5px max(10px,env(safe-area-inset-left))}
 }
 @media (max-height:360px) and (orientation:landscape){.landscapeReader .readerCaption{min-height:43px}.landscapeReader .readerOriginal strong{font-size:15px}.landscapeReader .readerTools button{padding:5px 8px}}
+
+/* Reader entry hint above rotated canvas */
+@media(max-width:1000px) and (orientation:portrait){.mockphone:has(.landscapeReader:not(.readerPortrait)) #toast.show{position:fixed;left:50%;bottom:18px;transform:translateX(-50%);z-index:100;max-width:86vw;padding:12px 17px;font-size:13px;line-height:1.5}}
 </style>
 </head>
 <body>
