@@ -10,7 +10,7 @@ export default defineConfig({
       manifest: {
         name: '叽咕一下 · 亲子分级共读',
         short_name: '叽咕一下',
-        description: '每天读一点，一起发现小世界。妈妈轻松陪读的亲子英文绘本。',
+        description: '精选儿童英文绘本，支持英语朗读与家长陪读。',
         theme_color: '#faf7f0',
         background_color: '#faf7f0',
         display: 'standalone',
