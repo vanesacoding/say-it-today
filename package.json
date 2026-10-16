@@ -9,7 +9,8 @@
     "content:generate": "node scripts/generate-content-bank.mjs",
     "content:check": "node scripts/check-content-bank.mjs",
     "preview": "vite preview",
-    "check": "node scripts/check-content-bank.mjs && node --import tsx scripts/check-srs.ts && node --import tsx scripts/check-db.ts && node --import tsx scripts/check-ui.ts"
+    "check": "node scripts/check-content-bank.mjs && node --import tsx scripts/check-srs.ts && node --import tsx scripts/check-db.ts && node --import tsx scripts/check-ui.ts && npm run reading:check",
+    "reading:check": "node scripts/check-reading-alpha.mjs"
   },
   "dependencies": {
     "@phosphor-icons/react": "^2.1.10",

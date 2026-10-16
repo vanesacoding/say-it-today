@@ -1,0 +1,96 @@
+{
+  "id": "come-back-cat",
+  "title": "Come Back, Cat!",
+  "publisher": "Book Dash",
+  "published": "2014-06-28",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "originalTextSource": "https://github.com/bookdash/bookdash-books/blob/gh-pages/come-back-cat/en/index.md",
+  "imageSource": "https://github.com/bookdash/bookdash-books/tree/gh-pages/come-back-cat/en/images",
+  "credits": {
+    "writer": "Nicola Rijsdijk",
+    "illustrator": "Karen Lilje",
+    "designer": "Sam Scarborough",
+    "otherContributors": "Book Dash volunteers",
+    "editor": "name not specified in official metadata; verify before formal catalog release"
+  },
+  "readingStage": {
+    "system": "Jigu editorial",
+    "stage": "S1",
+    "verified": false
+  },
+  "pages": [
+    {
+      "image": "01.jpg",
+      "en": "Come back, cat! Play with me.",
+      "zh": "回来吧，小猫！陪我玩。",
+      "translationStatus": "editorial_draft"
+    },
+    {
+      "image": "02.jpg",
+      "en": "Sit in your basket. Stay right here!",
+      "zh": "坐进你的篮子里。好好待在这儿！",
+      "translationStatus": "editorial_draft"
+    },
+    {
+      "image": "03.jpg",
+      "en": "Come back, cat! That’s way too high.",
+      "zh": "回来，小猫！那儿太高啦。",
+      "translationStatus": "editorial_draft"
+    },
+    {
+      "image": "04.jpg",
+      "en": "Come back, cat! Don’t go outside.",
+      "zh": "回来，小猫！不要跑到外面去。",
+      "translationStatus": "editorial_draft"
+    },
+    {
+      "image": "05.jpg",
+      "en": "",
+      "zh": "这幅画原书没有文字，可以静静看图。",
+      "translationStatus": "editorial_draft"
+    },
+    {
+      "image": "06.jpg",
+      "en": "Come back, cat! That’s not yours.",
+      "zh": "回来，小猫！那不是你的东西。",
+      "translationStatus": "editorial_draft"
+    },
+    {
+      "image": "07.jpg",
+      "en": "Come back, cat! What have you got?",
+      "zh": "回来，小猫！你拿着什么呢？",
+      "translationStatus": "editorial_draft"
+    },
+    {
+      "image": "08.jpg",
+      "en": "Come back, cat. That’s not your friend!",
+      "zh": "回来，小猫。那可不是你的朋友！",
+      "translationStatus": "editorial_draft"
+    },
+    {
+      "image": "09.jpg",
+      "en": "Hello, cat! Are you back?",
+      "zh": "你好，小猫！你回来了吗？",
+      "translationStatus": "editorial_draft"
+    },
+    {
+      "image": "10.jpg",
+      "en": "Stay in your basket. It’s nap time now.",
+      "zh": "待在你的篮子里。现在是午睡时间啦。",
+      "translationStatus": "editorial_draft"
+    },
+    {
+      "image": "11.jpg",
+      "en": "Cat?",
+      "zh": "小猫？",
+      "translationStatus": "editorial_draft"
+    },
+    {
+      "image": "12.jpg",
+      "en": "",
+      "zh": "这幅画原书没有文字，可以看图猜猜小猫睡得怎么样。",
+      "translationStatus": "editorial_draft"
+    }
+  ]
+}
