@@ -12,6 +12,14 @@ assert.match(html, /function playPageNarration\(\)/);
 assert.match(html, /case 'speak-page'/);
 assert.match(html, /model\.readMode==='listen'/);
 assert.match(html, /localStorage\.setItem/);
+assert.match(html, /homeV2/);
+assert.match(html, /readingV2/);
+assert.match(html, /artScrollHint/);
+assert.match(html, /readerDrawer/);
+assert.match(html, /uiLayoutV2:2/);
+assert.match(html, /case 'full-image'/);
+assert.doesNotMatch(html, /TODAY, A LITTLE STORY/);
+assert.doesNotMatch(html, /每天读一点，<br>一起发现小世界/);
 for (let i = 1; i <= 12; i++) {
  const filename = String(i).padStart(2, '0') + '.jpg';
  assert.equal(data.pages[i-1].image, filename);
