@@ -17,6 +17,16 @@ assert.match(html, /readingV2/);
 assert.match(html, /artScrollHint/);
 assert.match(html, /readerDrawer/);
 assert.match(html, /uiLayoutV2:2/);
+assert.match(html, /readerLayout:'landscape'/);
+assert.match(html, /readerScreen landscapeReader/);
+assert.match(html, /landscape-first picture-book reader/);
+assert.match(html, /case 'toggle-reader-layout'/);
+assert.match(html, /readerArtwork/);
+assert.match(html, /class=\\"artArrow next\\"/);
+assert.doesNotMatch(html, /每个小故事，<br>都有适合它的读法/);
+assert.doesNotMatch(html, /慢慢读，<br>不着急/);
+assert.doesNotMatch(html, /↔ 滑动看画/);
+
 assert.match(html, /case 'full-image'/);
 assert.doesNotMatch(html, /TODAY, A LITTLE STORY/);
 assert.doesNotMatch(html, /每天读一点，<br>一起发现小世界/);
