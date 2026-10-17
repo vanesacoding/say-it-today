@@ -1,50 +1,49 @@
-# 叽咕一下 · 亲子分级共读 Alpha
+# 叽咕一下 · 20本亲子分级共读 Alpha
 
-当前入口为《I Like to Read!》：原版插画、英文真人朗读和可持续开启的中文陪读模式。旧版词卡代码与素材暂存于仓库；旧版快照在 `backup/pre-jigu-reading-alpha-20261017`。
+当前小书架包含20本完整英文绘本、四大主题和S1/S2/S3共读阶段。所有书均保留原版插画与英文正文，并追加中文辅助、持续在线的陪读模式、三个原书重点词和可选生活活动。
 
-## 当前体验
+## 内容与朗读
 
-- 今天 / 小书架 / 我的 / 竖屏阅读器 / 读完页 / 来源与授权。
-- 八页原版插画，逐页或连续播放原版英文朗读；音频不可访问时，明确提示降级为设备朗读。
-- 前后翻页、键盘与滑动、收藏、进度保存、重复共读；陪读开关跨页与刷新保留。
-- 三个原书重点词：read（第1页）、asleep（第3页）、busy（第5页）。从书籍卡片或读完页进入，查看原图与中英文原句，播放对应的完整原版朗读句子。
-- 读完去发现：邀请家人或玩偶听自己读家里的书；活动可选。
+- 20本、217个正文页，S1 7本 / S2 6本 / S3 7本；阶段为叽咕编辑判断，不直接等同原平台Level。
+- 7本来自African Storybook / Storybooks Canada，沿用明确标注CC BY 3.0或4.0的图文及原版英文真人朗读。
+- 13本来自Book Dash官方HTML书库，图文按CC BY 4.0复用；目前明确标注为设备英语朗读，不冒充真人配音。
+- 本批未使用CC BY-NC版本，也未使用许可范围不明确的第三方配音。中文为编辑初稿，仍应持续复核。
+- 每本详情和阅读器都能查看实际来源、创作者与许可。Book Dash书籍展示原出版方标志，并说明叽咕的翻译与界面改编。
 
-重点词帮助理解故事，无背诵、拼写、考试或强制任务。目前播放原句，未提供独立切词音频。
+## 多书交互
 
-## 主题与分级
+- 小书架按主题与阶段组合筛选；空组合可以重置，不展示虚构内容。
+- 每本书独立保存阅读进度、收藏和完成状态；最近阅读、收藏卡片可继续阅读。
+- 首次访问会迁移旧版《I Like to Read!》的进度、收藏与陪读偏好，不修改旧存储键。
+- 支持前后翻页、键盘、轻扫、逐页或连续播放、重复共读和无字页。
+- 重点词匹配原文页；浏览重点词不改变共读进度，关闭/换书时停止音频。
 
-书籍字段包含 `primaryTheme`、`themeIds`、`tags`、`stageId`、`keywords` 与 `activity`。主主题必须包含在主题列表中；每本书只指定一个推荐共读阶段。这是叽咕的共读阶段，不等同于原出版方级别。
+## 数据与素材
 
-| 主题 ID | 展示名 |
-| --- | --- |
-| everyday | 我的每一天 |
-| nature | 动物与自然 |
-| discovery | 颜色与发现 |
-| feelings | 情绪与朋友 |
+`public/books/catalog.js` 是完整内容目录，保存书籍与逐页来源。图片和真人音频由 `scripts/fetch-reading-library.py` 下载到忽略跟踪的 `public/books/library/`，本地和CI使用相同清单及文件签名校验。部署不依赖运行时外站图片加载。
 
-阶段为 S1 看图听故事 / S2 重复句型 / S3 简单故事理解。《I Like to Read!》归入 everyday，推荐 S1，标签为家庭、阅读、日常活动。
+素材按书籍ID与正文页编号映射。Storybooks Canada源站01为封面，正文从02开始；Book Dash HTML按正文图与相邻原文配对，保留无字页。
 
-目前只展示一本书的实际标签，不展示空分类或筛选器。后续多书阅读器与筛选仍需实现；本次先确定统一元数据。建议至少有四本书且出现两个以上可选主题/阶段后，再展示相应筛选。
+PWA预缓存界面和目录；书籍媒体按阅读需求缓存，避免首次打开下载全部绘本。
 
-## 本地开发与验证
+## 开发与验证
 
 ```bash
 npm ci
+python3 scripts/fetch-reading-library.py
 npm run check
 npm run build
 npm run dev
 ```
 
-`reading:check` 覆盖陪读模式、收藏、重点词对应原图/原句、原句播放目标、退出停止、浏览单词不改变阅读进度、读完与再读。GitHub Actions 会下载授权音频，并在 CI 中验证 MP3 文件。
+`reading:check` 覆盖20本的所有正文页、中文提示、重点词、不同页数的结束与再读、主题/阶段筛选、独立进度/收藏、刷新恢复、旧数据迁移和两种朗读模式。CI额外要求所有图片与真人音频文件存在并校验格式。
 
-## 来源与许可
+浏览器和真机的画面、设备语音质量、PWA安装仍需实际体验；设备语音取决于操作系统。本项目仍为Alpha。
 
-- 原书：https://storybookscanada.ca/stories/en/0087/
-- 文字：Letta Machoga；插画：Wiehan de Jager。
-- 英文朗读：Darshan Soni（Storybooks Canada / Global Storybooks）。
-- 故事及相应朗读：CC BY 3.0，https://creativecommons.org/licenses/by/3.0/
-- 音频项目：https://github.com/global-asp/gsn-audio
-- 中文辅助、陪读建议与生活活动由叽咕追加，不代表原出版方官方内容或商业背书。
+## 来源
 
-中文辅助仍需人工逐页复核；真人手机的音频、PWA 安装与离线缓存尚需验收。当前为 Alpha，不应宣传为已完成正式产品。
+- https://storybookscanada.ca/stories/en/
+- https://github.com/global-asp/gsn-audio
+- https://bookdash.github.io/bookdash-books/
+- https://bookdash.org/re-using-the-book-dash-content/
+- 各书具体来源、署名和许可见目录及应用内来源说明。

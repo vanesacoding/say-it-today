@@ -6,3 +6,7 @@ dist
 *.log
 *.tsbuildinfo
 public/audio/
+
+# Licensed media are validated and materialized during CI.
+public/books/library/
+reading-mvp-review.patch

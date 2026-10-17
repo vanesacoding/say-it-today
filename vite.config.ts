@@ -26,8 +26,13 @@ export default defineConfig({
       workbox: {
         navigateFallback: 'index.html',
         globPatterns: ['**/*.{js,css,html,svg,png,jpg,webp,woff2,mp3}'],
-        globIgnores: ['images/**/*', 'design-demos/**/*'],
-        maximumFileSizeToCacheInBytes: 3 * 1024 * 1024
+        globIgnores: ['images/**/*', 'design-demos/**/*', 'books/library/**/*'],
+        maximumFileSizeToCacheInBytes: 3 * 1024 * 1024,
+        runtimeCaching: [{
+          urlPattern: /\/books\/library\/.*\.(jpg|png|mp3)$/,
+          handler: 'CacheFirst',
+          options: {cacheName: 'jigu-book-media-v2', expiration: {maxEntries: 450, maxAgeSeconds: 365 * 24 * 60 * 60}, rangeRequests: true}
+        }]
       }
     })
   ]
