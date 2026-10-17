@@ -9,13 +9,18 @@ assert.match(html,/const remoteAudio =/);
 assert.match(html,/function playPage\(/);
 assert.match(html,/function onAudioEnd\(/);
 assert.match(html,/function fallbackSpeech\(/);
-for(const name of ['together','listen','translation','tip','favorite','next'])assert.ok(html.includes('data-action="'+name+'"'),'missing control '+name);
+for(const name of ['together','listen','companion','favorite','next'])assert.ok(html.includes('data-action="'+name+'"'),'missing control '+name);
 assert.match(html,/data-go="shelf"/);
 assert.match(html,/data-go="mine"/);
 assert.match(html,/Letta Machoga/);
 assert.match(html,/Wiehan de Jager/);
 assert.match(html,/Darshan Soni/);
 assert.match(html,/CC BY 3\.0/);
+assert.match(html,/companionMode:state\.companionMode/);
+assert.match(html,/state\.companionMode=!!old\.companionMode/);
+assert.match(html,/aria-checked=/);
+assert.match(html,/companionPanel/);
+assert.doesNotMatch(html,/data-action="translation"|data-action="tip"/);
 assert.doesNotMatch(html,/rotate\(|readerLayout:'landscape'|滑动看画/);
 for(let i=1;i<=8;i++){
  const number=String(i).padStart(2,'0');
@@ -31,3 +36,43 @@ for(let i=1;i<=8;i++){
  }
 }
 console.log('PASS portrait reader: illustrated pages, credits, real MP3 files and reading controls');
+import { JSDOM } from 'jsdom';
+const makeDom=(saved)=> {
+ const dom=new JSDOM(html,{url:'https://jigu.local/',runScripts:'outside-only'});
+ if(saved) dom.window.localStorage.setItem('jigu-vertical-book-0087-v1', saved);
+ const pageScripts=[...dom.window.document.querySelectorAll('script')].map(s=>s.textContent).filter(x=>x.includes('const book ='));
+ assert.equal(pageScripts.length,1);
+ dom.window.eval(pageScripts[0]);
+ return dom;
+};
+const click=(dom,selector)=>{
+ const el=dom.window.document.querySelector(selector);
+ assert.ok(el,'missing interactive element: '+selector);
+ el.click();
+};
+const dom=makeDom();
+click(dom,'[data-go="reader"]');
+assert.equal(dom.window.document.querySelector('.companionPanel'),null,'off by default');
+click(dom,'[data-action="companion"]');
+let panel=dom.window.document.querySelector('.companionPanel');
+assert.ok(panel,'enable inline companion panel');
+assert.match(panel.textContent,/我喜欢看书/);
+assert.match(panel.textContent,/指着男孩手里的书/);
+click(dom,'[data-action="next"]');
+panel=dom.window.document.querySelector('.companionPanel');
+assert.ok(panel,'must remain on across page changes');
+assert.match(panel.textContent,/我可以念给谁听呢/);
+assert.match(panel.textContent,/一起猜猜/);
+click(dom,'[data-action="prev"]');
+assert.ok(dom.window.document.querySelector('.companionPanel'),'must remain on after returning to previous page');
+const prefs=dom.window.localStorage.getItem('jigu-vertical-book-0087-v1');
+assert.equal(JSON.parse(prefs).companionMode,true,'preference saved');
+const reloaded=makeDom(prefs);
+click(reloaded,'[data-go="reader"]');
+assert.ok(reloaded.window.document.querySelector('.companionPanel'),'preference restored after reopening');
+click(reloaded,'[data-action="companion"]');
+assert.equal(reloaded.window.document.querySelector('.companionPanel'),null,'mode can be turned off');
+assert.equal(JSON.parse(reloaded.window.localStorage.getItem('jigu-vertical-book-0087-v1')).companionMode,false,'off preference saved');
+dom.window.close();
+reloaded.window.close();
+console.log('PASS companion mode: inline bilingual guidance, persistent across page and reload, reversible switch');
