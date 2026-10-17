@@ -110,3 +110,53 @@ favDom.window.close();
 favoritesAfterReload.window.close();
 console.log('PASS favorites: clickable collection card, resume, refresh persistence and unfavorite');
 
+
+// Keywords must use story content and must never move the saved reading position.
+const wordDom=makeDom();
+const played=[];
+class Narration {
+  constructor(){this.onended=null;this.onerror=null;this.src='';this.paused=false;}
+  play(){played.push(this);return Promise.resolve();}
+  pause(){this.paused=true;}
+}
+wordDom.window.Audio=Narration;
+click(wordDom,'[data-go="reader"]');
+click(wordDom,'[data-action="next"]');
+click(wordDom,'[data-action="next"]');
+click(wordDom,'[data-go="home"]');
+assert.match(wordDom.window.document.querySelector('.topicTags').textContent,/我的每一天/);
+assert.equal(wordDom.window.document.querySelector('[data-action="filter"]'),null,'one-book shelf has no empty filters');
+click(wordDom,'[data-action="words"]');
+assert.equal(wordDom.window.document.querySelectorAll('.wordCard').length,3);
+for(const [id,page,sentence] of [['read','01','I like to read.'],['asleep','03','My sister is asleep.'],['busy','05','My mother and grandmother are busy.']]){
+  click(wordDom,`[data-word-id="${id}"]`);
+  assert.match(wordDom.window.document.querySelector('.wordArt').src,new RegExp(`/books/read/${page}\\.jpg$`));
+  assert.equal(wordDom.window.document.querySelector('.wordSentence').textContent,sentence);
+  assert.equal(wordDom.window.document.querySelector('.wordSentence mark').textContent.toLowerCase(),id);
+  click(wordDom,'[data-action="word-audio"]');
+  const audio=played.at(-1);
+  assert.equal(audio.src,`./books/read/audio/${page}.mp3`,'play the matching original sentence');
+  assert.match(wordDom.window.document.querySelector('[data-action="word-audio"]').textContent,/停止/);
+  audio.onended();
+  assert.match(wordDom.window.document.querySelector('[data-action="word-audio"]').textContent,/听原句/);
+  click(wordDom,'[data-action="word-audio"]');
+  click(wordDom,'[data-action="words"]');
+  assert.equal(played.at(-1).paused,true,'switching word sheets stops narration');
+}
+click(wordDom,'[data-word-id="busy"]');
+click(wordDom,'[data-action="word-audio"]');
+click(wordDom,'button[data-action="close"]');
+assert.equal(played.at(-1).paused,true,'closing sheet stops narration');
+click(wordDom,'[data-go="reader"]');
+assert.match(wordDom.window.document.querySelector('.readerHeader .heading').textContent,/3\/8/,'word browsing preserves reading progress');
+for(let i=0;i<6;i++)click(wordDom,'[data-action="next"]');
+assert.equal(wordDom.window.document.querySelectorAll('.wordCard').length,3,'keywords available on completion');
+assert.match(wordDom.window.document.querySelector('.endActivity').textContent,/读完去发现/);
+click(wordDom,'[data-word-id="asleep"]');
+wordDom.window.document.dispatchEvent(new wordDom.window.KeyboardEvent('keydown',{key:'Escape',bubbles:true}));
+assert.equal(wordDom.window.document.querySelector('.sheet'),null);
+assert.ok(wordDom.window.document.querySelector('.endTitle'),'close returns to completion screen');
+click(wordDom,'[data-action="again"]');
+assert.match(wordDom.window.document.querySelector('.readerHeader .heading').textContent,/1\/8/);
+wordDom.window.close();
+console.log('PASS story keywords: matching original scenes and narration, stop on close, preserved progress, completion and replay');
