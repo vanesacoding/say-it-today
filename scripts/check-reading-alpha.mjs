@@ -105,7 +105,7 @@ click(favoritesAfterReload,'[data-action="favorite"]');
 click(favoritesAfterReload,'[data-go="home"]');
 click(favoritesAfterReload,'[data-go="mine"]');
 assert.equal(favoritesAfterReload.window.document.querySelector('.favoriteBook'),null,'unfavorited item is removed from collection');
-assert.match(favoritesAfterReload.window.document.querySelector('.readHistory:last-of-type').textContent,/暂时还没有收藏/);
+assert.match(favoritesAfterReload.window.document.querySelectorAll('.readHistory')[1].textContent,/暂时还没有收藏/);
 favDom.window.close();
 favoritesAfterReload.window.close();
 console.log('PASS favorites: clickable collection card, resume, refresh persistence and unfavorite');
