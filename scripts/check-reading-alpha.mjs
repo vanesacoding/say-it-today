@@ -1,162 +1,87 @@
-import { readFileSync, existsSync, statSync } from 'node:fs';
-import { strict as assert } from 'node:assert';
+import {readFileSync,existsSync,statSync} from 'node:fs';
+import {strict as assert} from 'node:assert';
+import vm from 'node:vm';
+import {JSDOM} from 'jsdom';
 const html=readFileSync('index.html','utf8');
-assert.match(html,/I Like to Read!/);
-assert.match(html,/const book =/);
-assert.match(html,/const pageImage =/);
-assert.match(html,/const localAudio =/);
-assert.match(html,/const remoteAudio =/);
-assert.match(html,/function playPage\(/);
-assert.match(html,/function onAudioEnd\(/);
-assert.match(html,/function fallbackSpeech\(/);
-for(const name of ['together','listen','companion','favorite','next'])assert.ok(html.includes('data-action="'+name+'"'),'missing control '+name);
-assert.match(html,/data-go="shelf"/);
-assert.match(html,/data-go="mine"/);
-assert.match(html,/Letta Machoga/);
-assert.match(html,/Wiehan de Jager/);
-assert.match(html,/Darshan Soni/);
-assert.match(html,/CC BY 3\.0/);
-assert.match(html,/companionMode:state\.companionMode/);
-assert.match(html,/state\.companionMode=!!old\.companionMode/);
-assert.match(html,/aria-checked=/);
-assert.match(html,/companionPanel/);
-assert.doesNotMatch(html,/data-action="translation"|data-action="tip"/);
-assert.doesNotMatch(html,/rotate\(|readerLayout:'landscape'|滑动看画/);
-for(let i=1;i<=8;i++){
- const number=String(i).padStart(2,'0');
- const image='public/books/read/'+number+'.jpg';
- assert.ok(existsSync(image),'missing book image '+image);
- assert.ok(statSync(image).size>15000,'invalid original image '+image);
- if(process.env.CI){
-  const sound='public/books/read/audio/'+number+'.mp3';
-  assert.ok(existsSync(sound),'missing original narration '+sound);
-  const buf=readFileSync(sound);
-  const mp3=buf.toString('ascii',0,3)==='ID3'||buf[0]===0xff&&(buf[1]&0xe0)===0xe0;
-  assert.ok(buf.length>600&&mp3,'invalid MP3 '+sound);
+const catalogScript=readFileSync('public/books/catalog.js','utf8');
+const context={window:{}};vm.runInNewContext(catalogScript,context);const books=context.window.JIGU_BOOKS;
+assert.equal(books.length,20);assert.equal(new Set(books.map(b=>b.id)).size,20);
+const stages=new Set(),themes=new Set();
+for(const b of books){
+ stages.add(b.stageId);themes.add(b.primaryTheme);
+ assert.ok(b.source.license.includes('/by/')&&!b.source.license.includes('nc'),'unrestricted attribution license for '+b.id);
+ assert.ok(b.themeIds.includes(b.primaryTheme));assert.ok(b.pages.length>=5);assert.ok(b.keywords.length>=2&&b.keywords.length<=4);
+ assert.ok(['S1','S2','S3'].includes(b.stageId));assert.ok(b.activity.title&&b.activity.text);
+ for(const [i,p] of b.pages.entries()){
+  assert.equal(typeof p.en,'string');assert.equal(typeof p.zh,'string');assert.ok(p.tip&&p.sourceImage);
+  assert.ok(!p.en||p.zh,'Chinese companion missing '+b.id+' page '+i);
+  if(b.audioType==='human')assert.ok(p.sourceAudio);
+  if(process.env.CI){
+   const prefix='public/books/library/'+b.id+'/';const image=prefix+String(i+1).padStart(2,'0')+'.jpg';assert.ok(existsSync(image)&&statSync(image).size>1000,'missing image '+image);
+   if(b.audioType==='human'){const audio=prefix+'audio/'+String(i+1).padStart(2,'0')+'.mp3';assert.ok(existsSync(audio)&&statSync(audio).size>600,'missing audio '+audio)}
+  }
  }
+ for(const w of b.keywords){assert.ok(b.pages[w.pageIndex]);assert.match(b.pages[w.pageIndex].en,new RegExp('(?<![a-z])'+w.word+'(?![a-z])','i'),'keyword belongs to actual source page '+b.id)}
 }
-console.log('PASS portrait reader: illustrated pages, credits, real MP3 files and reading controls');
-import { JSDOM } from 'jsdom';
-const makeDom=(saved)=> {
- const dom=new JSDOM(html,{url:'https://jigu.local/',runScripts:'outside-only'});
- if(saved) dom.window.localStorage.setItem('jigu-vertical-book-0087-v1', saved);
- const pageScripts=[...dom.window.document.querySelectorAll('script')].map(s=>s.textContent).filter(x=>x.includes('const book ='));
- assert.equal(pageScripts.length,1);
- dom.window.eval(pageScripts[0]);
+assert.equal(stages.size,3);assert.equal(themes.size,4);
+console.log('PASS catalogue: 20 attributed books, complete bilingual pages, source-linked keywords, 4 themes and 3 stages');
+function makeDom(saved,legacy){
+ const dom=new JSDOM(html,{url:'https://jigu.local/say-it-today/',runScripts:'outside-only'});dom.window.scrollTo=()=>{};
+ if(saved)dom.window.localStorage.setItem('jigu-reading-library-v2',saved);
+ if(legacy)dom.window.localStorage.setItem('jigu-vertical-book-0087-v1',legacy);
+ dom.window.eval(catalogScript);
+ dom.window.eval([...dom.window.document.scripts].find(s=>s.textContent.includes('const books=window.JIGU_BOOKS')).textContent);
  return dom;
-};
-const click=(dom,selector)=>{
- const el=dom.window.document.querySelector(selector);
- assert.ok(el,'missing interactive element: '+selector);
- el.click();
-};
-const dom=makeDom();
-click(dom,'[data-go="reader"]');
-assert.equal(dom.window.document.querySelector('.companionPanel'),null,'off by default');
-click(dom,'[data-action="companion"]');
-let panel=dom.window.document.querySelector('.companionPanel');
-assert.ok(panel,'enable inline companion panel');
-assert.match(panel.textContent,/我喜欢看书/);
-assert.match(panel.textContent,/指着男孩手里的书/);
-click(dom,'[data-action="next"]');
-panel=dom.window.document.querySelector('.companionPanel');
-assert.ok(panel,'must remain on across page changes');
-assert.match(panel.textContent,/我可以念给谁听呢/);
-assert.match(panel.textContent,/一起猜猜/);
-click(dom,'[data-action="prev"]');
-assert.ok(dom.window.document.querySelector('.companionPanel'),'must remain on after returning to previous page');
-const prefs=dom.window.localStorage.getItem('jigu-vertical-book-0087-v1');
-assert.equal(JSON.parse(prefs).companionMode,true,'preference saved');
-const reloaded=makeDom(prefs);
-click(reloaded,'[data-go="reader"]');
-assert.ok(reloaded.window.document.querySelector('.companionPanel'),'preference restored after reopening');
-click(reloaded,'[data-action="companion"]');
-assert.equal(reloaded.window.document.querySelector('.companionPanel'),null,'mode can be turned off');
-assert.equal(JSON.parse(reloaded.window.localStorage.getItem('jigu-vertical-book-0087-v1')).companionMode,false,'off preference saved');
-dom.window.close();
-reloaded.window.close();
-console.log('PASS companion mode: inline bilingual guidance, persistent across page and reload, reversible switch');
-
-const favDom=makeDom();
-click(favDom,'[data-go="mine"]');
-assert.equal(favDom.window.document.querySelector('.favoriteBook'),null,'empty favorites must not show a tappable book');
-click(favDom,'[data-go="reader"]');
-click(favDom,'[data-action="next"]');
-click(favDom,'[data-action="favorite"]');
-click(favDom,'[data-go="home"]');
-click(favDom,'[data-go="mine"]');
-let favoriteItem=favDom.window.document.querySelector('.favoriteBook');
-assert.ok(favoriteItem,'favorited book should render a clickable card');
-assert.equal(favoriteItem.tagName,'BUTTON');
-assert.match(favoriteItem.getAttribute('aria-label'),/打开已收藏/);
-click(favDom,'.favoriteBook');
-assert.ok(favDom.window.document.querySelector('.readerHeader'),'tapping favorite opens reader');
-assert.match(favDom.window.document.querySelector('.readerHeader .heading').textContent,/2\/8/,'favorite resumes previous page');
-assert.ok(favDom.window.document.querySelector('[data-action="favorite"].heartActive'),'favorite remains selected');
-click(favDom,'[data-go="home"]');
-click(favDom,'[data-go="mine"]');
-const persistedSaved=favDom.window.localStorage.getItem('jigu-vertical-book-0087-v1');
-const favoritesAfterReload=makeDom(persistedSaved);
-click(favoritesAfterReload,'[data-go="mine"]');
-assert.ok(favoritesAfterReload.window.document.querySelector('.favoriteBook'),'favorite is clickable after reload');
-click(favoritesAfterReload,'.favoriteBook');
-assert.match(favoritesAfterReload.window.document.querySelector('.readerHeader .heading').textContent,/2\/8/,'reloaded favorite resumes previous page');
-click(favoritesAfterReload,'[data-action="favorite"]');
-click(favoritesAfterReload,'[data-go="home"]');
-click(favoritesAfterReload,'[data-go="mine"]');
-assert.equal(favoritesAfterReload.window.document.querySelector('.favoriteBook'),null,'unfavorited item is removed from collection');
-assert.match(favoritesAfterReload.window.document.querySelectorAll('.readHistory')[1].textContent,/暂时还没有收藏/);
-favDom.window.close();
-favoritesAfterReload.window.close();
-console.log('PASS favorites: clickable collection card, resume, refresh persistence and unfavorite');
-
-
-// Keywords must use story content and must never move the saved reading position.
-const wordDom=makeDom();
-const played=[];
-class Narration {
-  constructor(){this.onended=null;this.onerror=null;this.src='';this.paused=false;}
-  play(){played.push(this);return Promise.resolve();}
-  pause(){this.paused=true;}
 }
-wordDom.window.Audio=Narration;
-click(wordDom,'[data-go="reader"]');
-click(wordDom,'[data-action="next"]');
-click(wordDom,'[data-action="next"]');
-click(wordDom,'[data-go="home"]');
-assert.match(wordDom.window.document.querySelector('.topicTags').textContent,/我的每一天/);
-assert.equal(wordDom.window.document.querySelector('[data-action="filter"]'),null,'one-book shelf has no empty filters');
-click(wordDom,'[data-action="words"]');
-assert.equal(wordDom.window.document.querySelectorAll('.wordCard').length,3);
-for(const [id,page,sentence] of [['read','01','I like to read.'],['asleep','03','My sister is asleep.'],['busy','05','My mother and grandmother are busy.']]){
-  click(wordDom,`[data-word-id="${id}"]`);
-  assert.match(wordDom.window.document.querySelector('.wordArt').src,new RegExp(`/books/read/${page}\\.jpg$`));
-  assert.equal(wordDom.window.document.querySelector('.wordSentence').textContent,sentence);
-  assert.equal(wordDom.window.document.querySelector('.wordSentence mark').textContent.toLowerCase(),id);
-  click(wordDom,'[data-action="word-audio"]');
-  const audio=played.at(-1);
-  assert.equal(audio.src,`./books/read/audio/${page}.mp3`,'play the matching original sentence');
-  assert.match(wordDom.window.document.querySelector('[data-action="word-audio"]').textContent,/停止/);
-  audio.onended();
-  assert.match(wordDom.window.document.querySelector('[data-action="word-audio"]').textContent,/听原句/);
-  click(wordDom,'[data-action="word-audio"]');
-  click(wordDom,'[data-action="words"]');
-  assert.equal(played.at(-1).paused,true,'switching word sheets stops narration');
+function click(d,s){const el=d.window.document.querySelector(s);assert.ok(el,'missing control '+s);el.click()}
+function open(d,id){click(d,'[data-go="shelf"]');click(d,'[data-filter-theme="all"]');click(d,'[data-filter-stage="all"]');click(d,`[data-book="${id}"]`);click(d,'[data-go="reader"]')}
+function heading(d){return d.window.document.querySelector('.readerHeader .heading').textContent}
+const dom=makeDom();click(dom,'[data-go="shelf"]');assert.equal(dom.window.document.querySelectorAll('.shelfCard').length,20);
+for(const theme of ['everyday','nature','discovery','feelings']){
+ click(dom,`[data-filter-theme="${theme}"]`);
+ assert.equal(dom.window.document.querySelectorAll('.shelfCard').length,books.filter(b=>b.themeIds.includes(theme)).length);
 }
-click(wordDom,'[data-word-id="busy"]');
-click(wordDom,'[data-action="word-audio"]');
-click(wordDom,'button[data-action="close"]');
-assert.equal(played.at(-1).paused,true,'closing sheet stops narration');
-click(wordDom,'[data-go="reader"]');
-assert.match(wordDom.window.document.querySelector('.readerHeader .heading').textContent,/3\/8/,'word browsing preserves reading progress');
-for(let i=0;i<6;i++)click(wordDom,'[data-action="next"]');
-assert.equal(wordDom.window.document.querySelectorAll('.wordCard').length,3,'keywords available on completion');
-assert.match(wordDom.window.document.querySelector('.endActivity').textContent,/读完去发现/);
-click(wordDom,'[data-word-id="asleep"]');
-wordDom.window.document.dispatchEvent(new wordDom.window.KeyboardEvent('keydown',{key:'Escape',bubbles:true}));
-assert.equal(wordDom.window.document.querySelector('.sheet'),null);
-assert.ok(wordDom.window.document.querySelector('.endTitle'),'close returns to completion screen');
-click(wordDom,'[data-action="again"]');
-assert.match(wordDom.window.document.querySelector('.readerHeader .heading').textContent,/1\/8/);
-wordDom.window.close();
-console.log('PASS story keywords: matching original scenes and narration, stop on close, preserved progress, completion and replay');
+click(dom,'[data-filter-theme="all"]');click(dom,'[data-filter-stage="S2"]');assert.equal(dom.window.document.querySelectorAll('.shelfCard').length,books.filter(b=>b.stageId==='S2').length);
+click(dom,'[data-filter-stage="all"]');
+// Open, read, finish and replay every book, including 12 and 13 page titles.
+for(const b of books){
+ open(dom,b.id);assert.match(heading(dom),new RegExp('1/'+b.pages.length));
+ if(!dom.window.document.querySelector('.companionPanel'))click(dom,'[data-action="companion"]');
+ for(let i=0;i<b.pages.length;i++){
+  assert.equal(dom.window.document.querySelector('.readEnglish')?.textContent||'',b.pages[i].en);
+  assert.ok(dom.window.document.querySelector('.companionPanel'));
+  if(b.pages[i].zh)assert.equal(dom.window.document.querySelector('.companionTranslation').textContent,b.pages[i].zh);
+  assert.match(dom.window.document.querySelector('.artFrame img').src,new RegExp(b.id+'/'+String(i+1).padStart(2,'0')+'\\.jpg$'));
+  click(dom,'[data-action="next"]');
+ }
+ assert.ok(dom.window.document.querySelector('.endTitle'));assert.equal(dom.window.document.querySelectorAll('.wordCard').length,3);
+ for(const w of b.keywords){
+  click(dom,`[data-word-id="${w.id}"]`);assert.equal(dom.window.document.querySelector('.wordSentence').textContent,b.pages[w.pageIndex].en);assert.equal(dom.window.document.querySelector('mark').textContent.toLowerCase(),w.word.toLowerCase());click(dom,'button[data-action="close"]');
+ }
+ click(dom,'[data-action="again"]');assert.match(heading(dom),new RegExp('1/'+b.pages.length));
+}
+console.log('PASS all 20 books: correct page counts and art, companion text, completion, linked keywords and replay');
+// Independent progress and favorites survive switching and reloading.
+open(dom,'0008');click(dom,'[data-action="next"]');click(dom,'[data-action="favorite"]');
+open(dom,'0001');for(let i=0;i<9;i++)click(dom,'[data-action="next"]');click(dom,'[data-action="favorite"]');
+open(dom,'0008');assert.match(heading(dom),/2\/8/);open(dom,'0001');assert.match(heading(dom),/10\/11/);
+const persisted=dom.window.localStorage.getItem('jigu-reading-library-v2');const reload=makeDom(persisted);
+click(reload,'[data-go="mine"]');assert.equal(reload.window.document.querySelectorAll('.favoriteBook').length,2);
+click(reload,'[data-resume="0001"]');assert.match(heading(reload),/10\/11/);assert.ok(reload.window.document.querySelector('.companionPanel'));
+click(reload,'[data-action="favorite"]');click(reload,'[data-go="shelf"]');click(reload,'[data-go="mine"]');assert.equal(reload.window.document.querySelectorAll('.favoriteBook').length,1);
+const legacy=makeDom(null,JSON.stringify({page:4,saved:true,opened:true,finished:false,companionMode:true}));
+click(legacy,'[data-go="reader"]');assert.match(heading(legacy),/5\/8/);assert.ok(legacy.window.document.querySelector('.heartActive'));assert.ok(legacy.window.document.querySelector('.companionPanel'));
+console.log('PASS independent progress, favorites, refresh, persistent companion mode and migration from existing single-book data');
+// Human and synthetic narration use the selected book, and stop at navigation boundaries.
+const audioDom=makeDom();const played=[];
+class Narration{constructor(){this.onended=null;this.onerror=null;this.src='';this.paused=false}play(){played.push(this);return Promise.resolve()}pause(){this.paused=true}}
+audioDom.window.Audio=Narration;
+open(audioDom,'0008');click(audioDom,'[data-action="speak"]');assert.equal(played.at(-1).src,'./books/library/0008/audio/01.mp3');
+click(audioDom,'[data-go="shelf"]');assert.ok(played.at(-1).paused);
+open(audioDom,'0001');click(audioDom,'[data-go="shelf"]');click(audioDom,'[data-book="0001"]');click(audioDom,'[data-action="words"]');click(audioDom,'[data-word-id="word-0"]');click(audioDom,'[data-action="word-audio"]');assert.equal(played.at(-1).src,'./books/library/0001/audio/05.mp3');click(audioDom,'button[data-action="close"]');assert.ok(played.at(-1).paused);
+const utterances=[];let cancelled=0;
+audioDom.window.SpeechSynthesisUtterance=class{constructor(text){this.text=text}};
+audioDom.window.speechSynthesis={getVoices:()=>[],speak:u=>utterances.push(u),cancel:()=>cancelled++};
+open(audioDom,'come-back-cat');assert.match(audioDom.window.document.querySelector('.readerTools').textContent,/设备英语朗读/);click(audioDom,'[data-action="listen"]');assert.equal(utterances.at(-1).text,books.find(b=>b.id==='come-back-cat').pages[0].en);utterances.at(-1).onend();assert.match(heading(audioDom),/2\/12/);click(audioDom,'[data-go="shelf"]');assert.ok(cancelled>0);
+console.log('PASS original narration paths, keyword narration, device voice labels, continuous play and stop on navigation');
+for(const d of [dom,reload,legacy,audioDom])d.window.close();

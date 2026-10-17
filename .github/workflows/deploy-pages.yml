@@ -24,21 +24,8 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
-      - name: Fetch licensed English human narration (CC BY 3.0)
-        shell: bash
-        run: |
-          set -euo pipefail
-          mkdir -p public/books/read/audio
-          for page in $(seq 1 8); do
-            upstream=$(printf "%02d" "$((page+1))")
-            localpage=$(printf "%02d" "$page")
-            url="https://globalstorybooks.net/media/audio/en/0087/mp3/${upstream}.mp3"
-            target="public/books/read/audio/${localpage}.mp3"
-            curl --fail --location --silent --show-error --retry 3 --retry-all-errors --max-time 45 "$url" -o "$target"
-            file -b "$target" | grep -Eiq "audio|mpeg|mp3|id3" || (echo "::error::Invalid MP3" && exit 1)
-            test $(wc -c < "$target") -gt 600
-            echo "Narration file ${target}: $(wc -c < "$target") bytes"
-          done
+      - name: Fetch declared open-license book images and narration
+        run: python3 scripts/fetch-reading-library.py
       - run: npm run check
       - run: npm run build
         env:
