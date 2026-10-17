@@ -76,3 +76,37 @@ assert.equal(JSON.parse(reloaded.window.localStorage.getItem('jigu-vertical-book
 dom.window.close();
 reloaded.window.close();
 console.log('PASS companion mode: inline bilingual guidance, persistent across page and reload, reversible switch');
+
+const favDom=makeDom();
+click(favDom,'[data-go="mine"]');
+assert.equal(favDom.window.document.querySelector('.favoriteBook'),null,'empty favorites must not show a tappable book');
+click(favDom,'[data-go="reader"]');
+click(favDom,'[data-action="next"]');
+click(favDom,'[data-action="favorite"]');
+click(favDom,'[data-go="home"]');
+click(favDom,'[data-go="mine"]');
+let favoriteItem=favDom.window.document.querySelector('.favoriteBook');
+assert.ok(favoriteItem,'favorited book should render a clickable card');
+assert.equal(favoriteItem.tagName,'BUTTON');
+assert.match(favoriteItem.getAttribute('aria-label'),/打开已收藏/);
+click(favDom,'.favoriteBook');
+assert.ok(favDom.window.document.querySelector('.readerHeader'),'tapping favorite opens reader');
+assert.match(favDom.window.document.querySelector('.readerHeader .heading').textContent,/2\/8/,'favorite resumes previous page');
+assert.ok(favDom.window.document.querySelector('[data-action="favorite"].heartActive'),'favorite remains selected');
+click(favDom,'[data-go="home"]');
+click(favDom,'[data-go="mine"]');
+const persistedSaved=favDom.window.localStorage.getItem('jigu-vertical-book-0087-v1');
+const favoritesAfterReload=makeDom(persistedSaved);
+click(favoritesAfterReload,'[data-go="mine"]');
+assert.ok(favoritesAfterReload.window.document.querySelector('.favoriteBook'),'favorite is clickable after reload');
+click(favoritesAfterReload,'.favoriteBook');
+assert.match(favoritesAfterReload.window.document.querySelector('.readerHeader .heading').textContent,/2\/8/,'reloaded favorite resumes previous page');
+click(favoritesAfterReload,'[data-action="favorite"]');
+click(favoritesAfterReload,'[data-go="home"]');
+click(favoritesAfterReload,'[data-go="mine"]');
+assert.equal(favoritesAfterReload.window.document.querySelector('.favoriteBook'),null,'unfavorited item is removed from collection');
+assert.match(favoritesAfterReload.window.document.querySelector('.readHistory:last-of-type').textContent,/暂时还没有收藏/);
+favDom.window.close();
+favoritesAfterReload.window.close();
+console.log('PASS favorites: clickable collection card, resume, refresh persistence and unfavorite');
+
