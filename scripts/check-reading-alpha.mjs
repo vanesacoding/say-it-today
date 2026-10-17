@@ -1,43 +1,33 @@
-import { readFileSync, existsSync } from 'node:fs';
+import { readFileSync, existsSync, statSync } from 'node:fs';
 import { strict as assert } from 'node:assert';
-const html = readFileSync('index.html', 'utf8');
-const data = JSON.parse(readFileSync('docs/jigu-reading-alpha/book-source.json', 'utf8'));
-assert.equal(data.id, 'come-back-cat');
-assert.equal(data.pages.length, 12);
-assert.equal(data.license, 'CC BY 4.0');
-assert.match(html, /Book Dash/);
-assert.match(html, /const ORIGINAL=/);
-assert.match(html, /function stopNarration\(\)/);
-assert.match(html, /function playPageNarration\(\)/);
-assert.match(html, /case 'speak-page'/);
-assert.match(html, /model\.readMode==='listen'/);
-assert.match(html, /localStorage\.setItem/);
-assert.match(html, /homeV2/);
-assert.match(html, /readingV2/);
-assert.match(html, /artScrollHint/);
-assert.match(html, /readerDrawer/);
-assert.match(html, /uiLayoutV2:2/);
-assert.match(html, /readerLayout:'landscape'/);
-assert.match(html, /readerScreen landscapeReader/);
-assert.match(html, /landscape-first picture-book reader/);
-assert.match(html, /case 'toggle-reader-layout'/);
-assert.match(html, /readerArtwork/);
-assert.match(html, /artArrow next/);
-assert.doesNotMatch(html, /每个小故事，<br>都有适合它的读法/);
-assert.doesNotMatch(html, /慢慢读，<br>不着急/);
-assert.doesNotMatch(html, /↔ 滑动看画/);
-
-assert.match(html, /case 'full-image'/);
-assert.doesNotMatch(html, /TODAY, A LITTLE STORY/);
-assert.doesNotMatch(html, /每天读一点，<br>一起发现小世界/);
-for (let i = 1; i <= 12; i++) {
- const filename = String(i).padStart(2, '0') + '.jpg';
- assert.equal(data.pages[i-1].image, filename);
- assert.ok(existsSync(`public/books/cat/${filename}`), `missing image ${filename}`);
+const html=readFileSync('index.html','utf8');
+assert.match(html,/I Like to Read!/);
+assert.match(html,/const book =/);
+assert.match(html,/const pageImage =/);
+assert.match(html,/const localAudio =/);
+assert.match(html,/const remoteAudio =/);
+assert.match(html,/function playPage\(/);
+assert.match(html,/function onAudioEnd\(/);
+assert.match(html,/function fallbackSpeech\(/);
+for(const name of ['together','listen','translation','tip','favorite','next'])assert.ok(html.includes('data-action="'+name+'"'),'missing control '+name);
+assert.match(html,/data-go="shelf"/);
+assert.match(html,/data-go="mine"/);
+assert.match(html,/Letta Machoga/);
+assert.match(html,/Wiehan de Jager/);
+assert.match(html,/Darshan Soni/);
+assert.match(html,/CC BY 3\.0/);
+assert.doesNotMatch(html,/rotate\(|readerLayout:'landscape'|滑动看画/);
+for(let i=1;i<=8;i++){
+ const number=String(i).padStart(2,'0');
+ const image='public/books/read/'+number+'.jpg';
+ assert.ok(existsSync(image),'missing book image '+image);
+ assert.ok(statSync(image).size>15000,'invalid original image '+image);
+ if(process.env.CI){
+  const sound='public/books/read/audio/'+number+'.mp3';
+  assert.ok(existsSync(sound),'missing original narration '+sound);
+  const buf=readFileSync(sound);
+  const mp3=buf.toString('ascii',0,3)==='ID3'||buf[0]===0xff&&(buf[1]&0xe0)===0xe0;
+  assert.ok(buf.length>600&&mp3,'invalid MP3 '+sound);
+ }
 }
-for (const name of ['cover.jpg', 'book-dash-logo.png']) {
- assert.ok(existsSync(`public/books/cat/${name}`), `missing ${name}`);
-}
-assert.equal(data.pages.filter(p => !p.en).length, 2);
-assert.ok(data.pages.every(p => p.translationStatus === 'editorial_draft'));
-console.log('PASS reading alpha: original spreads, attribution, local assets, narration, learning history');
+console.log('PASS portrait reader: illustrated pages, credits, real MP3 files and reading controls');

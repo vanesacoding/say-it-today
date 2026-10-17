@@ -1,204 +1,143 @@
-<!doctype html>
-<html lang="zh-CN">
-<head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-<link rel="manifest" href="./manifest.webmanifest" />
-<link rel="icon" href="./favicon.svg" type="image/svg+xml" />
-<meta name="theme-color" content="#faf7f0" /><meta name="description" content="叽咕一下：好故事，和孩子一起读。" />
-<title>叽咕一下 · Come Back, Cat!</title>
-<style>
-:root{--paper:#faf7f0;--white:#fffefa;--ink:#372d28;--sub:#8b7d70;--muted:#ab9f92;--orange:#e58258;--green:#628b70;--mint:#edf3e9;--stroke:#e9e2d8;--shadow:0 12px 40px rgba(87,68,46,.065);font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif;color:var(--ink)}*{box-sizing:border-box}html{background:#efede8}body{margin:0;font-size:14px}button{font:inherit;cursor:pointer}a{color:inherit}button:focus-visible,a:focus-visible{outline:3px solid #d6a074;outline-offset:2px}.stage{min-height:100vh;display:flex;align-items:flex-start;justify-content:center;padding:30px 24px;gap:44px}.mockphone{width:440px;flex:none;background:var(--paper);min-height:830px;box-shadow:0 25px 80px #604d4030;border:1px solid #e6dfd4;border-radius:31px;position:relative;overflow:hidden}.screen{height:812px;overflow:auto;scrollbar-width:thin;padding:22px 23px 95px}.screen.readerScreen{padding:17px 16px 34px;height:812px;display:flex;flex-direction:column;overflow:auto}.side{width:350px;padding-top:90px}.tinycap{font-size:11px;letter-spacing:.17em;color:#8f877e;text-transform:uppercase}.title{font-size:29px;letter-spacing:-.06em;line-height:1.18;margin:0;font-weight:800}.subtitle{font-size:13px;color:var(--sub);line-height:1.75}.row{display:flex;align-items:center;justify-content:space-between;gap:12px}.toprow{padding-bottom:19px}.mark{font-weight:900;font-size:26px;letter-spacing:-.075em}.mark small{font-size:10px;font-weight:500;letter-spacing:.19em;margin-left:9px;color:#9e8a6f}.chip{display:inline-flex;align-items:center;gap:4px;border-radius:999px;background:#e8eee4;padding:6px 10px;color:#5b7a63;font-weight:700;font-size:11px;white-space:nowrap}.chip.orange{background:#fff0e6;color:#c67149}.brandhero{margin:8px 0 20px}.brandhero h1{font-size:31px;line-height:1.32;letter-spacing:-.055em;margin:8px 0 8px}.brandhero p{color:var(--sub);line-height:1.7;margin:0}.hero{border-radius:22px;background:white;overflow:hidden;box-shadow:var(--shadow);border:1px solid var(--stroke)}.heroimg{height:230px;position:relative;background:radial-gradient(circle at 75% 25%,#f9ede1,transparent 40%),linear-gradient(140deg,#f1d1b7,#e3eacb 84%);display:flex;align-items:center;justify-content:center;overflow:hidden}.bookcover{width:165px;height:185px;object-fit:contain;filter:drop-shadow(0 12px 10px #68584033);position:relative;z-index:2}.coverfallback{font-size:104px;filter:drop-shadow(0 4px 1px #e8a87c);position:absolute;inset:0;display:flex;align-items:center;justify-content:center;z-index:1}.leaf{position:absolute;font-size:52px;opacity:.30}.leaf.a{bottom:-5px;left:8px;transform:rotate(-15deg)}.leaf.b{top:-18px;right:10px;transform:rotate(35deg)}.heroText{padding:20px 20px 21px}.heroTitle{font-size:24px;line-height:1.15;font-weight:850;margin:12px 0 5px;letter-spacing:-.035em}.heroText p{margin:0 0 18px;color:var(--sub);font-size:13px;line-height:1.7}.primary{background:var(--orange);color:#fff;border:0;border-radius:14px;padding:14px 16px;font-weight:750;box-shadow:0 5px 13px #eb977645}.primary:active{transform:translateY(1px)}.secondary{background:var(--white);border:1px solid var(--stroke);border-radius:14px;padding:13px 15px;color:var(--ink);font-weight:700}.full{width:100%}.littleTitle{font-size:16px;font-weight:850;margin:24px 0 12px}.tiles{display:grid;grid-template-columns:repeat(2,1fr);gap:11px}.tile{padding:15px 14px;background:#fffdf9;border:1px solid var(--stroke);border-radius:17px;min-height:95px;text-align:left}.tileIcon{font-size:27px;display:block;margin-bottom:7px}.tile strong{font-size:13px}.tile span:last-child{font-size:11px;color:var(--sub);display:block;margin-top:5px}.topAction{border:0;background:transparent;color:#746d62;font-size:21px;width:34px;height:34px}.bookhead{text-align:center;margin:2px 0 15px}.bookhead .bookcover{width:178px;height:188px;filter:drop-shadow(0 12px 9px #7860462b)}.bookhead .coverstand{position:relative;height:228px;background:linear-gradient(145deg,#f8e3cf,#edf1e4);border-radius:25px;display:flex;align-items:center;justify-content:center;margin:6px 0 20px}.bookhead h1{font-size:26px;line-height:1.1;margin:4px 0 7px}.bookhead p{color:var(--sub);line-height:1.6;margin:0}.detailGrid{display:grid;grid-template-columns:repeat(3,1fr);gap:9px;margin:20px 0}.detailGrid div{padding:12px 7px;background:#fff;border-radius:15px;text-align:center;border:1px solid var(--stroke)}.detailGrid strong{display:block;font-size:15px}.detailGrid span{font-size:10px;color:var(--muted);display:block;margin-top:4px}.panel{padding:16px;background:#fffdf9;border:1px solid var(--stroke);border-radius:17px;margin-top:12px}.panel h3{margin:0 0 7px;font-size:14px}.panel p{font-size:12px;color:var(--sub);line-height:1.85;margin:0}.panel p+p{margin-top:7px}.notice{background:#fff2e9;color:#8c5d47;padding:12px;border-radius:12px;font-size:11px;line-height:1.7}.tinyNote{color:var(--muted);font-size:11px;line-height:1.6}.divider{height:1px;background:var(--stroke);margin:17px 0}.prepcard{border:1px solid #eddfd3;border-radius:18px;background:white;padding:17px;margin:14px 0}.prepcard h3{font-size:15px;margin:0 0 8px}.prepcard .eng{font-size:21px;font-weight:800;margin:9px 0}.prepcard .chn{color:var(--sub);line-height:1.7}.cap{font-size:11px;color:#ad8b69;letter-spacing:.08em;font-weight:800}.step{display:flex;gap:12px;margin:16px 0}.stepno{background:#e9f0e8;width:32px;height:32px;border-radius:50%;display:grid;place-items:center;color:var(--green);font-weight:800;flex:none}.step strong{font-size:14px}.step p{font-size:12px;line-height:1.7;color:var(--sub);margin:5px 0}.readerHeader{display:flex;align-items:center;justify-content:space-between;padding:0 3px 12px;gap:10px}.readerHeader strong{font-size:14px}.round{width:38px;height:38px;display:grid;place-items:center;border:1px solid var(--stroke);border-radius:50%;background:var(--white);font-size:18px}.meter{height:5px;border-radius:9px;background:#eee9e0;overflow:hidden;margin:0 4px 14px}.meter>div{height:100%;background:var(--orange);transition:width .25s;border-radius:9px}.seg{display:flex;gap:5px;background:#f0ebe3;border-radius:12px;padding:4px;margin-bottom:12px}.seg button{flex:1;border:0;background:transparent;color:#8d8175;padding:10px 8px;border-radius:9px;font-size:12px}.seg button.active{background:#fff;color:var(--ink);font-weight:800;box-shadow:0 2px 5px #a79a8825}.pagePicture{width:100%;height:min(43vh,350px);min-height:235px;border-radius:18px;overflow:hidden;background:#efece5;display:flex;align-items:center;justify-content:center;position:relative}.pagePicture img{width:100%;height:100%;object-fit:contain;background:#f9f7f1}.imageFallback{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;flex-direction:column;background:linear-gradient(130deg,#f7eadb,#e9eddd);gap:16px}.imageFallback .cat{font-size:85px}.imageFallback p{color:#988976;text-align:center;line-height:1.7;font-size:12px;padding:0 24px}.pagePicture img{position:relative;z-index:1}.pageBubble{position:absolute;z-index:2;top:9px;right:9px;color:#6d7767;background:#ffffffee;padding:6px 9px;border-radius:999px;font-size:10px}.readingText{text-align:center;padding:12px 6px 8px}.readingText h2{font-size:19px;line-height:1.35;margin:6px 0 7px;letter-spacing:-.025em}.readingText .hint{font-size:11px;color:#bf8c66}.readingText .cn{font-size:13px;line-height:1.75;color:var(--sub)}.readingText .engline{font-size:16px;font-weight:800;margin-top:8px;line-height:1.4}.readerActions{display:flex;gap:8px;align-items:center;justify-content:center;margin:10px 0}.pill{background:#fffdfb;border:1px solid #e8dfd7;border-radius:30px;padding:9px 12px;font-size:12px;color:#675d54}.pill.selected{background:#e8efe8;border-color:#dae7d8;color:#577c61}.pageNav{display:flex;align-items:center;justify-content:space-between;gap:11px;margin-top:auto;padding-top:14px}.pageNav button{flex:1}.parentPanel{background:#eaf1e8;border:1px solid #dfeade;padding:14px;border-radius:15px;margin:8px 0}.parentPanel strong{color:#526d55}.parentPanel p{color:#586855;line-height:1.7;margin:7px 0 0;font-size:12px}.parentPanel em{font-style:normal;color:#a27251;font-size:11px}.doneHero{background:linear-gradient(135deg,#f8e3cc,#ecf1e8);padding:29px 15px;border-radius:23px;text-align:center;margin:12px 0}.doneHero .symbol{font-size:64px}.doneHero h1{font-size:27px;margin:10px 0 5px;letter-spacing:-.04em}.doneHero p{line-height:1.75;color:var(--sub);margin:0}.task{background:white;border-radius:20px;padding:17px;border:1px solid var(--stroke);margin:17px 0}.task strong{display:block;margin:0 0 8px;font-size:15px}.task p{margin:0;color:var(--sub);line-height:1.75;font-size:13px}.task .micro{background:#f5f1ea;padding:9px 11px;border-radius:11px;margin:13px 0 0;color:#7a6c5c;font-size:11px}.navbar{position:absolute;bottom:0;left:0;right:0;display:flex;justify-content:space-around;background:#fbf8f1f5;border-top:1px solid var(--stroke);padding:12px 6px 20px;backdrop-filter:blur(9px);z-index:4}.navbtn{background:transparent;border:0;color:#a79a8c;display:flex;flex-direction:column;align-items:center;gap:4px;font-size:12px;width:30%}.navbtn span{font-size:22px}.navbtn.active{color:var(--orange);font-weight:800}.side .sideCard{border-radius:22px;background:#fffdf9;border:1px solid var(--stroke);padding:25px;box-shadow:var(--shadow)}.side h2{font-size:28px;letter-spacing:-.055em;line-height:1.28;margin:7px 0 14px}.side p{line-height:1.9;color:#746a60}.side .mini{font-size:12px;color:#988c7f;margin-top:15px}.roadmap{margin-top:15px;background:#f4ede3;border-radius:16px;padding:13px 16px}.roadmap li{line-height:2;color:#74675b}.footerlinks{display:flex;gap:10px;flex-wrap:wrap;margin-top:14px}.footerlinks a{font-size:12px;text-decoration:underline;color:#7b6e60}.badgeStatus{font-size:11px;font-weight:700;background:#f7ece3;padding:7px 10px;border-radius:999px;color:#c17b59}.shelfItem{display:flex;gap:13px;align-items:center;border:1px solid var(--stroke);background:white;border-radius:17px;padding:10px;margin:13px 0;text-align:left;width:100%}.shelfItem img{width:83px;height:88px;object-fit:cover;border-radius:9px}.shelfItem h3{margin:0 0 5px}.shelfItem p{font-size:12px;color:var(--sub);margin:0;line-height:1.6}.shelfCover{width:83px;height:88px;border-radius:9px;background:#e9d5b9;display:grid;place-items:center;font-size:40px;flex:none}.kbd{font-size:10px;color:#b0a59a}.toast{position:absolute;bottom:90px;left:50%;transform:translateX(-50%);background:#3d352e;color:white;border-radius:16px;padding:10px 15px;font-size:12px;box-shadow:0 6px 25px #251c1733;z-index:8;max-width:90%;text-align:center;display:none}.toast.show{display:block}@media(max-width:850px){.stage{padding:0;display:block}.side{display:none}.mockphone{border:0;border-radius:0;width:100%;max-width:500px;min-height:100dvh;margin:auto;box-shadow:none}.screen{height:100dvh;padding-bottom:105px}.screen.readerScreen{height:100dvh}.navbar{position:fixed;bottom:0;left:50%;transform:translateX(-50%);max-width:500px;width:100%;padding-bottom:calc(11px + env(safe-area-inset-bottom))}}@media(max-width:370px){.screen{padding-left:15px;padding-right:15px}.screen.readerScreen{padding-left:11px;padding-right:11px}.pagePicture{min-height:200px;height:33vh}.readingText h2{font-size:17px}}
-.readingText h2{white-space:pre-line}.pagePicture img{object-fit:contain}.readerScreen .pageNav{margin-top:10px}.readerScreen .pagePicture{height:min(43vh,355px);min-height:190px}.stage{gap:0}.mockphone{max-width:440px}.notice{overflow-wrap:anywhere}@media(max-width:850px){.stage{width:100%;margin:0}.mockphone{width:100%;max-width:560px}}
-/* Jigu v1.1 — reading first / quieter home */
-.homeV2 .toprow{padding-bottom:18px}.homeV2 .mark{font-size:25px}.homeV2 .mark small{letter-spacing:.12em;font-size:10px}
-.homeLibrary{background:none;border:0;color:var(--sub);font-size:12px;padding:8px 1px}
-.homeEyebrow{font-size:16px;font-weight:800;margin:7px 0 15px;letter-spacing:-.025em}
-.homeV2 .hero{background:var(--white);border-radius:20px;box-shadow:none}
-.homeV2 .heroimg{height:310px;background:#eee5d7;border-radius:0;position:relative}
-.homeV2 .heroimg .bookcover{width:83%;height:90%;max-width:245px;max-height:282px;object-fit:contain;filter:drop-shadow(0 10px 13px #38281b24)}
-.homeV2 .heroimg .coverfallback{font-size:90px}
-.homeV2 .heroText{padding:19px 19px 20px}
-.homeV2 .heroTitle{font-size:26px;margin:6px 0 3px;line-height:1.2}
-.homeV2 .heroText p{font-size:13px;margin:0 0 17px;line-height:1.6}
-.bookTag{font-size:11px;color:var(--green);font-weight:700}
-.homeV2 .primary{padding:14px 16px;border-radius:12px;box-shadow:none}
-.homeSubAction{display:block;margin:18px auto 0;padding:10px 12px;background:transparent;border:0;color:#746f64;font-size:12px}
-.readerScreen.readingV2{padding:13px 9px 11px;display:flex;flex-direction:column;overflow:hidden;height:812px;position:relative;background:#faf7f0}
-.readingV2 .readerHeader{padding:0 5px 8px;min-height:42px;flex:none}
-.readingV2 .readerHeader strong{flex:1;text-align:center;font-size:13px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.readingV2 .round{width:34px;height:34px;font-size:20px;background:transparent;border-color:#e9e1d8}
-.readingV2 .meter{height:3px;margin:0 7px 10px;flex:none}
-.readerModeBar{display:flex;align-items:center;justify-content:space-between;gap:9px;margin:0 6px 10px;flex:none}
-.readerModeBar .modeSelect{display:flex;gap:2px;padding:3px;border-radius:999px;background:#f0ebe3}
-.readerModeBar .modeSelect button{border:0;background:transparent;color:#8d8175;font-size:11px;padding:6px 10px;border-radius:999px}
-.readerModeBar .modeSelect button.active{background:#fffdfa;color:#3d332e;font-weight:750}
-.readerModeBar .miniCounter{font-size:11px;color:var(--sub);font-variant-numeric:tabular-nums}
-.readingV2 .pagePicture{display:block;flex:1 1 auto;min-height:220px;height:auto;max-height:none;position:relative;overflow-x:auto;overflow-y:hidden;overscroll-behavior-x:contain;border-radius:13px;background:#f4f0e8;scrollbar-width:none;-webkit-overflow-scrolling:touch;touch-action:pan-x pan-y}
-.readingV2 .pagePicture::-webkit-scrollbar{display:none}
-.readingV2 .pagePicture img{position:relative;z-index:1;height:100%;width:auto;max-width:none;object-fit:contain;background:transparent;display:block}
-.readingV2 .pagePicture .imageFallback{font-size:12px;z-index:0}
-.artScrollHint{position:sticky;z-index:2;left:9px;bottom:9px;display:inline-flex;margin:0;padding:6px 9px;background:#ffffffd9;color:#71685d;border-radius:999px;font-size:10px;pointer-events:none;max-width:140px}
-.artFullButton{position:sticky;z-index:3;left:calc(100% - 38px);top:8px;margin-top:-38px;border:0;background:#fffdf9e6;border-radius:999px;width:30px;height:30px;color:#4e463c;font-size:17px;display:flex;justify-content:center;align-items:center}
-.readerBottom{flex:none;padding:0 4px 5px}
-.readingV2 .readingText{text-align:center;padding:12px 5px 4px;min-height:49px}
-.readingV2 .readingText h2{font-size:19px;line-height:1.35;margin:3px 0;font-weight:800;letter-spacing:-.016em;max-width:98%}
-.readingV2 .readingText .emptyPage{color:var(--sub);font-size:13px;font-weight:550}
-.readingV2 .readerActions{margin:7px 0 10px;gap:6px;justify-content:center}
-.readingV2 .readerActions .pill{padding:7px 12px;border-radius:99px;background:transparent;font-size:12px;min-height:34px;border-color:transparent;color:#746a60}
-.readingV2 .readerActions .pill.audio{background:#e9eee6;color:#446d54;font-weight:750}
-.readingV2 .pageNav{margin:0;padding:0;gap:10px}
-.readingV2 .pageNav button{padding:13px 12px;box-shadow:none;border-radius:12px;font-size:13px}
-.readingV2 .pageNav .secondary{background:#fffdfa}
-.readerDrawer{position:absolute;left:12px;right:12px;bottom:69px;z-index:8;padding:17px 18px 16px;background:#fffefa;border:1px solid #e8e0d6;border-radius:18px;box-shadow:0 -7px 35px #55453726;max-height:43%;overflow-y:auto}
-.readerDrawerHeader{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-bottom:8px}
-.readerDrawerHeader strong{font-size:13px}
-.readerDrawerHeader button{background:transparent;border:0;color:#76695e;font-size:20px;padding:0 3px}
-.readerDrawer p{font-size:14px;line-height:1.7;color:#554f46;margin:0}
-.readerDrawer .smallHelp{font-size:11px;color:var(--sub);margin-top:7px}
-.readerImageModal{position:absolute;inset:0;z-index:30;background:#25201ddd;display:flex;align-items:center;justify-content:center;padding:64px 8px 60px}
-.readerImageModal img{max-width:100%;max-height:100%;object-fit:contain;touch-action:pinch-zoom}
-.readerImageModal button{position:absolute;right:17px;top:21px;width:38px;height:38px;border:1px solid #ffffff69;background:#ffffffef;border-radius:50%;font-size:23px;color:#332a24}
-.readerImageModal .imageHelp{position:absolute;bottom:19px;left:0;right:0;text-align:center;color:#fff;font-size:11px}
-@media(max-width:850px){.readerScreen.readingV2{height:100dvh;padding-bottom:calc(10px + env(safe-area-inset-bottom))}}
-@media(max-width:370px){.readingV2 .readingText h2{font-size:17px}.readerScreen.readingV2{padding-left:7px;padding-right:7px}.readingV2 .pagePicture{min-height:185px}.readerModeBar{margin-bottom:6px}}
-@media(max-height:670px){.readingV2 .readerActions{margin:3px 0 5px}.readingV2 .readingText{padding-top:7px}.readingV2 .readerModeBar{margin-bottom:6px}}
-/* Jigu landscape-first picture-book reader, 2026-10-17 */
-.simpleSection .toprow{padding-bottom:12px}
-.simpleSection .mark{font-size:23px;letter-spacing:-.04em}
-.simpleSection .sectionMeta{font-size:12px;color:var(--sub)}
-.simpleSection .shelfItem{margin:8px 0 0}
-.simpleSection .profileFirst{margin-top:15px}
-.readerScreen.landscapeReader{position:relative;overflow:hidden;display:flex;flex-direction:column;padding:8px 13px 9px;height:812px;background:#faf7f0}
-.landscapeReader .readerHeader{flex:0 0 auto;padding:0 2px 4px;min-height:33px;display:flex;align-items:center;gap:7px}
-.landscapeReader .readerHeader strong{flex:1;font-size:14px;font-weight:700;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.landscapeReader .readerHeader .round{width:30px;height:30px;flex:0 0 30px;border:0;background:transparent;color:var(--ink);font-size:24px}
-.landscapeReader .miniCounter{font-size:11px;color:var(--sub);white-space:nowrap}
-.readerLayoutSwitch{border:1px solid var(--stroke);border-radius:10px;background:var(--white);color:#78695e;padding:6px 10px;font-size:11px;white-space:nowrap}
-.landscapeReader .readerArtwork{position:relative;flex:1 1 auto;min-height:0;display:flex;justify-content:center;align-items:center;background:#f0ede7;border-radius:13px;overflow:hidden}
-.landscapeReader .readerArtwork img{position:relative;z-index:1;display:block;width:100%;height:100%;object-fit:contain}
-.landscapeReader .readerArtwork .imageFallback{z-index:0;inset:0}
-.landscapeReader .artArrow{position:absolute;z-index:3;top:50%;transform:translateY(-50%);height:44px;width:36px;border:0;border-radius:12px;background:rgba(255,254,250,.87);color:#5f5148;font-size:28px;display:flex;align-items:center;justify-content:center;box-shadow:0 3px 15px #33281d14}
-.landscapeReader .artArrow:disabled{opacity:.2;pointer-events:none}
-.landscapeReader .artArrow.prev{left:6px}.landscapeReader .artArrow.next{right:6px}
-.landscapeReader .readerCaption{flex:0 0 auto;padding-top:4px;display:flex;align-items:center;justify-content:space-between;gap:12px;min-height:48px}
-.landscapeReader .readerOriginal{flex:1;min-width:0;display:flex;justify-content:flex-start;align-items:center}
-.landscapeReader .readerOriginal strong{font-size:17px;line-height:1.25;font-weight:700;letter-spacing:-.02em}
-.landscapeReader .readerOriginal strong.noText{font-size:12px;color:var(--sub);font-weight:500}
-.landscapeReader .readerTools{flex:0 0 auto;display:flex;align-items:center;gap:5px;flex-wrap:nowrap}
-.landscapeReader .readerTools button{border:1px solid #e4ded5;border-radius:9px;background:#fffcf8;color:#66584b;padding:7px 10px;font-size:11px;white-space:nowrap}
-.landscapeReader .readerTools button.active{background:#dfe9db;color:#42644c;border-color:#d5e3d0}
-.landscapeReader .readerTools .toolAudio{font-weight:750;background:#e5eee1;border-color:#dce6d7;color:#4f7456}
-.landscapeReader .readerDrawer{position:absolute;z-index:8;left:12px;right:12px;bottom:56px;border:1px solid #dfebd9;box-shadow:0 12px 30px #4d453c1c;max-height:48%;overflow:auto}
-.landscapeReader .readerDrawer p{font-size:13px;line-height:1.55}
-.landscapeReader .readerDrawerHeader{display:flex;justify-content:space-between;align-items:center}
-.landscapeReader .readerDrawerHeader button{font-size:22px}
-.landscapeReader .readerAttribution{position:absolute;z-index:3;left:9px;bottom:5px;font-size:9px;color:#817468;background:#fffefaab;padding:2px 6px;border-radius:7px}
-@media (min-width:1001px){.mockphone:has(.landscapeReader){width:min(900px,calc(100vw - 48px));min-height:unset;border-radius:24px}.readerScreen.landscapeReader{height:min(70vh,520px)}.landscapeReader .readerArtwork{min-height:0}}
-@media (max-width:1000px){
- body:has(.landscapeReader){overflow:hidden}
- .mockphone:has(.landscapeReader){position:fixed!important;inset:0!important;width:100vw!important;max-width:none!important;min-height:100dvh!important;border:0!important;border-radius:0!important;box-shadow:none!important;overflow:visible!important;z-index:20}
- .screen.readerScreen.landscapeReader{z-index:21;max-width:none!important;box-sizing:border-box;overflow:hidden!important;margin:0;border:0;border-radius:0;box-shadow:none}
- .landscapeReader .readerHeader{min-height:30px}
- .landscapeReader .readerCaption{min-height:49px}
-}
-@media (max-width:1000px) and (orientation:portrait){
- .screen.readerScreen.landscapeReader:not(.readerPortrait){position:fixed!important;top:0;left:0;width:100dvh!important;height:100dvw!important;transform-origin:top left;transform:rotate(90deg) translateY(-100%);padding:5px 13px 6px}
- .screen.readerScreen.landscapeReader.readerPortrait{position:fixed!important;inset:0!important;width:100vw!important;height:100dvh!important;transform:none;padding:12px 12px 18px}
- .readerPortrait .readerCaption{display:flex;flex-direction:column;gap:5px;align-items:stretch;min-height:92px}
- .readerPortrait .readerOriginal{justify-content:center;text-align:center}
- .readerPortrait .readerTools{justify-content:center}
- .readerPortrait .readerDrawer{bottom:110px}
-}
-@media (max-width:1000px) and (orientation:landscape){
- .screen.readerScreen.landscapeReader{position:fixed!important;inset:0!important;width:100vw!important;height:100dvh!important;transform:none;padding:5px max(10px,env(safe-area-inset-right)) 5px max(10px,env(safe-area-inset-left))}
-}
-@media (max-height:360px) and (orientation:landscape){.landscapeReader .readerCaption{min-height:43px}.landscapeReader .readerOriginal strong{font-size:15px}.landscapeReader .readerTools button{padding:5px 8px}}
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#faf7f1"><meta name="description" content="叽咕一下：精选分级英文绘本，孩子听故事，家长轻松陪读。"><title>叽咕一下 · 分级英文绘本</title><style>
+:root{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Noto Sans CJK SC",sans-serif;color:#352c28;background:#efebe5;--paper:#faf7f1;--brown:#342a25;--dim:#8c7e73;--peach:#c97853;--border:#eee8e0;--soft:#f3eee6}
+*{box-sizing:border-box}body{margin:0}button{font:inherit;border:0;cursor:pointer;color:inherit}button:focus-visible,a:focus-visible{outline:3px solid #dfa77b;outline-offset:3px}a{color:inherit}.shell{max-width:460px;min-height:100dvh;margin:0 auto;background:var(--paper);box-shadow:0 10px 45px #58453115;position:relative}.page{min-height:100dvh;display:flex;flex-direction:column;padding:calc(env(safe-area-inset-top) + 19px) 20px calc(env(safe-area-inset-bottom) + 18px)}.simpleHead{display:flex;align-items:center;justify-content:space-between;gap:12px;height:43px;flex:none}.brand{font-size:19px;letter-spacing:-.05em;font-weight:850}.brand small{font-size:10px;font-weight:600;letter-spacing:.17em;color:#ae9d8d;margin-left:6px}.tiny{font-size:12px;color:var(--dim)}.textBtn{font-size:12px;color:#786a60;background:transparent;padding:9px 0}.iconBtn{width:38px;height:38px;display:grid;place-items:center;font-size:22px;background:transparent;border-radius:50%}.iconBtn:hover,.textBtn:hover{background:#efe7dd}.homeTitle{font-size:14px;font-weight:650;color:#8c7d6f;margin:31px 0 13px}.bookEntry{background:#fffcf8;border:1px solid #f0e9e0;border-radius:17px;overflow:hidden}.entryImage{display:flex;justify-content:center;align-items:center;background:#e7efe1;padding:14px}.entryImage img{height:auto;width:min(72%,250px);aspect-ratio:1;object-fit:contain;border-radius:5px;box-shadow:0 7px 24px #4a35251b}.entryBody{padding:19px 18px 20px}.entryBody h1{font-size:26px;letter-spacing:-.045em;margin:0 0 4px}.entryBody p{margin:0 0 18px;color:#897c70;font-size:13px}.metadata{font-size:11px;color:#777568;margin-bottom:13px}.primary{width:100%;border-radius:12px;padding:13px;background:#38312c;color:white;font-weight:700;font-size:14px}.secondary{background:#f0ebe4;border-radius:11px;padding:12px 14px;font-size:13px}.mutedLink{display:block;margin:19px auto 0;background:transparent;color:#918277;font-size:12px;padding:9px}.spacer{flex:1}.foot{margin-top:25px;font-size:11px;color:#a3978c;text-align:center;line-height:1.6}.reading{padding:calc(env(safe-area-inset-top) + 7px) 13px calc(env(safe-area-inset-bottom) + 12px)}.readerHeader{height:47px;display:flex;align-items:center;justify-content:space-between;gap:8px;flex:none}.readerHeader .heading{font-size:13px;font-weight:700;max-width:65%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.readerHeader .heading small{font-size:10px;color:#a09386;margin-left:7px;font-weight:600}.heartActive{color:#c97462}.stepProgress{height:3px;border-radius:4px;background:#ece5db;overflow:hidden;margin:0 5px 15px}.stepProgress div{height:100%;background:#cf865f;transition:width .2s}.readMode{display:flex;align-items:center;justify-content:space-between;padding:0 4px;margin-bottom:13px}.segment{padding:3px;background:#efe9e1;border-radius:12px;display:flex;gap:3px}.segment button{padding:8px 16px;font-size:12px;border-radius:9px;background:transparent;color:#817369}.segment button.active{background:#fffdf9;color:#302922;box-shadow:0 1px 4px #70513c10;font-weight:750}.pageCount{font-size:11px;color:#a19286}.artFrame{width:100%;aspect-ratio:1/1;background:#efeae2;border-radius:13px;overflow:hidden;touch-action:pan-y;user-select:none;position:relative;flex:none}.artFrame img{height:100%;width:100%;object-fit:contain;display:block}.imgLoading{position:absolute;inset:0;display:grid;place-items:center;color:#b3a89d;font-size:12px;background:#eee9e2}.artFrame.loaded .imgLoading{display:none}.textPanel{min-height:77px;display:flex;align-items:center;justify-content:center;padding:13px 5px 3px}.readEnglish{font-family:Georgia,"Times New Roman",serif;text-align:center;font-size:clamp(20px,5.8vw,27px);font-weight:700;line-height:1.27;letter-spacing:-.025em;color:#383029;margin:0}.readerTools{display:flex;gap:9px;justify-content:center;margin:11px 0 10px;flex:none}.tool{font-size:12px;border-radius:999px;border:1px solid #e8e1d8;background:#fdfaf6;padding:10px 15px;white-space:nowrap}.tool.listen{color:#955f40;border-color:#ead7c8}.tool:disabled{opacity:.4}.pageControls{display:flex;gap:11px;align-items:center;margin-top:auto;padding-top:9px;flex:none}.pageControls button{flex:1;font-size:13px;font-weight:650;height:46px;border-radius:12px}.prev{background:#eee9e1}.next{background:#352f2a;color:#fff}.prev:disabled{opacity:.36}.gestureHint{text-align:center;font-size:10px;color:#b4a89d;margin:11px 0 0}.sheetScrim{position:fixed;inset:0;background:#38271b57;z-index:50;display:flex;align-items:flex-end;justify-content:center}.sheet{width:min(100%,460px);background:#fffcf8;border-radius:20px 20px 0 0;padding:21px 24px calc(env(safe-area-inset-bottom) + 28px);box-shadow:0 -8px 20px #50362719;max-height:78dvh;overflow:auto}.sheetHead{display:flex;justify-content:space-between;align-items:center;font-weight:800;font-size:15px;margin-bottom:14px}.sheetText{font-size:16px;line-height:1.8;margin:8px 0;color:#3a322d}.sheetSub{font-size:12px;line-height:1.9;color:#82746a}.credit{font-size:12px;line-height:1.95;color:#796f64}.credit a{color:#996243;text-decoration:underline}.endGraphic{width:90px;height:90px;display:grid;place-items:center;background:#e8eede;border-radius:50%;font-size:37px;margin:70px auto 23px}.endTitle{text-align:center;font-size:25px;letter-spacing:-.05em;margin:0}.endSub{text-align:center;line-height:1.8;font-size:13px;color:#82746b;margin:10px 0 35px}.endActivity{border:1px solid #eae3d9;border-radius:14px;background:#fffdf9;padding:21px 20px;margin-bottom:25px}.endActivity h3{font-size:16px;margin:0 0 9px}.endActivity p{font-size:13px;line-height:1.9;color:#7d7064;margin:0}.status{position:fixed;top:calc(env(safe-area-inset-top) + 12px);left:50%;transform:translateX(-50%);background:#40372d;color:white;font-size:12px;border-radius:99px;padding:10px 16px;z-index:90;max-width:88vw;text-align:center;box-shadow:0 4px 16px #2820152e}.hidden{display:none!important}
+@media(max-width:345px){.page{padding-left:13px;padding-right:13px}.reading{padding-left:11px;padding-right:11px}.tool{padding:9px 12px}.textPanel{min-height:64px}.readerTools{gap:5px}.readMode{margin-bottom:8px}}@media(min-width:740px){.shell{margin:28px auto;min-height:calc(100dvh - 56px);border-radius:23px;overflow:hidden}.page{min-height:calc(100dvh - 56px)}.reading{max-height:860px}}
 
-/* Reader entry hint above rotated canvas */
-@media(max-width:1000px) and (orientation:portrait){.mockphone:has(.landscapeReader:not(.readerPortrait)) #toast.show{position:fixed;left:50%;bottom:18px;transform:translateX(-50%);z-index:100;max-width:86vw;padding:12px 17px;font-size:13px;line-height:1.5}}
-</style>
-</head>
-<body>
-<div class="stage">
-  <div class="mockphone" id="phone"><main id="app"></main><div id="toast" class="toast" role="status" aria-live="polite"></div></div>
-</div>
-<script>
-const SRC='https://bookdash.github.io/bookdash-books/come-back-cat/en/';
-const COVER='./books/cat/cover.jpg';
-const STORY=[
-{scene:'小猫躲在沙发底下。',eng:'Where is the little cat?',prompt:'让孩子先找一找：小猫躲在哪里？指到就算参与。',word:'cat',fallback:'沙发下面的小猫'},
-{scene:'小猫一下爬到了窗帘上。',eng:'Look up! The cat is climbing.',prompt:'可以用手指向画面上方，问孩子有没有找到小猫。不要让孩子模仿攀爬窗帘。',word:'up',fallback:'爬上窗帘的小猫'},
-{scene:'小猫坐在篮子里，看上去不太情愿。',eng:'Does the cat look happy?',prompt:'和孩子一起看看小猫的表情。可以问“开心还是不开心？”不必用英语回答。',word:'basket',fallback:'篮子里气鼓鼓的小猫'},
-{scene:'它又悄悄溜向门口。',eng:'Oh! The cat is going out.',prompt:'让孩子观察门的位置，并试着说说小猫要去哪里。',word:'door',fallback:'从门边溜走的小猫'},
-{scene:'来到花园，小猫追起了蝴蝶。',eng:'Can you spot a butterfly?',prompt:'指一只蝴蝶，再让孩子自己找第二只。',word:'butterfly',fallback:'花园里的蝴蝶'},
-{scene:'小猫扯下一只袜子，细线缠住尾巴。',eng:'What has the cat found?',prompt:'找一找：袜子在哪里？细线在哪里？先观察，不要求复述。',word:'sock',fallback:'叼走袜子的小猫'},
-{scene:'小猫又遇见一只小蜗牛。',eng:'Can you find the snail?',prompt:'鼓励孩子注意画面里的小细节，而不是只看小猫。',word:'snail',fallback:'遇到蜗牛的小猫'},
-{scene:'小猫来到了小鸡身边。',eng:'What do you think happens next?',prompt:'停一停，让孩子猜一猜下一页会发生什么。可以用中文说。',word:'chicken',fallback:'和小鸡相遇的小猫'},
-{scene:'鸡毛飞得到处都是。',eng:'Look at all those feathers!',prompt:'一起找飞起来的羽毛。重点是观察，不必进行正确性测试。',word:'feather',fallback:'飞散的羽毛'},
-{scene:'小猫回到了篮子，看起来准备休息。',eng:'Is it time to rest?',prompt:'结合日常生活问“我们困了会做什么？”也可以做一个轻轻打哈欠的动作。',word:'nap',fallback:'回篮子的猫咪'},
-{scene:'咦？篮子里怎么空了？',eng:'Where has the cat gone?',prompt:'这是一页很适合制造悬念的画面：先不翻页，让孩子猜。',word:'where',fallback:'空空的猫篮'},
-{scene:'原来，小猫舒服地躺在沙发上睡着了。',eng:'Found you, little cat!',prompt:'用惊喜的语气结束故事。孩子如果想重读，欢迎直接从头再来。',word:'sleep',fallback:'沙发上睡着的小猫'}
-];
-const ORIGINAL=[["Come back, cat! Play with me.", "回来吧，小猫！陪我玩。"], ["Sit in your basket. Stay right here!", "坐进你的篮子里。好好待在这儿！"], ["Come back, cat! That’s way too high.", "回来，小猫！那儿太高啦。"], ["Come back, cat! Don’t go outside.", "回来，小猫！不要跑到外面去。"], ["", "这幅画原书没有文字，可以静静看图。"], ["Come back, cat! That’s not yours.", "回来，小猫！那不是你的东西。"], ["Come back, cat! What have you got?", "回来，小猫！你拿着什么呢？"], ["Come back, cat. That’s not your friend!", "回来，小猫。那可不是你的朋友！"], ["Hello, cat! Are you back?", "你好，小猫！你回来了吗？"], ["Stay in your basket. It’s nap time now.", "待在你的篮子里。现在是午睡时间啦。"], ["Cat?", "小猫？"], ["", "这幅画原书没有文字，可以看图猜猜小猫睡得怎么样。"]];
-STORY.forEach((p,i)=>{p.eng=ORIGINAL[i][0];p.translation=ORIGINAL[i][1];});
-const KEY='jigu_cat_readalong_alpha_v1';
-let narrating=false, narrateTimer=null, activeUtterance=null;
-let model={view:'home',page:0,progress:0,started:false,finished:false,bookmark:false,showCn:false,showTips:false,fullImage:false,uiLayoutV2:2,readerLayout:'landscape',landscapeHintSeen:false,readMode:'together',activity:false,savedAt:null};
-try{const old=JSON.parse(localStorage.getItem(KEY)||'null');if(old)model={...model,...old,view:'home',showTips:false,fullImage:false};if(model.uiLayoutV2!==2){model.showCn=false;model.showTips=false;model.uiLayoutV2=2}model.readerLayout=model.readerLayout==='portrait'?'portrait':'landscape'}catch(e){}
-function save(){model.savedAt=Date.now();try{localStorage.setItem(KEY,JSON.stringify(model))}catch(e){}}
-const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-function nav(){return `<nav class="navbar"><button class="navbtn ${model.view==='home'?'active':''}" data-go="home"><span>☀</span>今天</button><button class="navbtn ${model.view==='library'?'active':''}" data-go="library"><span>▤</span>小书架</button><button class="navbtn ${model.view==='profile'?'active':''}" data-go="profile"><span>♡</span>我的</button></nav>`}
-function head(title,where='home'){return `<div class="row toprow"><button class="topAction" data-go="${where}" aria-label="返回">‹</button><strong>${title}</strong><button class="topAction" data-go="rights" aria-label="版权和来源">ⓘ</button></div>`}
-function cover(cls='bookcover'){return `<span class="coverfallback" aria-hidden="true">🐈</span><img class="${cls}" alt="Book Dash《Come Back, Cat!》英文原版封面" src="${COVER}" style="display:none" onload="this.style.display='block';this.previousElementSibling.style.display='none'" onerror="this.style.display='none'">`}
-
-function home(){return `<section class="screen homeV2"><div class="row toprow"><div class="mark">叽咕一下 <small>JIGU</small></div><button class="homeLibrary" data-go="library">小书架 →</button></div><div class="homeEyebrow">${model.started?'接着读':'今天读这本'}</div><div class="hero"><div class="heroimg">${cover()}</div><div class="heroText"><span class="bookTag">S1 · 亲子共读</span><div class="heroTitle">Come Back, Cat!</div><p>回来吧，小猫！</p><button class="primary full" data-go="reader">${model.started?'接着读 →':'开始阅读 →'}</button></div></div><button class="homeSubAction" data-go="prep">第一次读？妈妈先看一眼 ›</button>${nav()}</section>`}
-function detail(){return `<section class="screen">${head('书籍介绍')}<div class="bookhead"><div class="coverstand">${cover()}</div><span class="chip">S1 · 看图听故事</span><h1>Come Back, Cat!</h1><p>回来吧，小猫！<br>一只调皮猫咪的短篇故事</p></div><div class="detailGrid"><div><strong>12幅</strong><span>原版故事插画</span></div><div><strong>约5分钟</strong><span>家长共读建议</span></div><div><strong>不考核</strong><span>听、看、指一指</span></div></div><div class="panel"><h3>这本书为什么适合入门？</h3><p>画面连续，语言反复，孩子可以用指认、猜测和模仿表情参与。不会认字、不会说英语也没有关系。</p></div><div class="panel"><h3>妈妈可以怎么用？</h3><p>先用30秒听发音、看陪读提示；读的时候以图片为主，读到有趣的地方再停下来问一句。中文和引导语都可以按需展开。</p></div><div class="notice" style="margin-top:13px">内容来源：Book Dash (CC BY 4.0)。已按出版方原版顺序接入12幅插画和对应英文原文；中文翻译及陪读提示由叽咕添加。</div><div style="height:15px"></div><button class="primary full" data-go="prep">开始前，妈妈看30秒 →</button><div style="height:8px"></div><button class="secondary full" data-go="reader">直接开始共读</button><div class="footerlinks"><a target="_blank" rel="noopener" href="${SRC}">阅读出版方英文原版 ↗</a><a href="#" data-go="rights">创作与授权说明 ↗</a></div></section>`}
-function prep(){return `<section class="screen">${head('妈妈先准备','detail')}<div class="tinycap">30 SECOND PREP</div><h1 class="title" style="margin:12px 0">不用英语很好，<br>也能开始共读。</h1><p class="subtitle">看一眼就好，正式读书时随时可以再打开。</p><div class="prepcard"><span class="cap">今天记住一个核心表达</span><div class="eng">Come back, cat!</div><div class="chn">回来吧，小猫！</div><div style="height:13px"></div><button class="secondary" data-action="speak-core">▶ 听设备示范音</button><p class="tinyNote" style="margin:9px 0 0">当前使用设备系统语音试听；人工听感验收与固定音轨待完成。</p></div><div class="step"><div class="stepno">1</div><div><strong>先看图，不急着翻译</strong><p>孩子找到小猫、注意到不同动作，就已经在参与故事。</p></div></div><div class="step"><div class="stepno">2</div><div><strong>挑一句简单问话</strong><p>Where is the cat?（小猫在哪儿？）让孩子指一指即可。</p></div></div><div class="step"><div class="stepno">3</div><div><strong>适当停下来，猜下一页</strong><p>不需要逐句讲解，也不要求孩子完整用英语回答。</p></div></div><div class="notice">小猫爬窗帘、跑到户外只是绘本情节；现实亲子活动不引导孩子模仿危险动作，也不让孩子独自追逐宠物。</div><div style="height:20px"></div><button class="primary full" data-go="reader">好，开始一起读 →</button><button class="secondary full" style="margin-top:9px" data-action="skip-prep">下次直接读（保留这份小抄）</button></section>`}
-function reader(){const p=STORY[model.page],n=model.page+1,src=`./books/cat/${String(n).padStart(2,'0')}.jpg`,help=model.showCn?'cn':model.showTips?'tips':null;return `<section class="screen readerScreen landscapeReader ${model.readerLayout==='portrait'?'readerPortrait':''}" aria-label="绘本共读"><div class="readerHeader"><button class="round" data-go="home" aria-label="返回首页">‹</button><strong>Come Back, Cat!</strong><span class="miniCounter">${n} / 12</span><button class="readerLayoutSwitch" data-action="toggle-reader-layout">${model.readerLayout==='portrait'?'横屏':'竖屏'}</button><button class="round" data-action="bookmark" aria-label="收藏">${model.bookmark?'♥':'♡'}</button></div><div class="readerArtwork" id="picture" data-page="${n}"><div class="imageFallback"><div class="cat">🐈</div><p>原版插画加载中…</p></div><img alt="Book Dash《Come Back, Cat!》第${n}幅原版插画" src="${src}" onload="this.style.display='block';this.previousElementSibling.style.display='none'" onerror="this.style.display='none';this.previousElementSibling.style.display='flex';this.previousElementSibling.querySelector('p').textContent='图片加载失败，请刷新重试'"/><button class="artArrow prev" data-action="prev" aria-label="上一页" ${model.page===0?'disabled':''}>‹</button><button class="artArrow next" data-action="next" aria-label="${model.page===STORY.length-1?'结束阅读':'下一页'}">›</button><span class="readerAttribution">Book Dash · CC BY 4.0</span></div><div class="readerCaption"><div class="readerOriginal"><strong class="${p.eng?'':'noText'}">${p.eng?esc(p.eng):'这一页没有原文，看看小猫在哪儿。'}</strong></div><div class="readerTools"><button data-action="mode-together" class="${model.readMode==='together'?'active':''}">一起读</button><button data-action="mode-listen" class="${model.readMode==='listen'?'active':''}">听故事</button><button class="toolAudio" data-action="speak-page">${narrating?'■ 停止':'▶ 本页'}</button><button data-action="chinese" class="${model.showCn?'active':''}">中文</button><button data-action="tips" class="${model.showTips?'active':''}">陪读</button></div></div>${help?`<div class="readerDrawer" role="region" aria-label="${help==='cn'?'中文理解':'妈妈陪读提示'}"><div class="readerDrawerHeader"><strong>${help==='cn'?'中文理解':'给妈妈的小提示'}</strong><button data-action="close-help" aria-label="关闭提示">×</button></div><p>${help==='cn'?esc(p.translation):esc(p.prompt)}</p></div>`:''}</section>`}
-function finish(){return `<section class="screen">${head('读完啦','home')}<div class="doneHero"><div class="symbol">🐈✨</div><h1>今天一起读完啦！</h1><p>没有对错，也不用考试。<br>你们一起读故事，就是一次很棒的陪伴。</p><div style="margin-top:14px"><span class="chip">12幅画面 · 叽咕共读记录</span></div></div><div class="task"><div class="tinycap">CLOSE THE SCREEN, OPEN THE WORLD</div><div style="height:9px"></div><strong>放下手机 · 和毛绒玩具玩“找小猫”</strong><p>家长把一只毛绒小猫放在安全、容易找到的地方，让孩子找一找。找到时可以说一句：<b>Here it is!</b></p><div class="micro">不需要上传照片、录音或证明完成；也不要让孩子攀爬家具找玩具。</div><div style="height:12px"></div><button class="pill ${model.activity?'selected':''}" data-action="activity">${model.activity?'✓ 已记录一起玩过':'♡ 我们也玩了'}</button></div><div class="panel"><h3>妈妈带走的一句话</h3><p><b>Where is the cat?</b> — 小猫在哪里？<br>放在日常找玩具、指图互动的场景里都能用。</p></div><div style="height:20px"></div><button class="primary full" data-action="reread">再读一遍这本书 ↻</button><button class="secondary full" style="margin-top:8px" data-go="home">返回今天</button></section>`}
-function library(){return `<section class="screen simpleSection"><div class="row toprow"><div class="mark">小书架</div><span class="sectionMeta">1 本绘本</span></div><button class="shelfItem" data-go="detail"><div class="shelfCover" style="position:relative;overflow:hidden">${cover('bookcover')}</div><div><h3>Come Back, Cat!</h3><p>回来吧，小猫！<br>S1 · 看图听故事 · ${model.finished?'已读完':'约5分钟'}</p></div><span>›</span></button>${nav()}</section>`}
-function profile(){return `<section class="screen simpleSection"><div class="row toprow"><div class="mark">我的</div></div><div class="panel profileFirst"><h3>最近阅读</h3><p>Come Back, Cat! · ${model.finished?'已读完':model.started?`读到第${Math.max(1,model.progress)}页`:'尚未开始'}</p><button class="secondary full" style="margin-top:12px" data-go="${model.started?'reader':'detail'}">${model.started?'接着读':'开始读'}</button></div><div class="panel"><h3>我的收藏</h3><p>${model.bookmark?'♥ Come Back, Cat!':'还没有收藏的绘本'}</p></div><button class="homeSubAction" data-go="rights">版权与来源 ›</button>${nav()}</section>`}
-function rights(){return `<section class="screen">${head('来源与版权','detail')}<h1 class="title">这本书从哪里来？</h1><p class="subtitle">让好故事被更多家庭阅读，也尊重创作者。</p><div class="panel"><h3>原始作品</h3><p>书名：Come Back, Cat!（2014，Book Dash）<br>文字：Nicola Rijsdijk<br>插画：Karen Lilje<br>设计：Sam Scarborough<br>编辑：本书线上版尚未列出姓名，待出版方进一步确认。</p></div><div class="panel"><img src="./books/cat/book-dash-logo.png" alt="Book Dash 官方标志" style="max-width:115px;max-height:54px;object-fit:contain;display:block;margin-bottom:12px" /><h3>开放授权</h3><p>原书图文采用 Creative Commons Attribution 4.0 International（CC BY 4.0），允许在满足署名等条件时复制、翻译和改编。<br>原始图文版权归原创作者；叽咕没有取得该作品的独占版权，也不代表 Book Dash 为叽咕背书。</p><div class="footerlinks"><a target="_blank" rel="noopener" href="https://bookdash.org/books/come-back-cat/">原书</a><a target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by/4.0/">授权条款</a><a target="_blank" rel="noopener" href="https://bookdash.org/re-using-the-book-dash-content/">官方署名规范</a></div></div><div class="panel"><h3>叽咕提供的内容</h3><p>中文版翻译、家长提示、活动建议、阅读记录与交互界面由叽咕新增。原始英文正文和插画来自Book Dash；本版使用浏览器系统英语语音进行测试，非出版方原版有声书。</p></div><div class="notice" style="margin-top:14px">版权待核验项：Book Dash本书编辑姓名。英语朗读现为设备合成语音，需真机试听后更换为经过审核的固定音轨。图片已作为开放授权素材复制到本项目，并保留原版权来源。</div><div style="height:16px"></div><button class="primary full" data-go="detail">返回绘本介绍</button></section>`}
-function render(scroll=true){const content=({home,detail,prep,reader,finish,library,profile,rights})[model.view]?.()||home();document.getElementById('app').innerHTML=content;if(scroll){const el=document.querySelector('.screen');if(el)el.scrollTop=0;}save()}
-let toasty;
-function toast(msg){const el=document.getElementById('toast');el.textContent=msg;el.classList.add('show');clearTimeout(toasty);toasty=setTimeout(()=>el.classList.remove('show'),3000)}
-function stopNarration(){narrating=false;activeUtterance=null;if(narrateTimer){clearTimeout(narrateTimer);narrateTimer=null;}if('speechSynthesis' in window)try{speechSynthesis.cancel()}catch(e){}}
-function voiceForEnglish(){let vs=speechSynthesis.getVoices();return vs.find(v=>/^en[-_]US/i.test(v.lang)&&!v.localService)||vs.find(v=>v.lang.toLowerCase().startsWith('en-'))||vs.find(v=>v.lang.toLowerCase().startsWith('en'))||null}
-function speak(text,after){if(!('speechSynthesis' in window)){toast('当前浏览器不支持语音播放，可手动读原文');return;}if(!text){if(after)narrateTimer=setTimeout(after,1800);return;}try{speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(text);activeUtterance=u;u.lang='en-US';u.rate=.82;u.pitch=1;const v=voiceForEnglish();if(v)u.voice=v;u.onend=()=>{if(narrating&&activeUtterance===u&&after)after()};u.onerror=()=>{narrating=false;toast('设备语音播放失败，请尝试一起读')};speechSynthesis.speak(u);}catch(e){narrating=false;toast('设备语音暂不可用，试着自己读故事')}}
-function playPageNarration(){if(model.view!=='reader'||!narrating)return;const pageAtStart=model.page;const text=STORY[pageAtStart].eng;speak(text,()=>{if(!narrating||model.view!=='reader'||model.page!==pageAtStart)return;if(pageAtStart===STORY.length-1){narrating=false;render(false);toast('故事读完啦！可以点下面的完成按钮')}else{model.page++;model.progress=Math.max(model.progress,model.page+1);render(false);narrateTimer=setTimeout(playPageNarration,450)}})}
-function startNarration(){stopNarration();model.showCn=false;model.showTips=false;narrating=true;render(false);playPageNarration()}
-
-function go(view){stopNarration();model.fullImage=false;model.showCn=false;model.showTips=false;model.view=view;if(view==='reader'){model.started=true;model.progress=Math.max(model.progress,model.page+1);}render();if(view==='reader'&&model.readerLayout==='landscape'&&!model.landscapeHintSeen&&window.matchMedia('(orientation: portrait)').matches){model.landscapeHintSeen=true;save();toast('横过手机看完整画面，右上角可切回竖屏')}}
-document.getElementById('phone').addEventListener('click',e=>{const el=e.target.closest('[data-go],[data-action]');if(!el)return;e.preventDefault();if(el.dataset.go){go(el.dataset.go);return;}const act=el.dataset.action;const old=model.view;
-switch(act){case 'close-help':model.showCn=false;model.showTips=false;break;
-case 'full-image':model.fullImage=!model.fullImage;break;
-case 'toggle-reader-layout':model.readerLayout=model.readerLayout==='portrait'?'landscape':'portrait';model.showCn=false;model.showTips=false;break;
-case 'bookmark':model.bookmark=!model.bookmark;toast(model.bookmark?'已加入收藏':'已取消收藏');break;
-case 'chinese':model.showCn=!model.showCn;model.showTips=false;break;
-case 'tips':model.showTips=!model.showTips;model.showCn=false;break;
-case 'mode-together':stopNarration();model.readMode='together';break;
-case 'mode-listen':model.readMode='listen';startNarration();return;
-case 'speak-core':stopNarration();speak('Come back, cat!');toast('播放设备语音 · 正式配音待人工试听');return;
-case 'speak-page':if(narrating){stopNarration();render(false)}else if(model.readMode==='listen'){startNarration()}else{stopNarration();speak(STORY[model.page].eng)}return;
-case 'skip-prep':model.view='reader';model.started=true;break;
-case 'prev':stopNarration();model.showCn=false;model.showTips=false;model.page=Math.max(0,model.page-1);break;
-case 'next':stopNarration();model.showCn=false;model.showTips=false;if(model.page===STORY.length-1){model.view='finish';model.finished=true;model.progress=STORY.length}else{model.page++;model.progress=Math.max(model.progress,model.page+1)}break;
-case 'reread':stopNarration();model.page=0;model.view='reader';model.started=true;break;
-case 'activity':model.activity=!model.activity;break;
-}render(old!=='reader'||model.view!=='reader')});
-window.addEventListener('keydown',e=>{if(model.view!=='reader')return;if(e.key==='ArrowRight'){e.preventDefault();document.querySelector('[data-action="next"]')?.click()}if(e.key==='ArrowLeft'){e.preventDefault();document.querySelector('[data-action="prev"]')?.click()}});
-let touchX=0,touchY=0;
-document.getElementById('phone').addEventListener('touchstart',e=>{const target=e.target;if(model.view==='reader'&&target.closest('.readerArtwork')&&!target.closest('button')){touchX=e.touches[0].clientX;touchY=e.touches[0].clientY}else{touchX=0;touchY=0}},{passive:true});
-document.getElementById('phone').addEventListener('touchend',e=>{if(model.view!=='reader'||(!touchX&&!touchY))return;const dx=e.changedTouches[0].clientX-touchX,dy=e.changedTouches[0].clientY-touchY;touchX=0;touchY=0;const rotated=model.readerLayout==='landscape'&&window.matchMedia('(orientation: portrait)').matches;const movement=rotated?dy:dx;if(Math.abs(movement)>70){document.querySelector(`[data-action="${movement<0?'next':'prev'}"]`)?.click()}},{passive:true});
-render();
-</script>
-<script>
-if ('serviceWorker' in navigator) {
-  window.addEventListener('load', () => {
-    navigator.serviceWorker.register(new URL('sw.js', document.baseURI)).catch(() => {});
+.bottomNav{display:flex;justify-content:space-around;margin-top:16px;padding:14px 0 4px;border-top:1px solid var(--border)}.bottomNav button{padding:7px 15px;background:transparent;color:#97897f;font-size:12px;font-weight:600}.bottomNav button.active{color:#ad6b4d;font-weight:800}.readHistory{border:1px solid var(--border);background:#fffcf8;border-radius:14px;padding:19px;margin:10px 0}.readHistory strong{font-size:15px}.readHistory p{line-height:1.7;font-size:13px;color:var(--dim)}.readHistory .secondary{width:100%;margin:7px 0 0}.homePage .foot{display:none}
+</style></head><body><div class="shell" id="app" aria-live="off"></div><div class="status hidden" id="toast" role="status"></div><script>
+(() => {
+  'use strict';
+  const STORY_URL = 'https://storybookscanada.ca/stories/en/0087/';
+  const AUDIO_URL = 'https://globalstorybooks.net/media/audio/en/0087/mp3/';
+  const LICENSE = 'https://creativecommons.org/licenses/by/3.0/';
+  const STORAGE_KEY = 'jigu-vertical-book-0087-v1';
+  const book = {
+    id:'0087', title:'I Like to Read!', zh:'我喜欢看书', stage:'S1 · 看图听故事', level:'African Storybook Level 1',
+    pages:[
+      {en:'I like to read.',zh:'我喜欢看书。',tip:'指着男孩手里的书，可以问一句：Where is the book? 孩子指一指就很好。'},
+      {en:'Who can I read to?',zh:'我可以念给谁听呢？',tip:'跟孩子一起猜猜，男孩会去找谁听故事？不要求回答英文。'},
+      {en:'My sister is asleep.',zh:'我的妹妹睡着了。',tip:'指指画面里睡着的妹妹，轻声说 asleep（睡着了），做一个安静的动作。'},
+      {en:'Who can I read to?',zh:'我可以念给谁听呢？',tip:'再听一遍熟悉的问题，看看男孩往哪里走。'},
+      {en:'My mother and grandmother are busy.',zh:'妈妈和奶奶正在忙。',tip:'找一找画面里的妈妈和奶奶。你们可以聊聊她们在做什么。'},
+      {en:'Who can I read to?',zh:'我可以念给谁听呢？',tip:'先停一下，邀请孩子猜测男孩接下来要找谁。'},
+      {en:'My father and grandfather are busy.',zh:'爸爸和爷爷正在忙。',tip:'看看他们在忙什么，试着一起找找画面里的车。'},
+      {en:'Who can I read to? I can read to myself!',zh:'我可以念给谁听呢？我可以念给自己听！',tip:'男孩终于找到办法啦。和孩子拿出家里的小书，一起翻一页吧。'}
+    ]
+  };
+  const state = {view:'home',page:0,readMode:'together',saved:false,finished:false,opened:false,sheet:null};
+  try {
+    const old=JSON.parse(localStorage.getItem(STORAGE_KEY)||'null');
+    if(old && typeof old==='object') {
+      state.page=Number.isInteger(old.page)?Math.max(0,Math.min(7,old.page)):0;
+      state.saved=!!old.saved;state.finished=!!old.finished;state.opened=!!old.opened;
+    }
+  } catch (_) {}
+  const $ = id => document.getElementById(id);
+  const esc = text => String(text).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  const pageImage = i => `./books/read/${String(i+1).padStart(2,'0')}.jpg`;
+  const localAudio = i => `./books/read/audio/${String(i+1).padStart(2,'0')}.mp3`;
+  const remoteAudio = i => `${AUDIO_URL}${String(i+2).padStart(2,'0')}.mp3`;
+  let audio=null, utterance=null, playbackToken=0, playing=false, toastTimer=null;
+  function save(){try{localStorage.setItem(STORAGE_KEY,JSON.stringify({page:state.page,saved:state.saved,finished:state.finished,opened:state.opened}))}catch(_){}}
+  function toast(s){const el=$('toast');el.textContent=s;el.classList.remove('hidden');clearTimeout(toastTimer);toastTimer=setTimeout(()=>el.classList.add('hidden'),3000)}
+  function stop(){playbackToken++;playing=false;if(audio){audio.onended=null;audio.onerror=null;audio.pause();audio=null;}utterance=null;if('speechSynthesis' in window)try{speechSynthesis.cancel()}catch(_){} }
+  function fallbackSpeech(idx,continuous,token){
+    if(token!==playbackToken)return;
+    if(!('speechSynthesis' in window)){playing=false;render();toast('音频暂时无法播放，请尝试稍后重试');return;}
+    toast('真人音频暂时不可用，已切换设备备用朗读');
+    try {
+      const u=new SpeechSynthesisUtterance(book.pages[idx].en);utterance=u;
+      u.lang='en-US';u.rate=.86;u.pitch=1;
+      const voices=speechSynthesis.getVoices();u.voice=voices.find(v=>/^en[-_]US/i.test(v.lang))||voices.find(v=>v.lang?.toLowerCase().startsWith('en'))||null;
+      u.onend=()=>{if(token!==playbackToken)return;onAudioEnd(idx,continuous,token)};
+      u.onerror=()=>{if(token!==playbackToken)return;playing=false;render();toast('设备朗读也不可用，试着自己读这句话')};
+      playing=true;speechSynthesis.speak(u);render();
+    } catch (_) {playing=false;render();toast('播放失败，请尝试自己朗读')}
+  }
+  function onAudioEnd(idx,continuous,token){
+    if(token!==playbackToken || state.view!=='reader' || state.page!==idx)return;
+    playing=false;
+    if(continuous && state.readMode==='listen' && idx<book.pages.length-1){
+      state.page++;save();render();playPage(state.page,true);
+    } else {
+      render();
+      if(continuous && idx===book.pages.length-1)toast('故事听完了，可以点“读完啦”');
+    }
+  }
+  function playPage(idx,continuous=false){
+    stop();const token=playbackToken;
+    if(state.view!=='reader'||idx<0||idx>=book.pages.length)return;
+    let triedRemote=false,done=false;
+    const player=new Audio();audio=player;
+    player.preload='auto';player.playbackRate=1;
+    function failToFallback(){if(done||token!==playbackToken)return;done=true;try{player.pause()}catch(_){};fallbackSpeech(idx,continuous,token)}
+    function begin(url){
+      if(token!==playbackToken)return;
+      player.src=url;
+      const promise=player.play();
+      if(promise&&typeof promise.catch==='function')promise.catch(err=>{
+        if(token!==playbackToken || done)return;
+        if(err?.name==='NotAllowedError') {playing=false;render();toast('点击“听英文”继续播放');return;}
+        retryRemote();
+      });
+    }
+    function retryRemote(){
+      if(token!==playbackToken||done)return;
+      if(!triedRemote){triedRemote=true;begin(remoteAudio(idx));}
+      else failToFallback();
+    }
+    player.onended=()=>onAudioEnd(idx,continuous,token);
+    player.onerror=retryRemote;
+    playing=true;render();
+    begin(localAudio(idx));
+  }
+  function next(continuous=false){stop();if(state.page<7){state.page++;save();render();if(continuous)playPage(state.page,true)}else{state.view='done';state.finished=true;save();render()}}
+  function previous(){stop();if(state.page>0){state.page--;save();render()}}
+  function go(view){stop();state.view=view;state.sheet=null;if(view==='reader')state.opened=true;save();render()}
+  function header(right){return `<header class="simpleHead"><span class="brand">叽咕一下 <small>JIGU</small></span>${right?`<button class="textBtn" data-go="${right==='shelf'?'shelf':'home'}">${right==='shelf'?'小书架 ↗':'返回今天'}</button>`:''}</header>`}
+  function cover(){return `<img src="${pageImage(0)}" alt="《I Like to Read!》插画：男孩坐在橙色椅子上读书" loading="eager">`}
+  function bottomNav(){return `<nav class="bottomNav" aria-label="主导航"><button class="${state.view==='home'?'active':''}" data-go="home">今天</button><button class="${state.view==='shelf'?'active':''}" data-go="shelf">小书架</button><button class="${state.view==='mine'?'active':''}" data-go="mine">我的</button></nav>`}
+  function bookTile(){return `<section class="bookEntry"><div class="entryImage">${cover()}</div><div class="entryBody"><div class="metadata">S1 · 看图听故事 · 8页</div><h1>${book.title}</h1><p>${book.zh}</p><button class="primary" data-go="reader">${state.opened?'继续阅读':'开始共读'} →</button></div></section>`}
+  function home(){return `<main class="page homePage">${header('shelf')}<div class="homeTitle">${state.opened?'接着读':'今天读这本'}</div>${bookTile()}<button class="mutedLink" data-action="prep">第一次读？妈妈先看一眼 ›</button><div class="spacer"></div>${bottomNav()}</main>`}
+  function shelf(){return `<main class="page">${header('home')}<div class="homeTitle">小书架</div><div class="metadata">S1 · 看图听故事</div>${bookTile()}<div class="spacer"></div>${bottomNav()}</main>`}
+  function mine(){return `<main class="page">${header('home')}<div class="homeTitle">我的</div><div class="readHistory"><strong>最近阅读</strong><p>《I Like to Read!》 · ${state.finished?'已读完':state.opened?`读到第${state.page+1}页`:'还没开始'}</p><button class="secondary" data-go="reader">${state.opened?'继续阅读':'打开绘本'} →</button></div><div class="readHistory"><strong>我的收藏</strong><p>${state.saved?'♥ I Like to Read!':'暂时还没有收藏的绘本'}</p></div><button class="mutedLink" data-action="credits">原书来源与授权 ›</button><div class="spacer"></div>${bottomNav()}</main>`}
+  function reader(){const p=book.pages[state.page],pc=(state.page+1)/8*100;return `<main class="page reading"><header class="readerHeader"><button class="iconBtn" data-go="home" aria-label="返回首页">‹</button><div class="heading">I Like to Read! <small>${state.page+1}/8</small></div><button class="iconBtn ${state.saved?'heartActive':''}" data-action="favorite" aria-label="${state.saved?'取消收藏':'收藏这本书'}">${state.saved?'♥':'♡'}</button></header><div class="stepProgress"><div style="width:${pc}%"></div></div><div class="readMode"><div class="segment"><button data-action="together" class="${state.readMode==='together'?'active':''}">一起读</button><button data-action="listen" class="${state.readMode==='listen'?'active':''}">听故事</button></div><div class="pageCount">${state.page+1} / 8</div></div><div id="artFrame" class="artFrame" aria-label="第${state.page+1}页原版插画，左右轻扫可以翻页"><div class="imgLoading">插画加载中…</div><img src="${pageImage(state.page)}" alt="第${state.page+1}页原书插画" draggable="false" onload="this.parentElement.classList.add('loaded')" onerror="this.previousElementSibling.textContent='图片暂时无法加载'" /></div><div class="textPanel"><h1 class="readEnglish">${esc(p.en)}</h1></div><div class="readerTools"><button class="tool listen" data-action="speak">${playing?'■ 停止朗读':state.readMode==='listen'?'▶ 连续听':'▶ 听英文'}</button><button class="tool" data-action="translation">中文</button><button class="tool" data-action="tip">陪读提示</button></div><div class="pageControls"><button class="prev" data-action="prev" ${state.page===0?'disabled':''}>← 上一页</button><button class="next" data-action="next">${state.page===7?'读完啦 ✓':'下一页 →'}</button></div></main>`}
+  function finished(){return `<main class="page"><div class="simpleHead"><button class="iconBtn" data-go="home" aria-label="返回今天">‹</button><span class="tiny">共读记录已保存</span></div><div class="endGraphic">☘</div><h1 class="endTitle">今天读完啦</h1><p class="endSub">《I Like to Read!》<br>喜欢的话，明天也可以再读一遍。</p><div class="endActivity"><h3>放下手机，继续读</h3><p>和孩子找一本家里的小书，轮流翻一翻。可以试着说一句：I like to read. 不用打卡，也不用证明完成。</p></div><div class="spacer"></div><button class="primary" data-action="again">再读一遍</button><button class="mutedLink" data-go="home">返回今天</button></main>`}
+  function sheet(){
+    if(!state.sheet)return '';
+    let title='',body='';const p=book.pages[state.page];
+    if(state.sheet==='translation'){title='中文理解';body=`<p class="sheetText">${esc(p.zh)}</p>`}
+    if(state.sheet==='tip'){title='给妈妈的小提示';body=`<p class="sheetText">${esc(p.tip)}</p><p class="sheetSub">孩子可以用眼神、动作、指认或中文回应，不必答对。</p>`}
+    if(state.sheet==='prep'){title='妈妈先看一眼';body=`<p class="sheetText" style="font-family:Georgia,serif;font-weight:700">Who can I read to?</p><p class="sheetSub">我可以念给谁听呢？</p><p class="sheetSub">这是故事里反复出现的一句话。试着让孩子猜猜男孩下一步会找谁。</p><button class="secondary" data-action="prep-audio">▶ 听真人示范音</button>`}
+    if(state.sheet==='credits'){title='原书与配音来源';body=`<div class="credit">原作：《I Like to Read!》<br>文字：Letta Machoga<br>插画：Wiehan de Jager<br>英文朗读：Darshan Soni（Storybooks Canada / Global Storybooks）<br>故事及相应朗读：<a href="${LICENSE}" target="_blank" rel="noopener noreferrer">CC BY 3.0</a><br>来源：<a href="${STORY_URL}" target="_blank" rel="noopener noreferrer">African Storybook / Storybooks Canada</a><br>音频来源：<a href="https://github.com/global-asp/gsn-audio" target="_blank" rel="noopener noreferrer">Global Storybooks 音频项目</a><br>中文辅助和妈妈陪读建议由叽咕编写，非原出版机构内容。音频在无法访问时可能降级为设备合成朗读。<br>叽咕不是出版方官方产品，亦不代表获得其商业背书。</div>`}
+    return `<div class="sheetScrim" data-action="close"><div class="sheet" role="dialog" aria-modal="true" aria-label="${title}"><div class="sheetHead"><span>${title}</span><button class="iconBtn" data-action="close" aria-label="关闭">×</button></div>${body}</div></div>`;
+  }
+  function render(){const page=state.view==='reader'?reader():state.view==='done'?finished():state.view==='shelf'?shelf():state.view==='mine'?mine():home();$('app').innerHTML=page+sheet();save()}
+  document.addEventListener('click',e=>{
+    const el=e.target.closest('[data-action],[data-go]');if(!el)return;
+    const action=el.dataset.action;
+    if(action==='close'&&e.target.closest('.sheet')&&!e.target.closest('button[data-action="close"]'))return;
+    if(el.dataset.go){go(el.dataset.go);return}
+    switch(action){
+      case 'favorite':state.saved=!state.saved;render();toast(state.saved?'已收藏':'已取消收藏');break;
+      case 'prev':previous();break;
+      case 'next':next(state.readMode==='listen'&&playing);break;
+      case 'together':stop();state.readMode='together';render();break;
+      case 'listen':state.readMode='listen';playPage(state.page,true);break;
+      case 'speak':playing?(stop(),render()):playPage(state.page,state.readMode==='listen');break;
+      case 'again':stop();state.page=0;go('reader');break;
+      case 'prep-audio':state.sheet=null;state.view='reader';state.page=1;state.opened=true;save();render();playPage(1,false);break;
+      case 'translation':case 'tip':case 'prep':case 'credits':stop();state.sheet=action;render();break;
+      case 'close':state.sheet=null;render();break;
+    }
   });
-}
-</script>
-</body>
-</html>
+  let gesture=null;
+  document.addEventListener('touchstart',e=>{const frame=e.target.closest('#artFrame');gesture=frame?{x:e.touches[0].clientX,y:e.touches[0].clientY}:null},{passive:true});
+  document.addEventListener('touchend',e=>{if(!gesture||state.view!=='reader')return;const dx=e.changedTouches[0].clientX-gesture.x,dy=e.changedTouches[0].clientY-gesture.y;gesture=null;if(Math.abs(dx)>65&&Math.abs(dx)>Math.abs(dy)*1.3)dx<0?next(false):previous()},{passive:true});
+  window.addEventListener('keydown',e=>{if(state.sheet){if(e.key==='Escape'){state.sheet=null;render()}return}if(state.view==='reader'){if(e.key==='ArrowLeft')previous();if(e.key==='ArrowRight')next(false)}});
+  document.addEventListener('visibilitychange',()=>{if(document.visibilityState==='hidden')stop()});
+  window.addEventListener('pagehide',stop);
+  render();
+})();
+
+</script><script>if("serviceWorker" in navigator){window.addEventListener("load",()=>navigator.serviceWorker.register(new URL("sw.js",document.baseURI)).catch(()=>{}))}</script></body></html>

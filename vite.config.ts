@@ -10,7 +10,7 @@ export default defineConfig({
       manifest: {
         name: '叽咕一下 · 亲子分级共读',
         short_name: '叽咕一下',
-        description: '精选儿童英文绘本，支持英语朗读与家长陪读。',
+        description: '精选分级英文绘本，原版真人朗读与轻量亲子共读。',
         theme_color: '#faf7f0',
         background_color: '#faf7f0',
         display: 'standalone',
@@ -25,7 +25,7 @@ export default defineConfig({
       },
       workbox: {
         navigateFallback: 'index.html',
-        globPatterns: ['**/*.{js,css,html,svg,png,jpg,webp,woff2}'],
+        globPatterns: ['**/*.{js,css,html,svg,png,jpg,webp,woff2,mp3}'],
         globIgnores: ['images/**/*', 'design-demos/**/*'],
         maximumFileSizeToCacheInBytes: 3 * 1024 * 1024
       }
