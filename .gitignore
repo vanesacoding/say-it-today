@@ -9,4 +9,6 @@ public/audio/
 
 # Licensed media are validated and materialized during CI.
 public/books/library/
+.reading-audio/
+__pycache__/
 reading-mvp-review.patch

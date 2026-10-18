@@ -24,7 +24,7 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
-      - name: Fetch declared open-license book images and narration
+      - name: Fetch declared book images and verified narration
         run: python3 scripts/fetch-reading-library.py
       - run: npm run check
       - run: npm run build
