@@ -469,14 +469,16 @@ window.JIGU_BOOKS = [
       "生活"
     ],
     "stageId": "S1",
-    "audioType": "device",
+    "audioType": "generated",
     "source": {
       "name": "Book Dash",
       "url": "https://bookdash.github.io/bookdash-books/come-back-cat/en/",
       "publisherUrl": "https://bookdash.org/books/come-back-cat/",
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "creators": [
-        "Nicola Rijsdijk, Karen Lilje, Sam Scarborough"
+        "Nicola Rijsdijk (Writer)",
+        "Karen Lilje (Illustrator)",
+        "Sam Scarborough (Designer)"
       ],
       "reader": null
     },
@@ -487,28 +489,44 @@ window.JIGU_BOOKS = [
         "sourceImage": "https://bookdash.github.io/bookdash-books/come-back-cat/en/images/01.jpg",
         "alt": "Cat hides under the couch.",
         "zh": "回来吧，小猫！和我玩。",
-        "tip": "先看看画面里的主角，再听英文。孩子指一指、做动作或用中文聊，都很好。"
+        "tip": "先看看画面里的主角，再听英文。孩子指一指、做动作或用中文聊，都很好。",
+        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_134731_1ee3713b-a2d0-435b-8e79-ad1bc346b8a8.mp3",
+        "sourceAudioSha256": "1594322b43485236c2d07a0149c66a3d5a7066b2dd868b0cca34c02affe4673c",
+        "sourceAudioTextSha256": "17579dcff05889e01573240479b1c088ec9c9c9c0c7a5523de7c79bd6e680320",
+        "audioDurationSeconds": 4.416
       },
       {
         "en": "Sit in your basket. Stay right here!",
         "sourceImage": "https://bookdash.github.io/bookdash-books/come-back-cat/en/images/02.jpg",
         "alt": "Cat leaps up and hangs off the curtains.",
         "zh": "坐进你的小篮子里。就待在这儿！",
-        "tip": "结合画面感受“篮子”，听一听 basket。不用要求孩子跟读。"
+        "tip": "结合画面感受“篮子”，听一听 basket。不用要求孩子跟读。",
+        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_134731_c1b6212b-babb-43cb-b417-598f597f1015.mp3",
+        "sourceAudioSha256": "5069c54b3104a131dd1afbb14d3879668d4cab309de25ab75717cac7fb8e0d74",
+        "sourceAudioTextSha256": "74042367d118b21fda55d79113e937db6fe38922fff93a6eb5fc50fe248fb6f4",
+        "audioDurationSeconds": 3.12
       },
       {
         "en": "Come back, cat! That’s way too high.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/come-back-cat/en/images/03.jpg",
         "alt": "Cat sits in her basket. She is grumpy.",
         "zh": "回来吧，小猫！那儿太高啦。",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_135053_d82189e9-bb13-4f8e-bb83-2c47acfcf42a.mp3",
+        "sourceAudioSha256": "059cea8dcad85550e116caa57b5471dcfa971f4034059cf855e7d1ec6b53c2a7",
+        "sourceAudioTextSha256": "419b623ef843b5c2e72953247bb79f06f97720a1339a738ce615bac7ebea1127",
+        "audioDurationSeconds": 2.688
       },
       {
         "en": "Come back, cat! Don’t go outside.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/come-back-cat/en/images/04.jpg",
         "alt": "Cat sneaks out the back door.",
         "zh": "回来吧，小猫！别跑到外面去。",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_134731_a3217048-845e-4715-9d3c-b715ce58b08a.mp3",
+        "sourceAudioSha256": "af8b6751b940ac48d886fdae91f77d9b389ea2445dca8a4629d72bf03c0d0dfc",
+        "sourceAudioTextSha256": "125e94f66e2e312a9a2892ac339fc23d28089f5476380674e753f1051cf5b614",
+        "audioDurationSeconds": 4.44
       },
       {
         "en": "",
@@ -522,42 +540,66 @@ window.JIGU_BOOKS = [
         "sourceImage": "https://bookdash.github.io/bookdash-books/come-back-cat/en/images/06.jpg",
         "alt": "Cat pulls a sock off the washline and unravels the thread.",
         "zh": "回来吧，小猫！那不是你的。",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_135208_6ff29553-3d93-4b0c-bee7-9a1c41f447e7.mp3",
+        "sourceAudioSha256": "ef149ca067f25be220f4a052a02070357dbe007e13111455e882f8d0fdd43e66",
+        "sourceAudioTextSha256": "4031b6a076660861200692e0b4a1d9ab89340215243ad79a222474d038619b2a",
+        "audioDurationSeconds": 5.28
       },
       {
         "en": "Come back, cat! What have you got?",
         "sourceImage": "https://bookdash.github.io/bookdash-books/come-back-cat/en/images/07.jpg",
         "alt": "Cat finds a snail in the dirt. The sock thread is wound around her tail.",
         "zh": "回来吧，小猫！你拿着什么？",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_134931_1ea96ada-b960-43b4-a1a4-662fb9e9fbce.mp3",
+        "sourceAudioSha256": "309f63fe8d3bbdd5b0dac8a7a64f363a3e442c0457d02d84b513a83b9976d5e1",
+        "sourceAudioTextSha256": "98bfc254f0f7e15d3d6c232248372411dabb70751ced418b09e6ac78c50b0b87",
+        "audioDurationSeconds": 4.848
       },
       {
         "en": "Come back, cat. That’s not your friend!",
         "sourceImage": "https://bookdash.github.io/bookdash-books/come-back-cat/en/images/08.jpg",
         "alt": "Cat encounters a chicken. Cat now has thread around her tail and the snail on her back.",
         "zh": "回来吧，小猫。那可不是你的朋友！",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_135234_dfaeabba-b0ea-4052-9af0-3722d013b437.mp3",
+        "sourceAudioSha256": "d3d27d3f8b90014b602bf5ad1e8de3acb9c496341d1a8222c422f9238da7ba23",
+        "sourceAudioTextSha256": "668004a0c97cad08a65ddb3389a55eb2b8899cf64d6fd760856afc2d4ff12a86",
+        "audioDurationSeconds": 2.976
       },
       {
         "en": "Hello, cat! Are you back?",
         "sourceImage": "https://bookdash.github.io/bookdash-books/come-back-cat/en/images/09.jpg",
         "alt": "Chicken feathers float around Cat's head. She still has the thread around her tail and the snail on her back.",
         "zh": "你好呀，小猫！你回来了吗？",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_135728_a8c5bca2-224f-4e77-8b08-fe55d17f18f7.mp3",
+        "sourceAudioSha256": "52f082ce5a49484058efb88fca8cdc3928bec75787325c2b581ed1bd155eafee",
+        "sourceAudioTextSha256": "0b3c5e97e8f9f4091c58081dba7f33e88cdf6ba8a578487c794d0d2331ef4bf8",
+        "audioDurationSeconds": 2.832
       },
       {
         "en": "Stay in your basket. It’s nap time now.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/come-back-cat/en/images/10.jpg",
         "alt": "Cat lies in her basket looking satisfied.",
         "zh": "待在你的小篮子里。现在该打盹啦。",
-        "tip": "结合画面感受“打盹”，听一听 nap。不用要求孩子跟读。"
+        "tip": "结合画面感受“打盹”，听一听 nap。不用要求孩子跟读。",
+        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_135802_d8713cd7-b078-4232-9c59-478659f9e25a.mp3",
+        "sourceAudioSha256": "aa9dc49cc7749093110c0a1cf2c705cc2ee96006711241b389645a3d2dba6155",
+        "sourceAudioTextSha256": "79daa5b69d340fad4029e8d4f61eae82d475ba2e125ddee2094fc05906f97ec9",
+        "audioDurationSeconds": 5.304
       },
       {
         "en": "Cat?",
         "sourceImage": "https://bookdash.github.io/bookdash-books/come-back-cat/en/images/11.jpg",
         "alt": "Cat's basket is empty except for a few feathers.",
         "zh": "小猫？",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_135837_71113f0f-135e-4b05-969e-5dc4f8602f42.mp3",
+        "sourceAudioSha256": "1b9c3fe03303d19036215833e52dd138699afce62b384fdd322d7f9941e897e4",
+        "sourceAudioTextSha256": "4c46b01718f37698e7a5d9a4c55e338ba776125858d6109587707739933bc36c",
+        "audioDurationSeconds": 2.136
       },
       {
         "en": "",
@@ -591,6 +633,17 @@ window.JIGU_BOOKS = [
       "title": "给玩偶找个小窝",
       "text": "拿一只玩偶，给它找一个舒服的小窝。可以一起说 Come back, cat!",
       "hint": "想玩就试试，也可以下次再玩。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Higgsfield",
+      "model": "seed_audio",
+      "voice": "Isla",
+      "voiceId": "7367e919-3069-5a0b-939e-dfb1c0fd91b4",
+      "voiceType": "preset",
+      "speechRate": -8,
+      "pitchRate": 2,
+      "adaptation": "AI narration produced by Jigu from the original English text."
     }
   },
   {
@@ -743,14 +796,16 @@ window.JIGU_BOOKS = [
       "生活"
     ],
     "stageId": "S1",
-    "audioType": "device",
+    "audioType": "generated",
     "source": {
       "name": "Book Dash",
       "url": "https://bookdash.github.io/bookdash-books/sbus-special-shoes/en/",
       "publisherUrl": "https://bookdash.org/books/sbus-special-shoes/",
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "creators": [
-        "Mark Hardie, Eidin Griffin, Megan Pirie"
+        "Megan Pirie (Writer)",
+        "Eidin Griffin (Illustrator)",
+        "Mark Hardie (Designer)"
       ],
       "reader": null
     },
@@ -761,84 +816,132 @@ window.JIGU_BOOKS = [
         "sourceImage": "https://bookdash.github.io/bookdash-books/sbus-special-shoes/en/images/01.jpg",
         "alt": "Sbu tries on a pair of big red takkies. A chicken sits next to him.",
         "zh": "这是我哥哥斯布的鞋。",
-        "tip": "先看看画面里的主角，再听英文。孩子指一指、做动作或用中文聊，都很好。"
+        "tip": "先看看画面里的主角，再听英文。孩子指一指、做动作或用中文聊，都很好。",
+        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_135910_65e6e8d7-d85d-4087-9928-63b07c0bfd94.mp3",
+        "sourceAudioSha256": "0dfbd681e213d8c415ef4efe09f320bf48a696937c618e3294f7334042f4bacd",
+        "sourceAudioTextSha256": "39724d4b5eea0fea3ceb778fcca6723e4fb142b5caf0f3aeb08600b7f2bca155",
+        "audioDurationSeconds": 3.24
       },
       {
         "en": "Look what I can do in them.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/sbus-special-shoes/en/images/02.jpg",
         "alt": "Sbu runs with the shoes on. The chicken watches. ",
         "zh": "看看我穿着它们能做什么。",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_140054_186c1945-2ff7-42f9-a33a-4d091c510592.mp3",
+        "sourceAudioSha256": "dbb73e56b2be0c95c9e578a15736224092d0990722922ab41991bfa409b8c773",
+        "sourceAudioTextSha256": "4702f601636bdcaf5ede152aa357484e678cacc65be7a841a8d5747af9983612",
+        "audioDurationSeconds": 5.856
       },
       {
         "en": "I can race cars!",
         "sourceImage": "https://bookdash.github.io/bookdash-books/sbus-special-shoes/en/images/03.jpg",
         "alt": "Sbu sprints with his push car. The chicken flies above him.",
         "zh": "我能和汽车赛跑！",
-        "tip": "书里是在想象鞋子的神奇力量。现实中不追车，可以用玩具车和小人来演。"
+        "tip": "书里是在想象鞋子的神奇力量。现实中不追车，可以用玩具车和小人来演。",
+        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_140130_2fb0efef-bd2e-4bf0-b8e5-68ebdd2af476.mp3",
+        "sourceAudioSha256": "7a6033ee68aafb73c0aba49b9f1ddf2c9d96be4572369de37149d0e9df3b978b",
+        "sourceAudioTextSha256": "cfe59c98fdef0ff0bfbaeb67aaa79722ded054857bc03e124fbaf2df8829ad6c",
+        "audioDurationSeconds": 3.552
       },
       {
         "en": "Sometimes, I even race our bouncy dog.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/sbus-special-shoes/en/images/04.jpg",
         "alt": "The dog chases Sbu. The chicken flies above.",
         "zh": "有时候，我还和蹦蹦跳跳的小狗赛跑。",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_140200_20428c66-7116-445f-903c-aaea2600464b.mp3",
+        "sourceAudioSha256": "463c2d7b423c09e51a77bf3787ff3ca1d30948e5d1d38f344c7cc8a8b2300e51",
+        "sourceAudioTextSha256": "fc20c93728a775787f6d29221c57fd34b8ca442db1595b093b9d41b8366b9e84",
+        "audioDurationSeconds": 4.872
       },
       {
         "en": "With Sbu’s shoes I win every time.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/sbus-special-shoes/en/images/05.jpg",
         "alt": "Sbu is number one! The chicken stands next to him.",
         "zh": "穿上斯布的鞋，我每次都能赢。",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_140229_e1f2631d-7b8c-42b7-896a-b0c8794c3b54.mp3",
+        "sourceAudioSha256": "eb558d7b869c5cc6eba034fe477a24d0a4a2e53a067520199426d810d2741124",
+        "sourceAudioTextSha256": "45cb64bf9433f3590c16e20ee8858e4f3c631074a853d2eed78c566baa380a6a",
+        "audioDurationSeconds": 4.872
       },
       {
         "en": "Wait! Let me show you one more thing.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/sbus-special-shoes/en/images/06.jpg",
         "alt": "Sbu and the chicken put their hand out - wait!",
         "zh": "等等！再让我表演一样。",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_140256_c3d7f9a4-68c9-4387-9cd3-b8841d2511a9.mp3",
+        "sourceAudioSha256": "7ce26990e7a07e422a150d1a355cd0f7943cdea61ccb60f65b177c9d6ec2c77e",
+        "sourceAudioTextSha256": "38de2bf745dc660c0b7ad8cfe5c7bc3149f192fddef26a50cfbb25b5e61236c4",
+        "audioDurationSeconds": 3.264
       },
       {
         "en": "Watch me dance and spin.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/sbus-special-shoes/en/images/07.jpg",
         "alt": "Sbu and the chicken dance.",
         "zh": "看我跳舞、转圈。",
-        "tip": "结合画面感受“跳舞”，听一听 dance。不用要求孩子跟读。"
+        "tip": "结合画面感受“跳舞”，听一听 dance。不用要求孩子跟读。",
+        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_140324_a516d334-0737-4606-b035-519e2fe14de2.mp3",
+        "sourceAudioSha256": "96ca0b3d4dbe2ce271810638928f00a20356df7afd7a796e5e1880693778ea90",
+        "sourceAudioTextSha256": "1784d4eba14c134d310bf8cc123e52e79098070c7bbf25fd684a700e4e6e2e20",
+        "audioDurationSeconds": 4.416
       },
       {
         "en": "I can cartwheel over and over.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/sbus-special-shoes/en/images/08.jpg",
         "alt": "Sbu and the chicken do cartwheels.",
         "zh": "我能一个接一个地侧手翻。",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_140349_3653d0e8-99ef-4d27-b382-5729652bb325.mp3",
+        "sourceAudioSha256": "c33673918f17b9554c889962dc44569fefb1954d719dc13561bef2c72706377a",
+        "sourceAudioTextSha256": "92474338d91477ed1b122bf54714c5b44c86909f430f33592458306102efc8d6",
+        "audioDurationSeconds": 4.872
       },
       {
         "en": "I’m a monkey! Look at me hang upside down.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/sbus-special-shoes/en/images/09.jpg",
         "alt": "Sbu hangs upside down from a tree branch. The chicken watches.",
         "zh": "我是一只猴子！看我倒挂着。",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_140415_9be20116-2dfb-4023-9dc3-7b983fc208a6.mp3",
+        "sourceAudioSha256": "bb7e92ad764afc55955f53f246e792ac3809bd30f05fec66a4f1fc37b62544a9",
+        "sourceAudioTextSha256": "f91a0f6e99927f0daeda0405479c4b6b15fc2bcab91051a97d230876f524449b",
+        "audioDurationSeconds": 6.672
       },
       {
         "en": "Watch me jump and catch the moon.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/sbus-special-shoes/en/images/10.jpg",
         "alt": "Sbu leaps over the houses. The chicken watches from a roof.",
         "zh": "看我跳起来，抓住月亮。",
-        "tip": "结合画面感受“跳”，听一听 jump。不用要求孩子跟读。"
+        "tip": "结合画面感受“跳”，听一听 jump。不用要求孩子跟读。",
+        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_140444_e6d0c839-491d-4069-b026-97ff2a3b6050.mp3",
+        "sourceAudioSha256": "87f70184d8c6d6e5aa3984acab2557ea86efd58ef32d7345d7bc88318ee8949d",
+        "sourceAudioTextSha256": "476ac203965474f866f3d42b36334523f08400ad40faa9ed0aa4bac43eb328e9",
+        "audioDurationSeconds": 4.872
       },
       {
         "en": "Here, try them on!",
         "sourceImage": "https://bookdash.github.io/bookdash-books/sbus-special-shoes/en/images/11.jpg",
         "alt": "Sbu holds the shoes in his hands.",
         "zh": "来，试穿一下！",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_140511_66ebacbe-891f-4fbb-9e2c-8460d1fe1a42.mp3",
+        "sourceAudioSha256": "63e84b63a9cda351b959d27646dc8bfd0acc8c6a8a4baed859a12a562313cf77",
+        "sourceAudioTextSha256": "72158acc1237090c66536de6663ef12353cfaf6811bfdb3e41e65a9386409a3a",
+        "audioDurationSeconds": 1.824
       },
       {
         "en": "See what you can do in Sbu’s special shoes.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/sbus-special-shoes/en/images/12.jpg",
         "alt": "The chicken tries the shoes on!",
         "zh": "看看穿上斯布的神奇鞋，你能做些什么。",
-        "tip": "故事到这里啦。可以问问孩子最喜欢哪一幅画，想不想再翻回去看看。"
+        "tip": "故事到这里啦。可以问问孩子最喜欢哪一幅画，想不想再翻回去看看。",
+        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_140539_cb72d229-448a-4809-a3fc-a4c20bac5e06.mp3",
+        "sourceAudioSha256": "8820119e76f5c007f9eae76320a48cd5ca0f461f967dddf0c1e2566f9007c649",
+        "sourceAudioTextSha256": "3c62ab0a7d80ea1c6417944b7d38bdfcd6c85df059308d9c75939de46374992d",
+        "audioDurationSeconds": 6.24
       }
     ],
     "keywords": [
@@ -865,6 +968,17 @@ window.JIGU_BOOKS = [
       "title": "我的鞋会做什么",
       "text": "穿上合脚的鞋，做一个轻轻踏步或转圈的动作。书中的追车和高难度动作只是想象，不模仿。",
       "hint": "想玩就试试，也可以下次再玩。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Higgsfield",
+      "model": "seed_audio",
+      "voice": "Isla",
+      "voiceId": "7367e919-3069-5a0b-939e-dfb1c0fd91b4",
+      "voiceType": "preset",
+      "speechRate": -8,
+      "pitchRate": 2,
+      "adaptation": "AI narration produced by Jigu from the original English text."
     }
   },
   {
