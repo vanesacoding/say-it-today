@@ -1,0 +1,26 @@
+{
+  "id": "charlie-b-current-library-20261019",
+  "speaker": "ICL_uranus_en_female_charlie_tob",
+  "speechRate": -5,
+  "approvedAuditionRunId": 39233953938,
+  "variant": "english-gentle",
+  "sourceCatalogueSha256": "0d86c647e2bfbc69779b9ef35f25e7a764c710d7ff3a1f3d7ace24dff91c334d",
+  "sourceTextSha256": "62b04479e86285461df26f44367cfdf769b31171e28a183347e8a29bd8865f6e",
+  "bookIds": [
+    "sleepy-mr-sloth",
+    "whose-button-is-this",
+    "0130",
+    "0060",
+    "0240",
+    "0050",
+    "0265",
+    "0331",
+    "0245",
+    "0295",
+    "0311",
+    "0143",
+    "0296"
+  ],
+  "expectedPages": 132,
+  "characters": 5477
+}

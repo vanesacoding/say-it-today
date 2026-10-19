@@ -27,7 +27,7 @@ def api(path, payload=None):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--commit', action='store_true')
-    parser.add_argument('--batch', choices=['doubao-production', 'mobile-production'], default='doubao-production')
+    parser.add_argument('--batch', choices=['doubao-production', 'mobile-production', 'charlie-production'], default='doubao-production')
     args = parser.parse_args()
     ledger = json.loads((ROOT / '.reading-audio' / args.batch / 'production.json').read_text())
     if ledger.get('status') != 'all_audio_verified' or len(ledger['pages']) != ledger.get('expectedPages', 150) or not ledger['pages'] or any(p.get('status') != 'completed' for p in ledger['pages']):
