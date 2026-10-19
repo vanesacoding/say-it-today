@@ -1,0 +1,57 @@
+name: Reading navigation layout
+on:
+  pull_request:
+    paths: [index.html, .github/workflows/reading-layout-check.yml]
+  push:
+    branches: [main]
+    paths: [index.html, .github/workflows/reading-layout-check.yml]
+permissions:
+  contents: read
+jobs:
+  layout:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Check app without downloading media
+        run: npm run check
+        env:
+          CI: ''
+      - run: npm run build
+      - run: npm install --no-save --package-lock=false playwright@1.56.1
+      - run: npx playwright install --with-deps chromium
+      - name: Verify navigation stays in the viewport while scrolling
+        run: |
+          python3 -m http.server 4173 --directory dist >/tmp/jigu-layout-server.log 2>&1 &
+          node --input-type=module <<'JS'
+          import { chromium } from 'playwright';
+          import assert from 'node:assert/strict';
+          const browser=await chromium.launch();
+          try {
+            for(const [width,height] of [[320,568],[390,844],[430,932],[1024,768]]) {
+              const page=await browser.newPage({viewport:{width,height}});
+              await page.goto('http://127.0.0.1:4173/');
+              for(const view of ['home','shelf','mine']) {
+                await page.locator('.bottomNav [data-go="'+view+'"]').click();
+                for(const end of [false,true]) {
+                  await page.evaluate(end=>window.scrollTo(0,end?document.documentElement.scrollHeight:0),end);
+                  const result=await page.locator('.bottomNav').evaluate(nav=>{
+                    const rect=nav.getBoundingClientRect(),main=nav.closest('.page');
+                    return {top:rect.top,bottom:rect.bottom,height:rect.height,width:rect.width,position:getComputedStyle(nav).position,padding:parseFloat(getComputedStyle(main).paddingBottom),buttons:[...nav.querySelectorAll('button')].map(b=>b.getBoundingClientRect().height)};
+                  });
+                  assert.equal(result.position,'fixed');
+                  assert.ok(Math.abs(result.bottom-height)<2,JSON.stringify({width,height,view,end,result}));
+                  assert.ok(result.top>=0&&result.width<=460&&result.padding>=result.height);
+                  assert.ok(result.buttons.every(h=>h>=44));
+                }
+              }
+              await page.close();
+            }
+            console.log('PASS fixed navigation: home/shelf/mine, 4 viewports, top and bottom scroll positions');
+          } finally { await browser.close(); }
+          JS

@@ -14,7 +14,7 @@
 
 @media(max-width:345px){.page{padding-left:13px;padding-right:13px}.reading{padding-left:11px;padding-right:11px}.tool{padding:9px 12px}.textPanel{min-height:64px}.readerTools{gap:5px}.readMode{margin-bottom:8px}}@media(min-width:740px){.shell{margin:28px auto;min-height:calc(100dvh - 56px);border-radius:23px;overflow:hidden}.page{min-height:calc(100dvh - 56px)}.reading{max-height:860px}}
 
-.bottomNav{display:flex;justify-content:space-around;margin-top:16px;padding:14px 0 4px;border-top:1px solid var(--border)}.bottomNav button{padding:7px 15px;background:transparent;color:#97897f;font-size:12px;font-weight:600}.bottomNav button.active{color:#ad6b4d;font-weight:800}.readHistory{border:1px solid var(--border);background:#fffcf8;border-radius:14px;padding:19px;margin:10px 0}.readHistory strong{font-size:15px}.readHistory p{line-height:1.7;font-size:13px;color:var(--dim)}.readHistory .secondary{width:100%;margin:7px 0 0}.homePage .foot{display:none}
+.page.hasBottomNav{padding-bottom:calc(env(safe-area-inset-bottom) + 90px)}.bottomNav{position:fixed;z-index:30;left:50%;bottom:0;transform:translateX(-50%);width:min(100%,460px);display:flex;justify-content:space-around;align-items:center;margin:0;padding:8px 12px calc(env(safe-area-inset-bottom) + 8px);background:var(--paper);border-top:1px solid var(--border);box-shadow:0 -4px 18px #58453108}.bottomNav button{min-height:44px;flex:1;padding:7px 15px;background:transparent;color:#97897f;font-size:12px;font-weight:600}.bottomNav button.active{color:#ad6b4d;font-weight:800}.readHistory{border:1px solid var(--border);background:#fffcf8;border-radius:14px;padding:19px;margin:10px 0}.readHistory strong{font-size:15px}.readHistory p{line-height:1.7;font-size:13px;color:var(--dim)}.readHistory .secondary{width:100%;margin:7px 0 0}.homePage .foot{display:none}
 
 .favoriteBook{display:flex;align-items:center;gap:13px;width:100%;margin-top:12px;padding:8px;text-align:left;border:1px solid #eee5da;border-radius:12px;background:#faf6ef;transition:background-color .15s}
 .favoriteBook:hover,.favoriteBook:focus-visible{background:#f2e9dd}
@@ -199,7 +199,7 @@
     }
     return `<div class="sheetScrim" data-action="close"><div class="sheet" role="dialog" aria-modal="true" aria-label="${esc(title)}"><div class="sheetHead"><span>${esc(title)}</span><button class="iconBtn" data-action="close" aria-label="关闭">×</button></div>${body}</div></div>`;
   }
-  function render(){const view=state.view==='reader'?reader():state.view==='done'?finished():state.view==='shelf'?shelf():state.view==='mine'?mine():state.view==='vocabulary'?vocabularyView():state.view==='review'?reviewView():state.view==='detail'?detail():home();$('app').innerHTML=view+sheet();save()}
+  function render(){const view=state.view==='reader'?reader():state.view==='done'?finished():state.view==='shelf'?shelf():state.view==='mine'?mine():state.view==='vocabulary'?vocabularyView():state.view==='review'?reviewView():state.view==='detail'?detail():home();$('app').innerHTML=view+sheet();const nav=$('app').querySelector('.bottomNav');if(nav)nav.closest('.page').classList.add('hasBottomNav');save()}
   document.addEventListener('click',e=>{
     const el=e.target.closest('[data-action],[data-go],[data-book],[data-resume],[data-filter-theme],[data-filter-stage]');if(!el)return;
     if(el.dataset.book){openBook(el.dataset.book);return}
