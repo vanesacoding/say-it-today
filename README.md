@@ -31,6 +31,8 @@ PWA预缓存界面和目录；书籍媒体按阅读需求缓存，避免首次�
 
 ## 开发与验证
 
+豆包语音试听：在仓库 Actions secrets 中配置 `DOUBAO_SPEECH_API_KEY`（新版豆包语音控制台的 API Key），手动运行 `Doubao reading audition`。默认使用官方音色ID `zh_male_tiancaitongsheng_uranus_bigtts`，生成与此前相同的三段原文，语速-8、自然音调；仅用于试听，尚未确认其英文效果。工作流使用固定的官方HTTP接口、不开自动重试，不输出密钥，生成后验证MP3解码与非静音，并上传仅含音频、署名和非敏感元数据的artifact。它不修改线上书籍目录，也不自动开始整批收费制作。`python3 scripts/doubao-reading-audition.py --dry-run` 可离线查看源文和请求参数。
+
 ```bash
 npm ci
 python3 scripts/fetch-reading-library.py
