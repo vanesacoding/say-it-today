@@ -6856,7 +6856,7 @@ window.JIGU_BOOKS = [
         "文字：Mmapule Nkuna",
         "插画：Melany Pietersen, Rob Owen, Catherine Groenewald"
       ],
-      "editorialNote": "英文校订了拼写、标点、语法及少量措辞；每页保留原文供核对。中文辅助、陪读提示、重点词和亲子活动为叽咕新增。 第5页原文写 giraffe，但原配图为花豹，已将英文校订为 leopard，与原画保持一致。",
+      "editorialNote": "此前第5页曾将原文 Giraffe 错改为 leopard，现已恢复来源原文，并同步纠正中文及配音。其他页保留此前的标点、大小写整理。",
       "sourceTextSha256": "ad22a9208de2b92a008618714e860116627aaf5cbe100fe7d310d52f633e0770"
     },
     "pages": [
@@ -6925,20 +6925,20 @@ window.JIGU_BOOKS = [
         "audioDurationSeconds": 1.944
       },
       {
-        "en": "I saw a leopard.",
+        "en": "I saw a Giraffe.",
         "sourceText": "I saw a Giraffe.",
-        "zh": "我看到了一只花豹。",
-        "tip": "观察花豹身上的斑点，听听 leopard。",
-        "alt": "我看到了一只花豹。",
+        "zh": "我看见了一只长颈鹿。",
+        "tip": "指指长颈鹿弯下来的长脖子。",
+        "alt": "两只长颈鹿低头喝水。",
         "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0248/06.jpg",
         "sourceImageSha256": "da170c5db9c3a6caa4f3d766e7357d17dfdb8b4f4baa65a66e41047c2900f87d",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/05-b9f6332617cb4548.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0248/audio/05-b9f6332617cb4548.mp3",
-        "sourceAudioSha256": "b9f6332617cb4548096b9b007ece0314666d904522a6473b31a56d06201604ff",
-        "sourceAudioTextSha256": "ac80907de092c93f7bda9b4541082a52c1aee0eb063562330c69f72282d71ff0",
-        "audioDurationSeconds": 1.704
+        "audioFile": "audio/05-969a3f16a81de9b7.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0248/audio/05-969a3f16a81de9b7.mp3",
+        "sourceAudioSha256": "969a3f16a81de9b7b720c0cc1f555a476be8319a8b63cdc4c550ec06a74efc11",
+        "sourceAudioTextSha256": "404306488be864f5aa0278ad678b2da45c0149e10f3acb560ddc686718dd55b4",
+        "audioDurationSeconds": 1.968
       },
       {
         "en": "I saw a lot of zebras.",
@@ -7025,7 +7025,9 @@ window.JIGU_BOOKS = [
       "pitchRate": 0,
       "approvedAuditionRunId": 39233953938,
       "approvedVariant": "english-gentle",
-      "adaptation": "AI narration produced by Jigu from the attributed English text."
+      "adaptation": "AI narration produced by Jigu from attributed source text.",
+      "locale": "en-US",
+      "accentLabel": "美式英语"
     }
   },
   {
