@@ -1,0 +1,43 @@
+name: Doubao reading audition
+
+on:
+  workflow_dispatch:
+    inputs:
+      speaker:
+        description: 'Voice ID from the Doubao Speech 2.0 catalogue'
+        required: true
+        default: zh_male_tiancaitongsheng_uranus_bigtts
+        type: string
+
+permissions:
+  contents: read
+
+concurrency:
+  group: doubao-reading-audition
+  cancel-in-progress: false
+
+jobs:
+  audition:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install audio verification tools
+        run: sudo apt-get update -qq && sudo apt-get install -y ffmpeg
+      - name: Generate and verify one short audition
+        env:
+          DOUBAO_SPEECH_API_KEY: ${{ secrets.DOUBAO_SPEECH_API_KEY }}
+          AUDITION_SPEAKER: ${{ inputs.speaker }}
+        run: python3 scripts/doubao-reading-audition.py --speaker "$AUDITION_SPEAKER"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: jigu-doubao-audition
+          path: .reading-audio/doubao-audition/
+          include-hidden-files: true
+          if-no-files-found: error
+          retention-days: 90
