@@ -6,7 +6,10 @@ import {JSDOM} from 'jsdom';
 const html=readFileSync('index.html','utf8');
 const catalogScript=readFileSync('public/books/catalog.js','utf8');
 const context={window:{}};vm.runInNewContext(catalogScript,context);const books=context.window.JIGU_BOOKS;const activeBooks=books.filter(b=>!b.archived);
-assert.equal(activeBooks.length,20);assert.equal(new Set(books.map(b=>b.id)).size,books.length);
+const expansion=JSON.parse(readFileSync('scripts/library-50-request.json','utf8'));
+const previousCatalogue=createHash('sha256').update(catalogScript).digest('hex')===expansion.sourceCatalogueSha256;
+assert.equal(activeBooks.length,previousCatalogue?20:50);
+if(!previousCatalogue){const candidate=JSON.parse(readFileSync('scripts/library-50-candidate.json','utf8'));for(const id of candidate.newBookIds){const b=activeBooks.find(b=>b.id===id);assert.ok(b);assert.equal(b.narration?.voiceId,candidate.speaker);assert.equal(b.narration?.speechRate,-5)}}assert.equal(new Set(books.map(b=>b.id)).size,books.length);
 const stages=new Set(),themes=new Set();
 for(const b of books){
  stages.add(b.stageId);themes.add(b.primaryTheme);
@@ -35,12 +38,12 @@ for(const b of books){
  for(const w of b.keywords){assert.ok(b.pages[w.pageIndex]);assert.match(b.pages[w.pageIndex].en,new RegExp('(?<![a-z])'+w.word+'(?![a-z])','i'),'keyword belongs to actual source page '+b.id)}
 }
 assert.equal(stages.size,3);assert.equal(themes.size,4);
-console.log('PASS catalogue: 20 current attributed books, complete bilingual pages, source-linked keywords, 4 themes and 3 stages');
-function makeDom(saved,legacy){
+console.log('PASS catalogue: '+activeBooks.length+' current attributed books, complete bilingual pages, source-linked keywords, 4 themes and 3 stages');
+function makeDom(saved,legacy,onlyBookId){
  const dom=new JSDOM(html,{url:'https://jigu.local/say-it-today/',runScripts:'outside-only'});dom.window.scrollTo=()=>{};
  if(saved)dom.window.localStorage.setItem('jigu-reading-library-v2',saved);
  if(legacy)dom.window.localStorage.setItem('jigu-vertical-book-0087-v1',legacy);
- dom.window.eval(catalogScript);dom.window.eval(readFileSync('public/books/vocabulary.js','utf8'));
+ dom.window.eval(catalogScript);if(onlyBookId)for(const b of dom.window.JIGU_BOOKS)b.archived=b.id!==onlyBookId;dom.window.eval(readFileSync('public/books/vocabulary.js','utf8'));
  dom.window.eval([...dom.window.document.scripts].find(s=>s.textContent.includes('const books=window.JIGU_BOOKS')).textContent);
  return dom;
 }
@@ -48,19 +51,21 @@ function click(d,s){const el=d.window.document.querySelector(s);assert.ok(el,'mi
 function selectStage(d,value){const select=d.window.document.querySelector('[data-stage-select]');assert.ok(select);select.value=value;select.dispatchEvent(new d.window.Event('change',{bubbles:true}))}
 function open(d,id){click(d,'[data-go="shelf"]');click(d,'[data-filter-theme="all"]');selectStage(d,'all');click(d,`[data-book="${id}"]`);click(d,'[data-go="reader"]')}
 function heading(d){return d.window.document.querySelector('.readerHeader .heading').textContent}
-const dom=makeDom();click(dom,'[data-go="shelf"]');assert.equal(dom.window.document.querySelectorAll('.shelfCard').length,20);
+const dom=makeDom();click(dom,'[data-go="shelf"]');assert.equal(dom.window.document.querySelectorAll('.shelfCard').length,activeBooks.length);
 for(const theme of ['everyday','nature','discovery','feelings']){
  click(dom,`[data-filter-theme="${theme}"]`);
  assert.equal(dom.window.document.querySelectorAll('.shelfCard').length,activeBooks.filter(b=>b.themeIds.includes(theme)).length);
 }
 click(dom,'[data-filter-theme="all"]');selectStage(dom,'S2');assert.equal(dom.window.document.querySelectorAll('.shelfCard').length,activeBooks.filter(b=>b.stageId==='S2').length);
 selectStage(dom,'all');
-// Stage changes intersect with the selected topic and survive reopening the app.
-click(dom,'[data-filter-theme="discovery"]');selectStage(dom,'S3');
-assert.equal(dom.window.document.querySelectorAll('.shelfCard').length,activeBooks.filter(b=>b.themeIds.includes('discovery')&&b.stageId==='S3').length);
-assert.ok(dom.window.document.querySelector('.emptyBooks'));
-click(dom,'[data-action="reset-filters"]');
-assert.equal(dom.window.document.querySelector('[data-stage-select]').value,'all');
+// Exercise empty combinations using a one-book fixture even when the full shelf covers the matrix.
+const emptyDom=makeDom(null,null,'0087');click(emptyDom,'[data-go="shelf"]');
+click(emptyDom,'[data-filter-theme="discovery"]');selectStage(emptyDom,'S3');
+assert.ok(emptyDom.window.document.querySelector('.emptyBooks'));
+click(emptyDom,'[data-action="reset-filters"]');
+assert.equal(emptyDom.window.document.querySelector('[data-stage-select]').value,'all');
+assert.equal(emptyDom.window.document.querySelectorAll('.shelfCard').length,1);
+emptyDom.window.close();
 selectStage(dom,'S2');click(dom,'[data-filter-theme="nature"]');
 const filteredReload=makeDom(dom.window.localStorage.getItem('jigu-reading-library-v2'));
 click(filteredReload,'[data-go="shelf"]');
@@ -90,7 +95,7 @@ for(const b of activeBooks){
  }
  click(dom,'[data-action="again"]');assert.match(heading(dom),new RegExp('1/'+b.pages.length));
 }
-console.log('PASS all 20 books: correct page counts and art, companion text, completion, linked keywords and replay');
+console.log('PASS all '+activeBooks.length+' books: correct page counts and art, companion text, completion, linked keywords and replay');
 // Independent progress and favorites survive switching and reloading.
 open(dom,'0008');click(dom,'[data-action="next"]');click(dom,'[data-action="favorite"]');
 open(dom,'0001');for(let i=0;i<9;i++)click(dom,'[data-action="next"]');click(dom,'[data-action="favorite"]');
