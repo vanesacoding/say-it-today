@@ -1,0 +1,74 @@
+name: Doubao reading production
+
+on:
+  push:
+    branches: [main]
+    paths: [scripts/doubao-production-request.json]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: doubao-reading-production
+  cancel-in-progress: false
+
+jobs:
+  production:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: sudo apt-get update -qq && sudo apt-get install -y ffmpeg
+      - run: npm ci
+      - name: Generate all approved page recordings
+        env:
+          DOUBAO_SPEECH_API_KEY: ${{ secrets.DOUBAO_SPEECH_API_KEY }}
+        run: python3 scripts/doubao-reading-production.py
+      - name: Save recording checkpoints
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: jigu-doubao-production
+          path: .reading-audio/doubao-production/
+          include-hidden-files: true
+          if-no-files-found: warn
+          retention-days: 90
+      - name: Fetch declared images and narration
+        run: python3 scripts/fetch-reading-library.py
+      - run: npm run check
+        env:
+          CI: '1'
+      - run: npm run build
+        env:
+          VITE_BASE_PATH: /say-it-today/
+          VITE_API_URL: ${{ vars.VITE_API_URL }}
+      - name: Check current source before deployment
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 scripts/publish-reading-catalog.py
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - name: Deploy verified audio
+        id: deployment
+        uses: actions/deploy-pages@v4
+      - name: Persist verified catalogue for later builds
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 scripts/publish-reading-catalog.py --commit

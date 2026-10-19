@@ -12,7 +12,7 @@ for b in books:
  for i,p in enumerate(b['pages']):
   jobs.append((p['sourceImage'],base/f'{i+1:02d}.jpg','image',None))
   if b['audioType'] in ('human','generated') and p['en'].strip():
-   jobs.append((p['sourceAudio'],base/'audio'/f'{i+1:02d}.mp3','audio',p.get('sourceAudioSha256')))
+   jobs.append((p['sourceAudio'],base/p.get('audioFile',f'audio/{i+1:02d}.mp3'),'audio',p.get('sourceAudioSha256')))
 jobs.append(('https://bookdash.github.io/bookdash-books/images/book-dash-logo.png',root/'public/books/library/book-dash-logo.png','image',None))
 def valid(data,kind,expected_hash=None):
  if expected_hash and hashlib.sha256(data).hexdigest()!=expected_hash:return False
