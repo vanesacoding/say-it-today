@@ -1,0 +1,112 @@
+name: Library 50 book release
+
+on:
+  push:
+    branches: [main]
+    paths: [scripts/library-50-request.json]
+  workflow_dispatch:
+    inputs:
+      resume_run_id:
+        description: Restore a fully completed recording artifact without synthesis
+        required: false
+        type: string
+
+permissions:
+  actions: read
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: library-50-release
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: sudo apt-get update -qq && sudo apt-get install -y ffmpeg python3-pil
+      - run: npm ci
+      - name: Validate the approved B voice and source before any synthesis
+        run: python3 scripts/library-50-production.py --dry-run
+      - name: Find the latest published media bundle
+        id: previous
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const result = await github.rest.actions.listWorkflowRuns({
+              ...context.repo, workflow_id: 'deploy-pages.yml',
+              branch: 'main', status: 'success', per_page: 1
+            });
+            if (!result.data.workflow_runs[0]) throw new Error('No validated baseline media found');
+            core.setOutput('run_id', result.data.workflow_runs[0].id.toString());
+      - name: Restore previously published media before synthesis
+        uses: actions/download-artifact@v4
+        with:
+          name: github-pages
+          run-id: ${{ steps.previous.outputs.run_id }}
+          github-token: ${{ github.token }}
+          path: .reading-audio/media-baseline
+      - run: tar -xf .reading-audio/media-baseline/artifact.tar -C public ./books/library
+      - name: Restore completed audio when resuming
+        if: github.event_name == 'workflow_dispatch' && inputs.resume_run_id != ''
+        uses: actions/download-artifact@v4
+        with:
+          name: jigu-library-50-audio
+          run-id: ${{ inputs.resume_run_id }}
+          github-token: ${{ github.token }}
+          path: .reading-audio/library-50
+      - name: Generate 30 approved books or verify saved recordings
+        env:
+          DOUBAO_SPEECH_API_KEY: ${{ secrets.DOUBAO_SPEECH_API_KEY }}
+          RESUME_RUN_ID: ${{ inputs.resume_run_id }}
+        run: |
+          if [ -n "$RESUME_RUN_ID" ]; then
+            python3 scripts/library-50-production.py --resume-only
+          else
+            python3 scripts/library-50-production.py
+          fi
+      - name: Save full or partial recording checkpoints
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: jigu-library-50-audio
+          path: .reading-audio/library-50/
+          include-hidden-files: true
+          if-no-files-found: warn
+          retention-days: 90
+      - run: python3 scripts/fetch-reading-library.py
+      - run: python3 scripts/check-mobile-media.py
+      - run: npm run check
+        env:
+          CI: '1'
+      - run: npm run build
+        env:
+          VITE_BASE_PATH: /say-it-today/
+          VITE_API_URL: ${{ vars.VITE_API_URL }}
+      - name: Check main and source catalogue before publication
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 scripts/publish-reading-catalog.py --batch library-50
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - name: Publish verified 50-book library
+        id: deployment
+        uses: actions/deploy-pages@v4
+      - name: Persist the verified catalogue for future deployments
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 scripts/publish-reading-catalog.py --batch library-50 --commit
