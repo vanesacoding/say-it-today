@@ -56,6 +56,13 @@ jobs:
                   await page.getByRole('button',{name:'阶段说明',exact:true}).click();
                   assert.ok(await page.getByRole('dialog',{name:'共读阶段怎么选'}).isVisible());
                   await page.getByRole('button',{name:'关闭',exact:true}).click();
+                  await page.reload();
+                  await page.locator('.bottomNav [data-go="shelf"]').click();
+                  assert.equal(await page.getByLabel('选择共读阶段').inputValue(),'all');
+                  assert.equal(await page.getByRole('button',{name:'全部',exact:true}).getAttribute('aria-pressed'),'true');
+                  const chips=await page.locator('.themeFilters button').evaluateAll(buttons=>buttons.map(b=>({touch:b.getBoundingClientRect().height,visual:b.querySelector('span').getBoundingClientRect().height,shadow:getComputedStyle(b).boxShadow})));
+                  assert.ok(chips.every(c=>c.touch>=44&&c.visual<36&&c.shadow==='none'));
+                  assert.ok(!/原版真人朗读|AI英文配音|设备英语朗读/.test(await page.locator('main').textContent()));
                   await page.getByLabel('选择共读阶段').selectOption('all');
                   await page.getByRole('button',{name:'全部',exact:true}).click();
                 }
@@ -76,3 +83,4 @@ jobs:
             console.log('PASS fixed navigation: home/shelf/mine, 4 viewports, top and bottom scroll positions');
           } finally { await browser.close(); }
           JS
+
