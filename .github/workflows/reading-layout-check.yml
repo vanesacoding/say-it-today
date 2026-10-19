@@ -38,6 +38,26 @@ jobs:
               await page.goto('http://127.0.0.1:4173/');
               for(const view of ['home','shelf','mine']) {
                 await page.locator('.bottomNav [data-go="'+view+'"]').click();
+                if(view==='shelf') {
+                  const rail=await page.locator('.themeFilters').evaluate(el=>{
+                    const boxes=[...el.querySelectorAll('button')].map(b=>b.getBoundingClientRect());
+                    return {tops:boxes.map(b=>Math.round(b.top)),heights:boxes.map(b=>b.height),scrollWidth:el.scrollWidth,width:el.clientWidth,overflow:getComputedStyle(el).overflowX,pageWidth:document.documentElement.scrollWidth,viewport:window.innerWidth};
+                  });
+                  assert.equal(new Set(rail.tops).size,1,'themes must stay on one line');
+                  assert.ok(rail.heights.every(h=>h>=44),'theme touch targets');
+                  assert.equal(rail.overflow,'auto');
+                  assert.ok(rail.pageWidth<=rail.viewport,'no page-level horizontal overflow');
+                  if(width===320)assert.ok(rail.scrollWidth>rail.width,'narrow screens scroll themes');
+                  await page.getByLabel('选择共读阶段').selectOption('S2');
+                  await page.getByRole('button',{name:'心情与朋友',exact:true}).click();
+                  assert.equal(await page.getByLabel('选择共读阶段').inputValue(),'S2');
+                  assert.equal(await page.locator('.shelfCard').count(),2);
+                  await page.getByRole('button',{name:'阶段说明',exact:true}).click();
+                  assert.ok(await page.getByRole('dialog',{name:'共读阶段怎么选'}).isVisible());
+                  await page.getByRole('button',{name:'关闭',exact:true}).click();
+                  await page.getByLabel('选择共读阶段').selectOption('all');
+                  await page.getByRole('button',{name:'全部',exact:true}).click();
+                }
                 for(const end of [false,true]) {
                   await page.evaluate(end=>window.scrollTo(0,end?document.documentElement.scrollHeight:0),end);
                   const result=await page.locator('.bottomNav').evaluate(nav=>{
