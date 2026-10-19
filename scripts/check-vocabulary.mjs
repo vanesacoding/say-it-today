@@ -32,7 +32,7 @@ const archived=r.window.JIGU_BOOKS.find(b=>b.archived);
 if(archived){
  const a=app(JSON.stringify({selectedId:archived.id,records:{[archived.id]:{opened:true,saved:true,page:2,lastReadAt:999}},wordSaves:{[archived.id+':'+archived.keywords[0].id]:true},wordReviews:{test:{dueAt:123}}}));
  assert.ok(!a.window.document.querySelector('h1').textContent.includes(archived.title),'Home moves to a current book');click(a,'[data-go="mine"]');assert.ok(a.window.document.querySelector(`[data-resume="${archived.id}"]`));click(a,`[data-resume="${archived.id}"]`);assert.match(a.window.document.querySelector('.readerHeader').textContent,new RegExp('3/'+archived.pages.length));
- const restored=JSON.parse(a.window.localStorage.getItem('jigu-reading-library-v2'));assert.ok(restored.records[archived.id].saved);assert.ok(restored.wordSaves[archived.id+':'+archived.keywords[0].id]);assert.equal(restored.wordReviews.test.dueAt,123);a.window.close();
+ const restored=JSON.parse(a.window.localStorage.getItem('jigu-reading-library-v2'));assert.ok(restored.records[archived.id].saved);assert.ok(restored.wordSaves[archived.id+':'+archived.keywords[0].id]);assert.equal(restored.wordReviews.test.dueAt,123);assert.match(a.window.document.querySelector('.readerHeader').textContent,/旧版/);click(a,'[data-go="shelf"]');click(a,'[data-go="home"]');assert.ok(!a.window.document.querySelector('h1').textContent.includes(archived.title));a.window.close();
 }
 for(const instance of [d,r])instance.window.close();
 console.log('PASS vocabulary: reached-page collection, cross-book deduplication, saved words, 1/3/7/14-day review, recorded sentence audio, stale callbacks, source navigation and archive migration');
