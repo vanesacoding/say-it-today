@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: read
+  actions: read
   pages: write
   id-token: write
 
@@ -24,6 +25,37 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
+      - name: Find the most recent successful media bundle
+        id: previous
+        continue-on-error: true
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const result = await github.rest.actions.listWorkflowRuns({
+              ...context.repo, workflow_id: 'deploy-pages.yml',
+              branch: 'main', status: 'success', per_page: 1
+            });
+            if (result.data.workflow_runs[0]) {
+              core.setOutput('run_id', result.data.workflow_runs[0].id.toString());
+            }
+      - name: Restore the previous published media bundle
+        if: steps.previous.outputs.run_id != ''
+        id: media
+        continue-on-error: true
+        uses: actions/download-artifact@v4
+        with:
+          name: github-pages
+          run-id: ${{ steps.previous.outputs.run_id }}
+          github-token: ${{ github.token }}
+          path: .reading-cache
+      - name: Reuse media before validating the current catalogue
+        if: steps.media.outcome == 'success'
+        run: |
+          tar -xf .reading-cache/artifact.tar -C .reading-cache
+          if [ -d .reading-cache/books/library ]; then
+            mkdir -p public/books
+            cp -a .reading-cache/books/library public/books/
+          fi
       - name: Fetch declared book images and verified narration
         run: python3 scripts/fetch-reading-library.py
       - run: npm run check
