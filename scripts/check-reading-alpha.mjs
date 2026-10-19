@@ -21,12 +21,13 @@ for(const b of books){
   if(b.audioType!=='device'&&p.en)assert.ok(p.sourceAudio);
   if(b.audioType==='generated'&&p.en){
    assert.match(p.sourceAudioSha256,/^[a-f0-9]{64}$/);
+   if(p.audioFile)assert.match(p.audioFile,/^audio\/\d{2}-[a-f0-9]{16}\.mp3$/);
    assert.equal(p.sourceAudioTextSha256,createHash('sha256').update(p.en).digest('hex'),'recording must match current text');
   }
   if(process.env.CI){
    const prefix='public/books/library/'+b.id+'/';const image=prefix+String(i+1).padStart(2,'0')+'.jpg';assert.ok(existsSync(image)&&statSync(image).size>1000,'missing image '+image);
    if(b.audioType!=='device'&&p.en){
-    const audio=prefix+'audio/'+String(i+1).padStart(2,'0')+'.mp3';assert.ok(existsSync(audio)&&statSync(audio).size>600,'missing audio '+audio);
+    const audio=prefix+(p.audioFile||'audio/'+String(i+1).padStart(2,'0')+'.mp3');assert.ok(existsSync(audio)&&statSync(audio).size>600,'missing audio '+audio);
     if(p.sourceAudioSha256)assert.equal(createHash('sha256').update(readFileSync(audio)).digest('hex'),p.sourceAudioSha256);
    }
   }
@@ -92,14 +93,16 @@ open(audioDom,'0001');click(audioDom,'[data-go="shelf"]');click(audioDom,'[data-
 const utterances=[];let cancelled=0;
 audioDom.window.SpeechSynthesisUtterance=class{constructor(text){this.text=text}};
 audioDom.window.speechSynthesis={getVoices:()=>[],speak:u=>utterances.push(u),cancel:()=>cancelled++};
-open(audioDom,'sleepy-mr-sloth');assert.match(audioDom.window.document.querySelector('.readerTools').textContent,/设备英语朗读/);click(audioDom,'[data-action="listen"]');assert.equal(utterances.at(-1).text,books.find(b=>b.id==='sleepy-mr-sloth').pages[0].en);utterances.at(-1).onend();assert.match(heading(audioDom),/2\/12/);click(audioDom,'[data-go="shelf"]');assert.ok(cancelled>0);
+const deviceBook=books.find(b=>b.audioType==='device');
+if(deviceBook){open(audioDom,deviceBook.id);assert.match(audioDom.window.document.querySelector('.readerTools').textContent,/设备英语朗读/);click(audioDom,'[data-action="listen"]');assert.equal(utterances.at(-1).text,deviceBook.pages[0].en);utterances.at(-1).onend();assert.match(heading(audioDom),new RegExp('2/'+deviceBook.pages.length));click(audioDom,'[data-go="shelf"]');assert.ok(cancelled>0);}
+const recordedPath=(b,i)=>`./books/library/${b.id}/${b.pages[i].audioFile||'audio/'+String(i+1).padStart(2,'0')+'.mp3'}`;
 const generatedBooks=books.filter(b=>b.audioType==='generated');
 assert.ok(generatedBooks.length,'at least one fixed AI book must exercise recorded playback');
 for(const b of generatedBooks){
  open(audioDom,b.id);const speechCount=utterances.length;
  assert.match(audioDom.window.document.querySelector('.readerTools').textContent,/AI英文配音/);
  click(audioDom,'[data-action="listen"]');assert.equal(utterances.length,speechCount,'AI narration uses recorded audio');
- assert.equal(played.at(-1).src,`./books/library/${b.id}/audio/01.mp3`);
+ assert.equal(played.at(-1).src,recordedPath(b,0));
  played.at(-1).onended();assert.match(heading(audioDom),new RegExp('2/'+b.pages.length));
  const player=played.at(-1);player.onerror();assert.equal(player.src,b.pages[1].sourceAudio);
  player.onerror();assert.equal(utterances.at(-1).text,b.pages[1].en);
@@ -121,6 +124,6 @@ click(audioDom,'[data-action="listen"]');
 assert.equal(played.length,playedBefore);assert.equal(utterances.length,speechBefore);
 const picturePause=timers.find(t=>t.ms===2200);assert.ok(picturePause);picturePause.fn();
 assert.match(heading(audioDom),new RegExp(`${wordlessIndex+2}/${wordlessBook.pages.length}`));
-assert.equal(played.at(-1).src,`./books/library/${wordlessBook.id}/audio/${String(wordlessIndex+2).padStart(2,'0')}.mp3`);
+assert.equal(played.at(-1).src,recordedPath(wordlessBook,wordlessIndex+1));
 console.log('PASS human, fixed AI and device narration, explicit fallback, linked credits, continuous play and stop on navigation');
 for(const d of [dom,reload,legacy,audioDom])d.window.close();
