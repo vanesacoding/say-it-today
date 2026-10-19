@@ -17,6 +17,7 @@ concurrency:
 
 jobs:
   build:
+    if: ${{ !contains(github.event.head_commit.message, '[reading-release]') }}
     runs-on: ubuntu-latest
     environment:
       name: github-pages
@@ -37,7 +38,7 @@ jobs:
             const result = await github.rest.actions.listWorkflowRunsForRepo({
               ...context.repo, branch: 'main', status: 'success', per_page: 30
             });
-            const names = new Set(['Deploy GitHub Pages', 'Charlie B narration release', 'Mobile reading release', 'Library 50 book release']);
+            const names = new Set(['Deploy GitHub Pages', 'Charlie B narration release', 'Mobile reading release', 'Library 50 book release', 'Reviewed reading library release']);
             const run = result.data.workflow_runs.find(r => names.has(r.name));
             if (run) core.setOutput('run_id', run.id.toString());
       - name: Restore the previous published media bundle

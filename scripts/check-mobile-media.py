@@ -5,9 +5,9 @@ from PIL import Image
 ROOT=Path(__file__).resolve().parents[1]
 books=json.loads((ROOT/'public/books/catalog.js').read_text().removeprefix('window.JIGU_BOOKS = ').strip().removesuffix(';'))
 active=[b for b in books if not b.get('archived')]
-request=json.loads((ROOT/'scripts/library-50-request.json').read_text())
+request=json.loads((ROOT/'scripts/library-release-request.json').read_text())
 current_hash=hashlib.sha256((ROOT/'public/books/catalog.js').read_bytes()).hexdigest()
-assert len(active)==(20 if current_hash==request['sourceCatalogueSha256'] else 50)
+assert len(active)==(50 if current_hash==request['sourceCatalogueSha256'] else request['targetActiveBooks'])
 count=0
 for book in active:
  for i,page in enumerate(book['pages']):
