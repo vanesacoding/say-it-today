@@ -27,9 +27,10 @@ def api(path, payload=None):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--commit', action='store_true')
+    parser.add_argument('--batch', choices=['doubao-production', 'mobile-production'], default='doubao-production')
     args = parser.parse_args()
-    ledger = json.loads((ROOT / '.reading-audio/doubao-production/production.json').read_text())
-    if ledger.get('status') != 'all_audio_verified' or len(ledger['pages']) != 150:
+    ledger = json.loads((ROOT / '.reading-audio' / args.batch / 'production.json').read_text())
+    if ledger.get('status') != 'all_audio_verified' or len(ledger['pages']) != ledger.get('expectedPages', 150) or not ledger['pages'] or any(p.get('status') != 'completed' for p in ledger['pages']):
         raise ValueError('The complete recording set has not passed verification')
     head = api('/git/ref/heads/main')['object']['sha']
     if head != os.environ['GITHUB_SHA']:
@@ -38,12 +39,12 @@ def main():
     source = base64.b64decode(current['content'])
     if hashlib.sha256(source).hexdigest() != ledger['sourceCatalogueSha256']:
         raise ValueError('Remote source catalogue changed')
-    generated = (ROOT / '.reading-audio/doubao-production/catalog.generated.js').read_bytes()
+    generated = (ROOT / '.reading-audio' / args.batch / 'catalog.generated.js').read_bytes()
     if (ROOT / 'public/books/catalog.js').read_bytes() != generated:
         raise ValueError('Build catalogue differs from verified production output')
     if args.commit:
         result = api('/contents/public/books/catalog.js', {
-            'message': 'Publish verified Doubao narration for all 13 Book Dash books',
+            'message': 'Publish verified narration catalogue (' + args.batch + ')' ,
             'branch': 'main', 'sha': current['sha'], 'content': base64.b64encode(generated).decode()})
         print('Persisted verified catalogue commit ' + result['commit']['sha'])
     else:

@@ -8,9 +8,9 @@ books=json.loads(raw.removeprefix('window.JIGU_BOOKS = ').strip().removesuffix('
 jobs=[]
 for b in books:
  base=root/'public/books/library'/b['id']
- jobs.append((b['sourceCover'],base/'cover.jpg','image',None))
+ jobs.append((b['sourceCover'],base/'cover.jpg','image',b.get('sourceCoverSha256')))
  for i,p in enumerate(b['pages']):
-  jobs.append((p['sourceImage'],base/f'{i+1:02d}.jpg','image',None))
+  jobs.append((p['sourceImage'],base/f'{i+1:02d}.jpg','image',p.get('sourceImageSha256')))
   if b['audioType'] in ('human','generated') and p['en'].strip():
    jobs.append((p['sourceAudio'],base/p.get('audioFile',f'audio/{i+1:02d}.mp3'),'audio',p.get('sourceAudioSha256')))
 jobs.append(('https://bookdash.github.io/bookdash-books/images/book-dash-logo.png',root/'public/books/library/book-dash-logo.png','image',None))
