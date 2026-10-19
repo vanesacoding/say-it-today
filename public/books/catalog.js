@@ -490,10 +490,11 @@ window.JIGU_BOOKS = [
         "alt": "Cat hides under the couch.",
         "zh": "回来吧，小猫！和我玩。",
         "tip": "先看看画面里的主角，再听英文。孩子指一指、做动作或用中文聊，都很好。",
-        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_134731_1ee3713b-a2d0-435b-8e79-ad1bc346b8a8.mp3",
-        "sourceAudioSha256": "1594322b43485236c2d07a0149c66a3d5a7066b2dd868b0cca34c02affe4673c",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/come-back-cat/audio/01-54479c1687d530a7.mp3",
+        "sourceAudioSha256": "54479c1687d530a7482528a7cda90532974b14182fdb6efea1692fccd794ff83",
         "sourceAudioTextSha256": "17579dcff05889e01573240479b1c088ec9c9c9c0c7a5523de7c79bd6e680320",
-        "audioDurationSeconds": 4.416
+        "audioDurationSeconds": 4.224,
+        "audioFile": "audio/01-54479c1687d530a7.mp3"
       },
       {
         "en": "Sit in your basket. Stay right here!",
@@ -501,10 +502,11 @@ window.JIGU_BOOKS = [
         "alt": "Cat leaps up and hangs off the curtains.",
         "zh": "坐进你的小篮子里。就待在这儿！",
         "tip": "结合画面感受“篮子”，听一听 basket。不用要求孩子跟读。",
-        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_134731_c1b6212b-babb-43cb-b417-598f597f1015.mp3",
-        "sourceAudioSha256": "5069c54b3104a131dd1afbb14d3879668d4cab309de25ab75717cac7fb8e0d74",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/come-back-cat/audio/02-bf7e64242b2b0092.mp3",
+        "sourceAudioSha256": "bf7e64242b2b009284627b940e39976bcfc33a11d3c6082d6ec68f0673990421",
         "sourceAudioTextSha256": "74042367d118b21fda55d79113e937db6fe38922fff93a6eb5fc50fe248fb6f4",
-        "audioDurationSeconds": 3.12
+        "audioDurationSeconds": 5.088,
+        "audioFile": "audio/02-bf7e64242b2b0092.mp3"
       },
       {
         "en": "Come back, cat! That’s way too high.",
@@ -512,10 +514,11 @@ window.JIGU_BOOKS = [
         "alt": "Cat sits in her basket. She is grumpy.",
         "zh": "回来吧，小猫！那儿太高啦。",
         "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
-        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_135053_d82189e9-bb13-4f8e-bb83-2c47acfcf42a.mp3",
-        "sourceAudioSha256": "059cea8dcad85550e116caa57b5471dcfa971f4034059cf855e7d1ec6b53c2a7",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/come-back-cat/audio/03-280ff7cf62a5537d.mp3",
+        "sourceAudioSha256": "280ff7cf62a5537d2d64fa0af43b4fc3975d13542fa14c05faaa4c3e18a9790e",
         "sourceAudioTextSha256": "419b623ef843b5c2e72953247bb79f06f97720a1339a738ce615bac7ebea1127",
-        "audioDurationSeconds": 2.688
+        "audioDurationSeconds": 5.064,
+        "audioFile": "audio/03-280ff7cf62a5537d.mp3"
       },
       {
         "en": "Come back, cat! Don’t go outside.",
@@ -523,10 +526,11 @@ window.JIGU_BOOKS = [
         "alt": "Cat sneaks out the back door.",
         "zh": "回来吧，小猫！别跑到外面去。",
         "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
-        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_134731_a3217048-845e-4715-9d3c-b715ce58b08a.mp3",
-        "sourceAudioSha256": "af8b6751b940ac48d886fdae91f77d9b389ea2445dca8a4629d72bf03c0d0dfc",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/come-back-cat/audio/04-599d5b0c92ddbf9b.mp3",
+        "sourceAudioSha256": "599d5b0c92ddbf9bfd989740e0ef416049b8ac5bc79bbc17272af4201896e0fd",
         "sourceAudioTextSha256": "125e94f66e2e312a9a2892ac339fc23d28089f5476380674e753f1051cf5b614",
-        "audioDurationSeconds": 4.44
+        "audioDurationSeconds": 5.28,
+        "audioFile": "audio/04-599d5b0c92ddbf9b.mp3"
       },
       {
         "en": "",
@@ -541,10 +545,11 @@ window.JIGU_BOOKS = [
         "alt": "Cat pulls a sock off the washline and unravels the thread.",
         "zh": "回来吧，小猫！那不是你的。",
         "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
-        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_135208_6ff29553-3d93-4b0c-bee7-9a1c41f447e7.mp3",
-        "sourceAudioSha256": "ef149ca067f25be220f4a052a02070357dbe007e13111455e882f8d0fdd43e66",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/come-back-cat/audio/06-514e3cd42f8ca050.mp3",
+        "sourceAudioSha256": "514e3cd42f8ca050c417f820d924356872513fa030ef914f11ca24d2af11ab45",
         "sourceAudioTextSha256": "4031b6a076660861200692e0b4a1d9ab89340215243ad79a222474d038619b2a",
-        "audioDurationSeconds": 5.28
+        "audioDurationSeconds": 5.064,
+        "audioFile": "audio/06-514e3cd42f8ca050.mp3"
       },
       {
         "en": "Come back, cat! What have you got?",
@@ -552,10 +557,11 @@ window.JIGU_BOOKS = [
         "alt": "Cat finds a snail in the dirt. The sock thread is wound around her tail.",
         "zh": "回来吧，小猫！你拿着什么？",
         "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
-        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_134931_1ea96ada-b960-43b4-a1a4-662fb9e9fbce.mp3",
-        "sourceAudioSha256": "309f63fe8d3bbdd5b0dac8a7a64f363a3e442c0457d02d84b513a83b9976d5e1",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/come-back-cat/audio/07-80c3ab925e9a236c.mp3",
+        "sourceAudioSha256": "80c3ab925e9a236cdffa5ea13e11c8e492bb76da1d237f1cc3927d997c4330bf",
         "sourceAudioTextSha256": "98bfc254f0f7e15d3d6c232248372411dabb70751ced418b09e6ac78c50b0b87",
-        "audioDurationSeconds": 4.848
+        "audioDurationSeconds": 5.544,
+        "audioFile": "audio/07-80c3ab925e9a236c.mp3"
       },
       {
         "en": "Come back, cat. That’s not your friend!",
@@ -563,10 +569,11 @@ window.JIGU_BOOKS = [
         "alt": "Cat encounters a chicken. Cat now has thread around her tail and the snail on her back.",
         "zh": "回来吧，小猫。那可不是你的朋友！",
         "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
-        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_135234_dfaeabba-b0ea-4052-9af0-3722d013b437.mp3",
-        "sourceAudioSha256": "d3d27d3f8b90014b602bf5ad1e8de3acb9c496341d1a8222c422f9238da7ba23",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/come-back-cat/audio/08-cfb90df342593e45.mp3",
+        "sourceAudioSha256": "cfb90df342593e45372c3e852c725f44bea55033200f3308317973b4ddc77ed5",
         "sourceAudioTextSha256": "668004a0c97cad08a65ddb3389a55eb2b8899cf64d6fd760856afc2d4ff12a86",
-        "audioDurationSeconds": 2.976
+        "audioDurationSeconds": 5.28,
+        "audioFile": "audio/08-cfb90df342593e45.mp3"
       },
       {
         "en": "Hello, cat! Are you back?",
@@ -574,10 +581,11 @@ window.JIGU_BOOKS = [
         "alt": "Chicken feathers float around Cat's head. She still has the thread around her tail and the snail on her back.",
         "zh": "你好呀，小猫！你回来了吗？",
         "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
-        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_135728_a8c5bca2-224f-4e77-8b08-fe55d17f18f7.mp3",
-        "sourceAudioSha256": "52f082ce5a49484058efb88fca8cdc3928bec75787325c2b581ed1bd155eafee",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/come-back-cat/audio/09-43d88f1faa893942.mp3",
+        "sourceAudioSha256": "43d88f1faa893942d97960ea34d84f253ffb3167109058e0cc0d9b9e02de9ea3",
         "sourceAudioTextSha256": "0b3c5e97e8f9f4091c58081dba7f33e88cdf6ba8a578487c794d0d2331ef4bf8",
-        "audioDurationSeconds": 2.832
+        "audioDurationSeconds": 3.768,
+        "audioFile": "audio/09-43d88f1faa893942.mp3"
       },
       {
         "en": "Stay in your basket. It’s nap time now.",
@@ -585,10 +593,11 @@ window.JIGU_BOOKS = [
         "alt": "Cat lies in her basket looking satisfied.",
         "zh": "待在你的小篮子里。现在该打盹啦。",
         "tip": "结合画面感受“打盹”，听一听 nap。不用要求孩子跟读。",
-        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_135802_d8713cd7-b078-4232-9c59-478659f9e25a.mp3",
-        "sourceAudioSha256": "aa9dc49cc7749093110c0a1cf2c705cc2ee96006711241b389645a3d2dba6155",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/come-back-cat/audio/10-8c5794488a034a2c.mp3",
+        "sourceAudioSha256": "8c5794488a034a2c5fdee789489e40a91e71a7aafa5310e5384b7f79fc770e77",
         "sourceAudioTextSha256": "79daa5b69d340fad4029e8d4f61eae82d475ba2e125ddee2094fc05906f97ec9",
-        "audioDurationSeconds": 5.304
+        "audioDurationSeconds": 5.904,
+        "audioFile": "audio/10-8c5794488a034a2c.mp3"
       },
       {
         "en": "Cat?",
@@ -596,10 +605,11 @@ window.JIGU_BOOKS = [
         "alt": "Cat's basket is empty except for a few feathers.",
         "zh": "小猫？",
         "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
-        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_135837_71113f0f-135e-4b05-969e-5dc4f8602f42.mp3",
-        "sourceAudioSha256": "1b9c3fe03303d19036215833e52dd138699afce62b384fdd322d7f9941e897e4",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/come-back-cat/audio/11-8144fc21a8e709a5.mp3",
+        "sourceAudioSha256": "8144fc21a8e709a5bc2109683b06411676086a3947112ca753c6f8065ec75d8d",
         "sourceAudioTextSha256": "4c46b01718f37698e7a5d9a4c55e338ba776125858d6109587707739933bc36c",
-        "audioDurationSeconds": 2.136
+        "audioDurationSeconds": 2.04,
+        "audioFile": "audio/11-8144fc21a8e709a5.mp3"
       },
       {
         "en": "",
@@ -636,13 +646,14 @@ window.JIGU_BOOKS = [
     },
     "narration": {
       "kind": "ai",
-      "provider": "Higgsfield",
-      "model": "seed_audio",
-      "voice": "Isla",
-      "voiceId": "7367e919-3069-5a0b-939e-dfb1c0fd91b4",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "天才童声2.0",
+      "voiceId": "zh_male_tiancaitongsheng_uranus_bigtts",
       "voiceType": "preset",
       "speechRate": -8,
-      "pitchRate": 2,
+      "pitchRate": 0,
+      "approvedAuditionRunId": 39222587639,
       "adaptation": "AI narration produced by Jigu from the original English text."
     }
   },
@@ -659,7 +670,7 @@ window.JIGU_BOOKS = [
       "自然"
     ],
     "stageId": "S1",
-    "audioType": "device",
+    "audioType": "generated",
     "source": {
       "name": "Book Dash",
       "url": "https://bookdash.github.io/bookdash-books/a-house-for-mouse/en/",
@@ -677,63 +688,108 @@ window.JIGU_BOOKS = [
         "sourceImage": "https://bookdash.github.io/bookdash-books/a-house-for-mouse/en/images/01.jpg",
         "alt": "Mouse looks at a yellow house in the distance.",
         "zh": "小老鼠正在找一个新家。",
-        "tip": "先看看画面里的主角，再听英文。孩子指一指、做动作或用中文聊，都很好。"
+        "tip": "先看看画面里的主角，再听英文。孩子指一指、做动作或用中文聊，都很好。",
+        "audioFile": "audio/01-7d77ec7bc8486d6b.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/a-house-for-mouse/audio/01-7d77ec7bc8486d6b.mp3",
+        "sourceAudioSha256": "7d77ec7bc8486d6baadfd462171ff914311a62328a125d175d0ace18f1c283a3",
+        "sourceAudioTextSha256": "2152e6d9d6c847d0071c16126eb7cfcdc5fead596bf6c81711d575eeac145270",
+        "audioDurationSeconds": 4.2
       },
       {
         "en": "This looks like a nice house.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/a-house-for-mouse/en/images/02.jpg",
         "alt": "The front door is ajar. Mouse looks inside.",
         "zh": "这看起来是个不错的家。",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/02-6b4b181991830d43.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/a-house-for-mouse/audio/02-6b4b181991830d43.mp3",
+        "sourceAudioSha256": "6b4b181991830d43ac3aeb6ce4367f34864ffd77463183394418b8c33d41cf9e",
+        "sourceAudioTextSha256": "43487fc6b41991de7cd249b57f8a129176ac3b44e2e7c7620432eb2bf61bee07",
+        "audioDurationSeconds": 4.224
       },
       {
         "en": "“You can come and sleep with me,” said Puppy. “Thank you,” said Mouse.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/a-house-for-mouse/en/images/03.jpg",
         "alt": "A black puppy with a long tongue invites Mouse to join him. ",
         "zh": "小狗说：“你可以来和我一起睡。”小老鼠说：“谢谢你。”",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/03-19829b39c01775de.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/a-house-for-mouse/audio/03-19829b39c01775de.mp3",
+        "sourceAudioSha256": "19829b39c01775dea28896d72362fec14362e3f43511066a912d709b0e7e97f7",
+        "sourceAudioTextSha256": "f381afa4d09b8d87313be49620fd2a913302767ede8204913f8d3936fae4b392",
+        "audioDurationSeconds": 7.896
       },
       {
         "en": "That night, Mouse’s dreams were bouncy and muddy.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/a-house-for-mouse/en/images/04.jpg",
         "alt": "Mouse sleeps in a pool of mud.",
         "zh": "那天晚上，小老鼠的梦蹦蹦跳跳，还满是泥巴。",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/04-f45e586ae797a37e.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/a-house-for-mouse/audio/04-f45e586ae797a37e.mp3",
+        "sourceAudioSha256": "f45e586ae797a37e92ba86da7985edc1ec9e41bcd926a9dd4d34d25b9f92bd3e",
+        "sourceAudioTextSha256": "8a164fdef92f3e20e052d262a9c65e97f5c6bfc9012445030a69436a7c063349",
+        "audioDurationSeconds": 7.008
       },
       {
         "en": "“You can come and sleep with me,” said Parrot. “Thank you,” said Mouse.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/a-house-for-mouse/en/images/05.jpg",
         "alt": "A colourful parrot on a perch invites Mouse to join him.",
         "zh": "鹦鹉说：“你可以来和我一起睡。”小老鼠说：“谢谢你。”",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/05-0147f2203a992efb.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/a-house-for-mouse/audio/05-0147f2203a992efb.mp3",
+        "sourceAudioSha256": "0147f2203a992efb1dfe431c4c7e32bb82f5519177b078434f416fc71e456e7f",
+        "sourceAudioTextSha256": "d1e932e1a0a6ccd0bf67b34863b1bca047c0308fb0c72e301627ad5654a61ad0",
+        "audioDurationSeconds": 10.296
       },
       {
         "en": "That night, Mouse’s dreams were noisy and wild.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/a-house-for-mouse/en/images/06.jpg",
         "alt": "Mouse sleeps in a wild forest.",
         "zh": "那天晚上，小老鼠的梦吵吵闹闹、热热闹闹。",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/06-a3261ce208e30874.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/a-house-for-mouse/audio/06-a3261ce208e30874.mp3",
+        "sourceAudioSha256": "a3261ce208e30874900a4f3250fabb9b889e367be253c1c1e2d187dffb130629",
+        "sourceAudioTextSha256": "d559d91079aba80560482ca98f225b8a1aae11a418518f4e93b1d8bb7f12ccdc",
+        "audioDurationSeconds": 6.384
       },
       {
         "en": "“You can come and sleep with me,” said Fish. “Thank you,” said Mouse.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/a-house-for-mouse/en/images/07.jpg",
         "alt": "A goldfish swimming in a tank invites Mouse to join him.",
         "zh": "小鱼说：“你可以来和我一起睡。”小老鼠说：“谢谢你。”",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/07-268d21947eca1a4e.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/a-house-for-mouse/audio/07-268d21947eca1a4e.mp3",
+        "sourceAudioSha256": "268d21947eca1a4e32380535f3485c9f40b3bb96539506e3e3cf4566111962ea",
+        "sourceAudioTextSha256": "8f0e229ee2629a7437810da0ca7601bc2ea85d1188f0394a6015e12ac2f6fa0a",
+        "audioDurationSeconds": 8.976
       },
       {
         "en": "That night, Mouse’s dreams were cold and wet.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/a-house-for-mouse/en/images/08.jpg",
         "alt": "Mouse sleeps underwater surrounded by fish and seaweed.",
         "zh": "那天晚上，小老鼠的梦又冷又湿。",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/08-4fda85835c652e2f.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/a-house-for-mouse/audio/08-4fda85835c652e2f.mp3",
+        "sourceAudioSha256": "4fda85835c652e2f0c6b8184dbccba06401edcc771589a6c15b92d62f35f2f4f",
+        "sourceAudioTextSha256": "dee3aff5742c607e1717df2c39e81f63d524043caf530b544cfecd5d838df5e6",
+        "audioDurationSeconds": 6.12
       },
       {
         "en": "Mouse needed somewhere warm and dry.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/a-house-for-mouse/en/images/09.jpg",
         "alt": "Mouse dashes past the skirting boards.",
         "zh": "小老鼠需要一个温暖、干燥的地方。",
-        "tip": "结合画面感受“温暖的”，听一听 warm。不用要求孩子跟读。"
+        "tip": "结合画面感受“温暖的”，听一听 warm。不用要求孩子跟读。",
+        "audioFile": "audio/09-d19cd65ba1584949.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/a-house-for-mouse/audio/09-d19cd65ba1584949.mp3",
+        "sourceAudioSha256": "d19cd65ba15849499c09750b14ed0b80903473b8a2596e7c287dc4292de6b6b7",
+        "sourceAudioTextSha256": "6fef2caaf8861883c3ea7baff94a04ef329ca2293517f5bd56d8e67f719da5a4",
+        "audioDurationSeconds": 5.712
       },
       {
         "en": "",
@@ -747,14 +803,24 @@ window.JIGU_BOOKS = [
         "sourceImage": "https://bookdash.github.io/bookdash-books/a-house-for-mouse/en/images/11.jpg",
         "alt": "A beautiful bookshelf.",
         "zh": "小老鼠发现附近有一个书架。",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/11-41e508a5dcd89685.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/a-house-for-mouse/audio/11-41e508a5dcd89685.mp3",
+        "sourceAudioSha256": "41e508a5dcd89685cebad67b577e34bc823b069bfd1cf14aefc31c028ca11b28",
+        "sourceAudioTextSha256": "6c60783a7afdd15328cbae837c6023e4fda160e9caab467561993f500ef395f2",
+        "audioDurationSeconds": 3.96
       },
       {
         "en": "That night, Mouse had warm and cosy dreams.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/a-house-for-mouse/en/images/12.jpg",
         "alt": "Mouse sleeps peacefully.",
         "zh": "那天晚上，小老鼠做了温暖又舒服的梦。",
-        "tip": "故事到这里啦。可以问问孩子最喜欢哪一幅画，想不想再翻回去看看。"
+        "tip": "故事到这里啦。可以问问孩子最喜欢哪一幅画，想不想再翻回去看看。",
+        "audioFile": "audio/12-a682c0c6d2e2ab02.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/a-house-for-mouse/audio/12-a682c0c6d2e2ab02.mp3",
+        "sourceAudioSha256": "a682c0c6d2e2ab0238c68a13a271e8a2e82f09d34d9c3b63554c7423919ef917",
+        "sourceAudioTextSha256": "f6b9ce04348e97def4595a748e25b9c2e3edf175646270672adbbab02deabc65",
+        "audioDurationSeconds": 6.144
       }
     ],
     "keywords": [
@@ -781,6 +847,18 @@ window.JIGU_BOOKS = [
       "title": "哪儿最舒服",
       "text": "摸摸家里的毯子和垫子，聊聊哪里温暖、舒服。也可以给玩偶安排住处。",
       "hint": "想玩就试试，也可以下次再玩。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "天才童声2.0",
+      "voiceId": "zh_male_tiancaitongsheng_uranus_bigtts",
+      "voiceType": "preset",
+      "speechRate": -8,
+      "pitchRate": 0,
+      "approvedAuditionRunId": 39222587639,
+      "adaptation": "AI narration produced by Jigu from the original English text."
     }
   },
   {
@@ -817,10 +895,11 @@ window.JIGU_BOOKS = [
         "alt": "Sbu tries on a pair of big red takkies. A chicken sits next to him.",
         "zh": "这是我哥哥斯布的鞋。",
         "tip": "先看看画面里的主角，再听英文。孩子指一指、做动作或用中文聊，都很好。",
-        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_135910_65e6e8d7-d85d-4087-9928-63b07c0bfd94.mp3",
-        "sourceAudioSha256": "0dfbd681e213d8c415ef4efe09f320bf48a696937c618e3294f7334042f4bacd",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sbus-special-shoes/audio/01-ef010ef4059121a8.mp3",
+        "sourceAudioSha256": "ef010ef4059121a8ef0bed93189936eff7ad030fceeed4992e11973356ca10da",
         "sourceAudioTextSha256": "39724d4b5eea0fea3ceb778fcca6723e4fb142b5caf0f3aeb08600b7f2bca155",
-        "audioDurationSeconds": 3.24
+        "audioDurationSeconds": 5.256,
+        "audioFile": "audio/01-ef010ef4059121a8.mp3"
       },
       {
         "en": "Look what I can do in them.",
@@ -828,10 +907,11 @@ window.JIGU_BOOKS = [
         "alt": "Sbu runs with the shoes on. The chicken watches. ",
         "zh": "看看我穿着它们能做什么。",
         "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
-        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_140054_186c1945-2ff7-42f9-a33a-4d091c510592.mp3",
-        "sourceAudioSha256": "dbb73e56b2be0c95c9e578a15736224092d0990722922ab41991bfa409b8c773",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sbus-special-shoes/audio/02-a27d63c1d4292288.mp3",
+        "sourceAudioSha256": "a27d63c1d429228858ec9138c73f8da418ce86f467c7c1d176bbb1db0624b1dd",
         "sourceAudioTextSha256": "4702f601636bdcaf5ede152aa357484e678cacc65be7a841a8d5747af9983612",
-        "audioDurationSeconds": 5.856
+        "audioDurationSeconds": 3.336,
+        "audioFile": "audio/02-a27d63c1d4292288.mp3"
       },
       {
         "en": "I can race cars!",
@@ -839,10 +919,11 @@ window.JIGU_BOOKS = [
         "alt": "Sbu sprints with his push car. The chicken flies above him.",
         "zh": "我能和汽车赛跑！",
         "tip": "书里是在想象鞋子的神奇力量。现实中不追车，可以用玩具车和小人来演。",
-        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_140130_2fb0efef-bd2e-4bf0-b8e5-68ebdd2af476.mp3",
-        "sourceAudioSha256": "7a6033ee68aafb73c0aba49b9f1ddf2c9d96be4572369de37149d0e9df3b978b",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sbus-special-shoes/audio/03-7f989d6ddb60a1ee.mp3",
+        "sourceAudioSha256": "7f989d6ddb60a1eec50eae72391e12de61dcc45365255df2eb00ece48d5c05b3",
         "sourceAudioTextSha256": "cfe59c98fdef0ff0bfbaeb67aaa79722ded054857bc03e124fbaf2df8829ad6c",
-        "audioDurationSeconds": 3.552
+        "audioDurationSeconds": 3.504,
+        "audioFile": "audio/03-7f989d6ddb60a1ee.mp3"
       },
       {
         "en": "Sometimes, I even race our bouncy dog.",
@@ -850,10 +931,11 @@ window.JIGU_BOOKS = [
         "alt": "The dog chases Sbu. The chicken flies above.",
         "zh": "有时候，我还和蹦蹦跳跳的小狗赛跑。",
         "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
-        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_140200_20428c66-7116-445f-903c-aaea2600464b.mp3",
-        "sourceAudioSha256": "463c2d7b423c09e51a77bf3787ff3ca1d30948e5d1d38f344c7cc8a8b2300e51",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sbus-special-shoes/audio/04-e94f4ea249ea2534.mp3",
+        "sourceAudioSha256": "e94f4ea249ea2534f92ca1a38d44b74ffe75d506cfca37e8ebf02acb9a18927c",
         "sourceAudioTextSha256": "fc20c93728a775787f6d29221c57fd34b8ca442db1595b093b9d41b8366b9e84",
-        "audioDurationSeconds": 4.872
+        "audioDurationSeconds": 5.088,
+        "audioFile": "audio/04-e94f4ea249ea2534.mp3"
       },
       {
         "en": "With Sbu’s shoes I win every time.",
@@ -861,10 +943,11 @@ window.JIGU_BOOKS = [
         "alt": "Sbu is number one! The chicken stands next to him.",
         "zh": "穿上斯布的鞋，我每次都能赢。",
         "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
-        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_140229_e1f2631d-7b8c-42b7-896a-b0c8794c3b54.mp3",
-        "sourceAudioSha256": "eb558d7b869c5cc6eba034fe477a24d0a4a2e53a067520199426d810d2741124",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sbus-special-shoes/audio/05-c806ec6af7bfc347.mp3",
+        "sourceAudioSha256": "c806ec6af7bfc347e1d31100a4549228a571bdb5ca99b976fa3ecdeacbe4bcdf",
         "sourceAudioTextSha256": "45cb64bf9433f3590c16e20ee8858e4f3c631074a853d2eed78c566baa380a6a",
-        "audioDurationSeconds": 4.872
+        "audioDurationSeconds": 5.52,
+        "audioFile": "audio/05-c806ec6af7bfc347.mp3"
       },
       {
         "en": "Wait! Let me show you one more thing.",
@@ -872,10 +955,11 @@ window.JIGU_BOOKS = [
         "alt": "Sbu and the chicken put their hand out - wait!",
         "zh": "等等！再让我表演一样。",
         "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
-        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_140256_c3d7f9a4-68c9-4387-9cd3-b8841d2511a9.mp3",
-        "sourceAudioSha256": "7ce26990e7a07e422a150d1a355cd0f7943cdea61ccb60f65b177c9d6ec2c77e",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sbus-special-shoes/audio/06-df3ff11894208954.mp3",
+        "sourceAudioSha256": "df3ff11894208954024f1df4fe4de3e2ce9e7ee70cad884b3dddeaf0a3875d11",
         "sourceAudioTextSha256": "38de2bf745dc660c0b7ad8cfe5c7bc3149f192fddef26a50cfbb25b5e61236c4",
-        "audioDurationSeconds": 3.264
+        "audioDurationSeconds": 4.824,
+        "audioFile": "audio/06-df3ff11894208954.mp3"
       },
       {
         "en": "Watch me dance and spin.",
@@ -883,10 +967,11 @@ window.JIGU_BOOKS = [
         "alt": "Sbu and the chicken dance.",
         "zh": "看我跳舞、转圈。",
         "tip": "结合画面感受“跳舞”，听一听 dance。不用要求孩子跟读。",
-        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_140324_a516d334-0737-4606-b035-519e2fe14de2.mp3",
-        "sourceAudioSha256": "96ca0b3d4dbe2ce271810638928f00a20356df7afd7a796e5e1880693778ea90",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sbus-special-shoes/audio/07-23ff761511223974.mp3",
+        "sourceAudioSha256": "23ff7615112239743afabe21dc632aac6979d38a7638a6d0822eded0439820d0",
         "sourceAudioTextSha256": "1784d4eba14c134d310bf8cc123e52e79098070c7bbf25fd684a700e4e6e2e20",
-        "audioDurationSeconds": 4.416
+        "audioDurationSeconds": 3.936,
+        "audioFile": "audio/07-23ff761511223974.mp3"
       },
       {
         "en": "I can cartwheel over and over.",
@@ -894,10 +979,11 @@ window.JIGU_BOOKS = [
         "alt": "Sbu and the chicken do cartwheels.",
         "zh": "我能一个接一个地侧手翻。",
         "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
-        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_140349_3653d0e8-99ef-4d27-b382-5729652bb325.mp3",
-        "sourceAudioSha256": "c33673918f17b9554c889962dc44569fefb1954d719dc13561bef2c72706377a",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sbus-special-shoes/audio/08-d042e8e787f0bdd8.mp3",
+        "sourceAudioSha256": "d042e8e787f0bdd86c7c0e362c471eec7586baedc38813c46c0cf28a655c7990",
         "sourceAudioTextSha256": "92474338d91477ed1b122bf54714c5b44c86909f430f33592458306102efc8d6",
-        "audioDurationSeconds": 4.872
+        "audioDurationSeconds": 5.52,
+        "audioFile": "audio/08-d042e8e787f0bdd8.mp3"
       },
       {
         "en": "I’m a monkey! Look at me hang upside down.",
@@ -905,10 +991,11 @@ window.JIGU_BOOKS = [
         "alt": "Sbu hangs upside down from a tree branch. The chicken watches.",
         "zh": "我是一只猴子！看我倒挂着。",
         "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
-        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_140415_9be20116-2dfb-4023-9dc3-7b983fc208a6.mp3",
-        "sourceAudioSha256": "bb7e92ad764afc55955f53f246e792ac3809bd30f05fec66a4f1fc37b62544a9",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sbus-special-shoes/audio/09-132be945dfd4700b.mp3",
+        "sourceAudioSha256": "132be945dfd4700b895055b5d44b7204963fe21f5f8773707e7f4b22d7055c75",
         "sourceAudioTextSha256": "f91a0f6e99927f0daeda0405479c4b6b15fc2bcab91051a97d230876f524449b",
-        "audioDurationSeconds": 6.672
+        "audioDurationSeconds": 5.52,
+        "audioFile": "audio/09-132be945dfd4700b.mp3"
       },
       {
         "en": "Watch me jump and catch the moon.",
@@ -916,10 +1003,11 @@ window.JIGU_BOOKS = [
         "alt": "Sbu leaps over the houses. The chicken watches from a roof.",
         "zh": "看我跳起来，抓住月亮。",
         "tip": "结合画面感受“跳”，听一听 jump。不用要求孩子跟读。",
-        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_140444_e6d0c839-491d-4069-b026-97ff2a3b6050.mp3",
-        "sourceAudioSha256": "87f70184d8c6d6e5aa3984acab2557ea86efd58ef32d7345d7bc88318ee8949d",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sbus-special-shoes/audio/10-de853956e4916ab2.mp3",
+        "sourceAudioSha256": "de853956e4916ab2850b4a2d1722efea3497d6e9d756f9ec7b032cd70313f345",
         "sourceAudioTextSha256": "476ac203965474f866f3d42b36334523f08400ad40faa9ed0aa4bac43eb328e9",
-        "audioDurationSeconds": 4.872
+        "audioDurationSeconds": 4.176,
+        "audioFile": "audio/10-de853956e4916ab2.mp3"
       },
       {
         "en": "Here, try them on!",
@@ -927,10 +1015,11 @@ window.JIGU_BOOKS = [
         "alt": "Sbu holds the shoes in his hands.",
         "zh": "来，试穿一下！",
         "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
-        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_140511_66ebacbe-891f-4fbb-9e2c-8460d1fe1a42.mp3",
-        "sourceAudioSha256": "63e84b63a9cda351b959d27646dc8bfd0acc8c6a8a4baed859a12a562313cf77",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sbus-special-shoes/audio/11-195d71ba4042d37b.mp3",
+        "sourceAudioSha256": "195d71ba4042d37be47aed79b58ebd36aeb968efb1ac04ee29a18027c1be200b",
         "sourceAudioTextSha256": "72158acc1237090c66536de6663ef12353cfaf6811bfdb3e41e65a9386409a3a",
-        "audioDurationSeconds": 1.824
+        "audioDurationSeconds": 3.528,
+        "audioFile": "audio/11-195d71ba4042d37b.mp3"
       },
       {
         "en": "See what you can do in Sbu’s special shoes.",
@@ -938,10 +1027,11 @@ window.JIGU_BOOKS = [
         "alt": "The chicken tries the shoes on!",
         "zh": "看看穿上斯布的神奇鞋，你能做些什么。",
         "tip": "故事到这里啦。可以问问孩子最喜欢哪一幅画，想不想再翻回去看看。",
-        "sourceAudio": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kp8qhJwu4SDlejcWrfWZoX3XQn/hf_20261017_140539_cb72d229-448a-4809-a3fc-a4c20bac5e06.mp3",
-        "sourceAudioSha256": "8820119e76f5c007f9eae76320a48cd5ca0f461f967dddf0c1e2566f9007c649",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sbus-special-shoes/audio/12-d527406c143f7b96.mp3",
+        "sourceAudioSha256": "d527406c143f7b9682d8071374721d504ce54db867f36d4da44d854ba6720a9c",
         "sourceAudioTextSha256": "3c62ab0a7d80ea1c6417944b7d38bdfcd6c85df059308d9c75939de46374992d",
-        "audioDurationSeconds": 6.24
+        "audioDurationSeconds": 5.496,
+        "audioFile": "audio/12-d527406c143f7b96.mp3"
       }
     ],
     "keywords": [
@@ -971,13 +1061,14 @@ window.JIGU_BOOKS = [
     },
     "narration": {
       "kind": "ai",
-      "provider": "Higgsfield",
-      "model": "seed_audio",
-      "voice": "Isla",
-      "voiceId": "7367e919-3069-5a0b-939e-dfb1c0fd91b4",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "天才童声2.0",
+      "voiceId": "zh_male_tiancaitongsheng_uranus_bigtts",
       "voiceType": "preset",
       "speechRate": -8,
-      "pitchRate": 2,
+      "pitchRate": 0,
+      "approvedAuditionRunId": 39222587639,
       "adaptation": "AI narration produced by Jigu from the original English text."
     }
   },
@@ -994,7 +1085,7 @@ window.JIGU_BOOKS = [
       "生活"
     ],
     "stageId": "S1",
-    "audioType": "device",
+    "audioType": "generated",
     "source": {
       "name": "Book Dash",
       "url": "https://bookdash.github.io/bookdash-books/bathtub-safari/en/",
@@ -1012,77 +1103,132 @@ window.JIGU_BOOKS = [
         "sourceImage": "https://bookdash.github.io/bookdash-books/bathtub-safari/en/images/01.jpg",
         "alt": "Jack's mother pokes her head around the bathroom door. Jack relaxes in his bath.",
         "zh": "洗澡是杰克一天里最喜欢的时光。妈妈说：“我过一会儿就回来。记得把耳朵后面也洗干净。”",
-        "tip": "这是浴缸里的想象故事。现实中给孩子洗澡时，家长要始终陪在旁边。先看看杰克想象到了什么。"
+        "tip": "这是浴缸里的想象故事。现实中给孩子洗澡时，家长要始终陪在旁边。先看看杰克想象到了什么。",
+        "audioFile": "audio/01-de2af778749eda23.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/bathtub-safari/audio/01-de2af778749eda23.mp3",
+        "sourceAudioSha256": "de2af778749eda23add76a50284b494a3b6c5f106412367ccb8ef841339cf8a9",
+        "sourceAudioTextSha256": "602a5ecb9dfd55868c131a01c384706e38ae0950ff60c6cfbd6a6bc1f28d4d8a",
+        "audioDurationSeconds": 12.936
       },
       {
         "en": "There’s a SWOOSH. And a swish of a tail. And then…",
         "sourceImage": "https://bookdash.github.io/bookdash-books/bathtub-safari/en/images/02.jpg",
         "alt": "Jack sees something green and spiky move on the water.",
         "zh": "呼——！一条尾巴轻轻摆动。然后……",
-        "tip": "结合画面感受“尾巴”，听一听 tail。不用要求孩子跟读。"
+        "tip": "结合画面感受“尾巴”，听一听 tail。不用要求孩子跟读。",
+        "audioFile": "audio/02-42752dd000348f34.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/bathtub-safari/audio/02-42752dd000348f34.mp3",
+        "sourceAudioSha256": "42752dd000348f345f774490064cf25695412169f6ef0898044ab5f745749df3",
+        "sourceAudioTextSha256": "9b92b6a806ff00be8b8d3433a9606797eecc7cbab2f8cbc6362973916b1d915d",
+        "audioDurationSeconds": 7.704
       },
       {
         "en": "Jack’s bathtub safari begins!",
         "sourceImage": "https://bookdash.github.io/bookdash-books/bathtub-safari/en/images/03.jpg",
         "alt": "Jack gleefully rides on the back of a crocodile.",
         "zh": "杰克的浴缸探险开始啦！",
-        "tip": "结合画面感受“浴缸”，听一听 bathtub。不用要求孩子跟读。"
+        "tip": "结合画面感受“浴缸”，听一听 bathtub。不用要求孩子跟读。",
+        "audioFile": "audio/03-812319c60a75df21.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/bathtub-safari/audio/03-812319c60a75df21.mp3",
+        "sourceAudioSha256": "812319c60a75df212ab61917e3ff046168a3103ec716c956da79fd0ebefe41e7",
+        "sourceAudioTextSha256": "9e0145205c3312797c9e2cdeec4a22ad8cf92e3ba6ad107c9e7143124dafac2d",
+        "audioDurationSeconds": 4.632
       },
       {
         "en": "Look at what’s coming! There’s a twist and a turn.. Something’s growing… It’s a…",
         "sourceImage": "https://bookdash.github.io/bookdash-books/bathtub-safari/en/images/04.jpg",
         "alt": "Jack notices something twisting on the grey taps.",
         "zh": "快看，什么来了！转一转，扭一扭……有个东西越来越大……原来是……",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/04-a2ef216e4381b96c.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/bathtub-safari/audio/04-a2ef216e4381b96c.mp3",
+        "sourceAudioSha256": "a2ef216e4381b96c254d12a751c6ca3be8a042a4e8fc61a1d4177d617f425d51",
+        "sourceAudioTextSha256": "06e49b3f68f2ad5de4e4d23541f7e3916f4ac243c1570a47f4338dfdf613926e",
+        "audioDurationSeconds": 9.624
       },
       {
         "en": "TOOOT!",
         "sourceImage": "https://bookdash.github.io/bookdash-books/bathtub-safari/en/images/05.jpg",
         "alt": "Jack stands on an elephant's back while it showers him with water.",
         "zh": "嘟——！",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/05-caab6f5403fa5a10.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/bathtub-safari/audio/05-caab6f5403fa5a10.mp3",
+        "sourceAudioSha256": "caab6f5403fa5a107c3759634390b56766c293b96b52ecbb6ae0d0d3ab14bce8",
+        "sourceAudioTextSha256": "84e3b4fd6e91fb7099fca32db8d73fb1462d16e0be50cecad408c104956c2fc5",
+        "audioDurationSeconds": 3.528
       },
       {
         "en": "There’s a RUMBLE! UP UP It’s going up and…",
         "sourceImage": "https://bookdash.github.io/bookdash-books/bathtub-safari/en/images/06.jpg",
         "alt": "From the elephant's back, Jack notices something long and yellow.",
         "zh": "轰隆隆！往上，往上！它越升越高，然后……",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/06-8f49f27697b67c5a.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/bathtub-safari/audio/06-8f49f27697b67c5a.mp3",
+        "sourceAudioSha256": "8f49f27697b67c5aaed3282d24492f51ac5976751c0f9330aaa89d612c2dc33f",
+        "sourceAudioTextSha256": "bf3e4339eced652b15a2c69744b9aa8ce7dde62c3718adcb5598222ee92487a5",
+        "audioDurationSeconds": 7.872
       },
       {
         "en": "SPLASH!",
         "sourceImage": "https://bookdash.github.io/bookdash-books/bathtub-safari/en/images/07.jpg",
         "alt": "Jack swings from the neck of a giraffe.",
         "zh": "哗啦！",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/07-5ea3264e5a74df7d.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/bathtub-safari/audio/07-5ea3264e5a74df7d.mp3",
+        "sourceAudioSha256": "5ea3264e5a74df7d15834bd414ffaabeb8181ef458ae36f12e79d9ba5052bc85",
+        "sourceAudioTextSha256": "3a6cc1433a2ad273f47b6888f9b6eb596f50a8297fe974bb37c1fb6f1ca629d3",
+        "audioDurationSeconds": 2.472
       },
       {
         "en": "There’s a SPLOSH. Something bubbles. It’s time to…",
         "sourceImage": "https://bookdash.github.io/bookdash-books/bathtub-safari/en/images/08.jpg",
         "alt": "A sponge in the water turns into a hippopotamus.",
         "zh": "扑通！冒出泡泡啦。是时候……",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/08-904b4c9d185bbfe9.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/bathtub-safari/audio/08-904b4c9d185bbfe9.mp3",
+        "sourceAudioSha256": "904b4c9d185bbfe9edd34633243a363c6d4627714ff1d9f2bae712255b18d865",
+        "sourceAudioTextSha256": "0e1d38b1b7507bd6d200075e0fb4068503b468e213c7ba4da64057cddc183378",
+        "audioDurationSeconds": 6.84
       },
       {
         "en": "AAAAAAH But something’s lurking in the background…",
         "sourceImage": "https://bookdash.github.io/bookdash-books/bathtub-safari/en/images/09.jpg",
         "alt": "Jack sunbathes on the hippo's back. From there he sees something orange.",
         "zh": "啊——！不过，后面还藏着什么……",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/09-ba431de6add8a7d8.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/bathtub-safari/audio/09-ba431de6add8a7d8.mp3",
+        "sourceAudioSha256": "ba431de6add8a7d881e022075e893a6ce7726d26965a3cf0456484880045b75e",
+        "sourceAudioTextSha256": "1bc263ba99ea07565af08c121babea334379f1c6dc3df43be0a333cfb56ebd0e",
+        "audioDurationSeconds": 13.392
       },
       {
         "en": "ROAR",
         "sourceImage": "https://bookdash.github.io/bookdash-books/bathtub-safari/en/images/10.jpg",
         "alt": "A lion roars.",
         "zh": "吼——！",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/10-355111d161acb228.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/bathtub-safari/audio/10-355111d161acb228.mp3",
+        "sourceAudioSha256": "355111d161acb2284e9b368f7a5be4dbc05b2c478f9bbe5af5ef8dcb285df414",
+        "sourceAudioTextSha256": "8b09e6de5b5371a4c8669d03c2c7d63cc9471572708c00f55e43bf6f5f68321a",
+        "audioDurationSeconds": 1.776
       },
       {
         "en": "‘Time to get out. I hope you’re clean and ready for bed.’",
         "sourceImage": "https://bookdash.github.io/bookdash-books/bathtub-safari/en/images/11.jpg",
         "alt": "Jack's mother is at the bathroom door. Jack lies alone in the bath.",
         "zh": "“该出来啦。希望你已经洗干净，准备上床睡觉了。”",
-        "tip": "结合画面感受“床”，听一听 bed。不用要求孩子跟读。"
+        "tip": "结合画面感受“床”，听一听 bed。不用要求孩子跟读。",
+        "audioFile": "audio/11-eaa6a5f2876cc399.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/bathtub-safari/audio/11-eaa6a5f2876cc399.mp3",
+        "sourceAudioSha256": "eaa6a5f2876cc399a889e8aee110c2800468a93a3809555f33687716042fd2cc",
+        "sourceAudioTextSha256": "6ac16a1797d3a04d2561e9352ae4a180b4efbbf6fd40edd28515c54380287542",
+        "audioDurationSeconds": 7.68
       },
       {
         "en": "",
@@ -1116,6 +1262,18 @@ window.JIGU_BOOKS = [
       "title": "玩偶的洗澡时间",
       "text": "给动物玩偶安排一个想象中的洗澡故事，模仿水花的声音。洗澡时请家长始终陪伴。",
       "hint": "想玩就试试，也可以下次再玩。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "天才童声2.0",
+      "voiceId": "zh_male_tiancaitongsheng_uranus_bigtts",
+      "voiceType": "preset",
+      "speechRate": -8,
+      "pitchRate": 0,
+      "approvedAuditionRunId": 39222587639,
+      "adaptation": "AI narration produced by Jigu from the original English text."
     }
   },
   {
@@ -1131,7 +1289,7 @@ window.JIGU_BOOKS = [
       "自然"
     ],
     "stageId": "S3",
-    "audioType": "device",
+    "audioType": "generated",
     "source": {
       "name": "Book Dash",
       "url": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/",
@@ -1149,84 +1307,144 @@ window.JIGU_BOOKS = [
         "zh": "一天，树懒先生来做客。他说：“我困了！我需要一根合适的树枝当床！”",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Mr Sloth is sleepy and yawning.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/01.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/01.jpg",
+        "audioFile": "audio/01-46059997f9657b9e.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/01-46059997f9657b9e.mp3",
+        "sourceAudioSha256": "46059997f9657b9e11c266449341e60ae3dd3adc8a7ee92ed096d65309b83e9a",
+        "sourceAudioTextSha256": "818cfdb2e077139a3513f55cacf2a10c18fb4d75aa29b73bf1cab7756aaf8575",
+        "audioDurationSeconds": 10.512
       },
       {
         "en": "I’m quite good at climbing. I know how to swing. But sleeping’s my favourite, favourite thing!",
         "zh": "我很会爬树，也知道怎么荡来荡去。不过，睡觉才是我最最喜欢的事！",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Mr Sloth starts climbing the tree.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/02.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/02.jpg",
+        "audioFile": "audio/02-ff91889ced29c624.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/02-ff91889ced29c624.mp3",
+        "sourceAudioSha256": "ff91889ced29c624e06e623c12aa2dc55e3372fd721a30bb5f48014c199d45e7",
+        "sourceAudioTextSha256": "bd9140d60120accc72c31f95c927ded84c8eaa1ee008507eb1208c88576acab9",
+        "audioDurationSeconds": 9.84
       },
       {
         "en": "This branch looks lovely! I think I’ll sleep here. And you? Don’t you think that’s a splendid idea?",
         "zh": "这根树枝真不错！我想在这儿睡。你呢？你不觉得这个主意很棒吗？",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Mr Sloth spots a branch. Is that a big ear nearby?",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/03.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/03.jpg",
+        "audioFile": "audio/03-a488ebdd699cea57.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/03-a488ebdd699cea57.mp3",
+        "sourceAudioSha256": "a488ebdd699cea57a6db5244fc30ff2e2fe43d9fb3bfc6b70fdc35f0331d0d23",
+        "sourceAudioTextSha256": "fcc621d41b428e91ee325d3d3c8cc037af5f194d2b421da16a3dd00f3ce966e5",
+        "audioDurationSeconds": 10.728
       },
       {
         "en": "Oh no, Mr Sloth! A giraffe’s eating there! He might think you’re lunch and start nibbling your hair!",
         "zh": "不行呀，树懒先生！长颈鹿正在那里吃东西！他也许会把你当午饭，啃起你的头发来！",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "A giraffe bites Mr Sloth by mistake!",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/04.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/04.jpg",
+        "audioFile": "audio/04-57fbe026cc16c036.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/04-57fbe026cc16c036.mp3",
+        "sourceAudioSha256": "57fbe026cc16c0362e4c1b1940afa6f70a371e5a573462ed4e18a283cebf9335",
+        "sourceAudioTextSha256": "0b619e2905626503470bb497b23c1cdcf99e852ae226498b30d72e514117080e",
+        "audioDurationSeconds": 11.352
       },
       {
         "en": "This branch looks lovely! I think I’ll sleep here. And you? Don’t you think that’s a splendid idea?",
         "zh": "这根树枝真不错！我想在这儿睡。你呢？你不觉得这个主意很棒吗？",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Mr Sloth spots a branch. There are a few bees flying around.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/05.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/05.jpg",
+        "audioFile": "audio/05-064a5eecd1c9acbe.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/05-064a5eecd1c9acbe.mp3",
+        "sourceAudioSha256": "064a5eecd1c9acbeb0c73e917089d2e5ebcb20857031ab4fa124da871a3d3dcc",
+        "sourceAudioTextSha256": "fcc621d41b428e91ee325d3d3c8cc037af5f194d2b421da16a3dd00f3ce966e5",
+        "audioDurationSeconds": 11.352
       },
       {
         "en": "Oh no, Mr Sloth! There’s a beehive right there! You’ll never get sleep with those bees everywhere!",
         "zh": "不行呀，树懒先生！那里有一个蜂窝！到处都是蜜蜂，你可睡不好！",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Bees fly out of a beehive around Mr Sloth!",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/06.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/06.jpg",
+        "audioFile": "audio/06-9f48a3f941bf0b28.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/06-9f48a3f941bf0b28.mp3",
+        "sourceAudioSha256": "9f48a3f941bf0b289eed5f1fdd014969f7873225c44c5a2fe434641603373a1d",
+        "sourceAudioTextSha256": "cc8fe2f2b116bbe5dcb050d214e3058591f69fddc0b3f58421ee23d4069f68b7",
+        "audioDurationSeconds": 10.944
       },
       {
         "en": "This branch looks lovely! I think I’ll sleep here. And you? Don’t you think that’s a splendid idea?",
         "zh": "这根树枝真不错！我想在这儿睡。你呢？你不觉得这个主意很棒吗？",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Mr Sloth spots a branch. There is a tail nearby.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/07.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/07.jpg",
+        "audioFile": "audio/07-8b0d356d2d8daccd.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/07-8b0d356d2d8daccd.mp3",
+        "sourceAudioSha256": "8b0d356d2d8daccdad30c5152b79fadead31fa37fd8770dd3040baa6d68df512",
+        "sourceAudioTextSha256": "fcc621d41b428e91ee325d3d3c8cc037af5f194d2b421da16a3dd00f3ce966e5",
+        "audioDurationSeconds": 11.64
       },
       {
         "en": "Oh no, Mr Sloth, that’s a snake over there! Not a branch! Poor old snake. You gave him quite a scare.",
         "zh": "不行呀，树懒先生！那里是一条蛇，不是树枝！可怜的蛇，你把他吓了一大跳。",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Mr Sloth grabs snake by mistake!",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/08.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/08.jpg",
+        "audioFile": "audio/08-1a2d837eb712ca97.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/08-1a2d837eb712ca97.mp3",
+        "sourceAudioSha256": "1a2d837eb712ca973e2d7d313e9fceb951f4ac62f5fc738a1dbee25181fe882e",
+        "sourceAudioTextSha256": "8363aa9cb21bd446f5e84ec790dda9df41278fbdce15fc13a6c6c4b2e2a686e9",
+        "audioDurationSeconds": 12.504
       },
       {
         "en": "This branch looks lovely! I think I’ll sleep here. And you? Don’t you think that’s a splendid idea?",
         "zh": "这根树枝真不错！我想在这儿睡。你呢？你不觉得这个主意很棒吗？",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Mr Sloth spots a branch. There are feet nearby.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/09.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/09.jpg",
+        "audioFile": "audio/09-23c92189dbaee7da.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/09-23c92189dbaee7da.mp3",
+        "sourceAudioSha256": "23c92189dbaee7dab52114feba7add0c3708797ed3cabbe8ea2dbdebe6816564",
+        "sourceAudioTextSha256": "fcc621d41b428e91ee325d3d3c8cc037af5f194d2b421da16a3dd00f3ce966e5",
+        "audioDurationSeconds": 10.344
       },
       {
         "en": "Oh no, Mr Sloth! There’s a bird squawking there! You’ll never get sleep with that noise in the air!",
         "zh": "不行呀，树懒先生！那里有一只吵闹的小鸟！叫声这么响，你可睡不好！",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "A hadeda is squawking loudly there!",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/10.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/10.jpg",
+        "audioFile": "audio/10-4a092bfcfe933093.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/10-4a092bfcfe933093.mp3",
+        "sourceAudioSha256": "4a092bfcfe9330935d238c573811ffd2906137b510cc050a547b49ba72f08e3d",
+        "sourceAudioTextSha256": "117df723d2b7b10a551fb61bb15e4d804e2b34aa681cec4254bceda930867e4a",
+        "audioDurationSeconds": 10.488
       },
       {
         "en": "Try climb one more branch, Mr Sloth! they all said. And that branch was just the right one for his bed.",
         "zh": "大家都说：“再往上爬一根树枝试试吧，树懒先生！”那根树枝正好适合当他的床。",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Mr Sloth climbs to the top of the tree and smiles.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/11.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/11.jpg",
+        "audioFile": "audio/11-9622ad9bdceb7a82.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/11-9622ad9bdceb7a82.mp3",
+        "sourceAudioSha256": "9622ad9bdceb7a822171e17265510c79a2cebe870132b063b5cad47f5820f3b7",
+        "sourceAudioTextSha256": "4e7b0ca66ec4975546adda426c95c77e54d49bc1ecd573b03724ee2a5b6ed1fb",
+        "audioDurationSeconds": 12.048
       },
       {
         "en": "The bird and the snake, the giraffe and each bee were happy to have Mr Sloth in their tree.",
         "zh": "小鸟、蛇、长颈鹿和每一只蜜蜂，都很高兴树懒先生住进了他们的树。",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Mr Sloth and the animals are all sleeping nicely in the tree together.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/12.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/12.jpg",
+        "audioFile": "audio/12-aacf1c1ca37807af.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/12-aacf1c1ca37807af.mp3",
+        "sourceAudioSha256": "aacf1c1ca37807af0a0f6ec9440f6cafd682fa2b905e20242a3b30e64c8ed519",
+        "sourceAudioTextSha256": "4f72a58cb083ec6cc350e93476a1947b9f26875bd3f8106e34cfcb5ec6db3573",
+        "audioDurationSeconds": 9.6
       }
     ],
     "keywords": [
@@ -1253,6 +1471,18 @@ window.JIGU_BOOKS = [
       "title": "给玩偶找个舒服的地方",
       "text": "给玩偶安排一个舒服的睡觉位置，聊聊什么地方适合休息。",
       "hint": "想玩就试试，也可以下次再玩。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "天才童声2.0",
+      "voiceId": "zh_male_tiancaitongsheng_uranus_bigtts",
+      "voiceType": "preset",
+      "speechRate": -8,
+      "pitchRate": 0,
+      "approvedAuditionRunId": 39222587639,
+      "adaptation": "AI narration produced by Jigu from the original English text."
     }
   },
   {
@@ -1268,7 +1498,7 @@ window.JIGU_BOOKS = [
       "朋友"
     ],
     "stageId": "S2",
-    "audioType": "device",
+    "audioType": "generated",
     "source": {
       "name": "Book Dash",
       "url": "https://bookdash.github.io/bookdash-books/is-there-anyone-like-me/en/",
@@ -1286,84 +1516,144 @@ window.JIGU_BOOKS = [
         "sourceImage": "https://bookdash.github.io/bookdash-books/is-there-anyone-like-me/en/images/01.jpg",
         "alt": "Donkey lies on the grass and wonders to herself.",
         "zh": "我想知道，世界上是不是还有另一个我。",
-        "tip": "先看看画面里的主角，再听英文。孩子指一指、做动作或用中文聊，都很好。"
+        "tip": "先看看画面里的主角，再听英文。孩子指一指、做动作或用中文聊，都很好。",
+        "audioFile": "audio/01-7c5daa8a4fa2e50f.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/is-there-anyone-like-me/audio/01-7c5daa8a4fa2e50f.mp3",
+        "sourceAudioSha256": "7c5daa8a4fa2e50f2e797edae7c5e21c75d5bc86d3a1edb5441ebf1f5f0aa32d",
+        "sourceAudioTextSha256": "bb78f5cf895e698ebdc0dd2792fef188f83dabfde8fc256f411cf2e31b1bc3f0",
+        "audioDurationSeconds": 5.52
       },
       {
         "en": "Who looks the same. And talks the same.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/is-there-anyone-like-me/en/images/02.jpg",
         "alt": "She leans over the river bank and gazes at herself in the water. She brays loudly across the cliffs.",
         "zh": "看起来一样，说起话来也一样。",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/02-629b4b2900002ce4.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/is-there-anyone-like-me/audio/02-629b4b2900002ce4.mp3",
+        "sourceAudioSha256": "629b4b2900002ce443dabd3d324d9141c2b31141e554c23337b34f7e43912561",
+        "sourceAudioTextSha256": "89591282293fa70245f02523d7523b9bc86e5bbe95b50d8763bc76da40399286",
+        "audioDurationSeconds": 4.848
       },
       {
         "en": "And even has my curls.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/is-there-anyone-like-me/en/images/03.jpg",
         "alt": "Donkey stands next to Hippo and Mouse and they compare their curly tails. ",
         "zh": "甚至有和我一样的卷发。",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/03-648a7a5689401c8e.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/is-there-anyone-like-me/audio/03-648a7a5689401c8e.mp3",
+        "sourceAudioSha256": "648a7a5689401c8e3f1108a78e5598b27b8f711f92302cf14767f463e9a482d0",
+        "sourceAudioTextSha256": "69ff5fdf8c4c575fae456a1412d2e7118fb2eff4fa134123a417a04a43494ec3",
+        "audioDurationSeconds": 4.176
       },
       {
         "en": "Someone with my eyes my ears. Who even has my laugh.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/is-there-anyone-like-me/en/images/04.jpg",
         "alt": "Donkey looks up at her pointy ears with her big green eyes. Donkey laughs.",
         "zh": "有和我一样的眼睛、耳朵，甚至一样的笑声。",
-        "tip": "结合画面感受“眼睛”，听一听 eyes。不用要求孩子跟读。"
+        "tip": "结合画面感受“眼睛”，听一听 eyes。不用要求孩子跟读。",
+        "audioFile": "audio/04-f36b4efc1836cb7d.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/is-there-anyone-like-me/audio/04-f36b4efc1836cb7d.mp3",
+        "sourceAudioSha256": "f36b4efc1836cb7dcaa2d1e0e1e1e03ca43f7c297c89bb2a5de5342c0aa225d8",
+        "sourceAudioTextSha256": "ed4543fd40b44af26fc63b507a9a29976538e32977211d0939145885c89a3ee4",
+        "audioDurationSeconds": 7.704
       },
       {
         "en": "Who can do what I can do …",
         "sourceImage": "https://bookdash.github.io/bookdash-books/is-there-anyone-like-me/en/images/05.jpg",
         "alt": "Donkey and Hyena jump over the rocks.",
         "zh": "会做我会做的事……",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/05-861fae7ba364fd26.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/is-there-anyone-like-me/audio/05-861fae7ba364fd26.mp3",
+        "sourceAudioSha256": "861fae7ba364fd26c7495a7c3d03e9314725cdaaffd0030aff141762951abfc1",
+        "sourceAudioTextSha256": "1f2fca6dccadc899a3a313e5ac5ea7b28894e605ece78e9b898c6526778320bb",
+        "audioDurationSeconds": 5.088
       },
       {
         "en": "… and can’t do what I can’t.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/is-there-anyone-like-me/en/images/06.jpg",
         "alt": "Monkey peels a banana. Donkey and Guinea Fowl look at the banana. They are confused.",
         "zh": "……也不会做我不会做的事。",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/06-0861b8e19c0fabab.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/is-there-anyone-like-me/audio/06-0861b8e19c0fabab.mp3",
+        "sourceAudioSha256": "0861b8e19c0fabab18333d5eef7beaaf583e0179406f01731d8795e750e5f319",
+        "sourceAudioTextSha256": "06b674bdd233311d892a37c6589954eadcd38f4665d307f50b16f4875dc47a2e",
+        "audioDurationSeconds": 4.2
       },
       {
         "en": "I’ve looked and looked everywhere to find another me. I went down to the park and looked behind the trees.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/is-there-anyone-like-me/en/images/07.jpg",
         "alt": "Donkey is at the park. She peers around a tree.",
         "zh": "为了找到另一个我，我到处找呀找。我去了公园，还看了树后面。",
-        "tip": "结合画面感受“公园”，听一听 park。不用要求孩子跟读。"
+        "tip": "结合画面感受“公园”，听一听 park。不用要求孩子跟读。",
+        "audioFile": "audio/07-b6b09ea1470d4adf.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/is-there-anyone-like-me/audio/07-b6b09ea1470d4adf.mp3",
+        "sourceAudioSha256": "b6b09ea1470d4adf501f638ca213ceee3d7074b35bd20404e481d6c0c2e807e3",
+        "sourceAudioTextSha256": "8e774648385a75a0ae9c2e3627c17202d7ed2f47a784370dfaea108bd2ec0cb6",
+        "audioDurationSeconds": 11.352
       },
       {
         "en": "I looked around, up and down …",
         "sourceImage": "https://bookdash.github.io/bookdash-books/is-there-anyone-like-me/en/images/08.jpg",
         "alt": "Donkey looks closely at Bird in her nest and Mouse in his hole.",
         "zh": "我看了四周，看上面，也看下面……",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/08-08e5eecfdd96c320.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/is-there-anyone-like-me/audio/08-08e5eecfdd96c320.mp3",
+        "sourceAudioSha256": "08e5eecfdd96c320d3c2e89775d7ec3dad196667b0f7ea1b7358555aa7f9e6ce",
+        "sourceAudioTextSha256": "cb7e264c1f53205942dadce0c47608fcc243cf570ae5f5bd5380a8dbf8bbb69c",
+        "audioDurationSeconds": 4.824
       },
       {
         "en": "… at every single face.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/is-there-anyone-like-me/en/images/09.jpg",
         "alt": "Donkey examines Buffalo, Giraffe and Elephant across the watering hole.",
         "zh": "……看过每一张脸。",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/09-8e00ceaae648039b.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/is-there-anyone-like-me/audio/09-8e00ceaae648039b.mp3",
+        "sourceAudioSha256": "8e00ceaae648039bc0c9277c9e5ea0a8985a1cbd58d3771f80f8257cd38389a8",
+        "sourceAudioTextSha256": "146d8d5d3766ecec127bc3680a0274638610ee57a92dc6d2bce986d31e04d91e",
+        "audioDurationSeconds": 3.528
       },
       {
         "en": "I couldn’t find another me in any single place.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/is-there-anyone-like-me/en/images/10.jpg",
         "alt": "Donkey looks at her own shadow.",
         "zh": "可是不管在哪里，我都找不到另一个我。",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/10-c9ac9e4683c02edb.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/is-there-anyone-like-me/audio/10-c9ac9e4683c02edb.mp3",
+        "sourceAudioSha256": "c9ac9e4683c02edb234503bebc1e101c3a5efba7a051cc26466c89a842dd4df6",
+        "sourceAudioTextSha256": "1fbe96d3f4be4bce8eee8199b8550166063aeba16d5374ad5b492835b4334507",
+        "audioDurationSeconds": 5.928
       },
       {
         "en": "There’s only one me in the world! I’m special, oh it’s true!",
         "sourceImage": "https://bookdash.github.io/bookdash-books/is-there-anyone-like-me/en/images/11.jpg",
         "alt": "Donkey smiles and all the other animals smile too.",
         "zh": "世界上只有一个我！我很特别，这是真的！",
-        "tip": "结合画面感受“特别的”，听一听 special。不用要求孩子跟读。"
+        "tip": "结合画面感受“特别的”，听一听 special。不用要求孩子跟读。",
+        "audioFile": "audio/11-92aa8f2f6f9e7aea.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/is-there-anyone-like-me/audio/11-92aa8f2f6f9e7aea.mp3",
+        "sourceAudioSha256": "92aa8f2f6f9e7aeadb7cc7ad6bf3f9c4d48e47188952ec955cfd6515e1a71527",
+        "sourceAudioTextSha256": "6d4d8fcb498c76adcd348982f047571f5d88b6f11f774ff648d8d4f301eca8a3",
+        "audioDurationSeconds": 6.576
       },
       {
         "en": "But not just me, don’t you see? There’s only one of you!",
         "sourceImage": "https://bookdash.github.io/bookdash-books/is-there-anyone-like-me/en/images/12.jpg",
         "alt": "Donkey winks.",
         "zh": "不过不只是我，你知道吗？世界上也只有一个你！",
-        "tip": "故事到这里啦。可以问问孩子最喜欢哪一幅画，想不想再翻回去看看。"
+        "tip": "故事到这里啦。可以问问孩子最喜欢哪一幅画，想不想再翻回去看看。",
+        "audioFile": "audio/12-0b4f39715aeb25eb.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/is-there-anyone-like-me/audio/12-0b4f39715aeb25eb.mp3",
+        "sourceAudioSha256": "0b4f39715aeb25ebc9cec2a83ca519d6afd53ba285e8c63a1d02a3fbcb6c2997",
+        "sourceAudioTextSha256": "0313e3f0f64313f26435081c50ce7159c08b915ce42cb76cc109c34ea70c9188",
+        "audioDurationSeconds": 6.408
       }
     ],
     "keywords": [
@@ -1390,6 +1680,18 @@ window.JIGU_BOOKS = [
       "title": "找找相同和不同",
       "text": "看看彼此的手、头发或笑脸，说一件相同的地方、一件不同的地方。",
       "hint": "想玩就试试，也可以下次再玩。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "天才童声2.0",
+      "voiceId": "zh_male_tiancaitongsheng_uranus_bigtts",
+      "voiceType": "preset",
+      "speechRate": -8,
+      "pitchRate": 0,
+      "approvedAuditionRunId": 39222587639,
+      "adaptation": "AI narration produced by Jigu from the original English text."
     }
   },
   {
@@ -1405,7 +1707,7 @@ window.JIGU_BOOKS = [
       "朋友"
     ],
     "stageId": "S3",
-    "audioType": "device",
+    "audioType": "generated",
     "source": {
       "name": "Book Dash",
       "url": "https://bookdash.github.io/bookdash-books/why-is-nita-upside-down/en/",
@@ -1423,28 +1725,48 @@ window.JIGU_BOOKS = [
         "zh": "妮塔倒挂着，长头发轻轻扫过地面。树、草，所有东西看起来都颠倒了。",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Nita hangs upside down from a jungle gym.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/why-is-nita-upside-down/en/images/01.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/why-is-nita-upside-down/en/images/01.jpg",
+        "audioFile": "audio/01-d07fe237c702eea6.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/why-is-nita-upside-down/audio/01-d07fe237c702eea6.mp3",
+        "sourceAudioSha256": "d07fe237c702eea6aa8ba367f95ae4211c4604cbd158e05c3a9733db8f71ad81",
+        "sourceAudioTextSha256": "3d0cc9cb94e6e1c7e20440f715eb63761001f0b024c7452c88e352b33266d0a7",
+        "audioDurationSeconds": 14.208
       },
       {
         "en": "Her feet, they poke into the sky. Little Navi’s walking by. He says ‘I’ve seen you here before. You’re upside down again! What for?’",
         "zh": "她的脚伸向天空。小纳维走过来，说：“我以前见过你。你又倒挂着啦！为什么呢？”",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Navi walks through the play area and waves.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/why-is-nita-upside-down/en/images/02.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/why-is-nita-upside-down/en/images/02.jpg",
+        "audioFile": "audio/02-5212f66284a0cd40.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/why-is-nita-upside-down/audio/02-5212f66284a0cd40.mp3",
+        "sourceAudioSha256": "5212f66284a0cd4037fdec5f3fb8597ec91a73ab1b4e68655ae168a8cf1bb594",
+        "sourceAudioTextSha256": "8c495f5c462d421a81c7d23208056d0849626da61acffe900e22b477656c20f4",
+        "audioDurationSeconds": 15.072
       },
       {
         "en": "His feet swim lightly in the air. She tries to hide behind her hair. ‘It’s h-h-h-hard to t-t-talk’, she says to him. ‘I’m not the same. I don’t fit in.",
         "zh": "在妮塔眼里，他的脚轻轻飘在空中。她想躲到头发后面。“说、说话对我很难。”她说，“我和别人不一样，我融不进去。”",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Nita speaks through a broken speech bubble.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/why-is-nita-upside-down/en/images/03.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/why-is-nita-upside-down/en/images/03.jpg",
+        "audioFile": "audio/03-58f90c5ced7c1439.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/why-is-nita-upside-down/audio/03-58f90c5ced7c1439.mp3",
+        "sourceAudioSha256": "58f90c5ced7c14393279d0188a579ec37e645cbbdd61945923a71e97e2c27412",
+        "sourceAudioTextSha256": "8dfbf109f67641c89839bba2adca07c512232cbed34b7ebf24e39b9c63a2b164",
+        "audioDurationSeconds": 17.28
       },
       {
         "en": "Navi takes her by the hand. He wants to help her understand. They climb to Navi’s look-out spot. From up here they can see a lot. They perch and have a quiet stare at children playing here and there.",
         "zh": "纳维牵起她的手，想帮她明白一些事。他们爬上纳维的瞭望处，从这里能看见很多地方。他们安静地坐着，看孩子们在各处玩。",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Navi's look-out spot is a tall tree.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/why-is-nita-upside-down/en/images/04.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/why-is-nita-upside-down/en/images/04.jpg",
+        "audioFile": "audio/04-12a565d1408dcf6c.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/why-is-nita-upside-down/audio/04-12a565d1408dcf6c.mp3",
+        "sourceAudioSha256": "12a565d1408dcf6cfd17fc89c6c5dfe9fbb3a1e1971979695afd84d131ae69dd",
+        "sourceAudioTextSha256": "55079df09d1c10377cfd7c57d9825a5a4cc541e36538575927e5b865a2b21cfa",
+        "audioDurationSeconds": 20.112
       },
       {
         "en": "",
@@ -1458,49 +1780,84 @@ window.JIGU_BOOKS = [
         "zh": "那些孩子根本就不一样。阿贝圆圆的，奇有雀斑。",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "An overweight boy holds a stick. A girl with freckled cheeks sucks a lolly pop.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/why-is-nita-upside-down/en/images/06.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/why-is-nita-upside-down/en/images/06.jpg",
+        "audioFile": "audio/06-bc0e471de49b1cb1.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/why-is-nita-upside-down/audio/06-bc0e471de49b1cb1.mp3",
+        "sourceAudioSha256": "bc0e471de49b1cb124d5ff4e7247a65778955c6a2dfe7beceffa330b95148af1",
+        "sourceAudioTextSha256": "ba836aca0bb9992391181ac1216022f65f5395a16c9ba0ad564bc9f79904e358",
+        "audioDurationSeconds": 7.704
       },
       {
         "en": "Lala’s extra tall.",
         "zh": "拉拉特别高。",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Lala is a girl with very long legs.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/why-is-nita-upside-down/en/images/07.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/why-is-nita-upside-down/en/images/07.jpg",
+        "audioFile": "audio/07-4f3fc894400e1bee.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/why-is-nita-upside-down/audio/07-4f3fc894400e1bee.mp3",
+        "sourceAudioSha256": "4f3fc894400e1bee8928fd86f269acae5f8e0bb0511ddce86400201ee70ea1e2",
+        "sourceAudioTextSha256": "9bb429b518cb12bb555eeca088a13cb2104f2403605ca26845fa5eafa6dccbb8",
+        "audioDurationSeconds": 3.768
       },
       {
         "en": "Bambam’s wild and must be free, while Lulu’s reading quietly.",
         "zh": "班班活泼得停不下来，露露却安安静静地看书。",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "A boy runs and jumps with his hands in the air. A girl reads a book.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/why-is-nita-upside-down/en/images/08.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/why-is-nita-upside-down/en/images/08.jpg",
+        "audioFile": "audio/08-7bc8ca39408a1746.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/why-is-nita-upside-down/audio/08-7bc8ca39408a1746.mp3",
+        "sourceAudioSha256": "7bc8ca39408a1746c2b9dfbbb1985917b34c0a79f515d5fbbcc0aaf725f5e398",
+        "sourceAudioTextSha256": "45513bf3994e391588876fc60e32aabbf5de372bf1737b78c0331af2b906d668",
+        "audioDurationSeconds": 9.0
       },
       {
         "en": "Look at Freya’s crazy hair.",
         "zh": "看看芙蕾雅那有趣的头发。",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "A girl with long bushy hair swings on the swing.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/why-is-nita-upside-down/en/images/09.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/why-is-nita-upside-down/en/images/09.jpg",
+        "audioFile": "audio/09-b5f4f3c1600ed0a1.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/why-is-nita-upside-down/audio/09-b5f4f3c1600ed0a1.mp3",
+        "sourceAudioSha256": "b5f4f3c1600ed0a1491c213bc251da3651edca3706739d6ad4c027e84f29d5c6",
+        "sourceAudioTextSha256": "cf15dfc1f7812ca33265872303d2a28276aa67fe1af73e4bbb20b118ad4c2484",
+        "audioDurationSeconds": 3.936
       },
       {
         "en": "And Sid wears glasses everywhere.",
         "zh": "还有西德，走到哪里都戴着眼镜。",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "A boy wearing spectacles tries to shoot a catapult.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/why-is-nita-upside-down/en/images/10.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/why-is-nita-upside-down/en/images/10.jpg",
+        "audioFile": "audio/10-47c94b90229b6f8b.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/why-is-nita-upside-down/audio/10-47c94b90229b6f8b.mp3",
+        "sourceAudioSha256": "47c94b90229b6f8bbe322e92d73ae9e1039a7c2d22811237fda02c8e944208e0",
+        "sourceAudioTextSha256": "602ca700ec518ad40926d71c49442cd425abf4235436be9772a735c7f39cd4cd",
+        "audioDurationSeconds": 4.632
       },
       {
         "en": "And me, I am just skin and bone. And you are you. You’re not alone. Each human’s sort of strange, you see. That makes you just the same, like me. This world is really one big game. To play, we can’t all be the same.",
         "zh": "还有我，瘦瘦的。而你就是你，你并不孤单。每个人都有点不一样，你看，这让你和我其实也一样。世界就像一场大游戏，要一起玩，我们不必都相同。",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Nita and Navi sit on a branch.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/why-is-nita-upside-down/en/images/11.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/why-is-nita-upside-down/en/images/11.jpg",
+        "audioFile": "audio/11-12544c03c598cfc1.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/why-is-nita-upside-down/audio/11-12544c03c598cfc1.mp3",
+        "sourceAudioSha256": "12544c03c598cfc15ebb55bcedaba807b48464d69e581c078a272ed222be95c5",
+        "sourceAudioTextSha256": "a5831c63164a19fdbaad23548dfe48144c2f86a065850d13ea3ed913036255d0",
+        "audioDurationSeconds": 24.72
       },
       {
         "en": "Nita feels the right way round, thanks to the new friend she’s found. Upside down was never fun. Now she plays with everyone.",
         "zh": "有了新朋友，妮塔觉得世界不再颠倒了。倒挂着一点也不好玩。现在，她和大家一起玩。",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Nita stands up straight and smiles.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/why-is-nita-upside-down/en/images/12.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/why-is-nita-upside-down/en/images/12.jpg",
+        "audioFile": "audio/12-55843ce2cda32545.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/why-is-nita-upside-down/audio/12-55843ce2cda32545.mp3",
+        "sourceAudioSha256": "55843ce2cda32545149f4f5fb65ec09aaa23ccd01159753242ca4be056c9caa5",
+        "sourceAudioTextSha256": "85c8150727df77f96ce0b7d3f4214063efa90e1d1212172ca0412343960c8311",
+        "audioDurationSeconds": 13.536
       }
     ],
     "keywords": [
@@ -1527,6 +1884,18 @@ window.JIGU_BOOKS = [
       "title": "每个人都有不一样的地方",
       "text": "聊聊彼此喜欢的一样小特点。可以认真听，也可以只是陪孩子坐一会儿。",
       "hint": "想玩就试试，也可以下次再玩。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "天才童声2.0",
+      "voiceId": "zh_male_tiancaitongsheng_uranus_bigtts",
+      "voiceType": "preset",
+      "speechRate": -8,
+      "pitchRate": 0,
+      "approvedAuditionRunId": 39222587639,
+      "adaptation": "AI narration produced by Jigu from the original English text."
     }
   },
   {
@@ -1542,7 +1911,7 @@ window.JIGU_BOOKS = [
       "发现"
     ],
     "stageId": "S2",
-    "audioType": "device",
+    "audioType": "generated",
     "source": {
       "name": "Book Dash",
       "url": "https://bookdash.github.io/bookdash-books/how-about-you/en/",
@@ -1560,84 +1929,144 @@ window.JIGU_BOOKS = [
         "sourceImage": "https://bookdash.github.io/bookdash-books/how-about-you/en/images/01.jpg",
         "alt": "A girl wearing dungarees and a cap and a boy wearing a tutu and playing a guitar stand in a puddle.",
         "zh": "你是谁呀？",
-        "tip": "先看看画面里的主角，再听英文。孩子指一指、做动作或用中文聊，都很好。"
+        "tip": "先看看画面里的主角，再听英文。孩子指一指、做动作或用中文聊，都很好。",
+        "audioFile": "audio/01-e8d1ebbd4fcd35d8.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/how-about-you/audio/01-e8d1ebbd4fcd35d8.mp3",
+        "sourceAudioSha256": "e8d1ebbd4fcd35d8e0848b981aef570f75bb8219e370dd0d6bf86c11ea88b3fe",
+        "sourceAudioTextSha256": "80495816f7f221579a472ca05647122a046f90846f2531202061c7eb7e7a8c8c",
+        "audioDurationSeconds": 2.472
       },
       {
         "en": "Is that goo? Eeuw! I want some too.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/how-about-you/en/images/02.jpg",
         "alt": "A monster dripping goo looks in their direction.",
         "zh": "那是黏糊糊的东西吗？咦！我也想要一点。",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/02-b170964f20080657.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/how-about-you/audio/02-b170964f20080657.mp3",
+        "sourceAudioSha256": "b170964f200806570fb41aafab818a65ad0ee7e2a1863098f70060b05f1043e6",
+        "sourceAudioTextSha256": "5133f025b350b3ad38784e662c194340529d10bcaa660d1e5393af64086296c2",
+        "audioDurationSeconds": 5.952
       },
       {
         "en": "We are two. How old are you? Six hundred and thirty two?",
         "sourceImage": "https://bookdash.github.io/bookdash-books/how-about-you/en/images/03.jpg",
         "alt": "A block with the number 2 stands in the puddle. The number 632 is written in goo.",
         "zh": "我们两岁了。你几岁？六百三十二岁？",
-        "tip": "结合画面感受“二”，听一听 two。不用要求孩子跟读。"
+        "tip": "结合画面感受“二”，听一听 two。不用要求孩子跟读。",
+        "audioFile": "audio/03-9f1a782d7695f9de.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/how-about-you/audio/03-9f1a782d7695f9de.mp3",
+        "sourceAudioSha256": "9f1a782d7695f9de765b2aaf8250732e0d8baa8cfb6969802a179e3dc0915bbc",
+        "sourceAudioTextSha256": "187e1b836673812c7ab4fd03ca5b91f71e4fc5ebbe7e671503c021b403a6d487",
+        "audioDurationSeconds": 8.304
       },
       {
         "en": "I like blue. Do you too? I choose two shoes. Which do you choose?",
         "sourceImage": "https://bookdash.github.io/bookdash-books/how-about-you/en/images/04.jpg",
         "alt": "The girl wears blue. The boy wears red shoes.",
         "zh": "我喜欢蓝色。你也喜欢吗？我选两只鞋。你选什么？",
-        "tip": "结合画面感受“蓝色”，听一听 blue。不用要求孩子跟读。"
+        "tip": "结合画面感受“蓝色”，听一听 blue。不用要求孩子跟读。",
+        "audioFile": "audio/04-635a4985ad5e0060.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/how-about-you/audio/04-635a4985ad5e0060.mp3",
+        "sourceAudioSha256": "635a4985ad5e00609503198de83f7c5f199507a4ba518516320ff8ffef63566c",
+        "sourceAudioTextSha256": "75918a11fde782684073b1c98976ccc386ed0c37b66c432308e2da066a1a28e7",
+        "audioDurationSeconds": 8.328
       },
       {
         "en": "Horseshoes!?",
         "sourceImage": "https://bookdash.github.io/bookdash-books/how-about-you/en/images/05.jpg",
         "alt": "The monster has horseshoes for eyes.",
         "zh": "马蹄铁？！",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/05-516c9121e4b16275.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/how-about-you/audio/05-516c9121e4b16275.mp3",
+        "sourceAudioSha256": "516c9121e4b16275795e03c9e4249733376ddc966d28ec6392f8df2e9ae98826",
+        "sourceAudioTextSha256": "44d2862592c95b9d3e98282ed624c3228d21fc7bb340ace38afd4bf5d321a2bc",
+        "audioDurationSeconds": 2.664
       },
       {
         "en": "I make toys with boys.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/how-about-you/en/images/06.jpg",
         "alt": "A ball, a toy car and some marbles lie in a puddle.",
         "zh": "我和男孩们一起做玩具。",
-        "tip": "结合画面感受“玩具”，听一听 toys。不用要求孩子跟读。"
+        "tip": "结合画面感受“玩具”，听一听 toys。不用要求孩子跟读。",
+        "audioFile": "audio/06-05203ea99cfe918c.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/how-about-you/audio/06-05203ea99cfe918c.mp3",
+        "sourceAudioSha256": "05203ea99cfe918cacacf8adf2946b5a76a97aa5f1c34dd3d439d689a96816b7",
+        "sourceAudioTextSha256": "798abcbb115788ff4a93bd13b93deace66583ee741fe7d0f48de76868248662e",
+        "audioDurationSeconds": 3.768
       },
       {
         "en": "We make lots of noise. Whaaa! eurgghhh…aargh!",
         "sourceImage": "https://bookdash.github.io/bookdash-books/how-about-you/en/images/07.jpg",
         "alt": "The boy and the monster shout.",
         "zh": "我们发出好多声音。哇——！呃——！啊——！",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/07-39f7a3a206672bbf.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/how-about-you/audio/07-39f7a3a206672bbf.mp3",
+        "sourceAudioSha256": "39f7a3a206672bbf7ab3801aca624f5848f9a852ce269306442f8ffc140d06c9",
+        "sourceAudioTextSha256": "9bfa5cb0f8d94eeae0329958dfe948bea74ad45d9ab7ba87b126ce842c23276e",
+        "audioDurationSeconds": 10.488
       },
       {
         "en": "I take a nap on Gogo’s back.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/how-about-you/en/images/08.jpg",
         "alt": "The girl sleeps on a woman's back.",
         "zh": "我在奶奶背上打个盹。",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/08-f0f5dcf05f7e43b4.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/how-about-you/audio/08-f0f5dcf05f7e43b4.mp3",
+        "sourceAudioSha256": "f0f5dcf05f7e43b400ee3e29199a0fb1062b915d11fff2b341f26c11d4740468",
+        "sourceAudioTextSha256": "56f0e246f3ee439836bf0695a73205910bbeaa4ae3df5e3491f33d08c7171710",
+        "audioDurationSeconds": 4.392
       },
       {
         "en": "I don’t nap!",
         "sourceImage": "https://bookdash.github.io/bookdash-books/how-about-you/en/images/09.jpg",
         "alt": "The boy sits in the puddle, wide awake.",
         "zh": "我可不打盹！",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/09-4e0db8449aed261c.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/how-about-you/audio/09-4e0db8449aed261c.mp3",
+        "sourceAudioSha256": "4e0db8449aed261c78a8c253f5c0000b9fe018e2633778d31411575580d52129",
+        "sourceAudioTextSha256": "f42b648ae10a06eca1ba0891f2d30f0123981aaeade3b8fac30f60a63e1d194d",
+        "audioDurationSeconds": 3.096
       },
       {
         "en": "I stay upright all through the night.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/how-about-you/en/images/10.jpg",
         "alt": "The moon and the sun shine.",
         "zh": "我整个晚上都挺直身体。",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/10-a0b641bcec882363.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/how-about-you/audio/10-a0b641bcec882363.mp3",
+        "sourceAudioSha256": "a0b641bcec882363d092a3fb38440c624ad6d13b21fa4ecfb8c9e8f294beae8e",
+        "sourceAudioTextSha256": "600b33c16912d33da890d612fb6ae6633e040e96a34e05b30de13cfaa996f1d9",
+        "audioDurationSeconds": 4.392
       },
       {
         "en": "The ball goes THWOCK! Buddy, you ROCK!",
         "sourceImage": "https://bookdash.github.io/bookdash-books/how-about-you/en/images/11.jpg",
         "alt": "Someone kicks a ball into the monster's goo.",
         "zh": "球“砰”地响！伙伴，你真棒！",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/11-f45236ad5101c73f.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/how-about-you/audio/11-f45236ad5101c73f.mp3",
+        "sourceAudioSha256": "f45236ad5101c73f615e57b0742bbd1b7290a696f4f08c50de4c569e9f17b534",
+        "sourceAudioTextSha256": "12891202bd4b2a65be132d682b5f037b1868fbad31c5ebd6eee8fef14ec9baa8",
+        "audioDurationSeconds": 5.952
       },
       {
         "en": "That’s what we do. How about you?",
         "sourceImage": "https://bookdash.github.io/bookdash-books/how-about-you/en/images/12.jpg",
         "alt": "The monster and the children hold hands. ",
         "zh": "我们就是这样玩的。你呢？",
-        "tip": "故事到这里啦。可以问问孩子最喜欢哪一幅画，想不想再翻回去看看。"
+        "tip": "故事到这里啦。可以问问孩子最喜欢哪一幅画，想不想再翻回去看看。",
+        "audioFile": "audio/12-46843ef7dcf1f4df.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/how-about-you/audio/12-46843ef7dcf1f4df.mp3",
+        "sourceAudioSha256": "46843ef7dcf1f4df540bc2d66db2740e53cf02e6417df4ce8077e93c27521006",
+        "sourceAudioTextSha256": "6a0751db48c8b5a8a6110ff1b1116805285cd7b96d8ef7720be46bbca69a46c3",
+        "audioDurationSeconds": 4.824
       }
     ],
     "keywords": [
@@ -1664,6 +2093,18 @@ window.JIGU_BOOKS = [
       "title": "找两件蓝色东西",
       "text": "在家找两件蓝色的东西。找不到也没关系，换一种你们喜欢的颜色。",
       "hint": "想玩就试试，也可以下次再玩。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "天才童声2.0",
+      "voiceId": "zh_male_tiancaitongsheng_uranus_bigtts",
+      "voiceType": "preset",
+      "speechRate": -8,
+      "pitchRate": 0,
+      "approvedAuditionRunId": 39222587639,
+      "adaptation": "AI narration produced by Jigu from the original English text."
     }
   },
   {
@@ -1679,7 +2120,7 @@ window.JIGU_BOOKS = [
       "生活"
     ],
     "stageId": "S2",
-    "audioType": "device",
+    "audioType": "generated",
     "source": {
       "name": "Book Dash",
       "url": "https://bookdash.github.io/bookdash-books/a-beautiful-day/en/",
@@ -1697,21 +2138,36 @@ window.JIGU_BOOKS = [
         "zh": "妈妈说：“多美好的一天呀。尼古拉斯，起床啦。”尼古拉斯说：“太阳，你好。小鸟们，早上好。”",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Mom and baby greet Nicholas as he stretches in bed.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/a-beautiful-day/en/images/01.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/a-beautiful-day/en/images/01.jpg",
+        "audioFile": "audio/01-8aa0885a4a56d3a7.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/a-beautiful-day/audio/01-8aa0885a4a56d3a7.mp3",
+        "sourceAudioSha256": "8aa0885a4a56d3a73c2d67be97ed80b6af82d4f4c72f4075b044f9b802cb56b3",
+        "sourceAudioTextSha256": "c5b897c11ada89eed226ac474176be68696575027d3c621f8db764b5519549ba",
+        "audioDurationSeconds": 11.64
       },
       {
         "en": "“It’s a lovely day,” says Dad. “Let’s have a picnic by the river.” “Can my friend Jacob come?” asks Nicholas.",
         "zh": "爸爸说：“天气真好，我们去河边野餐吧。”尼古拉斯问：“我的朋友雅各布能一起来吗？”",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Dad and Nicholas sit at the breakfast table. Nicholas waves to his friend Jacob through the kitchen window.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/a-beautiful-day/en/images/02.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/a-beautiful-day/en/images/02.jpg",
+        "audioFile": "audio/02-6b8113f97972a636.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/a-beautiful-day/audio/02-6b8113f97972a636.mp3",
+        "sourceAudioSha256": "6b8113f97972a63640d74f21523fd287b1c685d6ceaca01d9f9092b670d22a63",
+        "sourceAudioTextSha256": "e253b45cde721bdd92e7021ca50d9ad4ea187c0b18123c1fcce9026022b4e7bb",
+        "audioDurationSeconds": 11.64
       },
       {
         "en": "“Don’t forget me. I love picnics!” says Donkey. “And me. I want to come too!” says Dog. “Follow us,” say the birds.",
         "zh": "驴说：“别忘了我，我喜欢野餐！”狗说：“还有我，我也想去！”小鸟们说：“跟我们来！”",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "The animals jump up and down with excitement. Nicholas and Jacob put their arms around each other.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/a-beautiful-day/en/images/03.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/a-beautiful-day/en/images/03.jpg",
+        "audioFile": "audio/03-05039363d4edff2f.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/a-beautiful-day/audio/03-05039363d4edff2f.mp3",
+        "sourceAudioSha256": "05039363d4edff2ffbf935930935407c67990d32655f496e1ad5c8cbc4ce3913",
+        "sourceAudioTextSha256": "3e5173cfe9a63b1f836ddbd60d3bc65c50b067e230cb4ff92765095bd9330fe8",
+        "audioDurationSeconds": 13.968
       },
       {
         "en": "",
@@ -1725,49 +2181,84 @@ window.JIGU_BOOKS = [
         "zh": "尼古拉斯说：“我们比赛跑到那棵树吧。”",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Nicholas and the dog get ready to race.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/a-beautiful-day/en/images/05.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/a-beautiful-day/en/images/05.jpg",
+        "audioFile": "audio/05-6372a5424daaa1a1.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/a-beautiful-day/audio/05-6372a5424daaa1a1.mp3",
+        "sourceAudioSha256": "6372a5424daaa1a110b786d071b9ed7d54545f8841042f5c8c7df150489d346e",
+        "sourceAudioTextSha256": "c6f26abf258a1f03a3a09e7bf9f667277f1bc23bb2bedef40434c6647b86269a",
+        "audioDurationSeconds": 4.656
       },
       {
         "en": "“I won, I won,” says Donkey. “Not fair,” says Nicholas. “You’ve got four legs.”",
         "zh": "驴说：“我赢了，我赢了！”尼古拉斯说：“不公平，你有四条腿。”",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "At the tree, Nicholas bends over panting.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/a-beautiful-day/en/images/06.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/a-beautiful-day/en/images/06.jpg",
+        "audioFile": "audio/06-e95fa1aea1271b00.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/a-beautiful-day/audio/06-e95fa1aea1271b00.mp3",
+        "sourceAudioSha256": "e95fa1aea1271b00bf134791016ec630959ff083d71538a40550afd860262d68",
+        "sourceAudioTextSha256": "aba298592de94ae9fc9074e95355693922d404821d8dda61a88ff7d384330099",
+        "audioDurationSeconds": 10.752
       },
       {
         "en": "“Look what I can do,” says Nicholas. “I bet you can’t do this,” says Jacob.",
         "zh": "尼古拉斯说：“看我会做什么！”雅各布说：“我敢说你不会这个。”",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Nicholas does a handstand. Jacob does a handstand on one hand.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/a-beautiful-day/en/images/07.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/a-beautiful-day/en/images/07.jpg",
+        "audioFile": "audio/07-208d9af78bffeaf5.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/a-beautiful-day/audio/07-208d9af78bffeaf5.mp3",
+        "sourceAudioSha256": "208d9af78bffeaf5716de7fe8bcaac9184eb5716c3923e6e2fe929738ea1583f",
+        "sourceAudioTextSha256": "0c883e4070bcca9930f9e313ebe2c142c7c7b3e76538dda7abbe9894dad7b2bc",
+        "audioDurationSeconds": 9.432
       },
       {
         "en": "“Here’s our picnic spot,” says Dad.",
         "zh": "爸爸说：“这就是我们野餐的地方。”",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Mom, Dad and baby arrive at the river bank.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/a-beautiful-day/en/images/08.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/a-beautiful-day/en/images/08.jpg",
+        "audioFile": "audio/08-712ef5e32d9eb6fa.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/a-beautiful-day/audio/08-712ef5e32d9eb6fa.mp3",
+        "sourceAudioSha256": "712ef5e32d9eb6fa941097dd51037adf34fd9c8520da2c4a08c74533a42c2394",
+        "sourceAudioTextSha256": "c2af6c7075cf8070be150050543fbefabf9ef52b1f1b00b8661e06cb6fbde974",
+        "audioDurationSeconds": 5.712
       },
       {
         "en": "“Race you to the water!” says Jacob.",
         "zh": "雅各布说：“比比谁先跑到水边！”",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Nicholas, Jacob, Donkey and Dog leap into the river.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/a-beautiful-day/en/images/09.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/a-beautiful-day/en/images/09.jpg",
+        "audioFile": "audio/09-38adb248511148ca.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/a-beautiful-day/audio/09-38adb248511148ca.mp3",
+        "sourceAudioSha256": "38adb248511148caf4555ca66c2a6d49db489076e579d82dee4b407a32eecb7b",
+        "sourceAudioTextSha256": "1c641d8c31aa8eb2f095f302a375f759d6206a0813887f4b7ae2e4be26bd117c",
+        "audioDurationSeconds": 4.632
       },
       {
         "en": "“Come and eat, boys and girls,” says Mom.",
         "zh": "妈妈说：“孩子们，来吃东西啦。”",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "The family sits on a red and white checked picnic blanket and eat their snacks.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/a-beautiful-day/en/images/10.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/a-beautiful-day/en/images/10.jpg",
+        "audioFile": "audio/10-3338d3b0a174bcec.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/a-beautiful-day/audio/10-3338d3b0a174bcec.mp3",
+        "sourceAudioSha256": "3338d3b0a174bcecaf75b90bcc914687426a5f865d7b96e63d811236e3420741",
+        "sourceAudioTextSha256": "81f425bb7c3c285d230067c8975837036005d51ec96c43916fc67f42c31b7148",
+        "audioDurationSeconds": 5.688
       },
       {
         "en": "“Time to go home,” says Mom.“Say goodbye to Jacob.”",
         "zh": "妈妈说：“该回家了，和雅各布说再见吧。”",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Outside Jacob's house, Nicholas waves goodbye to his friend.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/a-beautiful-day/en/images/11.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/a-beautiful-day/en/images/11.jpg",
+        "audioFile": "audio/11-ad6a1312bc7ecd4e.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/a-beautiful-day/audio/11-ad6a1312bc7ecd4e.mp3",
+        "sourceAudioSha256": "ad6a1312bc7ecd4e648e68c51f2c31eff21f70a28a414fa5b19b7262954cb014",
+        "sourceAudioTextSha256": "71e34e0dbcacb5078fa25c7a4f9c6f8909aae54a038c84dba6071046dd0fd05a",
+        "audioDurationSeconds": 5.952
       },
       {
         "en": "",
@@ -1801,6 +2292,18 @@ window.JIGU_BOOKS = [
       "title": "安排一场家里的小野餐",
       "text": "铺一块毯子，和玩偶一起安排一场想象的野餐。现实去河边时要和家长在一起。",
       "hint": "想玩就试试，也可以下次再玩。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "天才童声2.0",
+      "voiceId": "zh_male_tiancaitongsheng_uranus_bigtts",
+      "voiceType": "preset",
+      "speechRate": -8,
+      "pitchRate": 0,
+      "approvedAuditionRunId": 39222587639,
+      "adaptation": "AI narration produced by Jigu from the original English text."
     }
   },
   {
@@ -2150,7 +2653,7 @@ window.JIGU_BOOKS = [
       "朋友"
     ],
     "stageId": "S3",
-    "audioType": "device",
+    "audioType": "generated",
     "source": {
       "name": "Book Dash",
       "url": "https://bookdash.github.io/bookdash-books/i-will-help-you/en/",
@@ -2168,84 +2671,144 @@ window.JIGU_BOOKS = [
         "sourceImage": "https://bookdash.github.io/bookdash-books/i-will-help-you/en/images/01.jpg",
         "alt": "Mama Heron is tangled in barbed wire in the river. Her chicks are far away in their nest.",
         "zh": "“哎哟！”鹭鸟妈妈的翅膀和腿被带刺的铁丝划伤了。",
-        "tip": "先看看画面里的主角，再听英文。孩子指一指、做动作或用中文聊，都很好。"
+        "tip": "先看看画面里的主角，再听英文。孩子指一指、做动作或用中文聊，都很好。",
+        "audioFile": "audio/01-9797f90a3511f4cd.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/i-will-help-you/audio/01-9797f90a3511f4cd.mp3",
+        "sourceAudioSha256": "9797f90a3511f4cd35287d41835da013ec456ca19e2e17ddec43c2a579a9f0ce",
+        "sourceAudioTextSha256": "3efe9268c7b4220a43aae1333238fbf53e255457d16cfa69657f55d38fd9a4ea",
+        "audioDurationSeconds": 7.224
       },
       {
         "en": "“I am hurt. I can’t get home to my children.” “Please help me.”",
         "sourceImage": "https://bookdash.github.io/bookdash-books/i-will-help-you/en/images/02.jpg",
         "alt": "A taxi drives past the river. It doesn't stop. Mama Heron calls out to a bus, which also doesn't stop. A boy cycles past but doesn't stop either.",
         "zh": "“我受伤了，没法回家找孩子们。请帮帮我。”",
-        "tip": "结合画面感受“帮助”，听一听 help。不用要求孩子跟读。"
+        "tip": "结合画面感受“帮助”，听一听 help。不用要求孩子跟读。",
+        "audioFile": "audio/02-4ba64bc889b1767b.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/i-will-help-you/audio/02-4ba64bc889b1767b.mp3",
+        "sourceAudioSha256": "4ba64bc889b1767ba333d2472fb547d1a18aa378c5ee7161e3e3da33f21b97e9",
+        "sourceAudioTextSha256": "2453aeddc7c27fd126435d1d5f11e27a004aa0ae83d10082d7347c188a3287bd",
+        "audioDurationSeconds": 8.736
       },
       {
         "en": "“Why are you crying Mama Heron?” “I can’t get home to my children.”",
         "sourceImage": "https://bookdash.github.io/bookdash-books/i-will-help-you/en/images/03.jpg",
         "alt": "Lungile walks along the river bank with his push car. He asks Mama Heron why she is crying.",
         "zh": "“鹭鸟妈妈，你为什么哭？”“我没法回家找孩子们。”",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/03-92dc52898e163639.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/i-will-help-you/audio/03-92dc52898e163639.mp3",
+        "sourceAudioSha256": "92dc52898e16363919c6530524104680677e5785e8a11a8c5e343f9cebbba54a",
+        "sourceAudioTextSha256": "492d51657624ed77f177f14cab62446dd740b58a106219de13797312d4e2c15e",
+        "audioDurationSeconds": 7.008
       },
       {
         "en": "“I will help you,” says Lungile.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/i-will-help-you/en/images/04.jpg",
         "alt": "Lungile pushes Mama Heron  in his push car.",
         "zh": "伦吉莱说：“我来帮你。”",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/04-c6d10284ae48a465.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/i-will-help-you/audio/04-c6d10284ae48a465.mp3",
+        "sourceAudioSha256": "c6d10284ae48a46568a6a34e2e8477e79a77fb55d1a551131700ba4c951b0d95",
+        "sourceAudioTextSha256": "1c70250ab066af9da50e4921a139b01273e8a40248894f7931b57e0f2bfef104",
+        "audioDurationSeconds": 4.8
       },
       {
         "en": "“Thank you, Lungile!”",
         "sourceImage": "https://bookdash.github.io/bookdash-books/i-will-help-you/en/images/05.jpg",
         "alt": "Lungile kneels beside the car and talks to Mama Heron.",
         "zh": "“谢谢你，伦吉莱！”",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/05-adf59d56270fc252.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/i-will-help-you/audio/05-adf59d56270fc252.mp3",
+        "sourceAudioSha256": "adf59d56270fc25270df682729ac3970f7a0dda234fabc15196720e6f0375603",
+        "sourceAudioTextSha256": "a2f89afe1581adccef27131de16749dae0ceb84155cb72bbc47776f64b64e3f6",
+        "audioDurationSeconds": 3.096
       },
       {
         "en": "The next day, Gogo sends Lungile to the shop to buy bread. On the way, he stops to play with his friends in the river.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/i-will-help-you/en/images/06.jpg",
         "alt": "Gogo hands Lungile some coins. Afterwards he swims in the river with his friends.",
         "zh": "第二天，奶奶让伦吉莱去商店买面包。他在路上停下来，和朋友们在河里玩。",
-        "tip": "结合画面感受“面包”，听一听 bread。不用要求孩子跟读。"
+        "tip": "结合画面感受“面包”，听一听 bread。不用要求孩子跟读。",
+        "audioFile": "audio/06-16734b4070fcde49.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/i-will-help-you/audio/06-16734b4070fcde49.mp3",
+        "sourceAudioSha256": "16734b4070fcde494e2faaf44a9b19ad617c0ba614f548d6bbad6501ef3ba0df",
+        "sourceAudioTextSha256": "e80f7c2bc60ad81df68cdb270cff38ae4708078e7878a011d416cea966ea50c8",
+        "audioDurationSeconds": 12.216
       },
       {
         "en": "Eish! The money is gone.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/i-will-help-you/en/images/07.jpg",
         "alt": "Lungile stands with his friends and turns out his pockets. They are empty. He walks away. He is very sad.",
         "zh": "哎呀！钱不见了。",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/07-b5a4f04bd90eba25.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/i-will-help-you/audio/07-b5a4f04bd90eba25.mp3",
+        "sourceAudioSha256": "b5a4f04bd90eba255659e7ae20690df87466ee72d115723c3cc4fc7ab63ad7de",
+        "sourceAudioTextSha256": "6398bdb247d81512a3a343a69575d898e754d95300cf6d3e3dee7e559d59c174",
+        "audioDurationSeconds": 4.368
       },
       {
         "en": "“Don’t come home until you find that money!”",
         "sourceImage": "https://bookdash.github.io/bookdash-books/i-will-help-you/en/images/08.jpg",
         "alt": "Gogo is cross! She has her hand on her hip and she shouts at Lungile.",
         "zh": "“找到钱之前，不许回家！”",
-        "tip": "可以先接住孩子的感受：钱丢了会担心，但可以向家人求助。英文原文是在讲故事，不是给家长的要求。"
+        "tip": "可以先接住孩子的感受：钱丢了会担心，但可以向家人求助。英文原文是在讲故事，不是给家长的要求。",
+        "audioFile": "audio/08-d0b3ae6b2c57ea34.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/i-will-help-you/audio/08-d0b3ae6b2c57ea34.mp3",
+        "sourceAudioSha256": "d0b3ae6b2c57ea3436d11914eb3f4886f818acdae541cb193060f93af158855f",
+        "sourceAudioTextSha256": "ddee7011df71e56297316ef3602f732659f0844f66308ce573a8ba0e975b6951",
+        "audioDurationSeconds": 5.952
       },
       {
         "en": "“Why are you crying, Lungile?”",
         "sourceImage": "https://bookdash.github.io/bookdash-books/i-will-help-you/en/images/09.jpg",
         "alt": "Lungile sits on the river bank and cries. Mama Heron flies towards him.",
         "zh": "“伦吉莱，你为什么哭？”",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/09-0aee5528685fae39.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/i-will-help-you/audio/09-0aee5528685fae39.mp3",
+        "sourceAudioSha256": "0aee5528685fae39592764c89f1c0a8fa77b46f3805c8ad3a6f2322bf6a8ebde",
+        "sourceAudioTextSha256": "94a69660a9ede868e7dac288f8bfc519d13a1269fc484565c0eb70c35c7856b3",
+        "audioDurationSeconds": 3.768
       },
       {
         "en": "“I lost the money Gogo gave me to buy bread. We have no supper now.” “I will help you.”",
         "sourceImage": "https://bookdash.github.io/bookdash-books/i-will-help-you/en/images/10.jpg",
         "alt": "Still crying, Lungile tells Mama Heron what has happened.",
         "zh": "“奶奶给我买面包的钱丢了。我们现在没有晚饭了。”“我来帮你。”",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/10-fd4153868cd95474.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/i-will-help-you/audio/10-fd4153868cd95474.mp3",
+        "sourceAudioSha256": "fd4153868cd954748b949fc1c9179101b0ded0a0369dad125b39d2e20c25d30e",
+        "sourceAudioTextSha256": "2f156b24fdb5cbf1392cc420d74dd9db39696813a747d720c9aa50f4f20e8afd",
+        "audioDurationSeconds": 9.648
       },
       {
         "en": "Mama Heron’s sharp eyes see the coins shining in the water.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/i-will-help-you/en/images/11.jpg",
         "alt": "Mama Heron looks into the water. Lungile is excited.",
         "zh": "鹭鸟妈妈眼睛很尖，看见了水里闪亮的硬币。",
-        "tip": "结合画面感受“水”，听一听 water。不用要求孩子跟读。"
+        "tip": "结合画面感受“水”，听一听 water。不用要求孩子跟读。",
+        "audioFile": "audio/11-09bfce8e3c9ba847.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/i-will-help-you/audio/11-09bfce8e3c9ba847.mp3",
+        "sourceAudioSha256": "09bfce8e3c9ba8473f0c7f6a892ffb691746105d5d455c7c916626269e31570b",
+        "sourceAudioTextSha256": "b3e78f5043ffa477c5bb3c841d49c127bdc367a9604f585d0a8a3eab83b52a94",
+        "audioDurationSeconds": 6.144
       },
       {
         "en": "“Thank you, Mama Heron.”",
         "sourceImage": "https://bookdash.github.io/bookdash-books/i-will-help-you/en/images/12.jpg",
         "alt": "Lungile hugs Mama Heron.",
         "zh": "“谢谢你，鹭鸟妈妈。”",
-        "tip": "故事到这里啦。可以问问孩子最喜欢哪一幅画，想不想再翻回去看看。"
+        "tip": "故事到这里啦。可以问问孩子最喜欢哪一幅画，想不想再翻回去看看。",
+        "audioFile": "audio/12-b80ceab3e3e65804.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/i-will-help-you/audio/12-b80ceab3e3e65804.mp3",
+        "sourceAudioSha256": "b80ceab3e3e65804f73076784b3cf96dce896bd7c871465c2a0baca9f9ba5058",
+        "sourceAudioTextSha256": "4c147b2b886398c2b8c3b41daaf96364f3e7c3a25e3affe5566a1ec2106c2017",
+        "audioDurationSeconds": 3.072
       }
     ],
     "keywords": [
@@ -2272,6 +2835,18 @@ window.JIGU_BOOKS = [
       "title": "一起帮个小忙",
       "text": "一起收一件玩具，或递一件东西。可以说 I will help you. 不要求完成额外任务。",
       "hint": "想玩就试试，也可以下次再玩。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "天才童声2.0",
+      "voiceId": "zh_male_tiancaitongsheng_uranus_bigtts",
+      "voiceType": "preset",
+      "speechRate": -8,
+      "pitchRate": 0,
+      "approvedAuditionRunId": 39222587639,
+      "adaptation": "AI narration produced by Jigu from the original English text."
     }
   },
   {
@@ -2287,7 +2862,7 @@ window.JIGU_BOOKS = [
       "生活"
     ],
     "stageId": "S3",
-    "audioType": "device",
+    "audioType": "generated",
     "source": {
       "name": "Book Dash",
       "url": "https://bookdash.github.io/bookdash-books/walking-together/en/",
@@ -2305,84 +2880,144 @@ window.JIGU_BOOKS = [
         "zh": "当我们走上长长的路，就一起唱着歌往前走。",
         "tip": "和孩子看看这一路上的风景。可以停一停，聊聊身边的人怎样陪着自己。",
         "alt": "A mother and her young daughter walk away from their rondawel.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/walking-together/en/images/01.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/walking-together/en/images/01.jpg",
+        "audioFile": "audio/01-d41eb29c714cc1f4.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/walking-together/audio/01-d41eb29c714cc1f4.mp3",
+        "sourceAudioSha256": "d41eb29c714cc1f4efdd46d80431f0580c3bf46c0b395955dab938bcc336d2ae",
+        "sourceAudioTextSha256": "f4f78d4237416dc5e4569f54be8c386731b6424feccb749896c5a87b4def4553",
+        "audioDurationSeconds": 8.736
       },
       {
         "en": "I am with you and you are with me. A journey is fun with our family.",
         "zh": "我和你在一起，你和我在一起。和家人一起旅行很有趣。",
         "tip": "和孩子看看这一路上的风景。可以停一停，聊聊身边的人怎样陪着自己。",
         "alt": "They walk far down the road. They walk towards the hills.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/walking-together/en/images/02.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/walking-together/en/images/02.jpg",
+        "audioFile": "audio/02-599683d684f4c51e.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/walking-together/audio/02-599683d684f4c51e.mp3",
+        "sourceAudioSha256": "599683d684f4c51ea5eb737aafb495d57d620a296e763ec58a38110ef2e9137a",
+        "sourceAudioTextSha256": "dc91ba0c737b508b9d9c658a2a21505378fd387c7617ecbe6787e252221ae159",
+        "audioDurationSeconds": 9.456
       },
       {
         "en": "I’ll keep you cosy like a mother hen. She keeps her chicks warm under her wing.",
         "zh": "我会像母鸡一样让你暖暖的，她把小鸡护在翅膀下面。",
         "tip": "和孩子看看这一路上的风景。可以停一停，聊聊身边的人怎样陪着自己。",
         "alt": "They see a mother hen with a chick under her wing.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/walking-together/en/images/03.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/walking-together/en/images/03.jpg",
+        "audioFile": "audio/03-93323fe57badeb6e.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/walking-together/audio/03-93323fe57badeb6e.mp3",
+        "sourceAudioSha256": "93323fe57badeb6e263a6523c26285ca83a7eb0b1a9ad898fa089c84d3ad598c",
+        "sourceAudioTextSha256": "a0cd08775978858064c5b1ea0973639163361993eaeadcda611b0d035b9b81d5",
+        "audioDurationSeconds": 9.432
       },
       {
         "en": "If the rain starts to fall down from the sky, like that good hat I’ll keep your face dry.",
         "zh": "如果天空下起雨，我会像那顶好帽子一样，让你的脸不被淋湿。",
         "tip": "和孩子看看这一路上的风景。可以停一停，聊聊身边的人怎样陪着自己。",
         "alt": "They see a man walking in the rain. He wears a traditional straw hat.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/walking-together/en/images/04.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/walking-together/en/images/04.jpg",
+        "audioFile": "audio/04-4613c36420e206b6.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/walking-together/audio/04-4613c36420e206b6.mp3",
+        "sourceAudioSha256": "4613c36420e206b6b42f6e60e784d698626be64bdd7b8740c47d8ded9e1816cb",
+        "sourceAudioTextSha256": "b8d4f9caaf1fae064a25e6955dd7d949c9e1e4a6cd16de5888fbc97452707e1f",
+        "audioDurationSeconds": 7.896
       },
       {
         "en": "If storm clouds get angry and grumble and moan, be brave, why cry? You’re not alone.",
         "zh": "如果乌云生气地嘟囔轰鸣，勇敢些，为什么哭呢？你不是独自一个人。",
         "tip": "和孩子看看这一路上的风景。可以停一停，聊聊身边的人怎样陪着自己。",
         "alt": "The mother and child stand under a rock and watch the rain fall.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/walking-together/en/images/05.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/walking-together/en/images/05.jpg",
+        "audioFile": "audio/05-5952bab4919a0319.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/walking-together/audio/05-5952bab4919a0319.mp3",
+        "sourceAudioSha256": "5952bab4919a0319010f151cc42a79c754e31782bd137a327eb017eba5d3b258",
+        "sourceAudioTextSha256": "be9fe56cfbe68c462841c40c4bd2e6a6d0650ccb0b1f94192d9df72a413c3a77",
+        "audioDurationSeconds": 10.056
       },
       {
         "en": "We’re walking together so we never get bored. Look up! Look around! See where we’ve explored!",
         "zh": "我们一起走，一点也不无聊。抬头看看，环顾四周，瞧瞧我们经过了哪里！",
         "tip": "和孩子看看这一路上的风景。可以停一停，聊聊身边的人怎样陪着自己。",
         "alt": "They see a big waterfall.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/walking-together/en/images/06.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/walking-together/en/images/06.jpg",
+        "audioFile": "audio/06-cbea92a053622dd8.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/walking-together/audio/06-cbea92a053622dd8.mp3",
+        "sourceAudioSha256": "cbea92a053622dd847318191cbdf07d89d4de8c4cb730c600d6a90bce1a731a1",
+        "sourceAudioTextSha256": "1a5647a93d38f7f439bf2c99703ef1b2b12e52852389b92ec5ff81eabf7a9181",
+        "audioDurationSeconds": 10.752
       },
       {
         "en": "If you see something that’s funny to see, I don’t want to miss it. Please share it with me!",
         "zh": "如果你看见有趣的东西，我可不想错过。请和我一起分享！",
         "tip": "和孩子看看这一路上的风景。可以停一停，聊聊身边的人怎样陪着自己。",
         "alt": "They see a donkey carrying sticks on its back. It also wears a traditional straw hat!",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/walking-together/en/images/07.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/walking-together/en/images/07.jpg",
+        "audioFile": "audio/07-ab0ce06cadc8e2ea.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/walking-together/audio/07-ab0ce06cadc8e2ea.mp3",
+        "sourceAudioSha256": "ab0ce06cadc8e2ea4d9ee3a8ca42c9f169651dd63a02064c0dca32651a963046",
+        "sourceAudioTextSha256": "3d6da8300096f8279855d59ffe8056939b13db97006f6c9491d7963bcb755859",
+        "audioDurationSeconds": 8.568
       },
       {
         "en": "If your feet start to hurt from the distance we’ve passed, don’t worry, we’ve made it! Here’s the clinic at last.",
         "zh": "如果走得太远，脚开始疼了，别担心，我们到啦！终于到诊所了。",
         "tip": "和孩子看看这一路上的风景。可以停一停，聊聊身边的人怎样陪着自己。",
         "alt": "They arrive at the clinic building.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/walking-together/en/images/08.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/walking-together/en/images/08.jpg",
+        "audioFile": "audio/08-b2a35fee7dc5633a.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/walking-together/audio/08-b2a35fee7dc5633a.mp3",
+        "sourceAudioSha256": "b2a35fee7dc5633a7da5db25dc70190eaab2e95d5e8f19b2dcc9860967bc7ad3",
+        "sourceAudioTextSha256": "6c380569c16d15fd51445708655d1019148300812f0fcb3e33a2f3a8d6295446",
+        "audioDurationSeconds": 11.352
       },
       {
         "en": "We all need to check our throat, lungs and ears. Get strong as you grow, it’s no reason for tears.",
         "zh": "我们都需要检查喉咙、肺和耳朵。好好长大、变强壮，不用为此哭泣。",
         "tip": "和孩子看看这一路上的风景。可以停一停，聊聊身边的人怎样陪着自己。",
         "alt": "The clinic sister check's the girl's heart, ears and throat.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/walking-together/en/images/09.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/walking-together/en/images/09.jpg",
+        "audioFile": "audio/09-fff936f6d52420d9.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/walking-together/audio/09-fff936f6d52420d9.mp3",
+        "sourceAudioSha256": "fff936f6d52420d9833c02ae809fc0e801dbcb734fa9097bfd506389d00c691b",
+        "sourceAudioTextSha256": "5d29f8766274dc04844f054629d357847cdc8847146741ddc964c02ed32a82c2",
+        "audioDurationSeconds": 11.4
       },
       {
         "en": "Do you think it’s scary? Here, hold my hand. She’ll check your blood pressure with this clever armband.",
         "zh": "你觉得害怕吗？来，握住我的手。她会用这个聪明的臂带检查你的血压。",
         "tip": "如果孩子害怕看医生，可以先握握手、陪他聊聊感受。原文中的反问不用照着对孩子说。",
         "alt": "The clinic sister checks her mother's blood pressure.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/walking-together/en/images/10.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/walking-together/en/images/10.jpg",
+        "audioFile": "audio/10-46da9de0c96fb950.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/walking-together/audio/10-46da9de0c96fb950.mp3",
+        "sourceAudioSha256": "46da9de0c96fb950a76a6b553b2ef5a86063da862e4b81da0a130178edbb8b55",
+        "sourceAudioTextSha256": "2796c24e45fbebd51f682fa323bc4257cd9a1ba0c8ee055ab21be7414ea80279",
+        "audioDurationSeconds": 12.264
       },
       {
         "en": "They give us our medicine, tell us what we should know, to keep us all healthy. Now back home we go.",
         "zh": "他们给我们药，告诉我们保持健康需要知道的事。现在，我们回家啦。",
         "tip": "和孩子看看这一路上的风景。可以停一停，聊聊身边的人怎样陪着自己。",
         "alt": "The mother and daughter leave the clinic. Mother is carrying a bag of medicine. They are both smiling.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/walking-together/en/images/11.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/walking-together/en/images/11.jpg",
+        "audioFile": "audio/11-35b44f3598037a10.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/walking-together/audio/11-35b44f3598037a10.mp3",
+        "sourceAudioSha256": "35b44f3598037a10d6fcfd80d0f228434ecf3886992cc3a844a26d4a6a0faf05",
+        "sourceAudioTextSha256": "e8c427fe25ecf9ea410d0275b7c4daa5156ba30fffcb1b6843480ed117bcb1f4",
+        "audioDurationSeconds": 10.488
       },
       {
         "en": "It’s okay to be tired, there’s so much we’ve seen. Now it’s your bedtime. Sleep well and sweet dreams.",
         "zh": "累了也没关系，我们看过了好多东西。现在该睡觉了，睡个好觉，做个甜甜的梦。",
         "tip": "和孩子看看这一路上的风景。可以停一停，聊聊身边的人怎样陪着自己。",
         "alt": "It is night time. Mother tucks the little girl into her bed.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/walking-together/en/images/12.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/walking-together/en/images/12.jpg",
+        "audioFile": "audio/12-31b358931e841fda.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/walking-together/audio/12-31b358931e841fda.mp3",
+        "sourceAudioSha256": "31b358931e841fdaf8982dd5893a6a9eeb7fc3a0964032c0647f2fd991548191",
+        "sourceAudioTextSha256": "d69b91a4608c253c321df2a6e09745054392e24a02b987ef70ef54ae336cae9a",
+        "audioDurationSeconds": 10.728
       }
     ],
     "keywords": [
@@ -2409,6 +3044,18 @@ window.JIGU_BOOKS = [
       "title": "牵手走一小段路",
       "text": "和家人散步，轮流指出一个有趣的东西。想说中文或英文都可以，不用记录步数。",
       "hint": "想玩就试试，也可以下次再玩。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "天才童声2.0",
+      "voiceId": "zh_male_tiancaitongsheng_uranus_bigtts",
+      "voiceType": "preset",
+      "speechRate": -8,
+      "pitchRate": 0,
+      "approvedAuditionRunId": 39222587639,
+      "adaptation": "AI narration produced by Jigu from the original English text."
     }
   },
   {
@@ -2425,7 +3072,7 @@ window.JIGU_BOOKS = [
       "朋友"
     ],
     "stageId": "S3",
-    "audioType": "device",
+    "audioType": "generated",
     "source": {
       "name": "Book Dash",
       "url": "https://bookdash.github.io/bookdash-books/lara-the-yellow-ladybird/en/",
@@ -2443,84 +3090,144 @@ window.JIGU_BOOKS = [
         "sourceImage": "https://bookdash.github.io/bookdash-books/lara-the-yellow-ladybird/en/images/01.jpg",
         "alt": "Lara sits on a flower. She watches the other ladybirds. They all have red wings. Her's are yellow.",
         "zh": "瓢虫拉拉是一只特别的小虫。和所有朋友都不一样，她有亮黄色的翅膀。",
-        "tip": "先看看画面里的主角，再听英文。孩子指一指、做动作或用中文聊，都很好。"
+        "tip": "先看看画面里的主角，再听英文。孩子指一指、做动作或用中文聊，都很好。",
+        "audioFile": "audio/01-71766a99da3d8a8b.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/lara-the-yellow-ladybird/audio/01-71766a99da3d8a8b.mp3",
+        "sourceAudioSha256": "71766a99da3d8a8b064e3d0664f7a2a558307ac4b099063f6598370e5d98dbc2",
+        "sourceAudioTextSha256": "c6ddbe7de0191a738325e026a6c12403ad47d9a9f8187261e0574d6b0aa4e64c",
+        "audioDurationSeconds": 10.296
       },
       {
         "en": "Everyone loved her yellow wings. Each morning, Bibi Butterfly said hello. And Manto Mantis always waved.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/lara-the-yellow-ladybird/en/images/02.jpg",
         "alt": "Lara's mother sends her off to school. On her way she waves to Manto Mantis and Bibi Butterfly.",
         "zh": "大家都喜欢她的黄翅膀。每天早上，蝴蝶比比都会打招呼，螳螂曼托也总向她挥手。",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/02-3abba90cbc9679e1.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/lara-the-yellow-ladybird/audio/02-3abba90cbc9679e1.mp3",
+        "sourceAudioSha256": "3abba90cbc9679e1e19ba84770efa5113450d4003df5f966a3c9cb0e4992b2a9",
+        "sourceAudioTextSha256": "3c3d846324291efef9b113b97a247790930e9a30f7756ebe13df0b8a183dadab",
+        "audioDurationSeconds": 12.696
       },
       {
         "en": "Even Sesa, the sulky spider, was happy to see her. At school, she played with lots of friends.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/lara-the-yellow-ladybird/en/images/03.jpg",
         "alt": "Sesa Spider hangs from her nest. Lara arrives at school. Her friends are happy to see her.",
         "zh": "就连爱生闷气的蜘蛛塞萨，见到她也很开心。在学校，她有许多一起玩的朋友。",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/03-f87d691538d1a1c4.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/lara-the-yellow-ladybird/audio/03-f87d691538d1a1c4.mp3",
+        "sourceAudioSha256": "f87d691538d1a1c4b959d414e28bedab8c1d7182e5d64d60b629ca8ff1f7ac84",
+        "sourceAudioTextSha256": "5342e568c080bf6a6dd78f4514b9f1111900feb6fff3b01ae9c68606f3bed8a5",
+        "audioDurationSeconds": 9.888
       },
       {
         "en": "But Lara wanted to be like the other ladybirds. “I wish I had red wings like you, Mama,” she cried.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/lara-the-yellow-ladybird/en/images/04.jpg",
         "alt": "At home, Lara cries to her mother. She dreams of red wings.",
         "zh": "可拉拉想变得和其他瓢虫一样。她哭着说：“妈妈，我希望有和你一样的红翅膀。”",
-        "tip": "结合画面感受“红色的”，听一听 red。不用要求孩子跟读。"
+        "tip": "结合画面感受“红色的”，听一听 red。不用要求孩子跟读。",
+        "audioFile": "audio/04-c1321fb22004124e.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/lara-the-yellow-ladybird/audio/04-c1321fb22004124e.mp3",
+        "sourceAudioSha256": "c1321fb22004124e7f442cd28638334e7557b6e690e2ecefe7d8c6f2677b4776",
+        "sourceAudioTextSha256": "a633c5057dc3d50c7b5883f7f9b23dc30b146c775a09d789d57df08b1dd84878",
+        "audioDurationSeconds": 10.944
       },
       {
         "en": "So one day, to cheer her up, Lara’s mother painted her wings bright red.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/lara-the-yellow-ladybird/en/images/05.jpg",
         "alt": "Lara stands on a chair in front of the mirror. Her mother paints are yellow wings using a tin of red paint.",
         "zh": "为了让她开心，有一天，拉拉的妈妈把她的翅膀涂成了亮红色。",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/05-7be477935cf2cf5a.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/lara-the-yellow-ladybird/audio/05-7be477935cf2cf5a.mp3",
+        "sourceAudioSha256": "7be477935cf2cf5a42668b4c0b8e08830758ff45fb22da45dfb9baf40336486b",
+        "sourceAudioTextSha256": "845a9e9c548e7a2d812828b4c418fb8fc0c02deb3ee87a50dfc254d121b920f9",
+        "audioDurationSeconds": 9.6
       },
       {
         "en": "The next morning, nobody greeted Lara on her way to school.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/lara-the-yellow-ladybird/en/images/06.jpg",
         "alt": "On the way to school, Lara waves to the other insects. They don't wave back.",
         "zh": "第二天早上，上学路上没有人和拉拉打招呼。",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/06-582ac16600ee5abb.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/lara-the-yellow-ladybird/audio/06-582ac16600ee5abb.mp3",
+        "sourceAudioSha256": "582ac16600ee5abb01e756462ae6435b9cf26a813cf0545fce17bdbad29bc768",
+        "sourceAudioTextSha256": "c236545758a11aa864b99495de718c6ad32ce55958689dc89914a1afc3be39cf",
+        "audioDurationSeconds": 7.272
       },
       {
         "en": "And when she got there, none of her friends said hello.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/lara-the-yellow-ladybird/en/images/07.jpg",
         "alt": "Lara arrives at school. Her friends don't greet her.",
         "zh": "到了学校，也没有一个朋友向她问好。",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/07-a358c27b161f5ec6.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/lara-the-yellow-ladybird/audio/07-a358c27b161f5ec6.mp3",
+        "sourceAudioSha256": "a358c27b161f5ec623052039ed1043762a00d731ed61ecf012283ed68c6cca6c",
+        "sourceAudioTextSha256": "4565e7ad059498f69b1b2f1b37d2d15fcca438b00072b6b237880a72cdcc9784",
+        "audioDurationSeconds": 5.712
       },
       {
         "en": "Lara sat all alone. No one noticed her new red wings. Until Miss Miya spotted her and said: “You’ve painted your lovely yellow wings!”",
         "sourceImage": "https://bookdash.github.io/bookdash-books/lara-the-yellow-ladybird/en/images/08.jpg",
         "alt": "Lara sits alone. She cries to her teacher.",
         "zh": "拉拉独自坐着，没人注意到她的新红翅膀。直到米娅老师发现她，说：“你把漂亮的黄翅膀涂掉啦！”",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/08-7bde24acf78adddc.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/lara-the-yellow-ladybird/audio/08-7bde24acf78adddc.mp3",
+        "sourceAudioSha256": "7bde24acf78adddcb72a46f2c620f12f5eec84fa567ef04d7e14ba84ed756201",
+        "sourceAudioTextSha256": "95c5803d9a4480b77efe18e7f125c883b287cda1789980208a014e5ddcfb5983",
+        "audioDurationSeconds": 15.096
       },
       {
         "en": "Lara’s classmates were shocked. “Your wings are special!” “So unique!”“So rare!”",
         "sourceImage": "https://bookdash.github.io/bookdash-books/lara-the-yellow-ladybird/en/images/09.jpg",
         "alt": "Miss Miya tells the children what Lara has done. They are shocked.",
         "zh": "同学们都很惊讶：“你的翅膀很特别！”“独一无二！”“那么少见！”",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/09-e7caf856f07ca469.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/lara-the-yellow-ladybird/audio/09-e7caf856f07ca469.mp3",
+        "sourceAudioSha256": "e7caf856f07ca469d4ba1f56fc3d70990e0613467b4b0ad6c3438139b2054a2d",
+        "sourceAudioTextSha256": "22fdb9cff2c283552091008e1b1da850fe5e4cf775bff473ad3969a19b286540",
+        "audioDurationSeconds": 9.192
       },
       {
         "en": "“Lara,” Miss Miya said, “your yellow wings are what make you you. Like Sipho’s spot … and Sally’s legs.”",
         "sourceImage": "https://bookdash.github.io/bookdash-books/lara-the-yellow-ladybird/en/images/10.jpg",
         "alt": "Miss Miya tells Lara about Sipho's large spot and Sally's long legs.",
         "zh": "米娅老师说：“拉拉，黄翅膀让你成为你自己，就像西波的斑点、萨莉的腿一样。”",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/10-b46ba19adedc4760.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/lara-the-yellow-ladybird/audio/10-b46ba19adedc4760.mp3",
+        "sourceAudioSha256": "b46ba19adedc47609e8e66aa5086ed3840ae327f517f057cd45995421b334e90",
+        "sourceAudioTextSha256": "3eb71431e012819d6c9d955fc67ca50d04be1398116ea99b669b05e55d19e21b",
+        "audioDurationSeconds": 12.672
       },
       {
         "en": "Back home, Lara took a long bath and scrubbed until her golden wings gleamed. “I’ll never paint my wings again!” she thought. Except, maybe once or twice …",
         "sourceImage": "https://bookdash.github.io/bookdash-books/lara-the-yellow-ladybird/en/images/11.jpg",
         "alt": "Lara lies in the bath and scrubs the red paint off her wings. Her wings are yellow again.",
         "zh": "回到家，拉拉洗了很久的澡，搓呀搓，直到金黄色的翅膀重新闪亮起来。她想：“我再也不涂翅膀了！”不过，也许偶尔一两次……",
-        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。"
+        "tip": "先看画面，再听这一句。可以停一停，让孩子猜猜接下来会发生什么。",
+        "audioFile": "audio/11-88520228fdca7118.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/lara-the-yellow-ladybird/audio/11-88520228fdca7118.mp3",
+        "sourceAudioSha256": "88520228fdca7118cd5be2d3feff27bd9ddeea734657151a7228eab1e5cf7dc4",
+        "sourceAudioTextSha256": "98597b0518d5f0b46bd7d6784561b8b08020395690cdd52d46fa2d1e14f905b3",
+        "audioDurationSeconds": 16.8
       },
       {
         "en": "To try a bit of purple … or something nice. But not for ever and just for fun.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/lara-the-yellow-ladybird/en/images/12.jpg",
         "alt": "Lara holds a paintbrush. Her wings are painted with colourful dots and stars and stripes.",
         "zh": "试试紫色……或者别的漂亮颜色。但不会一直涂着，只是玩一玩。",
-        "tip": "故事到这里啦。可以问问孩子最喜欢哪一幅画，想不想再翻回去看看。"
+        "tip": "故事到这里啦。可以问问孩子最喜欢哪一幅画，想不想再翻回去看看。",
+        "audioFile": "audio/12-f666f7920a2b2905.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/lara-the-yellow-ladybird/audio/12-f666f7920a2b2905.mp3",
+        "sourceAudioSha256": "f666f7920a2b290560fa953e59724f9be31fd886cbd24611b0113bfaf0e72680",
+        "sourceAudioTextSha256": "d9321d24176a8af96f3d24dc75a2f7624cd715169a15a0f2491e23b7d2b9a69a",
+        "audioDurationSeconds": 8.544
       }
     ],
     "keywords": [
@@ -2547,6 +3254,18 @@ window.JIGU_BOOKS = [
       "title": "找到你的特别之处",
       "text": "找一件黄色的东西，再说说自己喜欢的一样小特点。颜色词可以用于下次Color Walk。",
       "hint": "想玩就试试，也可以下次再玩。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "天才童声2.0",
+      "voiceId": "zh_male_tiancaitongsheng_uranus_bigtts",
+      "voiceType": "preset",
+      "speechRate": -8,
+      "pitchRate": 0,
+      "approvedAuditionRunId": 39222587639,
+      "adaptation": "AI narration produced by Jigu from the original English text."
     }
   },
   {
@@ -2562,7 +3281,7 @@ window.JIGU_BOOKS = [
       "发现"
     ],
     "stageId": "S2",
-    "audioType": "device",
+    "audioType": "generated",
     "source": {
       "name": "Book Dash",
       "url": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/",
@@ -2580,91 +3299,156 @@ window.JIGU_BOOKS = [
         "zh": "小机器人丁尼·蒂姆正坐在路上，一颗纽扣弹跳着来到他面前。",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Tinny Tim is a toy robot. A blue button bounces up to him.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/01.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/01.jpg",
+        "audioFile": "audio/01-83f93e5cf56d767c.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/01-83f93e5cf56d767c.mp3",
+        "sourceAudioSha256": "83f93e5cf56d767c70dcb6b4f5d10cc34c9b46a44ad3b38615b99639e1ce020e",
+        "sourceAudioTextSha256": "b8763cba26e4b45de01c0a5585f5592b4fd918846efb5700ba6fc482ae4867bc",
+        "audioDurationSeconds": 7.248
       },
       {
         "en": "“I wonder where this comes from,” he said. He wanted to find out.",
         "zh": "他说：“这是从哪里来的呢？”他想弄明白。",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Tinny Tim carries the button. He walks with determination.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/02.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/02.jpg",
+        "audioFile": "audio/02-cef401d77b7b8c8e.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/02-cef401d77b7b8c8e.mp3",
+        "sourceAudioSha256": "cef401d77b7b8c8e48c2773838e6c05825dfe041fa6a5b5b7a6018db6b27cae4",
+        "sourceAudioTextSha256": "e5e183bfc61b9983b4d60083ff9c963541cdebde897f33bde302c3ad035952c8",
+        "audioDurationSeconds": 7.464
       },
       {
         "en": "It was busy on the side of the road. “Woah!” He nearly got squashed.",
         "zh": "路边很忙乱。“哇！”他差一点被压扁。",
         "tip": "这是小机器人的冒险故事。现实中过马路要和家长牵手，不跑到车道上。",
         "alt": "Tinny Tim almost gets squashed under someone's red shoe.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/03.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/03.jpg",
+        "audioFile": "audio/03-6714f6436f17f74a.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/03-6714f6436f17f74a.mp3",
+        "sourceAudioSha256": "6714f6436f17f74af150f35bad2f762e8213ead9b0a4befa5a7d660486652c8e",
+        "sourceAudioTextSha256": "70488f07314a94e6f4940e501895e0e2c65a3505e732f24a279471705a4b2a24",
+        "audioDurationSeconds": 8.304
       },
       {
         "en": "He made a lucky escape. “It’s scary out here,” he said.",
         "zh": "他幸运地躲开了。“外面真吓人。”他说。",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Tinny Tim holds onto the shoe lace. He swings through the air.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/04.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/04.jpg",
+        "audioFile": "audio/04-09aa5678bf3fe55d.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/04-09aa5678bf3fe55d.mp3",
+        "sourceAudioSha256": "09aa5678bf3fe55d812cbb9b111f44e93e77d736d14227c657f4a72e96afb6f2",
+        "sourceAudioTextSha256": "7ce6ec22ae45022e622acf42ecf3c337bccbbef69c618eb1b23f3aba36c81caa",
+        "audioDurationSeconds": 7.704
       },
       {
         "en": "“Hey there, is this yours?”",
         "zh": "“你好，这是你的吗？”",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Tinny Tim looks up to the green man on the traffic light.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/05.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/05.jpg",
+        "audioFile": "audio/05-79371d52ee761123.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/05-79371d52ee761123.mp3",
+        "sourceAudioSha256": "79371d52ee761123efe1207df0ea615c25d931c30cbfd25ee5e3d41965b81671",
+        "sourceAudioTextSha256": "3a324e375a490a8f9950b1c9cc662f6cde817d6b8eb5888e97759e2c9acf9e11",
+        "audioDurationSeconds": 3.936
       },
       {
         "en": "The green man said nothing. He just turned red. “What a rude person.”",
         "zh": "那个绿色的小人什么也没说，只是变成了红色。“真没礼貌。”",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "The green man changes to a red man.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/06.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/06.jpg",
+        "audioFile": "audio/06-1a447525faef8010.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/06-1a447525faef8010.mp3",
+        "sourceAudioSha256": "1a447525faef80107bde09b9c9cd709db33bd31b02665e94bf426afc9f28f095",
+        "sourceAudioTextSha256": "68d64db020da1078ccd1d2ceaacc1ff47cd8b0ced8444e1a2b7ee7681111f76e",
+        "audioDurationSeconds": 7.248
       },
       {
         "en": "Tinny Tim carried on looking. “Whose button is this?”",
         "zh": "丁尼·蒂姆继续寻找。“这是谁的纽扣？”",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Tinny Tim sees a dog in the distance.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/07.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/07.jpg",
+        "audioFile": "audio/07-b6a143cc4749da3b.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/07-b6a143cc4749da3b.mp3",
+        "sourceAudioSha256": "b6a143cc4749da3be5c50cff2ca1b3c83f17e645f0f14f48ed0c6f90bb7f9064",
+        "sourceAudioTextSha256": "25cfdfc0d725895c98f70379f4cd4d4acf0bcaae21f7cce62e0bddfe8c68b1ce",
+        "audioDurationSeconds": 7.848
       },
       {
         "en": "“Woah..! …at least he’s friendly.”",
         "zh": "“哇……至少他很友好。”",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "The dog licks Tinny Tim. He gets covered in dog drool.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/08.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/08.jpg",
+        "audioFile": "audio/08-23a45ed77143dfb9.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/08-23a45ed77143dfb9.mp3",
+        "sourceAudioSha256": "23a45ed77143dfb9b801e73ba11691cbf12c774518b7e12f2a712b48cd36e880",
+        "sourceAudioTextSha256": "6ee30692f6ca7d5c4e344a16e8c4153fcbc1edbf735e20761046e2490417e48f",
+        "audioDurationSeconds": 4.392
       },
       {
         "en": "“I’ve got to get to the other side. I’m sure that’s where this comes from.”",
         "zh": "“我得去路的另一边，我想它一定是从那边来的。”",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Tinny Tim holds the button. He stands at a pedestrian crossing.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/09.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/09.jpg",
+        "audioFile": "audio/09-d4c5a0ac3ed8b075.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/09-d4c5a0ac3ed8b075.mp3",
+        "sourceAudioSha256": "d4c5a0ac3ed8b0757facaddf5359879ac22971b1756f4454a16e2cf3d5b131b6",
+        "sourceAudioTextSha256": "e1c9b711faea50ad23bb6f22b9ffd15bc4750f2ef94aa7fd5791570232c517c4",
+        "audioDurationSeconds": 7.224
       },
       {
         "en": "SPLASH! “That was close.” He waited for the cars to pass before he carried on.",
         "zh": "哗啦！“好险！”他等汽车都过去后才继续走。",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "A car drives through a puddle and he gets splashed.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/10.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/10.jpg",
+        "audioFile": "audio/10-ee0cbdbd66e40e62.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/10-ee0cbdbd66e40e62.mp3",
+        "sourceAudioSha256": "ee0cbdbd66e40e62c2c150e1d853b0b8bd10cf55a49dd0c789dc901c0c82532f",
+        "sourceAudioTextSha256": "009aa2529a581a127ef074db4925dfa1031fd32767f991da966954e7538748d5",
+        "audioDurationSeconds": 9.192
       },
       {
         "en": "Maybe this was who he was looking for. “Hello, who are you?”",
         "zh": "也许这就是他要找的人。“你好，你是谁？”",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Tinny Tim holds the button in the air.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/11.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/11.jpg",
+        "audioFile": "audio/11-fb3425babceb2a6a.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/11-fb3425babceb2a6a.mp3",
+        "sourceAudioSha256": "fb3425babceb2a6a1cf76edde638c2272cd10d333936ad0cf69c42bc7c0fd5b1",
+        "sourceAudioTextSha256": "599e9868f936f76f1ca35785acb2640ccc821a1e2665123429b00c72d8b8b034",
+        "audioDurationSeconds": 7.008
       },
       {
         "en": "“I’m Ruby Rags.” “I think this is yours,”he said.",
         "zh": "“我是露比·拉格斯。”“我想这是你的。”他说。",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Ruby Rags is a doll with buttons for eyes. She is missing one eye.",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/12.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/12.jpg",
+        "audioFile": "audio/12-4c724f207501cc63.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/12-4c724f207501cc63.mp3",
+        "sourceAudioSha256": "4c724f207501cc631ac8a24cc5455f05384fe25b2b01d8da58a9a9c0159c6a30",
+        "sourceAudioTextSha256": "a07e57ac3b813ff598b3bcadbd0a9efbea26d69764cedad023f121c33a6d0913",
+        "audioDurationSeconds": 6.816
       },
       {
         "en": "“Thank you, little robot. Can we be friends?”",
         "zh": "“谢谢你，小机器人。我们可以做朋友吗？”",
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Ruby Rags and Tinny Tim sit next to each other. Ruby has both eyes!",
-        "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/13.jpg"
+        "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/13.jpg",
+        "audioFile": "audio/13-dfbc88f2cbdf691d.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/13-dfbc88f2cbdf691d.mp3",
+        "sourceAudioSha256": "dfbc88f2cbdf691da6c1f31ee4bd1befbfdc04ce286afa0c1dbb66a0fe4b665e",
+        "sourceAudioTextSha256": "cad48b16b2b8f7e2f1b202c81ec93302d715cd296bdffbd312d144de0a03f621",
+        "audioDurationSeconds": 5.496
       }
     ],
     "keywords": [
@@ -2691,6 +3475,18 @@ window.JIGU_BOOKS = [
       "title": "观察红色和绿色",
       "text": "在家找红色和绿色的东西。出门由家长带着过马路，故事里的小人是交通信号灯。",
       "hint": "想玩就试试，也可以下次再玩。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "天才童声2.0",
+      "voiceId": "zh_male_tiancaitongsheng_uranus_bigtts",
+      "voiceType": "preset",
+      "speechRate": -8,
+      "pitchRate": 0,
+      "approvedAuditionRunId": 39222587639,
+      "adaptation": "AI narration produced by Jigu from the original English text."
     }
   }
 ];
