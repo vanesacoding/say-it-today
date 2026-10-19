@@ -45,15 +45,34 @@ function makeDom(saved,legacy){
  return dom;
 }
 function click(d,s){const el=d.window.document.querySelector(s);assert.ok(el,'missing control '+s);el.click()}
-function open(d,id){click(d,'[data-go="shelf"]');click(d,'[data-filter-theme="all"]');click(d,'[data-filter-stage="all"]');click(d,`[data-book="${id}"]`);click(d,'[data-go="reader"]')}
+function selectStage(d,value){const select=d.window.document.querySelector('[data-stage-select]');assert.ok(select);select.value=value;select.dispatchEvent(new d.window.Event('change',{bubbles:true}))}
+function open(d,id){click(d,'[data-go="shelf"]');click(d,'[data-filter-theme="all"]');selectStage(d,'all');click(d,`[data-book="${id}"]`);click(d,'[data-go="reader"]')}
 function heading(d){return d.window.document.querySelector('.readerHeader .heading').textContent}
 const dom=makeDom();click(dom,'[data-go="shelf"]');assert.equal(dom.window.document.querySelectorAll('.shelfCard').length,20);
 for(const theme of ['everyday','nature','discovery','feelings']){
  click(dom,`[data-filter-theme="${theme}"]`);
  assert.equal(dom.window.document.querySelectorAll('.shelfCard').length,activeBooks.filter(b=>b.themeIds.includes(theme)).length);
 }
-click(dom,'[data-filter-theme="all"]');click(dom,'[data-filter-stage="S2"]');assert.equal(dom.window.document.querySelectorAll('.shelfCard').length,activeBooks.filter(b=>b.stageId==='S2').length);
-click(dom,'[data-filter-stage="all"]');
+click(dom,'[data-filter-theme="all"]');selectStage(dom,'S2');assert.equal(dom.window.document.querySelectorAll('.shelfCard').length,activeBooks.filter(b=>b.stageId==='S2').length);
+selectStage(dom,'all');
+// Stage changes intersect with the selected topic and survive reopening the app.
+click(dom,'[data-filter-theme="discovery"]');selectStage(dom,'S3');
+assert.equal(dom.window.document.querySelectorAll('.shelfCard').length,activeBooks.filter(b=>b.themeIds.includes('discovery')&&b.stageId==='S3').length);
+assert.ok(dom.window.document.querySelector('.emptyBooks'));
+click(dom,'[data-action="reset-filters"]');
+assert.equal(dom.window.document.querySelector('[data-stage-select]').value,'all');
+selectStage(dom,'S2');click(dom,'[data-filter-theme="nature"]');
+const filteredReload=makeDom(dom.window.localStorage.getItem('jigu-reading-library-v2'));
+click(filteredReload,'[data-go="shelf"]');
+assert.equal(filteredReload.window.document.querySelector('[data-stage-select]').value,'S2');
+assert.equal(filteredReload.window.document.querySelectorAll('.shelfCard').length,activeBooks.filter(b=>b.themeIds.includes('nature')&&b.stageId==='S2').length);
+assert.equal(filteredReload.window.document.querySelector('[data-filter-theme="feelings"]').textContent,'心情与朋友');
+assert.equal(filteredReload.window.document.querySelector('[data-filter-theme="everyday"]').textContent,'日常生活');
+click(filteredReload,'[data-action="stage-guide"]');assert.match(filteredReload.window.document.querySelector('.sheet').textContent,/没有解锁门槛/);
+click(filteredReload,'button[data-action="close"]');assert.equal(filteredReload.window.document.querySelector('[data-stage-select]').value,'S2');
+filteredReload.window.close();
+click(dom,'[data-filter-theme="all"]');selectStage(dom,'all');
+console.log('PASS compact shelf filters: topic and native stage intersection, empty reset, persistence and stage guide');
 // Open, read, finish and replay every book, including 12 and 13 page titles.
 for(const b of activeBooks){
  open(dom,b.id);assert.match(heading(dom),new RegExp('1/'+b.pages.length));
