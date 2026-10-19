@@ -26,13 +26,35 @@ click(r,'[data-action="review-start"]');assert.equal(r.window.document.querySele
 const ended=players[0].onended;click(r,'[data-action="review-reveal"]');assert.ok(r.window.document.querySelector('.reviewMeaning'));click(r,'[data-remembered="true"]');assert.ok(players[0].paused);assert.ok(r.window.document.querySelector('.reviewComplete'));ended();assert.ok(r.window.document.querySelector('.reviewComplete'));
 let stored=JSON.parse(r.window.localStorage.getItem('jigu-reading-library-v2'));assert.ok(stored.wordReviews.read.dueAt>Date.now());assert.equal(stored.records['0087'].opened,false,'Review does not pretend to read the book');
 click(r,'[data-go="vocabulary"]');click(r,'[data-action="vocabulary-word"]');click(r,'[data-action="vocabulary-source"]');assert.match(r.window.document.querySelector('.readerHeader').textContent,/1\/8/);
+// Source inspection must return to the same word dialog and underlying word bank.
+const originalTitle='read · 读、阅读';
+assert.equal(r.window.document.querySelector('.readEnglish mark').textContent.toLowerCase(),'read');
+click(r,'[data-action="reader-back"]');
+assert.equal(r.window.document.querySelector('[role="dialog"]').getAttribute('aria-label'),originalTitle);
+assert.ok(r.window.document.querySelector('.vocabularyList'));
+click(r,'button[data-action="close"]');click(r,'[data-action="review-start"]');
+click(r,'[data-action="review-reveal"]');
+const reviewWord=r.window.document.querySelector('.reviewWord').textContent;
+click(r,'[data-action="vocabulary-source"]');click(r,'[data-action="next"]');
+click(r,'[data-action="reader-back"]');
+assert.equal(r.window.document.querySelector('.reviewWord').textContent,reviewWord);
+assert.ok(r.window.document.querySelector('.reviewMeaning'),'Reveal state survives source inspection');
+assert.equal(r.window.document.querySelector('.simpleHead .tiny').textContent,'1 / 1');
+click(r,'[data-go="vocabulary"]');click(r,'[data-action="vocabulary-word"]');click(r,'[data-action="vocabulary-source"]');
 // Auto collect only the vocabulary pages reached; returning to an earlier page must not lose words.
-for(let i=0;i<7;i++)click(r,'[data-action="next"]');click(r,'[data-action="prev"]');click(r,'[data-go="shelf"]');click(r,'[data-go="mine"]');click(r,'[data-go="vocabulary"]');assert.equal(r.window.document.querySelectorAll('.vocabularyRow').length,3);
+for(let i=0;i<7;i++)click(r,'[data-action="next"]');click(r,'[data-action="prev"]');click(r,'[data-action="reader-back"]');click(r,'button[data-action="close"]');assert.equal(r.window.document.querySelectorAll('.vocabularyRow').length,3);
 const archived=r.window.JIGU_BOOKS.find(b=>b.archived);
 if(archived){
  const a=app(JSON.stringify({selectedId:archived.id,records:{[archived.id]:{opened:true,saved:true,page:2,lastReadAt:999}},wordSaves:{[archived.id+':'+archived.keywords[0].id]:true},wordReviews:{test:{dueAt:123}}}));
  assert.ok(!a.window.document.querySelector('h1').textContent.includes(archived.title),'Home moves to a current book');click(a,'[data-go="mine"]');assert.ok(a.window.document.querySelector(`[data-resume="${archived.id}"]`));click(a,`[data-resume="${archived.id}"]`);assert.match(a.window.document.querySelector('.readerHeader').textContent,new RegExp('3/'+archived.pages.length));
  const restored=JSON.parse(a.window.localStorage.getItem('jigu-reading-library-v2'));assert.ok(restored.records[archived.id].saved);assert.ok(restored.wordSaves[archived.id+':'+archived.keywords[0].id]);assert.equal(restored.wordReviews.test.dueAt,123);assert.match(a.window.document.querySelector('.readerHeader').textContent,/旧版/);click(a,'[data-go="shelf"]');click(a,'[data-go="home"]');assert.ok(!a.window.document.querySelector('h1').textContent.includes(archived.title));a.window.close();
 }
+const h=app();h.window.close();
+const highlightHtml=html.replace('highlightWords(p.en,book.keywords.map(w=>w.word))', "highlightWords('Read reading READ. A sea turtle & <cat> catch.', ['read','sea turtle','turtle','cat'])");
+const fixtureDom=new JSDOM(highlightHtml,{url:'https://jigu.local/',runScripts:'outside-only'});fixtureDom.window.scrollTo=()=>{};fixtureDom.window.eval(catalog);fixtureDom.window.eval(bundle);fixtureDom.window.eval([...fixtureDom.window.document.scripts].find(s=>s.textContent.includes('const books=window.JIGU_BOOKS')).textContent);click(fixtureDom,'[data-go="reader"]');
+assert.deepEqual([...fixtureDom.window.document.querySelectorAll('.readEnglish mark')].map(e=>e.textContent),['Read','READ','sea turtle','cat']);
+assert.equal(fixtureDom.window.document.querySelector('.readEnglish').textContent,'Read reading READ. A sea turtle & <cat> catch.');
+assert.equal(fixtureDom.window.document.querySelector('.readEnglish cat'),null);fixtureDom.window.close();
 for(const instance of [d,r])instance.window.close();
 console.log('PASS vocabulary: reached-page collection, cross-book deduplication, saved words, 1/3/7/14-day review, recorded sentence audio, stale callbacks, source navigation and archive migration');
+

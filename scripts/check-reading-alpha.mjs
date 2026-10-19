@@ -69,15 +69,15 @@ emptyDom.window.close();
 selectStage(dom,'S2');click(dom,'[data-filter-theme="nature"]');
 const filteredReload=makeDom(dom.window.localStorage.getItem('jigu-reading-library-v2'));
 click(filteredReload,'[data-go="shelf"]');
-assert.equal(filteredReload.window.document.querySelector('[data-stage-select]').value,'S2');
-assert.equal(filteredReload.window.document.querySelectorAll('.shelfCard').length,activeBooks.filter(b=>b.themeIds.includes('nature')&&b.stageId==='S2').length);
+assert.equal(filteredReload.window.document.querySelector('[data-stage-select]').value,'all');
+assert.equal(filteredReload.window.document.querySelectorAll('.shelfCard').length,activeBooks.length);
 assert.equal(filteredReload.window.document.querySelector('[data-filter-theme="feelings"]').textContent,'心情与朋友');
 assert.equal(filteredReload.window.document.querySelector('[data-filter-theme="everyday"]').textContent,'日常生活');
 click(filteredReload,'[data-action="stage-guide"]');assert.match(filteredReload.window.document.querySelector('.sheet').textContent,/没有解锁门槛/);
-click(filteredReload,'button[data-action="close"]');assert.equal(filteredReload.window.document.querySelector('[data-stage-select]').value,'S2');
+click(filteredReload,'button[data-action="close"]');assert.equal(filteredReload.window.document.querySelector('[data-stage-select]').value,'all');
 filteredReload.window.close();
 click(dom,'[data-filter-theme="all"]');selectStage(dom,'all');
-console.log('PASS compact shelf filters: topic and native stage intersection, empty reset, persistence and stage guide');
+console.log('PASS compact shelf filters: topic and native stage intersection, empty reset, refresh reset and stage guide');
 // Open, read, finish and replay every book, including 12 and 13 page titles.
 for(const b of activeBooks){
  open(dom,b.id);assert.match(heading(dom),new RegExp('1/'+b.pages.length));
@@ -118,19 +118,19 @@ const utterances=[];let cancelled=0;
 audioDom.window.SpeechSynthesisUtterance=class{constructor(text){this.text=text}};
 audioDom.window.speechSynthesis={getVoices:()=>[],speak:u=>utterances.push(u),cancel:()=>cancelled++};
 const deviceBook=activeBooks.find(b=>b.audioType==='device');
-if(deviceBook){open(audioDom,deviceBook.id);assert.match(audioDom.window.document.querySelector('.readerTools').textContent,/设备英语朗读/);click(audioDom,'[data-action="listen"]');assert.equal(utterances.at(-1).text,deviceBook.pages[0].en);utterances.at(-1).onend();assert.match(heading(audioDom),new RegExp('2/'+deviceBook.pages.length));click(audioDom,'[data-go="shelf"]');assert.ok(cancelled>0);}
+if(deviceBook){open(audioDom,deviceBook.id);assert.match(audioDom.window.document.querySelector('.readerTools').textContent,/绘本说明/);click(audioDom,'[data-action="listen"]');assert.equal(utterances.at(-1).text,deviceBook.pages[0].en);utterances.at(-1).onend();assert.match(heading(audioDom),new RegExp('2/'+deviceBook.pages.length));click(audioDom,'[data-go="shelf"]');assert.ok(cancelled>0);}
 const recordedPath=(b,i)=>`./books/library/${b.id}/${b.pages[i].audioFile||'audio/'+String(i+1).padStart(2,'0')+'.mp3'}`;
 const generatedBooks=activeBooks.filter(b=>b.audioType==='generated');
 assert.ok(generatedBooks.length,'at least one fixed AI book must exercise recorded playback');
 for(const b of generatedBooks){
  open(audioDom,b.id);const speechCount=utterances.length;
- assert.match(audioDom.window.document.querySelector('.readerTools').textContent,/AI英文配音/);
+ assert.match(audioDom.window.document.querySelector('.readerTools').textContent,/绘本说明/);
  click(audioDom,'[data-action="listen"]');assert.equal(utterances.length,speechCount,'AI narration uses recorded audio');
  assert.equal(played.at(-1).src,recordedPath(b,0));
  played.at(-1).onended();assert.match(heading(audioDom),new RegExp('2/'+b.pages.length));
  const player=played.at(-1);player.onerror();assert.equal(player.src,b.pages[1].sourceAudio);
  player.onerror();assert.equal(utterances.at(-1).text,b.pages[1].en);
- assert.match(audioDom.window.document.getElementById('toast').textContent,/AI配音暂时不可用/);
+ assert.match(audioDom.window.document.getElementById('toast').textContent,/朗读暂时不可用/);
  click(audioDom,'[data-go="shelf"]');click(audioDom,`[data-book="${b.id}"]`);click(audioDom,'[data-action="credits"]');
  assert.match(audioDom.window.document.querySelector('.credit').textContent,/AI合成配音/);
  assert.match(audioDom.window.document.querySelector('.credit').textContent,/不是原版真人录音/);
@@ -156,3 +156,4 @@ if(wordlessIndex<wordlessBook.pages.length-1){
 }
 console.log('PASS human, fixed AI and device narration, explicit fallback, linked credits, continuous play and stop on navigation');
 for(const d of [dom,reload,legacy,audioDom])d.window.close();
+
