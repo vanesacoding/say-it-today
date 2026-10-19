@@ -78,6 +78,15 @@ jobs:
                   assert.ok(result.buttons.every(h=>h>=44));
                 }
               }
+              await page.locator('.bottomNav [data-go="shelf"]').click();
+              await page.locator('[data-book="0087"]').click();
+              await page.locator('[data-go="reader"]').click();
+              await page.locator('[data-action="companion"]').click();
+              for(const end of [false,true]) {
+                await page.evaluate(end=>window.scrollTo(0,end?document.documentElement.scrollHeight:0),end);
+                const header=await page.locator('.readerHeader').evaluate(el=>{const r=el.getBoundingClientRect();return {top:r.top,bottom:r.bottom,height:r.height,position:getComputedStyle(el).position,title:el.querySelector('.heading').textContent}});
+                assert.equal(header.position,'sticky');assert.ok(Math.abs(header.top)<2);assert.ok(header.height>=54&&header.bottom<height);assert.ok(header.title.includes('I like to read!'));
+              }
               await page.close();
             }
             console.log('PASS fixed navigation: home/shelf/mine, 4 viewports, top and bottom scroll positions');

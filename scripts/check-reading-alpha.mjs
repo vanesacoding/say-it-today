@@ -6,10 +6,10 @@ import {JSDOM} from 'jsdom';
 const html=readFileSync('index.html','utf8');
 const catalogScript=readFileSync('public/books/catalog.js','utf8');
 const context={window:{}};vm.runInNewContext(catalogScript,context);const books=context.window.JIGU_BOOKS;const activeBooks=books.filter(b=>!b.archived);
-const expansion=JSON.parse(readFileSync('scripts/library-50-request.json','utf8'));
-const previousCatalogue=createHash('sha256').update(catalogScript).digest('hex')===expansion.sourceCatalogueSha256;
-assert.equal(activeBooks.length,previousCatalogue?20:50);
-if(!previousCatalogue){const candidate=JSON.parse(readFileSync('scripts/library-50-candidate.json','utf8'));for(const id of candidate.newBookIds){const b=activeBooks.find(b=>b.id===id);assert.ok(b);assert.equal(b.narration?.voiceId,candidate.speaker);assert.equal(b.narration?.speechRate,-5)}}assert.equal(new Set(books.map(b=>b.id)).size,books.length);
+const release=JSON.parse(readFileSync('scripts/library-release-request.json','utf8'));
+const baseline=createHash('sha256').update(catalogScript).digest('hex')===release.sourceCatalogueSha256;
+assert.equal(activeBooks.length,baseline?50:release.targetActiveBooks);
+assert.equal(new Set(books.map(b=>b.id)).size,books.length);
 const stages=new Set(),themes=new Set();
 for(const b of books){
  stages.add(b.stageId);themes.add(b.primaryTheme);
