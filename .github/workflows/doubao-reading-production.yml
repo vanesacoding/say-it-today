@@ -3,10 +3,11 @@ name: Doubao reading production
 on:
   push:
     branches: [main]
-    paths: [scripts/doubao-production-request.json]
+    paths: [scripts/doubao-production-request.json, scripts/doubao-production-recovery.json]
   workflow_dispatch:
 
 permissions:
+  actions: read
   contents: write
   pages: write
   id-token: write
@@ -35,10 +36,34 @@ jobs:
           python-version: '3.12'
       - run: sudo apt-get update -qq && sudo apt-get install -y ffmpeg
       - run: npm ci
+      - name: Restore verified recording checkpoints
+        if: hashFiles('scripts/doubao-production-recovery.json') != ''
+        uses: actions/download-artifact@v4
+        with:
+          name: jigu-doubao-production
+          run-id: 39224124773
+          github-token: ${{ github.token }}
+          path: .reading-audio/doubao-production
+      - name: Restore previously deployed book media
+        if: hashFiles('scripts/doubao-production-recovery.json') != ''
+        uses: actions/download-artifact@v4
+        with:
+          name: github-pages
+          run-id: 39224124664
+          github-token: ${{ github.token }}
+          path: .reading-audio/previous-pages
+      - name: Reuse verified images and human narration
+        if: hashFiles('scripts/doubao-production-recovery.json') != ''
+        run: tar -xf .reading-audio/previous-pages/artifact.tar -C public ./books/library
       - name: Generate all approved page recordings
         env:
           DOUBAO_SPEECH_API_KEY: ${{ secrets.DOUBAO_SPEECH_API_KEY }}
-        run: python3 scripts/doubao-reading-production.py
+        run: |
+          if [ -f scripts/doubao-production-recovery.json ]; then
+            python3 scripts/doubao-reading-production.py --resume-only
+          else
+            python3 scripts/doubao-reading-production.py
+          fi
       - name: Save recording checkpoints
         if: always()
         uses: actions/upload-artifact@v4
