@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "source": "https://docs.volcengine.com/docs/DoubaoVoice/Tonelist-1?lang=zh",
+  "reviewedAt": "2026-10-19",
+  "policy": {
+    "oneVoicePerBook": true,
+    "labelOnlyVerifiedAccent": true,
+    "keepApprovedExistingRecordings": true,
+    "requireAuditionBeforeProduction": true,
+    "requirePageAudioReviewBeforeRelease": true
+  },
+  "profiles": [
+    {"id":"charlie-us", "name":"Charlie 2.0", "speaker":"ICL_uranus_en_female_charlie_tob", "locale":"en-US", "accentLabel":"美式英语", "status":"existing-user-approved", "speechRate":-5},
+    {"id":"rowan-us", "name":"Rowan", "speaker":"en_male_adam-imitation_uranus_bigtts", "locale":"en-US", "accentLabel":"美式英语", "status":"shortlisted-awaiting-audition", "officialUseCases":["通用场景","有声阅读"]},
+    {"id":"charlotte-gb", "name":"Charlotte", "speaker":"en_female_authoritative-british_uranus_bigtts", "locale":"en-GB", "accentLabel":"英式英语", "status":"shortlisted-awaiting-audition", "officialUseCases":["教学场景","视频配音"]},
+    {"id":"knightley-gb", "name":"Knightley", "speaker":"en_male_knightley_uranus_bigtts", "locale":"en-GB", "accentLabel":"英式英语", "status":"shortlisted-awaiting-audition", "officialUseCases":["有声阅读"]}
+  ]
+}
