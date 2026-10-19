@@ -72,6 +72,8 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--speaker', default=DEFAULT_SPEAKER)
     parser.add_argument('--dry-run', action='store_true')
+    parser.add_argument('--rate', type=int, choices=range(-20, 21), default=-8)
+    parser.add_argument('--variant', choices=['english-natural', 'english-gentle'])
     args = parser.parse_args()
     if not re.fullmatch(r'[A-Za-z0-9_-]{1,128}', args.speaker):
         raise ValueError('Invalid voice ID')
@@ -80,7 +82,7 @@ def main():
         raise ValueError('Audition is limited to 500 characters')
     payload = {'req_params': {'text': text, 'speaker': args.speaker,
                               'audio_params': {'format': 'mp3', 'sample_rate': 24000,
-                                               'speech_rate': -8}}}
+                                               'speech_rate': args.rate}}}
     if args.dry_run:
         print(json.dumps({'characters': len(text), 'payload': payload}, ensure_ascii=False))
         return
@@ -102,6 +104,8 @@ def main():
     except (TimeoutError, urllib.error.URLError):
         raise ValueError('Speech request interrupted; check provider usage before rerunning') from None
     out = ROOT / '.reading-audio/doubao-audition'
+    if args.variant:
+        out = out / args.variant
     out.mkdir(parents=True, exist_ok=True)
     staging = out / 'audition.tmp.mp3'
     staging.write_bytes(data)
@@ -117,7 +121,7 @@ def main():
         raise ValueError('Implausible audition duration')
     staging.replace(out / 'audition.mp3')
     metadata = {'provider': 'Volcengine', 'model': 'seed-tts-2.0', 'speaker': args.speaker,
-                'speechRate': -8, 'text': text, 'characters': len(text), 'usage': usage,
+                'speechRate': args.rate, 'text': text, 'characters': len(text), 'usage': usage,
                 'durationSeconds': duration, 'requestId': request_id,
                 'sha256': hashlib.sha256(data).hexdigest(),
                 'textSha256': hashlib.sha256(text.encode()).hexdigest(), 'excerpts': selected}

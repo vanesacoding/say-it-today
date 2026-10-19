@@ -1,0 +1,40 @@
+name: English narration comparison
+on:
+  push:
+    branches: [main]
+    paths: [scripts/english-audition-request.json]
+permissions:
+  contents: read
+concurrency:
+  group: english-reading-audition
+  cancel-in-progress: false
+jobs:
+  audition:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: sudo apt-get update -qq && sudo apt-get install -y ffmpeg
+      - name: Check script and bounded public sample without billing
+        run: |
+          python3 -m py_compile scripts/doubao-reading-audition.py
+          python3 scripts/doubao-reading-audition.py --speaker ICL_uranus_en_female_charlie_tob --rate 0 --variant english-natural --dry-run
+      - name: Generate two English-specific samples once, without automatic retries
+        env:
+          DOUBAO_SPEECH_API_KEY: ${{ secrets.DOUBAO_SPEECH_API_KEY }}
+        run: |
+          python3 scripts/doubao-reading-audition.py --speaker ICL_uranus_en_female_charlie_tob --rate 0 --variant english-natural
+          python3 scripts/doubao-reading-audition.py --speaker ICL_uranus_en_female_charlie_tob --rate -5 --variant english-gentle
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: jigu-english-narration-comparison
+          path: .reading-audio/doubao-audition/
+          include-hidden-files: true
+          if-no-files-found: warn
+          retention-days: 90
