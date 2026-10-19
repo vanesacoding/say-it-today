@@ -83,6 +83,7 @@ def plan():
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--dry-run', action='store_true')
+    parser.add_argument('--resume-only', action='store_true', help='Require a complete saved batch; never synthesize')
     args = parser.parse_args()
     books, request, initial = plan()
     if args.dry_run:
@@ -101,6 +102,8 @@ def main():
     if [(p['bookId'], p['pageIndex'], p['textSha256']) for p in ledger['pages']] != [
             (p['bookId'], p['pageIndex'], p['textSha256']) for p in initial['pages']]:
         raise ValueError('Checkpoint pages differ from the approved source')
+    if args.resume_only and any(p['status'] != 'completed' for p in ledger['pages']):
+        raise ValueError('Resume-only publication requires all 150 completed checkpoints')
     write_json(ledger_path, ledger)
     for number, entry in enumerate(ledger['pages'], 1):
         checkpoint = OUT / entry['bookId'] / f'{entry["pageIndex"] + 1:02d}.mp3'
