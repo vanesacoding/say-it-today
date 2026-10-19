@@ -1482,11 +1482,11 @@ window.JIGU_BOOKS = [
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Mr Sloth is sleepy and yawning.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/01.jpg",
-        "audioFile": "audio/01-46059997f9657b9e.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/01-46059997f9657b9e.mp3",
-        "sourceAudioSha256": "46059997f9657b9e11c266449341e60ae3dd3adc8a7ee92ed096d65309b83e9a",
+        "audioFile": "audio/01-9280cad4eab115f7.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/01-9280cad4eab115f7.mp3",
+        "sourceAudioSha256": "9280cad4eab115f77c763e54079e99e55105d7e90f24aa895a6a02fdb7c1d719",
         "sourceAudioTextSha256": "818cfdb2e077139a3513f55cacf2a10c18fb4d75aa29b73bf1cab7756aaf8575",
-        "audioDurationSeconds": 10.512,
+        "audioDurationSeconds": 6.792,
         "imageWidth": 1024,
         "imageHeight": 1021
       },
@@ -1496,11 +1496,11 @@ window.JIGU_BOOKS = [
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Mr Sloth starts climbing the tree.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/02.jpg",
-        "audioFile": "audio/02-ff91889ced29c624.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/02-ff91889ced29c624.mp3",
-        "sourceAudioSha256": "ff91889ced29c624e06e623c12aa2dc55e3372fd721a30bb5f48014c199d45e7",
+        "audioFile": "audio/02-9b65f50e2816c0f3.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/02-9b65f50e2816c0f3.mp3",
+        "sourceAudioSha256": "9b65f50e2816c0f327dbbf3c06c97b40ba5260df7df0fb0267f9f05c015a0988",
         "sourceAudioTextSha256": "bd9140d60120accc72c31f95c927ded84c8eaa1ee008507eb1208c88576acab9",
-        "audioDurationSeconds": 9.84,
+        "audioDurationSeconds": 6.576,
         "imageWidth": 1024,
         "imageHeight": 1023
       },
@@ -1510,11 +1510,11 @@ window.JIGU_BOOKS = [
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Mr Sloth spots a branch. Is that a big ear nearby?",
         "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/03.jpg",
-        "audioFile": "audio/03-a488ebdd699cea57.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/03-a488ebdd699cea57.mp3",
-        "sourceAudioSha256": "a488ebdd699cea57a6db5244fc30ff2e2fe43d9fb3bfc6b70fdc35f0331d0d23",
+        "audioFile": "audio/03-77ab51efc665abb3.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/03-77ab51efc665abb3.mp3",
+        "sourceAudioSha256": "77ab51efc665abb38669cad10eb16debe37fc18b9adab5a4ad6ed18df480d30b",
         "sourceAudioTextSha256": "fcc621d41b428e91ee325d3d3c8cc037af5f194d2b421da16a3dd00f3ce966e5",
-        "audioDurationSeconds": 10.728,
+        "audioDurationSeconds": 7.032,
         "imageWidth": 1024,
         "imageHeight": 1021
       },
@@ -1524,11 +1524,11 @@ window.JIGU_BOOKS = [
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "A giraffe bites Mr Sloth by mistake!",
         "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/04.jpg",
-        "audioFile": "audio/04-57fbe026cc16c036.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/04-57fbe026cc16c036.mp3",
-        "sourceAudioSha256": "57fbe026cc16c0362e4c1b1940afa6f70a371e5a573462ed4e18a283cebf9335",
+        "audioFile": "audio/04-f01ea4827944a82e.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/04-f01ea4827944a82e.mp3",
+        "sourceAudioSha256": "f01ea4827944a82e3d543310b370aa8e43cec50de707c5ce236db12d806d5ae9",
         "sourceAudioTextSha256": "0b619e2905626503470bb497b23c1cdcf99e852ae226498b30d72e514117080e",
-        "audioDurationSeconds": 11.352,
+        "audioDurationSeconds": 7.416,
         "imageWidth": 1024,
         "imageHeight": 1021
       },
@@ -1538,11 +1538,11 @@ window.JIGU_BOOKS = [
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Mr Sloth spots a branch. There are a few bees flying around.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/05.jpg",
-        "audioFile": "audio/05-064a5eecd1c9acbe.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/05-064a5eecd1c9acbe.mp3",
-        "sourceAudioSha256": "064a5eecd1c9acbeb0c73e917089d2e5ebcb20857031ab4fa124da871a3d3dcc",
+        "audioFile": "audio/05-539a84125ead19c4.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/05-539a84125ead19c4.mp3",
+        "sourceAudioSha256": "539a84125ead19c46871a743fbc1100d48e4fec505066f14d23f6d833a526d52",
         "sourceAudioTextSha256": "fcc621d41b428e91ee325d3d3c8cc037af5f194d2b421da16a3dd00f3ce966e5",
-        "audioDurationSeconds": 11.352,
+        "audioDurationSeconds": 6.768,
         "imageWidth": 1024,
         "imageHeight": 1023
       },
@@ -1552,11 +1552,11 @@ window.JIGU_BOOKS = [
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Bees fly out of a beehive around Mr Sloth!",
         "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/06.jpg",
-        "audioFile": "audio/06-9f48a3f941bf0b28.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/06-9f48a3f941bf0b28.mp3",
-        "sourceAudioSha256": "9f48a3f941bf0b289eed5f1fdd014969f7873225c44c5a2fe434641603373a1d",
+        "audioFile": "audio/06-4cccc5af075bc843.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/06-4cccc5af075bc843.mp3",
+        "sourceAudioSha256": "4cccc5af075bc84334b86ed338229030947b4d8e70cb2608bb90fd8e4142e1c0",
         "sourceAudioTextSha256": "cc8fe2f2b116bbe5dcb050d214e3058591f69fddc0b3f58421ee23d4069f68b7",
-        "audioDurationSeconds": 10.944,
+        "audioDurationSeconds": 7.008,
         "imageWidth": 1024,
         "imageHeight": 976
       },
@@ -1566,11 +1566,11 @@ window.JIGU_BOOKS = [
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Mr Sloth spots a branch. There is a tail nearby.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/07.jpg",
-        "audioFile": "audio/07-8b0d356d2d8daccd.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/07-8b0d356d2d8daccd.mp3",
-        "sourceAudioSha256": "8b0d356d2d8daccdad30c5152b79fadead31fa37fd8770dd3040baa6d68df512",
+        "audioFile": "audio/07-c296a075ba1a31ed.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/07-c296a075ba1a31ed.mp3",
+        "sourceAudioSha256": "c296a075ba1a31ed9c42101449d5e3340bc95bad003d5ffdfab30142b850bed0",
         "sourceAudioTextSha256": "fcc621d41b428e91ee325d3d3c8cc037af5f194d2b421da16a3dd00f3ce966e5",
-        "audioDurationSeconds": 11.64,
+        "audioDurationSeconds": 6.6,
         "imageWidth": 1024,
         "imageHeight": 1023
       },
@@ -1580,11 +1580,11 @@ window.JIGU_BOOKS = [
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Mr Sloth grabs snake by mistake!",
         "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/08.jpg",
-        "audioFile": "audio/08-1a2d837eb712ca97.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/08-1a2d837eb712ca97.mp3",
-        "sourceAudioSha256": "1a2d837eb712ca973e2d7d313e9fceb951f4ac62f5fc738a1dbee25181fe882e",
+        "audioFile": "audio/08-acb172ad97b65a4c.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/08-acb172ad97b65a4c.mp3",
+        "sourceAudioSha256": "acb172ad97b65a4c65ec3fef807d0ae28ae4a0a974e30ee622a9646295300e17",
         "sourceAudioTextSha256": "8363aa9cb21bd446f5e84ec790dda9df41278fbdce15fc13a6c6c4b2e2a686e9",
-        "audioDurationSeconds": 12.504,
+        "audioDurationSeconds": 7.632,
         "imageWidth": 1024,
         "imageHeight": 1024
       },
@@ -1594,11 +1594,11 @@ window.JIGU_BOOKS = [
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Mr Sloth spots a branch. There are feet nearby.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/09.jpg",
-        "audioFile": "audio/09-23c92189dbaee7da.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/09-23c92189dbaee7da.mp3",
-        "sourceAudioSha256": "23c92189dbaee7dab52114feba7add0c3708797ed3cabbe8ea2dbdebe6816564",
+        "audioFile": "audio/09-d4e5e2c26c4da97d.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/09-d4e5e2c26c4da97d.mp3",
+        "sourceAudioSha256": "d4e5e2c26c4da97d0ebe92a58e3487e7bdf875604ef03fe149d7c9e5f3102bad",
         "sourceAudioTextSha256": "fcc621d41b428e91ee325d3d3c8cc037af5f194d2b421da16a3dd00f3ce966e5",
-        "audioDurationSeconds": 10.344,
+        "audioDurationSeconds": 6.984,
         "imageWidth": 1024,
         "imageHeight": 1023
       },
@@ -1608,11 +1608,11 @@ window.JIGU_BOOKS = [
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "A hadeda is squawking loudly there!",
         "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/10.jpg",
-        "audioFile": "audio/10-4a092bfcfe933093.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/10-4a092bfcfe933093.mp3",
-        "sourceAudioSha256": "4a092bfcfe9330935d238c573811ffd2906137b510cc050a547b49ba72f08e3d",
+        "audioFile": "audio/10-15fc0801d1a693c2.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/10-15fc0801d1a693c2.mp3",
+        "sourceAudioSha256": "15fc0801d1a693c2a702aee500be6065553e2409aa6ceb34729660615ed3739c",
         "sourceAudioTextSha256": "117df723d2b7b10a551fb61bb15e4d804e2b34aa681cec4254bceda930867e4a",
-        "audioDurationSeconds": 10.488,
+        "audioDurationSeconds": 6.36,
         "imageWidth": 1024,
         "imageHeight": 1021
       },
@@ -1622,11 +1622,11 @@ window.JIGU_BOOKS = [
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Mr Sloth climbs to the top of the tree and smiles.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/11.jpg",
-        "audioFile": "audio/11-9622ad9bdceb7a82.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/11-9622ad9bdceb7a82.mp3",
-        "sourceAudioSha256": "9622ad9bdceb7a822171e17265510c79a2cebe870132b063b5cad47f5820f3b7",
+        "audioFile": "audio/11-83c5f9917e603b02.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/11-83c5f9917e603b02.mp3",
+        "sourceAudioSha256": "83c5f9917e603b020d5fc8078a47a2091b6d9980daf6f654c2baf0eb57e0b95e",
         "sourceAudioTextSha256": "4e7b0ca66ec4975546adda426c95c77e54d49bc1ecd573b03724ee2a5b6ed1fb",
-        "audioDurationSeconds": 12.048,
+        "audioDurationSeconds": 7.176,
         "imageWidth": 1024,
         "imageHeight": 1023
       },
@@ -1636,11 +1636,11 @@ window.JIGU_BOOKS = [
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Mr Sloth and the animals are all sleeping nicely in the tree together.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/12.jpg",
-        "audioFile": "audio/12-aacf1c1ca37807af.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/12-aacf1c1ca37807af.mp3",
-        "sourceAudioSha256": "aacf1c1ca37807af0a0f6ec9440f6cafd682fa2b905e20242a3b30e64c8ed519",
+        "audioFile": "audio/12-1fa796b6cf2f3021.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/12-1fa796b6cf2f3021.mp3",
+        "sourceAudioSha256": "1fa796b6cf2f3021c1ebcd162eab8c90f6f9af1f3f695f57aad497b56ca22fe8",
         "sourceAudioTextSha256": "4f72a58cb083ec6cc350e93476a1947b9f26875bd3f8106e34cfcb5ec6db3573",
-        "audioDurationSeconds": 9.6,
+        "audioDurationSeconds": 6.336,
         "imageWidth": 1024,
         "imageHeight": 1023
       }
@@ -1674,13 +1674,14 @@ window.JIGU_BOOKS = [
       "kind": "ai",
       "provider": "Volcengine",
       "model": "seed-tts-2.0",
-      "voice": "天才童声2.0",
-      "voiceId": "zh_male_tiancaitongsheng_uranus_bigtts",
+      "voice": "Charlie 2.0 美式英语（轻柔慢速）",
+      "voiceId": "ICL_uranus_en_female_charlie_tob",
       "voiceType": "preset",
-      "speechRate": -8,
+      "speechRate": -5,
       "pitchRate": 0,
-      "approvedAuditionRunId": 39222587639,
-      "adaptation": "AI narration produced by Jigu from the original English text."
+      "approvedAuditionRunId": 39233953938,
+      "adaptation": "AI narration produced by Jigu from the attributed English text.",
+      "approvedVariant": "english-gentle"
     }
   },
   {
@@ -3730,11 +3731,11 @@ window.JIGU_BOOKS = [
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Tinny Tim is a toy robot. A blue button bounces up to him.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/01.jpg",
-        "audioFile": "audio/01-83f93e5cf56d767c.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/01-83f93e5cf56d767c.mp3",
-        "sourceAudioSha256": "83f93e5cf56d767c70dcb6b4f5d10cc34c9b46a44ad3b38615b99639e1ce020e",
+        "audioFile": "audio/01-0105d22751006d75.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/01-0105d22751006d75.mp3",
+        "sourceAudioSha256": "0105d22751006d75a15503b660a673ffc7675ac50e9d522a1a067feebeacf4a2",
         "sourceAudioTextSha256": "b8763cba26e4b45de01c0a5585f5592b4fd918846efb5700ba6fc482ae4867bc",
-        "audioDurationSeconds": 7.248,
+        "audioDurationSeconds": 4.224,
         "imageWidth": 567,
         "imageHeight": 567
       },
@@ -3744,11 +3745,11 @@ window.JIGU_BOOKS = [
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Tinny Tim carries the button. He walks with determination.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/02.jpg",
-        "audioFile": "audio/02-cef401d77b7b8c8e.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/02-cef401d77b7b8c8e.mp3",
-        "sourceAudioSha256": "cef401d77b7b8c8e48c2773838e6c05825dfe041fa6a5b5b7a6018db6b27cae4",
+        "audioFile": "audio/02-abddb9079883eac0.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/02-abddb9079883eac0.mp3",
+        "sourceAudioSha256": "abddb9079883eac0ddb4b5edb864a78f706821180386222931ba6218ec849300",
         "sourceAudioTextSha256": "e5e183bfc61b9983b4d60083ff9c963541cdebde897f33bde302c3ad035952c8",
-        "audioDurationSeconds": 7.464,
+        "audioDurationSeconds": 5.088,
         "imageWidth": 567,
         "imageHeight": 567
       },
@@ -3758,11 +3759,11 @@ window.JIGU_BOOKS = [
         "tip": "这是小机器人的冒险故事。现实中过马路要和家长牵手，不跑到车道上。",
         "alt": "Tinny Tim almost gets squashed under someone's red shoe.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/03.jpg",
-        "audioFile": "audio/03-6714f6436f17f74a.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/03-6714f6436f17f74a.mp3",
-        "sourceAudioSha256": "6714f6436f17f74af150f35bad2f762e8213ead9b0a4befa5a7d660486652c8e",
+        "audioFile": "audio/03-32c0203b4111406e.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/03-32c0203b4111406e.mp3",
+        "sourceAudioSha256": "32c0203b4111406ebb92b8671636619930bcc5098243748c9742171ea5bc32ae",
         "sourceAudioTextSha256": "70488f07314a94e6f4940e501895e0e2c65a3505e732f24a279471705a4b2a24",
-        "audioDurationSeconds": 8.304,
+        "audioDurationSeconds": 5.064,
         "imageWidth": 567,
         "imageHeight": 567
       },
@@ -3772,11 +3773,11 @@ window.JIGU_BOOKS = [
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Tinny Tim holds onto the shoe lace. He swings through the air.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/04.jpg",
-        "audioFile": "audio/04-09aa5678bf3fe55d.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/04-09aa5678bf3fe55d.mp3",
-        "sourceAudioSha256": "09aa5678bf3fe55d812cbb9b111f44e93e77d736d14227c657f4a72e96afb6f2",
+        "audioFile": "audio/04-0204541e34809704.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/04-0204541e34809704.mp3",
+        "sourceAudioSha256": "0204541e348097040b4945b38ab632d07a36229918d98253377c6a9837bb9326",
         "sourceAudioTextSha256": "7ce6ec22ae45022e622acf42ecf3c337bccbbef69c618eb1b23f3aba36c81caa",
-        "audioDurationSeconds": 7.704,
+        "audioDurationSeconds": 4.68,
         "imageWidth": 567,
         "imageHeight": 567
       },
@@ -3786,11 +3787,11 @@ window.JIGU_BOOKS = [
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Tinny Tim looks up to the green man on the traffic light.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/05.jpg",
-        "audioFile": "audio/05-79371d52ee761123.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/05-79371d52ee761123.mp3",
-        "sourceAudioSha256": "79371d52ee761123efe1207df0ea615c25d931c30cbfd25ee5e3d41965b81671",
+        "audioFile": "audio/05-f1b162eff8bc0d49.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/05-f1b162eff8bc0d49.mp3",
+        "sourceAudioSha256": "f1b162eff8bc0d49a234d0227d077e7e91dcf2bd788fef9bcaacd9d71b9c7541",
         "sourceAudioTextSha256": "3a324e375a490a8f9950b1c9cc662f6cde817d6b8eb5888e97759e2c9acf9e11",
-        "audioDurationSeconds": 3.936,
+        "audioDurationSeconds": 2.544,
         "imageWidth": 567,
         "imageHeight": 567
       },
@@ -3800,11 +3801,11 @@ window.JIGU_BOOKS = [
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "The green man changes to a red man.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/06.jpg",
-        "audioFile": "audio/06-1a447525faef8010.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/06-1a447525faef8010.mp3",
-        "sourceAudioSha256": "1a447525faef80107bde09b9c9cd709db33bd31b02665e94bf426afc9f28f095",
+        "audioFile": "audio/06-13ecda75567cac41.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/06-13ecda75567cac41.mp3",
+        "sourceAudioSha256": "13ecda75567cac41e6361acb78fea25ebaedbacd79d9be1d5d62082b4562a099",
         "sourceAudioTextSha256": "68d64db020da1078ccd1d2ceaacc1ff47cd8b0ced8444e1a2b7ee7681111f76e",
-        "audioDurationSeconds": 7.248,
+        "audioDurationSeconds": 5.52,
         "imageWidth": 567,
         "imageHeight": 567
       },
@@ -3814,11 +3815,11 @@ window.JIGU_BOOKS = [
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Tinny Tim sees a dog in the distance.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/07.jpg",
-        "audioFile": "audio/07-b6a143cc4749da3b.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/07-b6a143cc4749da3b.mp3",
-        "sourceAudioSha256": "b6a143cc4749da3be5c50cff2ca1b3c83f17e645f0f14f48ed0c6f90bb7f9064",
+        "audioFile": "audio/07-b8eb36adb72aef24.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/07-b8eb36adb72aef24.mp3",
+        "sourceAudioSha256": "b8eb36adb72aef24f4901065e2a671ab449c36be2497d1fb84750fe68dd6e7ac",
         "sourceAudioTextSha256": "25cfdfc0d725895c98f70379f4cd4d4acf0bcaae21f7cce62e0bddfe8c68b1ce",
-        "audioDurationSeconds": 7.848,
+        "audioDurationSeconds": 4.248,
         "imageWidth": 567,
         "imageHeight": 567
       },
@@ -3828,11 +3829,11 @@ window.JIGU_BOOKS = [
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "The dog licks Tinny Tim. He gets covered in dog drool.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/08.jpg",
-        "audioFile": "audio/08-23a45ed77143dfb9.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/08-23a45ed77143dfb9.mp3",
-        "sourceAudioSha256": "23a45ed77143dfb9b801e73ba11691cbf12c774518b7e12f2a712b48cd36e880",
+        "audioFile": "audio/08-8334daaa44a31523.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/08-8334daaa44a31523.mp3",
+        "sourceAudioSha256": "8334daaa44a31523198f0511d8879ab5fc09fffe5701f3de2079f948c8096bc1",
         "sourceAudioTextSha256": "6ee30692f6ca7d5c4e344a16e8c4153fcbc1edbf735e20761046e2490417e48f",
-        "audioDurationSeconds": 4.392,
+        "audioDurationSeconds": 2.976,
         "imageWidth": 567,
         "imageHeight": 567
       },
@@ -3842,11 +3843,11 @@ window.JIGU_BOOKS = [
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Tinny Tim holds the button. He stands at a pedestrian crossing.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/09.jpg",
-        "audioFile": "audio/09-d4c5a0ac3ed8b075.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/09-d4c5a0ac3ed8b075.mp3",
-        "sourceAudioSha256": "d4c5a0ac3ed8b0757facaddf5359879ac22971b1756f4454a16e2cf3d5b131b6",
+        "audioFile": "audio/09-5b8976a371faba29.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/09-5b8976a371faba29.mp3",
+        "sourceAudioSha256": "5b8976a371faba290f8d60f3155c7acba94201667d5dfd18699c96147fd211d0",
         "sourceAudioTextSha256": "e1c9b711faea50ad23bb6f22b9ffd15bc4750f2ef94aa7fd5791570232c517c4",
-        "audioDurationSeconds": 7.224,
+        "audioDurationSeconds": 4.68,
         "imageWidth": 567,
         "imageHeight": 567
       },
@@ -3856,11 +3857,11 @@ window.JIGU_BOOKS = [
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "A car drives through a puddle and he gets splashed.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/10.jpg",
-        "audioFile": "audio/10-ee0cbdbd66e40e62.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/10-ee0cbdbd66e40e62.mp3",
-        "sourceAudioSha256": "ee0cbdbd66e40e62c2c150e1d853b0b8bd10cf55a49dd0c789dc901c0c82532f",
+        "audioFile": "audio/10-8b064b801224ed6a.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/10-8b064b801224ed6a.mp3",
+        "sourceAudioSha256": "8b064b801224ed6a669f5aae5f8aaa65f967137f318467c7cc2c2b2256d0ee52",
         "sourceAudioTextSha256": "009aa2529a581a127ef074db4925dfa1031fd32767f991da966954e7538748d5",
-        "audioDurationSeconds": 9.192,
+        "audioDurationSeconds": 6.792,
         "imageWidth": 567,
         "imageHeight": 567
       },
@@ -3870,11 +3871,11 @@ window.JIGU_BOOKS = [
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Tinny Tim holds the button in the air.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/11.jpg",
-        "audioFile": "audio/11-fb3425babceb2a6a.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/11-fb3425babceb2a6a.mp3",
-        "sourceAudioSha256": "fb3425babceb2a6a1cf76edde638c2272cd10d333936ad0cf69c42bc7c0fd5b1",
+        "audioFile": "audio/11-8b201b5d608ba2be.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/11-8b201b5d608ba2be.mp3",
+        "sourceAudioSha256": "8b201b5d608ba2be2351a863c7fdfd8d796d95152a50cb0bf334c2f1c5a2d9ca",
         "sourceAudioTextSha256": "599e9868f936f76f1ca35785acb2640ccc821a1e2665123429b00c72d8b8b034",
-        "audioDurationSeconds": 7.008,
+        "audioDurationSeconds": 5.088,
         "imageWidth": 567,
         "imageHeight": 567
       },
@@ -3884,11 +3885,11 @@ window.JIGU_BOOKS = [
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Ruby Rags is a doll with buttons for eyes. She is missing one eye.",
         "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/12.jpg",
-        "audioFile": "audio/12-4c724f207501cc63.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/12-4c724f207501cc63.mp3",
-        "sourceAudioSha256": "4c724f207501cc631ac8a24cc5455f05384fe25b2b01d8da58a9a9c0159c6a30",
+        "audioFile": "audio/12-1a743dee38b26d1e.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/12-1a743dee38b26d1e.mp3",
+        "sourceAudioSha256": "1a743dee38b26d1e3f542748c2fa6ebdd10ba64699ccfea9a801ec01c14421ea",
         "sourceAudioTextSha256": "a07e57ac3b813ff598b3bcadbd0a9efbea26d69764cedad023f121c33a6d0913",
-        "audioDurationSeconds": 6.816,
+        "audioDurationSeconds": 4.68,
         "imageWidth": 567,
         "imageHeight": 567
       },
@@ -3898,11 +3899,11 @@ window.JIGU_BOOKS = [
         "tip": "先看画面，再听这一句。孩子可以指一指、做动作，或用中文聊一聊。",
         "alt": "Ruby Rags and Tinny Tim sit next to each other. Ruby has both eyes!",
         "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/13.jpg",
-        "audioFile": "audio/13-dfbc88f2cbdf691d.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/13-dfbc88f2cbdf691d.mp3",
-        "sourceAudioSha256": "dfbc88f2cbdf691da6c1f31ee4bd1befbfdc04ce286afa0c1dbb66a0fe4b665e",
+        "audioFile": "audio/13-a1e4b806127e82a7.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/13-a1e4b806127e82a7.mp3",
+        "sourceAudioSha256": "a1e4b806127e82a7156f5b28bf1773fcdfb1af0b1d3ada32b67f2aa5023e8b9a",
         "sourceAudioTextSha256": "cad48b16b2b8f7e2f1b202c81ec93302d715cd296bdffbd312d144de0a03f621",
-        "audioDurationSeconds": 5.496,
+        "audioDurationSeconds": 3.648,
         "imageWidth": 567,
         "imageHeight": 567
       }
@@ -3936,13 +3937,14 @@ window.JIGU_BOOKS = [
       "kind": "ai",
       "provider": "Volcengine",
       "model": "seed-tts-2.0",
-      "voice": "天才童声2.0",
-      "voiceId": "zh_male_tiancaitongsheng_uranus_bigtts",
+      "voice": "Charlie 2.0 美式英语（轻柔慢速）",
+      "voiceId": "ICL_uranus_en_female_charlie_tob",
       "voiceType": "preset",
-      "speechRate": -8,
+      "speechRate": -5,
       "pitchRate": 0,
-      "approvedAuditionRunId": 39222587639,
-      "adaptation": "AI narration produced by Jigu from the original English text."
+      "approvedAuditionRunId": 39233953938,
+      "adaptation": "AI narration produced by Jigu from the attributed English text.",
+      "approvedVariant": "english-gentle"
     }
   },
   {
@@ -3982,11 +3984,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "2bf090803ff28e17cf2508fef75b3815ce79d1bc9c57bcc6324bc5313b1eb140",
         "imageWidth": 501,
         "imageHeight": 546,
-        "audioFile": "audio/01-ad1ea8acc70f0733.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0130/audio/01-ad1ea8acc70f0733.mp3",
-        "sourceAudioSha256": "ad1ea8acc70f0733d523ddcce46a54ce27efd6dd1f5642032f1e5d2e4382fff8",
+        "audioFile": "audio/01-14e684dedcb9e9b8.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0130/audio/01-14e684dedcb9e9b8.mp3",
+        "sourceAudioSha256": "14e684dedcb9e9b8cee48fc02e55afea9697fcc52cb20c257cadd69a7357ac83",
         "sourceAudioTextSha256": "6b167766775d3c7a94f35124266f9d7d3570872f0823adf225929158c3aa6d26",
-        "audioDurationSeconds": 2.664
+        "audioDurationSeconds": 1.728
       },
       {
         "en": "We ran to look at grandma's cow.",
@@ -3998,11 +4000,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "0deccaa3e5ec08290709a6f83e28a765b5208980478a5454b0e0c6731c6d2e15",
         "imageWidth": 501,
         "imageHeight": 546,
-        "audioFile": "audio/02-c04ab46a3bbef9bf.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0130/audio/02-c04ab46a3bbef9bf.mp3",
-        "sourceAudioSha256": "c04ab46a3bbef9bf6c5d37545d2467b9b07265e92c3aed396d6abbe78837efa9",
+        "audioFile": "audio/02-f46504626016ad47.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0130/audio/02-f46504626016ad47.mp3",
+        "sourceAudioSha256": "f46504626016ad47db6450f368454dcb47a3e0fc9bad695188a03bb91d7292f3",
         "sourceAudioTextSha256": "de0faece13b238623aaa9416218898a74a3928dd729d9d8aaedb2b20879441ee",
-        "audioDurationSeconds": 4.416
+        "audioDurationSeconds": 2.784
       },
       {
         "en": "I caught up with her.",
@@ -4014,11 +4016,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "067a03dd31cdaf6feb7d8e6996840c4276b7d5086a1f65a388a29139539e4738",
         "imageWidth": 501,
         "imageHeight": 546,
-        "audioFile": "audio/03-83f64cd621cd8f01.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0130/audio/03-83f64cd621cd8f01.mp3",
-        "sourceAudioSha256": "83f64cd621cd8f0157bf2262e2871af20a810ad436455408d3b50e31397a07fb",
+        "audioFile": "audio/03-b8becc4f3ca7d908.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0130/audio/03-b8becc4f3ca7d908.mp3",
+        "sourceAudioSha256": "b8becc4f3ca7d9082348a3779152e52bfb2ea579ff18b26841865c3aa10e0d0c",
         "sourceAudioTextSha256": "1cf9d387f477e3a16bb435576d8aa93d6c11345997d8a670a349b0e5d94a01ac",
-        "audioDurationSeconds": 2.904
+        "audioDurationSeconds": 1.704
       },
       {
         "en": "I ran away from her.",
@@ -4030,11 +4032,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "baec65287f4464103162f8c37508d3ca17faf852e5021ca4d42bf73b0ca18a6c",
         "imageWidth": 501,
         "imageHeight": 546,
-        "audioFile": "audio/04-a462ea9911fc2feb.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0130/audio/04-a462ea9911fc2feb.mp3",
-        "sourceAudioSha256": "a462ea9911fc2febfbfb9e427d9471fe01884356500da50c37a1915228220930",
+        "audioFile": "audio/04-569904336e4d191a.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0130/audio/04-569904336e4d191a.mp3",
+        "sourceAudioSha256": "569904336e4d191ae4134ada19469bd47cdb70bf2a3699ad5f7c9977afb75ca6",
         "sourceAudioTextSha256": "644d60a1206ee97a0e9733b055b1260860a0a4838a90f614c4c781b68b19fe50",
-        "audioDurationSeconds": 3.336
+        "audioDurationSeconds": 1.968
       },
       {
         "en": "Grandma got very tired.",
@@ -4046,11 +4048,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "7b92db26f7bd93dc6f1982548f2b817a514c7fb8286d4772b5628579b6b51378",
         "imageWidth": 501,
         "imageHeight": 546,
-        "audioFile": "audio/05-65498ad9eee109e1.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0130/audio/05-65498ad9eee109e1.mp3",
-        "sourceAudioSha256": "65498ad9eee109e1e21f5be1dde271e65cc08e268d371b312cbe668c77e3655e",
+        "audioFile": "audio/05-de22bf54195e7a75.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0130/audio/05-de22bf54195e7a75.mp3",
+        "sourceAudioSha256": "de22bf54195e7a75ddf41132ebe1642a539be3ac9921b9246ee3d0bb86374cc0",
         "sourceAudioTextSha256": "177002ec5c8a1b68be5f004992eb765189c890e6eb72b85a9d12479a599fbe4a",
-        "audioDurationSeconds": 3.504
+        "audioDurationSeconds": 2.376
       }
     ],
     "keywords": [
@@ -4082,13 +4084,14 @@ window.JIGU_BOOKS = [
       "kind": "ai",
       "provider": "Volcengine",
       "model": "seed-tts-2.0",
-      "voice": "天才童声2.0",
-      "voiceId": "zh_male_tiancaitongsheng_uranus_bigtts",
+      "voice": "Charlie 2.0 美式英语（轻柔慢速）",
+      "voiceId": "ICL_uranus_en_female_charlie_tob",
       "voiceType": "preset",
-      "speechRate": -8,
+      "speechRate": -5,
       "pitchRate": 0,
-      "approvedAuditionRunId": 39222587639,
-      "adaptation": "AI narration produced by Jigu from the attributed English text, with disclosed minor copy edits."
+      "approvedAuditionRunId": 39233953938,
+      "adaptation": "AI narration produced by Jigu from the attributed English text.",
+      "approvedVariant": "english-gentle"
     }
   },
   {
@@ -4128,11 +4131,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "f392a8d46e2084a25bb8f9beb4497a31f5b1086ddbd132238823ca7329e49da8",
         "imageWidth": 558,
         "imageHeight": 546,
-        "audioFile": "audio/01-fa1cf67f3da781fb.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0060/audio/01-fa1cf67f3da781fb.mp3",
-        "sourceAudioSha256": "fa1cf67f3da781fbf217f8517ee3d80e7316c5ac763eaa35ac01bdac12811772",
+        "audioFile": "audio/01-9227665d04611a4a.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0060/audio/01-9227665d04611a4a.mp3",
+        "sourceAudioSha256": "9227665d04611a4a89debb7a526b1df6f48dae442a25b619aa875fa54de48e88",
         "sourceAudioTextSha256": "1a38c71d9541ae33cb6d50d961f4be0d6cb03b6edbea9f1dc57d54f6ecc4a7f5",
-        "audioDurationSeconds": 5.088
+        "audioDurationSeconds": 3.216
       },
       {
         "en": "She entered a new class and met new friends.",
@@ -4144,11 +4147,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "0117a609db920e67fa292819a734fa1bff3af7f2e6b29c9c976196510ffd622a",
         "imageWidth": 544,
         "imageHeight": 546,
-        "audioFile": "audio/02-9462391676d7c648.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0060/audio/02-9462391676d7c648.mp3",
-        "sourceAudioSha256": "9462391676d7c6489d44fe38271eb9edd21f7a3a437fee7625827aebc2136029",
+        "audioFile": "audio/02-a6d49d9c8212bfc9.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0060/audio/02-a6d49d9c8212bfc9.mp3",
+        "sourceAudioSha256": "a6d49d9c8212bfc9dd67bbdd41a103ccff58fe09b86a445ff4da32c6637b1ec0",
         "sourceAudioTextSha256": "520f9f9fcb8648e49a13cad05e8954387bf7380d8fee165bc8dec51b28b3d9cb",
-        "audioDurationSeconds": 5.976
+        "audioDurationSeconds": 3.408
       },
       {
         "en": "Nakitto likes picture books.",
@@ -4160,11 +4163,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "737618b7b15fee83ede18229819cda492251eb23e43c1e2da9a609675a18cbef",
         "imageWidth": 539,
         "imageHeight": 546,
-        "audioFile": "audio/03-615686e40431cd81.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0060/audio/03-615686e40431cd81.mp3",
-        "sourceAudioSha256": "615686e40431cd8155dbf369c3f63cd532b4da2696cd91514119f7893fb22384",
+        "audioFile": "audio/03-c11f38daa48f7c91.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0060/audio/03-c11f38daa48f7c91.mp3",
+        "sourceAudioSha256": "c11f38daa48f7c91096a2c81db11b75ac989ea251cf57e569e540a645cb3e5d4",
         "sourceAudioTextSha256": "38bbbdf33b710f87261275283409f32eca79f98c775b5569a9de941ff0aeb013",
-        "audioDurationSeconds": 4.392
+        "audioDurationSeconds": 2.376
       },
       {
         "en": "They went out for more lessons.",
@@ -4176,11 +4179,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "096adbfaccabfc17a925f2bf9f2989fc1ae582ccb4f24973ce9205b14b98d1c6",
         "imageWidth": 533,
         "imageHeight": 546,
-        "audioFile": "audio/04-cf540b87618c93dc.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0060/audio/04-cf540b87618c93dc.mp3",
-        "sourceAudioSha256": "cf540b87618c93dc3e2bd141974ef0ed1f81d5cacb3dd33ebc9afc17907f775a",
+        "audioFile": "audio/04-65503c1a6e0332d5.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0060/audio/04-65503c1a6e0332d5.mp3",
+        "sourceAudioSha256": "65503c1a6e0332d53d485b609d373c408b274fa25b1175eee688421f48411f93",
         "sourceAudioTextSha256": "4b89be11e9020ef666b8b039f4e324c01f3fd477e0de7a3b7e9bcbf6a8ee4122",
-        "audioDurationSeconds": 4.632
+        "audioDurationSeconds": 2.376
       },
       {
         "en": "They learn letter sounds.",
@@ -4192,11 +4195,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "45f683dfc97fa5848ece36c4ff16c35e61dc5704cb405f891c43f752e0f2f3e7",
         "imageWidth": 543,
         "imageHeight": 546,
-        "audioFile": "audio/05-e1851e965479eb45.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0060/audio/05-e1851e965479eb45.mp3",
-        "sourceAudioSha256": "e1851e965479eb4568dde94ac398a27df1c188291f225a27a56527acadd2441d",
+        "audioFile": "audio/05-dfa71a1c37bfdf2d.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0060/audio/05-dfa71a1c37bfdf2d.mp3",
+        "sourceAudioSha256": "dfa71a1c37bfdf2d2f8790e3a3a87dd58dc0a60fd5f66f5a1d0f2c6c192382c3",
         "sourceAudioTextSha256": "f3d61d54b0c1f65fc61dc939ca66c8fce30df944ea181f4e785583874d1a8e5e",
-        "audioDurationSeconds": 2.904
+        "audioDurationSeconds": 1.944
       },
       {
         "en": "They rest after lessons. Nakitto sleeps near the teacher.",
@@ -4208,11 +4211,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "51af8f2a8643b89e3e89ff41cac2b1b0a2f81d59f5f79cb05320beed6fdeb73c",
         "imageWidth": 547,
         "imageHeight": 546,
-        "audioFile": "audio/06-5ad006d97c398135.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0060/audio/06-5ad006d97c398135.mp3",
-        "sourceAudioSha256": "5ad006d97c398135121ef6ce939242e34eae98b6ba96ff64a167e4958c341b9d",
+        "audioFile": "audio/06-d9162bf486b08f62.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0060/audio/06-d9162bf486b08f62.mp3",
+        "sourceAudioSha256": "d9162bf486b08f620bc5d3e637a3e68e6073029cee272a3769c77c95de6500e0",
         "sourceAudioTextSha256": "f8492c89a6977d9ba540e0370e4f87fcab581bf35f3c842997f4eb033eeee61a",
-        "audioDurationSeconds": 6.84
+        "audioDurationSeconds": 4.488
       },
       {
         "en": "They go for study tours.",
@@ -4224,11 +4227,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "7ce13d992358cc01e5dca6e568ee9c373fb1d3fb71b132d4a5a203632828446e",
         "imageWidth": 541,
         "imageHeight": 546,
-        "audioFile": "audio/07-a8be88d906557657.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0060/audio/07-a8be88d906557657.mp3",
-        "sourceAudioSha256": "a8be88d906557657e5ad93bc96f71317b93615d2218f8f9a2461c7a7c033616f",
+        "audioFile": "audio/07-0d99b981ea571238.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0060/audio/07-0d99b981ea571238.mp3",
+        "sourceAudioSha256": "0d99b981ea571238ec888c91e259f1d020ce868cba2e6bfb4537bf64c3666d06",
         "sourceAudioTextSha256": "6f1dfd031122ff32a9bc672428a3a776ffe2b5db4ea9657408049ae9389ef933",
-        "audioDurationSeconds": 3.768
+        "audioDurationSeconds": 2.16
       },
       {
         "en": "Nakitto reads with her mother at home.",
@@ -4240,11 +4243,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "701f54990ff555ddc22f50fdbbd3a8a9f8ff151c4af41240aed1c96f743bae19",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/08-462b5fa10cec63b3.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0060/audio/08-462b5fa10cec63b3.mp3",
-        "sourceAudioSha256": "462b5fa10cec63b32d5cb86d885a1550e93d02cfd599b8a44e7b96ad4784357d",
+        "audioFile": "audio/08-776c8f975afd2905.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0060/audio/08-776c8f975afd2905.mp3",
+        "sourceAudioSha256": "776c8f975afd2905cfc001d4493fffcf94243a81813d4f98ea1a94dd8e7d65d3",
         "sourceAudioTextSha256": "b2d01899545781022463c31b40d36050aa43081da90c3283be38e52f45bdf459",
-        "audioDurationSeconds": 4.824
+        "audioDurationSeconds": 3.216
       }
     ],
     "keywords": [
@@ -4276,13 +4279,14 @@ window.JIGU_BOOKS = [
       "kind": "ai",
       "provider": "Volcengine",
       "model": "seed-tts-2.0",
-      "voice": "天才童声2.0",
-      "voiceId": "zh_male_tiancaitongsheng_uranus_bigtts",
+      "voice": "Charlie 2.0 美式英语（轻柔慢速）",
+      "voiceId": "ICL_uranus_en_female_charlie_tob",
       "voiceType": "preset",
-      "speechRate": -8,
+      "speechRate": -5,
       "pitchRate": 0,
-      "approvedAuditionRunId": 39222587639,
-      "adaptation": "AI narration produced by Jigu from the attributed English text, with disclosed minor copy edits."
+      "approvedAuditionRunId": 39233953938,
+      "adaptation": "AI narration produced by Jigu from the attributed English text.",
+      "approvedVariant": "english-gentle"
     }
   },
   {
@@ -4322,11 +4326,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "d728be2b0f115566688131470ce24e0c29ef3230215f94b30405cd705f3220b4",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/01-7def9b0c8df62160.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0240/audio/01-7def9b0c8df62160.mp3",
-        "sourceAudioSha256": "7def9b0c8df62160f585595335262f4c5cb92b771d3b7f6f6c03f74777758414",
+        "audioFile": "audio/01-278581b67f083c15.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0240/audio/01-278581b67f083c15.mp3",
+        "sourceAudioSha256": "278581b67f083c15e61043f47da9f730e2aa6b411d827ce9a4f8fd6930766f11",
         "sourceAudioTextSha256": "042a266e35a0b5f931bec600c24d3531d8c1eacf6fbd7a954b312c3e778b54f8",
-        "audioDurationSeconds": 2.88
+        "audioDurationSeconds": 2.136
       },
       {
         "en": "Ndalo likes to read books.",
@@ -4338,11 +4342,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "c7b2bce0fb7086446618a833d549cf126ea5f036e252cbd36169517aa83502da",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/02-856f3c17fe50cba2.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0240/audio/02-856f3c17fe50cba2.mp3",
-        "sourceAudioSha256": "856f3c17fe50cba2199f9892d76085edfd189cbaa51df604ac8c71912224973d",
+        "audioFile": "audio/02-b5e854601d97425f.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0240/audio/02-b5e854601d97425f.mp3",
+        "sourceAudioSha256": "b5e854601d97425f619dd60353d954eb37e4fd1eba33db8658290da9a1085aed",
         "sourceAudioTextSha256": "4239632ad4bc8a2eb4d6dff2307e93e1494e55a7a0618c22dc2a1c9211df6ec0",
-        "audioDurationSeconds": 4.2
+        "audioDurationSeconds": 2.376
       },
       {
         "en": "This is Pendo.",
@@ -4354,11 +4358,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "9321cbb54f6dafa49263f0917fef6b6f3efb7df2e77b24ba0411bd05c7161965",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/03-3425cbe09ceba41e.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0240/audio/03-3425cbe09ceba41e.mp3",
-        "sourceAudioSha256": "3425cbe09ceba41eda6b311fe39706763a710829310ec02376144d8108e9e93e",
+        "audioFile": "audio/03-fe6fff036298fd07.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0240/audio/03-fe6fff036298fd07.mp3",
+        "sourceAudioSha256": "fe6fff036298fd07944e7b7b4c71e45c84a33176a5c4b3ea4250dd4214d6f2e0",
         "sourceAudioTextSha256": "638e6d1d263bdf2c3520dab95ca27f5d80e58372b0d2a703706140fff0279c07",
-        "audioDurationSeconds": 2.904
+        "audioDurationSeconds": 2.136
       },
       {
         "en": "Pendo likes to eat carrots.",
@@ -4370,11 +4374,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "04a3945e168f70e0fe12a13625383c1fd5db8436e2c8ba4fcb90d1d8a2161d0c",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/04-6fb35592284e4bc3.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0240/audio/04-6fb35592284e4bc3.mp3",
-        "sourceAudioSha256": "6fb35592284e4bc3d9343383a3ea86106e6f4cc469edcfc39455c70f5389646c",
+        "audioFile": "audio/04-7cad37846263e379.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0240/audio/04-7cad37846263e379.mp3",
+        "sourceAudioSha256": "7cad37846263e3791b7928d6d3ade93aa5647b64d9f89a554f21d8b08615ba79",
         "sourceAudioTextSha256": "35db3ab5c21a9b9c790d8b9199bc656cb88dd34b2b30140010c8ea290f62a492",
-        "audioDurationSeconds": 4.392
+        "audioDurationSeconds": 2.376
       },
       {
         "en": "Ndalo grazes Pendo after school.",
@@ -4386,11 +4390,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "808eed78ca20696418204f321221e82e804a43273ac309be781bb3951478744e",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/05-d9b2272d469a212f.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0240/audio/05-d9b2272d469a212f.mp3",
-        "sourceAudioSha256": "d9b2272d469a212f995d8505e4dfb56d5e8a4e0ccfc45a2977ad9a806d418a3d",
+        "audioFile": "audio/05-446ad2149abd76f7.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0240/audio/05-446ad2149abd76f7.mp3",
+        "sourceAudioSha256": "446ad2149abd76f72d84d7cb6671a75a4ca48baaba69e6a74bdab40a7e637079",
         "sourceAudioTextSha256": "dbcfd96b7760d142f01b85adc9e50abc9bd0af1f0065219fca100030cd6a9473",
-        "audioDurationSeconds": 5.088
+        "audioDurationSeconds": 3.24
       },
       {
         "en": "He gives fresh water to Pendo.",
@@ -4402,11 +4406,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "cae6e951612d3112a220c9937217832867f2e83847afbb88b2168d2173e67649",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/06-a6c92370602cdbf2.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0240/audio/06-a6c92370602cdbf2.mp3",
-        "sourceAudioSha256": "a6c92370602cdbf22e5153dfdb8217c71ed502193ff52691821e53cf1f25a81e",
+        "audioFile": "audio/06-c9705f298bdc26fd.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0240/audio/06-c9705f298bdc26fd.mp3",
+        "sourceAudioSha256": "c9705f298bdc26fd9534e5621346fc3f17e7abd905b32d51e4c82d2bd2e1cae0",
         "sourceAudioTextSha256": "51330dfbd0806ccb9504c5d58824e5b0084c3b1c112b031e53b43b2791eccbc3",
-        "audioDurationSeconds": 4.392
+        "audioDurationSeconds": 2.376
       },
       {
         "en": "Father gives grain to Pendo.",
@@ -4418,11 +4422,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "42246ef87428ffd8dcb37ffc31d09549f4f65d91a798f4b4b828d7d418609737",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/07-6aa22db1aa2edf14.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0240/audio/07-6aa22db1aa2edf14.mp3",
-        "sourceAudioSha256": "6aa22db1aa2edf14ebe55dbf73648a7f6cb650a68fdc8317f9496f2f0c8ddd55",
+        "audioFile": "audio/07-4289f8b0969f1298.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0240/audio/07-4289f8b0969f1298.mp3",
+        "sourceAudioSha256": "4289f8b0969f1298a1cce143e8c91c6b85a3486e3d7193f734807d85f06bd512",
         "sourceAudioTextSha256": "8c6b16a302ca1ec8db231e984e15de34fbb981f090bb3d37a6781dba3258406e",
-        "audioDurationSeconds": 4.176
+        "audioDurationSeconds": 2.376
       },
       {
         "en": "He milks Pendo every day.",
@@ -4434,11 +4438,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "eeda08ff19119104545fe02c950e7ee7c7a7fe05af10255806a52a1dc8f80dda",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/08-fa6b05e21aac0cbe.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0240/audio/08-fa6b05e21aac0cbe.mp3",
-        "sourceAudioSha256": "fa6b05e21aac0cbe1358f70f6e4d80a1530caef0e334ff32b743525a46ec114c",
+        "audioFile": "audio/08-05f3ff86d31f34a5.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0240/audio/08-05f3ff86d31f34a5.mp3",
+        "sourceAudioSha256": "05f3ff86d31f34a551b70f1dae155da578a0f18f8667c2f23774afea9b626ac4",
         "sourceAudioTextSha256": "e01ab0b256bbe7fbb7c523e6d146de748f3f64e617951ce66d2ab4a8378248f6",
-        "audioDurationSeconds": 3.768
+        "audioDurationSeconds": 2.376
       },
       {
         "en": "Pendo gives a lot of milk.",
@@ -4450,11 +4454,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "5cf9138feaedc4a7a8fe2ac2977f29ad295571aa6a3ec7d7da8690ebb63a6644",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/09-5c099cc216faf8b5.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0240/audio/09-5c099cc216faf8b5.mp3",
-        "sourceAudioSha256": "5c099cc216faf8b57bc451e8a9eaaa2d85f4e91c17846c94eba6ab6f032aea11",
+        "audioFile": "audio/09-1075318aa3a5aa73.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0240/audio/09-1075318aa3a5aa73.mp3",
+        "sourceAudioSha256": "1075318aa3a5aa73a935dec3a8cdf5608d69d1516a186c3ebe7a4411a6526268",
         "sourceAudioTextSha256": "20c268ff42604c2d7014e742775f887db52371c357016f8b28b2d7211b754d72",
-        "audioDurationSeconds": 4.2
+        "audioDurationSeconds": 2.568
       },
       {
         "en": "Father sells Pendo's milk.",
@@ -4466,11 +4470,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "f8b0c90732380f010b2d0a1396b52e3c16b044cbcf1cb12ae47e4fcceb068475",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/10-a3b9e305aeee187a.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0240/audio/10-a3b9e305aeee187a.mp3",
-        "sourceAudioSha256": "a3b9e305aeee187aaa3f68516c2d4d3efe29867d51e704704cc8a98e6887d0d4",
+        "audioFile": "audio/10-dc9cc7f0d6daa86b.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0240/audio/10-dc9cc7f0d6daa86b.mp3",
+        "sourceAudioSha256": "dc9cc7f0d6daa86bbfee18593760156c52c1399cf0aefbbba5643289d3ad8d4a",
         "sourceAudioTextSha256": "21c3d22bd430e74c34a7048856941f50ec491e0b88b53b3598a26d19068eea16",
-        "audioDurationSeconds": 4.656
+        "audioDurationSeconds": 2.568
       },
       {
         "en": "Ndalo drinks fresh milk every day.",
@@ -4482,11 +4486,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "8e832410cac5a45be9fd7547afa9fd712d4f329822be142fa3985ca48dc29dd1",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/11-c2a64d491f93cf7b.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0240/audio/11-c2a64d491f93cf7b.mp3",
-        "sourceAudioSha256": "c2a64d491f93cf7b9a97e3ba8be9fa4a90076a20f7e9555fe1c5eb07382d9c43",
+        "audioFile": "audio/11-44142894c8f4f402.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0240/audio/11-44142894c8f4f402.mp3",
+        "sourceAudioSha256": "44142894c8f4f40270beaef6ab347b1ee344af64e87720f956d404154b42afe5",
         "sourceAudioTextSha256": "c498d5e019288d52bdd65c6d39da5697315ddb15d065ef6213b84dcc65165b63",
-        "audioDurationSeconds": 4.824
+        "audioDurationSeconds": 3.216
       },
       {
         "en": "He says, \"Thank you Pendo!\"",
@@ -4498,11 +4502,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "c36efbef8e9d06a7e6d138506ae7f26b2e6d721ecd32f2e74cb01d961842652d",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/12-bd39921eeb1be0c3.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0240/audio/12-bd39921eeb1be0c3.mp3",
-        "sourceAudioSha256": "bd39921eeb1be0c3247a2759a616de70545e54f148d0c087c5c8760868e79730",
+        "audioFile": "audio/12-5a45b3021aa3b758.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0240/audio/12-5a45b3021aa3b758.mp3",
+        "sourceAudioSha256": "5a45b3021aa3b758769896afead66f334b06a8869f80281b6261da42608e4093",
         "sourceAudioTextSha256": "30fb830a957917f23262b62f2bbd87e211981589bb6b8acd5d47a811ec1c2ff1",
-        "audioDurationSeconds": 3.768
+        "audioDurationSeconds": 2.376
       }
     ],
     "keywords": [
@@ -4534,13 +4538,14 @@ window.JIGU_BOOKS = [
       "kind": "ai",
       "provider": "Volcengine",
       "model": "seed-tts-2.0",
-      "voice": "天才童声2.0",
-      "voiceId": "zh_male_tiancaitongsheng_uranus_bigtts",
+      "voice": "Charlie 2.0 美式英语（轻柔慢速）",
+      "voiceId": "ICL_uranus_en_female_charlie_tob",
       "voiceType": "preset",
-      "speechRate": -8,
+      "speechRate": -5,
       "pitchRate": 0,
-      "approvedAuditionRunId": 39222587639,
-      "adaptation": "AI narration produced by Jigu from the attributed English text, with disclosed minor copy edits."
+      "approvedAuditionRunId": 39233953938,
+      "adaptation": "AI narration produced by Jigu from the attributed English text.",
+      "approvedVariant": "english-gentle"
     }
   },
   {
@@ -4581,11 +4586,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "88e4f4ef61436a803d47f1a7840e4d2fad895aa7d8912cca63bfde6236bf2303",
         "imageWidth": 550,
         "imageHeight": 546,
-        "audioFile": "audio/01-814d6b4fe1fdfd05.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0050/audio/01-814d6b4fe1fdfd05.mp3",
-        "sourceAudioSha256": "814d6b4fe1fdfd05f73a510e902353dd787a4d3675e9b385b15532d20681baa7",
+        "audioFile": "audio/01-243b721348286337.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0050/audio/01-243b721348286337.mp3",
+        "sourceAudioSha256": "243b721348286337bd1a85df47c5780372acdacfcf5053b7467fb849a9f3e1c1",
         "sourceAudioTextSha256": "4cdd4b3bb8322c45f0e1e9bbb4d76e6aafc35e37c6da4e549b58a1531c3fbfe2",
-        "audioDurationSeconds": 4.2
+        "audioDurationSeconds": 2.808
       },
       {
         "en": "A lion has sharp teeth as well.",
@@ -4597,11 +4602,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "58026c9873f82adefded6c1e6a70f45340bd02ac33b2ff2364fb23430e7deddf",
         "imageWidth": 551,
         "imageHeight": 546,
-        "audioFile": "audio/02-84d5b49fa174fb34.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0050/audio/02-84d5b49fa174fb34.mp3",
-        "sourceAudioSha256": "84d5b49fa174fb3463a5ab2743c26482fc14c9118f450128e857ba13a3dc5b90",
+        "audioFile": "audio/02-fb43645882af299d.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0050/audio/02-fb43645882af299d.mp3",
+        "sourceAudioSha256": "fb43645882af299db2596b8e99f55b30a073316cff9a1ba1625f75b6275af8be",
         "sourceAudioTextSha256": "fa77be0fd5be94e927aba5eb2be1ff6a65b082ef836984dd56e0ffcee461fd73",
-        "audioDurationSeconds": 4.656
+        "audioDurationSeconds": 2.784
       },
       {
         "en": "A shark has very sharp teeth! Why do some animals have sharp teeth?",
@@ -4613,11 +4618,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "2858c8b69ebeb21343b9a1a3021d8ae8cdc419820d346b79e5fcf488c6854656",
         "imageWidth": 525,
         "imageHeight": 546,
-        "audioFile": "audio/03-4f8f9bcb7a60174f.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0050/audio/03-4f8f9bcb7a60174f.mp3",
-        "sourceAudioSha256": "4f8f9bcb7a60174f9beab59a51f8939897f85a689a066b689b9093fd826fc51c",
+        "audioFile": "audio/03-34c6a919bf5db95e.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0050/audio/03-34c6a919bf5db95e.mp3",
+        "sourceAudioSha256": "34c6a919bf5db95e4a9f9b2bfd5dafcbc38d80ef120441410c4be5457ebd3a79",
         "sourceAudioTextSha256": "0ff458173a51747017ba16bc93cd49a2f73824af030c11352c26e1d291f54b85",
-        "audioDurationSeconds": 7.68
+        "audioDurationSeconds": 5.088
       },
       {
         "en": "A cow has strong teeth for grinding.",
@@ -4629,11 +4634,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "fec90db3aa3f1bb067a2b4d46b263bdf09e63d93b3154d27912892ebf3fc715f",
         "imageWidth": 557,
         "imageHeight": 546,
-        "audioFile": "audio/04-7544c98f6f4711c9.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0050/audio/04-7544c98f6f4711c9.mp3",
-        "sourceAudioSha256": "7544c98f6f4711c9e311d1e7a6143df6c8418833f71df771a27d10a29af303b5",
+        "audioFile": "audio/04-6b14dd344f4779ea.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0050/audio/04-6b14dd344f4779ea.mp3",
+        "sourceAudioSha256": "6b14dd344f4779ea6682843bdf3de7ed876588fcffd2d4c37ef964de96d92239",
         "sourceAudioTextSha256": "8a71c9358d8fc04adc32444b8e15d8063b4f8a3eaba6c468353eecabfa16aa1f",
-        "audioDurationSeconds": 5.232
+        "audioDurationSeconds": 3.216
       },
       {
         "en": "A bird does not have teeth. How does a bird eat?",
@@ -4645,11 +4650,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "03ae037b8f02c46413d45732c07909f65cc29d17e30a74822395c8dc8db55c2a",
         "imageWidth": 526,
         "imageHeight": 546,
-        "audioFile": "audio/05-4689b5c194f9abfa.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0050/audio/05-4689b5c194f9abfa.mp3",
-        "sourceAudioSha256": "4689b5c194f9abfae5143c04407c0e33fb812572123a104c3c3e21359000015d",
+        "audioFile": "audio/05-1c974eb7e0d562d7.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0050/audio/05-1c974eb7e0d562d7.mp3",
+        "sourceAudioSha256": "1c974eb7e0d562d7108e2d03336de30eb06433cf03f16e2b913c2b176c7bb7b0",
         "sourceAudioTextSha256": "558203223dc9121d1604b4854a66496dca9f7869dcc21307397af8c7ec22050c",
-        "audioDurationSeconds": 6.84
+        "audioDurationSeconds": 3.816
       },
       {
         "en": "Rats have big front teeth.",
@@ -4661,11 +4666,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "38a4d032941f64a1796438026d66c86e4ba4e42884837e694dab875b666f37b4",
         "imageWidth": 542,
         "imageHeight": 546,
-        "audioFile": "audio/06-d81ee0edf8545acd.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0050/audio/06-d81ee0edf8545acd.mp3",
-        "sourceAudioSha256": "d81ee0edf8545acd82ca148253036eea33fd42b72b8611ca4b12e62e397cb136",
+        "audioFile": "audio/06-2f1172137687cc8c.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0050/audio/06-2f1172137687cc8c.mp3",
+        "sourceAudioSha256": "2f1172137687cc8cc325f065a3f5df6eb897ad917c3070f97bb596a172043ab6",
         "sourceAudioTextSha256": "f7f3613f155b01e3a2f8f053c18b611f15aad68a2947a53ac81e2f5f0a5c6757",
-        "audioDurationSeconds": 3.96
+        "audioDurationSeconds": 2.808
       },
       {
         "en": "I used to have front teeth.",
@@ -4677,11 +4682,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "124779757355add2ee97e585337f6a16596a84087c40aa3e183663707af05788",
         "imageWidth": 525,
         "imageHeight": 546,
-        "audioFile": "audio/07-0fe9ea929701151f.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0050/audio/07-0fe9ea929701151f.mp3",
-        "sourceAudioSha256": "0fe9ea929701151f4924a2d61ac7285a8f803f2337a5baf1bf144e15d3dae44c",
+        "audioFile": "audio/07-fb46457404b711ce.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0050/audio/07-fb46457404b711ce.mp3",
+        "sourceAudioSha256": "fb46457404b711ce94ab83eeb35a396096f739e9df20eb55691d0c0f12451266",
         "sourceAudioTextSha256": "c24b18b718a3f75ee7ba4461684106a58201664a8c9d2ecacdc94c0fe9a746d0",
-        "audioDurationSeconds": 3.96
+        "audioDurationSeconds": 2.376
       },
       {
         "en": "My front teeth fell out! How many teeth do you have?",
@@ -4693,11 +4698,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "5f465d05b2ab52060d72f4f485b5c932337cbe95e57a144b9931f2abea306f50",
         "imageWidth": 526,
         "imageHeight": 546,
-        "audioFile": "audio/08-e7cd8d523137f3cb.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0050/audio/08-e7cd8d523137f3cb.mp3",
-        "sourceAudioSha256": "e7cd8d523137f3cbaaaada81eaf4bde3193a79f662af635b926278943918d2a3",
+        "audioFile": "audio/08-a4aea49573950dad.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0050/audio/08-a4aea49573950dad.mp3",
+        "sourceAudioSha256": "a4aea49573950dade4caa45ba1362e1302aaa50f75a48ee17146e81c02748d36",
         "sourceAudioTextSha256": "8cd66f181f09995c7d132b705572e5f1e80d99f516f45e3412ec15d25af7ae3d",
-        "audioDurationSeconds": 6.816
+        "audioDurationSeconds": 4.056
       }
     ],
     "keywords": [
@@ -4729,13 +4734,14 @@ window.JIGU_BOOKS = [
       "kind": "ai",
       "provider": "Volcengine",
       "model": "seed-tts-2.0",
-      "voice": "天才童声2.0",
-      "voiceId": "zh_male_tiancaitongsheng_uranus_bigtts",
+      "voice": "Charlie 2.0 美式英语（轻柔慢速）",
+      "voiceId": "ICL_uranus_en_female_charlie_tob",
       "voiceType": "preset",
-      "speechRate": -8,
+      "speechRate": -5,
       "pitchRate": 0,
-      "approvedAuditionRunId": 39222587639,
-      "adaptation": "AI narration produced by Jigu from the attributed English text, with disclosed minor copy edits."
+      "approvedAuditionRunId": 39233953938,
+      "adaptation": "AI narration produced by Jigu from the attributed English text.",
+      "approvedVariant": "english-gentle"
     }
   },
   {
@@ -4775,11 +4781,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "1f73a654ccf07272c1cff6137661068f9d2832dcda4bbc314eefe5829e2c4cf7",
         "imageWidth": 573,
         "imageHeight": 475,
-        "audioFile": "audio/01-cdd7721bfd427d83.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0265/audio/01-cdd7721bfd427d83.mp3",
-        "sourceAudioSha256": "cdd7721bfd427d839c5b8528b50ef8f24ecf463817a0f0dbf4a6e8080508bb14",
+        "audioFile": "audio/01-6f4f182273c087a4.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0265/audio/01-6f4f182273c087a4.mp3",
+        "sourceAudioSha256": "6f4f182273c087a4276d4eb482d62ba075f6867fc5e043e49086145e70cbf176",
         "sourceAudioTextSha256": "59d2085b09dc3078d2d7548cbd083ef8226c11e39e43a8db930715cdf755acd7",
-        "audioDurationSeconds": 4.2
+        "audioDurationSeconds": 2.376
       },
       {
         "en": "I think she is hungry.",
@@ -4791,11 +4797,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "d8cb7abeb807f9cbd61111cc539a7605f443eb9e73f2d4fe935a0735bbf15928",
         "imageWidth": 571,
         "imageHeight": 475,
-        "audioFile": "audio/02-837e2568352cbe77.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0265/audio/02-837e2568352cbe77.mp3",
-        "sourceAudioSha256": "837e2568352cbe777215dd651d5581ee51c173cc21f47dfc93114f0dcbaf7544",
+        "audioFile": "audio/02-9863c15dbe444349.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0265/audio/02-9863c15dbe444349.mp3",
+        "sourceAudioSha256": "9863c15dbe444349e6f1bd2220ccb1e14de5516d9253a4ae130dcec9bc20452f",
         "sourceAudioTextSha256": "fb62bd3ff4d6ed98c01ab4b6f83789c4288b6d22dddbeb713ebd1c5ad221f512",
-        "audioDurationSeconds": 3.336
+        "audioDurationSeconds": 2.136
       },
       {
         "en": "Why is the boy sad?",
@@ -4807,11 +4813,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "6497e2ac1ef041531288b84b9777033625c3a7fb26e8a3dc330cb473f77e98f0",
         "imageWidth": 571,
         "imageHeight": 475,
-        "audioFile": "audio/03-9dcb3cddf29b5f51.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0265/audio/03-9dcb3cddf29b5f51.mp3",
-        "sourceAudioSha256": "9dcb3cddf29b5f515c95584a8d082de2a748d093597f11aa56ec46112da69108",
+        "audioFile": "audio/03-6794fb18c22b00a4.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0265/audio/03-6794fb18c22b00a4.mp3",
+        "sourceAudioSha256": "6794fb18c22b00a4761770acbd857debfc0952caa0a47735f30bf025ce172362",
         "sourceAudioTextSha256": "f2ddd9072c34f423ff1adc17d29c21e8c759fcee4eb67427fc415bbc3df8d95c",
-        "audioDurationSeconds": 3.336
+        "audioDurationSeconds": 2.136
       },
       {
         "en": "I think he is missing his father.",
@@ -4823,11 +4829,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "3c82ea9fb8af798ecb90ccd96bba48d3956d04cc31dae98ae4486a2af8f17c33",
         "imageWidth": 574,
         "imageHeight": 475,
-        "audioFile": "audio/04-043f5c14079e5ffd.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0265/audio/04-043f5c14079e5ffd.mp3",
-        "sourceAudioSha256": "043f5c14079e5ffde0072ebef6a096b6b18094f3432f94d6156ed2b012917e77",
+        "audioFile": "audio/04-81c061822006cc20.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0265/audio/04-81c061822006cc20.mp3",
+        "sourceAudioSha256": "81c061822006cc2056e3fea438eb29415909b50fa1068034cb014dcf4b7debf1",
         "sourceAudioTextSha256": "cdee3ff0e187e1f9a9d48b7bc59ece967342696433de67bd6b07c70e1f5fdfe7",
-        "audioDurationSeconds": 4.632
+        "audioDurationSeconds": 2.376
       },
       {
         "en": "Why is the girl happy?",
@@ -4839,11 +4845,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "a962e50f38566810b726271ed277f1c102ea748d66a9eeec41e517573e417456",
         "imageWidth": 573,
         "imageHeight": 475,
-        "audioFile": "audio/05-69a9140a0f8d1e00.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0265/audio/05-69a9140a0f8d1e00.mp3",
-        "sourceAudioSha256": "69a9140a0f8d1e002d22ccfc27ae481b12b79817f939cb0231c5ce509161e2fa",
+        "audioFile": "audio/05-ca886e0a4f57a153.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0265/audio/05-ca886e0a4f57a153.mp3",
+        "sourceAudioSha256": "ca886e0a4f57a15341af6efeac969e9854c22c8adb185864e6adcc1c146555a2",
         "sourceAudioTextSha256": "6e009022d22c172cf1906f1e2ece73f3c897e503209a22d778539632aed56f3f",
-        "audioDurationSeconds": 3.096
+        "audioDurationSeconds": 2.136
       },
       {
         "en": "She has a new dress.",
@@ -4855,11 +4861,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "0a0fca3e1a2f0432bf90ba66b884b9cf315fa7283f8f7b8df04d4687fa22ccb0",
         "imageWidth": 577,
         "imageHeight": 475,
-        "audioFile": "audio/06-03a910696598477b.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0265/audio/06-03a910696598477b.mp3",
-        "sourceAudioSha256": "03a910696598477b57f0d11ee64cdb2212c6997ba932525c15a4be79f258477e",
+        "audioFile": "audio/06-4ef56a0b2b172792.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0265/audio/06-4ef56a0b2b172792.mp3",
+        "sourceAudioSha256": "4ef56a0b2b172792c923f3954c62dffac837104ed106f0d9dbb3832d2d7acd63",
         "sourceAudioTextSha256": "d5b98049ef19d9242f4701dcc51af5102a5c29af0b82dc9b8a5940d35c970d65",
-        "audioDurationSeconds": 3.312
+        "audioDurationSeconds": 1.968
       },
       {
         "en": "Why is the old man laughing?",
@@ -4871,11 +4877,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "137b55b1a4ae1cb2fa3b9db7e8c704c7fd112a550b54a089da94f8c2fb502ebe",
         "imageWidth": 576,
         "imageHeight": 475,
-        "audioFile": "audio/07-bfedc9b17acdcd65.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0265/audio/07-bfedc9b17acdcd65.mp3",
-        "sourceAudioSha256": "bfedc9b17acdcd652453754702a4c0a49650d31af3234da55713dd91a5e6e802",
+        "audioFile": "audio/07-b8ca3be37b99ecf8.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0265/audio/07-b8ca3be37b99ecf8.mp3",
+        "sourceAudioSha256": "b8ca3be37b99ecf8543c2ea8a6e63fc07cc5416ae6c88a4822f2d266fa1350ab",
         "sourceAudioTextSha256": "a5499727a08aa6910201057c0afd9aca0b3e9e303207aaae97ab08de1eb7321e",
-        "audioDurationSeconds": 3.528
+        "audioDurationSeconds": 2.136
       },
       {
         "en": "He read a good joke.",
@@ -4887,11 +4893,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "dc9fc99981ca11949d6440f726647d8eb930d72654791c46d9640c08e7e000ca",
         "imageWidth": 579,
         "imageHeight": 475,
-        "audioFile": "audio/08-978cd6f7657f3cca.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0265/audio/08-978cd6f7657f3cca.mp3",
-        "sourceAudioSha256": "978cd6f7657f3cca014e193b3b86da8580df79a4bbeaa6762c0c13d83f267cb4",
+        "audioFile": "audio/08-f5478352355b40bd.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0265/audio/08-f5478352355b40bd.mp3",
+        "sourceAudioSha256": "f5478352355b40bdc802b7f1f7b6fb4a398430f49ea1ca1f10c52ec49817d1a2",
         "sourceAudioTextSha256": "714beded6baf8ad661a20989199ab2a5a387b20b79996549b26a5b28b1774587",
-        "audioDurationSeconds": 3.96
+        "audioDurationSeconds": 2.136
       },
       {
         "en": "Why is the lady smiling?",
@@ -4903,11 +4909,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "d7cfee748483a95f324e56fe4b874136380510b8613f009d4f431e355fbfe318",
         "imageWidth": 579,
         "imageHeight": 475,
-        "audioFile": "audio/09-4905a77b5d9fd22d.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0265/audio/09-4905a77b5d9fd22d.mp3",
-        "sourceAudioSha256": "4905a77b5d9fd22d3c3e81e2bacacfdcde310e30e52a8c072aaa72d95da2823e",
+        "audioFile": "audio/09-f7a3b0fb1a90a462.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0265/audio/09-f7a3b0fb1a90a462.mp3",
+        "sourceAudioSha256": "f7a3b0fb1a90a46219a19b736f14e8a3ea72023e1050eb8abdc1ec358df22bf5",
         "sourceAudioTextSha256": "d0825ff764221dcac8b78faa6f9a3f4cb9dbac934a0e8a66fed2c95cfb86b40a",
-        "audioDurationSeconds": 3.96
+        "audioDurationSeconds": 2.376
       },
       {
         "en": "Her children are reading quietly.",
@@ -4919,11 +4925,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "aa3aed4cc42991464176dfbc0a39c1be1b3b8e9e36a0593ebba7825b4a68b624",
         "imageWidth": 577,
         "imageHeight": 475,
-        "audioFile": "audio/10-1e75983f99853203.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0265/audio/10-1e75983f99853203.mp3",
-        "sourceAudioSha256": "1e75983f998532032325c4daa1c7fcb89e18235e6a9be17942c8b5f308d70ea6",
+        "audioFile": "audio/10-a99499016fe5d84a.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0265/audio/10-a99499016fe5d84a.mp3",
+        "sourceAudioSha256": "a99499016fe5d84ac1dd6faf4a272ec3a337f95ddf00809ad7f5ed8e43339a57",
         "sourceAudioTextSha256": "fe8ba80144c839c0c7c942a7ae3ac6e89025106f9b247c9a9102edc883e1ff16",
-        "audioDurationSeconds": 4.824
+        "audioDurationSeconds": 2.568
       },
       {
         "en": "What is this lady feeling?",
@@ -4935,11 +4941,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "2a724b55b95b11ec360a9f34f05d65a2d4164757b086c201c53cc602d776183e",
         "imageWidth": 742,
         "imageHeight": 546,
-        "audioFile": "audio/11-fe15d18d83bf4bfc.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0265/audio/11-fe15d18d83bf4bfc.mp3",
-        "sourceAudioSha256": "fe15d18d83bf4bfcd64f0872fd71990ee48d4d92c69daee35e83dcaeefc50325",
+        "audioFile": "audio/11-4e2de0216eb28a3f.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0265/audio/11-4e2de0216eb28a3f.mp3",
+        "sourceAudioSha256": "4e2de0216eb28a3f928e5946d00334f65808cf34117b2bfbf7952bccdf476001",
         "sourceAudioTextSha256": "c3392449dd38e8453cad2eb7a985ce5191c9ee77d7a9f125248579e29ae29fc2",
-        "audioDurationSeconds": 3.504
+        "audioDurationSeconds": 2.376
       },
       {
         "en": "I think she is feeling shy.",
@@ -4951,11 +4957,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "50079d67935000ebac71e3fd10fdd6ce1c6826715a5cee70df16321cda1c01b1",
         "imageWidth": 544,
         "imageHeight": 475,
-        "audioFile": "audio/12-14a2ebfb5f5e5320.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0265/audio/12-14a2ebfb5f5e5320.mp3",
-        "sourceAudioSha256": "14a2ebfb5f5e5320159fdb4833b0a1a19f3cd6a87f8aba522226f1ee40bad3da",
+        "audioFile": "audio/12-9baf9f07fc39f3d8.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0265/audio/12-9baf9f07fc39f3d8.mp3",
+        "sourceAudioSha256": "9baf9f07fc39f3d812b343e1aea3b077ebabd791ef86e5b3b9744f232ada9694",
         "sourceAudioTextSha256": "147cc243234dfd60043e8a2f728c2c1bf0b98a8fbc98fff2b7c6490c84089337",
-        "audioDurationSeconds": 4.416
+        "audioDurationSeconds": 2.376
       }
     ],
     "keywords": [
@@ -4987,13 +4993,14 @@ window.JIGU_BOOKS = [
       "kind": "ai",
       "provider": "Volcengine",
       "model": "seed-tts-2.0",
-      "voice": "天才童声2.0",
-      "voiceId": "zh_male_tiancaitongsheng_uranus_bigtts",
+      "voice": "Charlie 2.0 美式英语（轻柔慢速）",
+      "voiceId": "ICL_uranus_en_female_charlie_tob",
       "voiceType": "preset",
-      "speechRate": -8,
+      "speechRate": -5,
       "pitchRate": 0,
-      "approvedAuditionRunId": 39222587639,
-      "adaptation": "AI narration produced by Jigu from the attributed English text, with disclosed minor copy edits."
+      "approvedAuditionRunId": 39233953938,
+      "adaptation": "AI narration produced by Jigu from the attributed English text.",
+      "approvedVariant": "english-gentle"
     }
   },
   {
@@ -5034,11 +5041,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "43dca5b11f7da18f8d9bd349c5d4f25c5b7720ec524ab7c5a1159d6cbc713c31",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/01-7288e166de663347.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0331/audio/01-7288e166de663347.mp3",
-        "sourceAudioSha256": "7288e166de663347c0d50fe188fd7748f17ba3b479d4d68f0125df3127fb4ee3",
+        "audioFile": "audio/01-f1344bda9d0b0237.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0331/audio/01-f1344bda9d0b0237.mp3",
+        "sourceAudioSha256": "f1344bda9d0b0237a7f315c3663605dcd68e8014697a20b3389a5ba93eb6f719",
         "sourceAudioTextSha256": "89085db74e7ff79e572fa5d03b489c2b3d78dbc2a664797bf107b6ee2d537cde",
-        "audioDurationSeconds": 3.336
+        "audioDurationSeconds": 1.968
       },
       {
         "en": "I enjoy playing with water.",
@@ -5050,11 +5057,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "aebc18bf76267334a51ceb10ea26ef514d4f11a3443d1d2dc9e1c40db7901b80",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/02-1ee554975d1dd4a1.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0331/audio/02-1ee554975d1dd4a1.mp3",
-        "sourceAudioSha256": "1ee554975d1dd4a1476de3885a214b2714e6cad00a8894884c1d5540d991f286",
+        "audioFile": "audio/02-24f0ad62ad9aab31.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0331/audio/02-24f0ad62ad9aab31.mp3",
+        "sourceAudioSha256": "24f0ad62ad9aab315619f91e6fe93c3cc34f478501ec1dee8d30ad3e65efe455",
         "sourceAudioTextSha256": "532d33f71c173003b48640d5e008b6e5e9f60e590b4e1f0714839b8b52848ff3",
-        "audioDurationSeconds": 4.392
+        "audioDurationSeconds": 2.136
       },
       {
         "en": "It is raining.",
@@ -5066,11 +5073,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "e831ea4b4e12a508392a1c33a26c0c2c1d764df2f4fe2041359cd59a2de2c0ba",
         "imageWidth": 480,
         "imageHeight": 480,
-        "audioFile": "audio/03-cbf5561bc190576e.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0331/audio/03-cbf5561bc190576e.mp3",
-        "sourceAudioSha256": "cbf5561bc190576e0a769727580d42d8526743bdbaf87c978b0df25c7c4090e4",
+        "audioFile": "audio/03-41e9d760f90fbcec.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0331/audio/03-41e9d760f90fbcec.mp3",
+        "sourceAudioSha256": "41e9d760f90fbcece967ccfbdca38c846d2213ec0de0eecc35b79995a74a8630",
         "sourceAudioTextSha256": "686e9dc0157a364f2fffba7c9e7001b8520f49eccdbb6313344de33918fbba3d",
-        "audioDurationSeconds": 2.448
+        "audioDurationSeconds": 1.728
       },
       {
         "en": "Rain gives us water.",
@@ -5082,11 +5089,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "f3bd10d85912a40d20bb831b81116e27f5c3dac6b7e7f6fa0c82cc2687282189",
         "imageWidth": 480,
         "imageHeight": 480,
-        "audioFile": "audio/04-35b962992c3b2705.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0331/audio/04-35b962992c3b2705.mp3",
-        "sourceAudioSha256": "35b962992c3b2705e1c0250270e0ea53899469f85686876f10c4de4f6968cb20",
+        "audioFile": "audio/04-c58809bf1e260784.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0331/audio/04-c58809bf1e260784.mp3",
+        "sourceAudioSha256": "c58809bf1e260784622d2b2fbf707db9f986254077b19861ad84558e63527c9c",
         "sourceAudioTextSha256": "d14158058b25841de133e6f215baab95f12afde190b7d14bfd112b6f051df2b5",
-        "audioDurationSeconds": 3.336
+        "audioDurationSeconds": 2.16
       },
       {
         "en": "I enjoy playing outside.",
@@ -5098,11 +5105,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "9200d9232d3ff7eba487675ef060357ade457269245aaf2c275d818dd91ef35c",
         "imageWidth": 480,
         "imageHeight": 480,
-        "audioFile": "audio/05-0611fd81a57c4cdd.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0331/audio/05-0611fd81a57c4cdd.mp3",
-        "sourceAudioSha256": "0611fd81a57c4cdd2c6d75f2e69dc9ad53f2966af94162563d9e7cf0c7704e72",
+        "audioFile": "audio/05-2df6de5af874be69.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0331/audio/05-2df6de5af874be69.mp3",
+        "sourceAudioSha256": "2df6de5af874be69fc402e8a3c979429ef26df3edb194f537dd6bc64a3cd6de7",
         "sourceAudioTextSha256": "d3a096d2da4fdb99eaa36c0b125b2291f868b3cc7e26e34599b27ac591b175a6",
-        "audioDurationSeconds": 4.416
+        "audioDurationSeconds": 3.624
       },
       {
         "en": "But it is raining.",
@@ -5114,11 +5121,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "bfee64c3379f2862c1e572dd84cecf5fea3109268af2c1d6e459cbf130db3b72",
         "imageWidth": 480,
         "imageHeight": 480,
-        "audioFile": "audio/06-5cb88f5b9969a5b9.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0331/audio/06-5cb88f5b9969a5b9.mp3",
-        "sourceAudioSha256": "5cb88f5b9969a5b9df100b9d6da1239d85abb62c1e0719efc92989859ac975d6",
+        "audioFile": "audio/06-7f83587bb4daf51c.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0331/audio/06-7f83587bb4daf51c.mp3",
+        "sourceAudioSha256": "7f83587bb4daf51c4059106fc6e75bfa5de9feaefc4cfa7cdf90111234273549",
         "sourceAudioTextSha256": "b286edf85c7e361ff26a5733a6e738546772633b8b0da6d5084df66cf0c8ed26",
-        "audioDurationSeconds": 3.336
+        "audioDurationSeconds": 1.944
       },
       {
         "en": "I enjoy playing out in the rain.",
@@ -5130,11 +5137,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "1893fc12affb2d71bb9f3a7961231d6491b71b75698429eb01c153cd2502592a",
         "imageWidth": 480,
         "imageHeight": 480,
-        "audioFile": "audio/07-69aeeb66649eccc6.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0331/audio/07-69aeeb66649eccc6.mp3",
-        "sourceAudioSha256": "69aeeb66649eccc6b9d87f30cdd70647bc3e682ad869aecf72d07ae78b462886",
+        "audioFile": "audio/07-82e3f7109b785677.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0331/audio/07-82e3f7109b785677.mp3",
+        "sourceAudioSha256": "82e3f7109b78567768226f52ffeb8203ab62b9ab15e407a7e91cf42d6bcd7533",
         "sourceAudioTextSha256": "f5d3b277827243d24258765acbe4a496b7bd2d4e6a9ed2f3c62b8bedccfb2060",
-        "audioDurationSeconds": 4.824
+        "audioDurationSeconds": 2.808
       },
       {
         "en": "My hair is wet from playing in the rain. My father is fixing my hair.",
@@ -5146,11 +5153,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "146fd926a8e742a90d8a8d8a32c40f8f028587e831ba3711e92787161f152b5a",
         "imageWidth": 480,
         "imageHeight": 480,
-        "audioFile": "audio/08-f2a59f0cee53df6c.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0331/audio/08-f2a59f0cee53df6c.mp3",
-        "sourceAudioSha256": "f2a59f0cee53df6ccc605c16e91179049ba63631a5e6d6c970565ef49512648e",
+        "audioFile": "audio/08-8a6a71cf9d695f83.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0331/audio/08-8a6a71cf9d695f83.mp3",
+        "sourceAudioSha256": "8a6a71cf9d695f83f05337a5bb381e6bbf351ff689f94cf5c9d192ff131ecf4a",
         "sourceAudioTextSha256": "cb0d58ced9069c614ed5fcdf2232cf6718db86506e23269fccddb6b87b6b73e0",
-        "audioDurationSeconds": 8.736
+        "audioDurationSeconds": 4.896
       }
     ],
     "keywords": [
@@ -5182,13 +5189,14 @@ window.JIGU_BOOKS = [
       "kind": "ai",
       "provider": "Volcengine",
       "model": "seed-tts-2.0",
-      "voice": "天才童声2.0",
-      "voiceId": "zh_male_tiancaitongsheng_uranus_bigtts",
+      "voice": "Charlie 2.0 美式英语（轻柔慢速）",
+      "voiceId": "ICL_uranus_en_female_charlie_tob",
       "voiceType": "preset",
-      "speechRate": -8,
+      "speechRate": -5,
       "pitchRate": 0,
-      "approvedAuditionRunId": 39222587639,
-      "adaptation": "AI narration produced by Jigu from the attributed English text, with disclosed minor copy edits."
+      "approvedAuditionRunId": 39233953938,
+      "adaptation": "AI narration produced by Jigu from the attributed English text.",
+      "approvedVariant": "english-gentle"
     }
   },
   {
@@ -5228,11 +5236,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "8f4760a3c51f2364c08a4f1ffda7f1c9ff2cb0b1c94166c78f6acbf792d23f17",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/01-89b8ebd536cff960.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0245/audio/01-89b8ebd536cff960.mp3",
-        "sourceAudioSha256": "89b8ebd536cff960c34989e0d5514fc3d9fca9400a4e9b977c2bf67fee3e0e78",
+        "audioFile": "audio/01-18b0fb466f181444.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0245/audio/01-18b0fb466f181444.mp3",
+        "sourceAudioSha256": "18b0fb466f181444d93c386c4b46f505e8871581f18b2792f5758ac4455370f7",
         "sourceAudioTextSha256": "f7c0dde8cd3830fe14d25fd387d90c498616c84334b3fe7e720610e162381121",
-        "audioDurationSeconds": 3.96
+        "audioDurationSeconds": 2.808
       },
       {
         "en": "We are going in dad's car.",
@@ -5244,11 +5252,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "de61f08ac9b1a4bed37d53b3bae9a65808fdb27eb4ba4d5cf7df63066e2082b4",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/02-2fca2993157358bd.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0245/audio/02-2fca2993157358bd.mp3",
-        "sourceAudioSha256": "2fca2993157358bd20e4d7eeb17d74fce396ee40ff57b083389326e741cf1f0a",
+        "audioFile": "audio/02-1de2f781f10bab22.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0245/audio/02-1de2f781f10bab22.mp3",
+        "sourceAudioSha256": "1de2f781f10bab22c42d589b02dc116ef29cde6058833452f50c756d97c1ed72",
         "sourceAudioTextSha256": "7ad59acd875ecea0351672e699615a51138fd2676bc213d4a99e48a8fade4345",
-        "audioDurationSeconds": 4.224
+        "audioDurationSeconds": 2.16
       },
       {
         "en": "We are going to see animals.",
@@ -5260,11 +5268,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "c5abcf366d66f7a2866db6fb5fec2ba172f744144378d4db62c139726da0c722",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/03-9ae23242f3ba97d0.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0245/audio/03-9ae23242f3ba97d0.mp3",
-        "sourceAudioSha256": "9ae23242f3ba97d0abce9813a74b7122f3446937027b9147eb2dd901c64e1c72",
+        "audioFile": "audio/03-e58fcd7fd6b62b8a.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0245/audio/03-e58fcd7fd6b62b8a.mp3",
+        "sourceAudioSha256": "e58fcd7fd6b62b8aa9c09f20ba9552fc43d6d6b3842cb39ab12a69f334c16583",
         "sourceAudioTextSha256": "94049541732337dfbdb798274e20eef391ce7b97f4e766e80ff3be54e093ab28",
-        "audioDurationSeconds": 3.744
+        "audioDurationSeconds": 2.568
       },
       {
         "en": "Look! An elephant. Look! A lion.",
@@ -5276,11 +5284,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "cd7705578ad732da32dde4e53834f6ece3182372ca120aaa1f13e754ce9e422b",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/04-82676b0e86fb1123.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0245/audio/04-82676b0e86fb1123.mp3",
-        "sourceAudioSha256": "82676b0e86fb1123894c773cac6a862f14aba91b4539848b402e83ca29f75d33",
+        "audioFile": "audio/04-8d755afbad4a4a90.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0245/audio/04-8d755afbad4a4a90.mp3",
+        "sourceAudioSha256": "8d755afbad4a4a90123a2e9a4f8a1e4e940733db63437abfe71e6b63c2d3f219",
         "sourceAudioTextSha256": "c8f8459d7117a7910ab9e500f9ace94921d8d9c246545e85362fb801ee3d2231",
-        "audioDurationSeconds": 6.408
+        "audioDurationSeconds": 4.248
       },
       {
         "en": "We walk through the whole zoo!",
@@ -5292,11 +5300,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "61f2a1f1876e215e5d83f36d80e33b17cce001bcf5d7a08cab650aac751de73b",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/05-31b5451046775b9a.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0245/audio/05-31b5451046775b9a.mp3",
-        "sourceAudioSha256": "31b5451046775b9a5a4723c49e529378d1f14b42739ca75690dfba793c4392b4",
+        "audioFile": "audio/05-2ce4874c56d907f1.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0245/audio/05-2ce4874c56d907f1.mp3",
+        "sourceAudioSha256": "2ce4874c56d907f16e31de8f8ab5240e9ccdb45449cbe4dc85bb78df2583a666",
         "sourceAudioTextSha256": "04ded83c51cb7c9bd60ca963f089c5b54192d980c0b7336b676278bb2d190d87",
-        "audioDurationSeconds": 3.336
+        "audioDurationSeconds": 2.376
       },
       {
         "en": "Look! Ice cream. Look! Sweets.",
@@ -5308,11 +5316,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "f65690d0cc36e24d5e8688ad55f04cda6f72947ebedf6d3dc13c30f5d51447a2",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/06-1c0c15101b6c4dda.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0245/audio/06-1c0c15101b6c4dda.mp3",
-        "sourceAudioSha256": "1c0c15101b6c4dda1f93143adf19ce17ca80c1ebd9759efc94ac89155f12e81c",
+        "audioFile": "audio/06-1ffb5c9424cab8e8.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0245/audio/06-1ffb5c9424cab8e8.mp3",
+        "sourceAudioSha256": "1ffb5c9424cab8e8fff5c0db7c650b5ad99b4ca9a49d56c46c8d44fd6fd46d47",
         "sourceAudioTextSha256": "bd15081bae31af48b94d2dce850b605973501d4a98b0434e75b712992c28dd39",
-        "audioDurationSeconds": 7.032
+        "audioDurationSeconds": 3.816
       },
       {
         "en": "And there is a clown with balloons.",
@@ -5324,11 +5332,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "1a221bb31c9841c14c6c183ad485b9c51238d92cb7c1a10a06d4a076be2735ec",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/07-462a55d8a187ada2.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0245/audio/07-462a55d8a187ada2.mp3",
-        "sourceAudioSha256": "462a55d8a187ada2d25d9ba26ac8a6aa5ae043dad56d4c71b897e73c3f649a8b",
+        "audioFile": "audio/07-3107c9eea72ded85.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0245/audio/07-3107c9eea72ded85.mp3",
+        "sourceAudioSha256": "3107c9eea72ded85cb36a0c0b4babf1e8b79ab66bef67fe32842e6ddadefc967",
         "sourceAudioTextSha256": "852b45b7d4b817178e293b738f692b33cc06f9f74525aff449a49e54d7dee1b2",
-        "audioDurationSeconds": 4.392
+        "audioDurationSeconds": 2.544
       },
       {
         "en": "Dad buys us nice things.",
@@ -5340,11 +5348,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "a37f30a47d71827f19b6196f887abf77f182f36c66d60cbd5dc81507467a94c1",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/08-3c109d3837c2c01a.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0245/audio/08-3c109d3837c2c01a.mp3",
-        "sourceAudioSha256": "3c109d3837c2c01aa5ddfd25d406c909723941406e17b731d78d87e8f313447e",
+        "audioFile": "audio/08-c0c690af3495e369.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0245/audio/08-c0c690af3495e369.mp3",
+        "sourceAudioSha256": "c0c690af3495e369e55bae412a8a18b7bbd60edd4f121033ab9bcd9f0a868254",
         "sourceAudioTextSha256": "4fe03847006e9a4abd4b6b964ace3627c44ec3c93f98cb683b63380f81a8d55e",
-        "audioDurationSeconds": 3.96
+        "audioDurationSeconds": 2.136
       },
       {
         "en": "Soon we must go home.",
@@ -5356,11 +5364,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "928a0265a066ed456e13261be3ec6b8f8f2fdf3ba35d1e85d52cb714de3d4e3b",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/09-040e5d75338e2b42.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0245/audio/09-040e5d75338e2b42.mp3",
-        "sourceAudioSha256": "040e5d75338e2b42ee12636314c7637a2465c39f8e2a1730b387e061fd8f7c20",
+        "audioFile": "audio/09-5cc7a0567432d5d2.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0245/audio/09-5cc7a0567432d5d2.mp3",
+        "sourceAudioSha256": "5cc7a0567432d5d2b763d7f20eb619059a19fa8c877099372d29b3f0c56f0dd1",
         "sourceAudioTextSha256": "6f5e195f75f302f18adc6489da85148c58e02f7d06230ab87b28648b62c0bb19",
-        "audioDurationSeconds": 3.528
+        "audioDurationSeconds": 2.568
       },
       {
         "en": "We saw many animals today!",
@@ -5372,11 +5380,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "9f4d43538ef8d3ee238358be17f06d8c8b24240ac5dd087704030fe449c9aa14",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/10-16d044a49d558b05.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0245/audio/10-16d044a49d558b05.mp3",
-        "sourceAudioSha256": "16d044a49d558b05250495ff20eb8078a6e666cbaa2dcf6297ed9d18d63c6f39",
+        "audioFile": "audio/10-efc224e5473d7641.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0245/audio/10-efc224e5473d7641.mp3",
+        "sourceAudioSha256": "efc224e5473d7641ece94ae4b5c0c8bc15a0b96bb6964e20d14c9d7e526e5ad5",
         "sourceAudioTextSha256": "cdfbdd650d58f7877b78b759062ca3946fcf3939c9d055c595be715caf828f0a",
-        "audioDurationSeconds": 3.528
+        "audioDurationSeconds": 2.568
       },
       {
         "en": "We are happy and tired.",
@@ -5388,11 +5396,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "1bccd5e9f9f8222148f95c113ab9505228975b0ae6ab736c462f6ab36a291f5f",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/11-eead10073c793382.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0245/audio/11-eead10073c793382.mp3",
-        "sourceAudioSha256": "eead10073c793382ac1f2b18bc49d148fa40acaf00da5e0fb7ea862bbf55b001",
+        "audioFile": "audio/11-23c1a441bf7c6475.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0245/audio/11-23c1a441bf7c6475.mp3",
+        "sourceAudioSha256": "23c1a441bf7c6475085fe5415c2c141148d4c0d49b4df1a7dba5146aa2a9bc07",
         "sourceAudioTextSha256": "366af50829bf2dfa1cb1bf812a46efad09f070edd898aab387b90abaf9ade6d2",
-        "audioDurationSeconds": 4.224
+        "audioDurationSeconds": 2.808
       },
       {
         "en": "I wish every day was like today!",
@@ -5404,11 +5412,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "456191e9e789260dd8479136b845ac8faca4fa8e803621cd7ae7fb6ebec6bcbe",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/12-109e8ebf590a88e8.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0245/audio/12-109e8ebf590a88e8.mp3",
-        "sourceAudioSha256": "109e8ebf590a88e83301050fbd839b9c1ac8944d87010439fd41c9f646616c46",
+        "audioFile": "audio/12-ed716902d9d8b271.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0245/audio/12-ed716902d9d8b271.mp3",
+        "sourceAudioSha256": "ed716902d9d8b27136123e84969db9b67a28199a3618b51ff1072161eed99a31",
         "sourceAudioTextSha256": "d057529b4aa3789c0f8cea842e7f3d54ea1b4fb9c97055438076b85ee82722be",
-        "audioDurationSeconds": 3.96
+        "audioDurationSeconds": 2.976
       }
     ],
     "keywords": [
@@ -5440,13 +5448,14 @@ window.JIGU_BOOKS = [
       "kind": "ai",
       "provider": "Volcengine",
       "model": "seed-tts-2.0",
-      "voice": "天才童声2.0",
-      "voiceId": "zh_male_tiancaitongsheng_uranus_bigtts",
+      "voice": "Charlie 2.0 美式英语（轻柔慢速）",
+      "voiceId": "ICL_uranus_en_female_charlie_tob",
       "voiceType": "preset",
-      "speechRate": -8,
+      "speechRate": -5,
       "pitchRate": 0,
-      "approvedAuditionRunId": 39222587639,
-      "adaptation": "AI narration produced by Jigu from the attributed English text, with disclosed minor copy edits."
+      "approvedAuditionRunId": 39233953938,
+      "adaptation": "AI narration produced by Jigu from the attributed English text.",
+      "approvedVariant": "english-gentle"
     }
   },
   {
@@ -5486,11 +5495,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "cda0ec0940a3b548e08c26d40ebbdad10be2cc7fb266f5e6b28847493dc7eb1a",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/01-947cda798fb57348.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0295/audio/01-947cda798fb57348.mp3",
-        "sourceAudioSha256": "947cda798fb5734826b19ed568f67294abf0584190203eb32cc131eb22767086",
+        "audioFile": "audio/01-719203615849716c.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0295/audio/01-719203615849716c.mp3",
+        "sourceAudioSha256": "719203615849716c0a58cfb48f79034493574bd3632cad51d216660be6e6dde5",
         "sourceAudioTextSha256": "c921148712ff465e94220d513088d55d6bd7f39bd6fe917738d1197b34ab9bfb",
-        "audioDurationSeconds": 2.664
+        "audioDurationSeconds": 1.944
       },
       {
         "en": "I love all the colours of the rainbow.",
@@ -5502,11 +5511,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "cda0ec0940a3b548e08c26d40ebbdad10be2cc7fb266f5e6b28847493dc7eb1a",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/02-66cf0ea10a3d3282.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0295/audio/02-66cf0ea10a3d3282.mp3",
-        "sourceAudioSha256": "66cf0ea10a3d328288ab5c8ddf0aa846a0709e89afcea358c31e20e0635c6c92",
+        "audioFile": "audio/02-8ade8ca6eef2651b.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0295/audio/02-8ade8ca6eef2651b.mp3",
+        "sourceAudioSha256": "8ade8ca6eef2651b9b354183874913d2e7fe05bba1528e125b25dbf146627634",
         "sourceAudioTextSha256": "767b7a9431f4aca13606766a2bfde820e22ae7d6da3fa39ffef0e7c6934c8fef",
-        "audioDurationSeconds": 4.632
+        "audioDurationSeconds": 2.976
       },
       {
         "en": "I wish I could have a rainbow house.",
@@ -5518,11 +5527,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "0156d2ad5a7bd3996c2ef0935d8f96fa97abb33c33f1a83a94383cac8a61a6db",
         "imageWidth": 480,
         "imageHeight": 546,
-        "audioFile": "audio/03-12f47e727cb8c653.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0295/audio/03-12f47e727cb8c653.mp3",
-        "sourceAudioSha256": "12f47e727cb8c65319840789f9c6143c0f480da2ec3b586e677b0f17c29ccd94",
+        "audioFile": "audio/03-e5ffd7a62f7160d5.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0295/audio/03-e5ffd7a62f7160d5.mp3",
+        "sourceAudioSha256": "e5ffd7a62f7160d569be2992d9dc65a5e714c8656f297f2522268cfe440d6d87",
         "sourceAudioTextSha256": "3c63de9139051dd1b215dabc502472eaba8494e288a35a99d7edea39a38e026f",
-        "audioDurationSeconds": 5.256
+        "audioDurationSeconds": 2.568
       },
       {
         "en": "It could have a red roof.",
@@ -5534,11 +5543,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "f3bd10d85912a40d20bb831b81116e27f5c3dac6b7e7f6fa0c82cc2687282189",
         "imageWidth": 480,
         "imageHeight": 480,
-        "audioFile": "audio/04-dd0e9a9d6e05cfaa.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0295/audio/04-dd0e9a9d6e05cfaa.mp3",
-        "sourceAudioSha256": "dd0e9a9d6e05cfaa334ada67db62d4386b1570c9733f5af06db523cc91bf3790",
+        "audioFile": "audio/04-ede7b7d73045106b.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0295/audio/04-ede7b7d73045106b.mp3",
+        "sourceAudioSha256": "ede7b7d73045106bc987ce6afc3902f60c77d01628d3b499c826afcb2fefadd2",
         "sourceAudioTextSha256": "d109af86ec005396d16e78afde9f6c931797f748d42f57b5d2c8efd73716ecf2",
-        "audioDurationSeconds": 3.528
+        "audioDurationSeconds": 2.136
       },
       {
         "en": "It could have blue windows.",
@@ -5550,11 +5559,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "6708af57f451345e6c128f02d8692af4caee87725709183ab74230b8f51ac7eb",
         "imageWidth": 535,
         "imageHeight": 546,
-        "audioFile": "audio/05-c52bc980c0dc87cd.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0295/audio/05-c52bc980c0dc87cd.mp3",
-        "sourceAudioSha256": "c52bc980c0dc87cdf96c6dee7890ffe55bc77c87085c45f30c88990be515ca9d",
+        "audioFile": "audio/05-41a287f09a64de30.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0295/audio/05-41a287f09a64de30.mp3",
+        "sourceAudioSha256": "41a287f09a64de30532605d656577a8131eb65c215c1ee4681b2cf1c7dcdfe95",
         "sourceAudioTextSha256": "687f2dea418879f3770903e8a7ec0831aad4aae6b26575f598fae7aab2db9184",
-        "audioDurationSeconds": 4.632
+        "audioDurationSeconds": 2.376
       },
       {
         "en": "I could have it painted yellow outside.",
@@ -5566,11 +5575,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "0156d2ad5a7bd3996c2ef0935d8f96fa97abb33c33f1a83a94383cac8a61a6db",
         "imageWidth": 480,
         "imageHeight": 546,
-        "audioFile": "audio/06-749779d7f56418ad.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0295/audio/06-749779d7f56418ad.mp3",
-        "sourceAudioSha256": "749779d7f56418ad08eff9ac8bf6fcf689462f8b0a23631f409edcdb21e0e2a6",
+        "audioFile": "audio/06-9d608a6f0527e076.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0295/audio/06-9d608a6f0527e076.mp3",
+        "sourceAudioSha256": "9d608a6f0527e07682d4a3c41b1eaed3362278088dfa451ddae2ddeba61cef21",
         "sourceAudioTextSha256": "ff913dbc4f10931dbe5ffe19dc9b29a309602c2e358df00f0f67449b619cdad8",
-        "audioDurationSeconds": 4.824
+        "audioDurationSeconds": 2.808
       },
       {
         "en": "It could have violet walls inside.",
@@ -5582,11 +5591,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "1fb2019201c9bf9c6eccfbaddac737257b945799b4a9b78b3113552cb58337e5",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/07-4adae28cd6f64c5b.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0295/audio/07-4adae28cd6f64c5b.mp3",
-        "sourceAudioSha256": "4adae28cd6f64c5bfd173994240d7138d7822c35cd3334d378ab2eb64ff6c536",
+        "audioFile": "audio/07-113fe7f8f763ce46.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0295/audio/07-113fe7f8f763ce46.mp3",
+        "sourceAudioSha256": "113fe7f8f763ce4668f2d349e0a2dba13d7216ace293497503484f8b6c77b45f",
         "sourceAudioTextSha256": "e984dab48a079f87a964fa2e60976bbe81724c5f591151b7c5b74eac053c5621",
-        "audioDurationSeconds": 4.824
+        "audioDurationSeconds": 3.0
       },
       {
         "en": "It could have orange flowers.",
@@ -5598,11 +5607,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "ed6e4b95759673fb79464fbe2700bd55391009166337bcb1ed985cc3dde34bd9",
         "imageWidth": 441,
         "imageHeight": 546,
-        "audioFile": "audio/08-72d12b6d93c0a7cf.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0295/audio/08-72d12b6d93c0a7cf.mp3",
-        "sourceAudioSha256": "72d12b6d93c0a7cf3ee1d36952d3f464c2474d647e25e5cd674e2fb60df0d502",
+        "audioFile": "audio/08-bf3b6f94ca099c76.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0295/audio/08-bf3b6f94ca099c76.mp3",
+        "sourceAudioSha256": "bf3b6f94ca099c764c9af6660a824c3c7371037dd9586ca369e68768266d1d6d",
         "sourceAudioTextSha256": "79416389c667fc8e25a3f1f9d64aa8c1821bb92ce21e8f6a9315701c29064cec",
-        "audioDurationSeconds": 3.768
+        "audioDurationSeconds": 2.376
       },
       {
         "en": "It could have an indigo bed.",
@@ -5614,11 +5623,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "81b01fd0cd4dbefbdc03f770cf641f0552e9e97f4e527f08ebe8a195613c7640",
         "imageWidth": 553,
         "imageHeight": 546,
-        "audioFile": "audio/09-2ae7f4aea96c92f2.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0295/audio/09-2ae7f4aea96c92f2.mp3",
-        "sourceAudioSha256": "2ae7f4aea96c92f2a44ef24c12543ad4d9f8006ad149ad93b0641d6a01358abf",
+        "audioFile": "audio/09-09d00163e06a6b3e.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0295/audio/09-09d00163e06a6b3e.mp3",
+        "sourceAudioSha256": "09d00163e06a6b3eb8dfdc5fe3f87f8e75264282b7b15d15a5e25a573d1b6d2b",
         "sourceAudioTextSha256": "1cda54137e8eb87b761e5a09f56d390de2e543f0038fb8d701412d142e6d6f17",
-        "audioDurationSeconds": 3.336
+        "audioDurationSeconds": 1.968
       },
       {
         "en": "It could have a green garden.",
@@ -5630,11 +5639,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "f7dc6df014ae5ba878390fde46d7103c5ab93722f0f7ca6f67c900d4e17ab038",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/10-c0712ec07910ec0a.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0295/audio/10-c0712ec07910ec0a.mp3",
-        "sourceAudioSha256": "c0712ec07910ec0ad116a519184019e9503e0f1f2b05b3b991c6a93478863aef",
+        "audioFile": "audio/10-8053a2d72521b7c3.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0295/audio/10-8053a2d72521b7c3.mp3",
+        "sourceAudioSha256": "8053a2d72521b7c375ca2347671e1ffaa83155da915acd26e15818c977a3c1fe",
         "sourceAudioTextSha256": "ad4d84e9c862cecc40f86d94e61e25c96f836cd7bb78d06592d82e2d81726828",
-        "audioDurationSeconds": 3.528
+        "audioDurationSeconds": 2.376
       }
     ],
     "keywords": [
@@ -5666,13 +5675,14 @@ window.JIGU_BOOKS = [
       "kind": "ai",
       "provider": "Volcengine",
       "model": "seed-tts-2.0",
-      "voice": "天才童声2.0",
-      "voiceId": "zh_male_tiancaitongsheng_uranus_bigtts",
+      "voice": "Charlie 2.0 美式英语（轻柔慢速）",
+      "voiceId": "ICL_uranus_en_female_charlie_tob",
       "voiceType": "preset",
-      "speechRate": -8,
+      "speechRate": -5,
       "pitchRate": 0,
-      "approvedAuditionRunId": 39222587639,
-      "adaptation": "AI narration produced by Jigu from the attributed English text, with disclosed minor copy edits."
+      "approvedAuditionRunId": 39233953938,
+      "adaptation": "AI narration produced by Jigu from the attributed English text.",
+      "approvedVariant": "english-gentle"
     }
   },
   {
@@ -5712,11 +5722,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "776df75c312ceef69673a78760206714430cd09daf4cc7a96eb3e480e4ac7190",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/01-598e803f0ba81341.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0311/audio/01-598e803f0ba81341.mp3",
-        "sourceAudioSha256": "598e803f0ba81341cbe1c6f8bf372354385d092a0f00611c580ef7deda2eff55",
+        "audioFile": "audio/01-e6dc00c9067777b6.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0311/audio/01-e6dc00c9067777b6.mp3",
+        "sourceAudioSha256": "e6dc00c9067777b6aec34ae7db5c30f6252874a870b2244deaf0eafda6d815c2",
         "sourceAudioTextSha256": "2c8cb61bf8dea492d1732880fc38dc514e40844660c4366d51639b9e06993930",
-        "audioDurationSeconds": 12.48
+        "audioDurationSeconds": 7.608
       },
       {
         "en": "My teacher says, \"Sit still! Don't dance about all day.\"",
@@ -5728,11 +5738,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "62ee122465994377923163582b91835a89894a26eb4f0b437e52b684c1cd5142",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/02-abefe7b12f32d797.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0311/audio/02-abefe7b12f32d797.mp3",
-        "sourceAudioSha256": "abefe7b12f32d797e865abb8649685a9348d949ad6699d3e4231db565a720b32",
+        "audioFile": "audio/02-2d80163538b11e41.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0311/audio/02-2d80163538b11e41.mp3",
+        "sourceAudioSha256": "2d80163538b11e415a384ce99694c4a6f3748bc1cfd6f0fbb9d52056b86c7960",
         "sourceAudioTextSha256": "30426e9ebcde98cad8f0103858d9ac6409c7136fa03df6e0f98e2e3bbc5a29ab",
-        "audioDurationSeconds": 6.816
+        "audioDurationSeconds": 4.488
       },
       {
         "en": "But my mother says, \"Dancing makes you healthy, Dancing makes you tall, One day you'll be a dancer, And surprise them all!\"",
@@ -5744,11 +5754,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "8ee4b1def316405732b767368bcde73811126290520fa37521282e6d47114395",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/03-2d0768841dff8119.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0311/audio/03-2d0768841dff8119.mp3",
-        "sourceAudioSha256": "2d0768841dff8119d570bc027b6ca48d1b80626fa298738635a1842f6936a097",
+        "audioFile": "audio/03-6148039e16b2f4d5.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0311/audio/03-6148039e16b2f4d5.mp3",
+        "sourceAudioSha256": "6148039e16b2f4d53d5b67e6d1f3cd8e758ea397baaab717fc5af6222f26564f",
         "sourceAudioTextSha256": "d866c024994e99462da72ab67fb3993dacb5f61a57de1e4149e3d42c1a45bf86",
-        "audioDurationSeconds": 12.048
+        "audioDurationSeconds": 7.848
       },
       {
         "en": "And I say, \"One day I'll dance and people will pay Just to see me leap and twirl. 'Her dancing is SO good,' they'll say.\"",
@@ -5760,11 +5770,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "bd957d5b67e07f2ba0a192dc3c429f85a4461fcf6132142bf0a723737f0dfbea",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/04-1210c4a459e43528.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0311/audio/04-1210c4a459e43528.mp3",
-        "sourceAudioSha256": "1210c4a459e4352856e0723183b86645bbaee3884f3cbd1cb4f2e6ed196b5a6e",
+        "audioFile": "audio/04-0a52688664b7c06d.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0311/audio/04-0a52688664b7c06d.mp3",
+        "sourceAudioSha256": "0a52688664b7c06d39b34667a7a636e54072e9c2546bb9814e9bc0ec8cc39bf4",
         "sourceAudioTextSha256": "08b73a5327e8da395730c2a6ca1acc49dbe68290b36be4321e1ac66c98a7d349",
-        "audioDurationSeconds": 12.648
+        "audioDurationSeconds": 8.88
       },
       {
         "en": "",
@@ -5807,13 +5817,14 @@ window.JIGU_BOOKS = [
       "kind": "ai",
       "provider": "Volcengine",
       "model": "seed-tts-2.0",
-      "voice": "天才童声2.0",
-      "voiceId": "zh_male_tiancaitongsheng_uranus_bigtts",
+      "voice": "Charlie 2.0 美式英语（轻柔慢速）",
+      "voiceId": "ICL_uranus_en_female_charlie_tob",
       "voiceType": "preset",
-      "speechRate": -8,
+      "speechRate": -5,
       "pitchRate": 0,
-      "approvedAuditionRunId": 39222587639,
-      "adaptation": "AI narration produced by Jigu from the attributed English text, with disclosed minor copy edits."
+      "approvedAuditionRunId": 39233953938,
+      "adaptation": "AI narration produced by Jigu from the attributed English text.",
+      "approvedVariant": "english-gentle"
     }
   },
   {
@@ -5854,11 +5865,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "f3a2054457db7c007f5540545affcc6666c7fb9bad007dc6506e0b2de43c2608",
         "imageWidth": 540,
         "imageHeight": 546,
-        "audioFile": "audio/01-0ff60b96c801d273.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0143/audio/01-0ff60b96c801d273.mp3",
-        "sourceAudioSha256": "0ff60b96c801d27394b1a5cc6f609e30adb1cc5182a36ff21ecb4fe69b88e2a5",
+        "audioFile": "audio/01-0bb3020d8a0c5eef.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0143/audio/01-0bb3020d8a0c5eef.mp3",
+        "sourceAudioSha256": "0bb3020d8a0c5eefd84a58ef49afa17c9cee80056fd931b49fc0c4e8f705aeff",
         "sourceAudioTextSha256": "2f7bcb1b3902f332e13e13a6a5eb8a3f733d5f0fa7b86c5b509ba8f4cdea6a4f",
-        "audioDurationSeconds": 1.776
+        "audioDurationSeconds": 1.128
       },
       {
         "en": "My ball.",
@@ -5870,11 +5881,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "f21f8e2d0cd30e74a8fa47e9ef01fdde0a36136e23dcb5a379dce5cadb08e91c",
         "imageWidth": 537,
         "imageHeight": 546,
-        "audioFile": "audio/02-2cae5dd6307409eb.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0143/audio/02-2cae5dd6307409eb.mp3",
-        "sourceAudioSha256": "2cae5dd6307409eba9e5ddc1252c2b5cc86a4ad017e2150e11af698117ff5345",
+        "audioFile": "audio/02-30faa6cbcca204d0.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0143/audio/02-30faa6cbcca204d0.mp3",
+        "sourceAudioSha256": "30faa6cbcca204d023e6d35bc88375fba893382b06bfb7eadf7b66819dda58e8",
         "sourceAudioTextSha256": "d01fd5c17f774d88cc6873adee48bcc2303fb8d501377842ff3f9d38089fcb82",
-        "audioDurationSeconds": 2.016
+        "audioDurationSeconds": 1.296
       },
       {
         "en": "My red ball.",
@@ -5886,11 +5897,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "7758f7a35fccc39ba2b3cc72c72f854c771eef9d7288c6694f5f1fe727057bd4",
         "imageWidth": 538,
         "imageHeight": 546,
-        "audioFile": "audio/03-3a4461239e067eb2.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0143/audio/03-3a4461239e067eb2.mp3",
-        "sourceAudioSha256": "3a4461239e067eb247cd64372a5b8e4799684e9288a1c87288eb3c2077eac5fa",
+        "audioFile": "audio/03-1296c1d3a1d363c9.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0143/audio/03-1296c1d3a1d363c9.mp3",
+        "sourceAudioSha256": "1296c1d3a1d363c93e4ae787529ee8b2d3bff12ef92d9b00d9c0c73dc6d9b499",
         "sourceAudioTextSha256": "19fed15f2b78d559bdf34e5b838f9181031dfed5d029691236fbdfb676d28efd",
-        "audioDurationSeconds": 3.528
+        "audioDurationSeconds": 1.728
       },
       {
         "en": "My big red ball.",
@@ -5902,11 +5913,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "ada0fe60047b576fe29d84659ad4f5de3ccd959ed96819ef7344d8441c07ab8f",
         "imageWidth": 536,
         "imageHeight": 546,
-        "audioFile": "audio/04-8448b1543482d880.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0143/audio/04-8448b1543482d880.mp3",
-        "sourceAudioSha256": "8448b1543482d880d4e4a819ee5c1d79f71a75c739f01907b7616e5b01924820",
+        "audioFile": "audio/04-84b97b962c84083b.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0143/audio/04-84b97b962c84083b.mp3",
+        "sourceAudioSha256": "84b97b962c84083b792f83348f9bb01d73bcec7b92ef7e8eb180007321f9304f",
         "sourceAudioTextSha256": "1e90b5d49cd92a1d9dfc8c7ce871ff0ac0eadd02b65fd788007380afdc6581b2",
-        "audioDurationSeconds": 4.224
+        "audioDurationSeconds": 1.968
       },
       {
         "en": "I kick.",
@@ -5918,11 +5929,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "4962d5e998b73e29bee3215096623e75101404882c0507df459cf9999507d8d3",
         "imageWidth": 545,
         "imageHeight": 546,
-        "audioFile": "audio/05-970b7017ad048a5c.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0143/audio/05-970b7017ad048a5c.mp3",
-        "sourceAudioSha256": "970b7017ad048a5c7e6b72f326e813758a2554741a2eb10f87f3eca76d396d8c",
+        "audioFile": "audio/05-40fdcf6c35c55b4e.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0143/audio/05-40fdcf6c35c55b4e.mp3",
+        "sourceAudioSha256": "40fdcf6c35c55b4e1129da3f0ed3f424fddc662c4f65042719504e1b83b37a47",
         "sourceAudioTextSha256": "4d3b0cf42cbad0172b15692140ebcc810547ee98d296caa10af581ea1e6a5a97",
-        "audioDurationSeconds": 2.04
+        "audioDurationSeconds": 1.296
       },
       {
         "en": "I kick my ball.",
@@ -5934,11 +5945,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "1a57e406059602c4293e8695dfe0788ce25b432900d55665ff129c83368d184a",
         "imageWidth": 541,
         "imageHeight": 546,
-        "audioFile": "audio/06-d2d804d43ccf70a8.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0143/audio/06-d2d804d43ccf70a8.mp3",
-        "sourceAudioSha256": "d2d804d43ccf70a82ce9f92550c9e525329a5ca113d09bb1cd73afc59533be1b",
+        "audioFile": "audio/06-d38c3214d7f0c492.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0143/audio/06-d38c3214d7f0c492.mp3",
+        "sourceAudioSha256": "d38c3214d7f0c492bf0f03a34c1e31a09154ce8e617da680f3174e0087e1a46f",
         "sourceAudioTextSha256": "f3c0d73715beb659b9b79aa5dc71d6db5d367d870acabfd726d040981e0db42b",
-        "audioDurationSeconds": 3.072
+        "audioDurationSeconds": 1.728
       },
       {
         "en": "I kick my red ball.",
@@ -5950,11 +5961,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "2f0096f07079116c63ccd28b70022a57f4bb82e8808ada0024268506e177f377",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/07-1d401739fc650191.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0143/audio/07-1d401739fc650191.mp3",
-        "sourceAudioSha256": "1d401739fc650191752ca14fc334c5dee886f595640c4be680afe72e40b9203e",
+        "audioFile": "audio/07-8bde8ffcb607c9ec.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0143/audio/07-8bde8ffcb607c9ec.mp3",
+        "sourceAudioSha256": "8bde8ffcb607c9ec6e50c62e6b8494cfb268c7e8a33bafcf26ca572654646984",
         "sourceAudioTextSha256": "13a45bf97854ced0a85acf0d6e96757333541f78af3b24f4824c101c2224b7f9",
-        "audioDurationSeconds": 2.904
+        "audioDurationSeconds": 2.136
       },
       {
         "en": "I kick my red ball hard!",
@@ -5966,11 +5977,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "4e8ea7aefeada71a72da86fd91b25879a6315c8a8c0197938dccbe26ab59ac94",
         "imageWidth": 541,
         "imageHeight": 546,
-        "audioFile": "audio/08-9862b7da82b9d295.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0143/audio/08-9862b7da82b9d295.mp3",
-        "sourceAudioSha256": "9862b7da82b9d295530d9b466f0ec98fe7fa4cbbbf6a09afe968a92d99bdd6ef",
+        "audioFile": "audio/08-3e5b4526b479280d.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0143/audio/08-3e5b4526b479280d.mp3",
+        "sourceAudioSha256": "3e5b4526b479280d7e862276e861793627b717d4c93dced81c83b16f72a8b16f",
         "sourceAudioTextSha256": "786ee693f688cbdccd77d50bd163aa066ea5e5dcb7f13a435846e3898be3bdf7",
-        "audioDurationSeconds": 3.336
+        "audioDurationSeconds": 2.568
       },
       {
         "en": "Where?",
@@ -5982,11 +5993,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "042f66a54f9f83ee0808239287802f163439d35172889bfce0066f1efd644273",
         "imageWidth": 543,
         "imageHeight": 546,
-        "audioFile": "audio/09-a807389f4b576afd.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0143/audio/09-a807389f4b576afd.mp3",
-        "sourceAudioSha256": "a807389f4b576afd551a1608327cf301023dc9b31f9c12ae0f867e8234ce3aef",
+        "audioFile": "audio/09-e3778fb37e8b8e0c.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0143/audio/09-e3778fb37e8b8e0c.mp3",
+        "sourceAudioSha256": "e3778fb37e8b8e0c8324d617b9d07879b8724ab260d7b4e50d6d62b00fea70aa",
         "sourceAudioTextSha256": "91f45115c34f7dcf6eb244ea679ade1f3ff13bf8215b007449b7624d67b19858",
-        "audioDurationSeconds": 2.016
+        "audioDurationSeconds": 1.296
       },
       {
         "en": "Where is my ball?",
@@ -5998,11 +6009,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "01283597a62b8e965e479507de871cd8538474eb25037415e22251c26ba9ad89",
         "imageWidth": 541,
         "imageHeight": 546,
-        "audioFile": "audio/10-db6e3ed83fc6bde2.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0143/audio/10-db6e3ed83fc6bde2.mp3",
-        "sourceAudioSha256": "db6e3ed83fc6bde22d4b4044b0a6854ec841b45c07b2534814547cf0066d93b9",
+        "audioFile": "audio/10-a55669cbd3a4980c.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0143/audio/10-a55669cbd3a4980c.mp3",
+        "sourceAudioSha256": "a55669cbd3a4980c153a90ac431b4dde97535ce3be019f9f0668df76205b400e",
         "sourceAudioTextSha256": "45ec2678a39205b64282dbef4466dda8436e1fb23a268db80a0e45f622c0d2b0",
-        "audioDurationSeconds": 2.904
+        "audioDurationSeconds": 1.944
       },
       {
         "en": "Where is my ball now?",
@@ -6014,11 +6025,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "8973cceb61b50f19f5dcfcc7ed27e17b80831cf6ddc7c976860fef19ebee31a1",
         "imageWidth": 540,
         "imageHeight": 546,
-        "audioFile": "audio/11-89e227e14533315b.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0143/audio/11-89e227e14533315b.mp3",
-        "sourceAudioSha256": "89e227e14533315b626466a9eda433f1fcb7d86ec93382b74d0e611aad3dcf81",
+        "audioFile": "audio/11-60a132fdb350b0f5.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0143/audio/11-60a132fdb350b0f5.mp3",
+        "sourceAudioSha256": "60a132fdb350b0f54be14521256d1bd493491dda8a4ffa7af22ca1b2296bb577",
         "sourceAudioTextSha256": "6297d54f056a8ed299ec32f7c2f7ee04a57c73a0d33dab5f7e6582d3a12f64c5",
-        "audioDurationSeconds": 3.96
+        "audioDurationSeconds": 1.944
       },
       {
         "en": "Where is my red ball now?",
@@ -6030,11 +6041,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "4c0e6459a41213f79662f76cc034748f9d136ee931b8447eab01fefe5d5619ba",
         "imageWidth": 550,
         "imageHeight": 546,
-        "audioFile": "audio/12-a3572826afb4c7b3.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0143/audio/12-a3572826afb4c7b3.mp3",
-        "sourceAudioSha256": "a3572826afb4c7b3ab2ce9f774b0c9c856a82a67cbb5a073fe6c67b76f684ef8",
+        "audioFile": "audio/12-cb4da7398ce30f98.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0143/audio/12-cb4da7398ce30f98.mp3",
+        "sourceAudioSha256": "cb4da7398ce30f98c0529ddbf6c75cc6b82059d35cc0586efd7f867f76405be7",
         "sourceAudioTextSha256": "bedbfbaf6d9e6cba851755700088c72fdb2cc96c20fc3e1a5f1e9236788f958d",
-        "audioDurationSeconds": 3.792
+        "audioDurationSeconds": 2.136
       },
       {
         "en": "It is up.",
@@ -6046,11 +6057,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "d9cc6fe302dbe315dfb11129b05353dddfd858cf2aa429c369ff0a7d7768f287",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/13-35796d25ab8d0eca.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0143/audio/13-35796d25ab8d0eca.mp3",
-        "sourceAudioSha256": "35796d25ab8d0ecadbfe94f8c511cd1b1824c4d87eb07cf09b9d93faaa5edf2b",
+        "audioFile": "audio/13-70a8a62ed3127bf7.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0143/audio/13-70a8a62ed3127bf7.mp3",
+        "sourceAudioSha256": "70a8a62ed3127bf7cb1552fa1a98956a7a291325e882e460ab9f435994a1a414",
         "sourceAudioTextSha256": "257b61ba527237f60ea8958a1835e40a81ec543fdcc35a3fa797c5a5f72851ea",
-        "audioDurationSeconds": 2.64
+        "audioDurationSeconds": 1.728
       },
       {
         "en": "It is high up.",
@@ -6062,11 +6073,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "a75cb12463d3f4fab4abeabea1343f2b9df704f6628105be59e23eeb425afc1a",
         "imageWidth": 547,
         "imageHeight": 546,
-        "audioFile": "audio/14-a870f5985f610cf1.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0143/audio/14-a870f5985f610cf1.mp3",
-        "sourceAudioSha256": "a870f5985f610cf15a5a02a3f11d8aaba29f03a3e7e24b02cfee0aa07810b173",
+        "audioFile": "audio/14-f93fb516003428cd.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0143/audio/14-f93fb516003428cd.mp3",
+        "sourceAudioSha256": "f93fb516003428cda0d758799ac3b6e4a14833e748380d7127751b3fb1f0a5fc",
         "sourceAudioTextSha256": "1821e297a9863049b49cafe0ac592b777f6259bd0d01e5e5a7918c03e756605c",
-        "audioDurationSeconds": 2.64
+        "audioDurationSeconds": 2.136
       },
       {
         "en": "It is high up in the sky.",
@@ -6078,11 +6089,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "aaf4743448f6af17a1b970c58e135d8e78320ed68a55fb62135dffc1644fbd61",
         "imageWidth": 549,
         "imageHeight": 546,
-        "audioFile": "audio/15-efe76d5cbce90089.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0143/audio/15-efe76d5cbce90089.mp3",
-        "sourceAudioSha256": "efe76d5cbce9008930eb279bdcc7952b15396dc54e9cc7d23e9acc1cc15d0a69",
+        "audioFile": "audio/15-d94af3a9f64973c2.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0143/audio/15-d94af3a9f64973c2.mp3",
+        "sourceAudioSha256": "d94af3a9f64973c295067885647b9cda4105bf757a2a5fa76fe358ec2c1423cb",
         "sourceAudioTextSha256": "c7913118816c534c717f98f24915598cb09807a5228282be0be40c8642353163",
-        "audioDurationSeconds": 3.744
+        "audioDurationSeconds": 2.544
       },
       {
         "en": "It is high up in the sky. It is over the moon. It is gone!",
@@ -6094,11 +6105,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "b6b5f9c62c81b057ea225391cdb5e836b024a7c94b98cd6d78378642778b2aa1",
         "imageWidth": 543,
         "imageHeight": 546,
-        "audioFile": "audio/16-fe393ace07f407b2.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0143/audio/16-fe393ace07f407b2.mp3",
-        "sourceAudioSha256": "fe393ace07f407b2c44b8ae2ab352c9ce5b5032e47557c3b7283994ad12d8ada",
+        "audioFile": "audio/16-943563292f89acdb.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0143/audio/16-943563292f89acdb.mp3",
+        "sourceAudioSha256": "943563292f89acdbace08fc14ebc2e64865bbccaa66958da413b405482278945",
         "sourceAudioTextSha256": "7ec6d4c9d287b674997a3173d0b4aa0b329e3fb8a976aad73879dec8f24d61d5",
-        "audioDurationSeconds": 7.032
+        "audioDurationSeconds": 5.328
       }
     ],
     "keywords": [
@@ -6130,13 +6141,14 @@ window.JIGU_BOOKS = [
       "kind": "ai",
       "provider": "Volcengine",
       "model": "seed-tts-2.0",
-      "voice": "天才童声2.0",
-      "voiceId": "zh_male_tiancaitongsheng_uranus_bigtts",
+      "voice": "Charlie 2.0 美式英语（轻柔慢速）",
+      "voiceId": "ICL_uranus_en_female_charlie_tob",
       "voiceType": "preset",
-      "speechRate": -8,
+      "speechRate": -5,
       "pitchRate": 0,
-      "approvedAuditionRunId": 39222587639,
-      "adaptation": "AI narration produced by Jigu from the attributed English text, with disclosed minor copy edits."
+      "approvedAuditionRunId": 39233953938,
+      "adaptation": "AI narration produced by Jigu from the attributed English text.",
+      "approvedVariant": "english-gentle"
     }
   },
   {
@@ -6176,11 +6188,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "ae8c93e6575991fb2b1e9b81a41326bfa81abc2c0f82377dfc55da5cf64317ea",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/01-42c763f9062a9ebf.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0296/audio/01-42c763f9062a9ebf.mp3",
-        "sourceAudioSha256": "42c763f9062a9ebfb452bb9d8ed37e92e6764c4282f5bc03a9529d0f7f5cb377",
+        "audioFile": "audio/01-8a1ffda2c635591b.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0296/audio/01-8a1ffda2c635591b.mp3",
+        "sourceAudioSha256": "8a1ffda2c635591b89f716f979f6e8ee568e86458a0f7e89dfdf06aa86b2475f",
         "sourceAudioTextSha256": "95e48506b0990edbe8c581b0c6dec9f2e71bed042a95ebb80789213dec4dfbbc",
-        "audioDurationSeconds": 4.848
+        "audioDurationSeconds": 3.216
       },
       {
         "en": "Tom goes to the market to sell bananas.",
@@ -6192,11 +6204,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "eac81882df638063190bbc44756b698a161f282ec7744221180f32e3afe4c7f9",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/02-aefd57b8a9ec9b6f.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0296/audio/02-aefd57b8a9ec9b6f.mp3",
-        "sourceAudioSha256": "aefd57b8a9ec9b6faad669e73ab3b1eddf6e8d38ef046f7a3afa0f9f2d07043d",
+        "audioFile": "audio/02-1de3e30721397b2c.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0296/audio/02-1de3e30721397b2c.mp3",
+        "sourceAudioSha256": "1de3e30721397b2c67c61d34ec5929b231db9c7e7097a80507014312bb6ddddf",
         "sourceAudioTextSha256": "4b6c99444c3813247febb70dccc203300e40fc433f68405971a66b772970135e",
-        "audioDurationSeconds": 4.8
+        "audioDurationSeconds": 3.0
       },
       {
         "en": "People at the market are buying fruit.",
@@ -6208,11 +6220,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "e72e38e6a75cf315f16f429ad2175bc0ca26250c2b93709e0d6200fed699b4bf",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/03-41b702d00267d6bb.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0296/audio/03-41b702d00267d6bb.mp3",
-        "sourceAudioSha256": "41b702d00267d6bb8763794b2de6964b4e079291c7b8464258f37a40b1fc2b0a",
+        "audioFile": "audio/03-ed8f0dd9b5d144ec.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0296/audio/03-ed8f0dd9b5d144ec.mp3",
+        "sourceAudioSha256": "ed8f0dd9b5d144ec7b38866cf2097f7ac3ae2438954fea94e5ba270d6bf9f326",
         "sourceAudioTextSha256": "43713e9c69c2b38fd37188a5e8175960176e717c244868c1ee9e2e8410d3d18d",
-        "audioDurationSeconds": 4.824
+        "audioDurationSeconds": 2.808
       },
       {
         "en": "But no one is buying Tom's bananas. They prefer to buy fruit from women.",
@@ -6224,11 +6236,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "0b5ff6ec66a8bac49cd69e267c13257ea4345e3514dc5f6b605cb2e7c71e9783",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/04-8c7fc2f3e851ae1e.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0296/audio/04-8c7fc2f3e851ae1e.mp3",
-        "sourceAudioSha256": "8c7fc2f3e851ae1e00b5774c807888e14fdd00a9180aded766285d2b1025c3fc",
+        "audioFile": "audio/04-4701b5b8e98db971.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0296/audio/04-4701b5b8e98db971.mp3",
+        "sourceAudioSha256": "4701b5b8e98db97153c21635d1d4e21b6fdef8f0b8ed02aac3c764256b915277",
         "sourceAudioTextSha256": "ca5098744be56272a13c8e31e9d09fb47abaa0a1b4e24726594416abaab8cce7",
-        "audioDurationSeconds": 8.592
+        "audioDurationSeconds": 4.92
       },
       {
         "en": "\"In our community, only women sell fruit,\" people say. \"What kind of a man is this?\" people ask.",
@@ -6240,11 +6252,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "e160af49750be2178f322695733e669d5c76f2a2852ea3c4d2f2ebfa827a6b82",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/05-d08ce808d53cf2ab.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0296/audio/05-d08ce808d53cf2ab.mp3",
-        "sourceAudioSha256": "d08ce808d53cf2ab133670d1af31c39a426c9d77ed75c012dbc542d5d393eb99",
+        "audioFile": "audio/05-588af00d46e4f4c0.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0296/audio/05-588af00d46e4f4c0.mp3",
+        "sourceAudioSha256": "588af00d46e4f4c0197ce7842680fa62c87905a994f201cc7ec86e639e031033",
         "sourceAudioTextSha256": "0c027b84ccdd247dd8c0181b45ddc6166c2abef1ec13793afa759fab0e497c93",
-        "audioDurationSeconds": 10.32
+        "audioDurationSeconds": 7.032
       },
       {
         "en": "But Tom does not give up. He calls, \"Buy my bananas! Buy my sweet ripe bananas!\"",
@@ -6256,11 +6268,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "573bbfe9acd2117bf3237a6d93fa09fa733ff6c4e68afde4bdfdfaba7c680763",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/06-8e9092655c3bf14a.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0296/audio/06-8e9092655c3bf14a.mp3",
-        "sourceAudioSha256": "8e9092655c3bf14a8d7fbe07221dc9b1cc9826ac53e58c25c0dad673ec1cc2c6",
+        "audioFile": "audio/06-c8d0d0aed7a17885.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0296/audio/06-c8d0d0aed7a17885.mp3",
+        "sourceAudioSha256": "c8d0d0aed7a178855989887922982568477f322563e9fe2f7c0aac4b47548e87",
         "sourceAudioTextSha256": "e025a6484676050205e825150b33662419efe1e0823b9a21f5e8493ed220fcea",
-        "audioDurationSeconds": 9.168
+        "audioDurationSeconds": 7.008
       },
       {
         "en": "One woman picks up a bunch of bananas from the tray. She looks at the bananas carefully.",
@@ -6272,11 +6284,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "c6d7f08df5675fbd18a32b2a7e5bf1678d316366a0174a3da16a593bcfb0846c",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/07-b08b3242113e180b.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0296/audio/07-b08b3242113e180b.mp3",
-        "sourceAudioSha256": "b08b3242113e180b3010045b17d2fba63d482da7c89ecf91650f7b764f028ed7",
+        "audioFile": "audio/07-ac8d32814db267cf.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0296/audio/07-ac8d32814db267cf.mp3",
+        "sourceAudioSha256": "ac8d32814db267cf1585490f2dea5819ff97fd011186b77675f6f71bcea9d3f4",
         "sourceAudioTextSha256": "a2b6f5bf1e6e2e7e419d6f688978037ab59cd0981f7d5cfaefa5e040b23bb7be",
-        "audioDurationSeconds": 9.864
+        "audioDurationSeconds": 5.736
       },
       {
         "en": "The woman buys the bananas.",
@@ -6288,11 +6300,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "92321fafc3cd130ae6bcb41e35cc93deb7cbca3142e8e4ae4b8117f24f40d924",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/08-2ac15b4a0a66fc26.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0296/audio/08-2ac15b4a0a66fc26.mp3",
-        "sourceAudioSha256": "2ac15b4a0a66fc26674ed2812cc60f960dc35085c46bc8cdaead72694e5d5497",
+        "audioFile": "audio/08-37b2edf463f08d62.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0296/audio/08-37b2edf463f08d62.mp3",
+        "sourceAudioSha256": "37b2edf463f08d622811ca59e6163ddff096172c633192f233925dd2970feddb",
         "sourceAudioTextSha256": "bb47d092711bedff3cd3a2cb17fe69b384269fbfdb86cedaaf5c8475668b97a1",
-        "audioDurationSeconds": 4.2
+        "audioDurationSeconds": 2.376
       },
       {
         "en": "More people come to the stall. They buy Tom's bananas and eat them.",
@@ -6304,11 +6316,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "840e669af717b29f0474ac632a6e89922cbe0bb8087ed37a1bc71bfa217f4169",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/09-9a9b92bc89fc1590.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0296/audio/09-9a9b92bc89fc1590.mp3",
-        "sourceAudioSha256": "9a9b92bc89fc159027a4b6417f887d9505c4ea22d2d40fd7c8949a76c3712025",
+        "audioFile": "audio/09-1ace0090da0d6527.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0296/audio/09-1ace0090da0d6527.mp3",
+        "sourceAudioSha256": "1ace0090da0d6527dc9bb6ecacb0f9cfbe68f3e0fc80bbc347623693298aede8",
         "sourceAudioTextSha256": "8a1df137af0bde177cd37354e3bdff66136e898a0214b1e1a7351d2bf3089383",
-        "audioDurationSeconds": 6.792
+        "audioDurationSeconds": 4.656
       },
       {
         "en": "Soon, the tray is empty. Tom counts the money he earned.",
@@ -6320,11 +6332,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "08c5beee77476dd83fcc2ee890c244c34647af00127ac5b1e213e6f52141c9f5",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/10-f93455ec8344d3ab.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0296/audio/10-f93455ec8344d3ab.mp3",
-        "sourceAudioSha256": "f93455ec8344d3ab804357efa3a8b66f0804f540a7ec888a64c914129bac66e1",
+        "audioFile": "audio/10-3976732614301a27.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0296/audio/10-3976732614301a27.mp3",
+        "sourceAudioSha256": "3976732614301a27c090d8377b9c4f119f90dad7e14c57d38b2007d9d45cbc8e",
         "sourceAudioTextSha256": "6f8d035d7c4f0c64a6abe1019ec8d0e29b976423c5dbce5a20cadb12bc9914f9",
-        "audioDurationSeconds": 7.248
+        "audioDurationSeconds": 4.464
       },
       {
         "en": "Then Tom buys soap, sugar, and bread. He puts the things in his tray.",
@@ -6336,11 +6348,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "e350bb832ce235fcc690bf46424a405ee2a72de20b0ba0483542e77f167ce417",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/11-258723c06cf90f19.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0296/audio/11-258723c06cf90f19.mp3",
-        "sourceAudioSha256": "258723c06cf90f19da3d847561a7222a51b9683b4e7a779efda2d0d86f8d562b",
+        "audioFile": "audio/11-862533ada24dc754.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0296/audio/11-862533ada24dc754.mp3",
+        "sourceAudioSha256": "862533ada24dc7546a54fc3ac7422f55b06241fbb3c751018d7b4058c5b2bf1b",
         "sourceAudioTextSha256": "2b1d4ef3d26bac1dde916245f2c36b100a51cfe66157167bf474e62c89f2e356",
-        "audioDurationSeconds": 8.712
+        "audioDurationSeconds": 5.544
       },
       {
         "en": "Tom balances the tray on his head and goes home.",
@@ -6352,11 +6364,11 @@ window.JIGU_BOOKS = [
         "sourceImageSha256": "bbac61999a8f02c37383885b14c69924e5746af5bdbbddb9ffc47dd4d907c1ac",
         "imageWidth": 546,
         "imageHeight": 546,
-        "audioFile": "audio/12-2fbb2abf8a536d7b.mp3",
-        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0296/audio/12-2fbb2abf8a536d7b.mp3",
-        "sourceAudioSha256": "2fbb2abf8a536d7b5c11c7d865ea66423073b4b177689e16dbc79bf7b03de890",
+        "audioFile": "audio/12-3ab0753b80019446.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0296/audio/12-3ab0753b80019446.mp3",
+        "sourceAudioSha256": "3ab0753b800194469b4341c9a2184b6a567a72a284eccc8b7e69b2347af4973d",
         "sourceAudioTextSha256": "89c0be5eab7c80f8c12bb1106de81abe74f399e556343353e14c60d3d7b557f1",
-        "audioDurationSeconds": 6.384
+        "audioDurationSeconds": 3.648
       }
     ],
     "keywords": [
@@ -6388,13 +6400,14 @@ window.JIGU_BOOKS = [
       "kind": "ai",
       "provider": "Volcengine",
       "model": "seed-tts-2.0",
-      "voice": "天才童声2.0",
-      "voiceId": "zh_male_tiancaitongsheng_uranus_bigtts",
+      "voice": "Charlie 2.0 美式英语（轻柔慢速）",
+      "voiceId": "ICL_uranus_en_female_charlie_tob",
       "voiceType": "preset",
-      "speechRate": -8,
+      "speechRate": -5,
       "pitchRate": 0,
-      "approvedAuditionRunId": 39222587639,
-      "adaptation": "AI narration produced by Jigu from the attributed English text, with disclosed minor copy edits."
+      "approvedAuditionRunId": 39233953938,
+      "adaptation": "AI narration produced by Jigu from the attributed English text.",
+      "approvedVariant": "english-gentle"
     }
   }
 ];
