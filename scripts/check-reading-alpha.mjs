@@ -8,7 +8,7 @@ const catalogScript=readFileSync('public/books/catalog.js','utf8');
 const context={window:{}};vm.runInNewContext(catalogScript,context);vm.runInNewContext(readFileSync('public/books/curation.js','utf8'),context);const curation=context.window.JIGU_CURATION;const books=context.window.JIGU_BOOKS;const activeBooks=books.filter(b=>!b.archived&&!curation.withdrawnIds.includes(b.id));
 const release=JSON.parse(readFileSync('scripts/library-release-request.json','utf8'));
 const baseline=createHash('sha256').update(catalogScript).digest('hex')===release.sourceCatalogueSha256;
-assert.equal(activeBooks.length,curation.expectedActiveBooks);
+assert.equal(activeBooks.length,baseline?release.sourceActiveBooks:curation.expectedActiveBooks);
 assert.equal(new Set(books.map(b=>b.id)).size,books.length);
 const stages=new Set(),themes=new Set();
 for(const b of books){

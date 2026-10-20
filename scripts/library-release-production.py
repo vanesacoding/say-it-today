@@ -8,12 +8,31 @@ CHARLIE='ICL_uranus_en_female_charlie_tob';RATE=-5
 PROFILES={p['speaker']:p for p in json.loads((ROOT/'scripts/reading-voice-profiles.json').read_text())['profiles']}
 NEW_VOICES={p['speaker'] for p in PROFILES.values() if p['name'] in ['Rowan','Charlotte','Knightley']}
 
+def validate_mobile_source(b):
+ spreads=b['source']['spreads']
+ expected=list(range(4,16)) if b['id']=='little-goat' else list(range(1,13))
+ if [s['index'] for s in spreads]!=expected:raise ValueError('Source spread set changed')
+ if {p['sourceSpreadIndex'] for p in b['pages']}!=set(expected):raise ValueError('Source spread missing')
+ for s in spreads:
+  pages=[p for p in b['pages'] if p['sourceSpreadIndex']==s['index']]
+  if ' '.join(p['en'] for p in pages)!=s['text']:raise ValueError('Incomplete source English')
+  if any(p['sourceImage']!=s['image'] or p['sourceImageSha256']!=s['imageSha256'] for p in pages):raise ValueError('Source image changed')
+ for p in b['pages']:
+  if not p.get('mobilePanels'):raise ValueError('Missing mobile panels')
+  for rect in p['mobilePanels']:
+   x,y,w,h=rect
+   if not (0<=x<1 and 0<=y<1 and 0<w<=1 and 0<h<=1 and x+w<=1.000001 and y+h<=1.000001 and p['imageWidth']*w/(p['imageHeight']*h)<=1.4 and min(p['imageWidth']*w,p['imageHeight']*h)>=320):raise ValueError('Invalid mobile panel')
+
 def plan():
  raw=CATALOG.read_bytes();request=json.loads((ROOT/'scripts/library-release-request.json').read_text());data=(ROOT/'scripts/library-release-candidate.json').read_bytes()
  if sha(data)!=request['candidateSha256']:raise ValueError('Candidate hash changed')
  candidate=json.loads(data)
  if sha(raw)!=request['sourceCatalogueSha256'] or sha(raw)!=candidate['sourceCatalogueSha256']:raise ValueError('Source catalogue changed')
  if candidate['speechRate']!=RATE or candidate['auditionRunId']!=39355874472:raise ValueError('Unreviewed narration settings')
+ curation_raw=(ROOT/'public/books/curation.js').read_bytes()
+ if sha(curation_raw)!=request['curationSha256']:raise ValueError('Curation changed')
+ curation=json.loads(curation_raw.decode().removeprefix('window.JIGU_CURATION = ').strip().removesuffix(';'))
+ active=lambda bs:[b for b in bs if not b.get('archived') and b['id'] not in curation['withdrawnIds']]
  changes=[]
  for shard in candidate['shards']:
   name=shard['file']
@@ -25,11 +44,12 @@ def plan():
  original=json.loads(raw.decode().removeprefix('window.JIGU_BOOKS = ').strip().removesuffix(';'));previous={b['id']:b for b in original};overrides={b['id']:b for b in changes}
  books=[overrides.get(b['id'],b) for b in original]+[b for b in changes if b['id'] not in previous]
  new_ids=[b['id'] for b in changes if b['id'] not in previous]
- if sorted(new_ids)!=sorted(candidate['newBookIds']) or sorted(new_ids)!=sorted(request['newBookIds']) or len(new_ids)!=50:raise ValueError('New-book set changed')
- if len({b['id'] for b in books})!=len(books) or len([b for b in books if not b.get('archived')])!=request['targetActiveBooks']:raise ValueError('Wrong shelf count')
+ if sorted(new_ids)!=sorted(candidate['newBookIds']) or sorted(new_ids)!=sorted(request['newBookIds']) or len(new_ids)!=request['expectedNewBooks']:raise ValueError('New-book set changed')
+ if len(active(original))!=request['sourceActiveBooks'] or curation['expectedActiveBooks']!=request['targetActiveBooks'] or len({b['id'] for b in books})!=len(books) or len(active(books))!=request['targetActiveBooks']:raise ValueError('Wrong shelf count')
  pages=[]
  for b in books:
   before=previous.get(b['id'])
+  if before and b!=before and not request['allowExistingChanges']:raise ValueError('Existing book changed')
   if b.get('archived'):
    if b!=before:raise ValueError('Archived book changed')
    continue
@@ -42,6 +62,7 @@ def plan():
   if not before:
    if speaker not in NEW_VOICES or speaker==CHARLIE:raise ValueError('New books must not use Charlie')
    if any(p['en']!=p.get('sourceText') for p in b['pages']):raise ValueError('New source English was changed')
+   validate_mobile_source(b)
   for i,p in enumerate(b['pages']):
    if not p['en'].strip():continue
    if p.get('sourceAudioTextSha256')==sha(p['en'].encode()) and p.get('sourceAudioSha256'):continue

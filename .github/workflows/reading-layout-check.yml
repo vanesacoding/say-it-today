@@ -1,10 +1,10 @@
 name: Reading navigation layout
 on:
   pull_request:
-    paths: [index.html, public/books/curation.js, scripts/check-vocabulary.mjs, .github/workflows/reading-layout-check.yml]
+    paths: [index.html, public/books/curation.js, scripts/check-vocabulary.mjs, scripts/check-phone-books.mjs, scripts/check-phone-layout.mjs, scripts/library-release-books-phone.json, .github/workflows/reading-layout-check.yml]
   push:
     branches: [main]
-    paths: [index.html, public/books/curation.js, scripts/check-vocabulary.mjs, .github/workflows/reading-layout-check.yml]
+    paths: [index.html, public/books/curation.js, scripts/check-vocabulary.mjs, scripts/check-phone-books.mjs, scripts/check-phone-layout.mjs, scripts/library-release-books-phone.json, .github/workflows/reading-layout-check.yml]
 permissions:
   contents: read
 jobs:
@@ -93,3 +93,11 @@ jobs:
           } finally { await browser.close(); }
           JS
 
+      - name: Verify complete candidate mobile books
+        run: python3 scripts/prepare-phone-layout.py && node scripts/check-phone-layout.mjs
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: phone-book-layout-proof
+          path: layout-proof/
+          retention-days: 14

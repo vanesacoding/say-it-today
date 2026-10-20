@@ -1,114 +1,18 @@
 {
-  "id": "library-100-three-voices-20261020",
-  "sourceCatalogueSha256": "37817da8c555d7885b9ef61859a298b98877b96922d3dea815f2ade46236088c",
+  "id": "bookdash-two-phone-books-20261020",
+  "sourceCatalogueSha256": "db69cd2c223086cc684988692b60392fbd0ce1c48f2bb8e012d7c5ebae805e3f",
   "newBookIds": [
-    "0004",
-    "0006",
-    "0007",
-    "0013",
-    "0017",
-    "0018",
-    "0021",
-    "0027",
-    "0035",
-    "0042",
-    "0045",
-    "0051",
-    "0067",
-    "0074",
-    "0092",
-    "0002",
-    "0105",
-    "0106",
-    "0109",
-    "0003",
-    "0113",
-    "0117",
-    "0121",
-    "0126",
-    "0127",
-    "0149",
-    "0152",
-    "0155",
-    "0160",
-    "0167",
-    "0168",
-    "0185",
-    "0195",
-    "0197",
-    "0198",
-    "0030",
-    "0243",
-    "0256",
-    "0257",
-    "0267",
-    "0291",
-    "0294",
-    "0302",
-    "0355",
-    "0361",
-    "0124",
-    "0237",
-    "0019",
-    "0103",
-    "0169"
+    "little-goat",
+    "can-we-eat-a-rainbow"
   ],
-  "expectedPages": 525,
-  "sourceTextSha256": "b8b35b901e2f24a43f7bf850e0e974041e44e8617f4ccfc1bc908dde19b3fe3a",
+  "expectedPages": 37,
+  "sourceTextSha256": "55616c81d9bfd84b621e269cc4f44996a9ec7d0fa27c08d139f6529f8dbd23e0",
   "speechRate": -5,
   "auditionRunId": 39355874472,
   "shards": [
     {
-      "file": "library-release-books-01.json",
-      "sha256": "68df14800ea3a26f83d3118e323af894be69f5d1ad331ea655066439740ef09d"
-    },
-    {
-      "file": "library-release-books-02.json",
-      "sha256": "d2d11a5fe31069b319c2401adf73d95ac4e0d21ba23b99fbfb0f6077115bf7b6"
-    },
-    {
-      "file": "library-release-books-03.json",
-      "sha256": "ebd2d35aa6ab797c81d79f164e5c189200b5356320e708e5f390e3ea8a7e13d2"
-    },
-    {
-      "file": "library-release-books-04.json",
-      "sha256": "10f299ea403c50d97a72175859d3c67db06e6c8641c69d2a67b0b1e05cf21e41"
-    },
-    {
-      "file": "library-release-books-05.json",
-      "sha256": "da6acdb35f3a22a610eb213bb137011e95a6eb2f56226b1a7b702042ec8db665"
-    },
-    {
-      "file": "library-release-books-06.json",
-      "sha256": "477d3b11fa5deb7002f6ac6bf99885eea03d5cfbb351589a5f2f8d71c57ed22b"
-    },
-    {
-      "file": "library-release-books-07.json",
-      "sha256": "5461b78f8cc183d070646c2aa78375d5d968f29e132f9d24a658afa1b7d7ca42"
-    },
-    {
-      "file": "library-release-books-08.json",
-      "sha256": "8d462f554a8137f3cfd1c3e40af3efaa00e30626f0d58cb37e749a03f2165f90"
-    },
-    {
-      "file": "library-release-books-09.json",
-      "sha256": "f7342687839ca54c671ea8c6a77ec3f6d9a6764112bf3809fac939c2cb799cd3"
-    },
-    {
-      "file": "library-release-books-10.json",
-      "sha256": "931c1419d695b026975080fc37f8923cb9fe0db0b55a54308a6165b10a14ce40"
-    },
-    {
-      "file": "library-release-books-11.json",
-      "sha256": "990d1ae3f10d62cb550da2f192f45fb59261bc7182594a953ec4a35678386ee8"
-    },
-    {
-      "file": "library-release-books-12.json",
-      "sha256": "bf7358495f73b426a47c30c9d5f310f13eb1e15a83cfbaf2939e4105836f96c7"
-    },
-    {
-      "file": "library-release-books-13.json",
-      "sha256": "04a8b24beae220d701eeac88e2d1d1fa472f6ca1052ff0de3dbb74947eb0a613"
+      "file": "library-release-books-phone.json",
+      "sha256": "0f4e3895f8a3fed9c65af4f6ece25e50eabb9b585f0ac973af294659b74a329e"
     }
   ]
 }
