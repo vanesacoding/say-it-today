@@ -114,6 +114,7 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
+          retention-days: 90
       - name: Publish verified reading library
         id: deployment
         uses: actions/deploy-pages@v4
