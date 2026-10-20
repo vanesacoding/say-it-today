@@ -65,18 +65,27 @@ jobs:
           github-token: ${{ github.token }}
           path: .reading-audio/media-baseline
       - run: tar -xf .reading-audio/media-baseline/artifact.tar -C public ./books/library
+      - name: Read pinned recording recovery
+        id: resume
+        run: |
+          python3 - <<'PYCODE'
+          import json,os
+          run=str(json.load(open('scripts/library-release-request.json')).get('resumeRunId',''))
+          if run and not run.isdecimal():raise ValueError('Invalid recovery run')
+          with open(os.environ['GITHUB_OUTPUT'],'a') as out:out.write('run_id='+run+'\n')
+          PYCODE
       - name: Restore completed audio when resuming
-        if: github.event_name == 'workflow_dispatch' && inputs.resume_run_id != ''
+        if: (github.event_name == 'workflow_dispatch' && inputs.resume_run_id != '') || steps.resume.outputs.run_id != ''
         uses: actions/download-artifact@v4
         with:
           name: jigu-library-release-audio
-          run-id: ${{ inputs.resume_run_id }}
+          run-id: ${{ inputs.resume_run_id || steps.resume.outputs.run_id }}
           github-token: ${{ github.token }}
           path: .reading-audio/library-release
       - name: Generate only changed pages or verify saved recordings
         env:
           DOUBAO_SPEECH_API_KEY: ${{ secrets.DOUBAO_SPEECH_API_KEY }}
-          RESUME_RUN_ID: ${{ inputs.resume_run_id }}
+          RESUME_RUN_ID: ${{ inputs.resume_run_id || steps.resume.outputs.run_id }}
           CONTINUE_UNSUBMITTED: ${{ inputs.continue_unsubmitted }}
         run: |
           if [ -n "$RESUME_RUN_ID" ]; then
