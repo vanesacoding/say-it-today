@@ -1,0 +1,962 @@
+[
+  {
+    "id": "0028",
+    "title": "The Race",
+    "zh": "兔子和蜗牛赛跑",
+    "stageId": "S3",
+    "primaryTheme": "feelings",
+    "themeIds": [
+      "feelings",
+      "nature"
+    ],
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0028/01.jpg",
+    "sourceCoverSha256": "d6bda84eae71a979489aad2c30c313718e8d6306a738c2bd799d93f6447da5e2",
+    "audioType": "generated",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0028_the-race.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Mozambican folktale",
+        "插画：Amir Bachir António Necas"
+      ],
+      "editorialNote": "英文校订了拼写、标点、语法及少量措辞；每页保留原文供核对。中文辅助、陪读提示、重点词和亲子活动为叽咕新增。",
+      "sourceTextSha256": "7c458046eca7d878ff51656b37711e28e79c0c3d48d983745999a326ab87eb92"
+    },
+    "pages": [
+      {
+        "en": "One day the rabbit found a snail. He said to the snail, \"You can't run! All you know is how to crawl on the ground.\"",
+        "sourceText": "One day the rabbit found a snail. He said to the snail, \"You can't run! All you know is how to crawl on the ground.\"",
+        "zh": "有一天，兔子遇见一只蜗牛。他对蜗牛说：“你不会跑！你只会在地上爬。”",
+        "tip": "看看兔子和蜗牛的动作有什么不同。",
+        "alt": "有一天，兔子遇见一只蜗牛。他对蜗牛说：“你不会跑！你只会在地上爬。”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0028/02.jpg",
+        "sourceImageSha256": "d6bda84eae71a979489aad2c30c313718e8d6306a738c2bd799d93f6447da5e2",
+        "imageWidth": 546,
+        "imageHeight": 546,
+        "audioFile": "audio/01-908d53c575e1f05f.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0028/audio/01-908d53c575e1f05f.mp3",
+        "sourceAudioSha256": "908d53c575e1f05f5b55fa64cfb337b6b21896a59eff0ea604b3ec0eb45da66c",
+        "sourceAudioTextSha256": "b15bf06bd5d1db9031ee0016115f05d5adc0b94ad1afcdd604d1408744b6414e",
+        "audioDurationSeconds": 8.28
+      },
+      {
+        "en": "The snail said, \"Come on Sunday and you will see.\"",
+        "sourceText": "The snail said, \"Come on Sunday and you will see.\"",
+        "zh": "蜗牛说：“星期天来，你就知道了。”",
+        "tip": "猜猜蜗牛会想到什么办法。",
+        "alt": "蜗牛说：“星期天来，你就知道了。”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0028/03.jpg",
+        "sourceImageSha256": "c6994e72b824ac4c3178365ad2a0eb6f827bf4578cf763dd54dc5753d02d95b9",
+        "imageWidth": 501,
+        "imageHeight": 546,
+        "audioFile": "audio/02-bab354532c58f0ba.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0028/audio/02-bab354532c58f0ba.mp3",
+        "sourceAudioSha256": "bab354532c58f0ba88f377c064279babd1623237aece31bdc09b042555aca247",
+        "sourceAudioTextSha256": "c2e59a2d58713707330a01b860cc847e531a7c1eeec2cc92345bfdc6afb708e3",
+        "audioDurationSeconds": 3.84
+      },
+      {
+        "en": "The snail prepared a hundred bits of paper and wrote the same message on them.",
+        "sourceText": "The snail prepared a hundred bits of paper and wrote the same message on them.",
+        "zh": "蜗牛准备了一百张小纸片，在每张上面写了同样的话。",
+        "tip": "找找画面里的小纸片。",
+        "alt": "蜗牛准备了一百张小纸片，在每张上面写了同样的话。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0028/04.jpg",
+        "sourceImageSha256": "befea19f52c433753e67b7e885f3e4285195128e2fb9d66eecdd69bd03e5a0c1",
+        "imageWidth": 501,
+        "imageHeight": 546,
+        "audioFile": "audio/03-62b60fa7e23f0bdb.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0028/audio/03-62b60fa7e23f0bdb.mp3",
+        "sourceAudioSha256": "62b60fa7e23f0bdbd828bb238f78716686217881410caf206049b8635e03ee35",
+        "sourceAudioTextSha256": "4ca8594f01d2da46a50cdcccd2a8c981f90c2d433ca7787fe6099b6f5a8067e6",
+        "audioDurationSeconds": 4.92
+      },
+      {
+        "en": "The snail handed out the papers to his friends and said, \"When the rabbit comes here calling me, one of you must say: I am the snail.\"",
+        "sourceText": "The snail handed out the papers to his friends and said, \"When the rabbit comes here calling me, one of you must say: I am the snail.\"",
+        "zh": "蜗牛把纸条分给朋友们，说：“兔子来叫我的时候，你们中就有一个回答：我是蜗牛。”",
+        "tip": "看看蜗牛请朋友怎样帮忙。",
+        "alt": "蜗牛把纸条分给朋友们，说：“兔子来叫我的时候，你们中就有一个回答：我是蜗牛。”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0028/05.jpg",
+        "sourceImageSha256": "d51c8a0ea5e0f1e40400cb1c576b435b984b8583900b050d93fc62513ffe3039",
+        "imageWidth": 501,
+        "imageHeight": 546,
+        "audioFile": "audio/04-9321c4792ceb26db.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0028/audio/04-9321c4792ceb26db.mp3",
+        "sourceAudioSha256": "9321c4792ceb26db518e5f972293e6416ac203a91051728fdca459934304d147",
+        "sourceAudioTextSha256": "e1bab926fd41fcac9719ec6adfd63d240f3cc77ce2bb99ae550752375ffa6124",
+        "audioDurationSeconds": 8.04
+      },
+      {
+        "en": "Then the snail told his friends to hide behind the bushes where the rabbit and the snail were to pass.",
+        "sourceText": "Then the snail told his friends to hide behind the bushes where the rabbit and the snail were to pass.",
+        "zh": "接着，蜗牛让朋友们藏在他和兔子要经过的灌木丛后面。",
+        "tip": "找找藏起来的蜗牛。",
+        "alt": "接着，蜗牛让朋友们藏在他和兔子要经过的灌木丛后面。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0028/06.jpg",
+        "sourceImageSha256": "473ccf30f0397a4f3e4a67d2ea8e6bf968ab42686f0bb5355e29f04b2269ad6d",
+        "imageWidth": 501,
+        "imageHeight": 546,
+        "audioFile": "audio/05-13b4a7ba94467a04.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0028/audio/05-13b4a7ba94467a04.mp3",
+        "sourceAudioSha256": "13b4a7ba94467a0498818d44179f20b6a33c92d7c3616dd33556095cf98ca503",
+        "sourceAudioTextSha256": "87035d2cd9c0a6e6783e81242aed38c73312181b8411cfe3e06fb0613b11985a",
+        "audioDurationSeconds": 6.192
+      },
+      {
+        "en": "On Sunday, the rabbit arrived and found the snail. The rabbit said, \"Let us have a race. But I will win.\"",
+        "sourceText": "On Sunday, the rabbit arrived and found the snail. The rabbit said, \"Let´s have a race. But I will win.\"",
+        "zh": "星期天，兔子来了，找到了蜗牛。“来赛跑吧，不过我会赢。”兔子说。",
+        "tip": "观察兔子开始比赛时的表情。",
+        "alt": "星期天，兔子来了，找到了蜗牛。“来赛跑吧，不过我会赢。”兔子说。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0028/07.jpg",
+        "sourceImageSha256": "f961e027ad34911d2b693824a07b0d562dbfcfdf361625fdf0b5d74e8b875362",
+        "imageWidth": 501,
+        "imageHeight": 546,
+        "audioFile": "audio/06-900ca2c5afc5073f.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0028/audio/06-900ca2c5afc5073f.mp3",
+        "sourceAudioSha256": "900ca2c5afc5073f7d849bb67900c027cb9e133be4d0c645c13ab8c5d942367a",
+        "sourceAudioTextSha256": "85f604ad3ba18aa3825c42711336ddcbff261f393f9dbc467b897d561812e3e2",
+        "audioDurationSeconds": 7.824
+      },
+      {
+        "en": "Snails were lined up on the racing track so that each time the rabbit passed, a snail would shout, 'I am a snail...' During the race, the rabbit called out, \"Snail! Snail!\"",
+        "sourceText": "Snails were lined up on the racing track so that each time the rabbit passed, a snail would shout, 'I am a snail...' During the race, the rabbit called out, \"Snail! Snail!\"",
+        "zh": "蜗牛们沿着赛道排开，兔子每经过一处，就有一只蜗牛喊：“我是一只蜗牛……”比赛中，兔子叫道：“蜗牛！蜗牛！”",
+        "tip": "看看沿途为什么总有蜗牛回应。",
+        "alt": "蜗牛们沿着赛道排开，兔子每经过一处，就有一只蜗牛喊：“我是一只蜗牛……”比赛中，兔子叫道：“蜗牛！蜗牛！”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0028/08.jpg",
+        "sourceImageSha256": "2a22a876c6d3759c9743fcc2beac7a011236b9490a1ab65a4e11bf7929bbcc7b",
+        "imageWidth": 501,
+        "imageHeight": 546,
+        "audioFile": "audio/07-a71ebbcd7669fea4.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0028/audio/07-a71ebbcd7669fea4.mp3",
+        "sourceAudioSha256": "a71ebbcd7669fea49fa5a1d2351fe1efd589f6b299cd833b08dcfbb09b39904b",
+        "sourceAudioTextSha256": "f434dc31f00d27767925f20a4c99e167ec193165b53a0afc57c566cda5e61158",
+        "audioDurationSeconds": 11.208
+      },
+      {
+        "en": "One of the snails hidden behind the bushes answered, \"I am the snail, I am the snail.\"",
+        "sourceText": "One of the snails hidden behind the bushes answered, \"I am the snail, I am the snail.\"",
+        "zh": "一只藏在灌木丛后的蜗牛回答：“我是蜗牛，我是蜗牛。”",
+        "tip": "让孩子找出这次回答的是哪只蜗牛。",
+        "alt": "一只藏在灌木丛后的蜗牛回答：“我是蜗牛，我是蜗牛。”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0028/09.jpg",
+        "sourceImageSha256": "049fa5f244055bc5b7cd411aebbb14b688ccc60d27e715cfac076851cbc5d55b",
+        "imageWidth": 501,
+        "imageHeight": 546,
+        "audioFile": "audio/08-bd296190c3c5baba.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0028/audio/08-bd296190c3c5baba.mp3",
+        "sourceAudioSha256": "bd296190c3c5baba86091810db995a5c6a799110eaa1a274df197d7269bd3d8e",
+        "sourceAudioTextSha256": "77ee93ef45bb883efb006761c1b59f83058a303045816394a48549ca13f05875",
+        "audioDurationSeconds": 6.168
+      },
+      {
+        "en": "Finally, the rabbit was very tired. He lay down, saying, \"Snail, I am so tired; you have won.\"",
+        "sourceText": "Finally, the rabbit was very tired. He lay down, saying, \"Snail, I am so tired; you have won.\"",
+        "zh": "最后，兔子累坏了。他躺下来说：“蜗牛，我太累了，你赢了。”",
+        "tip": "看看兔子累成了什么样子。",
+        "alt": "最后，兔子累坏了。他躺下来说：“蜗牛，我太累了，你赢了。”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0028/10.jpg",
+        "sourceImageSha256": "17efb7b083bcdbfca7cd25f04e09ac93042d46ea47b18acc27af3db4d70ebff7",
+        "imageWidth": 501,
+        "imageHeight": 546,
+        "audioFile": "audio/09-90a25f0735819d07.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0028/audio/09-90a25f0735819d07.mp3",
+        "sourceAudioSha256": "90a25f0735819d07f229bf0261ce95e0785fd228e19dfc4adaf4a4bc15055e3d",
+        "sourceAudioTextSha256": "c0000542dacd3f0ccedbf22054fc2c5c5d7330fe96d04d4bc127e4aef7509805",
+        "audioDurationSeconds": 7.608
+      },
+      {
+        "en": "So the snail won because of his cleverness!",
+        "sourceText": "So the snail won because of his cleverness!",
+        "zh": "就这样，蜗牛靠他的聪明办法赢了！",
+        "tip": "可以聊聊蜗牛用了什么办法，以及怎样比赛才公平。",
+        "alt": "就这样，蜗牛靠他的聪明办法赢了！",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0028/11.jpg",
+        "sourceImageSha256": "93799d729ffc4baf6aba9cab5c5ceac3568e584a68e568e75243780fbd4d5019",
+        "imageWidth": 501,
+        "imageHeight": 546,
+        "audioFile": "audio/10-00a6bf365699c2b7.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0028/audio/10-00a6bf365699c2b7.mp3",
+        "sourceAudioSha256": "00a6bf365699c2b7bdb088568d47eb6a947f20139eda0502265b280b6c127e62",
+        "sourceAudioTextSha256": "0b1163450dfbd413839d6b7213fb1221600a34c39ba4593afe45e2b9e6d7e3dd",
+        "audioDurationSeconds": 2.976
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "snail",
+        "meaning": "蜗牛",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "friends",
+        "meaning": "朋友们",
+        "pageIndex": 3
+      },
+      {
+        "id": "word-2",
+        "word": "tired",
+        "meaning": "累的",
+        "pageIndex": 8
+      }
+    ],
+    "activity": {
+      "title": "慢慢走也有趣",
+      "text": "一起模仿兔子和蜗牛的步子，感受快和慢，不必分出输赢。",
+      "hint": "跟着孩子的兴趣来，不要求跟读、测验或打卡。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Charlie 2.0 美式英语（轻柔慢速）",
+      "voiceId": "ICL_uranus_en_female_charlie_tob",
+      "voiceType": "preset",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "approvedAuditionRunId": 39233953938,
+      "approvedVariant": "english-gentle",
+      "adaptation": "AI narration produced by Jigu from the attributed English text."
+    }
+  },
+  {
+    "id": "0043",
+    "title": "Fire's story",
+    "zh": "火的小故事",
+    "stageId": "S2",
+    "primaryTheme": "discovery",
+    "themeIds": [
+      "discovery",
+      "nature",
+      "everyday"
+    ],
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0043/01.jpg",
+    "sourceCoverSha256": "3e6a03d22df68ab8954a824e7c4d8efcf87b607464b730b48c34e668f7901f44",
+    "audioType": "generated",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0043_fires-story.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Deborah Namugosa, Beatrice Nabune, Alison Tukei, Rose Sabano",
+        "插画：Rob Owen, Wiehan de Jager, Amir Bachir António Necas"
+      ],
+      "editorialNote": "英文校订了拼写、标点、语法及少量措辞；每页保留原文供核对。中文辅助、陪读提示、重点词和亲子活动为叽咕新增。",
+      "sourceTextSha256": "66553cdafe3a9d4607ec316940e74f00bd81233bbe48a4f29885eee4afdf7b39"
+    },
+    "pages": [
+      {
+        "en": "Let me tell you my story. I start as a small spark.",
+        "sourceText": "Let me tell you my story. I start as a small spark.",
+        "zh": "让我讲讲我的故事。我从一颗小火星开始。",
+        "tip": "看看小火星是什么样子。",
+        "alt": "让我讲讲我的故事。我从一颗小火星开始。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0043/02.jpg",
+        "sourceImageSha256": "1dc27daf3b40f6ebcc45245f37ca3c6a0ffb8f2f5f841889609c69eadd87375a",
+        "imageWidth": 537,
+        "imageHeight": 546,
+        "audioFile": "audio/01-3adebdeb749e2a99.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0043/audio/01-3adebdeb749e2a99.mp3",
+        "sourceAudioSha256": "3adebdeb749e2a996bc1f327327f51b52d90bbacbfb8fc9e72373a26f5a1af04",
+        "sourceAudioTextSha256": "f8fe2f7eceb56e335dbcdf2c294d882bef9fd7a36d8d1db23d6a01487bc7c282",
+        "audioDurationSeconds": 4.224
+      },
+      {
+        "en": "I run wild when the wind carries me.",
+        "sourceText": "I run wild when the wind carries me.",
+        "zh": "风带着我时，我会到处奔跑。",
+        "tip": "观察风怎样改变火苗。",
+        "alt": "风带着我时，我会到处奔跑。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0043/03.jpg",
+        "sourceImageSha256": "c7e67cee07ecd6d99c1dc8d70e281f452dad341b7a9a8ee9f768be57942a3f4a",
+        "imageWidth": 524,
+        "imageHeight": 546,
+        "audioFile": "audio/02-c71193ec27d969e2.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0043/audio/02-c71193ec27d969e2.mp3",
+        "sourceAudioSha256": "c71193ec27d969e25036da3a3224f7276e4fd4e2a20a7d0cb9f60a245f71d2ba",
+        "sourceAudioTextSha256": "3ea6bbeaaa3a30a5898dfd71d19c1750eabc7a4dc9383ed648d533e00daea262",
+        "audioDurationSeconds": 3.216
+      },
+      {
+        "en": "We are good friends, you and I.",
+        "sourceText": "We are good friends, you and I.",
+        "zh": "你和我是好朋友。",
+        "tip": "想想家里哪些地方会用到火。",
+        "alt": "你和我是好朋友。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0043/04.jpg",
+        "sourceImageSha256": "3e6a03d22df68ab8954a824e7c4d8efcf87b607464b730b48c34e668f7901f44",
+        "imageWidth": 527,
+        "imageHeight": 546,
+        "audioFile": "audio/03-8047f47d0b1f8101.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0043/audio/03-8047f47d0b1f8101.mp3",
+        "sourceAudioSha256": "8047f47d0b1f81017c234d09e56fb6a3eba401183ece7a0c1f7778ef76ac5bd7",
+        "sourceAudioTextSha256": "b6ef4546c98d69f3d090f28e49db86531a3724fa845baab8d9c039d46a26b696",
+        "audioDurationSeconds": 2.4
+      },
+      {
+        "en": "I cook your food.",
+        "sourceText": "I cook your food.",
+        "zh": "我帮你煮熟食物。",
+        "tip": "看看画面里怎样做饭。",
+        "alt": "我帮你煮熟食物。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0043/05.jpg",
+        "sourceImageSha256": "421aa818e7280e32706bf37141c2cefb85cf22bb300617bc1cc9a6631d0fa60c",
+        "imageWidth": 531,
+        "imageHeight": 546,
+        "audioFile": "audio/04-fb9db697b3d700e3.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0043/audio/04-fb9db697b3d700e3.mp3",
+        "sourceAudioSha256": "fb9db697b3d700e312dc68b0888104518ca1ac5c7113dd5e28cf08fdeab5ce77",
+        "sourceAudioTextSha256": "ab79783c3c7bf40a1fa81ad4a0037dfb22ac94b1876e8cf6234c2ecc5d497afc",
+        "audioDurationSeconds": 1.944
+      },
+      {
+        "en": "I light your night.",
+        "sourceText": "I light your night.",
+        "zh": "我照亮你的夜晚。",
+        "tip": "找找火照亮的地方。",
+        "alt": "我照亮你的夜晚。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0043/06.jpg",
+        "sourceImageSha256": "70ed5c862a5d15bab8aad0ef5620c93b7843940b5d70aa03597bd611a7e0b5c6",
+        "imageWidth": 535,
+        "imageHeight": 546,
+        "audioFile": "audio/05-79673b727092c69b.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0043/audio/05-79673b727092c69b.mp3",
+        "sourceAudioSha256": "79673b727092c69b15aa40eabb5b77cdd5260ad8ac9ddf7375c843926152e677",
+        "sourceAudioTextSha256": "f192b704db2b4e755e5fa1f898a1e70a4dfe6e3186ab9536f651a3b250722c5e",
+        "audioDurationSeconds": 1.944
+      },
+      {
+        "en": "I have many tricks.",
+        "sourceText": "I have many tricks.",
+        "zh": "我有许多本领。",
+        "tip": "看看火还能做什么。",
+        "alt": "我有许多本领。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0043/07.jpg",
+        "sourceImageSha256": "d407a8f316f3b57f65ee92fcb7a5a50cacec7911a7e38ce1ce8f750b2507fb2d",
+        "imageWidth": 534,
+        "imageHeight": 546,
+        "audioFile": "audio/06-50e038fabc6b30d6.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0043/audio/06-50e038fabc6b30d6.mp3",
+        "sourceAudioSha256": "50e038fabc6b30d6e5ea5e90c421899911359f70cba0858f5ff5e3bdc9ec3df1",
+        "sourceAudioTextSha256": "61e067386fe394e3c9a8821cd597d051958fec1bbbd17480b8380977f87d532e",
+        "audioDurationSeconds": 2.376
+      },
+      {
+        "en": "I am part of your family.",
+        "sourceText": "I am part of your family.",
+        "zh": "我是你家庭的一部分。",
+        "tip": "找找大人怎样使用火。",
+        "alt": "我是你家庭的一部分。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0043/08.jpg",
+        "sourceImageSha256": "eec1db1956bee63f55f238e1cce3945078b9604e2dd193dda392a443461cf7d4",
+        "imageWidth": 534,
+        "imageHeight": 546,
+        "audioFile": "audio/07-ed16525096c68b85.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0043/audio/07-ed16525096c68b85.mp3",
+        "sourceAudioSha256": "ed16525096c68b85d66f4946756d266b61ad58efd467504cc982a5aa7b65a167",
+        "sourceAudioTextSha256": "81a04870bebad2307d538e18b0f7b8126b86bfbd21520fedb9e6bf918e79a17b",
+        "audioDurationSeconds": 2.568
+      },
+      {
+        "en": "But be careful when you invite me to your home. I don't like to be left alone.",
+        "sourceText": "But be careful when you invite me to your home. I don't like to be left alone.",
+        "zh": "不过，请我到家里时要小心。我不喜欢被单独留下。",
+        "tip": "和孩子聊聊，用火是大人的事，需要一直有人照看。",
+        "alt": "不过，请我到家里时要小心。我不喜欢被单独留下。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0043/09.jpg",
+        "sourceImageSha256": "635d3b013fcca1cc320213835a182f49438cbfdd1c46ff1be94d44fc14fb4324",
+        "imageWidth": 540,
+        "imageHeight": 546,
+        "audioFile": "audio/08-47265f6e0c7a7924.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0043/audio/08-47265f6e0c7a7924.mp3",
+        "sourceAudioSha256": "47265f6e0c7a79245c90bd676decd79f57ca364bacb7c8758abe853b91915af5",
+        "sourceAudioTextSha256": "a2b6f19880733889a507291f37b019129abb49f89990e1071b02ae8b15a1666d",
+        "audioDurationSeconds": 4.896
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "spark",
+        "meaning": "火星",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "wind",
+        "meaning": "风",
+        "pageIndex": 1
+      },
+      {
+        "id": "word-2",
+        "word": "food",
+        "meaning": "食物",
+        "pageIndex": 3
+      }
+    ],
+    "activity": {
+      "title": "观察厨房",
+      "text": "和大人在安全的位置看看做饭的场景，聊聊火怎样帮助煮熟 food，开关和火源由大人操作。",
+      "hint": "跟着孩子的兴趣来，不要求跟读、测验或打卡。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Charlie 2.0 美式英语（轻柔慢速）",
+      "voiceId": "ICL_uranus_en_female_charlie_tob",
+      "voiceType": "preset",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "approvedAuditionRunId": 39233953938,
+      "approvedVariant": "english-gentle",
+      "adaptation": "AI narration produced by Jigu from the attributed English text."
+    }
+  },
+  {
+    "id": "0089",
+    "title": "Khalai talks to plants",
+    "zh": "卡莱和植物说话",
+    "primaryTheme": "nature",
+    "themeIds": [
+      "nature",
+      "discovery"
+    ],
+    "tags": [
+      "动物",
+      "自然"
+    ],
+    "stageId": "S3",
+    "audioType": "human",
+    "source": {
+      "name": "African Storybook / Storybooks Canada",
+      "url": "https://storybookscanada.ca/stories/en/0089/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "creators": [
+        "Ursula Nafula",
+        "Jesse Pietersen"
+      ],
+      "reader": "Darshan Soni"
+    },
+    "sourceCover": "https://storybookscanada.ca/images/0089/01.jpg",
+    "pages": [
+      {
+        "en": "This is Khalai. She is seven years old. Her name means ‘the good one’ in her language, Lubukusu.",
+        "sourceImage": "https://storybookscanada.ca/images/0089/02.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0089/mp3/02.mp3",
+        "zh": "这是卡莱，她七岁了。在她使用的卢布库苏语里，她的名字意为“好孩子”。",
+        "tip": "指指卡莱，先认识故事主角。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Khalai wakes up and talks to the orange tree. “Please orange tree, grow big and give us lots of ripe oranges.”",
+        "sourceImage": "https://storybookscanada.ca/images/0089/03.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0089/mp3/03.mp3",
+        "zh": "卡莱起床后对橘子树说：“橘子树呀，请长得高高大大，结好多熟橘子给我们。”",
+        "tip": "找到橘子树，听 tree。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Khalai walks to school. On the way she talks to the grass. “Please grass, grow greener and don’t dry up.”",
+        "sourceImage": "https://storybookscanada.ca/images/0089/04.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0089/mp3/04.mp3",
+        "zh": "卡莱走路去上学。路上，她对小草说：“小草呀，请长得更绿，不要干枯。”",
+        "tip": "指指地上的草，听 grass。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Khalai passes wild flowers. “Please flowers, keep blooming so I can put you in my hair.”",
+        "sourceImage": "https://storybookscanada.ca/images/0089/05.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0089/mp3/05.mp3",
+        "zh": "卡莱经过野花时说：“花儿呀，请一直开花，这样我就能把花戴在头发上。”",
+        "tip": "找一朵花观察颜色，不必真的摘花。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "At school, Khalai talks to the tree in the middle of the compound. “Please tree, put out big branches so we can read under your shade.”",
+        "sourceImage": "https://storybookscanada.ca/images/0089/06.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0089/mp3/06.mp3",
+        "zh": "在学校里，卡莱对院子中间的树说：“大树呀，请长出大大的树枝，让我们能在你的树荫下看书。”",
+        "tip": "找找可以读书的树荫。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Khalai talks to the hedge around her school. “Please grow strong and stop bad people from coming in.”",
+        "sourceImage": "https://storybookscanada.ca/images/0089/07.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0089/mp3/07.mp3",
+        "zh": "卡莱对学校周围的树篱说：“请长得结结实实，把坏人挡在外面。”",
+        "tip": "用手指沿学校旁的树篱指一指。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "When Khalai returns home from school, she visits the orange tree. “Are your oranges ripe yet?” asks Khalai.",
+        "sourceImage": "https://storybookscanada.ca/images/0089/08.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0089/mp3/08.mp3",
+        "zh": "放学回家后，卡莱去看橘子树。她问：“你的橘子熟了吗？”",
+        "tip": "看看橘子的颜色，猜猜她在等什么。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "“The oranges are still green,” sighs Khalai. “I will see you tomorrow orange tree,” says Khalai. “Perhaps then you will have a ripe orange for me!”",
+        "sourceImage": "https://storybookscanada.ca/images/0089/09.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0089/mp3/09.mp3",
+        "zh": "“橘子还是绿的呀。”卡莱叹了口气。“橘子树，明天见！也许明天你就有熟橘子给我了。”",
+        "tip": "说说植物生长需要时间，不一定第二天就成熟。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "tree",
+        "meaning": "树",
+        "pageIndex": 1
+      },
+      {
+        "id": "word-1",
+        "word": "grass",
+        "meaning": "草",
+        "pageIndex": 2
+      },
+      {
+        "id": "word-2",
+        "word": "flowers",
+        "meaning": "花",
+        "pageIndex": 3
+      }
+    ],
+    "activity": {
+      "title": "和一棵树打招呼",
+      "text": "散步时看看树、草和花。用中文聊也可以，愿意的话再说一个英文词。",
+      "hint": "想玩就试试，也可以下次再玩。"
+    }
+  },
+  {
+    "id": "0095",
+    "title": "Zama is great!",
+    "zh": "扎玛真棒",
+    "primaryTheme": "everyday",
+    "themeIds": [
+      "everyday"
+    ],
+    "tags": [
+      "家庭",
+      "生活"
+    ],
+    "stageId": "S3",
+    "audioType": "human",
+    "source": {
+      "name": "African Storybook / Storybooks Canada",
+      "url": "https://storybookscanada.ca/stories/en/0095/",
+      "license": "https://creativecommons.org/licenses/by/3.0/",
+      "creators": [
+        "Michael Oguttu",
+        "Vusi Malindi"
+      ],
+      "reader": "Darshan Soni"
+    },
+    "sourceCover": "https://storybookscanada.ca/images/0095/01.jpg",
+    "pages": [
+      {
+        "en": "My little brother sleeps very late. I wake early, because I am great!",
+        "sourceImage": "https://storybookscanada.ca/images/0095/02.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0095/mp3/02.mp3",
+        "zh": "我的弟弟总是睡到很晚。我起得早，因为我很棒！",
+        "tip": "看看姐弟谁醒着、谁还在睡。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "I am the one who lets in the sun.",
+        "sourceImage": "https://storybookscanada.ca/images/0095/03.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0095/mp3/03.mp3",
+        "zh": "是我让阳光照进屋里。",
+        "tip": "指指照进来的阳光。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "“You’re my morning star,” says Ma.",
+        "sourceImage": "https://storybookscanada.ca/images/0095/04.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0095/mp3/04.mp3",
+        "zh": "妈妈说：“你是我的晨星。”",
+        "tip": "先听妈妈的夸奖，感受亲切的语气。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "I wash myself, I don’t need any help.",
+        "sourceImage": "https://storybookscanada.ca/images/0095/05.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0095/mp3/05.mp3",
+        "zh": "我自己洗漱，不用帮忙。",
+        "tip": "做一个轻轻洗脸的动作。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "I can cope with cold water and blue smelly soap.",
+        "sourceImage": "https://storybookscanada.ca/images/0095/06.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0095/mp3/06.mp3",
+        "zh": "凉水和那块蓝色、有气味的肥皂，我都能应付。",
+        "tip": "找到蓝色肥皂，洗漱用舒服的水温就好。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Ma reminds, “Don’t forget teeth.” I reply, “Never, not me!”",
+        "sourceImage": "https://storybookscanada.ca/images/0095/07.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0095/mp3/07.mp3",
+        "zh": "妈妈提醒：“别忘了刷牙。”我回答：“不会的，我才不会忘！”",
+        "tip": "指指牙齿，演一演刷牙。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "After washing, I greet Grandpa and Auntie, and wish them a good day.",
+        "sourceImage": "https://storybookscanada.ca/images/0095/08.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0095/mp3/08.mp3",
+        "zh": "洗漱后，我向爷爷和阿姨问好，祝他们有愉快的一天。",
+        "tip": "和身边的家人说声早上好。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Then I dress myself, “I’m big now Ma,” I say.",
+        "sourceImage": "https://storybookscanada.ca/images/0095/09.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0095/mp3/09.mp3",
+        "zh": "然后我自己穿衣服。我对妈妈说：“我长大啦。”",
+        "tip": "指指她正在穿的衣服。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "I can close my buttons and buckle my shoes.",
+        "sourceImage": "https://storybookscanada.ca/images/0095/10.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0095/mp3/10.mp3",
+        "zh": "我会扣纽扣，也会扣好鞋带扣。",
+        "tip": "选纽扣或鞋扣中的一个找一找。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "And I make sure little brother knows all the school news.",
+        "sourceImage": "https://storybookscanada.ca/images/0095/11.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0095/mp3/11.mp3",
+        "zh": "我还会把学校里的新鲜事都告诉弟弟。",
+        "tip": "说一件自己想告诉家人的小事。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "In class I do my best in every way.",
+        "sourceImage": "https://storybookscanada.ca/images/0095/12.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0095/mp3/12.mp3",
+        "zh": "在课堂上，我做什么都很认真。",
+        "tip": "看看她学习时的样子，不比较谁更乖。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "I do all these good things every day. But the thing I like most, is to play and play!",
+        "sourceImage": "https://storybookscanada.ca/images/0095/13.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0095/mp3/13.mp3",
+        "zh": "每天我都会做这些好事情。不过，我最喜欢的还是玩呀玩！",
+        "tip": "选一个喜欢的游戏，说说想和谁一起玩。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "wash",
+        "meaning": "洗",
+        "pageIndex": 3
+      },
+      {
+        "id": "word-1",
+        "word": "teeth",
+        "meaning": "牙齿",
+        "pageIndex": 5
+      },
+      {
+        "id": "word-2",
+        "word": "play",
+        "meaning": "玩",
+        "pageIndex": 11
+      }
+    ],
+    "activity": {
+      "title": "分享你喜欢的一件小事",
+      "text": "聊聊今天自己做过的事情，或一起玩一会儿。不必比较谁做得更好。",
+      "hint": "想玩就试试，也可以下次再玩。"
+    }
+  },
+  {
+    "id": "whose-button-is-this",
+    "title": "Whose button is this?",
+    "zh": "这是谁的纽扣",
+    "primaryTheme": "feelings",
+    "themeIds": [
+      "feelings",
+      "discovery",
+      "everyday"
+    ],
+    "tags": [
+      "观察",
+      "发现"
+    ],
+    "stageId": "S2",
+    "audioType": "generated",
+    "source": {
+      "name": "Book Dash",
+      "url": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/",
+      "publisherUrl": "https://bookdash.org/books/whose-button-is-this/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "creators": [
+        "Paul Kennedy, James Woolley, Louise Gale"
+      ],
+      "reader": null
+    },
+    "sourceCover": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/cover.jpg",
+    "pages": [
+      {
+        "en": "Tinny Tim was sitting on the road when a button bounced his way.",
+        "zh": "小机器人丁尼·蒂姆正坐在路上，一颗纽扣弹跳着来到他面前。",
+        "tip": "找到小机器人和滚来的纽扣。",
+        "alt": "Tinny Tim is a toy robot. A blue button bounces up to him.",
+        "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/01.jpg",
+        "audioFile": "audio/01-0105d22751006d75.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/01-0105d22751006d75.mp3",
+        "sourceAudioSha256": "0105d22751006d75a15503b660a673ffc7675ac50e9d522a1a067feebeacf4a2",
+        "sourceAudioTextSha256": "b8763cba26e4b45de01c0a5585f5592b4fd918846efb5700ba6fc482ae4867bc",
+        "audioDurationSeconds": 4.224,
+        "imageWidth": 567,
+        "imageHeight": 567
+      },
+      {
+        "en": "“I wonder where this comes from,” he said. He wanted to find out.",
+        "zh": "他说：“这是从哪里来的呢？”他想弄明白。",
+        "tip": "指指纽扣，猜猜它可能是谁的。",
+        "alt": "Tinny Tim carries the button. He walks with determination.",
+        "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/02.jpg",
+        "audioFile": "audio/02-abddb9079883eac0.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/02-abddb9079883eac0.mp3",
+        "sourceAudioSha256": "abddb9079883eac0ddb4b5edb864a78f706821180386222931ba6218ec849300",
+        "sourceAudioTextSha256": "e5e183bfc61b9983b4d60083ff9c963541cdebde897f33bde302c3ad035952c8",
+        "audioDurationSeconds": 5.088,
+        "imageWidth": 567,
+        "imageHeight": 567
+      },
+      {
+        "en": "It was busy on the side of the road. “Woah!” He nearly got squashed.",
+        "zh": "路边很忙乱。“哇！”他差一点被压扁。",
+        "tip": "这是童话冒险，现实过马路要和大人牵手。",
+        "alt": "Tinny Tim almost gets squashed under someone's red shoe.",
+        "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/03.jpg",
+        "audioFile": "audio/03-32c0203b4111406e.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/03-32c0203b4111406e.mp3",
+        "sourceAudioSha256": "32c0203b4111406ebb92b8671636619930bcc5098243748c9742171ea5bc32ae",
+        "sourceAudioTextSha256": "70488f07314a94e6f4940e501895e0e2c65a3505e732f24a279471705a4b2a24",
+        "audioDurationSeconds": 5.064,
+        "imageWidth": 567,
+        "imageHeight": 567
+      },
+      {
+        "en": "He made a lucky escape. “It’s scary out here,” he said.",
+        "zh": "他幸运地躲开了。“外面真吓人。”他说。",
+        "tip": "看看小机器人的表情，说说害怕的感觉。",
+        "alt": "Tinny Tim holds onto the shoe lace. He swings through the air.",
+        "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/04.jpg",
+        "audioFile": "audio/04-0204541e34809704.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/04-0204541e34809704.mp3",
+        "sourceAudioSha256": "0204541e348097040b4945b38ab632d07a36229918d98253377c6a9837bb9326",
+        "sourceAudioTextSha256": "7ce6ec22ae45022e622acf42ecf3c337bccbbef69c618eb1b23f3aba36c81caa",
+        "audioDurationSeconds": 4.68,
+        "imageWidth": 567,
+        "imageHeight": 567
+      },
+      {
+        "en": "“Hey there, is this yours?”",
+        "zh": "“你好，这是你的吗？”",
+        "tip": "指指他正在向谁提问。",
+        "alt": "Tinny Tim looks up to the green man on the traffic light.",
+        "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/05.jpg",
+        "audioFile": "audio/05-f1b162eff8bc0d49.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/05-f1b162eff8bc0d49.mp3",
+        "sourceAudioSha256": "f1b162eff8bc0d49a234d0227d077e7e91dcf2bd788fef9bcaacd9d71b9c7541",
+        "sourceAudioTextSha256": "3a324e375a490a8f9950b1c9cc662f6cde817d6b8eb5888e97759e2c9acf9e11",
+        "audioDurationSeconds": 2.544,
+        "imageWidth": 567,
+        "imageHeight": 567
+      },
+      {
+        "en": "The green man said nothing. He just turned red. “What a rude person.”",
+        "zh": "那个绿色的小人什么也没说，只是变成了红色。“真没礼貌。”",
+        "tip": "找找红绿变化的小人，说说这是交通信号。",
+        "alt": "The green man changes to a red man.",
+        "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/06.jpg",
+        "audioFile": "audio/06-13ecda75567cac41.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/06-13ecda75567cac41.mp3",
+        "sourceAudioSha256": "13ecda75567cac41e6361acb78fea25ebaedbacd79d9be1d5d62082b4562a099",
+        "sourceAudioTextSha256": "68d64db020da1078ccd1d2ceaacc1ff47cd8b0ced8444e1a2b7ee7681111f76e",
+        "audioDurationSeconds": 5.52,
+        "imageWidth": 567,
+        "imageHeight": 567
+      },
+      {
+        "en": "Tinny Tim carried on looking. “Whose button is this?”",
+        "zh": "丁尼·蒂姆继续寻找。“这是谁的纽扣？”",
+        "tip": "再找一次纽扣，听重复的问题。",
+        "alt": "Tinny Tim sees a dog in the distance.",
+        "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/07.jpg",
+        "audioFile": "audio/07-b8eb36adb72aef24.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/07-b8eb36adb72aef24.mp3",
+        "sourceAudioSha256": "b8eb36adb72aef24f4901065e2a671ab449c36be2497d1fb84750fe68dd6e7ac",
+        "sourceAudioTextSha256": "25cfdfc0d725895c98f70379f4cd4d4acf0bcaae21f7cce62e0bddfe8c68b1ce",
+        "audioDurationSeconds": 4.248,
+        "imageWidth": 567,
+        "imageHeight": 567
+      },
+      {
+        "en": "“Woah..! …at least he’s friendly.”",
+        "zh": "“哇……至少他很友好。”",
+        "tip": "看看这次遇到谁，不必给它取名字。",
+        "alt": "The dog licks Tinny Tim. He gets covered in dog drool.",
+        "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/08.jpg",
+        "audioFile": "audio/08-8334daaa44a31523.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/08-8334daaa44a31523.mp3",
+        "sourceAudioSha256": "8334daaa44a31523198f0511d8879ab5fc09fffe5701f3de2079f948c8096bc1",
+        "sourceAudioTextSha256": "6ee30692f6ca7d5c4e344a16e8c4153fcbc1edbf735e20761046e2490417e48f",
+        "audioDurationSeconds": 2.976,
+        "imageWidth": 567,
+        "imageHeight": 567
+      },
+      {
+        "en": "“I’ve got to get to the other side. I’m sure that’s where this comes from.”",
+        "zh": "“我得去路的另一边，我想它一定是从那边来的。”",
+        "tip": "用手指指向路的另一边，不真的穿越车道。",
+        "alt": "Tinny Tim holds the button. He stands at a pedestrian crossing.",
+        "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/09.jpg",
+        "audioFile": "audio/09-5b8976a371faba29.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/09-5b8976a371faba29.mp3",
+        "sourceAudioSha256": "5b8976a371faba290f8d60f3155c7acba94201667d5dfd18699c96147fd211d0",
+        "sourceAudioTextSha256": "e1c9b711faea50ad23bb6f22b9ffd15bc4750f2ef94aa7fd5791570232c517c4",
+        "audioDurationSeconds": 4.68,
+        "imageWidth": 567,
+        "imageHeight": 567
+      },
+      {
+        "en": "SPLASH! “That was close.” He waited for the cars to pass before he carried on.",
+        "zh": "哗啦！“好险！”他等汽车都过去后才继续走。",
+        "tip": "看到车流时先等候，现实中按交通信号和大人指引走。",
+        "alt": "A car drives through a puddle and he gets splashed.",
+        "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/10.jpg",
+        "audioFile": "audio/10-8b064b801224ed6a.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/10-8b064b801224ed6a.mp3",
+        "sourceAudioSha256": "8b064b801224ed6a669f5aae5f8aaa65f967137f318467c7cc2c2b2256d0ee52",
+        "sourceAudioTextSha256": "009aa2529a581a127ef074db4925dfa1031fd32767f991da966954e7538748d5",
+        "audioDurationSeconds": 6.792,
+        "imageWidth": 567,
+        "imageHeight": 567
+      },
+      {
+        "en": "Maybe this was who he was looking for. “Hello, who are you?”",
+        "zh": "也许这就是他要找的人。“你好，你是谁？”",
+        "tip": "指指新出现的伙伴，轻轻说 Hello。",
+        "alt": "Tinny Tim holds the button in the air.",
+        "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/11.jpg",
+        "audioFile": "audio/11-8b201b5d608ba2be.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/11-8b201b5d608ba2be.mp3",
+        "sourceAudioSha256": "8b201b5d608ba2be2351a863c7fdfd8d796d95152a50cb0bf334c2f1c5a2d9ca",
+        "sourceAudioTextSha256": "599e9868f936f76f1ca35785acb2640ccc821a1e2665123429b00c72d8b8b034",
+        "audioDurationSeconds": 5.088,
+        "imageWidth": 567,
+        "imageHeight": 567
+      },
+      {
+        "en": "“I’m Ruby Rags.” “I think this is yours,”he said.",
+        "zh": "“我是露比·拉格斯。”“我想这是你的。”他说。",
+        "tip": "看看纽扣现在要交给谁。",
+        "alt": "Ruby Rags is a doll with buttons for eyes. She is missing one eye.",
+        "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/12.jpg",
+        "audioFile": "audio/12-1a743dee38b26d1e.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/12-1a743dee38b26d1e.mp3",
+        "sourceAudioSha256": "1a743dee38b26d1e3f542748c2fa6ebdd10ba64699ccfea9a801ec01c14421ea",
+        "sourceAudioTextSha256": "a07e57ac3b813ff598b3bcadbd0a9efbea26d69764cedad023f121c33a6d0913",
+        "audioDurationSeconds": 4.68,
+        "imageWidth": 567,
+        "imageHeight": 567
+      },
+      {
+        "en": "“Thank you, little robot. Can we be friends?”",
+        "zh": "“谢谢你，小机器人。我们可以做朋友吗？”",
+        "tip": "轻轻和家人说声谢谢，感受新朋友的开心。",
+        "alt": "Ruby Rags and Tinny Tim sit next to each other. Ruby has both eyes!",
+        "sourceImage": "https://bookdash.github.io/bookdash-books/whose-button-is-this/en/images/13.jpg",
+        "audioFile": "audio/13-a1e4b806127e82a7.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/whose-button-is-this/audio/13-a1e4b806127e82a7.mp3",
+        "sourceAudioSha256": "a1e4b806127e82a7156f5b28bf1773fcdfb1af0b1d3ada32b67f2aa5023e8b9a",
+        "sourceAudioTextSha256": "cad48b16b2b8f7e2f1b202c81ec93302d715cd296bdffbd312d144de0a03f621",
+        "audioDurationSeconds": 3.648,
+        "imageWidth": 567,
+        "imageHeight": 567
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "button",
+        "meaning": "纽扣",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "green",
+        "meaning": "绿色",
+        "pageIndex": 5
+      },
+      {
+        "id": "word-2",
+        "word": "red",
+        "meaning": "红色",
+        "pageIndex": 5
+      }
+    ],
+    "activity": {
+      "title": "观察红色和绿色",
+      "text": "在家找红色和绿色的东西。出门由家长带着过马路，故事里的小人是交通信号灯。",
+      "hint": "想玩就试试，也可以下次再玩。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Charlie 2.0 美式英语（轻柔慢速）",
+      "voiceId": "ICL_uranus_en_female_charlie_tob",
+      "voiceType": "preset",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "approvedAuditionRunId": 39233953938,
+      "adaptation": "AI narration produced by Jigu from the attributed English text.",
+      "approvedVariant": "english-gentle"
+    }
+  }
+]

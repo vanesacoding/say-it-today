@@ -1,0 +1,782 @@
+[
+  {
+    "id": "0156",
+    "title": "The hungry crocodile",
+    "zh": "饥饿的鳄鱼",
+    "primaryTheme": "nature",
+    "themeIds": [
+      "nature"
+    ],
+    "tags": [
+      "动物",
+      "自然"
+    ],
+    "stageId": "S1",
+    "audioType": "human",
+    "source": {
+      "name": "African Storybook / Storybooks Canada",
+      "url": "https://storybookscanada.ca/stories/en/0156/",
+      "license": "https://creativecommons.org/licenses/by/3.0/",
+      "creators": [
+        "Christian G.",
+        "Wiehan de Jager"
+      ],
+      "reader": "Darshan Soni"
+    },
+    "sourceCover": "https://storybookscanada.ca/images/0156/01.jpg",
+    "pages": [
+      {
+        "en": "Once there was a very hungry crocodile.",
+        "sourceImage": "https://storybookscanada.ca/images/0156/02.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0156/mp3/02.mp3",
+        "zh": "从前，有一条非常饿的鳄鱼。",
+        "tip": "指指鳄鱼，看看饥饿的样子。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "He searched for food slowly and quietly. And then…",
+        "sourceImage": "https://storybookscanada.ca/images/0156/03.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0156/mp3/03.mp3",
+        "zh": "它慢慢地、悄悄地寻找食物。然后……",
+        "tip": "用手指慢慢走，感受 slowly。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "POW!!! The crocodile strikes!",
+        "sourceImage": "https://storybookscanada.ca/images/0156/04.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0156/mp3/04.mp3",
+        "zh": "啪！鳄鱼猛扑过去！",
+        "tip": "看看鳄鱼突然的动作，不用模仿扑咬。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "After that he is no longer hungry, and he is happy.",
+        "sourceImage": "https://storybookscanada.ca/images/0156/05.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0156/mp3/05.mp3",
+        "zh": "这下它不饿了，心情也很好。",
+        "tip": "看看它的神情，听 happy。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Until he gets hungry again.",
+        "sourceImage": "https://storybookscanada.ca/images/0156/06.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0156/mp3/06.mp3",
+        "zh": "直到它又饿起来。",
+        "tip": "回想它前后肚子饿不饿的变化。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "hungry",
+        "meaning": "饿的",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "food",
+        "meaning": "食物",
+        "pageIndex": 1
+      },
+      {
+        "id": "word-2",
+        "word": "happy",
+        "meaning": "开心的",
+        "pageIndex": 3
+      }
+    ],
+    "activity": {
+      "title": "肚子饿了会怎样",
+      "text": "和孩子做一个饥饿或满足的表情，聊聊自己喜欢的食物。",
+      "hint": "想玩就试试，也可以下次再玩。"
+    }
+  },
+  {
+    "id": "0008",
+    "title": "What are you doing?",
+    "zh": "你在做什么",
+    "primaryTheme": "everyday",
+    "themeIds": [
+      "everyday"
+    ],
+    "tags": [
+      "家庭",
+      "生活"
+    ],
+    "stageId": "S1",
+    "audioType": "human",
+    "source": {
+      "name": "African Storybook / Storybooks Canada",
+      "url": "https://storybookscanada.ca/stories/en/0008/",
+      "license": "https://creativecommons.org/licenses/by/3.0/",
+      "creators": [
+        "Nina Orange",
+        "Wiehan de Jager"
+      ],
+      "reader": "Darshan Soni"
+    },
+    "sourceCover": "https://storybookscanada.ca/images/0008/01.jpg",
+    "pages": [
+      {
+        "en": "I am singing.",
+        "sourceImage": "https://storybookscanada.ca/images/0008/02.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0008/mp3/02.mp3",
+        "zh": "我在唱歌。",
+        "tip": "轻轻哼一个音，感受 singing。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "She is waving.",
+        "sourceImage": "https://storybookscanada.ca/images/0008/03.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0008/mp3/03.mp3",
+        "zh": "她在挥手。",
+        "tip": "和阅读伙伴挥挥手，听 waving。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "I am clapping.",
+        "sourceImage": "https://storybookscanada.ca/images/0008/04.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0008/mp3/04.mp3",
+        "zh": "我在拍手。",
+        "tip": "轻轻拍两下手，听 clapping。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "She is stretching.",
+        "sourceImage": "https://storybookscanada.ca/images/0008/05.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0008/mp3/05.mp3",
+        "zh": "她在伸展身体。",
+        "tip": "舒服地伸一伸手臂，不用用力。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "He is calling.",
+        "sourceImage": "https://storybookscanada.ca/images/0008/06.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0008/mp3/06.mp3",
+        "zh": "他在呼唤。",
+        "tip": "把手放在嘴边，演一演轻声呼唤。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "I am answering.",
+        "sourceImage": "https://storybookscanada.ca/images/0008/07.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0008/mp3/07.mp3",
+        "zh": "我在回应。",
+        "tip": "和家人轮流呼唤、回应一次。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "She is listening.",
+        "sourceImage": "https://storybookscanada.ca/images/0008/08.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0008/mp3/08.mp3",
+        "zh": "她在听。",
+        "tip": "停一小会儿，听听身边的声音。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "What are you doing?",
+        "sourceImage": "https://storybookscanada.ca/images/0008/09.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0008/mp3/09.mp3",
+        "zh": "你在做什么？",
+        "tip": "选一个自己喜欢的动作做一做，用中文说也可以。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "singing",
+        "meaning": "唱歌",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "clapping",
+        "meaning": "拍手",
+        "pageIndex": 2
+      },
+      {
+        "id": "word-2",
+        "word": "listening",
+        "meaning": "听",
+        "pageIndex": 6
+      }
+    ],
+    "activity": {
+      "title": "你做动作，我来猜",
+      "text": "轮流做一个故事里的动作。可以听原句再做，不必要求孩子回答英文。",
+      "hint": "想玩就试试，也可以下次再玩。"
+    }
+  },
+  {
+    "id": "sleepy-mr-sloth",
+    "title": "Sleepy Mr Sloth",
+    "zh": "困困的树懒先生",
+    "primaryTheme": "nature",
+    "themeIds": [
+      "nature",
+      "feelings"
+    ],
+    "tags": [
+      "动物",
+      "自然"
+    ],
+    "stageId": "S3",
+    "audioType": "generated",
+    "source": {
+      "name": "Book Dash",
+      "url": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/",
+      "publisherUrl": "https://bookdash.org/books/sleepy-mr-sloth/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "creators": [
+        "Graham Paterson, Paul Kennedy, Nick Mulgrew"
+      ],
+      "reader": null
+    },
+    "sourceCover": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/cover.jpg",
+    "pages": [
+      {
+        "en": "One day, Mr Sloth came to visit. He said: I’m sleepy! I need a good branch for a bed!",
+        "zh": "一天，树懒先生来做客。他说：“我困了！我需要一根合适的树枝当床！”",
+        "tip": "做一个困了的表情，听 sleepy。",
+        "alt": "Mr Sloth is sleepy and yawning.",
+        "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/01.jpg",
+        "audioFile": "audio/01-9280cad4eab115f7.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/01-9280cad4eab115f7.mp3",
+        "sourceAudioSha256": "9280cad4eab115f77c763e54079e99e55105d7e90f24aa895a6a02fdb7c1d719",
+        "sourceAudioTextSha256": "818cfdb2e077139a3513f55cacf2a10c18fb4d75aa29b73bf1cab7756aaf8575",
+        "audioDurationSeconds": 6.792,
+        "imageWidth": 1024,
+        "imageHeight": 1021
+      },
+      {
+        "en": "I’m quite good at climbing. I know how to swing. But sleeping’s my favourite, favourite thing!",
+        "zh": "我很会爬树，也知道怎么荡来荡去。不过，睡觉才是我最最喜欢的事！",
+        "tip": "用手指演一演慢慢爬，不必真的爬高。",
+        "alt": "Mr Sloth starts climbing the tree.",
+        "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/02.jpg",
+        "audioFile": "audio/02-9b65f50e2816c0f3.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/02-9b65f50e2816c0f3.mp3",
+        "sourceAudioSha256": "9b65f50e2816c0f327dbbf3c06c97b40ba5260df7df0fb0267f9f05c015a0988",
+        "sourceAudioTextSha256": "bd9140d60120accc72c31f95c927ded84c8eaa1ee008507eb1208c88576acab9",
+        "audioDurationSeconds": 6.576,
+        "imageWidth": 1024,
+        "imageHeight": 1023
+      },
+      {
+        "en": "This branch looks lovely! I think I’ll sleep here. And you? Don’t you think that’s a splendid idea?",
+        "zh": "这根树枝真不错！我想在这儿睡。你呢？你不觉得这个主意很棒吗？",
+        "tip": "指指他选中的树枝，先听重复的一句。",
+        "alt": "Mr Sloth spots a branch. Is that a big ear nearby?",
+        "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/03.jpg",
+        "audioFile": "audio/03-77ab51efc665abb3.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/03-77ab51efc665abb3.mp3",
+        "sourceAudioSha256": "77ab51efc665abb38669cad10eb16debe37fc18b9adab5a4ad6ed18df480d30b",
+        "sourceAudioTextSha256": "fcc621d41b428e91ee325d3d3c8cc037af5f194d2b421da16a3dd00f3ce966e5",
+        "audioDurationSeconds": 7.032,
+        "imageWidth": 1024,
+        "imageHeight": 1021
+      },
+      {
+        "en": "Oh no, Mr Sloth! A giraffe’s eating there! He might think you’re lunch and start nibbling your hair!",
+        "zh": "不行呀，树懒先生！长颈鹿正在那里吃东西！他也许会把你当午饭，啃起你的头发来！",
+        "tip": "指指长颈鹿和树叶，看看这里为什么不方便。",
+        "alt": "A giraffe bites Mr Sloth by mistake!",
+        "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/04.jpg",
+        "audioFile": "audio/04-f01ea4827944a82e.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/04-f01ea4827944a82e.mp3",
+        "sourceAudioSha256": "f01ea4827944a82e3d543310b370aa8e43cec50de707c5ce236db12d806d5ae9",
+        "sourceAudioTextSha256": "0b619e2905626503470bb497b23c1cdcf99e852ae226498b30d72e514117080e",
+        "audioDurationSeconds": 7.416,
+        "imageWidth": 1024,
+        "imageHeight": 1021
+      },
+      {
+        "en": "This branch looks lovely! I think I’ll sleep here. And you? Don’t you think that’s a splendid idea?",
+        "zh": "这根树枝真不错！我想在这儿睡。你呢？你不觉得这个主意很棒吗？",
+        "tip": "又选了一根树枝，猜猜这次旁边是谁。",
+        "alt": "Mr Sloth spots a branch. There are a few bees flying around.",
+        "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/05.jpg",
+        "audioFile": "audio/05-539a84125ead19c4.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/05-539a84125ead19c4.mp3",
+        "sourceAudioSha256": "539a84125ead19c46871a743fbc1100d48e4fec505066f14d23f6d833a526d52",
+        "sourceAudioTextSha256": "fcc621d41b428e91ee325d3d3c8cc037af5f194d2b421da16a3dd00f3ce966e5",
+        "audioDurationSeconds": 6.768,
+        "imageWidth": 1024,
+        "imageHeight": 1023
+      },
+      {
+        "en": "Oh no, Mr Sloth! There’s a beehive right there! You’ll never get sleep with those bees everywhere!",
+        "zh": "不行呀，树懒先生！那里有一个蜂窝！到处都是蜜蜂，你可睡不好！",
+        "tip": "找到蜂窝，轻轻模仿嗡嗡声。",
+        "alt": "Bees fly out of a beehive around Mr Sloth!",
+        "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/06.jpg",
+        "audioFile": "audio/06-4cccc5af075bc843.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/06-4cccc5af075bc843.mp3",
+        "sourceAudioSha256": "4cccc5af075bc84334b86ed338229030947b4d8e70cb2608bb90fd8e4142e1c0",
+        "sourceAudioTextSha256": "cc8fe2f2b116bbe5dcb050d214e3058591f69fddc0b3f58421ee23d4069f68b7",
+        "audioDurationSeconds": 7.008,
+        "imageWidth": 1024,
+        "imageHeight": 976
+      },
+      {
+        "en": "This branch looks lovely! I think I’ll sleep here. And you? Don’t you think that’s a splendid idea?",
+        "zh": "这根树枝真不错！我想在这儿睡。你呢？你不觉得这个主意很棒吗？",
+        "tip": "先观察这根“树枝”的样子。",
+        "alt": "Mr Sloth spots a branch. There is a tail nearby.",
+        "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/07.jpg",
+        "audioFile": "audio/07-c296a075ba1a31ed.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/07-c296a075ba1a31ed.mp3",
+        "sourceAudioSha256": "c296a075ba1a31ed9c42101449d5e3340bc95bad003d5ffdfab30142b850bed0",
+        "sourceAudioTextSha256": "fcc621d41b428e91ee325d3d3c8cc037af5f194d2b421da16a3dd00f3ce966e5",
+        "audioDurationSeconds": 6.6,
+        "imageWidth": 1024,
+        "imageHeight": 1023
+      },
+      {
+        "en": "Oh no, Mr Sloth, that’s a snake over there! Not a branch! Poor old snake. You gave him quite a scare.",
+        "zh": "不行呀，树懒先生！那里是一条蛇，不是树枝！可怜的蛇，你把他吓了一大跳。",
+        "tip": "找到蛇，说说为什么不能把它当树枝。",
+        "alt": "Mr Sloth grabs snake by mistake!",
+        "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/08.jpg",
+        "audioFile": "audio/08-acb172ad97b65a4c.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/08-acb172ad97b65a4c.mp3",
+        "sourceAudioSha256": "acb172ad97b65a4c65ec3fef807d0ae28ae4a0a974e30ee622a9646295300e17",
+        "sourceAudioTextSha256": "8363aa9cb21bd446f5e84ec790dda9df41278fbdce15fc13a6c6c4b2e2a686e9",
+        "audioDurationSeconds": 7.632,
+        "imageWidth": 1024,
+        "imageHeight": 1024
+      },
+      {
+        "en": "This branch looks lovely! I think I’ll sleep here. And you? Don’t you think that’s a splendid idea?",
+        "zh": "这根树枝真不错！我想在这儿睡。你呢？你不觉得这个主意很棒吗？",
+        "tip": "这次他又想睡在哪里？指一指就好。",
+        "alt": "Mr Sloth spots a branch. There are feet nearby.",
+        "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/09.jpg",
+        "audioFile": "audio/09-d4e5e2c26c4da97d.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/09-d4e5e2c26c4da97d.mp3",
+        "sourceAudioSha256": "d4e5e2c26c4da97d0ebe92a58e3487e7bdf875604ef03fe149d7c9e5f3102bad",
+        "sourceAudioTextSha256": "fcc621d41b428e91ee325d3d3c8cc037af5f194d2b421da16a3dd00f3ce966e5",
+        "audioDurationSeconds": 6.984,
+        "imageWidth": 1024,
+        "imageHeight": 1023
+      },
+      {
+        "en": "Oh no, Mr Sloth! There’s a bird squawking there! You’ll never get sleep with that noise in the air!",
+        "zh": "不行呀，树懒先生！那里有一只吵闹的小鸟！叫声这么响，你可睡不好！",
+        "tip": "指指小鸟，听听它的叫声会不会吵醒人。",
+        "alt": "A hadeda is squawking loudly there!",
+        "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/10.jpg",
+        "audioFile": "audio/10-15fc0801d1a693c2.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/10-15fc0801d1a693c2.mp3",
+        "sourceAudioSha256": "15fc0801d1a693c2a702aee500be6065553e2409aa6ceb34729660615ed3739c",
+        "sourceAudioTextSha256": "117df723d2b7b10a551fb61bb15e4d804e2b34aa681cec4254bceda930867e4a",
+        "audioDurationSeconds": 6.36,
+        "imageWidth": 1024,
+        "imageHeight": 1021
+      },
+      {
+        "en": "Try climb one more branch, Mr Sloth! they all said. And that branch was just the right one for his bed.",
+        "zh": "大家都说：“再往上爬一根树枝试试吧，树懒先生！”那根树枝正好适合当他的床。",
+        "tip": "找找最后适合睡觉的树枝。",
+        "alt": "Mr Sloth climbs to the top of the tree and smiles.",
+        "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/11.jpg",
+        "audioFile": "audio/11-83c5f9917e603b02.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/11-83c5f9917e603b02.mp3",
+        "sourceAudioSha256": "83c5f9917e603b020d5fc8078a47a2091b6d9980daf6f654c2baf0eb57e0b95e",
+        "sourceAudioTextSha256": "4e7b0ca66ec4975546adda426c95c77e54d49bc1ecd573b03724ee2a5b6ed1fb",
+        "audioDurationSeconds": 7.176,
+        "imageWidth": 1024,
+        "imageHeight": 1023
+      },
+      {
+        "en": "The bird and the snake, the giraffe and each bee were happy to have Mr Sloth in their tree.",
+        "zh": "小鸟、蛇、长颈鹿和每一只蜜蜂，都很高兴树懒先生住进了他们的树。",
+        "tip": "选一种树上的动物，和它挥手道晚安。",
+        "alt": "Mr Sloth and the animals are all sleeping nicely in the tree together.",
+        "sourceImage": "https://bookdash.github.io/bookdash-books/sleepy-mr-sloth/en/images/12.jpg",
+        "audioFile": "audio/12-1fa796b6cf2f3021.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/sleepy-mr-sloth/audio/12-1fa796b6cf2f3021.mp3",
+        "sourceAudioSha256": "1fa796b6cf2f3021c1ebcd162eab8c90f6f9af1f3f695f57aad497b56ca22fe8",
+        "sourceAudioTextSha256": "4f72a58cb083ec6cc350e93476a1947b9f26875bd3f8106e34cfcb5ec6db3573",
+        "audioDurationSeconds": 6.336,
+        "imageWidth": 1024,
+        "imageHeight": 1023
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "sleepy",
+        "meaning": "困的",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "branch",
+        "meaning": "树枝",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-2",
+        "word": "bees",
+        "meaning": "蜜蜂",
+        "pageIndex": 5
+      }
+    ],
+    "activity": {
+      "title": "给玩偶找个舒服的地方",
+      "text": "给玩偶安排一个舒服的睡觉位置，聊聊什么地方适合休息。",
+      "hint": "想玩就试试，也可以下次再玩。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Charlie 2.0 美式英语（轻柔慢速）",
+      "voiceId": "ICL_uranus_en_female_charlie_tob",
+      "voiceType": "preset",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "approvedAuditionRunId": 39233953938,
+      "adaptation": "AI narration produced by Jigu from the attributed English text.",
+      "approvedVariant": "english-gentle"
+    }
+  },
+  {
+    "id": "0327",
+    "title": "Counting animals",
+    "zh": "数数动物",
+    "primaryTheme": "discovery",
+    "themeIds": [
+      "discovery",
+      "nature"
+    ],
+    "tags": [
+      "动物",
+      "自然"
+    ],
+    "stageId": "S2",
+    "audioType": "human",
+    "source": {
+      "name": "African Storybook / Storybooks Canada",
+      "url": "https://storybookscanada.ca/stories/en/0327/",
+      "license": "https://creativecommons.org/licenses/by/3.0/",
+      "creators": [
+        "Zanele Buthelezi, Thembani Dladla, Clare Verbeek",
+        "Rob Owen"
+      ],
+      "reader": "Darshan Soni"
+    },
+    "sourceCover": "https://storybookscanada.ca/images/0327/01.jpg",
+    "pages": [
+      {
+        "en": "One elephant is going to drink water.",
+        "sourceImage": "https://storybookscanada.ca/images/0327/02.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0327/mp3/02.mp3",
+        "zh": "一头大象正要去喝水。",
+        "tip": "指指大象，听 one elephant。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Two giraffes are going to drink water.",
+        "sourceImage": "https://storybookscanada.ca/images/0327/03.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0327/mp3/03.mp3",
+        "zh": "两只长颈鹿正要去喝水。",
+        "tip": "指指长颈鹿，愿意就数到二。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Three buffaloes and four birds are also going to drink water.",
+        "sourceImage": "https://storybookscanada.ca/images/0327/04.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0327/mp3/04.mp3",
+        "zh": "三头水牛和四只鸟也正要去喝水。",
+        "tip": "先选水牛或小鸟中的一种，慢慢指着数。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Five impalas and six warthogs are walking to the water.",
+        "sourceImage": "https://storybookscanada.ca/images/0327/05.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0327/mp3/05.mp3",
+        "zh": "五只黑斑羚和六只疣猪正向水边走去。",
+        "tip": "选一种认识的动物找一找，不必背两个数字。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Seven zebras are running to the water.",
+        "sourceImage": "https://storybookscanada.ca/images/0327/06.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0327/mp3/06.mp3",
+        "zh": "七匹斑马向水边跑去。",
+        "tip": "找斑马身上的条纹，想数再数。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Eight frogs and nine fish are swimming in the water.",
+        "sourceImage": "https://storybookscanada.ca/images/0327/07.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0327/mp3/07.mp3",
+        "zh": "八只青蛙和九条鱼在水里游。",
+        "tip": "指指水里的动物，看看谁在游泳。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "One lion roars. He also wants to drink. Who is afraid of the lion?",
+        "sourceImage": "https://storybookscanada.ca/images/0327/08.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0327/mp3/08.mp3",
+        "zh": "一头狮子吼叫起来。它也想喝水。谁害怕这头狮子呢？",
+        "tip": "轻轻学一声狮子吼，看看其他动物的反应。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "One elephant is drinking water with the lion.",
+        "sourceImage": "https://storybookscanada.ca/images/0327/09.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0327/mp3/09.mp3",
+        "zh": "一头大象正和狮子一起喝水。",
+        "tip": "找找最后留下来一起喝水的是谁。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "elephant",
+        "meaning": "大象",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "lion",
+        "meaning": "狮子",
+        "pageIndex": 6
+      },
+      {
+        "id": "word-2",
+        "word": "water",
+        "meaning": "水",
+        "pageIndex": 0
+      }
+    ],
+    "activity": {
+      "title": "给动物玩偶排排队",
+      "text": "选两三只动物玩偶，排队、数一数。下次去动物园，可以找找故事中的动物。",
+      "hint": "想玩就试试，也可以下次再玩。"
+    }
+  },
+  {
+    "id": "0217",
+    "title": "My teacher",
+    "zh": "我喜欢我的老师",
+    "stageId": "S2",
+    "primaryTheme": "everyday",
+    "themeIds": [
+      "everyday",
+      "feelings",
+      "discovery"
+    ],
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0217/01.jpg",
+    "sourceCoverSha256": "8ec6b19aeae4fe4141334024386873fb5ff14a885160713165de579276d44c96",
+    "audioType": "generated",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0217_my-teacher.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Zimbili Dlamini, Hlengiwe Zondi",
+        "插画：Jesse Pietersen"
+      ],
+      "editorialNote": "英文校订了拼写、标点、语法及少量措辞；每页保留原文供核对。中文辅助、陪读提示、重点词和亲子活动为叽咕新增。",
+      "sourceTextSha256": "1b9cfb357648ac31d3ecf4fd20ff659dcb9dbee6b0dfb342e71c5743e079b772"
+    },
+    "pages": [
+      {
+        "en": "I love my teacher.",
+        "sourceText": "I love my teacher.",
+        "zh": "我爱我的老师。",
+        "tip": "聊聊孩子喜欢的老师或照顾自己的人。",
+        "alt": "我爱我的老师。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0217/02.jpg",
+        "sourceImageSha256": "d15e2514dccb9a2f868d0856e8baef2e042b43c2eef9968e53392390a926dfea",
+        "imageWidth": 546,
+        "imageHeight": 546,
+        "audioFile": "audio/01-7dedfb86f8c81777.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0217/audio/01-7dedfb86f8c81777.mp3",
+        "sourceAudioSha256": "7dedfb86f8c8177738faa7d79dd7e186878e1bceddf56b9daeb341f57b778c15",
+        "sourceAudioTextSha256": "205bcfbdd36f086ea618aa997ca3bd2578c3ff90193041339f520ffa1f0553ad",
+        "audioDurationSeconds": 2.136
+      },
+      {
+        "en": "She is beautiful. She is a good teacher. She is kind and patient.",
+        "sourceText": "She is beautiful. She is a good teacher. She is kind and patient.",
+        "zh": "她很美。她是一位好老师，既亲切又有耐心。",
+        "tip": "想一想老师怎样耐心地帮助大家。",
+        "alt": "她很美。她是一位好老师，既亲切又有耐心。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0217/03.jpg",
+        "sourceImageSha256": "ac3be839488302a75ab9ebc7825e3585bcab7150e212d4cbaa4855d1d0790cb8",
+        "imageWidth": 546,
+        "imageHeight": 546,
+        "audioFile": "audio/02-2f30e2fbb2d91e42.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0217/audio/02-2f30e2fbb2d91e42.mp3",
+        "sourceAudioSha256": "2f30e2fbb2d91e42078fd94d5e37766af140bbcd1833247914df0f6ca25ad675",
+        "sourceAudioTextSha256": "e91b2b8b5904380370fbe27070716a59b47366782837bd8ad0fa155c4c7a3f52",
+        "audioDurationSeconds": 6.36
+      },
+      {
+        "en": "She has braided her hair very nicely today.",
+        "sourceText": "She has braided her hair very nicely today.",
+        "zh": "她今天把头发编得特别好看。",
+        "tip": "观察老师的发型。",
+        "alt": "她今天把头发编得特别好看。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0217/04.jpg",
+        "sourceImageSha256": "3c7102ed26fee446d58483dac6ef826df747276b31445b69688c1c7d8b88626f",
+        "imageWidth": 546,
+        "imageHeight": 546,
+        "audioFile": "audio/03-90eff9b3c473370a.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0217/audio/03-90eff9b3c473370a.mp3",
+        "sourceAudioSha256": "90eff9b3c473370af2031bfb05a5cccb8be773ca74e30f9c7b16a2008bb43673",
+        "sourceAudioTextSha256": "f8e862baa03e8c74e9ff72c27c90f49b699bca5321dca773f59d6d192e40817c",
+        "audioDurationSeconds": 3.408
+      },
+      {
+        "en": "She has decorated her hair with colourful beads.",
+        "sourceText": "She has decorated her hair with colourful beads.",
+        "zh": "她用彩色的珠子装饰头发。",
+        "tip": "找找头发上的小珠子。",
+        "alt": "她用彩色的珠子装饰头发。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0217/05.jpg",
+        "sourceImageSha256": "1070e8b753c5a5a4b253d0085df8a7c0ff10d7d40dd4a56486e82e8476fa863e",
+        "imageWidth": 546,
+        "imageHeight": 546,
+        "audioFile": "audio/04-6f4119837448450d.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0217/audio/04-6f4119837448450d.mp3",
+        "sourceAudioSha256": "6f4119837448450d2feaf16d2df83978deb0877b3db1b035a5221fd703a4c883",
+        "sourceAudioTextSha256": "4a0f1a26421e920c58dd84691ac9681061d9c7f4e1d214b36b281080cb877441",
+        "audioDurationSeconds": 3.408
+      },
+      {
+        "en": "Her beads are green, white, red, and yellow.",
+        "sourceText": "Her beads are green, white, red, and yellow.",
+        "zh": "她的珠子有绿色、白色、红色和黄色。",
+        "tip": "挑一种珠子的颜色指一指。",
+        "alt": "她的珠子有绿色、白色、红色和黄色。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0217/06.jpg",
+        "sourceImageSha256": "8ec6b19aeae4fe4141334024386873fb5ff14a885160713165de579276d44c96",
+        "imageWidth": 546,
+        "imageHeight": 546,
+        "audioFile": "audio/05-14213c6be7974e62.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0217/audio/05-14213c6be7974e62.mp3",
+        "sourceAudioSha256": "14213c6be7974e62a001a8194383ecb4e459d60fe312e969eaadefc6dac71ed3",
+        "sourceAudioTextSha256": "171e84aca39cc37cc1a7cd165e201876354130131be6bded6be0143a9cbdde97",
+        "audioDurationSeconds": 4.056
+      },
+      {
+        "en": "Mom, please would you braid my hair like my teacher's?",
+        "sourceText": "Mom, please would you braid my hair like my teacher's?",
+        "zh": "妈妈，你能像老师那样给我编头发吗？",
+        "tip": "看看孩子想和老师哪里一样。",
+        "alt": "妈妈，你能像老师那样给我编头发吗？",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0217/07.jpg",
+        "sourceImageSha256": "12f86bce308f508ceb60b5e2c3a600098c5a31ac6a730622f27cc8b472017404",
+        "imageWidth": 546,
+        "imageHeight": 546,
+        "audioFile": "audio/06-5965c22dd1a4f7bf.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0217/audio/06-5965c22dd1a4f7bf.mp3",
+        "sourceAudioSha256": "5965c22dd1a4f7bfba2f7c8656128beace6ad13b6a9fca40e3e656db7d6bb1f9",
+        "sourceAudioTextSha256": "92d68af9a2595f9127df40f404db98410fd95040d8a986d0e7779af07e6a32d4",
+        "audioDurationSeconds": 4.224
+      },
+      {
+        "en": "When I am older I will also put beads in my hair.",
+        "sourceText": "When I am older I will also put beads in my hair.",
+        "zh": "长大以后，我也要在头发上戴珠子。",
+        "tip": "可以聊聊自己喜欢什么发型。",
+        "alt": "长大以后，我也要在头发上戴珠子。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0217/08.jpg",
+        "sourceImageSha256": "81fc4034831883fda1f746ae94c0cb29264d05e5b5fe6dfdf45b8f6e2da693e5",
+        "imageWidth": 546,
+        "imageHeight": 546,
+        "audioFile": "audio/07-56f85034b17dd4ee.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0217/audio/07-56f85034b17dd4ee.mp3",
+        "sourceAudioSha256": "56f85034b17dd4ee2d610ef298a812ab9e422e6312e3ca65a63f25d24dbd0099",
+        "sourceAudioTextSha256": "502dfe62a523a9c52c5f8ed7fd0b713ebdc65810b28a80e98e300f8c680e2c7a",
+        "audioDurationSeconds": 3.816
+      },
+      {
+        "en": "I will grow up to be just like my teacher!",
+        "sourceText": "I will grow up to be just like my teacher!",
+        "zh": "我要长成像老师那样的人！",
+        "tip": "聊聊想向谁学习一件好事情。",
+        "alt": "我要长成像老师那样的人！",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0217/09.jpg",
+        "sourceImageSha256": "9d174fdf184967929e59dd68cdabfef99fafaf0ee5abb4688278bfdd55126281",
+        "imageWidth": 546,
+        "imageHeight": 546,
+        "audioFile": "audio/08-eb78073fc9187b64.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0217/audio/08-eb78073fc9187b64.mp3",
+        "sourceAudioSha256": "eb78073fc9187b64013b705b15ed4c099967052d950e2f6ffbbbf8f4446e8506",
+        "sourceAudioTextSha256": "02210793475a1a37e343ef55a66a17c4594597443e9672943c3fa33a536d7292",
+        "audioDurationSeconds": 3.216
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "teacher",
+        "meaning": "老师",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "kind",
+        "meaning": "亲切的；善良的",
+        "pageIndex": 1
+      },
+      {
+        "id": "word-2",
+        "word": "yellow",
+        "meaning": "黄色",
+        "pageIndex": 4
+      }
+    ],
+    "activity": {
+      "title": "感谢一个人",
+      "text": "说说谁曾耐心帮助自己，再找机会对那个人说 Thank you。",
+      "hint": "跟着孩子的兴趣来，不要求跟读、测验或打卡。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Charlie 2.0 美式英语（轻柔慢速）",
+      "voiceId": "ICL_uranus_en_female_charlie_tob",
+      "voiceType": "preset",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "approvedAuditionRunId": 39233953938,
+      "approvedVariant": "english-gentle",
+      "adaptation": "AI narration produced by Jigu from the attributed English text."
+    }
+  }
+]

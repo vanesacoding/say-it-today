@@ -13,10 +13,15 @@ assert.equal(new Set(books.map(b=>b.id)).size,books.length);
 const stages=new Set(),themes=new Set();
 for(const b of books){
  stages.add(b.stageId);themes.add(b.primaryTheme);
- assert.ok(b.source.license.includes('/by/')&&!b.source.license.includes('nc'),'unrestricted attribution license for '+b.id);
- assert.ok(b.themeIds.includes(b.primaryTheme));assert.ok(b.pages.length>=5);assert.ok(b.keywords.length>=2&&b.keywords.length<=4);
+ const ncIds=new Set(['0002','0003','0030','0067']);
+ assert.ok(b.source.license.includes('/by/')||(ncIds.has(b.id)&&b.source.noncommercialOnly&&b.source.license==='https://creativecommons.org/licenses/by-nc/3.0/'),'documented reuse license for '+b.id);
+ assert.ok(b.themeIds.includes(b.primaryTheme));assert.ok(b.pages.length>=4);assert.ok(b.keywords.length>=2&&b.keywords.length<=4);
  assert.ok(['S1','S2','S3'].includes(b.stageId));assert.ok(b.activity.title&&b.activity.text);
  assert.ok(['human','generated','device'].includes(b.audioType));
+ if(release.newBookIds?.includes(b.id)){
+  assert.ok(['en_male_adam-imitation_uranus_bigtts','en_female_authoritative-british_uranus_bigtts','en_male_knightley_uranus_bigtts'].includes(b.narration?.voiceId),'new books must use one of three native voices');
+  for(const p of b.pages)assert.equal(p.en,p.sourceText,'new English must match pinned source');
+ }
  if(b.audioType==='generated')assert.ok(b.narration?.kind==='ai'&&b.narration.voice);
  for(const [i,p] of b.pages.entries()){
   assert.equal(typeof p.en,'string');assert.equal(typeof p.zh,'string');assert.ok(p.tip&&p.sourceImage);

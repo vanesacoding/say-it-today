@@ -1,0 +1,936 @@
+[
+  {
+    "id": "0291",
+    "title": "What Vusi's sister said",
+    "zh": "姐姐会怎么说？",
+    "stageId": "S3",
+    "primaryTheme": "feelings",
+    "themeIds": [
+      "feelings",
+      "everyday"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0291/01.jpg",
+    "sourceCoverSha256": "0d7f8ff724e42b342831fd06aca7e306b31c2640a16d808e05016225b000ba1a",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0291_what-vusis-sister-said.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Nina Orange",
+        "插画：Wiehan de Jager"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "c8426f9435eac1ba0f857f924805429666da755abfca6184689b3d9efb798d6c"
+    },
+    "pages": [
+      {
+        "en": "Early one morning Vusi's granny called him, \"Vusi, please take this egg to your parents. They want to make a large cake for your sister's wedding.\"",
+        "sourceText": "Early one morning Vusi's granny called him, \"Vusi, please take this egg to your parents. They want to make a large cake for your sister's wedding.\"",
+        "zh": "一天清早，奶奶叫住武西，请他把一个蛋送给父母，他们要为姐姐的婚礼做大蛋糕。",
+        "tip": "指指鸡蛋，说 egg。",
+        "alt": "一天清早，奶奶叫住武西，请他把一个蛋送给父母，他们要为姐姐的婚礼做大蛋糕。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0291/02.jpg",
+        "sourceImageSha256": "2237aac796e45f923e88d7600c41766e9c4637c303424c51003b4c3e8b36dc47",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "On his way to his parents, Vusi met two boys picking fruit. One boy grabbed the egg from Vusi and shot it at a tree. The egg broke.",
+        "sourceText": "On his way to his parents, Vusi met two boys picking fruit. One boy grabbed the egg from Vusi and shot it at a tree. The egg broke.",
+        "zh": "路上，武西遇见两个摘水果的男孩。一个抢过蛋，朝树上一扔，蛋碎了。",
+        "tip": "说说动别人的东西前需要先问。",
+        "alt": "路上，武西遇见两个摘水果的男孩。一个抢过蛋，朝树上一扔，蛋碎了。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0291/03.jpg",
+        "sourceImageSha256": "d030c71e190c244d63b120d6473acfdd919c6253fbfbff2c753a2bb40825de99",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "\"What have you done?\" cried Vusi. \"That egg was for a cake. The cake was for my sister's wedding. What will my sister say if there is no wedding cake?\"",
+        "sourceText": "\"What have you done?\" cried Vusi. \"That egg was for a cake. The cake was for my sister's wedding. What will my sister say if there is no wedding cake?\"",
+        "zh": "武西惊叫：“你们做了什么？蛋要做蛋糕，蛋糕要用在姐姐婚礼！没有婚礼蛋糕，姐姐会怎么说？”",
+        "tip": "看看武西担心的神情。",
+        "alt": "武西惊叫：“你们做了什么？蛋要做蛋糕，蛋糕要用在姐姐婚礼！没有婚礼蛋糕，姐姐会怎么说？”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0291/04.jpg",
+        "sourceImageSha256": "251050134e7ac1c3228b29810d7a32db49750cf7dbf2e808b532dd8fc6276a68",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The boys were sorry for teasing Vusi. \"We can't help with the cake, but here is a walking stick for your sister,\" said one. Vusi continued on his journey.",
+        "sourceText": "The boys were sorry for teasing Vusi. \"We can't help with the cake, but here is a walking stick for your sister,\" said one. Vusi continued on his journey.",
+        "zh": "男孩们为捉弄他道歉，送了一根手杖给姐姐作补偿，武西继续赶路。",
+        "tip": "找找替代鸡蛋的礼物。",
+        "alt": "男孩们为捉弄他道歉，送了一根手杖给姐姐作补偿，武西继续赶路。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0291/05.jpg",
+        "sourceImageSha256": "6acdfd031151dceccf0f40a9bf244410222ce50e8595a8612701d0bc3d432e1c",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Along the way he met two men building a house. \"Can we use that strong stick?\" asked one. But the stick was not strong enough for building, and it broke.",
+        "sourceText": "Along the way he met two men building a house. \"Can we use that strong stick?\" asked one. But the stick was not strong enough for building, and it broke.",
+        "zh": "接着，他遇见两个盖房子的人，借用他的粗手杖，可手杖不够结实，断了。",
+        "tip": "指指断开的手杖。",
+        "alt": "接着，他遇见两个盖房子的人，借用他的粗手杖，可手杖不够结实，断了。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0291/06.jpg",
+        "sourceImageSha256": "8942bd24edecd1ccb6eaea020355882af6b07aeb4660a31d96238f48a4618b1f",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "\"What have you done?\" cried Vusi. \"That stick was a gift for my sister. The fruit pickers gave me the stick because they broke the egg for the cake. The cake was for my sister's wedding. Now there is no egg, no cake, and no gift. What will my sister say?\"",
+        "sourceText": "\"What have you done?\" cried Vusi. \"That stick was a gift for my sister. The fruit pickers gave me the stick because they broke the egg for the cake. The cake was for my sister's wedding. Now there is no egg, no cake, and no gift. What will my sister say?\"",
+        "zh": "武西着急地说，手杖是姐姐的礼物，是摘果子的男孩打碎做婚礼蛋糕的蛋后送的。现在蛋、蛋糕和礼物都没有了，姐姐会怎么说？",
+        "tip": "这段重复可以只听，跟上物品变化即可。",
+        "alt": "武西着急地说，手杖是姐姐的礼物，是摘果子的男孩打碎做婚礼蛋糕的蛋后送的。现在蛋、蛋糕和礼物都没有了，姐姐会怎么说？",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0291/07.jpg",
+        "sourceImageSha256": "4191e23b259e12b296fbef719841e64605cd96af63eb76325c604330cbba9f58",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The builders were sorry for breaking the stick. \"We can't help with the cake, but here is some thatch for your sister,\" said one. And so Vusi continued on his journey.",
+        "sourceText": "The builders were sorry for breaking the stick. \"We can't help with the cake, but here is some thatch for your sister,\" said one. And so Vusi continued on his journey.",
+        "zh": "盖房子的人道歉，送他一些茅草，武西又上路。",
+        "tip": "找一找这次的新礼物。",
+        "alt": "盖房子的人道歉，送他一些茅草，武西又上路。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0291/08.jpg",
+        "sourceImageSha256": "bad4a8ed719d8e5dd5df6989f4a3aa94a05f04d2db6bbdcf5ac0124d9d14d985",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Along the way, Vusi met a farmer and a cow. \"What delicious thatch, can I have a nibble?\" asked the cow. But the thatch was so tasty that the cow ate it all!",
+        "sourceText": "Along the way, Vusi met a farmer and a cow. \"What delicious thatch, can I have a nibble?\" asked the cow. But the thatch was so tasty that the cow ate it all!",
+        "zh": "路上，他遇见农夫和奶牛。奶牛问能不能尝一口茅草，却因为太好吃，把草全吃了！",
+        "tip": "看看奶牛吃的是什么。",
+        "alt": "路上，他遇见农夫和奶牛。奶牛问能不能尝一口茅草，却因为太好吃，把草全吃了！",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0291/09.jpg",
+        "sourceImageSha256": "9270f8f2663a5cd0e536fea12b019919cc4258e3352a292fd6db2ab31e03246c",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "\"What have you done?\" cried Vusi. \"That thatch was a gift for my sister. The builders gave me the thatch because they broke the stick from the fruit pickers. The fruit pickers gave me the stick because they broke the egg for my sister's cake. The cake was for my sister's wedding. Now there is no egg, no cake, and no gift. What will my sister say?\"",
+        "sourceText": "\"What have you done?\" cried Vusi. \"That thatch was a gift for my sister. The builders gave me the thatch because they broke the stick from the fruit pickers. The fruit pickers gave me the stick because they broke the egg for my sister's cake. The cake was for my sister's wedding. Now there is no egg, no cake, and no gift. What will my sister say?\"",
+        "zh": "武西又急了：茅草是赔断手杖的，手杖是赔打碎的蛋的，蛋原本要做姐姐的婚礼蛋糕。现在什么也没了，姐姐会怎么说？",
+        "tip": "和孩子用手势回顾一个物品就够了。",
+        "alt": "武西又急了：茅草是赔断手杖的，手杖是赔打碎的蛋的，蛋原本要做姐姐的婚礼蛋糕。现在什么也没了，姐姐会怎么说？",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0291/10.jpg",
+        "sourceImageSha256": "9bbc6e8215ad2dc7a21c55db7e766c74da1b4657cd02bbf264d18a030200a6ac",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The cow was sorry she was greedy. The farmer agreed that the cow could go with Vusi as a gift for his sister. And so Vusi carried on.",
+        "sourceText": "The cow was sorry she was greedy. The farmer agreed that the cow could go with Vusi as a gift for his sister. And so Vusi carried on.",
+        "zh": "奶牛为贪吃感到抱歉，农夫同意让奶牛跟武西去，作为送给姐姐的礼物。",
+        "tip": "指指跟着武西走的奶牛。",
+        "alt": "奶牛为贪吃感到抱歉，农夫同意让奶牛跟武西去，作为送给姐姐的礼物。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0291/11.jpg",
+        "sourceImageSha256": "cb0c8d88b0b5bf4534ff5a621917b40bfc1a19149ba343853c395ecb7fea17be",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "But the cow ran back to the farmer at supper time. And Vusi got lost on his journey. He arrived very late for his sister's wedding. The guests were already eating.",
+        "sourceText": "But the cow ran back to the farmer at supper time. And Vusi got lost on his journey. He arrived very late for his sister's wedding. The guests were already eating.",
+        "zh": "可到了晚饭时间，奶牛跑回农夫身边，武西还迷了路。他到婚礼时已经很晚，客人都在吃饭。",
+        "tip": "看看武西是否赶到了。",
+        "alt": "可到了晚饭时间，奶牛跑回农夫身边，武西还迷了路。他到婚礼时已经很晚，客人都在吃饭。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0291/12.jpg",
+        "sourceImageSha256": "764c36a391fce996c093854c76a01a67faf00d8f73e1682b7c5f4169d6f42f28",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "\"What shall I do?\" cried Vusi. \"The cow that ran away was a gift, in return for the thatch the builders gave me. The builders gave me the thatch because they broke the stick from the fruit pickers. The fruit pickers gave me the stick because they broke the egg for the cake. The cake was for the wedding. Now there is no egg, no cake, and no gift.\"",
+        "sourceText": "\"What shall I do?\" cried Vusi. \"The cow that ran away was a gift, in return for the thatch the builders gave me. The builders gave me the thatch because they broke the stick from the fruit pickers. The fruit pickers gave me the stick because they broke the egg for the cake. The cake was for the wedding. Now there is no egg, no cake, and no gift.\"",
+        "zh": "武西喊着不知怎么办，解释跑掉的牛换自茅草，茅草换自断手杖，手杖换自做蛋糕的蛋，如今没有蛋、蛋糕，也没有礼物。",
+        "tip": "先听他说完，感受他一路的努力。",
+        "alt": "武西喊着不知怎么办，解释跑掉的牛换自茅草，茅草换自断手杖，手杖换自做蛋糕的蛋，如今没有蛋、蛋糕，也没有礼物。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0291/13.jpg",
+        "sourceImageSha256": "77d6cd3ee2249c5cfa07bfbd8273b872ff3429c98f312589f5e7a597ece3e387",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Vusi's sister thought for a while, then she said, \"Vusi my brother, I don't really care about gifts. I don't even care about the cake! We are all here together, I am happy. Now put on your smart clothes and let's celebrate this day!\" And so that's what Vusi did.",
+        "sourceText": "Vusi's sister thought for a while, then she said, \"Vusi my brother, I don't really care about gifts. I don't even care about the cake! We are all here together, I am happy. Now put on your smart clothes and let's celebrate this day!\" And so that's what Vusi did.",
+        "zh": "姐姐想了想说：“弟弟，我不在意礼物，甚至不在意蛋糕！大家能聚在一起，我就开心。快换好衣服，一起庆祝吧！”武西照做了。",
+        "tip": "听 together，说说姐姐最看重什么。",
+        "alt": "姐姐想了想说：“弟弟，我不在意礼物，甚至不在意蛋糕！大家能聚在一起，我就开心。快换好衣服，一起庆祝吧！”武西照做了。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0291/14.jpg",
+        "sourceImageSha256": "0d7f8ff724e42b342831fd06aca7e306b31c2640a16d808e05016225b000ba1a",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "egg",
+        "meaning": "蛋",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "cake",
+        "meaning": "蛋糕",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-2",
+        "word": "together",
+        "meaning": "一起",
+        "pageIndex": 12
+      }
+    ],
+    "activity": {
+      "title": "一份不用买的礼物",
+      "text": "为家人画一张小卡片，或说一句祝福。聊聊一起度过的时间也是礼物。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Charlotte",
+      "voiceId": "en_female_authoritative-british_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  },
+  {
+    "id": "0294",
+    "title": "Grandma's bananas",
+    "zh": "奶奶的香蕉",
+    "stageId": "S3",
+    "primaryTheme": "everyday",
+    "themeIds": [
+      "everyday",
+      "nature"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0294/01.jpg",
+    "sourceCoverSha256": "a9fc1e70531cb4fd3713c273960e05fc6f79f332480a58eabb1c29d6997062f1",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0294_grandmas-bananas.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Ursula Nafula",
+        "插画：Catherine Groenewald"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "934f4d98a3112def848096459e3033cbf9a299c2fd53823fc41e39062a991458"
+    },
+    "pages": [
+      {
+        "en": "Grandma's garden was wonderful, full of sorghum, millet, and cassava. But best of all were the bananas. Although Grandma had many grandchildren, I secretly knew that I was her favourite. She invited me often to her house. She also told me little secrets. But there was one secret she did not share with me: where she ripened bananas.",
+        "sourceText": "Grandma's garden was wonderful, full of sorghum, millet, and cassava. But best of all were the bananas. Although Grandma had many grandchildren, I secretly knew that I was her favourite. She invited me often to her house. She also told me little secrets. But there was one secret she did not share with me: where she ripened bananas.",
+        "zh": "奶奶的菜园真棒，种着高粱、小米、木薯，最好的是香蕉。她有许多孙辈，我却偷偷觉得自己是她最喜欢的。她常邀我去，也告诉我小秘密，可从不说在哪里催熟香蕉。",
+        "tip": "指指香蕉，听 bananas。",
+        "alt": "奶奶的菜园真棒，种着高粱、小米、木薯，最好的是香蕉。她有许多孙辈，我却偷偷觉得自己是她最喜欢的。她常邀我去，也告诉我小秘密，可从不说在哪里催熟香蕉。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0294/02.jpg",
+        "sourceImageSha256": "120f0d76acbba416f87d12adb35c294dd8191af5227f0de08d841f5c0c16eb2b",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "One day I saw a big straw basket placed in the sun outside Grandma's house. When I asked what it was for, the only answer I got was, \"It's my magic basket.\" Next to the basket, there were several banana leaves that Grandma turned from time to time. I was curious. \"What are the leaves for, Grandma?\" I asked. The only answer I got was, \"They are my magic leaves.\"",
+        "sourceText": "One day I saw a big straw basket placed in the sun outside Grandma's house. When I asked what it was for, the only answer I got was, \"It's my magic basket.\" Next to the basket, there were several banana leaves that Grandma turned from time to time. I was curious. \"What are the leaves for, Grandma?\" I asked. The only answer I got was, \"They are my magic leaves.\"",
+        "zh": "一天，奶奶在屋外晒一个大草篮，旁边有几片不时翻动的香蕉叶。我好奇地问，她只说那是“魔法篮子”和“魔法叶子”。",
+        "tip": "找找篮子，猜猜它有什么用。",
+        "alt": "一天，奶奶在屋外晒一个大草篮，旁边有几片不时翻动的香蕉叶。我好奇地问，她只说那是“魔法篮子”和“魔法叶子”。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0294/03.jpg",
+        "sourceImageSha256": "a9fc1e70531cb4fd3713c273960e05fc6f79f332480a58eabb1c29d6997062f1",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "It was so interesting watching Grandma, the bananas, the banana leaves and the big straw basket. But Grandma sent me off to my mother on an errand. \"Grandma, please, let me watch as you prepare...\" \"Don't be stubborn, child, do as you are told,\" she insisted. I took off running.",
+        "sourceText": "It was so interesting watching Grandma, the bananas, the banana leaves and the big straw basket. But Grandma sent me off to my mother on an errand. \"Grandma, please, let me watch as you prepare...\" \"Don't be stubborn, child, do as you are told,\" she insisted. I took off running.",
+        "zh": "看奶奶准备香蕉、叶子和篮子真有趣，可她派我去妈妈那里办事。我求她让我看，她坚持让我照做，我就跑开了。",
+        "tip": "说说孩子为什么还想留下看。",
+        "alt": "看奶奶准备香蕉、叶子和篮子真有趣，可她派我去妈妈那里办事。我求她让我看，她坚持让我照做，我就跑开了。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0294/04.jpg",
+        "sourceImageSha256": "0f8b7c8b226a7a042119b144a97cc65b1b30056d2315e181d66a441dca00c76d",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "When I returned, Grandma was sitting outside but with neither the basket nor the bananas. \"Grandma, where is the basket, where are all the bananas, and where...\" But the only answer I got was, \"They are in my magic place.\" It was so disappointing!",
+        "sourceText": "When I returned, Grandma was sitting outside but with neither the basket nor the bananas. \"Grandma, where is the basket, where are all the bananas, and where...\" But the only answer I got was, \"They are in my magic place.\" It was so disappointing!",
+        "zh": "回来时，奶奶坐在屋外，篮子和香蕉却不见了。我追问，她只说它们在“魔法地方”，让我十分失望。",
+        "tip": "看看孩子失望的样子。",
+        "alt": "回来时，奶奶坐在屋外，篮子和香蕉却不见了。我追问，她只说它们在“魔法地方”，让我十分失望。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0294/05.jpg",
+        "sourceImageSha256": "b9f4310c40ddc950c0417fdb0021272a0e59f3a6e8898e179faf958744a1d908",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Two days later, Grandma sent me to fetch her walking stick from her bedroom. As soon as I opened the door, I was welcomed by the strong smell of ripening bananas. In the inner room was grandma's big magic straw basket. It was well hidden by an old blanket. I lifted it and sniffed that glorious smell.",
+        "sourceText": "Two days later, Grandma sent me to fetch her walking stick from her bedroom. As soon as I opened the door, I was welcomed by the strong smell of ripening bananas. In the inner room was grandma's big magic straw basket. It was well hidden by an old blanket. I lifted it and sniffed that glorious smell.",
+        "zh": "两天后，奶奶让我去卧室拿手杖。我一进门就闻到浓浓的熟香蕉香，发现里屋的草篮藏在旧毯子下面，掀开一闻，真香！",
+        "tip": "轻轻演一演闻香味，不必真的拿食物。",
+        "alt": "两天后，奶奶让我去卧室拿手杖。我一进门就闻到浓浓的熟香蕉香，发现里屋的草篮藏在旧毯子下面，掀开一闻，真香！",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0294/06.jpg",
+        "sourceImageSha256": "927fb8a0dd3f38f483be87acc516784116433f4fa5308c718a7dbfeb2b94d15d",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Grandma's voice startled me when she called, \"What are you doing? Hurry up and bring me the stick.\" I hurried out with her walking stick. \"What are you smiling about?\" Grandma asked. Her question made me realise that I was still smiling at the discovery of her magic place.",
+        "sourceText": "Grandma's voice startled me when she called, \"What are you doing? Hurry up and bring me the stick.\" I hurried out with her walking stick. \"What are you smiling about?\" Grandma asked. Her question made me realise that I was still smiling at the discovery of her magic place.",
+        "zh": "奶奶突然催我快拿手杖，我吓一跳，赶紧出来。她问我笑什么，我才意识到发现秘密后，自己一直笑着。",
+        "tip": "指指孩子的表情。",
+        "alt": "奶奶突然催我快拿手杖，我吓一跳，赶紧出来。她问我笑什么，我才意识到发现秘密后，自己一直笑着。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0294/07.jpg",
+        "sourceImageSha256": "795e042239db2783e7945d7681cb9248c0454c794198990ae0e60c7f7e5f23a4",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The following day when grandma came to visit my mother, I rushed to her house to check the bananas once more. There was a bunch of very ripe ones. I picked one and hid it in my dress. After covering the basket again, I went behind the house and quickly ate it. It was the sweetest banana I had ever tasted.",
+        "sourceText": "The following day when grandma came to visit my mother, I rushed to her house to check the bananas once more. There was a bunch of very ripe ones. I picked one and hid it in my dress. After covering the basket again, I went behind the house and quickly ate it. It was the sweetest banana I had ever tasted.",
+        "zh": "第二天，奶奶去看妈妈，我跑去看香蕉，发现一些熟透了，偷偷拿一根藏在裙子里，盖好篮子，跑到屋后吃，甜极了。",
+        "tip": "说一句：想吃别人的食物，要先征得同意。",
+        "alt": "第二天，奶奶去看妈妈，我跑去看香蕉，发现一些熟透了，偷偷拿一根藏在裙子里，盖好篮子，跑到屋后吃，甜极了。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0294/08.jpg",
+        "sourceImageSha256": "5da0de2937ec06fa8aa6e895a3839ce6d82e0613b124d3fb9cde3ceeee304d67",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The following day, when grandma was in the garden picking vegetables, I sneaked in and peered at the bananas. Nearly all were ripe. I couldn't help taking a bunch of four. As I tiptoed towards the door, I heard grandma coughing outside. I just managed to hide the bananas under my dress and walked past her.",
+        "sourceText": "The following day, when grandma was in the garden picking vegetables, I sneaked in and peered at the bananas. Nearly all were ripe. I couldn't help taking a bunch of four. As I tiptoed towards the door, I heard grandma coughing outside. I just managed to hide the bananas under my dress and walked past her.",
+        "zh": "又一天，奶奶在菜园摘菜，我溜进屋，看见香蕉几乎都熟了，忍不住拿了四根。走到门边听见奶奶咳嗽，赶紧藏到裙子里，从她身旁走过。",
+        "tip": "看看孩子为什么要偷偷藏起来。",
+        "alt": "又一天，奶奶在菜园摘菜，我溜进屋，看见香蕉几乎都熟了，忍不住拿了四根。走到门边听见奶奶咳嗽，赶紧藏到裙子里，从她身旁走过。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0294/09.jpg",
+        "sourceImageSha256": "fbde4cfa9fecd573ed7b56eaf11fc07edcda969a0bd299b922192489e3d07c83",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The following day was market day. Grandma woke up early. She always took ripe bananas and cassava to sell at the market. I did not hurry to visit her that day. But I could not avoid her for long.",
+        "sourceText": "The following day was market day. Grandma woke up early. She always took ripe bananas and cassava to sell at the market. I did not hurry to visit her that day. But I could not avoid her for long.",
+        "zh": "再一天是集市日，奶奶早起，准备带熟香蕉和木薯去卖。我没有急着去看她，可也不能一直躲着。",
+        "tip": "说说奶奶种的香蕉还要拿去做什么。",
+        "alt": "再一天是集市日，奶奶早起，准备带熟香蕉和木薯去卖。我没有急着去看她，可也不能一直躲着。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0294/10.jpg",
+        "sourceImageSha256": "9a4f62b6f64c7b8e59e186c14aa0b8e74028d2bc614dca476df576811047dc5d",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Later that evening I was called by my mother and father, and Grandma. I knew why. That night as I lay down to sleep, I knew I could never steal again, not from grandma, not from my parents, and certainly not from anyone else.",
+        "sourceText": "Later that evening I was called by my mother and father, and Grandma. I knew why. That night as I lay down to sleep, I knew I could never steal again, not from grandma, not from my parents, and certainly not from anyone else.",
+        "zh": "傍晚，父母和奶奶叫我过去，我知道原因。那晚躺下时，我明白以后不该再偷拿奶奶、父母或任何人的东西。",
+        "tip": "可以练一句“我想吃，可以拿一个吗？”",
+        "alt": "傍晚，父母和奶奶叫我过去，我知道原因。那晚躺下时，我明白以后不该再偷拿奶奶、父母或任何人的东西。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0294/11.jpg",
+        "sourceImageSha256": "43cb87ecbda396a929de7647848d4aa6c62cdf18c580aa992613d700da60dfd5",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "bananas",
+        "meaning": "香蕉",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "basket",
+        "meaning": "篮子",
+        "pageIndex": 1
+      },
+      {
+        "id": "word-2",
+        "word": "ripe",
+        "meaning": "成熟的",
+        "pageIndex": 6
+      }
+    ],
+    "activity": {
+      "title": "观察香蕉慢慢变化",
+      "text": "如果家里有香蕉，隔一天看看颜色和气味有没有变化。想吃之前先问照顾食物的大人。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Knightley",
+      "voiceId": "en_male_knightley_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  },
+  {
+    "id": "0302",
+    "title": "Fire",
+    "zh": "认识火",
+    "stageId": "S1",
+    "primaryTheme": "discovery",
+    "themeIds": [
+      "discovery",
+      "nature"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0302/01.jpg",
+    "sourceCoverSha256": "e4b05e1cdf1e256021a80bd5ea156862b44cc115ad136f0d5739006a3227f56b",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0302_fire.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Deborah Namugosa, Beatrice Nabune, Alison Tukei, Rose Sabano",
+        "插画：Rob Owen"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "8b2eab28d9ae11962f66cfd1fb42459d8b4f6e742ea398e5d96328e4f1ae6e12"
+    },
+    "pages": [
+      {
+        "en": "Look, fire!",
+        "sourceText": "Look, fire!",
+        "zh": "看，火！",
+        "tip": "只指图里的火，说 fire。",
+        "alt": "看，火！",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0302/02.jpg",
+        "sourceImageSha256": "b85ccb9c42df7312f62f0446e9e38c3c6130dec7c81b3822ab2095c49865d00a",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Fire burns.",
+        "sourceText": "Fire burns.",
+        "zh": "火会燃烧。",
+        "tip": "说一句：真实的火不能摸。",
+        "alt": "火会燃烧。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0302/03.jpg",
+        "sourceImageSha256": "bc791a85806f7f041b2af4e37dad62e880569625fc28945f66cd185e2afd9974",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Fire cooks.",
+        "sourceText": "Fire cooks.",
+        "zh": "火可以做饭。",
+        "tip": "找找做饭的画面，炉具由大人使用。",
+        "alt": "火可以做饭。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0302/04.jpg",
+        "sourceImageSha256": "0f1192a0a23731d7339a55d7d123e07cf556d8dd440d5caa4b3f648f38fbd4dc",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Fire gives warmth.",
+        "sourceText": "Fire gives warmth.",
+        "zh": "火能带来温暖。",
+        "tip": "抱抱双臂，演一演觉得暖和。",
+        "alt": "火能带来温暖。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0302/05.jpg",
+        "sourceImageSha256": "eb1e35e83b623bd19b18873b8a41d7afa44035a235a0e3434fa82785bbc41d80",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Fire gives light.",
+        "sourceText": "Fire gives light.",
+        "zh": "火能带来光。",
+        "tip": "指指明亮的地方，听 light。",
+        "alt": "火能带来光。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0302/06.jpg",
+        "sourceImageSha256": "291a8e66d1d756f82f0ad1daae10b32ba6094e08ef7b5c01f3bf7ec25257e6bd",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Look, fire!",
+        "sourceText": "Look, fire!",
+        "zh": "看，火！",
+        "tip": "再找一次图中的火。",
+        "alt": "看，火！",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0302/07.jpg",
+        "sourceImageSha256": "e4b05e1cdf1e256021a80bd5ea156862b44cc115ad136f0d5739006a3227f56b",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Fire is wonderful.",
+        "sourceText": "Fire is wonderful.",
+        "zh": "火很神奇。",
+        "tip": "说说书里见到的一种用途。",
+        "alt": "火很神奇。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0302/08.jpg",
+        "sourceImageSha256": "e1b3e2a6b45395d43d301f02c5a53f4ac302da9a12652c0d468b8e542f1ceb7c",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "And it is powerful.",
+        "sourceText": "And it is powerful.",
+        "zh": "它也很有力量。",
+        "tip": "用一句话结束：看见火，请大人来帮忙。",
+        "alt": "它也很有力量。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0302/09.jpg",
+        "sourceImageSha256": "4b834113a3a6b4ead1c647fb9fcc327c41d32ac11e20bb44672b80bfaffc0ec9",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "fire",
+        "meaning": "火",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "warmth",
+        "meaning": "温暖",
+        "pageIndex": 3
+      },
+      {
+        "id": "word-2",
+        "word": "light",
+        "meaning": "光",
+        "pageIndex": 4
+      }
+    ],
+    "activity": {
+      "title": "找一找安全的光",
+      "text": "只观察家里的电灯和图画里的火，分别指一指。火和炉具都交给大人操作。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Rowan",
+      "voiceId": "en_male_adam-imitation_uranus_bigtts",
+      "locale": "en-US",
+      "accentLabel": "美式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  },
+  {
+    "id": "0355",
+    "title": "Tell me...now! Colours",
+    "zh": "告诉我：颜色",
+    "stageId": "S2",
+    "primaryTheme": "discovery",
+    "themeIds": [
+      "discovery",
+      "nature"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0355/01.jpg",
+    "sourceCoverSha256": "27be960b7c75767eb47bb1b94f3a46c35c2d2dcf678053d6d095335a09bce6b7",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0355_tell-me.now-colours.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Madhav Chavan",
+        "插画：Rijuta Ghate"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "289975fbcca89896d63370d5ab0e5f573279139bd552f02a6790a914b806e3bc"
+    },
+    "pages": [
+      {
+        "en": "Why is the sky blue?",
+        "sourceText": "Why is the sky blue?",
+        "zh": "天空为什么是蓝色的？",
+        "tip": "指指天空，听 blue。",
+        "alt": "天空为什么是蓝色的？",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0355/02.jpg",
+        "sourceImageSha256": "dade737a8be7a8d63d2841415200908e4088821259729ba01450aa2cb17d5846",
+        "imageWidth": 707,
+        "imageHeight": 546
+      },
+      {
+        "en": "It is not always blue. Is it?",
+        "sourceText": "It is not always blue. Is it?",
+        "zh": "它并不总是蓝色的，对吗？",
+        "tip": "想想日落或阴天的天空。",
+        "alt": "它并不总是蓝色的，对吗？",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0355/03.jpg",
+        "sourceImageSha256": "183a7e2bd7a9a0f6d2f552482df2219aa946a8fc4414cd47a440ca81666abcb3",
+        "imageWidth": 707,
+        "imageHeight": 546
+      },
+      {
+        "en": "Why are leaves green?",
+        "sourceText": "Why are leaves green?",
+        "zh": "叶子为什么是绿色的？",
+        "tip": "指指叶子，听 green。",
+        "alt": "叶子为什么是绿色的？",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0355/04.jpg",
+        "sourceImageSha256": "c585031140a9bbdf4c4fde04ef4379583098eb14bb6a32b1e875da4e65b358a0",
+        "imageWidth": 707,
+        "imageHeight": 546
+      },
+      {
+        "en": "They are not always green. Are they?",
+        "sourceText": "They are not always green. Are they?",
+        "zh": "叶子并不总是绿色的，对吗？",
+        "tip": "找找自己见过的红叶或黄叶。",
+        "alt": "叶子并不总是绿色的，对吗？",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0355/05.jpg",
+        "sourceImageSha256": "0e6f48e7a606cf66b18e9fbcf38fec4a1a8a19a27121403bd81cd0d6b78219c7",
+        "imageWidth": 707,
+        "imageHeight": 546
+      },
+      {
+        "en": "Why are bananas yellow?",
+        "sourceText": "Why are bananas yellow?",
+        "zh": "香蕉为什么是黄色的？",
+        "tip": "指指黄色香蕉，说 yellow。",
+        "alt": "香蕉为什么是黄色的？",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0355/06.jpg",
+        "sourceImageSha256": "abf6ed92e71ccb85a16c60dc4c92606f88039de1449fbfc83ab52732216be46d",
+        "imageWidth": 707,
+        "imageHeight": 546
+      },
+      {
+        "en": "Ripe bananas are yellow. Unripe bananas are green.",
+        "sourceText": "Ripe bananas are yellow. Unripe bananas are green.",
+        "zh": "熟香蕉是黄色的，没熟的香蕉是绿色的。",
+        "tip": "从图里找两种颜色，不必判断所有品种。",
+        "alt": "熟香蕉是黄色的，没熟的香蕉是绿色的。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0355/07.jpg",
+        "sourceImageSha256": "59bf09146f41ad54f20a002c9f222452ad0fc5a001e5bb35cad9f4148af4eb76",
+        "imageWidth": 707,
+        "imageHeight": 546
+      },
+      {
+        "en": "Why are umbrellas black?",
+        "sourceText": "Why are umbrellas black?",
+        "zh": "雨伞为什么是黑色的？",
+        "tip": "先看看画面里的伞。",
+        "alt": "雨伞为什么是黑色的？",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0355/08.jpg",
+        "sourceImageSha256": "924333e5ed3ad16bff7de736bc915d9ff9f26cba7be733b82d897ab6628b2c91",
+        "imageWidth": 707,
+        "imageHeight": 546
+      },
+      {
+        "en": "Not all umbrellas are black.",
+        "sourceText": "Not all umbrellas are black.",
+        "zh": "并不是所有雨伞都是黑色的。",
+        "tip": "说说见过什么颜色的伞。",
+        "alt": "并不是所有雨伞都是黑色的。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0355/09.jpg",
+        "sourceImageSha256": "1d2649f81652d90e12dbd77e0b61c9cf5e48a3dc7bbfe32a1e808e48ddc084cf",
+        "imageWidth": 707,
+        "imageHeight": 546
+      },
+      {
+        "en": "Why is blood red?",
+        "sourceText": "Why is blood red?",
+        "zh": "血液为什么是红色的？",
+        "tip": "只听这个问题，不需要任何实物演示。",
+        "alt": "血液为什么是红色的？",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0355/10.jpg",
+        "sourceImageSha256": "9bf1cf6724b9259a019d005ef51b5b2f6072d606fb4298664d30a0e0b43330d6",
+        "imageWidth": 707,
+        "imageHeight": 546
+      },
+      {
+        "en": "There is iron in the blood. That makes it red.",
+        "sourceText": "There is iron in the blood. That makes it red.",
+        "zh": "血液中有铁，所以呈红色。",
+        "tip": "可简单补充：是含铁的血红蛋白让血液呈红色，不必背解释。",
+        "alt": "血液中有铁，所以呈红色。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0355/11.jpg",
+        "sourceImageSha256": "52975fa2c02c8f3c01d4796f458f43b325119fc5f2a9a28b468b07526903ec74",
+        "imageWidth": 707,
+        "imageHeight": 546
+      },
+      {
+        "en": "Why is salt white?",
+        "sourceText": "Why is salt white?",
+        "zh": "盐为什么是白色的？",
+        "tip": "指指图里的盐，不直接品尝。",
+        "alt": "盐为什么是白色的？",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0355/12.jpg",
+        "sourceImageSha256": "20a3d04f93f75c6edc43d343fc0a9ef473fc6d143e23883cf78b7d13d2313f80",
+        "imageWidth": 707,
+        "imageHeight": 546
+      },
+      {
+        "en": "I don't know!",
+        "sourceText": "I don't know!",
+        "zh": "我不知道！",
+        "tip": "笑着说“不知道也没关系，我们可以继续观察”。",
+        "alt": "我不知道！",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0355/13.jpg",
+        "sourceImageSha256": "d3696326eb1f1f4b35352fd5f343a3ef97195081e6eed8561116c107cd1a548d",
+        "imageWidth": 525,
+        "imageHeight": 464
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "blue",
+        "meaning": "蓝色",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "green",
+        "meaning": "绿色",
+        "pageIndex": 2
+      },
+      {
+        "id": "word-2",
+        "word": "yellow",
+        "meaning": "黄色",
+        "pageIndex": 4
+      }
+    ],
+    "activity": {
+      "title": "同一种东西不同颜色",
+      "text": "看看树叶、水果或雨伞的图片，找找同一种东西能有哪些颜色。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Charlotte",
+      "voiceId": "en_female_authoritative-british_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  },
+  {
+    "id": "0361",
+    "title": "The Man and the Lion",
+    "zh": "人和狮子",
+    "stageId": "S3",
+    "primaryTheme": "nature",
+    "themeIds": [
+      "nature",
+      "feelings"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0361/01.jpg",
+    "sourceCoverSha256": "4b9b68ecaffb8c598922e3eab49fc297aabe3c45299fede3ef8081a8224bd694",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0361_the-man-and-the-lion.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Mozambican folktale",
+        "插画：Hélder de Paz Alexandre"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "7a349f0cc6557f55cc2b125df2d7b6e5422b815c8e919eadf302625861be24c5"
+    },
+    "pages": [
+      {
+        "en": "Once upon a time, there was a man walking in the bush. Suddenly he met a Lion!",
+        "sourceText": "Once upon a time, there was a man walking in the bush. Suddenly he met a Lion!",
+        "zh": "从前，一个人在灌木丛中走，突然遇见一头狮子！",
+        "tip": "指指突然出现的狮子。",
+        "alt": "从前，一个人在灌木丛中走，突然遇见一头狮子！",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0361/02.jpg",
+        "sourceImageSha256": "4b9b68ecaffb8c598922e3eab49fc297aabe3c45299fede3ef8081a8224bd694",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The Lion was resting in the short winter grass.",
+        "sourceText": "The Lion was resting in the short winter grass.",
+        "zh": "狮子正在冬日矮草丛里休息。",
+        "tip": "看看狮子本来在做什么。",
+        "alt": "狮子正在冬日矮草丛里休息。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0361/03.jpg",
+        "sourceImageSha256": "e9b29cb98c16941c61b7e77da2e787a3c01f57d46749917a3b9d63c81469cc90",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The meeting was so sudden that the man did not know what to do. He was full of fear.",
+        "sourceText": "The meeting was so sudden that the man did not know what to do. He was full of fear.",
+        "zh": "相遇太突然，那人不知怎么办，心里满是害怕。",
+        "tip": "看看他害怕的表情。",
+        "alt": "相遇太突然，那人不知怎么办，心里满是害怕。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0361/04.jpg",
+        "sourceImageSha256": "9c18ff3c4d226de9edb8315b6bc746b43a90dfa426a2c2b040f64a5a09538337",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "At first, the Lion was surprised too, and a little afraid. But there was a low rumble in his stomach, because he was hungry.",
+        "sourceText": "At first, the Lion was surprised too, and a little afraid. But there was a low rumble in his stomach, because he was hungry.",
+        "zh": "狮子起初也惊讶，有点害怕，可肚子饿得咕咕响。",
+        "tip": "指指狮子的肚子，听故事继续。",
+        "alt": "狮子起初也惊讶，有点害怕，可肚子饿得咕咕响。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0361/05.jpg",
+        "sourceImageSha256": "3511eda4d7fa4e941135ac67b82c13582522a51a67916448e549a7f79cb4f85c",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The man suddenly found himself up a tall tree. He began to shout at the Lion.",
+        "sourceText": "The man suddenly found himself up a tall tree. He began to shout at the Lion.",
+        "zh": "那人一下爬到高树上，朝狮子大喊。",
+        "tip": "指指树上的人，听 tree。",
+        "alt": "那人一下爬到高树上，朝狮子大喊。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0361/06.jpg",
+        "sourceImageSha256": "b865309f6a75042ef89bf6b80e475bc20a8c8f5a2d50fa50147ee85fc8e8be12",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The Lion lay down under the tree, waiting for his meal. As time went on, the Lion fell asleep, or so it seemed.",
+        "sourceText": "The Lion lay down under the tree, waiting for his meal. As time went on, the Lion fell asleep, or so it seemed.",
+        "zh": "狮子躺在树下等着吃东西。过了一会儿，它睡着了，至少看起来像睡着了。",
+        "tip": "轻声听 asleep。",
+        "alt": "狮子躺在树下等着吃东西。过了一会儿，它睡着了，至少看起来像睡着了。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0361/07.jpg",
+        "sourceImageSha256": "6eeeeedb4a95609b4b1ca07ba22cc38313b1e6fdbd23fe28862a0e09bc6b2fea",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Soon the man fell asleep. Then he woke up again. Finally he dozed off and went fast asleep.",
+        "sourceText": "Soon the man fell asleep. Then he woke up again. Finally he dozed off and went fast asleep.",
+        "zh": "不久，那人也睡着又醒来，最后还是打盹，沉沉睡去。",
+        "tip": "做一个打盹的小手势。",
+        "alt": "不久，那人也睡着又醒来，最后还是打盹，沉沉睡去。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0361/08.jpg",
+        "sourceImageSha256": "50f8fe0011f739a210a2d60ff14c2f2cea586c611673bd1af52accb4597adf61",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "But then he crashed down on the sleeping Lion!",
+        "sourceText": "But then he crashed down on the sleeping Lion!",
+        "zh": "结果，他重重地落到睡着的狮子身上！",
+        "tip": "先看图，再翻到下一页。",
+        "alt": "结果，他重重地落到睡着的狮子身上！",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0361/09.jpg",
+        "sourceImageSha256": "e51cded014a7287f745f5512c2cc22f1ab7f556947e06b93c9d27fbd5390a143",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "They both woke up confused and frightened. The lion forgot his meal and ran for his life.",
+        "sourceText": "They both woke up confused and frightened. The lion forgot his meal and ran for his life.",
+        "zh": "两个都惊醒，迷糊又害怕。狮子忘记了食物，撒腿逃命。",
+        "tip": "找找谁在逃跑，感受故事的意外。",
+        "alt": "两个都惊醒，迷糊又害怕。狮子忘记了食物，撒腿逃命。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0361/10.jpg",
+        "sourceImageSha256": "9fe3744e51e5c415fadb81eafe412c05b72ba63accd0630d6aa8cf51a90b8a58",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The man began to run in the same direction as the Lion. Then he realized that he was running with the Lion!",
+        "sourceText": "The man began to run in the same direction as the Lion. Then he realized that he was running with the Lion!",
+        "zh": "那人也朝同一个方向跑，忽然发现：自己竟和狮子一起跑！",
+        "tip": "用两根手指演一演同向跑。",
+        "alt": "那人也朝同一个方向跑，忽然发现：自己竟和狮子一起跑！",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0361/11.jpg",
+        "sourceImageSha256": "3ed4a7bed47ed3d86133b8e7bcf1b76f124a98fbb50b28cf5431e7108d245a38",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "So he changed direction and escaped being eaten by the Lion!",
+        "sourceText": "So he changed direction and escaped being eaten by the Lion!",
+        "zh": "于是他转了方向，逃过被狮子吃掉的危险！",
+        "tip": "一起松口气，说说这是夸张的动物童话。",
+        "alt": "于是他转了方向，逃过被狮子吃掉的危险！",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0361/12.jpg",
+        "sourceImageSha256": "07d097a6720583d3e12b60059bb464fb2e643f8f14ca50e4f381ee033cc2d88a",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "Lion",
+        "meaning": "狮子",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "tree",
+        "meaning": "树",
+        "pageIndex": 4
+      },
+      {
+        "id": "word-2",
+        "word": "asleep",
+        "meaning": "睡着的",
+        "pageIndex": 5
+      }
+    ],
+    "activity": {
+      "title": "玩偶的惊讶表情",
+      "text": "用两个玩偶演一演同时吓一跳的样子。只演童话，现实遇见野生动物要听从大人和专业人员指引。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Knightley",
+      "voiceId": "en_male_knightley_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  }
+]

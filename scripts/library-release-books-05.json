@@ -1,0 +1,955 @@
+[
+  {
+    "id": "0018",
+    "title": "Why is Yayeri great?",
+    "zh": "娅耶丽为什么这么棒？",
+    "stageId": "S2",
+    "primaryTheme": "everyday",
+    "themeIds": [
+      "everyday"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0018/01.jpg",
+    "sourceCoverSha256": "6c2c33a7056fc5007cc93a464455f7477130bc0d325fadddadbef4d579ffc6dd",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0018_why-is-yayeri-great.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Michael Oguttu",
+        "插画：Vusi Malindi"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "9a504e360608c84661100d5d6e23e3763017e1cc2dc62b6cf82d8203d4bdfb2a"
+    },
+    "pages": [
+      {
+        "en": "Yayeri the great one wakes up very early every morning. We ask ourselves, \"Why is Yayeri great?\"",
+        "sourceText": "Yayeri the great one wakes up very early every morning. We ask ourselves, \"Why is Yayeri great?\"",
+        "zh": "很棒的娅耶丽每天早晨都起得很早。我们问自己：“娅耶丽为什么这么棒？”",
+        "tip": "演一演伸懒腰，听 morning。",
+        "alt": "很棒的娅耶丽每天早晨都起得很早。我们问自己：“娅耶丽为什么这么棒？”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0018/02.jpg",
+        "sourceImageSha256": "c27db50395ddbf75067f445f23751281c81422cb5f76cbd0a640d322a76b902b",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "She is grateful for the night past. We ask ourselves, \"Why is Yayeri great?\"",
+        "sourceText": "She is grateful for the night past. We ask ourselves, \"Why is Yayeri great?\"",
+        "zh": "她感谢平安度过的一夜。我们问自己：“娅耶丽为什么这么棒？”",
+        "tip": "这页可以只听，不必解释每个词。",
+        "alt": "她感谢平安度过的一夜。我们问自己：“娅耶丽为什么这么棒？”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0018/03.jpg",
+        "sourceImageSha256": "ac1200084bacf1d37d068088bdcb0e5035d7cb1c960bfcfaea194d2258d4df3a",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "She prepares her bed very well. We ask ourselves, \"Why is Yayeri great?\"",
+        "sourceText": "She prepares her bed very well. We ask ourselves, \"Why is Yayeri great?\"",
+        "zh": "她认真整理好床铺。我们问自己：“娅耶丽为什么这么棒？”",
+        "tip": "用手掌做个铺平床单的动作。",
+        "alt": "她认真整理好床铺。我们问自己：“娅耶丽为什么这么棒？”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0018/04.jpg",
+        "sourceImageSha256": "39bb7ff8843d6c1f49395faf4094756179e709e205975117897e9bde91e13619",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "She greets her parents and grandparents. We ask ourselves, \"Why is Yayeri great?\"",
+        "sourceText": "She greets her parents and grandparents. We ask ourselves, \"Why is Yayeri great?\"",
+        "zh": "她向爸爸妈妈、爷爷奶奶问好。我们问自己：“娅耶丽为什么这么棒？”",
+        "tip": "和身边的家人打个招呼。",
+        "alt": "她向爸爸妈妈、爷爷奶奶问好。我们问自己：“娅耶丽为什么这么棒？”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0018/05.jpg",
+        "sourceImageSha256": "2183cc9d9a014f381fe6efd753371c2971fb416fd9ce6d5c6f835e191fb9d296",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "She cleans her face with blue soap. We ask ourselves, \"Why is Yayeri great?\"",
+        "sourceText": "She cleans her face with blue soap. We ask ourselves, \"Why is Yayeri great?\"",
+        "zh": "她用蓝色肥皂洗脸。我们问自己：“娅耶丽为什么这么棒？”",
+        "tip": "指指肥皂，做一个洗脸的动作。",
+        "alt": "她用蓝色肥皂洗脸。我们问自己：“娅耶丽为什么这么棒？”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0018/06.jpg",
+        "sourceImageSha256": "916093a81b11696a70da59dea3db52cf8e85ca026984e425a7f4ac3686a0f2f7",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "She brushes her teeth with the lughano toothbrush. We ask ourselves, \"Why is Yayeri great?\"",
+        "sourceText": "She brushes her teeth with the lughano toothbrush. We ask ourselves, \"Why is Yayeri great?\"",
+        "zh": "她用当地的 lughano 牙刷刷牙。我们问自己：“娅耶丽为什么这么棒？”",
+        "tip": "轻轻演一演刷牙，不必跟读当地词名。",
+        "alt": "她用当地的 lughano 牙刷刷牙。我们问自己：“娅耶丽为什么这么棒？”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0018/07.jpg",
+        "sourceImageSha256": "e4c06f66984104b78394dd111fab03391d6ebc512ce601dc461e91321511d9c1",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "She takes a cold water bath. We ask ourselves, \"Why is Yayeri great?\"",
+        "sourceText": "She takes a cold water bath. We ask ourselves, \"Why is Yayeri great?\"",
+        "zh": "她洗了个冷水澡。我们问自己：“娅耶丽为什么这么棒？”",
+        "tip": "说说这是她的生活习惯，我们洗澡用合适的水温。",
+        "alt": "她洗了个冷水澡。我们问自己：“娅耶丽为什么这么棒？”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0018/08.jpg",
+        "sourceImageSha256": "0db2348c23cff928c792ee3c33dcfeaa202a1572080b0afb188ae7d6b98ba3b9",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "She puts on her orange school uniform. We ask ourselves, \"Why is Yayeri great?\"",
+        "sourceText": "She puts on her orange school uniform. We ask ourselves, \"Why is Yayeri great?\"",
+        "zh": "她穿上橙色校服。我们问自己：“娅耶丽为什么这么棒？”",
+        "tip": "请孩子找一找橙色的衣服。",
+        "alt": "她穿上橙色校服。我们问自己：“娅耶丽为什么这么棒？”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0018/09.jpg",
+        "sourceImageSha256": "fb9714817207e60d3b3652332cd72e326d0a082d840b35bf3100fa1971220d06",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "She puts on her black shoes. We ask ourselves, \"Why is Yayeri great?\"",
+        "sourceText": "She puts on her black shoes. We ask ourselves, \"Why is Yayeri great?\"",
+        "zh": "她穿上黑色鞋子。我们问自己：“娅耶丽为什么这么棒？”",
+        "tip": "指指自己的鞋，说 shoes。",
+        "alt": "她穿上黑色鞋子。我们问自己：“娅耶丽为什么这么棒？”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0018/10.jpg",
+        "sourceImageSha256": "5fd3e2bfc38b41836887cb4f9af2e4d502876bb669778dafb3c956ac476ed83f",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "She hurries to her school at Mbala. We ask ourselves, \"Why is Yayeri great?\"",
+        "sourceText": "She hurries to her school at Mbala. We ask ourselves, \"Why is Yayeri great?\"",
+        "zh": "她赶着去姆巴拉的学校。我们问自己：“娅耶丽为什么这么棒？”",
+        "tip": "看看她出发的样子。",
+        "alt": "她赶着去姆巴拉的学校。我们问自己：“娅耶丽为什么这么棒？”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0018/11.jpg",
+        "sourceImageSha256": "02e26b01a4000aa6cc2689cce1c1a2ea2a39e2b82b4640bae7cb99ca00b902d7",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "She studies Science, Social Studies and Mathematics. We ask ourselves, \"Why is Yayeri great?\"",
+        "sourceText": "She studies Science, Social Studies and Mathematics. We ask ourselves, \"Why is Yayeri great?\"",
+        "zh": "她学习科学、社会学科和数学。我们问自己：“娅耶丽为什么这么棒？”",
+        "tip": "找找她学习时用的东西。",
+        "alt": "她学习科学、社会学科和数学。我们问自己：“娅耶丽为什么这么棒？”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0018/12.jpg",
+        "sourceImageSha256": "3cb7670c8248c41996afe38d38fba8714587782fe2d3541b679514df3a47f319",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "She sings, and dances otamenhaibuga, and plays football. We ask ourselves, \"Why is Yayeri great?\"",
+        "sourceText": "She sings, and dances otamenhaibuga, and plays football. We ask ourselves, \"Why is Yayeri great?\"",
+        "zh": "她唱歌、跳当地的 otamenhaibuga 舞，还踢足球。我们问自己：“娅耶丽为什么这么棒？”",
+        "tip": "任选一个动作轻轻演一演，不用全做。",
+        "alt": "她唱歌、跳当地的 otamenhaibuga 舞，还踢足球。我们问自己：“娅耶丽为什么这么棒？”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0018/13.jpg",
+        "sourceImageSha256": "6c2c33a7056fc5007cc93a464455f7477130bc0d325fadddadbef4d579ffc6dd",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "morning",
+        "meaning": "早晨",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "shoes",
+        "meaning": "鞋子",
+        "pageIndex": 8
+      },
+      {
+        "id": "word-2",
+        "word": "football",
+        "meaning": "足球",
+        "pageIndex": 11
+      }
+    ],
+    "activity": {
+      "title": "说一句早上好",
+      "text": "明早见到家人时打个招呼，再挑一个自己愿意做的小事情。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Knightley",
+      "voiceId": "en_male_knightley_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  },
+  {
+    "id": "0021",
+    "title": "Dembe the shopkeeper",
+    "zh": "店主登贝",
+    "stageId": "S2",
+    "primaryTheme": "everyday",
+    "themeIds": [
+      "everyday"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0021/01.jpg",
+    "sourceCoverSha256": "7e1c51f2bb7507264902ebbe51ce35c81af85af498fdc9d71bc6868902776e83",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0021_dembe-the-shopkeeper.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Annet Ssebaggala",
+        "插画：Zablon Alex Nguku"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "7c64f3185af73568d300c1ee05ee19982d08e76e921c97c9f9a7585324d3349e"
+    },
+    "pages": [
+      {
+        "en": "In my home village, there is a trader called Dembe.",
+        "sourceText": "In my home village, there is a trader called Dembe.",
+        "zh": "在我的家乡村庄里，有一位商人叫登贝。",
+        "tip": "先认识故事里的登贝。",
+        "alt": "在我的家乡村庄里，有一位商人叫登贝。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0021/02.jpg",
+        "sourceImageSha256": "7e1c51f2bb7507264902ebbe51ce35c81af85af498fdc9d71bc6868902776e83",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Dembe has a big shop in the village.",
+        "sourceText": "Dembe has a big shop in the village.",
+        "zh": "登贝在村里有一家大商店。",
+        "tip": "指指商店，说 shop。",
+        "alt": "登贝在村里有一家大商店。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0021/03.jpg",
+        "sourceImageSha256": "cdda2d6972a5acbb043732456d89841b1720f8f194a448f8b6d38a482be51650",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The shop sells flour, sugar, rice, beans, and many more things.",
+        "sourceText": "The shop sells flour, sugar, rice, beans, and many more things.",
+        "zh": "店里卖面粉、糖、米、豆子，还有许多其他东西。",
+        "tip": "请孩子找一种认识的食物。",
+        "alt": "店里卖面粉、糖、米、豆子，还有许多其他东西。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0021/04.jpg",
+        "sourceImageSha256": "7fe6a1ab4d2a820dd00fff3731ff2666b84b8a5c8506be2bbc352870a837e226",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Dembe and his wife have three children. They all work hard in the shop.",
+        "sourceText": "Dembe and his wife have three children. They all work hard in the shop.",
+        "zh": "登贝和妻子有三个孩子，全家都在店里努力工作。",
+        "tip": "找一找登贝的一家人。",
+        "alt": "登贝和妻子有三个孩子，全家都在店里努力工作。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0021/05.jpg",
+        "sourceImageSha256": "18ac59d065138d6eadc045fc8241f3318022d33501015b581c2610513195fb45",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "During the holidays, the children help their parents to serve customers. They count the money and give change.",
+        "sourceText": "During the holidays, the children help their parents to serve customers. They count the money and give change.",
+        "zh": "放假时，孩子们帮父母招待顾客、数钱和找零。",
+        "tip": "用手指轻轻数一数，不必做算术题。",
+        "alt": "放假时，孩子们帮父母招待顾客、数钱和找零。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0021/06.jpg",
+        "sourceImageSha256": "270c77308159f9936cd9b440c17d0a7f4796753499735cd83cb0bce69103c81a",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Dembe has a business book. He keeps records in this book every day.",
+        "sourceText": "Dembe has a business book. He keeps records in this book every day.",
+        "zh": "登贝有一本账本，每天都在里面记账。",
+        "tip": "指指登贝记录用的本子。",
+        "alt": "登贝有一本账本，每天都在里面记账。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0021/07.jpg",
+        "sourceImageSha256": "0589e426038591231d2ba6322fa5f1ad3f8a532dae59316a7fade666441917c5",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Dembe and his wife have a good house and a car.",
+        "sourceText": "Dembe and his wife have a good house and a car.",
+        "zh": "登贝和妻子有一座好房子和一辆车。",
+        "tip": "请孩子在画面里找找车。",
+        "alt": "登贝和妻子有一座好房子和一辆车。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0021/08.jpg",
+        "sourceImageSha256": "8ccdba5d10f153b70699a1e78b40914ead21ef084ebefc236bae7a6ddf8e4958",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "They keep goats, cows, chickens and rabbits. Their life is good.",
+        "sourceText": "They keep goats, cows, chickens and rabbits. Their life is good.",
+        "zh": "他们养山羊、奶牛、鸡和兔子，日子过得很好。",
+        "tip": "任选一种动物，说说它的名字。",
+        "alt": "他们养山羊、奶牛、鸡和兔子，日子过得很好。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0021/09.jpg",
+        "sourceImageSha256": "8b82685b986a89928eb3a64a64157191b18d599ec1b08c75fbf8cbeb94676ea7",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Dembe and his wife have enough money to pay school fees for their children.",
+        "sourceText": "Dembe and his wife have enough money to pay school fees for their children.",
+        "zh": "登贝和妻子有足够的钱，为孩子们支付学费。",
+        "tip": "说说家人工作是在照顾这个家。",
+        "alt": "登贝和妻子有足够的钱，为孩子们支付学费。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0021/10.jpg",
+        "sourceImageSha256": "4bade60e09b4d349b63e2f0077df189c6bda835a91f17e7b9272224c00f8e83a",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "shop",
+        "meaning": "商店",
+        "pageIndex": 1
+      },
+      {
+        "id": "word-1",
+        "word": "rice",
+        "meaning": "米",
+        "pageIndex": 2
+      },
+      {
+        "id": "word-2",
+        "word": "rabbits",
+        "meaning": "兔子",
+        "pageIndex": 7
+      }
+    ],
+    "activity": {
+      "title": "家里的小商店",
+      "text": "挑三样家里的物品摆成小商店。用纸片当钱，轮流说想买什么。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Rowan",
+      "voiceId": "en_male_adam-imitation_uranus_bigtts",
+      "locale": "en-US",
+      "accentLabel": "美式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  },
+  {
+    "id": "0027",
+    "title": "Decision",
+    "zh": "一起作决定",
+    "stageId": "S3",
+    "primaryTheme": "feelings",
+    "themeIds": [
+      "feelings",
+      "everyday"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0027/01.jpg",
+    "sourceCoverSha256": "1b5977cb17c06a38f2283118c947a1597503ed40f01bc45cf2d6982c176c4629",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0027_decision.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Ursula Nafula",
+        "插画：Vusi Malindi"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "a4d058ab621973c179804bef43ff84a75746d4f62c938a9f6be70d99c140b156"
+    },
+    "pages": [
+      {
+        "en": "My village had many problems. We made a long line to fetch water from one tap.",
+        "sourceText": "My village had many problems. We made a long line to fetch water from one tap.",
+        "zh": "我们的村庄有许多问题，大家排很长的队，从一个水龙头接水。",
+        "tip": "指指接水的人，听 water。",
+        "alt": "我们的村庄有许多问题，大家排很长的队，从一个水龙头接水。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0027/02.jpg",
+        "sourceImageSha256": "6657e1d21f121b46e384fb7e4c30b4c71a31a026f873a5ada33d48ab5ec67805",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "We waited for food donated by others.",
+        "sourceText": "We waited for food donated by others.",
+        "zh": "我们等待别人捐赠的食物。",
+        "tip": "先听故事，不必让孩子回答贫困原因。",
+        "alt": "我们等待别人捐赠的食物。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0027/03.jpg",
+        "sourceImageSha256": "a6ffed036795af8a62db2327d3350d3620c2e28ab768a87993f83499ca91a07f",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "We locked our houses early because of thieves.",
+        "sourceText": "We locked our houses early because of thieves.",
+        "zh": "因为有小偷，我们很早就锁好房门。",
+        "tip": "说说人们这时可能有些担心。",
+        "alt": "因为有小偷，我们很早就锁好房门。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0027/04.jpg",
+        "sourceImageSha256": "4659206bc0e14d2345e354b167188dada39ce2c8cd33905cc90ff7c85d20f702",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Many children dropped out of school.",
+        "sourceText": "Many children dropped out of school.",
+        "zh": "许多孩子辍学了。",
+        "tip": "可以说“他们也需要上学的机会”。",
+        "alt": "许多孩子辍学了。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0027/05.jpg",
+        "sourceImageSha256": "f15a3c506b8299573e3441eae45f8a94027f888f9932a6b30dc683b3caa58f84",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Young girls worked as maids in other villages.",
+        "sourceText": "Young girls worked as maids in other villages.",
+        "zh": "年轻的女孩到其他村庄做家务工。",
+        "tip": "看一看故事里人们的生活。",
+        "alt": "年轻的女孩到其他村庄做家务工。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0027/06.jpg",
+        "sourceImageSha256": "8db3d5ddd0b957034506f7ae5455a540ab895510f2b3c8503e53f9a2e1a5a193",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Young boys roamed around the village while others worked on people's farms.",
+        "sourceText": "Young boys roamed around the village while others worked on people's farms.",
+        "zh": "男孩们在村里闲逛，还有一些人在别人的农场工作。",
+        "tip": "这页只听也可以。",
+        "alt": "男孩们在村里闲逛，还有一些人在别人的农场工作。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0027/07.jpg",
+        "sourceImageSha256": "153c81715b92d7c7a985619cabda80366d0329a23aa797cfcf8a892ed41a9c5f",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "When the wind blew, waste paper hung on trees and fences.",
+        "sourceText": "When the wind blew, waste paper hung on trees and fences.",
+        "zh": "风吹过时，废纸挂在树上和围栏上。",
+        "tip": "找一找散落的纸。",
+        "alt": "风吹过时，废纸挂在树上和围栏上。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0027/08.jpg",
+        "sourceImageSha256": "fa41696c3de8bff64a24933cd53ab340194d122918cf38ac76dd8652bb192285",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "People were cut by broken glass that was thrown carelessly.",
+        "sourceText": "People were cut by broken glass that was thrown carelessly.",
+        "zh": "有人被随意扔弃的碎玻璃割伤。",
+        "tip": "说一句：看到碎玻璃要请大人处理。",
+        "alt": "有人被随意扔弃的碎玻璃割伤。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0027/09.jpg",
+        "sourceImageSha256": "8cd23662d1106eb99d694bbfb3a334ec7a006124d49a5dde1be4c4c02a1e4439",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Then one day, the tap dried up and our containers were empty.",
+        "sourceText": "Then one day, the tap dried up and our containers were empty.",
+        "zh": "后来有一天，水龙头没水了，大家的水桶都空了。",
+        "tip": "指指空容器，猜猜大家需要什么。",
+        "alt": "后来有一天，水龙头没水了，大家的水桶都空了。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0027/10.jpg",
+        "sourceImageSha256": "4ca3d2748ec9f318f918a6a38498139cd24699267a995dafe0ef8c1ff8a360bf",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "My father walked from house to house asking people to attend a village meeting.",
+        "sourceText": "My father walked from house to house asking people to attend a village meeting.",
+        "zh": "爸爸挨家挨户走，请大家参加村庄会议。",
+        "tip": "挥挥手，演一演邀请大家。",
+        "alt": "爸爸挨家挨户走，请大家参加村庄会议。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0027/11.jpg",
+        "sourceImageSha256": "9222420502a98b08d7c82c9d7ad03751d9597c656494908b5596f52a2a578a14",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "People gathered under a big tree and listened.",
+        "sourceText": "People gathered under a big tree and listened.",
+        "zh": "人们聚在一棵大树下，认真听。",
+        "tip": "找一找大家聚会的树。",
+        "alt": "人们聚在一棵大树下，认真听。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0027/12.jpg",
+        "sourceImageSha256": "76b76270a2f1fa78c6bd691554de47420d00d444a1d7594970b283fda626572c",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "My father stood up and said, \"We need to work together to solve our problems.\"",
+        "sourceText": "My father stood up and said, \"We need to work together to solve our problems.\"",
+        "zh": "爸爸站起来说：“我们需要一起合作，解决问题。”",
+        "tip": "慢慢听 together，说“一起”。",
+        "alt": "爸爸站起来说：“我们需要一起合作，解决问题。”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0027/13.jpg",
+        "sourceImageSha256": "5e32e3214ab0bead1f717cd750f7a293a6d304477d1ed76194dfd3beafdfefb5",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Eight-year-old Juma, sitting on a tree trunk shouted, \"I can help with cleaning up.\"",
+        "sourceText": "Eight-year-old Juma, sitting on a tree trunk shouted, \"I can help with cleaning up.\"",
+        "zh": "八岁的朱马坐在树干上，大声说：“我能帮忙打扫！”",
+        "tip": "想一件孩子愿意帮忙的小事。",
+        "alt": "八岁的朱马坐在树干上，大声说：“我能帮忙打扫！”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0027/14.jpg",
+        "sourceImageSha256": "49529e129b0c6cd14be4b452b2e51bc05d32238f62e61e622b14cbb6f66471c5",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "One woman said, \"The women can join me to grow food.\"",
+        "sourceText": "One woman said, \"The women can join me to grow food.\"",
+        "zh": "一位女士说：“妇女们可以和我一起种粮食。”",
+        "tip": "用手势演一演播种。",
+        "alt": "一位女士说：“妇女们可以和我一起种粮食。”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0027/15.jpg",
+        "sourceImageSha256": "1adaa15a81db60d302c7288f626f87ee24292f47bfb6637ee9bd65f47d69c66f",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Another man stood up and said, \"The men will dig a well.\"",
+        "sourceText": "Another man stood up and said, \"The men will dig a well.\"",
+        "zh": "另一位男士站起来说：“男人们来挖一口井。”",
+        "tip": "看看大家在想哪些办法，不必按性别分配家务。",
+        "alt": "另一位男士站起来说：“男人们来挖一口井。”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0027/16.jpg",
+        "sourceImageSha256": "a6948ba367bd2a901c8478e01960552bdbac1d1868ecb74dc0b12fbf6e8e9661",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "We all shouted with one voice, \"We must change our lives.\" From that day we worked together to solve our problems.",
+        "sourceText": "We all shouted with one voice, \"We must change our lives.\" From that day we worked together to solve our problems.",
+        "zh": "我们齐声说：“我们必须改变自己的生活。”从那天起，大家一起努力解决问题。",
+        "tip": "和孩子说说“有人帮忙，事情更容易”。",
+        "alt": "我们齐声说：“我们必须改变自己的生活。”从那天起，大家一起努力解决问题。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0027/17.jpg",
+        "sourceImageSha256": "1b5977cb17c06a38f2283118c947a1597503ed40f01bc45cf2d6982c176c4629",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "water",
+        "meaning": "水",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "together",
+        "meaning": "一起",
+        "pageIndex": 11
+      },
+      {
+        "id": "word-2",
+        "word": "help",
+        "meaning": "帮助",
+        "pageIndex": 12
+      }
+    ],
+    "activity": {
+      "title": "一起让家更整洁",
+      "text": "和家人一起收好三样安全的小物品。孩子可以指一指，请大人来帮忙。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Charlotte",
+      "voiceId": "en_female_authoritative-british_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  },
+  {
+    "id": "0035",
+    "title": "Wind",
+    "zh": "风来了",
+    "stageId": "S2",
+    "primaryTheme": "nature",
+    "themeIds": [
+      "nature",
+      "discovery"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0035/01.jpg",
+    "sourceCoverSha256": "f9bd43fff774ef40e32bd496a3646cca70a59f56823535aa2c81fdb20683ea8a",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0035_wind.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Ursula Nafula",
+        "插画：Marion Drew"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "b3e1a2f25c9af71c41755815acda3d278f1f28ba42296f89ec05f0cc0ec48f2c"
+    },
+    "pages": [
+      {
+        "en": "The wind roars. It roars past our home.",
+        "sourceText": "The wind roars. It roars past our home.",
+        "zh": "风呼呼地吼，吹过我们家。",
+        "tip": "轻轻模仿风声，听 wind。",
+        "alt": "风呼呼地吼，吹过我们家。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0035/02.jpg",
+        "sourceImageSha256": "df4249441117f3d11fdb5f9bfdce2adf5b6ea1c0fd34da85ca667408d965898c",
+        "imageWidth": 547,
+        "imageHeight": 546
+      },
+      {
+        "en": "The wind is powerful. It tears my kite from my hand.",
+        "sourceText": "The wind is powerful. It tears my kite from my hand.",
+        "zh": "风很有力，把风筝从我手里扯走。",
+        "tip": "指指风筝，说 kite。",
+        "alt": "风很有力，把风筝从我手里扯走。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0035/03.jpg",
+        "sourceImageSha256": "8d9d7036246e4a177ae58e44b1331f593df7eef3e38ccccee1ae3178e5a54839",
+        "imageWidth": 557,
+        "imageHeight": 546
+      },
+      {
+        "en": "I run after my kite. The wind blows me away from the kite!",
+        "sourceText": "I run after my kite. The wind blows me away from the kite!",
+        "zh": "我追着风筝跑，风却把我吹得离它更远！",
+        "tip": "用手指沿画面指一指风筝的方向。",
+        "alt": "我追着风筝跑，风却把我吹得离它更远！",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0035/04.jpg",
+        "sourceImageSha256": "237b7160cea5b6a29d042ad9a86dc5323f467ad41625e82f6c419660542e1150",
+        "imageWidth": 550,
+        "imageHeight": 546
+      },
+      {
+        "en": "The wind becomes a tornado. It carries my kite higher and higher.",
+        "sourceText": "The wind becomes a tornado. It carries my kite higher and higher.",
+        "zh": "风变成龙卷风，把风筝卷得越来越高。",
+        "tip": "这是夸张的故事，做一个小小旋转手势即可。",
+        "alt": "风变成龙卷风，把风筝卷得越来越高。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0035/05.jpg",
+        "sourceImageSha256": "e5f853bc1c4e48842931483ad61f881e5962b05527e7c5bb6ac0dd392e7889e5",
+        "imageWidth": 543,
+        "imageHeight": 546
+      },
+      {
+        "en": "The tornado swallows me up! I see nothing, I touch nothing.",
+        "sourceText": "The tornado swallows me up! I see nothing, I touch nothing.",
+        "zh": "龙卷风把我吞了进去！我什么也看不见，什么也摸不着。",
+        "tip": "说说大风时要和家人留在安全的室内。",
+        "alt": "龙卷风把我吞了进去！我什么也看不见，什么也摸不着。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0035/06.jpg",
+        "sourceImageSha256": "96eb4e6ce5146a0da8a6f90aa801645f1101948ab8071f4cc18d2bce76d2b852",
+        "imageWidth": 548,
+        "imageHeight": 546
+      },
+      {
+        "en": "Where is my kite now? Perhaps it is caught in a tree.",
+        "sourceText": "Where is my kite now? Perhaps it is caught in a tree.",
+        "zh": "我的风筝现在在哪里？也许挂在树上了。",
+        "tip": "找找画面里的树，猜一猜。",
+        "alt": "我的风筝现在在哪里？也许挂在树上了。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0035/07.jpg",
+        "sourceImageSha256": "7bac8864181a7cecda3f589504ec572ba6d11aef83f5b74f85b9eb8ea42c2d0b",
+        "imageWidth": 552,
+        "imageHeight": 546
+      },
+      {
+        "en": "Perhaps my kite is still flying in the sky.",
+        "sourceText": "Perhaps my kite is still flying in the sky.",
+        "zh": "也许风筝还在天上飞。",
+        "tip": "指指天空，说 sky。",
+        "alt": "也许风筝还在天上飞。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0035/08.jpg",
+        "sourceImageSha256": "f6cd84ad10f29ae5916ab61f82dfc0271b96e1008f2f043574c7920cffafa1c2",
+        "imageWidth": 549,
+        "imageHeight": 546
+      },
+      {
+        "en": "The wind finally dies down. I am still spinning.",
+        "sourceText": "The wind finally dies down. I am still spinning.",
+        "zh": "风终于停了，我却还在转。",
+        "tip": "转一转手指，不用转身体。",
+        "alt": "风终于停了，我却还在转。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0035/09.jpg",
+        "sourceImageSha256": "970521a115ca52db1f0b2a4fe1bfe69f131b33c386448c8a603a983737781af3",
+        "imageWidth": 543,
+        "imageHeight": 546
+      },
+      {
+        "en": "When I stop spinning I look around. Where did the wind go?",
+        "sourceText": "When I stop spinning I look around. Where did the wind go?",
+        "zh": "等我不转了，环顾四周：风去哪儿了？",
+        "tip": "和孩子一起看看四周。",
+        "alt": "等我不转了，环顾四周：风去哪儿了？",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0035/10.jpg",
+        "sourceImageSha256": "9840091a4188b45babe513bb0b9042d08825f90ac898f563474624e1768765ec",
+        "imageWidth": 551,
+        "imageHeight": 546
+      },
+      {
+        "en": "I cannot see my kite anywhere. I cannot hear the wind anymore.",
+        "sourceText": "I cannot see my kite anywhere. I cannot hear the wind anymore.",
+        "zh": "我找不到风筝，也听不到风声了。",
+        "tip": "停一小会儿，听听身边的声音。",
+        "alt": "我找不到风筝，也听不到风声了。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0035/11.jpg",
+        "sourceImageSha256": "872e1722e1dbd912ec32232cbd5c88c0e89c0d98b70af2cbc4978c5c0629492d",
+        "imageWidth": 550,
+        "imageHeight": 546
+      },
+      {
+        "en": "Perhaps tomorrow I will find my kite. Now, I must go home, before the wind starts to roar again.",
+        "sourceText": "Perhaps tomorrow I will find my kite. Now, I must go home, before the wind starts to roar again.",
+        "zh": "也许明天能找到风筝。现在，在风再次吼起来之前，我得回家了。",
+        "tip": "说说故事中的孩子决定去哪里。",
+        "alt": "也许明天能找到风筝。现在，在风再次吼起来之前，我得回家了。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0035/12.jpg",
+        "sourceImageSha256": "2406fbe4368edff7988bff3719451c9af67744d46cca78da908078f3eea02637",
+        "imageWidth": 542,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "wind",
+        "meaning": "风",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "kite",
+        "meaning": "风筝",
+        "pageIndex": 1
+      },
+      {
+        "id": "word-2",
+        "word": "sky",
+        "meaning": "天空",
+        "pageIndex": 6
+      }
+    ],
+    "activity": {
+      "title": "观察风的小线索",
+      "text": "和大人从安全的窗边看看树叶或旗子有没有动。风大时留在室内。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Knightley",
+      "voiceId": "en_male_knightley_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  },
+  {
+    "id": "0042",
+    "title": "Hungry jackal and the sour grapes",
+    "zh": "胡狼与酸葡萄",
+    "stageId": "S3",
+    "primaryTheme": "feelings",
+    "themeIds": [
+      "feelings"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0042/01.jpg",
+    "sourceCoverSha256": "26097c65e1531be16b57b9f24cda60bb2e41c253d1cb4749adbf2000c19db0f3",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0042_hungry-jackal-and-the-sour-grapes.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Kholeka Mabeta",
+        "插画：Benjamin Mitchley"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "5573835671c79cfc0bba3e801a98f9eda6f37ac0bf4e21704db061eedc87bb8a"
+    },
+    "pages": [
+      {
+        "en": "Once upon a time there was a hungry jackal. He was walking around the bush looking for food.",
+        "sourceText": "Once upon a time there was a hungry jackal. He was walking around the bush looking for food.",
+        "zh": "从前有一只饥饿的胡狼，在灌木丛里四处找食物。",
+        "tip": "指指胡狼，听 hungry。",
+        "alt": "从前有一只饥饿的胡狼，在灌木丛里四处找食物。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0042/02.jpg",
+        "sourceImageSha256": "4bde3b22a8a9ae0c1c94ba3ea25131c73dffad2b05fc01a4e6df65d5bdf3ff19",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "He came upon a big orchard of fresh ripe grapes. He spotted a bunch of grapes hanging from a high branch.",
+        "sourceText": "He came upon a big orchard of fresh ripe grapes. He spotted a bunch of grapes hanging from a high branch.",
+        "zh": "它来到一大片果园，看到高高的枝头挂着一串新鲜成熟的葡萄。",
+        "tip": "请孩子找葡萄，说 grapes。",
+        "alt": "它来到一大片果园，看到高高的枝头挂着一串新鲜成熟的葡萄。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0042/03.jpg",
+        "sourceImageSha256": "26097c65e1531be16b57b9f24cda60bb2e41c253d1cb4749adbf2000c19db0f3",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "\"Those look really delicious,\" he thought to himself. He took a few steps back so that he could make his highest jump.",
+        "sourceText": "\"Those look really delicious,\" he thought to himself. He took a few steps back so that he could make his highest jump.",
+        "zh": "“看起来真好吃。”它心想，后退几步，准备尽力跳高。",
+        "tip": "用手指演一演准备起跳。",
+        "alt": "“看起来真好吃。”它心想，后退几步，准备尽力跳高。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0042/04.jpg",
+        "sourceImageSha256": "3f2fc1b22210df7ce9b0a24ed5a924cb8695b9c668765fd1f0fce26f91cec486",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The grapes were too high. Jackal fell on his back without getting to the grapes.",
+        "sourceText": "The grapes were too high. Jackal fell on his back without getting to the grapes.",
+        "zh": "葡萄太高了，胡狼没够着，摔了个仰面朝天。",
+        "tip": "看一看它离葡萄还有多远。",
+        "alt": "葡萄太高了，胡狼没够着，摔了个仰面朝天。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0042/05.jpg",
+        "sourceImageSha256": "bb9d804ea0b8fac9e3ade1047376cc1216b5479e6d4cae6394ae1cd834e75dfd",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Jackal got up and went further back from his starting spot. This time he was planning to jump higher. He almost got high enough but he fell harder on his back.",
+        "sourceText": "Jackal got up and went further back from his starting spot. This time he was planning to jump higher. He almost got high enough but he fell harder on his back.",
+        "zh": "胡狼爬起来，又往后退得更远，想跳得更高。这次差一点够到，却摔得更重。",
+        "tip": "说说差一点做到时，心里可能是什么感觉。",
+        "alt": "胡狼爬起来，又往后退得更远，想跳得更高。这次差一点够到，却摔得更重。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0042/06.jpg",
+        "sourceImageSha256": "8bd0d4efdaf308a1d4eff4485ecc092ed88eb54526947b6e1c9a971499db4b11",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "He tried again and again, but couldn't get to the grapes. He kept falling until his back was very sore.",
+        "sourceText": "He tried again and again, but couldn't get to the grapes. He kept falling until his back was very sore.",
+        "zh": "它试了一次又一次，还是够不到，一直摔得后背疼痛。",
+        "tip": "说一句：不舒服时可以停下来休息。",
+        "alt": "它试了一次又一次，还是够不到，一直摔得后背疼痛。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0042/07.jpg",
+        "sourceImageSha256": "02ab3660806faf51a2333f67b88432fc8f314b15c879fa7a258951afbae92546",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Finally, he gave up and walked away.",
+        "sourceText": "Finally, he gave up and walked away.",
+        "zh": "最后，它放弃了，转身离开。",
+        "tip": "看看它离开时的样子。",
+        "alt": "最后，它放弃了，转身离开。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0042/08.jpg",
+        "sourceImageSha256": "a41e718bffee773be23bad7a49457c64bb6978c4874b1f22ca9a526175c286e8",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Jackal was not happy at all. He stopped, looked back at the grapes and thought, \"Those grapes look really sour anyway.\" He carried on walking. He was hungrier than before.",
+        "sourceText": "Jackal was not happy at all. He stopped, looked back at the grapes and thought, \"Those grapes look really sour anyway.\" He carried on walking. He was hungrier than before.",
+        "zh": "胡狼一点也不开心，停下来回头想：“反正那些葡萄一定很酸。”它继续走，比先前更饿了。",
+        "tip": "温和聊聊：没吃到的葡萄，真的知道酸不酸吗？",
+        "alt": "胡狼一点也不开心，停下来回头想：“反正那些葡萄一定很酸。”它继续走，比先前更饿了。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0042/09.jpg",
+        "sourceImageSha256": "1b367b8c3d34bc3365d2ef9ab1ed88fdbd61538621dc59c6111044eff9ffde76",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "hungry",
+        "meaning": "饥饿的",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "grapes",
+        "meaning": "葡萄",
+        "pageIndex": 1
+      },
+      {
+        "id": "word-2",
+        "word": "sour",
+        "meaning": "酸的",
+        "pageIndex": 7
+      }
+    ],
+    "activity": {
+      "title": "说说没做到的时候",
+      "text": "想一件暂时还做不到的小事情。可以说“我有点失望”，再请家人陪着尝试或休息。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Rowan",
+      "voiceId": "en_male_adam-imitation_uranus_bigtts",
+      "locale": "en-US",
+      "accentLabel": "美式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  }
+]

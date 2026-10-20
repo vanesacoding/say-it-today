@@ -1,0 +1,935 @@
+[
+  {
+    "id": "0045",
+    "title": "The clever jackal and the foolish crow",
+    "zh": "胡狼与乌鸦",
+    "stageId": "S3",
+    "primaryTheme": "feelings",
+    "themeIds": [
+      "feelings"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0045/01.jpg",
+    "sourceCoverSha256": "2f91ffc23b6b7fb196071794f8740381110b66836ff62161746a4957e15d5445",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0045_the-clever-jackal-and-the-foolish-crow.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Kholeka Mabeta",
+        "插画：Benjamin Mitchley"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "0c6da681c5736b1dbe7657b5ee41cee38d2896f895a521cdf3d5c66906c35c59"
+    },
+    "pages": [
+      {
+        "en": "Once upon a time Jackal was walking around the bush. He was very hungry. He saw the crow flying above the trees. Crow had a huge piece of cheese in his mouth.",
+        "sourceText": "Once upon a time Jackal was walking around the bush. He was very hungry. He saw the crow flying above the trees. Crow had a huge piece of cheese in his mouth.",
+        "zh": "从前，胡狼在灌木丛里走，肚子很饿。它看见乌鸦从树上飞过，嘴里叼着一大块奶酪。",
+        "tip": "指指乌鸦嘴里的奶酪，听 cheese。",
+        "alt": "从前，胡狼在灌木丛里走，肚子很饿。它看见乌鸦从树上飞过，嘴里叼着一大块奶酪。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0045/02.jpg",
+        "sourceImageSha256": "2f91ffc23b6b7fb196071794f8740381110b66836ff62161746a4957e15d5445",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "\"Hmmm...that cheese looks delicious! I must find a way to get it,\" thought the jackal. \"Oh, I have a plan!\" said Jackal to himself while wiping his mouth quickly. He did not want Crow to notice that he was hungry.",
+        "sourceText": "\"Hmmm...that cheese looks delicious! I must find a way to get it,\" thought the jackal. \"Oh, I have a plan!\" said Jackal to himself while wiping his mouth quickly. He did not want Crow to notice that he was hungry.",
+        "zh": "“奶酪看起来真好吃，我得想办法弄到它。”胡狼想到了一个主意，赶紧擦擦嘴，不想让乌鸦发现自己饿了。",
+        "tip": "看看胡狼的表情，猜它在想什么。",
+        "alt": "“奶酪看起来真好吃，我得想办法弄到它。”胡狼想到了一个主意，赶紧擦擦嘴，不想让乌鸦发现自己饿了。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0045/03.jpg",
+        "sourceImageSha256": "ab1e9cd07ac9074ca369d6079bf9ceab59e8ffd8d32a903ef683281e99952125",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Crow had been flying the whole morning. He was tired. He decided to sit on a branch of a tree. The jackal sat down under the tree where Crow was sitting.",
+        "sourceText": "Crow had been flying the whole morning. He was tired. He decided to sit on a branch of a tree. The jackal sat down under the tree where Crow was sitting.",
+        "zh": "乌鸦飞了一上午，累了，决定在树枝上休息。胡狼在那棵树下面坐下。",
+        "tip": "指指树上和树下的两只动物。",
+        "alt": "乌鸦飞了一上午，累了，决定在树枝上休息。胡狼在那棵树下面坐下。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0045/04.jpg",
+        "sourceImageSha256": "917bba0dc9860572a47c804b174d1b394fac1c53a65969a2380cf745050ca4b2",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Jackal called with a huge smile, \"Hello Crow! You're looking very good today. Your feathers look glossy and healthy. You must be taking very good care of yourself.\"",
+        "sourceText": "Jackal called with a huge smile, \"Hello Crow! You're looking very good today. Your feathers look glossy and healthy. You must be taking very good care of yourself.\"",
+        "zh": "胡狼满脸笑容地喊：“你好，乌鸦！你今天真好看，羽毛光亮又健康，一定把自己照顾得很好。”",
+        "tip": "轻声听它的夸奖，孩子不用跟读长句。",
+        "alt": "胡狼满脸笑容地喊：“你好，乌鸦！你今天真好看，羽毛光亮又健康，一定把自己照顾得很好。”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0045/05.jpg",
+        "sourceImageSha256": "0a9fe9655f2e4d19509e4c3c25f778b32de6a8f2aa27b45c959a1ba24d62d2de",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Crow was very flattered to hear this. Crow always thought he was the strongest and most beautiful of all the other birds.",
+        "sourceText": "Crow was very flattered to hear this. Crow always thought he was the strongest and most beautiful of all the other birds.",
+        "zh": "乌鸦听了十分得意，它一直觉得自己是最强壮、最美丽的鸟。",
+        "tip": "指指乌鸦得意的神态。",
+        "alt": "乌鸦听了十分得意，它一直觉得自己是最强壮、最美丽的鸟。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0045/06.jpg",
+        "sourceImageSha256": "ff10a81812d9e6651203bc4735340dfa983e4a07fd4d4406f73c4a14b55d25ce",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "\"I hear you also have the most beautiful singing voice of all the other birds. Won't you sing a song for me this morning?\"",
+        "sourceText": "\"I hear you also have the most beautiful singing voice of all the other birds. Won't you sing a song for me this morning?\"",
+        "zh": "“听说你的歌声也是鸟儿里最美的，今天早晨能为我唱一首吗？”",
+        "tip": "猜一猜：嘴里有奶酪，能不能张嘴唱歌？",
+        "alt": "“听说你的歌声也是鸟儿里最美的，今天早晨能为我唱一首吗？”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0045/07.jpg",
+        "sourceImageSha256": "235b7f45c9c1341b52b0fcf228079dd4287c955c47cd0af9a25b04d79c46bc1d",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Crow was so flattered that he stretched his wings and prepared to sing for the jackal. He pushed his chest out and let out a loud pitched sound.",
+        "sourceText": "Crow was so flattered that he stretched his wings and prepared to sing for the jackal. He pushed his chest out and let out a loud pitched sound.",
+        "zh": "乌鸦被夸得飘飘然，伸开翅膀，挺起胸膛，准备为胡狼唱歌，发出一声高叫。",
+        "tip": "张开手臂模仿翅膀，不用真的大声叫。",
+        "alt": "乌鸦被夸得飘飘然，伸开翅膀，挺起胸膛，准备为胡狼唱歌，发出一声高叫。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0045/08.jpg",
+        "sourceImageSha256": "07c7f710fe92c0a8a6ebb1cd4ecf4e8c8ed2d7bd69f22e55cbcd6702a0b9bc75",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "As Crow started singing the cheese fell to the ground, right in front of Jackal. Crow stopped and looked down. Jackal grabbed the piece of cheese and ate it. He ran into the bush and crow was left angry and hungry.",
+        "sourceText": "As Crow started singing the cheese fell to the ground, right in front of Jackal. Crow stopped and looked down. Jackal grabbed the piece of cheese and ate it. He ran into the bush and crow was left angry and hungry.",
+        "zh": "乌鸦一开口，奶酪就掉到胡狼面前。它停下来低头看，胡狼已经抢过奶酪吃掉，跑回灌木丛，留下又气又饿的乌鸦。",
+        "tip": "说说胡狼想得到什么，轻松聊一句即可。",
+        "alt": "乌鸦一开口，奶酪就掉到胡狼面前。它停下来低头看，胡狼已经抢过奶酪吃掉，跑回灌木丛，留下又气又饿的乌鸦。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0045/09.jpg",
+        "sourceImageSha256": "9b5b62fcb926379190150551ac679e858813aaa5200ebba7890dc2be3e79595a",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "cheese",
+        "meaning": "奶酪",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "feathers",
+        "meaning": "羽毛",
+        "pageIndex": 3
+      },
+      {
+        "id": "word-2",
+        "word": "sing",
+        "meaning": "唱歌",
+        "pageIndex": 5
+      }
+    ],
+    "activity": {
+      "title": "真心夸一夸",
+      "text": "给家人一个具体的夸奖，比如“谢谢你陪我读书”。听到夸奖可以开心，也可以继续自己正在做的事。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Charlotte",
+      "voiceId": "en_female_authoritative-british_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  },
+  {
+    "id": "0051",
+    "title": "The day we saw the rainbow",
+    "zh": "我们看见彩虹的那天",
+    "stageId": "S2",
+    "primaryTheme": "discovery",
+    "themeIds": [
+      "discovery",
+      "nature"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0051/01.jpg",
+    "sourceCoverSha256": "89b32ce47fb9ceee930846c112da776859189fc14947cf48c9ddcfed9364a36a",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0051_the_day-we-saw-rainbow.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Ursula Nafula",
+        "插画：Wiehan de Jager"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "33e458d57ff73308dadb0e5678e05b1bf7f826cbf37500e3d6cffce695c802ef"
+    },
+    "pages": [
+      {
+        "en": "My name is Kobole. I live in a small village.",
+        "sourceText": "My name is Kobole. I live in a small village.",
+        "zh": "我叫科博勒，住在一个小村庄。",
+        "tip": "先认识故事里的小朋友。",
+        "alt": "我叫科博勒，住在一个小村庄。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0051/02.jpg",
+        "sourceImageSha256": "78e1de628071e4323b7db5a6f3bf1ceaa0a5cb6c15bd244474e0ca8db0b25d86",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "I was out picking fruits when I saw something I had never seen before.",
+        "sourceText": "I was out picking fruits when I saw something I had never seen before.",
+        "zh": "我出去摘水果时，看见了从没见过的东西。",
+        "tip": "停一下，让孩子先看看画面。",
+        "alt": "我出去摘水果时，看见了从没见过的东西。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0051/03.jpg",
+        "sourceImageSha256": "c7ae6a4bd824876d47c5188d1bc5dd3316171f28dc0721b56db2652995f47fc7",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "There were colourful lines in the sky.",
+        "sourceText": "There were colourful lines in the sky.",
+        "zh": "天空里出现了一条条彩色的线。",
+        "tip": "沿着彩色弧线轻轻指一指。",
+        "alt": "天空里出现了一条条彩色的线。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0051/04.jpg",
+        "sourceImageSha256": "2b1eb8b41ffd63fca4c56a9e6b9d105c84395c89716567a3d9327d5fc1968123",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "I dropped all the fruit and ran to tell people at home.",
+        "sourceText": "I dropped all the fruit and ran to tell people at home.",
+        "zh": "我放下所有水果，跑回家告诉大家。",
+        "tip": "指指水果，再看他往哪里跑。",
+        "alt": "我放下所有水果，跑回家告诉大家。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0051/05.jpg",
+        "sourceImageSha256": "e4cdfe25804d500031ebbae8945c24edddd7bda1734e745c9679fd2c388d5e45",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "People were standing outside surprised.",
+        "sourceText": "People were standing outside surprised.",
+        "zh": "大家站在外面，十分惊讶。",
+        "tip": "一起做个惊讶的表情。",
+        "alt": "大家站在外面，十分惊讶。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0051/06.jpg",
+        "sourceImageSha256": "89b32ce47fb9ceee930846c112da776859189fc14947cf48c9ddcfed9364a36a",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "I said happily, \"It is a beautiful sheet hanging from the sky.\" \"No! I think someone is pouring paint from the sky.\" Neno said.",
+        "sourceText": "I said happily, \"It is a beautiful sheet hanging from the sky.\" \"No! I think someone is pouring paint from the sky.\" Neno said.",
+        "zh": "我高兴地说：“那是一块挂在天上的漂亮布！”内诺却说：“不！我觉得有人从天上倒颜料。”",
+        "tip": "说说这幅彩虹让你想到什么。",
+        "alt": "我高兴地说：“那是一块挂在天上的漂亮布！”内诺却说：“不！我觉得有人从天上倒颜料。”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0051/07.jpg",
+        "sourceImageSha256": "b4af000516497687d69c37ceb95ae3eb5a7fda604a835de68510852ca9af9c3a",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Some people agreed with me. Others thought Neno was right. We began to argue.",
+        "sourceText": "Some people agreed with me. Others thought Neno was right. We began to argue.",
+        "zh": "有人同意我，也有人觉得内诺说得对，大家争论起来。",
+        "tip": "可以说“每个人都在猜”。",
+        "alt": "有人同意我，也有人觉得内诺说得对，大家争论起来。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0051/08.jpg",
+        "sourceImageSha256": "e84317a7506bf922661146c1977a1683d73eaa5b740445e482e43b34026fe39b",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "A man from a faraway village said, \"You are all wrong.\"",
+        "sourceText": "A man from a faraway village said, \"You are all wrong.\"",
+        "zh": "一位从远处村庄来的人说：“你们都猜错了。”",
+        "tip": "先听这一句，看看新来的人。",
+        "alt": "一位从远处村庄来的人说：“你们都猜错了。”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0051/09.jpg",
+        "sourceImageSha256": "d590c385f09a665763652c6b871131144cb8b6d466397adaa30a496de916bc70",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "We shouted, \"Tell us what it is if we are wrong.\"",
+        "sourceText": "We shouted, \"Tell us what it is if we are wrong.\"",
+        "zh": "我们喊：“如果我们错了，就请你告诉我们那是什么。”",
+        "tip": "和孩子一起期待答案。",
+        "alt": "我们喊：“如果我们错了，就请你告诉我们那是什么。”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0051/10.jpg",
+        "sourceImageSha256": "e63f1b720f6aef1a6eea68e93575581abf8fceda08d5459367b2a13897e0801a",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The stranger said, \"It is the rainbow. Have you never seen the rainbow before?\"",
+        "sourceText": "The stranger said, \"It is the rainbow. Have you never seen the rainbow before?\"",
+        "zh": "陌生人说：“那是彩虹。你们以前没见过彩虹吗？”",
+        "tip": "慢慢听 rainbow，指指彩虹。",
+        "alt": "陌生人说：“那是彩虹。你们以前没见过彩虹吗？”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0051/11.jpg",
+        "sourceImageSha256": "d65c343cf0f2d8e2a75d58ba48f5facdf070163552fd9a56f5a298b080f428f5",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "We asked the stranger, \"What is a r-a-i-n-b-o-w?\"",
+        "sourceText": "We asked the stranger, \"What is a r-a-i-n-b-o-w?\"",
+        "zh": "我们问陌生人：“彩虹是什么？”",
+        "tip": "允许孩子也问一个关于彩虹的问题。",
+        "alt": "我们问陌生人：“彩虹是什么？”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0051/12.jpg",
+        "sourceImageSha256": "19cc0b1562033d7ad9a2e3f53e27eb045a8d120b1f08e620e60f6d3bcf9169e2",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Neno asked, \"Is it ours? Can we keep it here?\" We never got answers to our questions because the man had left.",
+        "sourceText": "Neno asked, \"Is it ours? Can we keep it here?\" We never got answers to our questions because the man had left.",
+        "zh": "内诺问：“它是我们的吗？能把它留在这里吗？”那人已经走了，我们没等到答案。",
+        "tip": "可以说“彩虹会出现，也会慢慢消失”。",
+        "alt": "内诺问：“它是我们的吗？能把它留在这里吗？”那人已经走了，我们没等到答案。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0051/13.jpg",
+        "sourceImageSha256": "e41ea5c0be38db42bc23adf32c5c629211f4089f1321aff5f9e592fae8619855",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "sky",
+        "meaning": "天空",
+        "pageIndex": 2
+      },
+      {
+        "id": "word-1",
+        "word": "paint",
+        "meaning": "颜料",
+        "pageIndex": 5
+      },
+      {
+        "id": "word-2",
+        "word": "rainbow",
+        "meaning": "彩虹",
+        "pageIndex": 9
+      }
+    ],
+    "activity": {
+      "title": "画下想象中的彩虹",
+      "text": "用家里已有的彩笔画几条弧线。喜欢什么颜色都可以，边画边说 rainbow。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Knightley",
+      "voiceId": "en_male_knightley_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  },
+  {
+    "id": "0067",
+    "title": "Cooking",
+    "zh": "一起做饭",
+    "stageId": "S1",
+    "primaryTheme": "everyday",
+    "themeIds": [
+      "everyday",
+      "nature"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0067/01.jpg",
+    "sourceCoverSha256": "8e9337ec369b7fb5d706f52ef18cb367211504c1f1610d28a45071bc86c2159d",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0067_cooking.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by-nc/3.0/",
+      "licenseLabel": "CC BY-NC 3.0 · 仅限非商业使用",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Clare Verbeek, Thembani Dladla, Zanele Buthelezi",
+        "插画：Kathy Arbuckle, Ingrid Schechter"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "d43af895d2237935838970694b616f68615c461ac4fdfbe037c3e185368f84f4",
+      "noncommercialOnly": true
+    },
+    "pages": [
+      {
+        "en": "I peel the potatoes.",
+        "sourceText": "I peel the potatoes.",
+        "zh": "我给土豆削皮。",
+        "tip": "指指土豆，听 potatoes；工具交给大人。",
+        "alt": "我给土豆削皮。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0067/02.jpg",
+        "sourceImageSha256": "8e9337ec369b7fb5d706f52ef18cb367211504c1f1610d28a45071bc86c2159d",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "I chop a cabbage.",
+        "sourceText": "I chop a cabbage.",
+        "zh": "我切卷心菜。",
+        "tip": "找找卷心菜，用手指演一演即可。",
+        "alt": "我切卷心菜。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0067/03.jpg",
+        "sourceImageSha256": "0470f7c859eda1acecd694e5635b8614a529358f01c3b04a8bb1e69184feb9c4",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "I grate the carrots.",
+        "sourceText": "I grate the carrots.",
+        "zh": "我把胡萝卜擦成丝。",
+        "tip": "指指胡萝卜，听 carrots，不操作刨丝器。",
+        "alt": "我把胡萝卜擦成丝。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0067/04.jpg",
+        "sourceImageSha256": "38f8f55de7d9d17e64827236178e16c025e56df17793d578b3e36aab4d502772",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "I wash the beans.",
+        "sourceText": "I wash the beans.",
+        "zh": "我洗豆子。",
+        "tip": "做一个轻轻洗菜的手势。",
+        "alt": "我洗豆子。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0067/05.jpg",
+        "sourceImageSha256": "8e84f91775e1dd3d4df581ff25e09f4e54d9b3bfed539ba6b54ce743eafc535c",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "I cut the butternut.",
+        "sourceText": "I cut the butternut.",
+        "zh": "我切奶油南瓜。",
+        "tip": "找一找南瓜的形状，不模仿用刀。",
+        "alt": "我切奶油南瓜。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0067/06.jpg",
+        "sourceImageSha256": "dcdfa4728d9ce9090b9fda3ce282a3f4cad3777347bf0e197cf3f5ed52f85eda",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "I chop the spinach.",
+        "sourceText": "I chop the spinach.",
+        "zh": "我切菠菜。",
+        "tip": "指指绿色的菜叶。",
+        "alt": "我切菠菜。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0067/07.jpg",
+        "sourceImageSha256": "6cea37377709ebb99927c5bbdeb8e1057f23df82841cb746fc5acb5c23ef9d7e",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "My mom chops the onions.",
+        "sourceText": "My mom chops the onions.",
+        "zh": "妈妈切洋葱。",
+        "tip": "听 onions，看看妈妈在做什么。",
+        "alt": "妈妈切洋葱。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0067/08.jpg",
+        "sourceImageSha256": "fb31eb75e880ccc5126d8b7b69ee1c3acbd863cdfc53a0f31d6ce6b0ca6df39f",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Onions make me cry when they are chopped.",
+        "sourceText": "Onions make me cry when they are chopped.",
+        "zh": "洋葱被切开时，会让我流眼泪。",
+        "tip": "指指眼睛，听故事结尾，不用实际切洋葱。",
+        "alt": "洋葱被切开时，会让我流眼泪。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0067/09.jpg",
+        "sourceImageSha256": "31378335676fa9d14f31c5a66588d0811718e6dd43591d710d7a57d1a18e0add",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "potatoes",
+        "meaning": "土豆",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "carrots",
+        "meaning": "胡萝卜",
+        "pageIndex": 2
+      },
+      {
+        "id": "word-2",
+        "word": "onions",
+        "meaning": "洋葱",
+        "pageIndex": 6
+      }
+    ],
+    "activity": {
+      "title": "看看今天的蔬菜",
+      "text": "和大人找一种家里有的蔬菜，看看颜色和形状。刀具、刨丝器和炉具由大人使用。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Rowan",
+      "voiceId": "en_male_adam-imitation_uranus_bigtts",
+      "locale": "en-US",
+      "accentLabel": "美式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  },
+  {
+    "id": "0074",
+    "title": "The Clever Little Bird",
+    "zh": "聪明的小小鸟",
+    "stageId": "S3",
+    "primaryTheme": "nature",
+    "themeIds": [
+      "nature",
+      "feelings"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0074/01.jpg",
+    "sourceCoverSha256": "ea464d4a81259489b0cc535b94da6250b8b6b4f2cddc609103289d1de19932da",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0074_the-clever-little-bird.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：South African Folktale",
+        "插画：Wiehan de Jager"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "26717d4caafd31fea30d26f5dc475246497ae9d221723394c871201cbb438e9b"
+    },
+    "pages": [
+      {
+        "en": "Once long ago, the birds had a meeting. They wanted a king.",
+        "sourceText": "Once long ago, the birds had a meeting. They wanted a king.",
+        "zh": "很久以前，鸟儿们开会，想选出一个国王。",
+        "tip": "指一指聚在一起的鸟儿。",
+        "alt": "很久以前，鸟儿们开会，想选出一个国王。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0074/02.jpg",
+        "sourceImageSha256": "a0c2c3d9473cd245982ede8b9fa444c8de8187c9b694c28d62158aa5c47be1da",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The Eagle wanted to be king. The other birds said, \"Your call is too sad to be king\". The Ostrich wanted to be king. The other birds said, \"You can't fly\".",
+        "sourceText": "The Eagle wanted to be king. The other birds said, \"Your call is too sad to be king\". The Ostrich wanted to be king. The other birds said, \"You can't fly\".",
+        "zh": "老鹰想当国王，大家说它的叫声太悲伤；鸵鸟想当国王，大家却说它不会飞。",
+        "tip": "找找老鹰和鸵鸟，不必记英文鸟名。",
+        "alt": "老鹰想当国王，大家说它的叫声太悲伤；鸵鸟想当国王，大家却说它不会飞。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0074/03.jpg",
+        "sourceImageSha256": "93d35e1e7e43921032873b66da21147304a37fab4684224f3f202706137754ce",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Peacock wanted to be king. The other birds said, \"You are too proud. You cannot be king\". Owl wanted to be king. The other birds said, \"You sleep during the day.You cannot be king\".",
+        "sourceText": "Peacock wanted to be king. The other birds said, \"You are too proud. You cannot be king\". Owl wanted to be king. The other birds said, \"You sleep during the day.You cannot be king\".",
+        "zh": "孔雀想当国王，大家说它太骄傲；猫头鹰想当国王，大家说它白天睡觉，不行。",
+        "tip": "找找猫头鹰，说说它什么时候睡觉。",
+        "alt": "孔雀想当国王，大家说它太骄傲；猫头鹰想当国王，大家说它白天睡觉，不行。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0074/04.jpg",
+        "sourceImageSha256": "f0c2fbdc0c38e8427174e2a683e61d358a0470fe225af783cc4a196e2b93b4f0",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "And so they did not get too far. Then one bird said, \"Who can fly the highest? That bird should be king\". All the birds flew up up up into the sky.",
+        "sourceText": "And so they did not get too far. Then one bird said, \"Who can fly the highest? That bird should be king\". All the birds flew up up up into the sky.",
+        "zh": "大家一直选不出来。一只鸟提议：“谁飞得最高，谁就当国王。”于是所有鸟都飞向高空。",
+        "tip": "手掌由低到高，演一演飞起来。",
+        "alt": "大家一直选不出来。一只鸟提议：“谁飞得最高，谁就当国王。”于是所有鸟都飞向高空。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0074/05.jpg",
+        "sourceImageSha256": "ea464d4a81259489b0cc535b94da6250b8b6b4f2cddc609103289d1de19932da",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Goose flew over the highest mountains in the world. Eagle flew into the blue above the mountains. But Vulture flew without stopping, up towards the sun.",
+        "sourceText": "Goose flew over the highest mountains in the world. Eagle flew into the blue above the mountains. But Vulture flew without stopping, up towards the sun.",
+        "zh": "大雁飞过最高的山，老鹰飞向山上的蓝天，秃鹫不停地飞，飞向太阳。",
+        "tip": "沿画面找一找最高的鸟。",
+        "alt": "大雁飞过最高的山，老鹰飞向山上的蓝天，秃鹫不停地飞，飞向太阳。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0074/06.jpg",
+        "sourceImageSha256": "ecb0829784dee90b0a7af571cdb2ad20a52b0d2b9090248a168fc9a983ef9d22",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "High above them, the birds heard Vulture cry, \"I am the highest, I am king!\"",
+        "sourceText": "High above them, the birds heard Vulture cry, \"I am the highest, I am king!\"",
+        "zh": "高高的天上传来秃鹫的叫声：“我最高，我是国王！”",
+        "tip": "听听它得意的语气。",
+        "alt": "高高的天上传来秃鹫的叫声：“我最高，我是国王！”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0074/07.jpg",
+        "sourceImageSha256": "b2005a339a2ff9731be9cb39f62a7e7ecee05bc299aeb29c331b0c1ddc9f57a9",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Vulture heard a tiny voice, \"Tink, tink, tink! I am the highest, I am king.\" It was Ncede, the Neddicky, the smallest bird of all! He had held onto the feathers of Vulture as he flew up into the sky!",
+        "sourceText": "Vulture heard a tiny voice, \"Tink, tink, tink! I am the highest, I am king.\" It was Ncede, the Neddicky, the smallest bird of all! He had held onto the feathers of Vulture as he flew up into the sky!",
+        "zh": "秃鹫却听到一个细小的声音：“叮，叮，叮！我最高，我是国王。”原来是最小的鸟恩策德，它抓着秃鹫的羽毛一起飞上了天！",
+        "tip": "仔细找藏在大鸟羽毛里的小鸟。",
+        "alt": "秃鹫却听到一个细小的声音：“叮，叮，叮！我最高，我是国王。”原来是最小的鸟恩策德，它抓着秃鹫的羽毛一起飞上了天！",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0074/08.jpg",
+        "sourceImageSha256": "f5be5e7f78ff6df0f03e579a1392171f23d29f467535c59c67fd17d261acf889",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "So Vulture flew down with the little bird still under his wing. The other birds were cross with Ncede. They waited for him, ready to pluck out all his feathers",
+        "sourceText": "So Vulture flew down with the little bird still under his wing. The other birds were cross with Ncede. They waited for him, ready to pluck out all his feathers",
+        "zh": "秃鹫飞下来，小鸟还躲在它的翅膀下面。其他鸟十分生气，等着拔掉小鸟的羽毛。",
+        "tip": "说说大家为什么生气，也说伤害别人不是解决办法。",
+        "alt": "秃鹫飞下来，小鸟还躲在它的翅膀下面。其他鸟十分生气，等着拔掉小鸟的羽毛。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0074/09.jpg",
+        "sourceImageSha256": "60a480be88148b3bd4295b5ab0e36336a168b6c1b53f29bf5aac6d5d0ce3e290",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "But the quick little bird saw how angry they were, and flew into an empty snake hole.",
+        "sourceText": "But the quick little bird saw how angry they were, and flew into an empty snake hole.",
+        "zh": "机灵的小鸟看见它们生气，赶快飞进一个空蛇洞。",
+        "tip": "指指它躲藏的地方。",
+        "alt": "机灵的小鸟看见它们生气，赶快飞进一个空蛇洞。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0074/10.jpg",
+        "sourceImageSha256": "91b541ff8307ca525c3eb8158e173cc8276206f0150a1844d9a3e75cb059fc00",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The birds told Owl to wait near the hole and catch him when he comes out. So Owl sat in front of the hole.",
+        "sourceText": "The birds told Owl to wait near the hole and catch him when he comes out. So Owl sat in front of the hole.",
+        "zh": "鸟儿们让猫头鹰守在洞口，等小鸟出来就抓住它。猫头鹰坐在洞前。",
+        "tip": "指指洞口和守候的猫头鹰。",
+        "alt": "鸟儿们让猫头鹰守在洞口，等小鸟出来就抓住它。猫头鹰坐在洞前。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0074/11.jpg",
+        "sourceImageSha256": "6f4144bdc4c235cd2974e9e56f80daad6b52c4474270002746c283cf8c3d7b77",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "But the sun was warm and soon Owl was fast asleep. The little bird peeped out, saw that Owl was asleep, and z-zip, away he went.",
+        "sourceText": "But the sun was warm and soon Owl was fast asleep. The little bird peeped out, saw that Owl was asleep, and z-zip, away he went.",
+        "zh": "阳光暖暖的，猫头鹰很快睡着了。小鸟探头一看，嗖的一下飞走了。",
+        "tip": "轻声说 asleep，做一个睡着的手势。",
+        "alt": "阳光暖暖的，猫头鹰很快睡着了。小鸟探头一看，嗖的一下飞走了。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0074/12.jpg",
+        "sourceImageSha256": "69805b24f1cc2dbf1da9c76ea79c9e5addadd63b1394c97159d2169f0a93b581",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Owl was very ashamed that he had let the little bird escape. Now he only hunts at night. In the day, he sleeps, away from the sight of the other birds.",
+        "sourceText": "Owl was very ashamed that he had let the little bird escape. Now he only hunts at night. In the day, he sleeps, away from the sight of the other birds.",
+        "zh": "猫头鹰为放走小鸟感到惭愧。从此它只在夜里捕食，白天躲开其他鸟儿睡觉。",
+        "tip": "说说这是解释动物习性的童话，不是科学原因。",
+        "alt": "猫头鹰为放走小鸟感到惭愧。从此它只在夜里捕食，白天躲开其他鸟儿睡觉。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0074/13.jpg",
+        "sourceImageSha256": "5d4c386c7fa7d97d7dd830332fa12184d177f859b4f792a4c2970eaf84d132a0",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "birds",
+        "meaning": "鸟",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "fly",
+        "meaning": "飞",
+        "pageIndex": 1
+      },
+      {
+        "id": "word-2",
+        "word": "asleep",
+        "meaning": "睡着的",
+        "pageIndex": 10
+      }
+    ],
+    "activity": {
+      "title": "谁的翅膀不一样",
+      "text": "观察书里的两只鸟，找一个不同点。大小、颜色或翅膀形状都可以。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Charlotte",
+      "voiceId": "en_female_authoritative-british_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  },
+  {
+    "id": "0092",
+    "title": "Hare and Tortoise (Again!)",
+    "zh": "龟兔再次出发",
+    "stageId": "S3",
+    "primaryTheme": "feelings",
+    "themeIds": [
+      "feelings"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0092/01.jpg",
+    "sourceCoverSha256": "f06e3b6e53f663dd4671db7355d5d5447a64dc09bc214f3a8090f20a444cd922",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0092_hare-and-tortoise-again.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Venkatramana Gowda, Divaspathy Hegde",
+        "插画：Padmanabha"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "adf84ca80149d1609a43acc037167000f9e81f48f885cc2cce889ad3da7439a1"
+    },
+    "pages": [
+      {
+        "en": "Do you remember the Great Race between the hare and the tortoise? For a long time, no one in the entire animal kingdom could talk about anything but the Great Race and its two contestants.",
+        "sourceText": "Do you remember the Great Race between the hare and the tortoise? For a long time, no one in the entire animal kingdom could talk about anything but the Great Race and its two contestants.",
+        "zh": "还记得龟兔之间那场大赛跑吗？很长一段时间，整个动物王国都在谈论比赛和两位选手。",
+        "tip": "先问一句孩子是否听过龟兔赛跑，没听过也能继续。",
+        "alt": "还记得龟兔之间那场大赛跑吗？很长一段时间，整个动物王国都在谈论比赛和两位选手。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0092/02.jpg",
+        "sourceImageSha256": "fecdf5f6796e409dec612909d5fe53f9ba2e10fd296a7045e231192662e8ac48",
+        "imageWidth": 748,
+        "imageHeight": 546
+      },
+      {
+        "en": "We all know that the rabbit was defeated because he was lazy and overconfident. We know that the tortoise won the race because he was slow and steady. The forest animals knew this too, and continued to respect both creatures equally.",
+        "sourceText": "We all know that the rabbit was defeated because he was lazy and overconfident. We know that the tortoise won the race because he was slow and steady. The forest animals knew this too, and continued to respect both creatures equally.",
+        "zh": "我们都知道，兔子因为懒散和过分自信输了，乌龟靠缓慢而坚持赢了。森林动物也知道，并且仍同样尊重它们。",
+        "tip": "可以说：输赢之后，两位伙伴都值得尊重。",
+        "alt": "我们都知道，兔子因为懒散和过分自信输了，乌龟靠缓慢而坚持赢了。森林动物也知道，并且仍同样尊重它们。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0092/03.jpg",
+        "sourceImageSha256": "5ea525dc0867b88163ea829ef0303c00a3f0dc4e6442c0274b8eb64a994aa06b",
+        "imageWidth": 748,
+        "imageHeight": 546
+      },
+      {
+        "en": "Even the two competitors remained friends. The tortoise did not assume airs because he had won, and the hare, realising he had been defeated fair and square, bore the tortoise no grudge.",
+        "sourceText": "Even the two competitors remained friends. The tortoise did not assume airs because he had won, and the hare, realising he had been defeated fair and square, bore the tortoise no grudge.",
+        "zh": "两位对手仍是朋友。乌龟没有因为获胜就摆架子，兔子也知道自己输得公平，没有怨恨乌龟。",
+        "tip": "指指两个朋友，听 friends。",
+        "alt": "两位对手仍是朋友。乌龟没有因为获胜就摆架子，兔子也知道自己输得公平，没有怨恨乌龟。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0092/04.jpg",
+        "sourceImageSha256": "4ee46de459d5bfd02c3d7e2d848a3e0a40a7535ebe1c22f2c3a909c5e7375ed6",
+        "imageWidth": 748,
+        "imageHeight": 546
+      },
+      {
+        "en": "Many months passed. The king of the jungle where the hare and the tortoise lived had some important matters to discuss with the king of the neighbouring jungle. But the first king could not leave his jungle just then. He decided, instead, to send the hare and tortoise to the neighbouring king, as his representatives.",
+        "sourceText": "Many months passed. The king of the jungle where the hare and the tortoise lived had some important matters to discuss with the king of the neighbouring jungle. But the first king could not leave his jungle just then. He decided, instead, to send the hare and tortoise to the neighbouring king, as his representatives.",
+        "zh": "几个月后，森林国王有重要事情，要和邻国国王商量，可自己暂时走不开，于是派兔子和乌龟去当代表。",
+        "tip": "指指国王，先听清这次的任务。",
+        "alt": "几个月后，森林国王有重要事情，要和邻国国王商量，可自己暂时走不开，于是派兔子和乌龟去当代表。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0092/05.jpg",
+        "sourceImageSha256": "0e48c4a4c822864e3bcc547a782b5f23da238599d3c031862151db5ab064ffa4",
+        "imageWidth": 748,
+        "imageHeight": 546
+      },
+      {
+        "en": "\"At least one of you must go to the neighbouring kingdom,\" ordered the king, when the hare and the tortoise had presented themselves. \"I want you to discuss certain important matters with the king there, and come back to me with his thoughts on those matters.\"",
+        "sourceText": "\"At least one of you must go to the neighbouring kingdom,\" ordered the king, when the hare and the tortoise had presented themselves. \"I want you to discuss certain important matters with the king there, and come back to me with his thoughts on those matters.\"",
+        "zh": "国王吩咐它们：“至少一位必须去邻国，谈谈这些重要事情，再把对方的想法带回来。”",
+        "tip": "用简单中文说：它们要帮忙送消息。",
+        "alt": "国王吩咐它们：“至少一位必须去邻国，谈谈这些重要事情，再把对方的想法带回来。”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0092/06.jpg",
+        "sourceImageSha256": "cc392479da8bca28a41e07efcf88fc80d4fa5d1a648c8555e962711a614f5e9c",
+        "imageWidth": 748,
+        "imageHeight": 546
+      },
+      {
+        "en": "\"Now go!\" he said, as he dismissed them. \"And mind, you only have a day to complete the task.\"",
+        "sourceText": "\"Now go!\" he said, as he dismissed them. \"And mind, you only have a day to complete the task.\"",
+        "zh": "国王让它们出发，并提醒：“你们只有一天来完成任务。”",
+        "tip": "用一根手指表示一天。",
+        "alt": "国王让它们出发，并提醒：“你们只有一天来完成任务。”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0092/07.jpg",
+        "sourceImageSha256": "3e889c0638b6ec324f66e36084b057e83b235bc057d8c2f338e5822764a738e5",
+        "imageWidth": 748,
+        "imageHeight": 546
+      },
+      {
+        "en": "The road to the neighbouring kingdom was not smooth or easy. It was rocky and full of thorns. There were also two rivers to cross on the way.",
+        "sourceText": "The road to the neighbouring kingdom was not smooth or easy. It was rocky and full of thorns. There were also two rivers to cross on the way.",
+        "zh": "去邻国的路崎岖多石，还有荆棘，途中还要过两条河。",
+        "tip": "找一找路上的石头或河流。",
+        "alt": "去邻国的路崎岖多石，还有荆棘，途中还要过两条河。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0092/08.jpg",
+        "sourceImageSha256": "d80091c97f85210424f0779bace0c6cb19b0506e4e6d1fb5177b337cb3568a7f",
+        "imageWidth": 748,
+        "imageHeight": 546
+      },
+      {
+        "en": "After some thought, both the hare and the tortoise realised that neither of them could complete the task alone. They had to travel together.",
+        "sourceText": "After some thought, both the hare and the tortoise realised that neither of them could complete the task alone. They had to travel together.",
+        "zh": "想了想，龟兔都明白：谁也没法独自完成任务，必须一起走。",
+        "tip": "慢慢读 together，手掌靠在一起。",
+        "alt": "想了想，龟兔都明白：谁也没法独自完成任务，必须一起走。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0092/09.jpg",
+        "sourceImageSha256": "e3d274f1f017c3229ef7fda6dcd62b630d92aee8ffb8d99b16bae84d07d692a9",
+        "imageWidth": 748,
+        "imageHeight": 546
+      },
+      {
+        "en": "The plan was for the hare to carry the tortoise over the thorny parts of the route, and for the tortoise to carry the hare across the two rivers.",
+        "sourceText": "The plan was for the hare to carry the tortoise over the thorny parts of the route, and for the tortoise to carry the hare across the two rivers.",
+        "zh": "它们的计划是：兔子背乌龟走过荆棘，乌龟背兔子游过两条河。",
+        "tip": "指一指，看看谁擅长走路、谁擅长游水。",
+        "alt": "它们的计划是：兔子背乌龟走过荆棘，乌龟背兔子游过两条河。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0092/10.jpg",
+        "sourceImageSha256": "71a24a90020d077b6caef614f96a903cbb0cb19a37b2db29e47ad2737ebd0246",
+        "imageWidth": 748,
+        "imageHeight": 546
+      },
+      {
+        "en": "The next day, they collected the various messages from their king and were ready to go. The hare made short work of the thorny parts of the route with his giant loping strides, while the tortoise held on for dear life.",
+        "sourceText": "The next day, they collected the various messages from their king and were ready to go. The hare made short work of the thorny parts of the route with his giant loping strides, while the tortoise held on for dear life.",
+        "zh": "第二天，它们拿好国王的消息出发。兔子大步跨过荆棘，乌龟紧紧抓住它。",
+        "tip": "用两根手指演一演兔子的大步。",
+        "alt": "第二天，它们拿好国王的消息出发。兔子大步跨过荆棘，乌龟紧紧抓住它。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0092/11.jpg",
+        "sourceImageSha256": "1d230e5ba92d93f9855160ff78f543cb42f05d9d1ec16655c47c887fd7dc4d27",
+        "imageWidth": 748,
+        "imageHeight": 546
+      },
+      {
+        "en": "When they came to a river, they switched places, and the hare clambered onto the tortoise's back.",
+        "sourceText": "When they came to a river, they switched places, and the hare clambered onto the tortoise's back.",
+        "zh": "到了河边，它们交换位置，兔子爬到乌龟背上。",
+        "tip": "看看这次轮到谁来帮忙。",
+        "alt": "到了河边，它们交换位置，兔子爬到乌龟背上。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0092/12.jpg",
+        "sourceImageSha256": "4f6012e053b0375aa3c3f7bf4d4521cc3653668a33102e4ff69cc3219c64d0d4",
+        "imageWidth": 748,
+        "imageHeight": 546
+      },
+      {
+        "en": "The tortoise swam across the river gracefully. Once both rivers had been crossed, it did not take them long to arrive at the neighbouring kingdom.",
+        "sourceText": "The tortoise swam across the river gracefully. Once both rivers had been crossed, it did not take them long to arrive at the neighbouring kingdom.",
+        "zh": "乌龟从容地游过河。过完两条河后，它们很快就到了邻国。",
+        "tip": "沿图里的河流轻轻指过去。",
+        "alt": "乌龟从容地游过河。过完两条河后，它们很快就到了邻国。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0092/13.jpg",
+        "sourceImageSha256": "3f1f0b337502af1f0534e33078d0fd0659f9a46eb12c3f5ee8f2a3ed69a99d37",
+        "imageWidth": 748,
+        "imageHeight": 546
+      },
+      {
+        "en": "After long discussions with the neighbouring king on all the matters raised by their own king, the hare and the tortoise were ready to leave.",
+        "sourceText": "After long discussions with the neighbouring king on all the matters raised by their own king, the hare and the tortoise were ready to leave.",
+        "zh": "它们和邻国国王认真商量了所有事情，准备回家。",
+        "tip": "这页只听故事即可。",
+        "alt": "它们和邻国国王认真商量了所有事情，准备回家。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0092/14.jpg",
+        "sourceImageSha256": "b7376e631e67fbb1e0940fb5ac42a71555efa11f6f464f01fcd26902a25ec22f",
+        "imageWidth": 748,
+        "imageHeight": 546
+      },
+      {
+        "en": "The journey home was even smoother than the outward journey, since both the hare and the tortoise now knew exactly what to do. The two old rivals had worked so well that they reached the king well ahead of the deadline he had set!",
+        "sourceText": "The journey home was even smoother than the outward journey, since both the hare and the tortoise now knew exactly what to do. The two old rivals had worked so well that they reached the king well ahead of the deadline he had set!",
+        "zh": "回程更顺利，因为它们已经知道该怎么合作。两位昔日对手配合得很好，比国王要求的时间早了许多！",
+        "tip": "聊一个家人互相帮助的小例子。",
+        "alt": "回程更顺利，因为它们已经知道该怎么合作。两位昔日对手配合得很好，比国王要求的时间早了许多！",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0092/15.jpg",
+        "sourceImageSha256": "ed1ed50175e4caa27693a785fd0e0728ea7cc334ce9907b561f904bd57527b21",
+        "imageWidth": 748,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "friends",
+        "meaning": "朋友",
+        "pageIndex": 2
+      },
+      {
+        "id": "word-1",
+        "word": "together",
+        "meaning": "一起",
+        "pageIndex": 7
+      },
+      {
+        "id": "word-2",
+        "word": "river",
+        "meaning": "河流",
+        "pageIndex": 10
+      }
+    ],
+    "activity": {
+      "title": "一起运送一本书",
+      "text": "两个人各扶住一本轻薄书的一边，慢慢送到桌上。说说一起做事情的感觉。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Knightley",
+      "voiceId": "en_male_knightley_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  }
+]

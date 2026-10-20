@@ -1,0 +1,979 @@
+[
+  {
+    "id": "0079",
+    "title": "Jojo And Cow",
+    "zh": "乔乔和奶牛",
+    "stageId": "S1",
+    "primaryTheme": "nature",
+    "themeIds": [
+      "nature",
+      "everyday"
+    ],
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0079/01.jpg",
+    "sourceCoverSha256": "c36efbef8e9d06a7e6d138506ae7f26b2e6d721ecd32f2e74cb01d961842652d",
+    "audioType": "generated",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0079_jojo-and-cow.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Isiira Patrick",
+        "插画：Rob Owen, Catherine Groenewald"
+      ],
+      "editorialNote": "保留原画与逐页 sourceText。此前英文做过语法、标点和措辞校订；本次恢复了删改含义的原文，其他语法与标点校订仍保留。中文辅助、陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "4c57ef1562714462ed1944d1758a357ccc9f1a70d135422b2ca87d11187a588c"
+    },
+    "pages": [
+      {
+        "en": "Jojo is a young boy.",
+        "sourceText": "Jojo is a young boy.",
+        "zh": "乔乔是个小男孩。",
+        "tip": "先认识乔乔。",
+        "alt": "乔乔是个小男孩。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0079/02.jpg",
+        "sourceImageSha256": "d728be2b0f115566688131470ce24e0c29ef3230215f94b30405cd705f3220b4",
+        "imageWidth": 546,
+        "imageHeight": 546,
+        "audioFile": "audio/01-c6a6cf29a3f46101.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0079/audio/01-c6a6cf29a3f46101.mp3",
+        "sourceAudioSha256": "c6a6cf29a3f461015d17a8d37c5c47c63690728c033b08d3c4360b7b2e5262fb",
+        "sourceAudioTextSha256": "807b6073fd2108cc10715869f685a6c08e1c3705c359837fc71b267145e8bc56",
+        "audioDurationSeconds": 2.136
+      },
+      {
+        "en": "Jojo lives with his mother and a milk cow.",
+        "sourceText": "Jojo living with his mother and a milk cow.",
+        "zh": "乔乔和妈妈、一头奶牛生活在一起。",
+        "tip": "找找妈妈和奶牛。",
+        "alt": "乔乔和妈妈、一头奶牛生活在一起。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0079/03.jpg",
+        "sourceImageSha256": "42246ef87428ffd8dcb37ffc31d09549f4f65d91a798f4b4b828d7d418609737",
+        "imageWidth": 546,
+        "imageHeight": 546,
+        "audioFile": "audio/02-3438923127291ab7.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0079/audio/02-3438923127291ab7.mp3",
+        "sourceAudioSha256": "3438923127291ab76433ec520383606d361bb41175d0ac21c8732aefd3114c8c",
+        "sourceAudioTextSha256": "9f4dc8806dc666ede8710cb560010fff99e14be0c007202bccfcdc634e062c33",
+        "audioDurationSeconds": 3.216
+      },
+      {
+        "en": "Jojo loves the cow.",
+        "sourceText": "Jojo loves the cow.",
+        "zh": "乔乔爱这头奶牛。",
+        "tip": "看看乔乔怎样靠近奶牛。",
+        "alt": "乔乔爱这头奶牛。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0079/04.jpg",
+        "sourceImageSha256": "808eed78ca20696418204f321221e82e804a43273ac309be781bb3951478744e",
+        "imageWidth": 546,
+        "imageHeight": 546,
+        "audioFile": "audio/03-4d5c6799c9444032.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0079/audio/03-4d5c6799c9444032.mp3",
+        "sourceAudioSha256": "4d5c6799c9444032f637e15aae296938bb76195ec86f5887bcf7da3f3131dfe9",
+        "sourceAudioTextSha256": "9c6dd00511fff56f07a5d1198ecee38478b2ec68f38e433dc7b7b0c9d6e1870a",
+        "audioDurationSeconds": 2.376
+      },
+      {
+        "en": "Every morning Jojo's mother milks the cow.",
+        "sourceText": "Every morning Jojo's mother milks the cow.",
+        "zh": "每天早上，乔乔的妈妈给奶牛挤奶。",
+        "tip": "观察妈妈在做什么。",
+        "alt": "每天早上，乔乔的妈妈给奶牛挤奶。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0079/05.jpg",
+        "sourceImageSha256": "eeda08ff19119104545fe02c950e7ee7c7a7fe05af10255806a52a1dc8f80dda",
+        "imageWidth": 546,
+        "imageHeight": 546,
+        "audioFile": "audio/04-f869f1d0eb34f891.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0079/audio/04-f869f1d0eb34f891.mp3",
+        "sourceAudioSha256": "f869f1d0eb34f891bcd841b22e91f1b97c458c6087b4f6530089907721c62029",
+        "sourceAudioTextSha256": "d0dfa16d43c9941a46f6a59fb40f313ff5721e50ce1923af688ca29253b9f875",
+        "audioDurationSeconds": 3.408
+      },
+      {
+        "en": "Jojo takes the milk.",
+        "sourceText": "Jojo takes the milk.",
+        "zh": "乔乔喝牛奶。",
+        "tip": "指指乔乔手里的牛奶，听原文 takes the milk。",
+        "alt": "乔乔喝牛奶。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0079/06.jpg",
+        "sourceImageSha256": "8e832410cac5a45be9fd7547afa9fd712d4f329822be142fa3985ca48dc29dd1",
+        "imageWidth": 546,
+        "imageHeight": 546,
+        "audioFile": "audio/05-aea5788b55104efd.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0079/audio/05-aea5788b55104efd.mp3",
+        "sourceAudioSha256": "aea5788b55104efd85ada19e865e4ac0bd019b4866efdff267fd2e720bf99054",
+        "sourceAudioTextSha256": "4d74127e7aebd329123df8c15537657d2d74e716a3d11411e27593b2ef3db23c",
+        "audioDurationSeconds": 2.16
+      },
+      {
+        "en": "Jojo takes the cow to graze.",
+        "sourceText": "Jojo takes the cow to graze",
+        "zh": "乔乔带奶牛去吃草。",
+        "tip": "看看奶牛吃什么。",
+        "alt": "乔乔带奶牛去吃草。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0079/07.jpg",
+        "sourceImageSha256": "04a3945e168f70e0fe12a13625383c1fd5db8436e2c8ba4fcb90d1d8a2161d0c",
+        "imageWidth": 546,
+        "imageHeight": 546,
+        "audioFile": "audio/06-47f02f23db0702e4.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0079/audio/06-47f02f23db0702e4.mp3",
+        "sourceAudioSha256": "47f02f23db0702e41e1f4efe3c1553b0bc04aba60acc09bd999babfab8d9509e",
+        "sourceAudioTextSha256": "0eafde10878b8da0f41ae5844ea115924ace89b7cf94616f593fd7fcc64f8bd8",
+        "audioDurationSeconds": 2.808
+      },
+      {
+        "en": "Jojo gives the cow water.",
+        "sourceText": "Jojo gives the cow the water.",
+        "zh": "乔乔给奶牛喝水。",
+        "tip": "找找喝水的地方。",
+        "alt": "乔乔给奶牛喝水。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0079/08.jpg",
+        "sourceImageSha256": "cae6e951612d3112a220c9937217832867f2e83847afbb88b2168d2173e67649",
+        "imageWidth": 546,
+        "imageHeight": 546,
+        "audioFile": "audio/07-7c0a48a7a40e37c9.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0079/audio/07-7c0a48a7a40e37c9.mp3",
+        "sourceAudioSha256": "7c0a48a7a40e37c90b8e377cf4fc2b623dd7bcdea41fafe299ac8742ef262af5",
+        "sourceAudioTextSha256": "1a9214f2bd609e2b0ba46867e340798dab9fcb56f81f5b27f465361817acf483",
+        "audioDurationSeconds": 2.568
+      },
+      {
+        "en": "Jojo's mother cooks food.",
+        "sourceText": "Jojo's mother cooks food.",
+        "zh": "乔乔的妈妈做饭。",
+        "tip": "看看妈妈做了什么食物。",
+        "alt": "乔乔的妈妈做饭。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0079/09.jpg",
+        "sourceImageSha256": "421aa818e7280e32706bf37141c2cefb85cf22bb300617bc1cc9a6631d0fa60c",
+        "imageWidth": 531,
+        "imageHeight": 546,
+        "audioFile": "audio/08-c3352f33c10b4f4f.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0079/audio/08-c3352f33c10b4f4f.mp3",
+        "sourceAudioSha256": "c3352f33c10b4f4f207eb1794242ea35535aea9da112e2e5d4d92d1a503cfc79",
+        "sourceAudioTextSha256": "e10a8121aa555348cd6ede4942040e188f4acd43383cd81d5d1e08d93c0b8544",
+        "audioDurationSeconds": 2.568
+      },
+      {
+        "en": "Jojo enjoys his food.",
+        "sourceText": "Jojo enjoys food",
+        "zh": "乔乔喜欢吃饭。",
+        "tip": "聊聊今天吃了什么。",
+        "alt": "乔乔喜欢吃饭。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0079/10.jpg",
+        "sourceImageSha256": "c14c4ac3d5209b27d4ca1bdada0873863a9bedb11482d8593b9c4d0c89dbfad5",
+        "imageWidth": 546,
+        "imageHeight": 546,
+        "audioFile": "audio/09-2c2418d016bfbefc.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0079/audio/09-2c2418d016bfbefc.mp3",
+        "sourceAudioSha256": "2c2418d016bfbefc2cf3e0299525cf9927106c96936e5a4007a7795cd10dc928",
+        "sourceAudioTextSha256": "4afd5abd7e51b51bde5e568aca20826a37c0506cec9321e4ef6a8216a79e4f03",
+        "audioDurationSeconds": 2.544
+      },
+      {
+        "en": "Jojo plays ball with his friend.",
+        "sourceText": "Jojo plays the ball with his friend.",
+        "zh": "乔乔和朋友一起玩球。",
+        "tip": "找到球和乔乔的朋友。",
+        "alt": "乔乔和朋友一起玩球。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0079/11.jpg",
+        "sourceImageSha256": "391c5d7f88735389742b19f3b42ecb8fd439eaaecd8cc3037c9df7bd8bbf7178",
+        "imageWidth": 546,
+        "imageHeight": 546,
+        "audioFile": "audio/10-8db66e650df1a2db.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0079/audio/10-8db66e650df1a2db.mp3",
+        "sourceAudioSha256": "8db66e650df1a2db72a8ff4ef7367ed95f0b2725cd1c869987c15c81f7a8ebb7",
+        "sourceAudioTextSha256": "ac0b4c7288a6ae8c15777ab09b478f997cee3fac6d3ed8865d366eb03015b339",
+        "audioDurationSeconds": 3.0
+      },
+      {
+        "en": "Jojo reads his book.",
+        "sourceText": "Jojo reads his book.",
+        "zh": "乔乔读自己的书。",
+        "tip": "像乔乔一样，一起翻开书。",
+        "alt": "乔乔读自己的书。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0079/12.jpg",
+        "sourceImageSha256": "c7b2bce0fb7086446618a833d549cf126ea5f036e252cbd36169517aa83502da",
+        "imageWidth": 546,
+        "imageHeight": 546,
+        "audioFile": "audio/11-a221cfa47d8b618e.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0079/audio/11-a221cfa47d8b618e.mp3",
+        "sourceAudioSha256": "a221cfa47d8b618edfa22a2aaa3c1c654d9fdcc70c8a0d55533b2e8614579bba",
+        "sourceAudioTextSha256": "b33d460dd56f8206aa47872039704df79127d8f90441f3db8cd6abc8d82c0295",
+        "audioDurationSeconds": 2.136
+      },
+      {
+        "en": "Jojo says goodbye to the cow and goes to bed.",
+        "sourceText": "Jojo says bye to the cow and go to bed to sleep.",
+        "zh": "乔乔和奶牛道别，然后上床睡觉。",
+        "tip": "可以和画面里的奶牛挥挥手。",
+        "alt": "乔乔和奶牛道别，然后上床睡觉。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0079/13.jpg",
+        "sourceImageSha256": "04a3945e168f70e0fe12a13625383c1fd5db8436e2c8ba4fcb90d1d8a2161d0c",
+        "imageWidth": 546,
+        "imageHeight": 546,
+        "audioFile": "audio/12-8055d2c15f967cc0.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0079/audio/12-8055d2c15f967cc0.mp3",
+        "sourceAudioSha256": "8055d2c15f967cc0a4e71dbf6116997dc4f673f0ce6df383e69801d9778f5885",
+        "sourceAudioTextSha256": "ccdb57a07c6375a7f5838f6f5a376a74ff47747a09a3acb1cbd5cc30e6803387",
+        "audioDurationSeconds": 3.408
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "cow",
+        "meaning": "奶牛",
+        "pageIndex": 1
+      },
+      {
+        "id": "word-1",
+        "word": "milk",
+        "meaning": "牛奶",
+        "pageIndex": 4
+      },
+      {
+        "id": "word-2",
+        "word": "book",
+        "meaning": "书",
+        "pageIndex": 10
+      }
+    ],
+    "activity": {
+      "title": "说晚安",
+      "text": "睡前和玩偶或家人道晚安，再一起选一本喜欢的书。",
+      "hint": "跟着孩子的兴趣来，不要求跟读、测验或打卡。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Charlie 2.0 美式英语（轻柔慢速）",
+      "voiceId": "ICL_uranus_en_female_charlie_tob",
+      "voiceType": "preset",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "approvedAuditionRunId": 39233953938,
+      "approvedVariant": "english-gentle",
+      "adaptation": "AI narration produced by Jigu from the attributed English text."
+    }
+  },
+  {
+    "id": "0268",
+    "title": "A man who built a house",
+    "zh": "建一座自己的房子",
+    "stageId": "S3",
+    "primaryTheme": "everyday",
+    "themeIds": [
+      "everyday",
+      "feelings"
+    ],
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0268/01.jpg",
+    "sourceCoverSha256": "86896486321e13a720915b3df3537a3d4ddc021f3727b89819423306b442fb30",
+    "audioType": "generated",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0268_a-man-who-built-a-house.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Remedial class (Kabubbu community Library)",
+        "插画：Rob Owen, Marleen Visser, Wiehan de Jager, Alex Zablon, Jano Strydom, Kathy Arbuckle, Magriet Brink"
+      ],
+      "editorialNote": "保留原画与逐页 sourceText。此前英文做过语法、标点和措辞校订；本次恢复了删改含义的原文，其他语法与标点校订仍保留。中文辅助、陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "29506565a004eb9acb8abcfd2815872877beff37ef28472809181ee40a080b44"
+    },
+    "pages": [
+      {
+        "en": "There was a great builder in Kabubbu village.",
+        "sourceText": "There was a great builder in Kabubbu village.",
+        "zh": "卡布布村有一位很棒的建筑工人。",
+        "tip": "看看建筑工人在做什么。",
+        "alt": "卡布布村有一位很棒的建筑工人。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0268/02.jpg",
+        "sourceImageSha256": "7069ea5ffc4a7670b5dfdc336e8431273e85925d910725056632cf44db08567f",
+        "imageWidth": 594,
+        "imageHeight": 546,
+        "audioFile": "audio/01-2c616402e18e4d1d.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0268/audio/01-2c616402e18e4d1d.mp3",
+        "sourceAudioSha256": "2c616402e18e4d1d332156efc0845bd71f43157d8bcac300de16521f2710ee6a",
+        "sourceAudioTextSha256": "6cf26b49be05186f16f9bfed26a0e908ada8981bdd0276f630615bc496f51bb9",
+        "audioDurationSeconds": 3.216
+      },
+      {
+        "en": "He built many houses in the village.",
+        "sourceText": "He built many houses in the village.",
+        "zh": "他在村里建了许多房子。",
+        "tip": "找找他建的房子。",
+        "alt": "他在村里建了许多房子。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0268/03.jpg",
+        "sourceImageSha256": "e831ea4b4e12a508392a1c33a26c0c2c1d764df2f4fe2041359cd59a2de2c0ba",
+        "imageWidth": 480,
+        "imageHeight": 480,
+        "audioFile": "audio/02-9294090f8b5c2434.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0268/audio/02-9294090f8b5c2434.mp3",
+        "sourceAudioSha256": "9294090f8b5c24344fee2a05a732f68b99e733f37bdeb2670ba0f001d6b81e72",
+        "sourceAudioTextSha256": "037194491164ebe0e2abb68d88bb22f69b65ecf1a7e227c1356a0a738a5010c0",
+        "audioDurationSeconds": 2.784
+      },
+      {
+        "en": "But he slept in a shabby hut.",
+        "sourceText": "But he was sleeping in a bad hut.",
+        "zh": "但他自己却睡在一间破旧的小屋里。",
+        "tip": "观察他住的小屋。",
+        "alt": "但他自己却睡在一间破旧的小屋里。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0268/04.jpg",
+        "sourceImageSha256": "7e944893ff0662c2fbf4e508e9ffa33ebcc525e74e171a566739bf394cfbaffc",
+        "imageWidth": 427,
+        "imageHeight": 434,
+        "audioFile": "audio/03-52a39edd4168f511.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0268/audio/03-52a39edd4168f511.mp3",
+        "sourceAudioSha256": "52a39edd4168f511c4f19c80cbcdf40920225a97c3b7b03a11f3fd1ad13bf814",
+        "sourceAudioTextSha256": "029170a7c1db1e112d1721bb2523d450b43e794936949309386fb118dd99e352",
+        "audioDurationSeconds": 2.4
+      },
+      {
+        "en": "The village people talked about him every day.",
+        "sourceText": "The village people talked about him every day.",
+        "zh": "村民们每天都谈论他。",
+        "tip": "看看村民们的表情。",
+        "alt": "村民们每天都谈论他。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0268/05.jpg",
+        "sourceImageSha256": "8bad9c3cbd574dc7cc6795c90e4c888e895adb3134aefefeb9eaaead323ddb88",
+        "imageWidth": 546,
+        "imageHeight": 546,
+        "audioFile": "audio/04-db887d725fd0859f.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0268/audio/04-db887d725fd0859f.mp3",
+        "sourceAudioSha256": "db887d725fd0859f8012e123269a79345f542a1d7b4244f2331bad06b7513851",
+        "sourceAudioTextSha256": "7a91c52240abbfbc82b3664a38cd392a47f1d0c88fe30d4b3f2c7726b2ee4c1d",
+        "audioDurationSeconds": 3.648
+      },
+      {
+        "en": "One day he got some money.",
+        "sourceText": "One day he got some money.",
+        "zh": "有一天，他得到了一些钱。",
+        "tip": "猜猜他接下来想做什么。",
+        "alt": "有一天，他得到了一些钱。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0268/06.jpg",
+        "sourceImageSha256": "7010a83c98431271f571c1f40760041c61c6b1f4f16a0006a72236e7fccfb3ab",
+        "imageWidth": 546,
+        "imageHeight": 546,
+        "audioFile": "audio/05-81eb878211654b5d.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0268/audio/05-81eb878211654b5d.mp3",
+        "sourceAudioSha256": "81eb878211654b5d03d1d3b02798962ec62786f64f5f8295ba1140152f5920b6",
+        "sourceAudioTextSha256": "481e97927ab7d71ecc4c20cf94ef27f37a838dc550f0f1305ac6125a1f84487e",
+        "audioDurationSeconds": 2.136
+      },
+      {
+        "en": "He bought cement, sand, iron sheets, bricks and nails.",
+        "sourceText": "He bought cement, sand, iron sheets, bricks and nails.",
+        "zh": "他买了水泥、沙子、铁皮、砖块和钉子。",
+        "tip": "找找画面里的建筑材料。",
+        "alt": "他买了水泥、沙子、铁皮、砖块和钉子。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0268/07.jpg",
+        "sourceImageSha256": "de8ea3256ca5af313bd3896d11e838d6621755b0830515781030e198ab40394a",
+        "imageWidth": 416,
+        "imageHeight": 480,
+        "audioFile": "audio/06-6226759599a2e538.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0268/audio/06-6226759599a2e538.mp3",
+        "sourceAudioSha256": "6226759599a2e53889fe99f2afb96f325f212ae2c439290028a1f425b42830fe",
+        "sourceAudioTextSha256": "af791d418ade733762ade37679c1fc6453dc3729d6c4e486660a65c055d74f78",
+        "audioDurationSeconds": 4.896
+      },
+      {
+        "en": "He built a beautiful flat house with a fence.",
+        "sourceText": "He built a beautiful flat house with a fence.",
+        "zh": "他建了一座带围栏的漂亮住宅。",
+        "tip": "指指房子的围栏；不必逐词解释 flat house。",
+        "alt": "他建了一座带围栏的漂亮住宅。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0268/08.jpg",
+        "sourceImageSha256": "c39c259bd4e60070378ca5411e300c0813e47c87b5d7a4abc6f4f28c73d3a876",
+        "imageWidth": 403,
+        "imageHeight": 480,
+        "audioFile": "audio/07-a6a568d7af87a2f8.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0268/audio/07-a6a568d7af87a2f8.mp3",
+        "sourceAudioSha256": "a6a568d7af87a2f834e85d63ec5bda9bab93c68cab97efbe33ccabe14c066bf9",
+        "sourceAudioTextSha256": "9c7a9b9f68eaf56d9f4328a4a92d7bf84c57869a4690a66d62a217ee57e19c85",
+        "audioDurationSeconds": 2.976
+      },
+      {
+        "en": "His friends rejoiced with him.",
+        "sourceText": "His friends rejoiced with him.",
+        "zh": "朋友们都替他高兴。",
+        "tip": "观察朋友们怎样庆祝。",
+        "alt": "朋友们都替他高兴。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0268/09.jpg",
+        "sourceImageSha256": "3e6a03d22df68ab8954a824e7c4d8efcf87b607464b730b48c34e668f7901f44",
+        "imageWidth": 527,
+        "imageHeight": 546,
+        "audioFile": "audio/08-043eaefed7ecaf2b.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0268/audio/08-043eaefed7ecaf2b.mp3",
+        "sourceAudioSha256": "043eaefed7ecaf2b86994652b98b18e52fde8a719e3ea87559b2f0cfc5a9f943",
+        "sourceAudioTextSha256": "a25f9f1053f594894c62e04f03df619e786f5acd9017d30c12761db10dc49f6e",
+        "audioDurationSeconds": 2.568
+      },
+      {
+        "en": "He prepared a party and invited his friends. They ate, drank and danced.",
+        "sourceText": "He prepared for a party,invited his friends, they ate ,drank and danced.",
+        "zh": "他准备了一场聚会，邀请朋友们来吃喝、跳舞。",
+        "tip": "找到聚会中吃饭或跳舞的人。",
+        "alt": "他准备了一场聚会，邀请朋友们来吃喝、跳舞。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0268/10.jpg",
+        "sourceImageSha256": "764c36a391fce996c093854c76a01a67faf00d8f73e1682b7c5f4169d6f42f28",
+        "imageWidth": 546,
+        "imageHeight": 546,
+        "audioFile": "audio/09-d5f45968357abb1d.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0268/audio/09-d5f45968357abb1d.mp3",
+        "sourceAudioSha256": "d5f45968357abb1d2a11a16b8290e1faf7f7b914d8c82f5904074fc6047b640f",
+        "sourceAudioTextSha256": "121e909f70c99389292ff8e214f788e48fa74deb3567b4f2acf269f901f766e3",
+        "audioDurationSeconds": 5.496
+      },
+      {
+        "en": "He got many presents.",
+        "sourceText": "He got many presents.",
+        "zh": "他收到了许多礼物。",
+        "tip": "看看有哪些礼物。",
+        "alt": "他收到了许多礼物。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0268/11.jpg",
+        "sourceImageSha256": "7d6175f9a18e7ce1e8957f109c4b4b6934eae4600bbc6b7a1cf907a8fa199c07",
+        "imageWidth": 504,
+        "imageHeight": 546,
+        "audioFile": "audio/10-77830ad32fc6d4bd.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0268/audio/10-77830ad32fc6d4bd.mp3",
+        "sourceAudioSha256": "77830ad32fc6d4bdc12957181f06de54a156e35974bb9f8264bbc2d25ea7525d",
+        "sourceAudioTextSha256": "43811865e4f42840bd6ea29f5ef6d95dce299e7e017846291e2bb9adcb11c745",
+        "audioDurationSeconds": 2.352
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "houses",
+        "meaning": "房子",
+        "pageIndex": 1
+      },
+      {
+        "id": "word-1",
+        "word": "friends",
+        "meaning": "朋友们",
+        "pageIndex": 7
+      },
+      {
+        "id": "word-2",
+        "word": "presents",
+        "meaning": "礼物",
+        "pageIndex": 9
+      }
+    ],
+    "activity": {
+      "title": "搭一间小屋",
+      "text": "用积木或纸盒搭一间想象中的房子，介绍门和窗，邀请玩偶来做客。",
+      "hint": "跟着孩子的兴趣来，不要求跟读、测验或打卡。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Charlie 2.0 美式英语（轻柔慢速）",
+      "voiceId": "ICL_uranus_en_female_charlie_tob",
+      "voiceType": "preset",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "approvedAuditionRunId": 39233953938,
+      "approvedVariant": "english-gentle",
+      "adaptation": "AI narration produced by Jigu from the attributed English text."
+    }
+  },
+  {
+    "id": "0147",
+    "title": "My family and I",
+    "zh": "我的动物大家庭",
+    "stageId": "S2",
+    "primaryTheme": "nature",
+    "themeIds": [
+      "nature",
+      "feelings",
+      "discovery"
+    ],
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0147/01.jpg",
+    "sourceCoverSha256": "ffee94b4cee740ecc7502d20b9f541bf0acf5644119fa4e7eb0d62b50a50a825",
+    "audioType": "generated",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0147_my-family-and-i.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Waako Joshua, Cornelius Gulere",
+        "插画：Wiehan de Jager"
+      ],
+      "editorialNote": "保留原画与逐页 sourceText。此前英文做过语法、标点和措辞校订；本次恢复了删改含义的原文，其他语法与标点校订仍保留。中文辅助、陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "eb70cf4eb2d4acf9545d539ae49bc0ee5b435cc6503156feddc3d2985580a2f8"
+    },
+    "pages": [
+      {
+        "en": "My dinosaur and I look at my birds in the sky.",
+        "sourceText": "My dinosaur and I look at my birds in the sky.",
+        "zh": "我和我的恐龙看着天空中的鸟儿。",
+        "tip": "这是一个想象中的动物家庭，找找恐龙和鸟。",
+        "alt": "我和我的恐龙看着天空中的鸟儿。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0147/02.jpg",
+        "sourceImageSha256": "c233be57d05354347748df6105d822a9dbfb650d7b45ada0477dd76f7eb6dfe0",
+        "imageWidth": 546,
+        "imageHeight": 546,
+        "audioFile": "audio/01-e311ae96eb1cbfe9.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0147/audio/01-e311ae96eb1cbfe9.mp3",
+        "sourceAudioSha256": "e311ae96eb1cbfe9f3697cb1e9a9611532ca6d51771abce53bd25a46a8f84029",
+        "sourceAudioTextSha256": "be736bd54b7627c50d46d77f69bd6707aab77158278756542cc921c738bc83a2",
+        "audioDurationSeconds": 3.432
+      },
+      {
+        "en": "My birds and I meet Chimpanzee in the tree.",
+        "sourceText": "My birds and I meet Chimpanzee in the tree.",
+        "zh": "我和鸟儿遇见了树上的黑猩猩。",
+        "tip": "找到树上的黑猩猩。",
+        "alt": "我和鸟儿遇见了树上的黑猩猩。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0147/03.jpg",
+        "sourceImageSha256": "73dcf4cbf5d18fb42765b3859bca3ef52ea94d512ca43e9c79ab8cbcb07ae6a4",
+        "imageWidth": 546,
+        "imageHeight": 546,
+        "audioFile": "audio/02-c03c62a5b202a20f.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0147/audio/02-c03c62a5b202a20f.mp3",
+        "sourceAudioSha256": "c03c62a5b202a20f18c5655f18c1b8cbbfec1ca8b30bbd7503098346ad982c86",
+        "sourceAudioTextSha256": "10777a2badff566b14c4afb07bfb3814ef7ead61992784ba2813b77ac10f3b05",
+        "audioDurationSeconds": 3.384
+      },
+      {
+        "en": "My chimpanzee and I play with my giraffes on the hill.",
+        "sourceText": "My chimpanzee and I play with my giraffes on the hill.",
+        "zh": "我和黑猩猩在山坡上陪长颈鹿玩。",
+        "tip": "看看长颈鹿在哪里。",
+        "alt": "我和黑猩猩在山坡上陪长颈鹿玩。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0147/04.jpg",
+        "sourceImageSha256": "bb74c57832b392244b263b1485ae811d82cafdc1d1950c998fe4f79526192244",
+        "imageWidth": 546,
+        "imageHeight": 546,
+        "audioFile": "audio/03-8032a9daa646846b.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0147/audio/03-8032a9daa646846b.mp3",
+        "sourceAudioSha256": "8032a9daa646846b2ef505c56f3d1aec018868ef6cd6881f6cdba3624eb32b44",
+        "sourceAudioTextSha256": "ba7355697bffbce55a8b464236e2485317602f755858a35356eeeed7de185907",
+        "audioDurationSeconds": 3.84
+      },
+      {
+        "en": "My giraffes and I make monkey balls from clay.",
+        "sourceText": "My giraffes and I make monkey balls from clay.",
+        "zh": "我和长颈鹿用黏土做“猴子球”。",
+        "tip": "指指手里的泥球；monkey balls 是原文的说法。",
+        "alt": "我和长颈鹿用黏土做“猴子球”。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0147/05.jpg",
+        "sourceImageSha256": "76ed6fa784716b7d792edc6d1af90ebce05433c5bf264792bf3720a929f85683",
+        "imageWidth": 546,
+        "imageHeight": 546,
+        "audioFile": "audio/04-98a99c2f299d899e.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0147/audio/04-98a99c2f299d899e.mp3",
+        "sourceAudioSha256": "98a99c2f299d899ec1f2825bdacb59bc872536ed2ef94fc552ed504898ae12b6",
+        "sourceAudioTextSha256": "ffc0103e530c56ad174b7d7f4ed4c189396e7ea74eaddc3f3c787753a2024fd3",
+        "audioDurationSeconds": 3.384
+      },
+      {
+        "en": "My monkey and I eat bananas with Gorilla every day.",
+        "sourceText": "My monkey and I eat bananas with Gorilla every day.",
+        "zh": "我和猴子每天都与大猩猩一起吃香蕉。",
+        "tip": "找到猴子、大猩猩和香蕉。",
+        "alt": "我和猴子每天都与大猩猩一起吃香蕉。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0147/06.jpg",
+        "sourceImageSha256": "fa75c4a6d0f0343ec993d226a3c2e2f3884a5b26e9f2c9ba7a291aeadebdc8e7",
+        "imageWidth": 546,
+        "imageHeight": 546,
+        "audioFile": "audio/05-3ee78d9a13b929ae.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0147/audio/05-3ee78d9a13b929ae.mp3",
+        "sourceAudioSha256": "3ee78d9a13b929aeaefdffaab8a2359de5748456e82e6fa05a2dc4ae520654d0",
+        "sourceAudioTextSha256": "f6b1b908f45580767e4178ecbf2e7cee2837cff2e2ee0f28d12bbb100397e0d2",
+        "audioDurationSeconds": 4.056
+      },
+      {
+        "en": "My gorilla and monkey fear Tortoise in every way.",
+        "sourceText": "My gorilla and monkey fear Tortoise in every way.",
+        "zh": "大猩猩和猴子总是害怕乌龟。",
+        "tip": "观察它们看到乌龟时的表情。",
+        "alt": "大猩猩和猴子总是害怕乌龟。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0147/07.jpg",
+        "sourceImageSha256": "97ac73dad8f917acee89d1e870b00f422645d5f422d62a9d3e95eb72867524b5",
+        "imageWidth": 546,
+        "imageHeight": 546,
+        "audioFile": "audio/06-8594c09e2c3fc78f.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0147/audio/06-8594c09e2c3fc78f.mp3",
+        "sourceAudioSha256": "8594c09e2c3fc78fa9a376c1f212c94bd82d3aeba2eb5f280187d646e606be12",
+        "sourceAudioTextSha256": "d386258ef216023c889183aad4b6f391da9ec0ab998608c6a72594b2defb23aa",
+        "audioDurationSeconds": 4.056
+      },
+      {
+        "en": "Tortoise and I go home very slowly with Snake.",
+        "sourceText": "Tortoise and I go home very slowly with Snake.",
+        "zh": "我和乌龟慢慢地跟着蛇回家。",
+        "tip": "用手指模仿乌龟慢慢走。",
+        "alt": "我和乌龟慢慢地跟着蛇回家。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0147/08.jpg",
+        "sourceImageSha256": "97ec220f19ffa630fa8789fd34487a1c13ae263241ab647e8f7b610aace71a89",
+        "imageWidth": 546,
+        "imageHeight": 546,
+        "audioFile": "audio/07-ea7eb119e645e308.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0147/audio/07-ea7eb119e645e308.mp3",
+        "sourceAudioSha256": "ea7eb119e645e308539aedbb5f3ae07e6be68ec4cd17eb5da9860216c65c3d85",
+        "sourceAudioTextSha256": "35ebea96cb5414fc188d93e19bcc07292fc5d2d0c0513a904c124c92e70a4c2f",
+        "audioDurationSeconds": 4.08
+      },
+      {
+        "en": "Snake and I love to hiss and sing songs by the lake.",
+        "sourceText": "Snake and I love to hiss and sing songs by the lake.",
+        "zh": "我和蛇喜欢嘶嘶叫，也喜欢在湖边唱歌。",
+        "tip": "轻轻模仿蛇的嘶嘶声。",
+        "alt": "我和蛇喜欢嘶嘶叫，也喜欢在湖边唱歌。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0147/09.jpg",
+        "sourceImageSha256": "e4e35670d03a5d1249e97c6e060d1b225aa1d3678f8528eadfadf0f5f7041640",
+        "imageWidth": 546,
+        "imageHeight": 546,
+        "audioFile": "audio/08-f72500c4ef8f817f.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0147/audio/08-f72500c4ef8f817f.mp3",
+        "sourceAudioSha256": "f72500c4ef8f817f8d1458305f5b6a1408b01af6519b38b6794e78ece0b59fa5",
+        "sourceAudioTextSha256": "bebba05c109716aba31b343b34aeff9d70faa7411ce38009d86a083f6e7a9bb9",
+        "audioDurationSeconds": 4.272
+      },
+      {
+        "en": "My entire family and I live together in great happiness!",
+        "sourceText": "My entire family and I live together in great happiness!",
+        "zh": "我和整个大家庭幸福地生活在一起！",
+        "tip": "找找所有动物，聊聊谁和谁在一起。",
+        "alt": "我和整个大家庭幸福地生活在一起！",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0147/10.jpg",
+        "sourceImageSha256": "ffee94b4cee740ecc7502d20b9f541bf0acf5644119fa4e7eb0d62b50a50a825",
+        "imageWidth": 546,
+        "imageHeight": 546,
+        "audioFile": "audio/09-a12e6104978e4765.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0147/audio/09-a12e6104978e4765.mp3",
+        "sourceAudioSha256": "a12e6104978e4765892729c7a76561d56b8c1fcd3ed6bc2a98c5abc918cc085f",
+        "sourceAudioTextSha256": "b6873014a430b0bf947afdc876d88cdb29d111c16ef535cf022e9c3381f81888",
+        "audioDurationSeconds": 4.248
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "birds",
+        "meaning": "鸟",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "tree",
+        "meaning": "树",
+        "pageIndex": 1
+      },
+      {
+        "id": "word-2",
+        "word": "bananas",
+        "meaning": "香蕉",
+        "pageIndex": 4
+      }
+    ],
+    "activity": {
+      "title": "想象动物朋友",
+      "text": "选一个喜欢的动物玩偶，想象今天会和它一起做什么。",
+      "hint": "跟着孩子的兴趣来，不要求跟读、测验或打卡。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Charlie 2.0 美式英语（轻柔慢速）",
+      "voiceId": "ICL_uranus_en_female_charlie_tob",
+      "voiceType": "preset",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "approvedAuditionRunId": 39233953938,
+      "approvedVariant": "english-gentle",
+      "adaptation": "AI narration produced by Jigu from the attributed English text."
+    }
+  },
+  {
+    "id": "0087",
+    "title": "I like to read!",
+    "zh": "我喜欢看书",
+    "primaryTheme": "everyday",
+    "themeIds": [
+      "everyday",
+      "feelings"
+    ],
+    "tags": [
+      "家庭",
+      "生活"
+    ],
+    "stageId": "S1",
+    "audioType": "human",
+    "source": {
+      "name": "African Storybook / Storybooks Canada",
+      "url": "https://storybookscanada.ca/stories/en/0087/",
+      "license": "https://creativecommons.org/licenses/by/3.0/",
+      "creators": [
+        "Letta Machoga",
+        "Wiehan de Jager"
+      ],
+      "reader": "Darshan Soni"
+    },
+    "sourceCover": "https://storybookscanada.ca/images/0087/01.jpg",
+    "pages": [
+      {
+        "en": "I like to read.",
+        "sourceImage": "https://storybookscanada.ca/images/0087/02.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0087/mp3/02.mp3",
+        "zh": "我喜欢看书。",
+        "tip": "指着男孩手里的书，可以问一句：Where is the book? 孩子指一指就很好。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Who can I read to?",
+        "sourceImage": "https://storybookscanada.ca/images/0087/03.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0087/mp3/03.mp3",
+        "zh": "我可以念给谁听呢？",
+        "tip": "跟孩子一起猜猜，男孩会去找谁听故事？不要求回答英文。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "My sister is asleep.",
+        "sourceImage": "https://storybookscanada.ca/images/0087/04.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0087/mp3/04.mp3",
+        "zh": "我的妹妹睡着了。",
+        "tip": "指指画面里睡着的妹妹，轻声说 asleep（睡着了），做一个安静的动作。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Who can I read to?",
+        "sourceImage": "https://storybookscanada.ca/images/0087/05.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0087/mp3/05.mp3",
+        "zh": "我可以念给谁听呢？",
+        "tip": "再听一遍熟悉的问题，看看男孩往哪里走。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "My mother and grandmother are busy.",
+        "sourceImage": "https://storybookscanada.ca/images/0087/06.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0087/mp3/06.mp3",
+        "zh": "妈妈和奶奶正在忙。",
+        "tip": "找一找画面里的妈妈和奶奶。你们可以聊聊她们在做什么。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Who can I read to?",
+        "sourceImage": "https://storybookscanada.ca/images/0087/07.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0087/mp3/07.mp3",
+        "zh": "我可以念给谁听呢？",
+        "tip": "先停一下，邀请孩子猜测男孩接下来要找谁。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "My father and grandfather are busy.",
+        "sourceImage": "https://storybookscanada.ca/images/0087/08.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0087/mp3/08.mp3",
+        "zh": "爸爸和爷爷正在忙。",
+        "tip": "看看他们在忙什么，试着一起找找画面里的车。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Who can I read to? I can read to myself!",
+        "sourceImage": "https://storybookscanada.ca/images/0087/09.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0087/mp3/09.mp3",
+        "zh": "我可以念给谁听呢？我可以念给自己听！",
+        "tip": "男孩终于找到办法啦。和孩子拿出家里的小书，一起翻一页吧。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "read",
+        "meaning": "读、阅读",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "asleep",
+        "meaning": "睡着的",
+        "pageIndex": 2
+      },
+      {
+        "id": "word-2",
+        "word": "busy",
+        "meaning": "忙碌的",
+        "pageIndex": 4
+      }
+    ],
+    "activity": {
+      "title": "找一个听你读书的伙伴",
+      "text": "挑一本家里的小书，邀请家人或玩偶来听。可以看图讲，也可以试着说 I like to read.",
+      "hint": "想玩就试试，也可以下次再玩。"
+    }
+  },
+  {
+    "id": "0001",
+    "title": "A very tall man",
+    "zh": "一个非常高的人",
+    "primaryTheme": "discovery",
+    "themeIds": [
+      "discovery",
+      "everyday"
+    ],
+    "tags": [
+      "观察",
+      "发现"
+    ],
+    "stageId": "S2",
+    "audioType": "human",
+    "source": {
+      "name": "African Storybook / Storybooks Canada",
+      "url": "https://storybookscanada.ca/stories/en/0001/",
+      "license": "https://creativecommons.org/licenses/by/3.0/",
+      "creators": [
+        "Cornelius Gulere",
+        "Catherine Groenewald"
+      ],
+      "reader": "Darshan Soni"
+    },
+    "sourceCover": "https://storybookscanada.ca/images/0001/01.jpg",
+    "pages": [
+      {
+        "en": "His hoe was too short.",
+        "sourceImage": "https://storybookscanada.ca/images/0001/02.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0001/mp3/02.mp3",
+        "zh": "他的锄头太短了。",
+        "tip": "指指锄头，看看他为什么弯着腰。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "His doorway was too low.",
+        "sourceImage": "https://storybookscanada.ca/images/0001/03.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0001/mp3/03.mp3",
+        "zh": "他的门口太矮了。",
+        "tip": "用手势比一比门框和人的高度。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "His bed was too short.",
+        "sourceImage": "https://storybookscanada.ca/images/0001/04.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0001/mp3/04.mp3",
+        "zh": "他的床太短了。",
+        "tip": "看看脚伸出了床的哪里。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "His bicycle was too short.",
+        "sourceImage": "https://storybookscanada.ca/images/0001/05.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0001/mp3/05.mp3",
+        "zh": "他的自行车太矮小了。",
+        "tip": "指指他的腿和自行车，看看哪里不合适。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "This man was too tall!",
+        "sourceImage": "https://storybookscanada.ca/images/0001/06.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0001/mp3/06.mp3",
+        "zh": "这个人实在太高了！",
+        "tip": "张开手臂，用手势演一演高高的人。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "He made a very long hoe handle.",
+        "sourceImage": "https://storybookscanada.ca/images/0001/07.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0001/mp3/07.mp3",
+        "zh": "他做了一根很长的锄头柄。",
+        "tip": "从短柄指到长柄，听 long。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "He made very high door frames.",
+        "sourceImage": "https://storybookscanada.ca/images/0001/08.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0001/mp3/08.mp3",
+        "zh": "他做了很高的门框。",
+        "tip": "找找加高的门框，看看他还要不要弯腰。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "He made a very long bed.",
+        "sourceImage": "https://storybookscanada.ca/images/0001/09.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0001/mp3/09.mp3",
+        "zh": "他做了一张很长的床。",
+        "tip": "比一比新床和前面的床。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "He bought a very high bicycle.",
+        "sourceImage": "https://storybookscanada.ca/images/0001/10.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0001/mp3/10.mp3",
+        "zh": "他买了一辆很高的自行车。",
+        "tip": "指指新自行车的座位高度。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "He sat on a very high chair. He ate with a very long fork.",
+        "sourceImage": "https://storybookscanada.ca/images/0001/11.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0001/mp3/11.mp3",
+        "zh": "他坐在很高的椅子上，用很长的叉子吃饭。",
+        "tip": "找一找特别长的叉子。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "He left his house and lived in a big forest. He lived for many years.",
+        "sourceImage": "https://storybookscanada.ca/images/0001/12.jpg",
+        "sourceAudio": "https://globalstorybooks.net/media/audio/en/0001/mp3/12.mp3",
+        "zh": "他离开家，住进一片大森林。他在那里住了很多年。",
+        "tip": "看看森林里的空间，说说哪些东西适合他。",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "tall",
+        "meaning": "高的",
+        "pageIndex": 4
+      },
+      {
+        "id": "word-1",
+        "word": "short",
+        "meaning": "短的、矮的",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-2",
+        "word": "long",
+        "meaning": "长的",
+        "pageIndex": 5
+      }
+    ],
+    "activity": {
+      "title": "找找长和短",
+      "text": "拿两支长度不同的笔，比较 long 和 short。孩子指一指，也是在参与。",
+      "hint": "想玩就试试，也可以下次再玩。"
+    }
+  }
+]

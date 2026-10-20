@@ -1,205 +1,114 @@
 {
-  "id": "giraffe-repair-20261020",
-  "sourceCatalogueSha256": "4410524da65d3c583fbe64b2eb116184b0c205205e7a904c031d0988fe95c8ec",
-  "speaker": "ICL_uranus_en_female_charlie_tob",
+  "id": "library-100-three-voices-20261020",
+  "sourceCatalogueSha256": "37817da8c555d7885b9ef61859a298b98877b96922d3dea815f2ade46236088c",
+  "newBookIds": [
+    "0004",
+    "0006",
+    "0007",
+    "0013",
+    "0017",
+    "0018",
+    "0021",
+    "0027",
+    "0035",
+    "0042",
+    "0045",
+    "0051",
+    "0067",
+    "0074",
+    "0092",
+    "0002",
+    "0105",
+    "0106",
+    "0109",
+    "0003",
+    "0113",
+    "0117",
+    "0121",
+    "0126",
+    "0127",
+    "0149",
+    "0152",
+    "0155",
+    "0160",
+    "0167",
+    "0168",
+    "0185",
+    "0195",
+    "0197",
+    "0198",
+    "0030",
+    "0243",
+    "0256",
+    "0257",
+    "0267",
+    "0291",
+    "0294",
+    "0302",
+    "0355",
+    "0361",
+    "0124",
+    "0237",
+    "0019",
+    "0103",
+    "0169"
+  ],
+  "expectedPages": 525,
+  "sourceTextSha256": "b8b35b901e2f24a43f7bf850e0e974041e44e8617f4ccfc1bc908dde19b3fe3a",
   "speechRate": -5,
-  "expectedPages": 1,
-  "sourceTextSha256": "7b305fd23bd4d0113dea4ad8e412335a50a5afb844ce48db00e67145fc726654",
-  "books": [
+  "auditionRunId": 39355874472,
+  "shards": [
     {
-      "id": "0248",
-      "title": "My trip to the Zoo",
-      "zh": "我的动物园之旅",
-      "stageId": "S1",
-      "primaryTheme": "nature",
-      "themeIds": [
-        "nature",
-        "everyday"
-      ],
-      "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0248/01.jpg",
-      "sourceCoverSha256": "6fd37fd6af5880caa517426d7f26d28b217ea7aa2fc8828a385331c15bc27702",
-      "audioType": "generated",
-      "source": {
-        "name": "African Storybook / Global ASP",
-        "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0248_my-trip-to-the-zoo.md",
-        "publisherUrl": "https://www.africanstorybook.org/",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
-        "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
-        "creators": [
-          "文字：Mmapule Nkuna",
-          "插画：Melany Pietersen, Rob Owen, Catherine Groenewald"
-        ],
-        "editorialNote": "此前第5页曾将原文 Giraffe 错改为 leopard，现已恢复来源原文，并同步纠正中文及配音。其他页保留此前的标点、大小写整理。",
-        "sourceTextSha256": "ad22a9208de2b92a008618714e860116627aaf5cbe100fe7d310d52f633e0770"
-      },
-      "pages": [
-        {
-          "en": "Today I went to the zoo.",
-          "sourceText": "Today I went to the Zoo",
-          "zh": "今天我去了动物园。",
-          "tip": "看看动物园里有什么。",
-          "alt": "今天我去了动物园。",
-          "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0248/02.jpg",
-          "sourceImageSha256": "5310cc105b51f6660337ad317b7dc9336326411e3011a0917b8b2397403b736b",
-          "imageWidth": 546,
-          "imageHeight": 546,
-          "audioFile": "audio/01-95c25bf65b62b8ac.mp3",
-          "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0248/audio/01-95c25bf65b62b8ac.mp3",
-          "sourceAudioSha256": "95c25bf65b62b8ac9459b92a22b476cfcb43c209cb5b56bee19a72991ffdb09c",
-          "sourceAudioTextSha256": "240c89c69a3ed1aaa6da79e0fe067257a4e354faeb9fddc9a3365004989b9aa2",
-          "audioDurationSeconds": 1.944
-        },
-        {
-          "en": "I saw a lot. I saw a lion.",
-          "sourceText": "I saw a lot. I saw a Lion",
-          "zh": "我看到了好多东西。我看到了一只狮子。",
-          "tip": "找到狮子，听听 lion。",
-          "alt": "我看到了好多东西。我看到了一只狮子。",
-          "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0248/03.jpg",
-          "sourceImageSha256": "58026c9873f82adefded6c1e6a70f45340bd02ac33b2ff2364fb23430e7deddf",
-          "imageWidth": 551,
-          "imageHeight": 546,
-          "audioFile": "audio/02-2e3747f5a8145cb5.mp3",
-          "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0248/audio/02-2e3747f5a8145cb5.mp3",
-          "sourceAudioSha256": "2e3747f5a8145cb54c915e7d6e07dbabaf47a09762fbfae529b94c54fc1c8cdc",
-          "sourceAudioTextSha256": "17b1da2d3a0b0bc3ec0d411b959dbf3021e86f70d04a230abf74a5da56218eb1",
-          "audioDurationSeconds": 3.216
-        },
-        {
-          "en": "I saw an elephant.",
-          "sourceText": "I saw an Elephant.",
-          "zh": "我看到了一头大象。",
-          "tip": "用手势比一比大象的长鼻子。",
-          "alt": "我看到了一头大象。",
-          "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0248/04.jpg",
-          "sourceImageSha256": "414615d5c473676bc44aadbddb78eae8abdce529228e514e37b0e170c379f1d8",
-          "imageWidth": 546,
-          "imageHeight": 546,
-          "audioFile": "audio/03-e1ac41814e05ec6b.mp3",
-          "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0248/audio/03-e1ac41814e05ec6b.mp3",
-          "sourceAudioSha256": "e1ac41814e05ec6bb8001bfc3f40522afc3fdf000e111f172ca15fc832eea33b",
-          "sourceAudioTextSha256": "f1122d628a1da3d1e68a48b961a4797d2122a6bdb77b63840c0e75b9e1373189",
-          "audioDurationSeconds": 1.944
-        },
-        {
-          "en": "I saw a crocodile.",
-          "sourceText": "I saw a crocodile.",
-          "zh": "我看到了一条鳄鱼。",
-          "tip": "看看鳄鱼的嘴巴。",
-          "alt": "我看到了一条鳄鱼。",
-          "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0248/05.jpg",
-          "sourceImageSha256": "88e4f4ef61436a803d47f1a7840e4d2fad895aa7d8912cca63bfde6236bf2303",
-          "imageWidth": 550,
-          "imageHeight": 546,
-          "audioFile": "audio/04-3b27796f8620f068.mp3",
-          "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0248/audio/04-3b27796f8620f068.mp3",
-          "sourceAudioSha256": "3b27796f8620f0680434937c74599da9b42269b64b9b5344bf466afcef354bb2",
-          "sourceAudioTextSha256": "6efad13907d12aa64ee383a375c30a8ac55c7f06251e787d6ccfdbc4a4f53896",
-          "audioDurationSeconds": 1.944
-        },
-        {
-          "en": "I saw a Giraffe.",
-          "sourceText": "I saw a Giraffe.",
-          "zh": "我看见了一只长颈鹿。",
-          "tip": "指指长颈鹿弯下来的长脖子。",
-          "alt": "两只长颈鹿低头喝水。",
-          "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0248/06.jpg",
-          "sourceImageSha256": "da170c5db9c3a6caa4f3d766e7357d17dfdb8b4f4baa65a66e41047c2900f87d",
-          "imageWidth": 546,
-          "imageHeight": 546,
-          "audioFile": "audio/05-b9f6332617cb4548.mp3",
-          "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0248/audio/05-b9f6332617cb4548.mp3",
-          "sourceAudioSha256": "b9f6332617cb4548096b9b007ece0314666d904522a6473b31a56d06201604ff",
-          "sourceAudioTextSha256": "ac80907de092c93f7bda9b4541082a52c1aee0eb063562330c69f72282d71ff0",
-          "audioDurationSeconds": 1.704
-        },
-        {
-          "en": "I saw a lot of zebras.",
-          "sourceText": "I saw a lot of zebras.",
-          "zh": "我看到了好多斑马。",
-          "tip": "观察斑马身上的条纹。",
-          "alt": "我看到了好多斑马。",
-          "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0248/07.jpg",
-          "sourceImageSha256": "3bd23d27804f3996bce5d89dcc37494f2ade39a5cc863a4264aa314d0fa05972",
-          "imageWidth": 546,
-          "imageHeight": 546,
-          "audioFile": "audio/06-65965352b6e0b54a.mp3",
-          "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0248/audio/06-65965352b6e0b54a.mp3",
-          "sourceAudioSha256": "65965352b6e0b54a589f901fbc35757b6519b40b50236ac01ae199ae3ce949a5",
-          "sourceAudioTextSha256": "f6eb5d5ec89f4be1790f55f9f20befe489bcb02d3c7b4ed9b8c1cfbb5ba0473b",
-          "audioDurationSeconds": 2.376
-        },
-        {
-          "en": "And I even saw a cow.",
-          "sourceText": "And I even saw a cow.",
-          "zh": "我甚至还看到了一头牛。",
-          "tip": "看看这头牛和其他动物有什么不同。",
-          "alt": "我甚至还看到了一头牛。",
-          "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0248/08.jpg",
-          "sourceImageSha256": "fec90db3aa3f1bb067a2b4d46b263bdf09e63d93b3154d27912892ebf3fc715f",
-          "imageWidth": 557,
-          "imageHeight": 546,
-          "audioFile": "audio/07-8d79bf5fbdd98d4c.mp3",
-          "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0248/audio/07-8d79bf5fbdd98d4c.mp3",
-          "sourceAudioSha256": "8d79bf5fbdd98d4c82753064f58c06d0f0e5109796851a9dd055492fe6ef97d5",
-          "sourceAudioTextSha256": "814f4cd6a276b311cd03bff71be78ca2bd5eabae87d55308e16980c07491e5d9",
-          "audioDurationSeconds": 1.968
-        },
-        {
-          "en": "It was a lot of fun. But then daddy drove us home.",
-          "sourceText": "It was a lot of fun. But then daddy drove us home.",
-          "zh": "真好玩！后来，爸爸开车带我们回家了。",
-          "tip": "回想自己喜欢哪一页的动物。",
-          "alt": "真好玩！后来，爸爸开车带我们回家了。",
-          "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0248/09.jpg",
-          "sourceImageSha256": "f193d3f0364473e415a2253008b78c615fb638c5fbb4296c3fa5fe76ab961b0b",
-          "imageWidth": 546,
-          "imageHeight": 546,
-          "audioFile": "audio/08-d439d9bc02ab632d.mp3",
-          "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0248/audio/08-d439d9bc02ab632d.mp3",
-          "sourceAudioSha256": "d439d9bc02ab632df7ee6468ecd0e3c86dc1fe6f81eca69edbb54dea47e354d6",
-          "sourceAudioTextSha256": "4eb289b96fbe44356beee2c17f572aab2782c7a4d6f8a7e59828dd0f6b81bcc8",
-          "audioDurationSeconds": 3.816
-        }
-      ],
-      "keywords": [
-        {
-          "id": "word-0",
-          "word": "lion",
-          "meaning": "狮子",
-          "pageIndex": 1
-        },
-        {
-          "id": "word-1",
-          "word": "elephant",
-          "meaning": "大象",
-          "pageIndex": 2
-        },
-        {
-          "id": "word-2",
-          "word": "zebras",
-          "meaning": "斑马",
-          "pageIndex": 5
-        }
-      ],
-      "activity": {
-        "title": "动物找一找",
-        "text": "和大人去动物园或看动物图片时，找找 lion、elephant 和 zebras，不用一次认完。",
-        "hint": "跟着孩子的兴趣来，不要求跟读、测验或打卡。"
-      },
-      "narration": {
-        "kind": "ai",
-        "provider": "Volcengine",
-        "model": "seed-tts-2.0",
-        "voice": "Charlie 2.0 美式英语（轻柔慢速）",
-        "voiceId": "ICL_uranus_en_female_charlie_tob",
-        "voiceType": "preset",
-        "speechRate": -5,
-        "pitchRate": 0,
-        "approvedAuditionRunId": 39233953938,
-        "approvedVariant": "english-gentle",
-        "adaptation": "AI narration produced by Jigu from the attributed English text."
-      }
+      "file": "library-release-books-01.json",
+      "sha256": "68df14800ea3a26f83d3118e323af894be69f5d1ad331ea655066439740ef09d"
+    },
+    {
+      "file": "library-release-books-02.json",
+      "sha256": "d2d11a5fe31069b319c2401adf73d95ac4e0d21ba23b99fbfb0f6077115bf7b6"
+    },
+    {
+      "file": "library-release-books-03.json",
+      "sha256": "ebd2d35aa6ab797c81d79f164e5c189200b5356320e708e5f390e3ea8a7e13d2"
+    },
+    {
+      "file": "library-release-books-04.json",
+      "sha256": "10f299ea403c50d97a72175859d3c67db06e6c8641c69d2a67b0b1e05cf21e41"
+    },
+    {
+      "file": "library-release-books-05.json",
+      "sha256": "da6acdb35f3a22a610eb213bb137011e95a6eb2f56226b1a7b702042ec8db665"
+    },
+    {
+      "file": "library-release-books-06.json",
+      "sha256": "477d3b11fa5deb7002f6ac6bf99885eea03d5cfbb351589a5f2f8d71c57ed22b"
+    },
+    {
+      "file": "library-release-books-07.json",
+      "sha256": "5461b78f8cc183d070646c2aa78375d5d968f29e132f9d24a658afa1b7d7ca42"
+    },
+    {
+      "file": "library-release-books-08.json",
+      "sha256": "8d462f554a8137f3cfd1c3e40af3efaa00e30626f0d58cb37e749a03f2165f90"
+    },
+    {
+      "file": "library-release-books-09.json",
+      "sha256": "f7342687839ca54c671ea8c6a77ec3f6d9a6764112bf3809fac939c2cb799cd3"
+    },
+    {
+      "file": "library-release-books-10.json",
+      "sha256": "931c1419d695b026975080fc37f8923cb9fe0db0b55a54308a6165b10a14ce40"
+    },
+    {
+      "file": "library-release-books-11.json",
+      "sha256": "990d1ae3f10d62cb550da2f192f45fb59261bc7182594a953ec4a35678386ee8"
+    },
+    {
+      "file": "library-release-books-12.json",
+      "sha256": "bf7358495f73b426a47c30c9d5f310f13eb1e15a83cfbaf2939e4105836f96c7"
+    },
+    {
+      "file": "library-release-books-13.json",
+      "sha256": "04a8b24beae220d701eeac88e2d1d1fa472f6ca1052ff0de3dbb74947eb0a613"
     }
   ]
 }

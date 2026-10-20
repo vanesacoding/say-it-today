@@ -1,0 +1,826 @@
+[
+  {
+    "id": "0002",
+    "title": "Look at the animals",
+    "zh": "听听动物的声音",
+    "stageId": "S1",
+    "primaryTheme": "nature",
+    "themeIds": [
+      "nature"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0002/01.jpg",
+    "sourceCoverSha256": "5202d59d98820c468fc43666af1f206f1a5f9d68eb379f0247eba8ef19c7489f",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0002_look-at-the-animals.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by-nc/3.0/",
+      "licenseLabel": "CC BY-NC 3.0 · 仅限非商业使用",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Jenny Katz",
+        "插画：Sandy Campbell"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "547f9894b75669db40b444b927fa726c60e61b40b5d465204c0c5d1ffc9035d2",
+      "noncommercialOnly": true
+    },
+    "pages": [
+      {
+        "en": "Look at the animals.",
+        "sourceText": "Look at the animals.",
+        "zh": "看看这些动物。",
+        "tip": "任选一种认识的动物指一指。",
+        "alt": "看看这些动物。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0002/02.jpg",
+        "sourceImageSha256": "ef06b1c8b98e429fc69411bcba7e57a2c0820f306fb1c8b0dc752371852e03ea",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The cow says, \"Moo.\"",
+        "sourceText": "The cow says, \"Moo.\"",
+        "zh": "奶牛叫：“哞。”",
+        "tip": "指指奶牛，说 cow，再轻轻学一声。",
+        "alt": "奶牛叫：“哞。”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0002/03.jpg",
+        "sourceImageSha256": "296639a78af8a9121cd51c49dfbd0df6fb98fac1faa774774e8fac4b1d9777ea",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The goat says, \"Meh, meh.\"",
+        "sourceText": "The goat says, \"Meh, meh.\"",
+        "zh": "山羊叫：“咩，咩。”",
+        "tip": "看看山羊的嘴，轻轻学一声。",
+        "alt": "山羊叫：“咩，咩。”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0002/04.jpg",
+        "sourceImageSha256": "2486e120dd1af3d6a384c3d3e246bb2fcd0ffbc39e5e7413b7b18dfe21b788f3",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The horse says, \"Neigh.\"",
+        "sourceText": "The horse says, \"Neigh.\"",
+        "zh": "马儿叫：“咴儿。”",
+        "tip": "指指马，先听英文里怎样表达叫声。",
+        "alt": "马儿叫：“咴儿。”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0002/05.jpg",
+        "sourceImageSha256": "61e778231c738a21fd7c86ada57cdc97bea091d4a588a6e9aab226fb1fdc74a6",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The pig says, \"Grunt.\"",
+        "sourceText": "The pig says, \"Grunt.\"",
+        "zh": "小猪叫：“哼哼。”",
+        "tip": "找找小猪，轻声模仿一下。",
+        "alt": "小猪叫：“哼哼。”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0002/06.jpg",
+        "sourceImageSha256": "3d959413e1e848ccef94baf163ceec23c38262c28007386a583b30eb61dd3431",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The chicken says, \"Cluck.\"",
+        "sourceText": "The chicken says, \"Cluck.\"",
+        "zh": "母鸡叫：“咯咯。”",
+        "tip": "指指母鸡，不用背叫声词。",
+        "alt": "母鸡叫：“咯咯。”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0002/07.jpg",
+        "sourceImageSha256": "e9ebd86e8526e9698a57fc1cc930decf087e8e6a676ff0b0052df1ed3a6b1787",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The dog says, \"Woof.\"",
+        "sourceText": "The dog says, \"Woof.\"",
+        "zh": "小狗叫：“汪。”",
+        "tip": "听 dog，和孩子轻轻学一声。",
+        "alt": "小狗叫：“汪。”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0002/08.jpg",
+        "sourceImageSha256": "8fecbbd8d9aacfed1683b64d210efc98e1d92472f5c6078e9150021f9369a120",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The farmer says, \"Shhh!\"",
+        "sourceText": "The farmer says, \"Shhh!\"",
+        "zh": "农夫说：“嘘！”",
+        "tip": "一起做个安静的手势，轻松结束。",
+        "alt": "农夫说：“嘘！”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0002/09.jpg",
+        "sourceImageSha256": "23e024dfa8109473c1117d02b155393f22100d823d4e30b2c1745b5bed7d779d",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "cow",
+        "meaning": "奶牛",
+        "pageIndex": 1
+      },
+      {
+        "id": "word-1",
+        "word": "dog",
+        "meaning": "狗",
+        "pageIndex": 6
+      },
+      {
+        "id": "word-2",
+        "word": "farmer",
+        "meaning": "农夫",
+        "pageIndex": 7
+      }
+    ],
+    "activity": {
+      "title": "轻轻学一声",
+      "text": "选一种书里的动物，和家人轻轻模仿它的叫声。也可以只指图，不用全部学。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Rowan",
+      "voiceId": "en_male_adam-imitation_uranus_bigtts",
+      "locale": "en-US",
+      "accentLabel": "美式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  },
+  {
+    "id": "0105",
+    "title": "Ms Phone",
+    "zh": "手机女士",
+    "stageId": "S2",
+    "primaryTheme": "everyday",
+    "themeIds": [
+      "everyday",
+      "discovery"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0105/01.jpg",
+    "sourceCoverSha256": "16d740566726a6e3ee8bea72a23c315cbb8bc5ab0d9128ac47040446975c791c",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0105_ms-phone.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Ursula Nafula",
+        "插画：Marion Drew"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "756ef46c54a93f901d51857f3ff9f8ffe7b458a84e1d8905240ed85bfef01718"
+    },
+    "pages": [
+      {
+        "en": "She is called Ms Phone. Look at her!",
+        "sourceText": "She is called Ms Phone. Look at her!",
+        "zh": "大家叫她“手机女士”，快来看她！",
+        "tip": "指指这位女士，认识故事主角。",
+        "alt": "大家叫她“手机女士”，快来看她！",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0105/02.jpg",
+        "sourceImageSha256": "85ff17f61a31fc5b44156129788286d54a66afec5ad526510d2b061c37d308e4",
+        "imageWidth": 592,
+        "imageHeight": 546
+      },
+      {
+        "en": "She has five cellphones. When she wakes up, she arranges her cellphones on the table.",
+        "sourceText": "She has five cellphones. When she wakes up, she arranges her cellphones on the table.",
+        "zh": "她有五部手机。每天醒来，她会把手机摆在桌上。",
+        "tip": "一起数一数五部手机。",
+        "alt": "她有五部手机。每天醒来，她会把手机摆在桌上。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0105/03.jpg",
+        "sourceImageSha256": "caf795d2e4c32602f26ebdb0ee220610d4f2c7a151562724183ac4d46cc4a38e",
+        "imageWidth": 543,
+        "imageHeight": 546
+      },
+      {
+        "en": "The yellow one is for communicating with family.",
+        "sourceText": "The yellow one is for communicating with family.",
+        "zh": "黄色手机用来联系家人。",
+        "tip": "找到黄色的手机，听 yellow。",
+        "alt": "黄色手机用来联系家人。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0105/04.jpg",
+        "sourceImageSha256": "bad967d3bc3b0f88033b707e44971cdf10894a665016099c4563e7eaeb578f86",
+        "imageWidth": 539,
+        "imageHeight": 546
+      },
+      {
+        "en": "The white one is for communicating with people at work.",
+        "sourceText": "The white one is for communicating with people at work.",
+        "zh": "白色手机用来联系工作中的人。",
+        "tip": "找一找白色手机。",
+        "alt": "白色手机用来联系工作中的人。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0105/05.jpg",
+        "sourceImageSha256": "dfefbaa7a54884deb1300b6a13033e6d4719af3df89d20891ca1bb71ec036ed7",
+        "imageWidth": 612,
+        "imageHeight": 546
+      },
+      {
+        "en": "The red one is for communicating with those who owe her something.",
+        "sourceText": "The red one is for communicating with those who owe her something.",
+        "zh": "红色手机用来联系欠她东西的人。",
+        "tip": "找一找红色手机，不必解释复杂借贷。",
+        "alt": "红色手机用来联系欠她东西的人。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0105/06.jpg",
+        "sourceImageSha256": "d66dcabd06904d76e82f70089edcbad39d606ca904fb3ca311ec86497784fac6",
+        "imageWidth": 598,
+        "imageHeight": 546
+      },
+      {
+        "en": "The pink one is for communicating with her best friends.",
+        "sourceText": "The pink one is for communicating with her best friends.",
+        "zh": "粉色手机用来联系她最好的朋友。",
+        "tip": "指指粉色，说说想联系哪位朋友。",
+        "alt": "粉色手机用来联系她最好的朋友。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0105/07.jpg",
+        "sourceImageSha256": "16d740566726a6e3ee8bea72a23c315cbb8bc5ab0d9128ac47040446975c791c",
+        "imageWidth": 564,
+        "imageHeight": 546
+      },
+      {
+        "en": "The purple one is for communicating with people who need her help.",
+        "sourceText": "The purple one is for communicating with people who need her help.",
+        "zh": "紫色手机用来联系需要她帮助的人。",
+        "tip": "听 help，说“帮忙”。",
+        "alt": "紫色手机用来联系需要她帮助的人。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0105/08.jpg",
+        "sourceImageSha256": "5e72c47f25a3d203b9404d7184edb38ad32adc9205985e8bb273871e6e30bd6a",
+        "imageWidth": 617,
+        "imageHeight": 546
+      },
+      {
+        "en": "Ms Phone likes people to be happy. She does not like fighting.",
+        "sourceText": "Ms Phone likes people to be happy. She does not like fighting.",
+        "zh": "手机女士喜欢大家开心，不喜欢争吵。",
+        "tip": "看看她和人们相处的样子。",
+        "alt": "手机女士喜欢大家开心，不喜欢争吵。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0105/09.jpg",
+        "sourceImageSha256": "99a63a6d7d8cfb9de26b078b376bc2bfbb941403f80c9673ab9da03820bf11dd",
+        "imageWidth": 547,
+        "imageHeight": 546
+      },
+      {
+        "en": "She lets the children watch television at her shop.",
+        "sourceText": "She lets the children watch television at her shop.",
+        "zh": "她让孩子们在自己的店里看电视。",
+        "tip": "指指画面里的孩子们。",
+        "alt": "她让孩子们在自己的店里看电视。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0105/10.jpg",
+        "sourceImageSha256": "3218a71121ab3371a30f4521575d837d1b2edee8aa13214af3412fb0d390eb12",
+        "imageWidth": 554,
+        "imageHeight": 546
+      },
+      {
+        "en": "She visits the sick and the elderly in their homes.",
+        "sourceText": "She visits the sick and the elderly in their homes.",
+        "zh": "她到生病的人和老人的家里探望。",
+        "tip": "说说关心家人可以做的一件小事。",
+        "alt": "她到生病的人和老人的家里探望。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0105/11.jpg",
+        "sourceImageSha256": "b4e0a24ebea35866762cfb3c2c36f849100cff7ad43615e426e273c07e27cba9",
+        "imageWidth": 560,
+        "imageHeight": 546
+      },
+      {
+        "en": "When she passes, there are shouts of \"Ms Phone! Ms Phone!\"",
+        "sourceText": "When she passes, there are shouts of \"Ms Phone! Ms Phone!\"",
+        "zh": "她走过时，大家纷纷喊：“手机女士！手机女士！”",
+        "tip": "轻轻挥手，演一演打招呼。",
+        "alt": "她走过时，大家纷纷喊：“手机女士！手机女士！”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0105/12.jpg",
+        "sourceImageSha256": "2f89f273276862356e06b01b3377b54d1f11cb82eeb4614add455962c999e8cd",
+        "imageWidth": 556,
+        "imageHeight": 546
+      },
+      {
+        "en": "Then she feels happy and says, \"I am Ms Phone. Here, look at my phones!\" That is Ms Phone and her five cellphones.",
+        "sourceText": "Then she feels happy and says, \"I am Ms Phone. Here, look at my phones!\" That is Ms Phone and her five cellphones.",
+        "zh": "她高兴地说：“我是手机女士，来，看看我的手机！”这就是手机女士和她的五部手机。",
+        "tip": "选出孩子最喜欢的一种颜色，不用选手机。",
+        "alt": "她高兴地说：“我是手机女士，来，看看我的手机！”这就是手机女士和她的五部手机。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0105/13.jpg",
+        "sourceImageSha256": "98a5334b06d631d6b65e5a939d0ee48bebb7149b5df61dbf1f7fbd0e132e3d08",
+        "imageWidth": 606,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "yellow",
+        "meaning": "黄色",
+        "pageIndex": 2
+      },
+      {
+        "id": "word-1",
+        "word": "family",
+        "meaning": "家人",
+        "pageIndex": 2
+      },
+      {
+        "id": "word-2",
+        "word": "help",
+        "meaning": "帮助",
+        "pageIndex": 6
+      }
+    ],
+    "activity": {
+      "title": "给家人打个招呼",
+      "text": "用玩具电话或手掌假装打电话，向家人说 Hello，再说一句想念的话。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Charlotte",
+      "voiceId": "en_female_authoritative-british_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  },
+  {
+    "id": "0106",
+    "title": "Namukuru's bicycle",
+    "zh": "娜穆库鲁的自行车",
+    "stageId": "S2",
+    "primaryTheme": "everyday",
+    "themeIds": [
+      "everyday",
+      "nature"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0106/01.jpg",
+    "sourceCoverSha256": "a358c76663f2753db18e1d314afd4536b93c0a97727e389bca860fba16344227",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0106_namukurus-bicycle.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Munanga ASP teachers",
+        "插画：Wiehan de Jager"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "1202cccb03b9cec251bacd5a5a4f6d12a18b768084707a4689a59fefe20b74ca"
+    },
+    "pages": [
+      {
+        "en": "Namukuru and her brother are ready for school.",
+        "sourceText": "Namukuru and her brother are ready for school.",
+        "zh": "娜穆库鲁和弟弟准备好去上学了。",
+        "tip": "指指准备出门的姐弟。",
+        "alt": "娜穆库鲁和弟弟准备好去上学了。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0106/02.jpg",
+        "sourceImageSha256": "fdcd5400176c6c4cf13c869bd6d403d618eed416db975306b8da24449c2b699c",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Namukuru carries her brother on her bicycle.",
+        "sourceText": "Namukuru carries her brother on her bicycle.",
+        "zh": "娜穆库鲁骑自行车载着弟弟。",
+        "tip": "指指自行车，说 bicycle。",
+        "alt": "娜穆库鲁骑自行车载着弟弟。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0106/03.jpg",
+        "sourceImageSha256": "0e9742d142e78dbd1b7b1de5f7650e76f69b6c71fe23a69bf5e5dc924c345284",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Their friends cheer for them as they ride into school.",
+        "sourceText": "Their friends cheer for them as they ride into school.",
+        "zh": "他们骑进学校时，朋友们为他们欢呼。",
+        "tip": "和孩子轻轻挥手欢迎他们。",
+        "alt": "他们骑进学校时，朋友们为他们欢呼。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0106/04.jpg",
+        "sourceImageSha256": "7faa025aab73adfcd963b24ee202a4546b784160f7e2d2894b588f430bee377a",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "While they are in the classroom, a monkey arrives outside. The monkey rides away on Namukuru's bicycle!",
+        "sourceText": "While they are in the classroom, a monkey arrives outside. The monkey rides away on Namukuru's bicycle!",
+        "zh": "他们在教室上课，一只猴子来了，骑走了娜穆库鲁的自行车！",
+        "tip": "找一找突然出现的猴子。",
+        "alt": "他们在教室上课，一只猴子来了，骑走了娜穆库鲁的自行车！",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0106/05.jpg",
+        "sourceImageSha256": "c8fc8e0446a45370c6988420fb820e72e03a26a168a02ac1268c93a38e25cf37",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The children chase the monkey.",
+        "sourceText": "The children chase the monkey.",
+        "zh": "孩子们追着猴子跑。",
+        "tip": "用手指指方向，不用真的追跑。",
+        "alt": "孩子们追着猴子跑。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0106/06.jpg",
+        "sourceImageSha256": "a358c76663f2753db18e1d314afd4536b93c0a97727e389bca860fba16344227",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The monkey leaves the bicycle under a tree.",
+        "sourceText": "The monkey leaves the bicycle under a tree.",
+        "zh": "猴子把自行车留在树下。",
+        "tip": "请孩子找树下的自行车。",
+        "alt": "猴子把自行车留在树下。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0106/07.jpg",
+        "sourceImageSha256": "9a642beea9003f8d1ea83ebbd74bd49c50677ed4f8640282adae0cb7087c8468",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The monkey swims to an island in the middle of the lake. He climbs high into a tree.",
+        "sourceText": "The monkey swims to an island in the middle of the lake. He climbs high into a tree.",
+        "zh": "猴子游到湖中央的小岛，爬到高高的树上。",
+        "tip": "指一指猴子走过的路线。",
+        "alt": "猴子游到湖中央的小岛，爬到高高的树上。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0106/08.jpg",
+        "sourceImageSha256": "8802d7ec92d2a0d014af0294f3992ecd9afff3ceb5a2e6e1b46a69cba369714c",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The monkey waves goodbye! The children wave back. Namukuru has her bicycle again.",
+        "sourceText": "The monkey waves goodbye! The children wave back. Namukuru has her bicycle again.",
+        "zh": "猴子挥手再见，孩子们也向它挥手。娜穆库鲁找回自行车了。",
+        "tip": "一起挥手说 goodbye。",
+        "alt": "猴子挥手再见，孩子们也向它挥手。娜穆库鲁找回自行车了。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0106/09.jpg",
+        "sourceImageSha256": "ff35974d636253a2022dbd15760b72bbce350e2208bcfead5d9e577774d65e2d",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "bicycle",
+        "meaning": "自行车",
+        "pageIndex": 1
+      },
+      {
+        "id": "word-1",
+        "word": "monkey",
+        "meaning": "猴子",
+        "pageIndex": 3
+      },
+      {
+        "id": "word-2",
+        "word": "goodbye",
+        "meaning": "再见",
+        "pageIndex": 7
+      }
+    ],
+    "activity": {
+      "title": "给玩偶画辆车",
+      "text": "在纸上画两个轮子，给玩偶设计一辆自行车。现实骑车要戴头盔并由大人照看。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Knightley",
+      "voiceId": "en_male_knightley_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  },
+  {
+    "id": "0109",
+    "title": "Lekishon and the cows",
+    "zh": "莱基雄和奶牛们",
+    "stageId": "S2",
+    "primaryTheme": "nature",
+    "themeIds": [
+      "nature",
+      "feelings"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0109/01.jpg",
+    "sourceCoverSha256": "a67d42acc45d24cee8e16a3ae5024a75bf202fe612fccf34559c262c49f17c50",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0109_lekishon-and-the-cows.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Paul Maseri",
+        "插画：Wiehan de Jager"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "b1ebee3997022ee94f0eaca106791d9f42ddd81c9c95449f838a6b75db5f7c5b"
+    },
+    "pages": [
+      {
+        "en": "This is Lekishon. Lekishon is calling his dog.",
+        "sourceText": "This is Lekishon. Lekishon is calling his dog.",
+        "zh": "这是莱基雄，他正在叫自己的小狗。",
+        "tip": "找一找小狗，说 dog。",
+        "alt": "这是莱基雄，他正在叫自己的小狗。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0109/02.jpg",
+        "sourceImageSha256": "7dcf0d584c407db39d05a9165f03f52e5ee997d56433cea9c9ac9059d56abe01",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Lekishon and his dog are going to graze the animals. The sun is hot.",
+        "sourceText": "Lekishon and his dog are going to graze the animals. The sun is hot.",
+        "zh": "莱基雄和小狗去放牧，太阳火辣辣的。",
+        "tip": "指指太阳，看看天气。",
+        "alt": "莱基雄和小狗去放牧，太阳火辣辣的。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0109/03.jpg",
+        "sourceImageSha256": "a67d42acc45d24cee8e16a3ae5024a75bf202fe612fccf34559c262c49f17c50",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Lekishon and his dog are thirsty and hungry.",
+        "sourceText": "Lekishon and his dog are thirsty and hungry.",
+        "zh": "莱基雄和小狗又渴又饿。",
+        "tip": "说说口渴时可以喝水。",
+        "alt": "莱基雄和小狗又渴又饿。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0109/04.jpg",
+        "sourceImageSha256": "b02fa53c673a9fc204aa7cc52ac2684174f10032e35a4be4b03204bee51e517c",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "They go to look for water.",
+        "sourceText": "They go to look for water.",
+        "zh": "他们去找水。",
+        "tip": "指指他们前进的方向，听 water。",
+        "alt": "他们去找水。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0109/05.jpg",
+        "sourceImageSha256": "1fe8d7c42662f8995cd824700c5382be0924413135db5b65611a98c66afa7825",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Lekishon loses track of his cows.",
+        "sourceText": "Lekishon loses track of his cows.",
+        "zh": "莱基雄找不到自己的奶牛了。",
+        "tip": "看看画面，找找奶牛的踪影。",
+        "alt": "莱基雄找不到自己的奶牛了。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0109/06.jpg",
+        "sourceImageSha256": "cc60bdf24852759b459eaff80fb32e3754d83941077340122aa4bcc05b53fbfa",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Lekishon starts to cry.",
+        "sourceText": "Lekishon starts to cry.",
+        "zh": "莱基雄哭了起来。",
+        "tip": "温和说“着急时可以请人帮忙”。",
+        "alt": "莱基雄哭了起来。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0109/07.jpg",
+        "sourceImageSha256": "c745a6016fb01e9ac69da7b68f6b8182e74bb35fa9c46d1a80c0af049e98a016",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "He decides to go home with his dog.",
+        "sourceText": "He decides to go home with his dog.",
+        "zh": "他决定和小狗一起回家。",
+        "tip": "指指回家的路，听 home。",
+        "alt": "他决定和小狗一起回家。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0109/08.jpg",
+        "sourceImageSha256": "6b948e1cf724d6a65a26665e7472e00d7da861652e78a7a2817fac48e442ac52",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The cows found the way home! Lekishon and his dog are very happy.",
+        "sourceText": "The cows found the way home! Lekishon and his dog are very happy.",
+        "zh": "奶牛们自己找到家了！莱基雄和小狗十分开心。",
+        "tip": "找一找回到家的奶牛，看看他的表情。",
+        "alt": "奶牛们自己找到家了！莱基雄和小狗十分开心。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0109/09.jpg",
+        "sourceImageSha256": "dfa3ea9f2c8a6eb395bc42ba80a33486776ca09e2dd7f22791d342f0a9985f0c",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "dog",
+        "meaning": "狗",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "water",
+        "meaning": "水",
+        "pageIndex": 3
+      },
+      {
+        "id": "word-2",
+        "word": "home",
+        "meaning": "家",
+        "pageIndex": 6
+      }
+    ],
+    "activity": {
+      "title": "帮玩偶回家",
+      "text": "在桌上放一个纸做的小家，和孩子一起把几个玩偶送回家，说 home。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Rowan",
+      "voiceId": "en_male_adam-imitation_uranus_bigtts",
+      "locale": "en-US",
+      "accentLabel": "美式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  },
+  {
+    "id": "0003",
+    "title": "School clothes",
+    "zh": "上学的衣服",
+    "stageId": "S1",
+    "primaryTheme": "everyday",
+    "themeIds": [
+      "everyday"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0003/01.jpg",
+    "sourceCoverSha256": "139c09ccf8e2d6b7cb22c39f78130c40b6e575712d3734b8c0b8bd7935e522dd",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0003_school-clothes.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by-nc/3.0/",
+      "licenseLabel": "CC BY-NC 3.0 · 仅限非商业使用",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Clare Verbeek, Thembani Dladla, Zanele Buthelezi",
+        "插画：Mlungisi Dlamini, Ingrid Schechter"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "2428b85a10f55d47c9cc14072f2ef275595f7199953a3117d5a7f84f22a9f38b",
+      "noncommercialOnly": true
+    },
+    "pages": [
+      {
+        "en": "This dress is long.",
+        "sourceText": "This dress is long.",
+        "zh": "这条裙子很长。",
+        "tip": "用手指沿裙子的长度指一指，听 long。",
+        "alt": "这条裙子很长。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0003/02.jpg",
+        "sourceImageSha256": "2bc19650f2dfe2046f6a8e9b479bea175b57c82b55e19e3a89b95ad6a9ca0f7c",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "This jersey is big.",
+        "sourceText": "This jersey is big.",
+        "zh": "这件毛衣很大。",
+        "tip": "张开双手，演一演 big。",
+        "alt": "这件毛衣很大。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0003/03.jpg",
+        "sourceImageSha256": "ded324691af6638cc5aeb95978f034d9fcebd500f2e1267a640d18015cac15dc",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "This bag is big.",
+        "sourceText": "This bag is big.",
+        "zh": "这个书包很大。",
+        "tip": "指指书包，看看和孩子身体的大小关系。",
+        "alt": "这个书包很大。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0003/04.jpg",
+        "sourceImageSha256": "e3b79e6979f6615b32fd8af1601548bcf776cd0a39e7cfc531a590f94c476faa",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "This belt is...",
+        "sourceText": "This belt is...",
+        "zh": "这条腰带……",
+        "tip": "停一下，先看看画面里的腰带。",
+        "alt": "这条腰带……",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0003/05.jpg",
+        "sourceImageSha256": "699f57f60cfe99e2821fc37384a4f369e4c686b19685719a1ae2d3cea9d4d6f8",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "This hat is small.",
+        "sourceText": "This hat is small.",
+        "zh": "这顶帽子很小。",
+        "tip": "双手靠近，演一演 small。",
+        "alt": "这顶帽子很小。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0003/06.jpg",
+        "sourceImageSha256": "55a72001775ef9edb5fddea2a4b7cce607276a7abffd48ba41e3b64fe54e6066",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The socks are short.",
+        "sourceText": "The socks are short.",
+        "zh": "这些袜子很短。",
+        "tip": "指指袜子，看看长度。",
+        "alt": "这些袜子很短。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0003/07.jpg",
+        "sourceImageSha256": "76a170a2c448ca427293ffa10a7049743933f47f4afa19c54a7e26773321d820",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "But these shoes are new.",
+        "sourceText": "But these shoes are new.",
+        "zh": "可是，这些鞋子是新的。",
+        "tip": "指指鞋子，说 shoes。",
+        "alt": "可是，这些鞋子是新的。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0003/08.jpg",
+        "sourceImageSha256": "357b5e17f7056533910ae4706f46bff0d7d2b6066bdfa05dfacec530c71431e8",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "... they fit well.",
+        "sourceText": "... they fit well.",
+        "zh": "……它们很合脚。",
+        "tip": "看看最后的鞋，聊聊舒服的感觉。",
+        "alt": "……它们很合脚。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0003/09.jpg",
+        "sourceImageSha256": "139c09ccf8e2d6b7cb22c39f78130c40b6e575712d3734b8c0b8bd7935e522dd",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "long",
+        "meaning": "长的",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "big",
+        "meaning": "大的",
+        "pageIndex": 1
+      },
+      {
+        "id": "word-2",
+        "word": "shoes",
+        "meaning": "鞋子",
+        "pageIndex": 6
+      }
+    ],
+    "activity": {
+      "title": "找找合脚的鞋",
+      "text": "和大人看看自己的鞋子是否舒服。说说 big、small，或用手势表示大小。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Charlotte",
+      "voiceId": "en_female_authoritative-british_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  }
+]

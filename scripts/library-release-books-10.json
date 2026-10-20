@@ -1,0 +1,913 @@
+[
+  {
+    "id": "0168",
+    "title": "Pam-Pam bird",
+    "zh": "帕姆帕姆鸟",
+    "stageId": "S3",
+    "primaryTheme": "nature",
+    "themeIds": [
+      "nature"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0168/01.jpg",
+    "sourceCoverSha256": "964b26001ac06420a892db1ef70a71d3f8011621954f5a069d2f56f4baecc7dc",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0168_pam-pam-bird.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Traditional San story",
+        "插画：Manyeka Arts Trust, Pensa Limungu, Kapilolo Mahongo, Marlene Winberg"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "3df7ba66b8629d4ed5e2d7ca2223777bf92c9ff4a4918f323829d3585dd630e2"
+    },
+    "pages": [
+      {
+        "en": "Pensa was the best hunter in the whole Kalahari Desert. He brought home fat animals and fed his family well. There was this bird, the Pam-Pam bird, which Pensa wanted to catch. The bird's tail feathers were perfect for his arrows. The problem was, he could never manage to trap or shoot Pam-Pam. Pensa's arrows would fly through the air just like a bird -- if only he could catch Pam-Pam and pull out his tail feathers!",
+        "sourceText": "Pensa was the best hunter in the whole Kalahari Desert. He brought home fat animals and fed his family well. There was this bird, the Pam-Pam bird, which Pensa wanted to catch. The bird's tail feathers were perfect for his arrows. The problem was, he could never manage to trap or shoot Pam-Pam. Pensa's arrows would fly through the air just like a bird -- if only he could catch Pam-Pam and pull out his tail feathers!",
+        "zh": "彭萨是卡拉哈里沙漠最好的猎人，常带猎物回家，让家人吃饱。他很想捉住帕姆帕姆鸟，因为那鸟的尾羽适合装在箭上，可他总是抓不到。",
+        "tip": "先说这是传统狩猎故事，指指鸟的尾羽。",
+        "alt": "彭萨是卡拉哈里沙漠最好的猎人，常带猎物回家，让家人吃饱。他很想捉住帕姆帕姆鸟，因为那鸟的尾羽适合装在箭上，可他总是抓不到。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0168/02.jpg",
+        "sourceImageSha256": "12194038cc8f31201789683cac26ab57a3a8ac1784134d921f11f309bdc9333e",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Pensa went to the wise man, their healer. He asked for help. \"Please guide me to catch the Pam-Pam bird. I need his feathers for my bow and arrows. What must I do to catch him?\" The healer replied, \"Go and make a fire. When all the insects run away from your fire, you must catch the smallest of them. Make a trap and place this little insect inside your trap. It will tempt the Pam-Pam bird.\"",
+        "sourceText": "Pensa went to the wise man, their healer. He asked for help. \"Please guide me to catch the Pam-Pam bird. I need his feathers for my bow and arrows. What must I do to catch him?\" The healer replied, \"Go and make a fire. When all the insects run away from your fire, you must catch the smallest of them. Make a trap and place this little insect inside your trap. It will tempt the Pam-Pam bird.\"",
+        "zh": "彭萨去找智者兼医者求助。智者让他生火，抓住逃离火焰的最小昆虫，放进陷阱来引诱帕姆帕姆鸟。",
+        "tip": "只听故事，不模仿生火或做陷阱。",
+        "alt": "彭萨去找智者兼医者求助。智者让他生火，抓住逃离火焰的最小昆虫，放进陷阱来引诱帕姆帕姆鸟。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0168/03.jpg",
+        "sourceImageSha256": "d8c9c3e0be645e92b70a91b32e9d2f3186c41a1fe9cdd95371887ed0a3e29df3",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Pensa did not know that the healer and the Pam-Pam bird were friends. Pam-Pam often visited the healer. They exchanged stories. \"I warn you,\" said the healer when Pam-Pam bird visited him, \"I have told the hunter how to catch you. When you see a fire in the veld, you must fly far away. I want to see which one of you will win.\"",
+        "sourceText": "Pensa did not know that the healer and the Pam-Pam bird were friends. Pam-Pam often visited the healer. They exchanged stories. \"I warn you,\" said the healer when Pam-Pam bird visited him, \"I have told the hunter how to catch you. When you see a fire in the veld, you must fly far away. I want to see which one of you will win.\"",
+        "zh": "彭萨不知道，医者和鸟是朋友，常互相讲故事。医者提醒帕姆帕姆鸟，已把捕鸟办法告诉猎人，看到草原起火要飞远些，他想看看谁能获胜。",
+        "tip": "找找正在交谈的两个朋友。",
+        "alt": "彭萨不知道，医者和鸟是朋友，常互相讲故事。医者提醒帕姆帕姆鸟，已把捕鸟办法告诉猎人，看到草原起火要飞远些，他想看看谁能获胜。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0168/04.jpg",
+        "sourceImageSha256": "ebc329316cf910439c38f216bb6581861677882c74279a1491593152af6b18f6",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "In the meantime, Pensa started his hunt for the Pam-Pam bird. He sat in the veld and rubbed and rubbed his fire sticks. When the smoke appeared, he blew into the fine grass around his fire sticks, until the little flame appeared and became a fire. The insects around the flaming grass flew away, but Pensa managed to catch a young grasshopper. He put it into his trap.",
+        "sourceText": "In the meantime, Pensa started his hunt for the Pam-Pam bird. He sat in the veld and rubbed and rubbed his fire sticks. When the smoke appeared, he blew into the fine grass around his fire sticks, until the little flame appeared and became a fire. The insects around the flaming grass flew away, but Pensa managed to catch a young grasshopper. He put it into his trap.",
+        "zh": "彭萨开始行动，坐在草原上摩擦取火棒，吹燃细草。昆虫纷纷逃开，他抓到一只小蚱蜢，放进陷阱。",
+        "tip": "看图找小蚱蜢，说明这是故事中的做法。",
+        "alt": "彭萨开始行动，坐在草原上摩擦取火棒，吹燃细草。昆虫纷纷逃开，他抓到一只小蚱蜢，放进陷阱。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0168/05.jpg",
+        "sourceImageSha256": "2eed67fc8d299bbca2e9cf63b9a8e43c6232f2d2c97ffff3a7acb2bdab1f9462",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The Pam-Pam bird could not resist the juicy young grasshopper in Pensa's trap. He decided to fly down and grab it quickly with his sharp beak. Pensa heard Pam-Pam bird's cry, \"Pam-pam, pam-pam, pam-pam.\" Pensa ran to his trap. The bird was trapped!",
+        "sourceText": "The Pam-Pam bird could not resist the juicy young grasshopper in Pensa's trap. He decided to fly down and grab it quickly with his sharp beak. Pensa heard Pam-Pam bird's cry, \"Pam-pam, pam-pam, pam-pam.\" Pensa ran to his trap. The bird was trapped!",
+        "zh": "帕姆帕姆鸟忍不住想吃鲜嫩的蚱蜢，飞下来用尖嘴叼，结果被困住。彭萨听到叫声，跑向陷阱。",
+        "tip": "指指小鸟，说说它遇到了什么困难。",
+        "alt": "帕姆帕姆鸟忍不住想吃鲜嫩的蚱蜢，飞下来用尖嘴叼，结果被困住。彭萨听到叫声，跑向陷阱。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0168/06.jpg",
+        "sourceImageSha256": "cb1fcf1987c635fd87cea969ae368921e9b31c9b3b8501c7e38c45ff54a845fd",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Pam-Pam bird begged Pensa to set him free. \"Oh no,\" said Pensa, \"I have wanted to catch you for a very long time. Today you are mine! Your feathers will make my arrow fly through the air, just like you.\"",
+        "sourceText": "Pam-Pam bird begged Pensa to set him free. \"Oh no,\" said Pensa, \"I have wanted to catch you for a very long time. Today you are mine! Your feathers will make my arrow fly through the air, just like you.\"",
+        "zh": "鸟恳求彭萨放它自由，彭萨却说自己等了很久，终于抓到它，羽毛能让箭像鸟一样飞。",
+        "tip": "听 free，猜猜鸟会说什么。",
+        "alt": "鸟恳求彭萨放它自由，彭萨却说自己等了很久，终于抓到它，羽毛能让箭像鸟一样飞。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0168/07.jpg",
+        "sourceImageSha256": "21abf9e64c2aad6cfa1270757a7c6292e7f65660c02716ab8ba2867533f5be5e",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Pam-Pam bird screeched, \"If you kill me you will have no more feathers for your arrow when these are worn out, because I will be dead. Set me free and I promise to give you new feathers with each full moon.\"",
+        "sourceText": "Pam-Pam bird screeched, \"If you kill me you will have no more feathers for your arrow when these are worn out, because I will be dead. Set me free and I promise to give you new feathers with each full moon.\"",
+        "zh": "鸟尖叫着说：“杀了我，这些羽毛用旧后，你就再也得不到新羽毛。放了我吧，我保证每逢满月给你新的羽毛。”",
+        "tip": "可以说：鸟在努力争取活下去和自由。",
+        "alt": "鸟尖叫着说：“杀了我，这些羽毛用旧后，你就再也得不到新羽毛。放了我吧，我保证每逢满月给你新的羽毛。”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0168/08.jpg",
+        "sourceImageSha256": "f780575ceb2046621c76d8144d6a882ba70197093e7778aa7f0fe30ed68de5af",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Pensa let Pam-Pam go. As Pam-Pam walked away, he thought, \"Am I really free?\"",
+        "sourceText": "Pensa let Pam-Pam go. As Pam-Pam walked away, he thought, \"Am I really free?\"",
+        "zh": "彭萨放走了鸟。鸟一边走一边想：“我真的自由了吗？”",
+        "tip": "留一点停顿，孩子愿意就聊聊这个问题。",
+        "alt": "彭萨放走了鸟。鸟一边走一边想：“我真的自由了吗？”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0168/09.jpg",
+        "sourceImageSha256": "5737b934c516f31eda99b104043369972cdd0328d07f48d424a7f88cf4e74a8b",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Pensa went home and made new arrows. When the people saw his new arrows, they exclaimed: \"O-o, look at this hunter! He carries the Pam-Pam bird's feathers in his arrows. Now he will hunt well and bring us good food. We shall have a feast!\"",
+        "sourceText": "Pensa went home and made new arrows. When the people saw his new arrows, they exclaimed: \"O-o, look at this hunter! He carries the Pam-Pam bird's feathers in his arrows. Now he will hunt well and bring us good food. We shall have a feast!\"",
+        "zh": "彭萨回家做新箭，人们看见箭上的帕姆帕姆鸟羽毛，期待他打到食物，举行宴会。",
+        "tip": "这页只听，看看村民的神情。",
+        "alt": "彭萨回家做新箭，人们看见箭上的帕姆帕姆鸟羽毛，期待他打到食物，举行宴会。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0168/10.jpg",
+        "sourceImageSha256": "ac5764f36fe922b5fc55766adec18612aff192ccb342d855a0dc57c1ac386b83",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "That night, the healer led the people in a fire dance to celebrate the hunter's success and Pam-Pam bird's freedom. And since that day, all the good hunters remember the story of the Pam-Pam bird, to tell their children as a memory of days gone by.",
+        "sourceText": "That night, the healer led the people in a fire dance to celebrate the hunter's success and Pam-Pam bird's freedom. And since that day, all the good hunters remember the story of the Pam-Pam bird, to tell their children as a memory of days gone by.",
+        "zh": "当晚，医者带大家跳火舞，庆祝猎人的成功和小鸟的自由。从此，猎人们把帕姆帕姆鸟的故事讲给孩子，纪念过去的日子。",
+        "tip": "说说今天观察鸟儿时，可以让它们自由生活。",
+        "alt": "当晚，医者带大家跳火舞，庆祝猎人的成功和小鸟的自由。从此，猎人们把帕姆帕姆鸟的故事讲给孩子，纪念过去的日子。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0168/11.jpg",
+        "sourceImageSha256": "d8071e431c314699c1ea81defdebe0544c4a0de8327ce73a1f3015ee781d6778",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "bird",
+        "meaning": "鸟",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "feathers",
+        "meaning": "羽毛",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-2",
+        "word": "free",
+        "meaning": "自由的",
+        "pageIndex": 5
+      }
+    ],
+    "activity": {
+      "title": "观察一根羽毛的样子",
+      "text": "从书中找一根羽毛，看看形状和颜色。可以画下来，不去捕捉或拔取鸟的羽毛。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Rowan",
+      "voiceId": "en_male_adam-imitation_uranus_bigtts",
+      "locale": "en-US",
+      "accentLabel": "美式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  },
+  {
+    "id": "0185",
+    "title": "How night came to Opio's village",
+    "zh": "夜晚来到奥皮奥的村庄",
+    "stageId": "S3",
+    "primaryTheme": "discovery",
+    "themeIds": [
+      "discovery",
+      "nature"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0185/01.jpg",
+    "sourceCoverSha256": "095f6c4c43ed96c68b040ae392ba0aef2402dc951f25d954846fac491a488fa0",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0185_how-night-came-to-opios-village.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Robert Ekuka",
+        "插画：Wiehan de Jager"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "005c467d697e2b788257d8d4e58289157781e5e76129056628cff7dd7e79fe51"
+    },
+    "pages": [
+      {
+        "en": "Long ago, there was no night in Opio's village. People slept when they were tired and worked when they were awake.",
+        "sourceText": "Long ago, there was no night in Opio's village. People slept when they were tired and worked when they were awake.",
+        "zh": "很久以前，奥皮奥的村庄没有夜晚，人们累了就睡，醒来就工作。",
+        "tip": "先说明这是一则想象夜晚来历的民间故事。",
+        "alt": "很久以前，奥皮奥的村庄没有夜晚，人们累了就睡，醒来就工作。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0185/02.jpg",
+        "sourceImageSha256": "ec0045120b4affd8053d507410012b036d76eb78738aef644703df0863933c36",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "One day Opio went out hunting with his dogs. After a short time, his dogs started to chase an antelope. Opio followed them. He ran for many hours. Every time he became tired, he rested. Then he would run again. But he could not find his dogs.",
+        "sourceText": "One day Opio went out hunting with his dogs. After a short time, his dogs started to chase an antelope. Opio followed them. He ran for many hours. Every time he became tired, he rested. Then he would run again. But he could not find his dogs.",
+        "zh": "一天，奥皮奥带狗去打猎。狗追羚羊，他跟着跑了很久，累了就歇一歇再跑，却始终没找到狗。",
+        "tip": "沿画面指指他走的方向。",
+        "alt": "一天，奥皮奥带狗去打猎。狗追羚羊，他跟着跑了很久，累了就歇一歇再跑，却始终没找到狗。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0185/03.jpg",
+        "sourceImageSha256": "340e00bd9a67f9ac73af698ee6d5dd70facb2666e7d394c98299b917d97fbcb8",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "After many days, he came to a village. He went to one of the houses and said to the owner, \"I have chased an antelope for a long time and I am very tired. I want to rest.\" The man said, \"Sit down and rest. Would you like some beer?\" Opio was very thirsty so he drank some. Then he went to sleep.",
+        "sourceText": "After many days, he came to a village. He went to one of the houses and said to the owner, \"I have chased an antelope for a long time and I am very tired. I want to rest.\" The man said, \"Sit down and rest. Would you like some beer?\" Opio was very thirsty so he drank some. Then he went to sleep.",
+        "zh": "几天后，他到了一座村庄，请一位屋主让他休息。屋主请他坐下，问要不要啤酒。口渴的奥皮奥喝了些，随后睡着。",
+        "tip": "这页先听故事，啤酒是成人饮品。",
+        "alt": "几天后，他到了一座村庄，请一位屋主让他休息。屋主请他坐下，问要不要啤酒。口渴的奥皮奥喝了些，随后睡着。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0185/04.jpg",
+        "sourceImageSha256": "29c45fd83e20f0b1fbba09e3d7264cba15e236e6831490640036636edd5780d2",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "When he woke up, he couldn't see. He opened and closed his eyes many times. \"You have given me something very bad to drink,\" he said to the man. \"I can't see properly anymore!\" \"There is nothing wrong with you,\" the man replied. \"It's night now. Haven't you ever seen night? When the day leaves, the night comes.\"",
+        "sourceText": "When he woke up, he couldn't see. He opened and closed his eyes many times. \"You have given me something very bad to drink,\" he said to the man. \"I can't see properly anymore!\" \"There is nothing wrong with you,\" the man replied. \"It's night now. Haven't you ever seen night? When the day leaves, the night comes.\"",
+        "zh": "醒来后他看不见了，反复睁眼闭眼，责怪屋主给了坏饮料。屋主解释，他没生病，只是夜晚到了：白天离开，夜晚就来。",
+        "tip": "指指变暗的天空，听 night。",
+        "alt": "醒来后他看不见了，反复睁眼闭眼，责怪屋主给了坏饮料。屋主解释，他没生病，只是夜晚到了：白天离开，夜晚就来。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0185/05.jpg",
+        "sourceImageSha256": "e6d29dad9fb9b1268ecbcf14d53814ef03ec574508615a8b51e9e6cafc83cf9b",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Opio asked many questions about the night. He began to like it very much. He and his new friend talked until morning. He stayed for another day so that he could see the night come again.",
+        "sourceText": "Opio asked many questions about the night. He began to like it very much. He and his new friend talked until morning. He stayed for another day so that he could see the night come again.",
+        "zh": "奥皮奥问了许多夜晚的问题，渐渐喜欢上它。他和新朋友聊到清晨，又多住一天，想再看一次夜晚来临。",
+        "tip": "说说孩子喜欢夜晚的什么。",
+        "alt": "奥皮奥问了许多夜晚的问题，渐渐喜欢上它。他和新朋友聊到清晨，又多住一天，想再看一次夜晚来临。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0185/06.jpg",
+        "sourceImageSha256": "2155aa6a94973c6a32a05becbdce109c0178e8d028f9b7599237658bcd5ebecb",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The next morning he asked his friend, \"How can I take the night to my own village? I want my people to see the night.\" \"When it starts to get dark this evening, walk to your village. If you look straight in front, the night will follow you. But you must not look back. If you look back, the night will go away.\"",
+        "sourceText": "The next morning he asked his friend, \"How can I take the night to my own village? I want my people to see the night.\" \"When it starts to get dark this evening, walk to your village. If you look straight in front, the night will follow you. But you must not look back. If you look back, the night will go away.\"",
+        "zh": "第二天，他问怎样把夜晚带回村里。朋友说，傍晚天黑时往家走，只要一直看前方，不回头，夜晚就会跟着他；一回头，夜晚就走了。",
+        "tip": "听听故事里的奇妙办法，不把它当真实原因。",
+        "alt": "第二天，他问怎样把夜晚带回村里。朋友说，傍晚天黑时往家走，只要一直看前方，不回头，夜晚就会跟着他；一回头，夜晚就走了。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0185/07.jpg",
+        "sourceImageSha256": "b61c4d01e06aa907a96409ac5ed67a12ec88dabb3011a4236331bec719f402ca",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Opio did as he was told. That evening, he began to walk towards his village. He felt the dark night behind him as he walked. He wanted to look back. But he did not.",
+        "sourceText": "Opio did as he was told. That evening, he began to walk towards his village. He felt the dark night behind him as he walked. He wanted to look back. But he did not.",
+        "zh": "奥皮奥照做了。傍晚他朝村庄走，感到黑夜跟在身后，虽然想回头，却没有回头。",
+        "tip": "用手指在图上演一演回家的路。",
+        "alt": "奥皮奥照做了。傍晚他朝村庄走，感到黑夜跟在身后，虽然想回头，却没有回头。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0185/08.jpg",
+        "sourceImageSha256": "095f6c4c43ed96c68b040ae392ba0aef2402dc951f25d954846fac491a488fa0",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "When he came to his village, the villagers were afraid. \"What disease have you brought to us, Opio?\" they asked. \"What is this dark thing following you?\" Opio said, \"My friends, this dark thing is called night. Now you are afraid and I was afraid, too.\"",
+        "sourceText": "When he came to his village, the villagers were afraid. \"What disease have you brought to us, Opio?\" they asked. \"What is this dark thing following you?\" Opio said, \"My friends, this dark thing is called night. Now you are afraid and I was afraid, too.\"",
+        "zh": "到了村里，大家害怕地问他带来什么疾病，身后那黑东西是什么。他解释，那叫夜晚，自己最初也害怕。",
+        "tip": "说说第一次遇到不熟悉的事，害怕很正常。",
+        "alt": "到了村里，大家害怕地问他带来什么疾病，身后那黑东西是什么。他解释，那叫夜晚，自己最初也害怕。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0185/09.jpg",
+        "sourceImageSha256": "9261e19125263d29c2e4c200861b6b07116f1a04c963671d580fb6a6e76e7296",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "\"But you will learn to like the night. When the light comes we can work and when night comes, we can rest.\"",
+        "sourceText": "\"But you will learn to like the night. When the light comes we can work and when night comes, we can rest.\"",
+        "zh": "“你们也会喜欢夜晚。白天我们工作，夜晚我们休息。”",
+        "tip": "做一个休息的手势，听 rest。",
+        "alt": "“你们也会喜欢夜晚。白天我们工作，夜晚我们休息。”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0185/10.jpg",
+        "sourceImageSha256": "50fbcc59bb1810ca1d0e7bf265d9d0d1e0fff6abe009c5905f56967cf99de60d",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "And that is how night came to Opio's village.",
+        "sourceText": "And that is how night came to Opio's village.",
+        "zh": "夜晚就这样来到了奥皮奥的村庄。",
+        "tip": "说明现实的昼夜来自地球自转，故事是一种想象。",
+        "alt": "夜晚就这样来到了奥皮奥的村庄。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0185/11.jpg",
+        "sourceImageSha256": "b6ef83f5bdabd4ccdb302f47c1bb0ceae7c250e4f2dc3f77bea54a3528ffd675",
+        "imageWidth": 542,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "night",
+        "meaning": "夜晚",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "village",
+        "meaning": "村庄",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-2",
+        "word": "rest",
+        "meaning": "休息",
+        "pageIndex": 2
+      }
+    ],
+    "activity": {
+      "title": "白天与夜晚",
+      "text": "在纸上画两个小圆，一个画白天，一个画夜晚。说说两个时段喜欢做的事。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Charlotte",
+      "voiceId": "en_female_authoritative-british_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  },
+  {
+    "id": "0195",
+    "title": "Sindiwe and the Fireflies",
+    "zh": "辛迪韦与萤火虫",
+    "stageId": "S3",
+    "primaryTheme": "feelings",
+    "themeIds": [
+      "feelings",
+      "everyday"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0195/01.jpg",
+    "sourceCoverSha256": "bc59efb9ba8adeb84022be44534858b0600f7e478aace93c0148bcd0832da890",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0195_sindiwe-and-the-fireflies.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Cheré ne Pienaar",
+        "插画：Jano Strydom, Candace di Talamo"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "cd2e4b46bfe0f728e1a0a5db925abdb6ee20f80a09bdb57c621bec6a4ef8603c"
+    },
+    "pages": [
+      {
+        "en": "One day a very clever baby was born in Gungululu in the Eastern Cape. Her name was Sindiwe Magona. She was the oldest of eight children.",
+        "sourceText": "One day a very clever baby was born in Gungululu in the Eastern Cape. Her name was Sindiwe Magona. She was the oldest of eight children.",
+        "zh": "一天，一个聪明的女婴在东开普省贡古卢卢出生。她叫辛迪韦·马戈纳，是八个孩子中的老大。",
+        "tip": "先认识辛迪韦，不必记住长地名。",
+        "alt": "一天，一个聪明的女婴在东开普省贡古卢卢出生。她叫辛迪韦·马戈纳，是八个孩子中的老大。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0195/02.jpg",
+        "sourceImageSha256": "9bacde19d64d206fdc6b53604389ea9fbcfb6208d8d8ffc4f0fa341d1adaffd9",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "At night, her grandmother told magical stories about ogres and giants, animals of the forests, great beasts, and little creatures of the veld. It was Sindiwe's favourite time.",
+        "sourceText": "At night, her grandmother told magical stories about ogres and giants, animals of the forests, great beasts, and little creatures of the veld. It was Sindiwe's favourite time.",
+        "zh": "晚上，奶奶讲神奇的故事，有妖怪、巨人、森林动物、大野兽和草原小生灵。这是辛迪韦最喜欢的时光。",
+        "tip": "说说自己喜欢听谁讲故事。",
+        "alt": "晚上，奶奶讲神奇的故事，有妖怪、巨人、森林动物、大野兽和草原小生灵。这是辛迪韦最喜欢的时光。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0195/03.jpg",
+        "sourceImageSha256": "0ab8043a3212e3e723954b68b013110abd95875524cfd1ee0b7fd01f8d0ed25a",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Sindiwe loved school and she dreamed about being a teacher.",
+        "sourceText": "Sindiwe loved school and she dreamed about being a teacher.",
+        "zh": "辛迪韦喜欢学校，梦想当老师。",
+        "tip": "听 teacher，指指她读书的样子。",
+        "alt": "辛迪韦喜欢学校，梦想当老师。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0195/04.jpg",
+        "sourceImageSha256": "1854dc728d35d5cc245bded52a2807cb12bb925bbc113ada290593f57796fd5b",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "When Sindiwe became a teenager, her family organised a feast to celebrate. She was given special things to wear and a wise old man sang a praise song to her. (Blessings, long life! May your ancestors guard you!)",
+        "sourceText": "When Sindiwe became a teenager, her family organised a feast to celebrate. She was given special things to wear and a wise old man sang a praise song to her. (Blessings, long life! May your ancestors guard you!)",
+        "zh": "辛迪韦长到十几岁，家人为她办宴会，送上特别的服饰，一位智者唱赞歌，祝她长寿、得到祖先守护。",
+        "tip": "看看故事里的庆祝服饰。",
+        "alt": "辛迪韦长到十几岁，家人为她办宴会，送上特别的服饰，一位智者唱赞歌，祝她长寿、得到祖先守护。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0195/05.jpg",
+        "sourceImageSha256": "e033e9c9572a071539fc174402f70cb9ac0766f57f1839e628ea8882ee17a9e5",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Sindiwe trained to be a teacher. She was very excited to teach at her first school. But there weren't enough schools for black children and they had no desks or books to write in. This made Sindiwe feel scared. How could she be a good teacher when the children had nowhere to sit?",
+        "sourceText": "Sindiwe trained to be a teacher. She was very excited to teach at her first school. But there weren't enough schools for black children and they had no desks or books to write in. This made Sindiwe feel scared. How could she be a good teacher when the children had nowhere to sit?",
+        "zh": "她接受师范训练，兴奋地开始教书。可黑人孩子的学校不够，也没有桌子和练习本，她担心孩子连坐的地方都没有，该怎样教好他们。",
+        "tip": "用简单中文说：每个孩子都需要学习的机会。",
+        "alt": "她接受师范训练，兴奋地开始教书。可黑人孩子的学校不够，也没有桌子和练习本，她担心孩子连坐的地方都没有，该怎样教好他们。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0195/06.jpg",
+        "sourceImageSha256": "15373b01a27cce4bcc02c5096576e0260bb301c720d471b2f7a6ee4962f363a7",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "She left the school to work as a cleaner. She worked in four different houses. Sometimes the people there treated her badly and Sindiwe became very unhappy.",
+        "sourceText": "She left the school to work as a cleaner. She worked in four different houses. Sometimes the people there treated her badly and Sindiwe became very unhappy.",
+        "zh": "她离开学校，去四户人家做清洁工。有时受到不好的对待，十分难过。",
+        "tip": "先听她的感受，不要求孩子分析原因。",
+        "alt": "她离开学校，去四户人家做清洁工。有时受到不好的对待，十分难过。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0195/07.jpg",
+        "sourceImageSha256": "58b87fdd4693d6cd140c1d717410934133ee212c49a0e799c19561c7121cd660",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "All this time Sindiwe studied. Her hard work paid off! She won a scholarship to study at a university in New York. She and her three small children packed their bags and flew across the sea to the United States of America.",
+        "sourceText": "All this time Sindiwe studied. Her hard work paid off! She won a scholarship to study at a university in New York. She and her three small children packed their bags and flew across the sea to the United States of America.",
+        "zh": "她一直没有停止学习，努力终于得到回报，赢得去纽约大学学习的奖学金，带着三个年幼的孩子飞越大海，来到美国。",
+        "tip": "指指行李或飞机，看看生活的变化。",
+        "alt": "她一直没有停止学习，努力终于得到回报，赢得去纽约大学学习的奖学金，带着三个年幼的孩子飞越大海，来到美国。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0195/08.jpg",
+        "sourceImageSha256": "88dfa9cd343dfd00087aa0098c750664aa323baa6acac20d082b733d83c7602d",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "In New York, Sindiwe studied to become a social worker. She wanted to help families make their lives better.",
+        "sourceText": "In New York, Sindiwe studied to become a social worker. She wanted to help families make their lives better.",
+        "zh": "在纽约，辛迪韦学习成为社会工作者，希望帮助家庭过上更好的生活。",
+        "tip": "说说帮助别人可以做的一件小事。",
+        "alt": "在纽约，辛迪韦学习成为社会工作者，希望帮助家庭过上更好的生活。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0195/09.jpg",
+        "sourceImageSha256": "73612119355f8961c4b07d788425ad60d9dfb0cc904d0a16e8866b855c6f1c73",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "When she finished studying, the United Nations gave Sindiwe a job. Most of the countries in the world meet at the United Nations to talk about their problems.",
+        "sourceText": "When she finished studying, the United Nations gave Sindiwe a job. Most of the countries in the world meet at the United Nations to talk about their problems.",
+        "zh": "毕业后，联合国给了她一份工作。世界上许多国家会在那里一起讨论问题。",
+        "tip": "可以简单说：很多国家的人一起想办法。",
+        "alt": "毕业后，联合国给了她一份工作。世界上许多国家会在那里一起讨论问题。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0195/10.jpg",
+        "sourceImageSha256": "e1addd3a081f095c716c6ff4055463c50178d5509c1b23870abbcaaa6fa3e776",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Sindiwe told the world about South Africa, and how hard it was for black people living there. The people at the United Nations loved to listen to Sindiwe's stories. They wanted to learn more and more about South Africans. Perhaps, together, they could help to change things in South Africa.",
+        "sourceText": "Sindiwe told the world about South Africa, and how hard it was for black people living there. The people at the United Nations loved to listen to Sindiwe's stories. They wanted to learn more and more about South Africans. Perhaps, together, they could help to change things in South Africa.",
+        "zh": "辛迪韦向世界讲述南非，以及那里的黑人生活有多艰难。联合国的人喜欢听她的故事，想了解更多，也许能一起促成改变。",
+        "tip": "听 stories，想想讲述也能帮助别人了解。",
+        "alt": "辛迪韦向世界讲述南非，以及那里的黑人生活有多艰难。联合国的人喜欢听她的故事，想了解更多，也许能一起促成改变。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0195/11.jpg",
+        "sourceImageSha256": "5cd69bffe1b892ee53d50f38cf92329c77189f98dd032708589c127fed93cc46",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "She worked at the United Nations for twenty years while her children grew into adults. But Sindiwe missed the country where she was born. She wanted to tell her stories to the people at home. So she packed her luggage, got on a plane and flew back over the sea to Cape Town.",
+        "sourceText": "She worked at the United Nations for twenty years while her children grew into adults. But Sindiwe missed the country where she was born. She wanted to tell her stories to the people at home. So she packed her luggage, got on a plane and flew back over the sea to Cape Town.",
+        "zh": "她在联合国工作了二十年，孩子渐渐长大。她思念出生的国家，想把故事讲给家乡的人，于是收拾行李，飞回开普敦。",
+        "tip": "看看回家的辛迪韦，聊一句想家的感觉。",
+        "alt": "她在联合国工作了二十年，孩子渐渐长大。她思念出生的国家，想把故事讲给家乡的人，于是收拾行李，飞回开普敦。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0195/12.jpg",
+        "sourceImageSha256": "7010a83c98431271f571c1f40760041c61c6b1f4f16a0006a72236e7fccfb3ab",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Sindiwe's love for books and stories have helped her write piles and piles of books. And children and grown-ups love to read her stories. Many people call her Nomabali because she's always writing, telling and reading stories.",
+        "sourceText": "Sindiwe's love for books and stories have helped her write piles and piles of books. And children and grown-ups love to read her stories. Many people call her Nomabali because she's always writing, telling and reading stories.",
+        "zh": "对书和故事的热爱，让她写出许许多多书，孩子和大人都爱读。人们叫她诺玛巴丽，因为她总在写、讲、读故事。",
+        "tip": "选一本喜欢的书，说说想邀请谁一起读。",
+        "alt": "对书和故事的热爱，让她写出许许多多书，孩子和大人都爱读。人们叫她诺玛巴丽，因为她总在写、讲、读故事。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0195/13.jpg",
+        "sourceImageSha256": "f7632c00287e1d88d5028e5eee74771444bd1e6651f2310278a3963ab02b41d4",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "stories",
+        "meaning": "故事",
+        "pageIndex": 1
+      },
+      {
+        "id": "word-1",
+        "word": "teacher",
+        "meaning": "老师",
+        "pageIndex": 2
+      },
+      {
+        "id": "word-2",
+        "word": "books",
+        "meaning": "书",
+        "pageIndex": 11
+      }
+    ],
+    "activity": {
+      "title": "讲一个家庭小故事",
+      "text": "邀请家人讲一件小时候的小事。孩子只听，或画下最喜欢的一幕都可以。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Knightley",
+      "voiceId": "en_male_knightley_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  },
+  {
+    "id": "0197",
+    "title": "Dog and Crocodile",
+    "zh": "小狗和鳄鱼",
+    "stageId": "S3",
+    "primaryTheme": "nature",
+    "themeIds": [
+      "nature",
+      "feelings"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0197/01.jpg",
+    "sourceCoverSha256": "8d8f598e75a27d79cda07d20c35d6eef4c73d1e0667254146302c266e272ee79",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0197_dog-and-crocodile.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Candiru Enzikuru Mary",
+        "插画：Rob Owen"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "ef8c910f1670d1757f2e9e31270f30df0812c22b83317184c361ae165e4d9138"
+    },
+    "pages": [
+      {
+        "en": "One day at the river, Dog came across some eggs in the sand. He asked himself, \"Which animal left these eggs here?\"",
+        "sourceText": "One day at the river, Dog came across some eggs in the sand. He asked himself, \"Which animal left these eggs here?\"",
+        "zh": "一天，小狗在河边沙地上发现一些蛋，心想：“谁把蛋留在这里？”",
+        "tip": "找一找沙地上的蛋。",
+        "alt": "一天，小狗在河边沙地上发现一些蛋，心想：“谁把蛋留在这里？”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0197/02.jpg",
+        "sourceImageSha256": "b342c603c10f9ec8cf66cce9143deea8cd079dd89f88b66f899607d0d04fae82",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "He counted ten eggs and thought they might belong to Duck. He put them in his bag.",
+        "sourceText": "He counted ten eggs and thought they might belong to Duck. He put them in his bag.",
+        "zh": "它数了数，有十个，以为可能是鸭蛋，就装进包里。",
+        "tip": "指指蛋，说 eggs，不必数全。",
+        "alt": "它数了数，有十个，以为可能是鸭蛋，就装进包里。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0197/03.jpg",
+        "sourceImageSha256": "b7b8e5e5f3f0d60abc75cb86fb2b1af430baeddf1f419586b38099ebceb1b178",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "He took the eggs home and put them in a warm place.",
+        "sourceText": "He took the eggs home and put them in a warm place.",
+        "zh": "它把蛋带回家，放到温暖的地方。",
+        "tip": "看一看小狗把蛋放在哪里。",
+        "alt": "它把蛋带回家，放到温暖的地方。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0197/04.jpg",
+        "sourceImageSha256": "4aa09f35c19202b28cd0d095f6c7e1e07b4ae382a8cad159fd62b94d5f22b351",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "When Dog returned to the river, he met Crocodile. She asked, \"Have you seen my eggs?\"\"I don't know anything about your eggs,\" he replied.",
+        "sourceText": "When Dog returned to the river, he met Crocodile. She asked, \"Have you seen my eggs?\"\"I don't know anything about your eggs,\" he replied.",
+        "zh": "小狗再到河边时遇见鳄鱼。鳄鱼问它见过自己的蛋没有，它却说不知道。",
+        "tip": "说说小狗知道的和说出口的一样吗。",
+        "alt": "小狗再到河边时遇见鳄鱼。鳄鱼问它见过自己的蛋没有，它却说不知道。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0197/05.jpg",
+        "sourceImageSha256": "fbee21f4f5282a2b812ba7e965670feeffa3708cbeafa69a6abbc84b153453c6",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Crocodile started visiting all the animals asking about her eggs.",
+        "sourceText": "Crocodile started visiting all the animals asking about her eggs.",
+        "zh": "鳄鱼开始挨个拜访动物，打听自己的蛋。",
+        "tip": "看看鳄鱼妈妈着急的样子。",
+        "alt": "鳄鱼开始挨个拜访动物，打听自己的蛋。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0197/06.jpg",
+        "sourceImageSha256": "0e06e6713663dfc339dc6a9cc402a0ee159f21b00966cbaccc5f24c88c2982bf",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Meanwhile, the eggs hatched one by one.",
+        "sourceText": "Meanwhile, the eggs hatched one by one.",
+        "zh": "与此同时，蛋一个接一个孵化了。",
+        "tip": "找找从蛋里出来的小动物。",
+        "alt": "与此同时，蛋一个接一个孵化了。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0197/07.jpg",
+        "sourceImageSha256": "3112451b0ce70d32cebd2081e6a991931b87c3c5f3932d44be9f837f9d479f27",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Dog did his best to look after the baby crocodiles, but there was never enough food. The young crocodiles were always hungry.",
+        "sourceText": "Dog did his best to look after the baby crocodiles, but there was never enough food. The young crocodiles were always hungry.",
+        "zh": "小狗尽力照顾鳄鱼宝宝，可食物总是不够，宝宝们一直很饿。",
+        "tip": "听 hungry，看看宝宝需要什么。",
+        "alt": "小狗尽力照顾鳄鱼宝宝，可食物总是不够，宝宝们一直很饿。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0197/08.jpg",
+        "sourceImageSha256": "79758b9b85450ad07f84159ae1a2a56d94b869e3e668cc08201402b669728ea2",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "One day Crocodile went to Dog's house looking for her eggs. As she stood outside, she heard the rumbling of little crocodile bellies!",
+        "sourceText": "One day Crocodile went to Dog's house looking for her eggs. As she stood outside, she heard the rumbling of little crocodile bellies!",
+        "zh": "一天，鳄鱼来小狗家找蛋，站在外面就听到小鳄鱼肚子咕咕叫。",
+        "tip": "轻轻模仿肚子咕咕声。",
+        "alt": "一天，鳄鱼来小狗家找蛋，站在外面就听到小鳄鱼肚子咕咕叫。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0197/09.jpg",
+        "sourceImageSha256": "16c9d15b6ed5f887c03e07a6f024aeb1704b7c361f1bcb8f9a0b77448503fef8",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Crocodile stormed inside and hit Dog with her tail. Dog yelped and jumped through the window.",
+        "sourceText": "Crocodile stormed inside and hit Dog with her tail. Dog yelped and jumped through the window.",
+        "zh": "鳄鱼冲进屋，用尾巴打小狗，小狗尖叫着跳出窗子。",
+        "tip": "说一句：生气时也不能打人。",
+        "alt": "鳄鱼冲进屋，用尾巴打小狗，小狗尖叫着跳出窗子。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0197/10.jpg",
+        "sourceImageSha256": "46b3c0e2fc569054233da8b2a26fd15287162d029484cd19c21517092a848042",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Crocodile chased Dog all the way to the river.",
+        "sourceText": "Crocodile chased Dog all the way to the river.",
+        "zh": "鳄鱼一直追小狗到河边。",
+        "tip": "用手指指一指它们跑的方向。",
+        "alt": "鳄鱼一直追小狗到河边。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0197/11.jpg",
+        "sourceImageSha256": "86949fec104f291d96ded4deb88e34d98e7f4523ad6c0f3cf8d534297214eaa7",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Dog cried, \"I'm sorry, I didn't know they were your eggs!\"",
+        "sourceText": "Dog cried, \"I'm sorry, I didn't know they were your eggs!\"",
+        "zh": "小狗喊：“对不起，我不知道是你的蛋！”",
+        "tip": "轻声听 sorry，说说道歉可以怎样表达。",
+        "alt": "小狗喊：“对不起，我不知道是你的蛋！”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0197/12.jpg",
+        "sourceImageSha256": "8d8f598e75a27d79cda07d20c35d6eef4c73d1e0667254146302c266e272ee79",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Crocodile believed him and forgave him. She took her offspring for their first swimming lesson.",
+        "sourceText": "Crocodile believed him and forgave him. She took her offspring for their first swimming lesson.",
+        "zh": "鳄鱼相信并原谅了小狗，带着宝宝去上第一堂游泳课。",
+        "tip": "看看团聚的一家，提醒野生动物的蛋应留在原处。",
+        "alt": "鳄鱼相信并原谅了小狗，带着宝宝去上第一堂游泳课。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0197/13.jpg",
+        "sourceImageSha256": "8e285077c11322baf89f551c030a42d458c776a109ebfb6aeb5b1249e351c32e",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "eggs",
+        "meaning": "蛋",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "hungry",
+        "meaning": "饥饿的",
+        "pageIndex": 6
+      },
+      {
+        "id": "word-2",
+        "word": "sorry",
+        "meaning": "对不起",
+        "pageIndex": 10
+      }
+    ],
+    "activity": {
+      "title": "发现鸟蛋怎么办",
+      "text": "在书里找一找蛋和小动物。现实中发现野生动物的蛋，就留在原处，告诉大人。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Rowan",
+      "voiceId": "en_male_adam-imitation_uranus_bigtts",
+      "locale": "en-US",
+      "accentLabel": "美式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  },
+  {
+    "id": "0198",
+    "title": "Soccer game Chiefs and Aces",
+    "zh": "我们是一个球队",
+    "stageId": "S2",
+    "primaryTheme": "feelings",
+    "themeIds": [
+      "feelings",
+      "everyday"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0198/01.jpg",
+    "sourceCoverSha256": "8e4ae484c957dff03c0a15be2436f25c013d7fdbcd2f85de7a3cfee851910ac7",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0198_soccer-game-chiefs-and-aces.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Letta Machoga",
+        "插画：Vusi Malindi"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "abb52612b9fa641515a59c8d56a761af8553e9a174e0f51f1a9fe080d3689069"
+    },
+    "pages": [
+      {
+        "en": "The day that we've been talking about has come. We are going to play soccer. Chiefs versus Aces. Come and watch! Come with your vuvuzela!",
+        "sourceText": "The day that we've been talking about has come. We are going to play soccer. Chiefs versus Aces. Come and watch! Come with your vuvuzela!",
+        "zh": "大家一直谈论的日子到了！酋长队要和王牌队踢足球，快来观看，带上你的呜呜祖拉喇叭！",
+        "tip": "找找足球，听 soccer。",
+        "alt": "大家一直谈论的日子到了！酋长队要和王牌队踢足球，快来观看，带上你的呜呜祖拉喇叭！",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0198/02.jpg",
+        "sourceImageSha256": "4f36555b95407748d5951362520ee2c452a71dd937164350b40a5542f009f078",
+        "imageWidth": 502,
+        "imageHeight": 546
+      },
+      {
+        "en": "Wonderful Chiefs, the cup must come to sleep at home. I want us to work together as a team in order to defeat Aces. We must attack wisely, be careful, and pass to each other.",
+        "sourceText": "Wonderful Chiefs, the cup must come to sleep at home. I want us to work together as a team in order to defeat Aces. We must attack wisely, be careful, and pass to each other.",
+        "zh": "棒棒的酋长队，要把奖杯带回家！让我们像一个团队那样合作，聪明地进攻，小心应对，互相传球，战胜王牌队。",
+        "tip": "用中文说说 team 就是一起配合的队伍。",
+        "alt": "棒棒的酋长队，要把奖杯带回家！让我们像一个团队那样合作，聪明地进攻，小心应对，互相传球，战胜王牌队。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0198/03.jpg",
+        "sourceImageSha256": "75db701c383658316b3a4840fbbf61cffe003665a18f271f63a99feb972cb26a",
+        "imageWidth": 489,
+        "imageHeight": 546
+      },
+      {
+        "en": "Pass the ball, pass it, Portia, Modise! Defend, defend, Jomo! There it is, there it is, let it go to the goals!",
+        "sourceText": "Pass the ball, pass it, Portia, Modise! Defend, defend, Jomo! There it is, there it is, let it go to the goals!",
+        "zh": "传球！传球，波西亚、莫迪塞！防守，乔莫！球在那里，让它进球门！",
+        "tip": "用手指演一演传球的方向。",
+        "alt": "传球！传球，波西亚、莫迪塞！防守，乔莫！球在那里，让它进球门！",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0198/04.jpg",
+        "sourceImageSha256": "8e4ae484c957dff03c0a15be2436f25c013d7fdbcd2f85de7a3cfee851910ac7",
+        "imageWidth": 480,
+        "imageHeight": 546
+      },
+      {
+        "en": "You played wonderfully, my beautiful Chiefs! You attacked wisely, you were careful, and you shared the ball. You played as a real team!",
+        "sourceText": "You played wonderfully, my beautiful Chiefs! You attacked wisely, you were careful, and you shared the ball. You played as a real team!",
+        "zh": "你们踢得真好，我的酋长队！进攻聪明，小心又会传球，真正像一个团队！",
+        "tip": "说说他们怎样互相帮助。",
+        "alt": "你们踢得真好，我的酋长队！进攻聪明，小心又会传球，真正像一个团队！",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0198/05.jpg",
+        "sourceImageSha256": "8105f1a4289064c258857d1fb6d26e77f3b85800393a9d17e59f3bb8c340fc15",
+        "imageWidth": 465,
+        "imageHeight": 546
+      },
+      {
+        "en": "'High Five! Give yourselves a hand!' says the coach.",
+        "sourceText": "'High Five! Give yourselves a hand!' says the coach.",
+        "zh": "“击掌！为自己鼓掌！”教练说。",
+        "tip": "和孩子轻轻击掌。",
+        "alt": "“击掌！为自己鼓掌！”教练说。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0198/06.jpg",
+        "sourceImageSha256": "87e8dbb567bfb8ab929e18348d9abf28c34ff3adeb45a878d7b7ef1fd8fbaa9a",
+        "imageWidth": 462,
+        "imageHeight": 546
+      },
+      {
+        "en": "Oh! We are tired, but it was good to prepare ourselves. When is the match, Coach?",
+        "sourceText": "Oh! We are tired, but it was good to prepare ourselves. When is the match, Coach?",
+        "zh": "我们很累，但好好准备很值得。教练，比赛什么时候开始？",
+        "tip": "猜一猜：刚才是在练习还是正式比赛？",
+        "alt": "我们很累，但好好准备很值得。教练，比赛什么时候开始？",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0198/07.jpg",
+        "sourceImageSha256": "53c640e6222026af1ccb292d955e4d0c9a61a182fcebf8ee3e85bdf843375a05",
+        "imageWidth": 529,
+        "imageHeight": 546
+      },
+      {
+        "en": "The day came that we were waiting for. The coach brought us the kit. Halala Chiefs, halala! It's going to be a good game. The cup is ours!",
+        "sourceText": "The day came that we were waiting for. The coach brought us the kit. Halala Chiefs, halala! It's going to be a good game. The cup is ours!",
+        "zh": "盼望的日子终于到了，教练带来队服。为酋长队欢呼，这会是一场精彩的比赛，我们想赢得奖杯！",
+        "tip": "找找队服，看看大家的心情。",
+        "alt": "盼望的日子终于到了，教练带来队服。为酋长队欢呼，这会是一场精彩的比赛，我们想赢得奖杯！",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0198/08.jpg",
+        "sourceImageSha256": "59f6b3afa8de5f93d988575a5cdda21e2b56e2ada635790500f85d78c09656be",
+        "imageWidth": 463,
+        "imageHeight": 546
+      },
+      {
+        "en": "Our kit is so beautiful! Thank you, coach! You are a wonderful coach!",
+        "sourceText": "Our kit is so beautiful! Thank you, coach! You are a wonderful coach!",
+        "zh": "队服真漂亮！谢谢教练，您真是位好教练！",
+        "tip": "练一句“谢谢你”，不必背长句。",
+        "alt": "队服真漂亮！谢谢教练，您真是位好教练！",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0198/09.jpg",
+        "sourceImageSha256": "c373e8c1588e162af1ae36a069d4c06065f357859f26c15fc64ba285fa36a20a",
+        "imageWidth": 464,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "soccer",
+        "meaning": "足球运动",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "team",
+        "meaning": "团队",
+        "pageIndex": 1
+      },
+      {
+        "id": "word-2",
+        "word": "coach",
+        "meaning": "教练",
+        "pageIndex": 4
+      }
+    ],
+    "activity": {
+      "title": "轻轻传一次球",
+      "text": "在安全的空地，把软球轻轻滚给家人，再接回来。也可以用纸团在桌面演一演。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Charlotte",
+      "voiceId": "en_female_authoritative-british_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  }
+]

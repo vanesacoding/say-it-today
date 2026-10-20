@@ -1,0 +1,879 @@
+[
+  {
+    "id": "0004",
+    "title": "Goat, Dog, and Cow",
+    "zh": "山羊、小狗和奶牛",
+    "stageId": "S3",
+    "primaryTheme": "nature",
+    "themeIds": [
+      "nature",
+      "everyday"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0004/01.jpg",
+    "sourceCoverSha256": "bb11a2240aef67459f08042c2929fa5af89d61bf42666ea95517ed7d19e22315",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0004_goat-dog-and-cow.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Fabian Wakholi",
+        "插画：Marleen Visser, Ingrid Schechter"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "37a94dc6188d5d1f039e9f0fa0fe4cc3cdcc54c65163cbb92f2c1eeb5dcf3a52"
+    },
+    "pages": [
+      {
+        "en": "Goat, Dog, and Cow were great friends. One day they went on a journey in a taxi.",
+        "sourceText": "Goat, Dog, and Cow were great friends. One day they went on a journey in a taxi.",
+        "zh": "山羊、小狗和奶牛是好朋友。一天，他们乘出租车去旅行。",
+        "tip": "指指三位乘客，和孩子说 taxi。",
+        "alt": "山羊、小狗和奶牛是好朋友。一天，他们乘出租车去旅行。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0004/02.jpg",
+        "sourceImageSha256": "bb11a2240aef67459f08042c2929fa5af89d61bf42666ea95517ed7d19e22315",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "When they reached the end of their journey, the driver asked them to pay their fares. Cow paid her fare.",
+        "sourceText": "When they reached the end of their journey, the driver asked them to pay their fares. Cow paid her fare.",
+        "zh": "到达目的地时，司机请他们付车费。奶牛付了钱。",
+        "tip": "请孩子找一找正在付钱的奶牛。",
+        "alt": "到达目的地时，司机请他们付车费。奶牛付了钱。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0004/03.jpg",
+        "sourceImageSha256": "0aec028c8b70b4b185b3416b8df34febea2b27c66af6aadcde18226c69cf9d11",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Dog paid a bit extra, because he did not have the correct money.",
+        "sourceText": "Dog paid a bit extra, because he did not have the correct money.",
+        "zh": "小狗没有正好的零钱，多付了一点钱。",
+        "tip": "伸出手掌，演一演小狗付钱。",
+        "alt": "小狗没有正好的零钱，多付了一点钱。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0004/04.jpg",
+        "sourceImageSha256": "bb8d1dc439bc4c1c4062a61cfddc969de0b30fc5da2d04128d1c3398cd2b02ae",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The driver was about to give Dog his change when Goat ran away without paying anything.",
+        "sourceText": "The driver was about to give Dog his change when Goat ran away without paying anything.",
+        "zh": "司机正要给小狗找零，山羊却一分钱也没付就跑走了。",
+        "tip": "暂停一下，让孩子指指跑走的是谁。",
+        "alt": "司机正要给小狗找零，山羊却一分钱也没付就跑走了。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0004/05.jpg",
+        "sourceImageSha256": "3ecefa3ee1e56ad340b58afeb99a128c0f1f8b21338f561eda2cda2bfad8807e",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The driver was very annoyed. He drove away without giving Dog his change.",
+        "sourceText": "The driver was very annoyed. He drove away without giving Dog his change.",
+        "zh": "司机很生气，没给小狗找零就开走了。",
+        "tip": "和孩子看看司机的表情，说说他为什么生气。",
+        "alt": "司机很生气，没给小狗找零就开走了。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0004/06.jpg",
+        "sourceImageSha256": "d89d0e298729c73737e1a0961590eecc77e44d9e4f88babbfdabf733a6f3f94f",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "That is why, even today, Dog runs towards a car to peep inside and find the driver who owes him his change.",
+        "sourceText": "That is why, even today, Dog runs towards a car to peep inside and find the driver who owes him his change.",
+        "zh": "所以直到今天，小狗还会跑向汽车往里看，寻找欠它零钱的司机。",
+        "tip": "提醒这是解释动物习性的童话，现实中不要追车。",
+        "alt": "所以直到今天，小狗还会跑向汽车往里看，寻找欠它零钱的司机。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0004/07.jpg",
+        "sourceImageSha256": "89b6b4ba80d92ea702497b52130157a469750524ef0154056e1482faf9f92917",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Goat runs away from the sound of a car. She is afraid she will be arrested for not paying her fare.",
+        "sourceText": "Goat runs away from the sound of a car. She is afraid she will be arrested for not paying her fare.",
+        "zh": "山羊一听到汽车声就跑开，害怕自己因为没付车费而被抓走。",
+        "tip": "指指山羊，用手势演一演跑开。",
+        "alt": "山羊一听到汽车声就跑开，害怕自己因为没付车费而被抓走。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0004/08.jpg",
+        "sourceImageSha256": "72225d059da2572bdb3f7810ec1b86f8d57c7b3c99ce3faacb34bb806abf9e69",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "And Cow is not bothered when a car is coming. Cow takes her time crossing the road because she knows she paid her fare in full.",
+        "sourceText": "And Cow is not bothered when a car is coming. Cow takes her time crossing the road because she knows she paid her fare in full.",
+        "zh": "汽车来了，奶牛却不着急。它慢慢过马路，因为它知道自己已经付清车费。",
+        "tip": "读完提醒一句：我们过马路仍要遵守交通信号。",
+        "alt": "汽车来了，奶牛却不着急。它慢慢过马路，因为它知道自己已经付清车费。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0004/09.jpg",
+        "sourceImageSha256": "18617d41871368384a6c601d146c86fba4e089974d8c6a355ec078b157df2881",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "taxi",
+        "meaning": "出租车",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "change",
+        "meaning": "找零",
+        "pageIndex": 3
+      },
+      {
+        "id": "word-2",
+        "word": "road",
+        "meaning": "道路",
+        "pageIndex": 7
+      }
+    ],
+    "activity": {
+      "title": "玩具乘车记",
+      "text": "用三个玩偶和一辆玩具车演一演乘车。用纸片当车票，不用计算真实的钱。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Rowan",
+      "voiceId": "en_male_adam-imitation_uranus_bigtts",
+      "locale": "en-US",
+      "accentLabel": "美式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  },
+  {
+    "id": "0006",
+    "title": "Anansi and Wisdom",
+    "zh": "阿南西和智慧",
+    "stageId": "S3",
+    "primaryTheme": "feelings",
+    "themeIds": [
+      "feelings"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0006/01.jpg",
+    "sourceCoverSha256": "3c198c3743756e8c029eb8846ffee612bca7fe479621bea066751884a2e2f1f5",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0006_anansi-and-wisdom.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Ghanaian folktale",
+        "插画：Wiehan de Jager"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "10443df452ac05b0efeeb038168d848e0496129efcf81bb3b173d847c05ba321"
+    },
+    "pages": [
+      {
+        "en": "Long long ago people didn't know anything. They didn't know how to plant crops, or how to weave cloth, or how to make iron tools. The god Nyame up in the sky had all the wisdom of the world. He kept it safe in a clay pot.",
+        "sourceText": "Long long ago people didn't know anything. They didn't know how to plant crops, or how to weave cloth, or how to make iron tools. The god Nyame up in the sky had all the wisdom of the world. He kept it safe in a clay pot.",
+        "zh": "很久以前，人们什么都不知道，不会种庄稼、织布，也不会做铁制工具。天上的神尼亚梅拥有世间所有智慧，把它保存在一个陶罐里。",
+        "tip": "先听故事，指指装着智慧的陶罐。",
+        "alt": "很久以前，人们什么都不知道，不会种庄稼、织布，也不会做铁制工具。天上的神尼亚梅拥有世间所有智慧，把它保存在一个陶罐里。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0006/02.jpg",
+        "sourceImageSha256": "9cb1bf725831a02bd59efcf38e75e3ca20e932fb0242bf056f8e1eb2ee1391f6",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "One day, Nyame decided that he would give the pot of wisdom to Anansi. Every time Anansi looked in the clay pot, he learned something new. It was so exciting!",
+        "sourceText": "One day, Nyame decided that he would give the pot of wisdom to Anansi. Every time Anansi looked in the clay pot, he learned something new. It was so exciting!",
+        "zh": "一天，尼亚梅决定把智慧罐送给阿南西。阿南西每往罐里看一次，就学会一件新事，真让人兴奋！",
+        "tip": "和孩子做一个往罐子里看的动作。",
+        "alt": "一天，尼亚梅决定把智慧罐送给阿南西。阿南西每往罐里看一次，就学会一件新事，真让人兴奋！",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0006/03.jpg",
+        "sourceImageSha256": "3c198c3743756e8c029eb8846ffee612bca7fe479621bea066751884a2e2f1f5",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Greedy Anansi thought, \"I'll keep the pot safe at the top of a tall tree. Then I can have it all to myself!\" He spun a long thread, wound it round the clay pot, and tied it to his stomach. He began to climb the tree. But it was hard climbing the tree with the pot bumping him in the knees all the time.",
+        "sourceText": "Greedy Anansi thought, \"I'll keep the pot safe at the top of a tall tree. Then I can have it all to myself!\" He spun a long thread, wound it round the clay pot, and tied it to his stomach. He began to climb the tree. But it was hard climbing the tree with the pot bumping him in the knees all the time.",
+        "zh": "贪心的阿南西想把罐子藏到高高的树顶，独自占有。他吐出长丝缠住罐子，再绑在肚子上开始爬树，可罐子一直撞到膝盖，让他很难爬。",
+        "tip": "指指罐子的位置，猜猜哪里不方便。",
+        "alt": "贪心的阿南西想把罐子藏到高高的树顶，独自占有。他吐出长丝缠住罐子，再绑在肚子上开始爬树，可罐子一直撞到膝盖，让他很难爬。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0006/04.jpg",
+        "sourceImageSha256": "6029a99b1101fb65e66b20c0d8271cd6afb85e287499385816f087c0b4ba9643",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "All the time Anansi's young son had been standing at the bottom of the tree watching. He said, \"Wouldn't it be easier to climb if you tied the pot to your back instead?\" Anansi tried tying the clay pot full of wisdom to his back, and it really was a lot easier.",
+        "sourceText": "All the time Anansi's young son had been standing at the bottom of the tree watching. He said, \"Wouldn't it be easier to climb if you tied the pot to your back instead?\" Anansi tried tying the clay pot full of wisdom to his back, and it really was a lot easier.",
+        "zh": "阿南西的小儿子一直站在树下看。他建议把罐子绑在背上。阿南西试了试，果然好爬多了。",
+        "tip": "轻轻拍拍自己的背，听一听 back。",
+        "alt": "阿南西的小儿子一直站在树下看。他建议把罐子绑在背上。阿南西试了试，果然好爬多了。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0006/05.jpg",
+        "sourceImageSha256": "81f20fa48eea7bd6d879391d7a1a4c051d916aced65fd1c52e2be9df5074d993",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "In no time he reached the top of the tree. But then he stopped and thought, \"I'm supposed to be the one with all the wisdom, and here my son was cleverer than me!\" Anansi was so angry about this that he threw the clay pot down out of the tree.",
+        "sourceText": "In no time he reached the top of the tree. But then he stopped and thought, \"I'm supposed to be the one with all the wisdom, and here my son was cleverer than me!\" Anansi was so angry about this that he threw the clay pot down out of the tree.",
+        "zh": "阿南西很快爬到树顶，却想：智慧明明都在我这里，儿子怎么比我更聪明？他气得把陶罐从树上扔了下去。",
+        "tip": "说说阿南西这时的心情，孩子可以只指表情。",
+        "alt": "阿南西很快爬到树顶，却想：智慧明明都在我这里，儿子怎么比我更聪明？他气得把陶罐从树上扔了下去。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0006/06.jpg",
+        "sourceImageSha256": "1834cea3370cea4ae0d4cfe7c50472725a3baea98cdeb7317dc8bbf190a16cc6",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "It smashed into pieces on the ground. The wisdom was free for everyone to share. And that is how people learned to farm, to weave cloth, to make iron tools, and all the other things that people know how to do.",
+        "sourceText": "It smashed into pieces on the ground. The wisdom was free for everyone to share. And that is how people learned to farm, to weave cloth, to make iron tools, and all the other things that people know how to do.",
+        "zh": "陶罐在地上摔碎，智慧自由了，人人都能分享。人们就这样学会了种庄稼、织布、做铁器，还有其他各种本领。",
+        "tip": "邀请孩子说一个愿意教给家人的小本领。",
+        "alt": "陶罐在地上摔碎，智慧自由了，人人都能分享。人们就这样学会了种庄稼、织布、做铁器，还有其他各种本领。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0006/07.jpg",
+        "sourceImageSha256": "3f4e15269bb282830792bf5ba44d8c955a7b039baf05735a9e288af96a0b6b08",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "wisdom",
+        "meaning": "智慧",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "pot",
+        "meaning": "罐子",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-2",
+        "word": "share",
+        "meaning": "分享",
+        "pageIndex": 5
+      }
+    ],
+    "activity": {
+      "title": "分享一个小办法",
+      "text": "请家人各说一个自己会做的小事情，比如系鞋带、折纸或整理书。互相学一个就好。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Charlotte",
+      "voiceId": "en_female_authoritative-british_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  },
+  {
+    "id": "0007",
+    "title": "Looking for water",
+    "zh": "找水喝",
+    "stageId": "S1",
+    "primaryTheme": "everyday",
+    "themeIds": [
+      "everyday",
+      "discovery"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0007/01.jpg",
+    "sourceCoverSha256": "1e868ac188c23f468eeba9e3b1d4f8dfe2ba80ca41d89af1390944ac2d73b94a",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0007_looking-for-water.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Augustine Napagi",
+        "插画：Hélder de Paz Alexandre"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "75777ef2fa41325fbe3704afe3cf5eecadc056abda268b4bb6bfca9dcf637ddd"
+    },
+    "pages": [
+      {
+        "en": "Where can I get water.",
+        "sourceText": "Where can I get water.",
+        "zh": "我能去哪里找到水呢？",
+        "tip": "指指图中的人，说 water。",
+        "alt": "我能去哪里找到水呢？",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0007/02.jpg",
+        "sourceImageSha256": "2f1188a9742ee0a6c1a72e3c3126ca8f93827040f2c044ddc41a9ec94bce7c59",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "There is some water in the pot.",
+        "sourceText": "There is some water in the pot.",
+        "zh": "罐子里有一些水。",
+        "tip": "请孩子在图里找一找水罐。",
+        "alt": "罐子里有一些水。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0007/03.jpg",
+        "sourceImageSha256": "cc95ecd8234a749cb3368b70748287f886c493c05ad4112f8b3de92c7a747bbb",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "It is too hot.",
+        "sourceText": "It is too hot.",
+        "zh": "水太热了。",
+        "tip": "用手势演一演热，不要接触热水。",
+        "alt": "水太热了。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0007/04.jpg",
+        "sourceImageSha256": "eb9b7fa1b26e222c440a4ec7b5e52bdc6674440db34efa595255654846e5452e",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Can this water be cold.",
+        "sourceText": "Can this water be cold.",
+        "zh": "这些水能变凉吗？",
+        "tip": "读 cold，再说说喝水前可以请大人试温度。",
+        "alt": "这些水能变凉吗？",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0007/05.jpg",
+        "sourceImageSha256": "75b1588ac0adfebd1bfbaaea18fdc5ee3da1e005cba099ca35cdd23c226663c1",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "water",
+        "meaning": "水",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "hot",
+        "meaning": "热的",
+        "pageIndex": 2
+      },
+      {
+        "id": "word-2",
+        "word": "cold",
+        "meaning": "凉的",
+        "pageIndex": 3
+      }
+    ],
+    "activity": {
+      "title": "温温的还是凉凉的",
+      "text": "由大人准备安全温度的饮用水，喝一小口，说说水是温的还是凉的。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Knightley",
+      "voiceId": "en_male_knightley_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  },
+  {
+    "id": "0013",
+    "title": "Letter to mum",
+    "zh": "写给妈妈的信",
+    "stageId": "S3",
+    "primaryTheme": "everyday",
+    "themeIds": [
+      "everyday",
+      "feelings"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0013/01.jpg",
+    "sourceCoverSha256": "a1f2020fa3b852cb824fc556e70d36e54e3de1a6a3c1752462cfe897ad0ce826",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0013_letter-to-mum.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Ursula Nafula",
+        "插画：Catherine Groenewald"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。 原画第16、17幅按所链文字的“两个宝宝／屋外等待”顺序配对，图像本身未修改。",
+      "sourceTextSha256": "20fb713a6dc608a4fb65f39f015ee3b9a38001cf71e3678746c6f1f745d969ef"
+    },
+    "pages": [
+      {
+        "en": "Mother was finishing packing her clothes in a small bag.",
+        "sourceText": "Mother was finishing packing her clothes in a small bag.",
+        "zh": "妈妈快把衣服装进小包里了。",
+        "tip": "指指妈妈正在收拾的包。",
+        "alt": "妈妈快把衣服装进小包里了。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0013/02.jpg",
+        "sourceImageSha256": "95a4545b1cd20721482f47103c560d8fa85493c5e5640bc6987fa3c27951caf4",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "As she went out the door, she hugged me and said, \"Bye for now.\"",
+        "sourceText": "As she went out the door, she hugged me and said, \"Bye for now.\"",
+        "zh": "走出门时，她抱了抱我，说：“先再见啦。”",
+        "tip": "如果孩子愿意，轻轻抱一抱。",
+        "alt": "走出门时，她抱了抱我，说：“先再见啦。”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0013/03.jpg",
+        "sourceImageSha256": "037897ec7e18162343b8034db668ed3dc1ebdb0e74d7d2f8e5d6f002b2fa8f6b",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "\"Where are you going, mum?\" I looked up at her as I asked.",
+        "sourceText": "\"Where are you going, mum?\" I looked up at her as I asked.",
+        "zh": "“妈妈，你去哪里？”我抬头问她。",
+        "tip": "跟着孩子的视线，一起找妈妈。",
+        "alt": "“妈妈，你去哪里？”我抬头问她。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0013/04.jpg",
+        "sourceImageSha256": "6da5b961bf34185f516af4304dea0533f83b1cd976d9395971fabc2f16f42c2a",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "I started to cry wanting to follow her but dad lifted me up on his shoulder.",
+        "sourceText": "I started to cry wanting to follow her but dad lifted me up on his shoulder.",
+        "zh": "我哭了，想跟着她走，爸爸却把我举到肩膀上。",
+        "tip": "看看孩子的表情，用中文说说他的心情。",
+        "alt": "我哭了，想跟着她走，爸爸却把我举到肩膀上。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0013/05.jpg",
+        "sourceImageSha256": "e06e77ed83e9b43434a7c2c33c748c8e4c98dc3736700e69a39f930847133073",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Dad said, \"Your mother is going to the hospital to have a baby.\"",
+        "sourceText": "Dad said, \"Your mother is going to the hospital to have a baby.\"",
+        "zh": "爸爸说：“妈妈要去医院生宝宝。”",
+        "tip": "听 baby，不必展开孩子没问的细节。",
+        "alt": "爸爸说：“妈妈要去医院生宝宝。”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0013/06.jpg",
+        "sourceImageSha256": "83eec96aa9ac097aef2b290c9a3a3ec093b71f7108e262f87a56b4616f5747e9",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "When I heard \"baby\" I stopped crying and looked at him. \"Why is she going to get the baby from the hospital?\" I asked him.",
+        "sourceText": "When I heard \"baby\" I stopped crying and looked at him. \"Why is she going to get the baby from the hospital?\" I asked him.",
+        "zh": "听见“宝宝”，我停下哭泣，看着爸爸，问：“她为什么要去医院接宝宝？”",
+        "tip": "给孩子一点停顿，允许他也提一个问题。",
+        "alt": "听见“宝宝”，我停下哭泣，看着爸爸，问：“她为什么要去医院接宝宝？”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0013/07.jpg",
+        "sourceImageSha256": "00959eb6414e754acc06fc5d1a1d2ac42d29f34ba619aaeed9cbb4204c892233",
+        "imageWidth": 481,
+        "imageHeight": 477
+      },
+      {
+        "en": "Dad sat me on a small chair and said, \"I will tell you why she is going to get the baby from the hospital.\"",
+        "sourceText": "Dad sat me on a small chair and said, \"I will tell you why she is going to get the baby from the hospital.\"",
+        "zh": "爸爸让我坐在小椅子上，说：“我来告诉你为什么妈妈去医院接宝宝。”",
+        "tip": "指指小椅子，先轻松听这一页。",
+        "alt": "爸爸让我坐在小椅子上，说：“我来告诉你为什么妈妈去医院接宝宝。”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0013/08.jpg",
+        "sourceImageSha256": "3929b49c87b8d0168b16bace806391feb7d1a503742af14e4e8eb60d4a6aa02e",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "I listened keenly to him as he explained although I didn't quite understand why she wasn't having the baby at home. When dad finished explaining, I asked, \"Will she still love me when she comes back with the other baby?\"",
+        "sourceText": "I listened keenly to him as he explained although I didn't quite understand why she wasn't having the baby at home. When dad finished explaining, I asked, \"Will she still love me when she comes back with the other baby?\"",
+        "zh": "我认真听爸爸解释，虽然还不太明白妈妈为什么不在家生宝宝。爸爸说完，我问：“她带着另一个宝宝回来，还会爱我吗？”",
+        "tip": "先接住担心：有了新宝宝，家人也会爱你。",
+        "alt": "我认真听爸爸解释，虽然还不太明白妈妈为什么不在家生宝宝。爸爸说完，我问：“她带着另一个宝宝回来，还会爱我吗？”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0013/09.jpg",
+        "sourceImageSha256": "b353a4449f3003013132f80f466d6ff57ef473c63051074e979c5e6813d5647c",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "My dad held me close and said, \"We will always love you.\"",
+        "sourceText": "My dad held me close and said, \"We will always love you.\"",
+        "zh": "爸爸把我紧紧抱住，说：“我们会永远爱你。”",
+        "tip": "轻轻重复“我们一直爱你”。",
+        "alt": "爸爸把我紧紧抱住，说：“我们会永远爱你。”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0013/10.jpg",
+        "sourceImageSha256": "00c7073c51e999dfb06c1c0c19c379208e692129f853bce0e95400f5d10cb2e4",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "\"Can I write a letter to her while she is there?\" I asked dad.",
+        "sourceText": "\"Can I write a letter to her while she is there?\" I asked dad.",
+        "zh": "我问爸爸：“她在医院时，我能写信给她吗？”",
+        "tip": "指指画面，听 letter。",
+        "alt": "我问爸爸：“她在医院时，我能写信给她吗？”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0013/11.jpg",
+        "sourceImageSha256": "45942c60c4ad801e96658528134171b1fae061187e16b8ecefc794b2e98180d1",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "That evening, I began to write a letter to mum.",
+        "sourceText": "That evening, I began to write a letter to mum.",
+        "zh": "那天晚上，我开始给妈妈写信。",
+        "tip": "用手指在空中写一写。",
+        "alt": "那天晚上，我开始给妈妈写信。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0013/12.jpg",
+        "sourceImageSha256": "243c6b52cf03cb3e13e63a82f73dab7db05c510b7c492c1450a71de524fa1d16",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "I tore a paper from my exercise book and began to write...",
+        "sourceText": "I tore a paper from my exercise book and began to write...",
+        "zh": "我从练习本上撕下一张纸，开始写……",
+        "tip": "指指写信用的纸。",
+        "alt": "我从练习本上撕下一张纸，开始写……",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0013/13.jpg",
+        "sourceImageSha256": "507ee9f126767097dc35775b9e9c9d8de0ab1b1bc23a87de611bf699ca583673",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "\"Mummy, mummy, dad said that you have gone to bring another baby...",
+        "sourceText": "\"Mummy, mummy, dad said that you have gone to bring another baby...",
+        "zh": "“妈妈，妈妈，爸爸说你去接另一个宝宝了……",
+        "tip": "这一页可以只听，让故事连起来。",
+        "alt": "“妈妈，妈妈，爸爸说你去接另一个宝宝了……",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0013/14.jpg",
+        "sourceImageSha256": "a1f2020fa3b852cb824fc556e70d36e54e3de1a6a3c1752462cfe897ad0ce826",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "...Please hurry up and return home...",
+        "sourceText": "...Please hurry up and return home...",
+        "zh": "……请你快点回家……",
+        "tip": "和孩子一起挥挥手，像在盼妈妈回来。",
+        "alt": "……请你快点回家……",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0013/15.jpg",
+        "sourceImageSha256": "1f34f1800329173fbb699bdee674ba0c7a9fe4a0fecac4c8b11834a47e2b592e",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "...I want you to bring a baby girl, so I can play with her when she grows up...",
+        "sourceText": "...I want you to bring a baby girl, so I can play with her when she grows up...",
+        "zh": "……我想请你带一个女宝宝回来，等她长大我就能和她玩……",
+        "tip": "听听孩子的愿望，不必要求孩子认同。",
+        "alt": "……我想请你带一个女宝宝回来，等她长大我就能和她玩……",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0013/16.jpg",
+        "sourceImageSha256": "1a7d22312685a9f818ce3d9ae8e1cd06132a104d9f2537fe3bda80d7d45603e2",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "...You can bring two so one can be mine...",
+        "sourceText": "...You can bring two so one can be mine...",
+        "zh": "……你可以带两个回来，这样一个就是我的……",
+        "tip": "笑着听这句童真的想法。",
+        "alt": "……你可以带两个回来，这样一个就是我的……",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0013/18.jpg",
+        "sourceImageSha256": "af73025d426a506c4d0e7f73c9e01dc6cfe2bb1ed9fe7d7bccd22820745316ce",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "...I am waiting for you here outside our house.\"",
+        "sourceText": "...I am waiting for you here outside our house.\"",
+        "zh": "……我正在房子外面等你。”",
+        "tip": "找一找等候的小朋友。",
+        "alt": "……我正在房子外面等你。”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0013/17.jpg",
+        "sourceImageSha256": "1e375b7b5d5750c47f4c752e22bfda8a9566b2f736f27434c8778b2a0376339c",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "I folded my letter so I could give it to my father to bring it to mum. When I woke up the following morning, the letter was gone.",
+        "sourceText": "I folded my letter so I could give it to my father to bring it to mum. When I woke up the following morning, the letter was gone.",
+        "zh": "我把信折好，准备让爸爸带给妈妈。第二天醒来时，信已经不在了。",
+        "tip": "猜猜信去了哪里，孩子不回答也可以。",
+        "alt": "我把信折好，准备让爸爸带给妈妈。第二天醒来时，信已经不在了。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0013/19.jpg",
+        "sourceImageSha256": "037897ec7e18162343b8034db668ed3dc1ebdb0e74d7d2f8e5d6f002b2fa8f6b",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "bag",
+        "meaning": "包",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "baby",
+        "meaning": "婴儿",
+        "pageIndex": 4
+      },
+      {
+        "id": "word-2",
+        "word": "letter",
+        "meaning": "信",
+        "pageIndex": 9
+      }
+    ],
+    "activity": {
+      "title": "画一封小信",
+      "text": "想念谁就给谁画一封信。可以画一个拥抱，请大人代写一句想说的话。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Rowan",
+      "voiceId": "en_male_adam-imitation_uranus_bigtts",
+      "locale": "en-US",
+      "accentLabel": "美式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  },
+  {
+    "id": "0017",
+    "title": "Zanele Situ: My Story",
+    "zh": "扎内莱·西图：我的故事",
+    "stageId": "S3",
+    "primaryTheme": "feelings",
+    "themeIds": [
+      "feelings"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0017/01.jpg",
+    "sourceCoverSha256": "ce9281098c9579d6bd31a0fd4cc0401cabf96c622e8d562fa34a777e12477ede",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0017_zanele-situ-my-story.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Liz Sparg",
+        "插画：Jesse Breytenbach, Graham Paterson"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。 本传记保留出版时的叙述，末页2016年参赛计划并非当前消息。",
+      "sourceTextSha256": "5a96f97dc29084bedcbfdec24cd1e6494438cfb2bd09eb14faafc22922bdbd1e"
+    },
+    "pages": [
+      {
+        "en": "I was born in summer, in a town called Matatiele in the Eastern Cape. Matatiele is near Lesotho where there are many mountains. In the winter they are covered with snow.",
+        "sourceText": "I was born in summer, in a town called Matatiele in the Eastern Cape. Matatiele is near Lesotho where there are many mountains. In the winter they are covered with snow.",
+        "zh": "我出生在夏天，家乡是东开普省的马塔蒂勒，靠近莱索托。那里有许多山，冬天山上覆盖着白雪。",
+        "tip": "先听名字和地点，找一找画面里的山。",
+        "alt": "我出生在夏天，家乡是东开普省的马塔蒂勒，靠近莱索托。那里有许多山，冬天山上覆盖着白雪。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0017/02.jpg",
+        "sourceImageSha256": "5418c9c2bc928129beea30cf230ffd8b490ce285c2dc145d2022afd4eaeabbef",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "My father was a builder and he moved from place to place to find work. We moved to Lesotho and that's where I started school. I was very happy. But when I was eleven years old, I grew tired and weak, and then I couldn't walk. My parents took me to the hospital.",
+        "sourceText": "My father was a builder and he moved from place to place to find work. We moved to Lesotho and that's where I started school. I was very happy. But when I was eleven years old, I grew tired and weak, and then I couldn't walk. My parents took me to the hospital.",
+        "zh": "爸爸是建筑工人，常到不同地方找工作。我们搬到莱索托，我在那里上学，十分开心。可十一岁时，我变得疲倦虚弱，后来不能走路了，父母带我去了医院。",
+        "tip": "先听故事，陪孩子看她的经历。",
+        "alt": "爸爸是建筑工人，常到不同地方找工作。我们搬到莱索托，我在那里上学，十分开心。可十一岁时，我变得疲倦虚弱，后来不能走路了，父母带我去了医院。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0017/03.jpg",
+        "sourceImageSha256": "aa1ab6ccc99a3827318e0dd634b9fbf153491cf0afa02dc30b68dc2fc3248b81",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "I had to stay in hospital for three years. I was very tired and I slept many hours every day. After three years the doctors told me I would not be able to walk again. I was very sad because I love sports.",
+        "sourceText": "I had to stay in hospital for three years. I was very tired and I slept many hours every day. After three years the doctors told me I would not be able to walk again. I was very sad because I love sports.",
+        "zh": "我在医院住了三年，很累，每天都睡很久。三年后，医生告诉我再也不能走路。我很难过，因为我热爱运动。",
+        "tip": "可以说“难过时，我们可以找家人陪着”。",
+        "alt": "我在医院住了三年，很累，每天都睡很久。三年后，医生告诉我再也不能走路。我很难过，因为我热爱运动。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0017/04.jpg",
+        "sourceImageSha256": "242522a14bb033588c27d7eb2b426250d50d580f166712a68591f740de3e7646",
+        "imageWidth": 554,
+        "imageHeight": 546
+      },
+      {
+        "en": "I went to a special school in Umtata, and my teachers encouraged me. It was a very busy school, with lots of activities like sport and sewing. On weekends we had tasks to do. We had to clean our rooms, polish our shoes and clean our wheelchairs.",
+        "sourceText": "I went to a special school in Umtata, and my teachers encouraged me. It was a very busy school, with lots of activities like sport and sewing. On weekends we had tasks to do. We had to clean our rooms, polish our shoes and clean our wheelchairs.",
+        "zh": "我去了乌姆塔塔的一所特殊学校，老师们鼓励我。学校有运动、缝纫等许多活动。周末我们会打扫房间、擦鞋、清洁轮椅。",
+        "tip": "指指轮椅，平常地说说它帮助人出行。",
+        "alt": "我去了乌姆塔塔的一所特殊学校，老师们鼓励我。学校有运动、缝纫等许多活动。周末我们会打扫房间、擦鞋、清洁轮椅。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0017/05.jpg",
+        "sourceImageSha256": "ca82ca20c39258f27a2769ea1efa675275285ab543a01c5394357de9132b9bc9",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "I decided to keep trying, and never give up. If you have a disability, you can still do something you love. I love to see how far I can go, so I entered a competition. I won a bronze medal for shot putt, a silver medal for discus and a gold medal for javelin.",
+        "sourceText": "I decided to keep trying, and never give up. If you have a disability, you can still do something you love. I love to see how far I can go, so I entered a competition. I won a bronze medal for shot putt, a silver medal for discus and a gold medal for javelin.",
+        "zh": "我决定继续尝试，永不放弃。有残障也能做自己喜欢的事。我参加比赛，在铅球、铁饼和标枪项目中分别获得铜牌、银牌和金牌。",
+        "tip": "找一找奖牌，说说她喜欢的运动。",
+        "alt": "我决定继续尝试，永不放弃。有残障也能做自己喜欢的事。我参加比赛，在铅球、铁饼和标枪项目中分别获得铜牌、银牌和金牌。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0017/06.jpg",
+        "sourceImageSha256": "aac162cefcea25a7a57ba9865dccc7f8f86bf4cfd767b7694262522fc92e122e",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "I wanted to get better and better at my sports, so I trained very hard.",
+        "sourceText": "I wanted to get better and better at my sports, so I trained very hard.",
+        "zh": "我想不断进步，所以十分努力地训练。",
+        "tip": "和孩子做一个轻轻伸展的动作。",
+        "alt": "我想不断进步，所以十分努力地训练。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0017/07.jpg",
+        "sourceImageSha256": "d64bf7a7875c632dfdcf6ce653d9fbd00d1680a4cc4666cfa32d26e203758810",
+        "imageWidth": 551,
+        "imageHeight": 546
+      },
+      {
+        "en": "When I rested, I loved to sew and listen to gospel music.",
+        "sourceText": "When I rested, I loved to sew and listen to gospel music.",
+        "zh": "休息时，我喜欢缝纫和听福音音乐。",
+        "tip": "说说自己休息时喜欢做什么。",
+        "alt": "休息时，我喜欢缝纫和听福音音乐。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0017/08.jpg",
+        "sourceImageSha256": "b4f5110a9ffcf48c019d09d0b471253fe8e7c484cb76edf535e2e5ae92c95a0e",
+        "imageWidth": 552,
+        "imageHeight": 546
+      },
+      {
+        "en": "I entered more competitions and I got many medals and prizes. I started to dream about maybe competing in the Paralympics one day.",
+        "sourceText": "I entered more competitions and I got many medals and prizes. I started to dream about maybe competing in the Paralympics one day.",
+        "zh": "我参加更多比赛，得到许多奖牌和奖品，开始梦想有一天能参加残奥会。",
+        "tip": "指指她的奖牌，感受她的期待。",
+        "alt": "我参加更多比赛，得到许多奖牌和奖品，开始梦想有一天能参加残奥会。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0017/09.jpg",
+        "sourceImageSha256": "57eecee4f936fb40c5d6a1776a2b8c9441cd7314a9b883a947f9f267671d32b8",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The Paralympics are just like the Olympics, where the best athletes in the world compete for gold, silver and bronze medals. But in the Paralympics, the athletes are disabled in different ways, so they have to try even harder to train and win!",
+        "sourceText": "The Paralympics are just like the Olympics, where the best athletes in the world compete for gold, silver and bronze medals. But in the Paralympics, the athletes are disabled in different ways, so they have to try even harder to train and win!",
+        "zh": "残奥会和奥运会一样，世界各地优秀的运动员在这里争夺金、银、铜牌。参加残奥会的运动员有不同的残障，他们为训练和获胜付出了更多努力。",
+        "tip": "这页只听也可以，告诉孩子运动有不同的参与方式。",
+        "alt": "残奥会和奥运会一样，世界各地优秀的运动员在这里争夺金、银、铜牌。参加残奥会的运动员有不同的残障，他们为训练和获胜付出了更多努力。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0017/10.jpg",
+        "sourceImageSha256": "b3b7d730bf59b5566a350ce83d2309419bf40fda0a9371730ebb767d3a805ce8",
+        "imageWidth": 549,
+        "imageHeight": 546
+      },
+      {
+        "en": "Then I heard that I was going to Sydney in Australia, to take part in the 2000 Paralympics. At last we were in the plane, flying over the Indian Ocean!",
+        "sourceText": "Then I heard that I was going to Sydney in Australia, to take part in the 2000 Paralympics. At last we were in the plane, flying over the Indian Ocean!",
+        "zh": "后来我得知，要去澳大利亚悉尼参加2000年残奥会。终于，我们坐上飞机，飞过印度洋！",
+        "tip": "手臂张开，轻轻演一演飞机。",
+        "alt": "后来我得知，要去澳大利亚悉尼参加2000年残奥会。终于，我们坐上飞机，飞过印度洋！",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0017/11.jpg",
+        "sourceImageSha256": "38f26e48f7435128602d2d270203e9a4041383338ce28321650c4229579dcf98",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "But when I got there, I suddenly felt very scared of all the people watching me. I just wanted to go home again.",
+        "sourceText": "But when I got there, I suddenly felt very scared of all the people watching me. I just wanted to go home again.",
+        "zh": "可到了那里，看着那么多观众，我突然害怕起来，只想回家。",
+        "tip": "说说上台前紧张也很正常。",
+        "alt": "可到了那里，看着那么多观众，我突然害怕起来，只想回家。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0017/12.jpg",
+        "sourceImageSha256": "19099b13d5e9caa25173422c3aa0387147782efd2a66faa3a2a7a84c49921ac0",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Then, when I threw my javelin it landed far in front of everyone's. I broke the world record and I got a gold medal! I was the first African woman to win a gold medal in the Paralympics. I was so happy and very proud.",
+        "sourceText": "Then, when I threw my javelin it landed far in front of everyone's. I broke the world record and I got a gold medal! I was the first African woman to win a gold medal in the Paralympics. I was so happy and very proud.",
+        "zh": "我掷出的标枪比所有人的都远，打破世界纪录，获得金牌！我是第一位在残奥会上获得金牌的非洲女性，又开心又自豪。",
+        "tip": "找到金牌，一起为她轻轻鼓掌。",
+        "alt": "我掷出的标枪比所有人的都远，打破世界纪录，获得金牌！我是第一位在残奥会上获得金牌的非洲女性，又开心又自豪。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0017/13.jpg",
+        "sourceImageSha256": "734fa229279e7eb63f8e2c2ea2ed66d13071d1b4acff9edf03deb4c1584b3599",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "My motto is: Keep going, follow your dreams and never give up. Even if something happens to make you sad or scared. That is what I teach my little girl, Azamazi. She is eight years old and she also loves to do athletics and gymnastics. I am still training and going to competitions, and in 2016 I hope to go to the Paralympics in Rio de Janeiro.",
+        "sourceText": "My motto is: Keep going, follow your dreams and never give up. Even if something happens to make you sad or scared. That is what I teach my little girl, Azamazi. She is eight years old and she also loves to do athletics and gymnastics. I am still training and going to competitions, and in 2016 I hope to go to the Paralympics in Rio de Janeiro.",
+        "zh": "我的座右铭是：坚持前进，追随梦想，不要放弃，即使遇到让你难过或害怕的事。我也这样教八岁的女儿阿扎马齐，她喜欢田径和体操。我仍在训练、参赛，希望参加2016年里约残奥会。",
+        "tip": "这是书中当年的愿望；说说孩子自己喜欢的活动即可。",
+        "alt": "我的座右铭是：坚持前进，追随梦想，不要放弃，即使遇到让你难过或害怕的事。我也这样教八岁的女儿阿扎马齐，她喜欢田径和体操。我仍在训练、参赛，希望参加2016年里约残奥会。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0017/14.jpg",
+        "sourceImageSha256": "0ca224f99bc63c26d7b1f763f9a1839f9b31fe198ba79a67503b32185e7e3802",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "sports",
+        "meaning": "运动",
+        "pageIndex": 2
+      },
+      {
+        "id": "word-1",
+        "word": "dreams",
+        "meaning": "梦想",
+        "pageIndex": 12
+      },
+      {
+        "id": "word-2",
+        "word": "gold medal",
+        "meaning": "金牌",
+        "pageIndex": 11
+      }
+    ],
+    "activity": {
+      "title": "我的小小热爱",
+      "text": "说说自己喜欢的一项活动。一起做一个轻松的小动作，享受尝试，不比较谁做得好。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Charlotte",
+      "voiceId": "en_female_authoritative-british_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  }
+]

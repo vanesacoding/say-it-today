@@ -1,0 +1,1057 @@
+[
+  {
+    "id": "0030",
+    "title": "Feelings",
+    "zh": "我的心情",
+    "stageId": "S1",
+    "primaryTheme": "feelings",
+    "themeIds": [
+      "feelings"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0030/01.jpg",
+    "sourceCoverSha256": "e72eb25c0a8d032f26c93f2e1fd64a4cb5515e2b5bde68e5400b590fb52b247b",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0030_feelings.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by-nc/3.0/",
+      "licenseLabel": "CC BY-NC 3.0 · 仅限非商业使用",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Clare Verbeek, Thembani Dladla, Zanele Buthelezi",
+        "插画：Kathy Arbuckle, Ingrid Schechter"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "4d7f4bca4aee8f06864512301f589abecf5aec77603aa3c727ebaaf328825483",
+      "noncommercialOnly": true
+    },
+    "pages": [
+      {
+        "en": "My heart feels a lot of things.",
+        "sourceText": "My heart feels a lot of things.",
+        "zh": "我的心里有好多种感受。",
+        "tip": "摸摸自己的胸口，先听故事。",
+        "alt": "我的心里有好多种感受。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0030/02.jpg",
+        "sourceImageSha256": "1f2df48ce2a3de414a2423e1f52b8d486b87210bb41dbf8bf5fb076be42abade",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "I feel happy when my granny tells us stories in the evening.",
+        "sourceText": "I feel happy when my granny tells us stories in the evening.",
+        "zh": "晚上，奶奶给我们讲故事时，我觉得开心。",
+        "tip": "听 happy，说说开心的表情。",
+        "alt": "晚上，奶奶给我们讲故事时，我觉得开心。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0030/03.jpg",
+        "sourceImageSha256": "24a087d9241aacfcb18b98cd3d85bc2f2f653016b119688bb74a84c9b11f0823",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "I feel silly when I play with my friend.",
+        "sourceText": "I feel silly when I play with my friend.",
+        "zh": "和朋友玩耍时，我觉得顽皮又好玩。",
+        "tip": "指指朋友，做一个轻松的表情。",
+        "alt": "和朋友玩耍时，我觉得顽皮又好玩。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0030/04.jpg",
+        "sourceImageSha256": "e72eb25c0a8d032f26c93f2e1fd64a4cb5515e2b5bde68e5400b590fb52b247b",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "I feel bad when my dad says he does not have money.",
+        "sourceText": "I feel bad when my dad says he does not have money.",
+        "zh": "爸爸说他没有钱时，我觉得难过。",
+        "tip": "温和说：有担心时可以告诉照顾你的大人。",
+        "alt": "爸爸说他没有钱时，我觉得难过。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0030/05.jpg",
+        "sourceImageSha256": "c43e17e07d057c60147b38e674f2af424aa56cd9867c42d6747e550e88d0292d",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "I feel loved when my mom gives me a hug.",
+        "sourceText": "I feel loved when my mom gives me a hug.",
+        "zh": "妈妈抱抱我时，我感到被爱。",
+        "tip": "听 hug，愿意就和阅读伙伴抱一下。",
+        "alt": "妈妈抱抱我时，我感到被爱。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0030/06.jpg",
+        "sourceImageSha256": "ce257867c7f368a9df319e2d228963bf9986c4ae1572113db15bf020632705bd",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "happy",
+        "meaning": "开心的",
+        "pageIndex": 1
+      },
+      {
+        "id": "word-1",
+        "word": "silly",
+        "meaning": "顽皮好玩的",
+        "pageIndex": 2
+      },
+      {
+        "id": "word-2",
+        "word": "hug",
+        "meaning": "拥抱",
+        "pageIndex": 4
+      }
+    ],
+    "activity": {
+      "title": "给心情起个名字",
+      "text": "看看自己现在的心情，可以用一个词、一个表情或一幅画来表达。想要拥抱时先问对方愿不愿意。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Knightley",
+      "voiceId": "en_male_knightley_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  },
+  {
+    "id": "0243",
+    "title": "Holidays with grandmother",
+    "zh": "在奶奶家的假期",
+    "stageId": "S3",
+    "primaryTheme": "everyday",
+    "themeIds": [
+      "everyday",
+      "feelings"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0243/01.jpg",
+    "sourceCoverSha256": "48b6503b4e2c5d4d5a5e59ec625a1b40fb114a62180c916b3f0d3ee9bf94f45c",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0243_holidays-with-grandmother.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Violet Otieno",
+        "插画：Catherine Groenewald"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "4dc22bddd286d4b57e0d1b1e74bfa66633f119c111be3f635425ac4c13087325"
+    },
+    "pages": [
+      {
+        "en": "Odongo and Apiyo lived in the city with their father. They looked forward to the holidays. Not just because school was closed, but because they went to visit their grandmother. She lived in a fishing village near a large lake.",
+        "sourceText": "Odongo and Apiyo lived in the city with their father. They looked forward to the holidays. Not just because school was closed, but because they went to visit their grandmother. She lived in a fishing village near a large lake.",
+        "zh": "奥东戈和阿皮约跟爸爸住在城里。他们盼假期，不只是因为学校放假，还因为可以去看奶奶。奶奶住在大湖附近的渔村。",
+        "tip": "先认识两位孩子和奶奶。",
+        "alt": "奥东戈和阿皮约跟爸爸住在城里。他们盼假期，不只是因为学校放假，还因为可以去看奶奶。奶奶住在大湖附近的渔村。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0243/02.jpg",
+        "sourceImageSha256": "971d05726a0759de0886ca7915200500f518cc494b0fc0adfe6f6a81f6cca49a",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Odongo and Apiyo were excited because it was time to visit their grandmother again. The night before, they packed their bags and got ready for the long journey to her village. They could not sleep and talked the whole night about the holiday.",
+        "sourceText": "Odongo and Apiyo were excited because it was time to visit their grandmother again. The night before, they packed their bags and got ready for the long journey to her village. They could not sleep and talked the whole night about the holiday.",
+        "zh": "又要去看奶奶了，孩子们兴奋地整理行李，为长途旅行做准备。前一晚睡不着，聊了一整夜的假期。",
+        "tip": "说说出门前自己想带什么。",
+        "alt": "又要去看奶奶了，孩子们兴奋地整理行李，为长途旅行做准备。前一晚睡不着，聊了一整夜的假期。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0243/03.jpg",
+        "sourceImageSha256": "5aa07c1ca29e59717c252e77d73a9cefb9937e5ea1ceee0e18b4b5361224cd11",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Early the next morning, they left for the village in their father's car. They drove past mountains, wild animals and tea plantations. They counted cars and sang songs.",
+        "sourceText": "Early the next morning, they left for the village in their father's car. They drove past mountains, wild animals and tea plantations. They counted cars and sang songs.",
+        "zh": "第二天一早，他们坐爸爸的车出发，经过高山、野生动物和茶园，一路数汽车、唱歌。",
+        "tip": "找一找窗外经过的东西。",
+        "alt": "第二天一早，他们坐爸爸的车出发，经过高山、野生动物和茶园，一路数汽车、唱歌。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0243/04.jpg",
+        "sourceImageSha256": "3acb9734a60ac62361ce3f13a304a689eeddd38b4b022a0cd2ba1c642ae2301b",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "After a while, the children were tired and fell asleep.",
+        "sourceText": "After a while, the children were tired and fell asleep.",
+        "zh": "过了一会儿，孩子们累得睡着了。",
+        "tip": "做一个睡觉的手势。",
+        "alt": "过了一会儿，孩子们累得睡着了。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0243/05.jpg",
+        "sourceImageSha256": "e9716e6dc59a22c4ccb6ff04f5b2c6d5c09990488ce4c4ac32accbf9a0ebd2b6",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Father woke up Odongo and Apiyo as they arrived in the village. They found Nyar-Kanyada, their grandmother, resting on a mat under a tree. Nyar-Kanyada in Luo, means 'daughter of the people of Kanyada'. She was a strong and beautiful woman.",
+        "sourceText": "Father woke up Odongo and Apiyo as they arrived in the village. They found Nyar-Kanyada, their grandmother, resting on a mat under a tree. Nyar-Kanyada in Luo, means 'daughter of the people of Kanyada'. She was a strong and beautiful woman.",
+        "zh": "到村里时，爸爸叫醒他们。奶奶正坐在树下的席子上休息。她叫尼亚尔－卡尼亚达，在卢奥语中意为“卡尼亚达人家的女儿”，是一位强壮又美丽的女士。",
+        "tip": "指指树下的奶奶，不必记长名字。",
+        "alt": "到村里时，爸爸叫醒他们。奶奶正坐在树下的席子上休息。她叫尼亚尔－卡尼亚达，在卢奥语中意为“卡尼亚达人家的女儿”，是一位强壮又美丽的女士。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0243/06.jpg",
+        "sourceImageSha256": "48b6503b4e2c5d4d5a5e59ec625a1b40fb114a62180c916b3f0d3ee9bf94f45c",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Nyar-Kanyada welcomed them into the house and danced around the room singing with joy. Her grandchildren were excited to give her the presents they brought from the city. \"First open my gift,\" said Odongo. \"No, my gift first!\" said Apiyo.",
+        "sourceText": "Nyar-Kanyada welcomed them into the house and danced around the room singing with joy. Her grandchildren were excited to give her the presents they brought from the city. \"First open my gift,\" said Odongo. \"No, my gift first!\" said Apiyo.",
+        "zh": "奶奶欢迎他们进屋，高兴得边唱边跳。孩子们争着送从城里带来的礼物，都想让奶奶先拆自己的。",
+        "tip": "看看孩子们准备的礼物。",
+        "alt": "奶奶欢迎他们进屋，高兴得边唱边跳。孩子们争着送从城里带来的礼物，都想让奶奶先拆自己的。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0243/07.jpg",
+        "sourceImageSha256": "bb1f0676f63721214c2f2e9f552e666003ce34373af427578f4c8288cb4999fd",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "After she opened the presents, Nyar-Kanyada blessed her grandchildren in a traditional way.",
+        "sourceText": "After she opened the presents, Nyar-Kanyada blessed her grandchildren in a traditional way.",
+        "zh": "拆开礼物后，奶奶用传统方式祝福孙辈。",
+        "tip": "看看奶奶表达欢迎的方式。",
+        "alt": "拆开礼物后，奶奶用传统方式祝福孙辈。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0243/08.jpg",
+        "sourceImageSha256": "e0cae7a0ddd9eb4065a4c1930d30433d17feb17cec30acd485eb8298f0add105",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Then Odongo and Apiyo went outside. They chased butterflies and birds.",
+        "sourceText": "Then Odongo and Apiyo went outside. They chased butterflies and birds.",
+        "zh": "孩子们跑到外面，追逐蝴蝶和鸟。",
+        "tip": "在图里找蝴蝶，现实中轻轻观察就好。",
+        "alt": "孩子们跑到外面，追逐蝴蝶和鸟。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0243/09.jpg",
+        "sourceImageSha256": "3e0557f9ea233ce246c97b3e13e245dfe4d24dae46ea3f15430b00bbec4af9a9",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "They climbed trees and splashed in the water of the lake.",
+        "sourceText": "They climbed trees and splashed in the water of the lake.",
+        "zh": "他们爬树，在湖水里玩。",
+        "tip": "说一句：现实临水活动要有大人照看。",
+        "alt": "他们爬树，在湖水里玩。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0243/10.jpg",
+        "sourceImageSha256": "8006c1235f92c541df762fa7a78a642d71cb2ed08673514c187ff80db9189699",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "When it was dark they returned to the house for dinner. Before they could finish eating, they were falling asleep!",
+        "sourceText": "When it was dark they returned to the house for dinner. Before they could finish eating, they were falling asleep!",
+        "zh": "天黑后，他们回屋吃晚饭，还没吃完就困得睡着了。",
+        "tip": "看看他们的表情，想想今天玩了多久。",
+        "alt": "天黑后，他们回屋吃晚饭，还没吃完就困得睡着了。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0243/11.jpg",
+        "sourceImageSha256": "d4851168232ab492ef6f00a6b72f61ffa95dfc5be1e436890bb9b405b70533b7",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The next day, the children's father drove back to the city leaving them with Nyar-Kanyada.",
+        "sourceText": "The next day, the children's father drove back to the city leaving them with Nyar-Kanyada.",
+        "zh": "第二天，爸爸开车回城，孩子们留下和奶奶一起生活。",
+        "tip": "指指离开的车，听故事继续。",
+        "alt": "第二天，爸爸开车回城，孩子们留下和奶奶一起生活。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0243/12.jpg",
+        "sourceImageSha256": "fba07714c442eab14c730128c4e3c1bcebc109cef3bf8ce026dae6c16d9eb44e",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Odongo and Apiyo helped their grandmother with household chores. They fetched water and firewood. They collected eggs from the chickens and picked greens from the garden.",
+        "sourceText": "Odongo and Apiyo helped their grandmother with household chores. They fetched water and firewood. They collected eggs from the chickens and picked greens from the garden.",
+        "zh": "孩子们帮奶奶做家务，取水和柴，捡鸡蛋，从菜园里采青菜。",
+        "tip": "选一件画里的家务指一指。",
+        "alt": "孩子们帮奶奶做家务，取水和柴，捡鸡蛋，从菜园里采青菜。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0243/13.jpg",
+        "sourceImageSha256": "00731c9355a41eef056d63744091d79ef29070ee0aaf0871b125b0029694ba32",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Nyar-Kanyada taught her grandchildren to make soft ugali to eat with stew. She showed them how to make coconut rice to eat with roast fish.",
+        "sourceText": "Nyar-Kanyada taught her grandchildren to make soft ugali to eat with stew. She showed them how to make coconut rice to eat with roast fish.",
+        "zh": "奶奶教他们做软软的乌伽黎配炖菜，也教他们煮椰香米饭配烤鱼。",
+        "tip": "看看食物，认识不同地方的家常饭。",
+        "alt": "奶奶教他们做软软的乌伽黎配炖菜，也教他们煮椰香米饭配烤鱼。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0243/14.jpg",
+        "sourceImageSha256": "ed49dd81b2fb653aa5c53a66d9a8bc9224e65034dd3082d5470346fb244cb708",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "One morning, Odongo took his grandmother's cows to graze. They ran onto a neighbour's farm. The farmer was angry with Odongo. He threatened to keep the cows for eating his crops. After that day, the boy made sure that the cows did not get into trouble again.",
+        "sourceText": "One morning, Odongo took his grandmother's cows to graze. They ran onto a neighbour's farm. The farmer was angry with Odongo. He threatened to keep the cows for eating his crops. After that day, the boy made sure that the cows did not get into trouble again.",
+        "zh": "一天，奥东戈带奶奶的牛去吃草，牛跑到邻居田里。农夫很生气，说要留下吃庄稼的牛。从此奥东戈更留意，不再让牛惹麻烦。",
+        "tip": "说说照看动物时需要注意什么，聊一句就好。",
+        "alt": "一天，奥东戈带奶奶的牛去吃草，牛跑到邻居田里。农夫很生气，说要留下吃庄稼的牛。从此奥东戈更留意，不再让牛惹麻烦。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0243/15.jpg",
+        "sourceImageSha256": "70406bca2c434a338d50d6bdeecb37ee40523cb10bcb67941f12e511306212f3",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "On another day, the children went to the marketplace with Nyar-Kanyada. She had a stall selling vegetables, sugar and soap. Apiyo liked to tell customers the price of items. Odongo would pack the items that customers bought.",
+        "sourceText": "On another day, the children went to the marketplace with Nyar-Kanyada. She had a stall selling vegetables, sugar and soap. Apiyo liked to tell customers the price of items. Odongo would pack the items that customers bought.",
+        "zh": "另一天，他们跟奶奶去市场。奶奶卖菜、糖和肥皂，阿皮约报价格，奥东戈帮顾客装东西。",
+        "tip": "指指摊位上一样认识的东西。",
+        "alt": "另一天，他们跟奶奶去市场。奶奶卖菜、糖和肥皂，阿皮约报价格，奥东戈帮顾客装东西。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0243/16.jpg",
+        "sourceImageSha256": "4a25a11fd288276ddf96939a8ffaeade8bc9d49323416fc9f5f5713aa7eba788",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "At the end of the day they drank chai tea together. They helped grandmother to count the money she earned.",
+        "sourceText": "At the end of the day they drank chai tea together. They helped grandmother to count the money she earned.",
+        "zh": "收摊后，大家一起喝茶，帮奶奶数今天挣的钱。",
+        "tip": "用手指演一演数钱，不必计算。",
+        "alt": "收摊后，大家一起喝茶，帮奶奶数今天挣的钱。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0243/17.jpg",
+        "sourceImageSha256": "c71899496d5bbd5e843e5da746e21a64d64761f23b987cf4bed5b48d9bd30b0e",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "But too soon the holidays were over and the children had to go back to the city. Nyar-Kanyada gave Odongo a cap and Apiyo a sweater. She packed food for their journey.",
+        "sourceText": "But too soon the holidays were over and the children had to go back to the city. Nyar-Kanyada gave Odongo a cap and Apiyo a sweater. She packed food for their journey.",
+        "zh": "假期很快结束，孩子们该回城。奶奶送奥东戈一顶帽子，送阿皮约一件毛衣，还装好路上的食物。",
+        "tip": "找一找奶奶准备的礼物。",
+        "alt": "假期很快结束，孩子们该回城。奶奶送奥东戈一顶帽子，送阿皮约一件毛衣，还装好路上的食物。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0243/18.jpg",
+        "sourceImageSha256": "001ff296e6c05c173b8a407bbe4ea18eed9569d3aa6ccd4d82deb901538bb81b",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "When their father came to fetch them, they did not want to leave. The children begged Nyar-Kanyada to go with them to the city. She smiled and said, \"I am too old for the city. I will be waiting for you to come to my village again.\"",
+        "sourceText": "When their father came to fetch them, they did not want to leave. The children begged Nyar-Kanyada to go with them to the city. She smiled and said, \"I am too old for the city. I will be waiting for you to come to my village again.\"",
+        "zh": "爸爸来接时，孩子们舍不得走，求奶奶一起进城。奶奶笑着说自己年纪大了不想进城，会在村里等他们再来。",
+        "tip": "说说想念家人时还可以怎么联系。",
+        "alt": "爸爸来接时，孩子们舍不得走，求奶奶一起进城。奶奶笑着说自己年纪大了不想进城，会在村里等他们再来。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0243/19.jpg",
+        "sourceImageSha256": "959a21020927f0be8335147a3f8e752686d6c013a8e4e2097fa57a382e74b990",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Odongo and Apiyo both hugged her tightly and said goodbye.",
+        "sourceText": "Odongo and Apiyo both hugged her tightly and said goodbye.",
+        "zh": "孩子们紧紧拥抱奶奶，说再见。",
+        "tip": "愿意就和阅读伙伴抱一下，说 goodbye。",
+        "alt": "孩子们紧紧拥抱奶奶，说再见。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0243/20.jpg",
+        "sourceImageSha256": "e018cd3ac1b045b6fccbc0c1565cd2693dd67eb6211d8fe25cfb3065924e852d",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "When Odongo and Apiyo went back to school they told their friends about life in the village. Some children felt that life in the city was good. Others felt that the village was better. But most of all, everyone agreed that Odongo and Apiyo had a wonderful grandmother!",
+        "sourceText": "When Odongo and Apiyo went back to school they told their friends about life in the village. Some children felt that life in the city was good. Others felt that the village was better. But most of all, everyone agreed that Odongo and Apiyo had a wonderful grandmother!",
+        "zh": "回到学校，他们给朋友讲村里的生活。有人喜欢城市，有人喜欢乡村，但大家都同意：他们有一位非常棒的奶奶！",
+        "tip": "聊聊最喜欢哪一段奶奶家的生活。",
+        "alt": "回到学校，他们给朋友讲村里的生活。有人喜欢城市，有人喜欢乡村，但大家都同意：他们有一位非常棒的奶奶！",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0243/21.jpg",
+        "sourceImageSha256": "ef3c5b6eb4dd147dd770bb386cfbbe6ee6fdbaa9671c94a607209b95576f68fd",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "grandmother",
+        "meaning": "奶奶",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "gift",
+        "meaning": "礼物",
+        "pageIndex": 5
+      },
+      {
+        "id": "word-2",
+        "word": "goodbye",
+        "meaning": "再见",
+        "pageIndex": 18
+      }
+    ],
+    "activity": {
+      "title": "分享一段家人时光",
+      "text": "和家人说说想一起做什么。可以画一张探望亲人的小卡片，不一定要出远门。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Rowan",
+      "voiceId": "en_male_adam-imitation_uranus_bigtts",
+      "locale": "en-US",
+      "accentLabel": "美式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  },
+  {
+    "id": "0256",
+    "title": "My first pair of shoes",
+    "zh": "我的第一双鞋",
+    "stageId": "S3",
+    "primaryTheme": "everyday",
+    "themeIds": [
+      "everyday",
+      "feelings"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0256/01.jpg",
+    "sourceCoverSha256": "084fafb850d02199f60bf85e03b0528d61e6d58e4f1816fe2ead6dc63141db47",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0256_my-first-pair-of-shoes.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Ursula Nafula",
+        "插画：Rob Owen"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "2c6d6a8c2fa8ddcaed061bee6cd303b5dae133aa2c54520bf0921e53aab74e0a"
+    },
+    "pages": [
+      {
+        "en": "I had never worn shoes before. When I saw children wearing nice shoes, I would look at them with longing.",
+        "sourceText": "I had never worn shoes before. When I saw children wearing nice shoes, I would look at them with longing.",
+        "zh": "我以前从没穿过鞋，看见别的孩子穿漂亮鞋子，总是羡慕地望着。",
+        "tip": "看看孩子的神情，听 shoes。",
+        "alt": "我以前从没穿过鞋，看见别的孩子穿漂亮鞋子，总是羡慕地望着。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0256/02.jpg",
+        "sourceImageSha256": "b84a3aaa3cbb27979ab45b863770d1b20d12161b87b86586fd62bac73576b123",
+        "imageWidth": 526,
+        "imageHeight": 546
+      },
+      {
+        "en": "My mother would say, \"You will have many pairs in the future, just wait!\" Sometimes I did not believe her. \"When is the future?\" I asked her one day.",
+        "sourceText": "My mother would say, \"You will have many pairs in the future, just wait!\" Sometimes I did not believe her. \"When is the future?\" I asked her one day.",
+        "zh": "妈妈总说：“以后你会有许多双，等一等！”有时我不信，问她：“以后是什么时候？”",
+        "tip": "说说等待喜欢的东西是什么感觉。",
+        "alt": "妈妈总说：“以后你会有许多双，等一等！”有时我不信，问她：“以后是什么时候？”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0256/03.jpg",
+        "sourceImageSha256": "556a4b452b75d0454355dc37d2ce7d247a4965da6cc32481ed1db82f866b84f7",
+        "imageWidth": 536,
+        "imageHeight": 546
+      },
+      {
+        "en": "Time passed and it was nearly Christmas. Everybody was busy going to the market and coming back with bags of new things. \"Mother, are we going to the market?\" I asked her.",
+        "sourceText": "Time passed and it was nearly Christmas. Everybody was busy going to the market and coming back with bags of new things. \"Mother, are we going to the market?\" I asked her.",
+        "zh": "时间过去，快到圣诞节，大家忙着去市场买新东西。我问妈妈：“我们也去市场吗？”",
+        "tip": "指指去市场的人。",
+        "alt": "时间过去，快到圣诞节，大家忙着去市场买新东西。我问妈妈：“我们也去市场吗？”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0256/04.jpg",
+        "sourceImageSha256": "7a25f52aaf13e981a57b1ba4f0ee3b6334f9b75fc7d6ce2204eb27caf467674b",
+        "imageWidth": 529,
+        "imageHeight": 546
+      },
+      {
+        "en": "The day before Christmas, my mother woke me up earlier than usual. She asked me to fetch the big shopping basket she always carried to the market.",
+        "sourceText": "The day before Christmas, my mother woke me up earlier than usual. She asked me to fetch the big shopping basket she always carried to the market.",
+        "zh": "圣诞节前一天，妈妈比平常更早叫醒我，让我拿上她去市场常用的大篮子。",
+        "tip": "找一找购物篮。",
+        "alt": "圣诞节前一天，妈妈比平常更早叫醒我，让我拿上她去市场常用的大篮子。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0256/05.jpg",
+        "sourceImageSha256": "7949b78f96c0f2f8dee60247b5df628c861cfde33ea1e4e43343da8a25677983",
+        "imageWidth": 526,
+        "imageHeight": 546
+      },
+      {
+        "en": "At the open-air market there were many parents with their children. They were buying new clothes and stocking up on food.",
+        "sourceText": "At the open-air market there were many parents with their children. They were buying new clothes and stocking up on food.",
+        "zh": "露天市场有许多父母带着孩子，买新衣服，也储备食物。",
+        "tip": "找一种画面里在卖的东西。",
+        "alt": "露天市场有许多父母带着孩子，买新衣服，也储备食物。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0256/06.jpg",
+        "sourceImageSha256": "da6589102d429290b3e5c642804f3e93fc09844bfa62f212479d976279575e57",
+        "imageWidth": 523,
+        "imageHeight": 546
+      },
+      {
+        "en": "We went straight to where there were many different types of shoes. My eyes were wide with amazement. I gaped at row after row of neatly arranged shoes.",
+        "sourceText": "We went straight to where there were many different types of shoes. My eyes were wide with amazement. I gaped at row after row of neatly arranged shoes.",
+        "zh": "我们直奔卖鞋的地方。我惊讶地睁大眼睛，看着一排排整齐的鞋。",
+        "tip": "指一双孩子喜欢的鞋。",
+        "alt": "我们直奔卖鞋的地方。我惊讶地睁大眼睛，看着一排排整齐的鞋。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0256/07.jpg",
+        "sourceImageSha256": "7b2cd8df6157183128ba1c9600237f7ba09be6cf3ad1475182287fdc507b73c6",
+        "imageWidth": 529,
+        "imageHeight": 546
+      },
+      {
+        "en": "After trying on many pairs, I settled for black lace-up shoes. At home that night, I couldn't sleep. I was so excited thinking of how I would wear my new shoes and show off to every child in the village.",
+        "sourceText": "After trying on many pairs, I settled for black lace-up shoes. At home that night, I couldn't sleep. I was so excited thinking of how I would wear my new shoes and show off to every child in the village.",
+        "zh": "试了很多双后，我选中黑色系带鞋。那晚回家，想到要穿新鞋给村里孩子看，我兴奋得睡不着。",
+        "tip": "听 excited，说说开心得睡不着的感觉。",
+        "alt": "试了很多双后，我选中黑色系带鞋。那晚回家，想到要穿新鞋给村里孩子看，我兴奋得睡不着。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0256/08.jpg",
+        "sourceImageSha256": "8b75cbc1b9ae8dc7de4a548fce48c186a2c5bd8f9b7fa7a1352ab9e6629104da",
+        "imageWidth": 538,
+        "imageHeight": 546
+      },
+      {
+        "en": "After a while, I got out of bed and put on the shoes. I walked slowly around the room and then put the shoes back into the box. I lay down again, but I couldn't sleep.",
+        "sourceText": "After a while, I got out of bed and put on the shoes. I walked slowly around the room and then put the shoes back into the box. I lay down again, but I couldn't sleep.",
+        "zh": "过一会儿，我起床穿鞋，在房间慢慢走，再把鞋放回盒子，躺下却仍睡不着。",
+        "tip": "用手指演一演慢慢走路。",
+        "alt": "过一会儿，我起床穿鞋，在房间慢慢走，再把鞋放回盒子，躺下却仍睡不着。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0256/09.jpg",
+        "sourceImageSha256": "84b25ea11905baedd88985638fd36555f7c921ab67d7ca0f6cdd32740935a15c",
+        "imageWidth": 531,
+        "imageHeight": 546
+      },
+      {
+        "en": "I got up and tried on the shoes a second time. I strutted around the room for a while and then put them back.",
+        "sourceText": "I got up and tried on the shoes a second time. I strutted around the room for a while and then put them back.",
+        "zh": "我第二次起床试鞋，神气地走了一会儿，又把鞋放回去。",
+        "tip": "找找鞋盒，听故事里的重复。",
+        "alt": "我第二次起床试鞋，神气地走了一会儿，又把鞋放回去。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0256/10.jpg",
+        "sourceImageSha256": "6bd128a91107904f626f0e26cb04d103224118b9b9ab5fc7a49b196b737c163d",
+        "imageWidth": 537,
+        "imageHeight": 546
+      },
+      {
+        "en": "I lay down once more and tried to sleep. But I got up a third time. I put on the shoes and jumped around the room. Then I felt tired. I decided to get back into bed.",
+        "sourceText": "I lay down once more and tried to sleep. But I got up a third time. I put on the shoes and jumped around the room. Then I felt tired. I decided to get back into bed.",
+        "zh": "我又躺下想睡，却第三次起来，穿鞋在房里跳。终于累了，决定回床上。",
+        "tip": "数一数已经试了几次，不用考记忆。",
+        "alt": "我又躺下想睡，却第三次起来，穿鞋在房里跳。终于累了，决定回床上。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0256/11.jpg",
+        "sourceImageSha256": "a3c3faa6ed4277877438765232250318a9b4e7f64c28f594d8c21b1ce7d437e1",
+        "imageWidth": 538,
+        "imageHeight": 546
+      },
+      {
+        "en": "The following morning, I was woken by my mother. \"What is this I see?\" she asked.",
+        "sourceText": "The following morning, I was woken by my mother. \"What is this I see?\" she asked.",
+        "zh": "第二天早晨，妈妈叫醒我，问：“我看见的这是什么呀？”",
+        "tip": "停一下，先猜猜结尾。",
+        "alt": "第二天早晨，妈妈叫醒我，问：“我看见的这是什么呀？”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0256/12.jpg",
+        "sourceImageSha256": "5d190e177d78942871fc1276f56ec08bd02bb1621bbfaa649b69d8d277e1043b",
+        "imageWidth": 526,
+        "imageHeight": 546
+      },
+      {
+        "en": "I was wearing my new shoes in bed!",
+        "sourceText": "I was wearing my new shoes in bed!",
+        "zh": "我竟然穿着新鞋睡在床上！",
+        "tip": "一起笑一笑，说说他有多喜欢这双鞋。",
+        "alt": "我竟然穿着新鞋睡在床上！",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0256/13.jpg",
+        "sourceImageSha256": "084fafb850d02199f60bf85e03b0528d61e6d58e4f1816fe2ead6dc63141db47",
+        "imageWidth": 526,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "shoes",
+        "meaning": "鞋子",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "market",
+        "meaning": "市场",
+        "pageIndex": 2
+      },
+      {
+        "id": "word-2",
+        "word": "excited",
+        "meaning": "兴奋的",
+        "pageIndex": 6
+      }
+    ],
+    "activity": {
+      "title": "鞋子的小观察",
+      "text": "看看自己的一双鞋，有什么颜色、鞋带或搭扣？说说穿上时的感觉。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Charlotte",
+      "voiceId": "en_female_authoritative-british_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  },
+  {
+    "id": "0257",
+    "title": "Colours of a rainbow",
+    "zh": "彩虹的颜色",
+    "stageId": "S1",
+    "primaryTheme": "discovery",
+    "themeIds": [
+      "discovery",
+      "nature"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0257/01.jpg",
+    "sourceCoverSha256": "cda0ec0940a3b548e08c26d40ebbdad10be2cc7fb266f5e6b28847493dc7eb1a",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0257_colours-of-a-rainbow.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Caren Echesa",
+        "插画：Jesse Breytenbach"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "f842be596aa80a88fbc245556a84ec8e10ce3c1cfb545ee8130e333641162ecd"
+    },
+    "pages": [
+      {
+        "en": "A rainbow has seven colours.",
+        "sourceText": "A rainbow has seven colours.",
+        "zh": "彩虹有七种颜色。",
+        "tip": "指指整条彩虹，不用背顺序。",
+        "alt": "彩虹有七种颜色。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0257/02.jpg",
+        "sourceImageSha256": "cda0ec0940a3b548e08c26d40ebbdad10be2cc7fb266f5e6b28847493dc7eb1a",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The first colour is red.",
+        "sourceText": "The first colour is red.",
+        "zh": "第一种颜色是红色。",
+        "tip": "听 red，指指红色。",
+        "alt": "第一种颜色是红色。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0257/03.jpg",
+        "sourceImageSha256": "f1936ce3466162701383fbe978f5efde7fceec623ed776d52a49b80e0d66e2f9",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Kewyu is wearing a red shirt.",
+        "sourceText": "Kewyu is wearing a red shirt.",
+        "zh": "凯乌穿着一件红衬衫。",
+        "tip": "找找红色衣服。",
+        "alt": "凯乌穿着一件红衬衫。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0257/04.jpg",
+        "sourceImageSha256": "06e80434da643167c249767fd12d5c753aefb3bff4a43c113e9144c3725a4617",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The second colour is orange.",
+        "sourceText": "The second colour is orange.",
+        "zh": "第二种颜色是橙色。",
+        "tip": "沿着橙色的部分指一指。",
+        "alt": "第二种颜色是橙色。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0257/05.jpg",
+        "sourceImageSha256": "89704361aa2fa336ad7f9b0b0d7aee9158d5ece15229603507fab3692d96bf6f",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "This is an orange. What else can you see that is the colour orange?",
+        "sourceText": "This is an orange. What else can you see that is the colour orange?",
+        "zh": "这是一个橙子。你还能看到什么橙色的东西？",
+        "tip": "找一样橙色物品就好。",
+        "alt": "这是一个橙子。你还能看到什么橙色的东西？",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0257/06.jpg",
+        "sourceImageSha256": "a20de411caa003ebd2458618e8633ad693a53d4fd4707fd8254ba033e88f4c1f",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The third colour is yellow.",
+        "sourceText": "The third colour is yellow.",
+        "zh": "第三种颜色是黄色。",
+        "tip": "听 yellow，指指黄色。",
+        "alt": "第三种颜色是黄色。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0257/07.jpg",
+        "sourceImageSha256": "ee30d3781cfa4faa1dbd53407e24385d7a4815b8b1b3da02b5511af81b202bc0",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The yolk of an egg is yellow. What else can you see that is the colour yellow?",
+        "sourceText": "The yolk of an egg is yellow. What else can you see that is the colour yellow?",
+        "zh": "蛋黄是黄色的。你还能看见什么黄色的东西？",
+        "tip": "找找蛋黄，或身边黄色的东西。",
+        "alt": "蛋黄是黄色的。你还能看见什么黄色的东西？",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0257/08.jpg",
+        "sourceImageSha256": "e5bb5677e8cf3d1cdf0dc89d03fa6971419df9adc6e86f5533da6785f2e4280d",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The fourth colour is green.",
+        "sourceText": "The fourth colour is green.",
+        "zh": "第四种颜色是绿色。",
+        "tip": "指一指绿色。",
+        "alt": "第四种颜色是绿色。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0257/09.jpg",
+        "sourceImageSha256": "ea478b551de370145aa64f78f6189e8c8ce4f9afd7e18635e8eb0da67139f990",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Our banana garden is green.",
+        "sourceText": "Our banana garden is green.",
+        "zh": "我们的香蕉园是绿色的。",
+        "tip": "找找绿色的植物。",
+        "alt": "我们的香蕉园是绿色的。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0257/10.jpg",
+        "sourceImageSha256": "f7dc6df014ae5ba878390fde46d7103c5ab93722f0f7ca6f67c900d4e17ab038",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The fifth colour is blue.",
+        "sourceText": "The fifth colour is blue.",
+        "zh": "第五种颜色是蓝色。",
+        "tip": "听 blue，指指蓝色。",
+        "alt": "第五种颜色是蓝色。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0257/11.jpg",
+        "sourceImageSha256": "c907928284cd14c490f4d7c7c7c3a5e86352240a9225628c39b645f53a8bd55e",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The sky is blue.",
+        "sourceText": "The sky is blue.",
+        "zh": "天空是蓝色的。",
+        "tip": "看看图里的天空。",
+        "alt": "天空是蓝色的。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0257/12.jpg",
+        "sourceImageSha256": "c4be67c8c2f7391c9be0c8944c9c7fb6dad36321b2d76139351cac201c5417ba",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The sixth colour is indigo.",
+        "sourceText": "The sixth colour is indigo.",
+        "zh": "第六种颜色是靛蓝色。",
+        "tip": "先看颜色，不必记住较难的颜色词。",
+        "alt": "第六种颜色是靛蓝色。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0257/13.jpg",
+        "sourceImageSha256": "f29ee888c311721d0cc918482deafd1e4267282edb0b5b49964dd7309acb74a3",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "These berries are the colour indigo.",
+        "sourceText": "These berries are the colour indigo.",
+        "zh": "这些浆果是靛蓝色的。",
+        "tip": "找找画面里的浆果。",
+        "alt": "这些浆果是靛蓝色的。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0257/14.jpg",
+        "sourceImageSha256": "a72fd98abeaf1ba078221276f7c1a97d267bd308d2747101164174ba5290625f",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The seventh colour is violet.",
+        "sourceText": "The seventh colour is violet.",
+        "zh": "第七种颜色是紫罗兰色。",
+        "tip": "指一指紫色部分。",
+        "alt": "第七种颜色是紫罗兰色。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0257/15.jpg",
+        "sourceImageSha256": "0f7fe279040380ff2a67e70ed62cc47a85e8633bf2d1eeece11df23c8cc2fba3",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "My dress is violet. Violet is my favourite colour! What is your favourite colour?",
+        "sourceText": "My dress is violet. Violet is my favourite colour! What is your favourite colour?",
+        "zh": "我的裙子是紫罗兰色的，这是我最喜欢的颜色！你最喜欢什么颜色？",
+        "tip": "请孩子任选喜欢的颜色，没有标准答案。",
+        "alt": "我的裙子是紫罗兰色的，这是我最喜欢的颜色！你最喜欢什么颜色？",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0257/16.jpg",
+        "sourceImageSha256": "7e00981a25678bd1aba2887fcfa17f0eacd0f551b1ffbfd84d1a98c800637a81",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Do you know the seven colours of the rainbow?",
+        "sourceText": "Do you know the seven colours of the rainbow?",
+        "zh": "你认识彩虹的七种颜色了吗？",
+        "tip": "回看一种喜欢的颜色就好，不用测验。",
+        "alt": "你认识彩虹的七种颜色了吗？",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0257/17.jpg",
+        "sourceImageSha256": "c74dbfa0e6f209d365d9d32681f959bf75c6697aa52876a1553208798ce65a07",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "red",
+        "meaning": "红色",
+        "pageIndex": 1
+      },
+      {
+        "id": "word-1",
+        "word": "yellow",
+        "meaning": "黄色",
+        "pageIndex": 5
+      },
+      {
+        "id": "word-2",
+        "word": "blue",
+        "meaning": "蓝色",
+        "pageIndex": 9
+      }
+    ],
+    "activity": {
+      "title": "找一种喜欢的颜色",
+      "text": "选一种颜色，在家找两个同色物品。可以只指一指，也可以说英文颜色词。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Knightley",
+      "voiceId": "en_male_knightley_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  },
+  {
+    "id": "0267",
+    "title": "A Dancer's Tale: The Story of Phyllis Spira",
+    "zh": "舞者的故事：菲莉丝·斯皮拉",
+    "stageId": "S3",
+    "primaryTheme": "feelings",
+    "themeIds": [
+      "feelings",
+      "everyday"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0267/01.jpg",
+    "sourceCoverSha256": "3b49f2a2ae1d3f4d0adcb0cf3f4ec9d687913a53d12906fac7431e59c7e98e2c",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0267_a-dancers-tale-the-story-of-phyllis-spira.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Samantha Cutler",
+        "插画：Thea Nicole de Klerk, Book Dash"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "8c81b3b889820390bffba7335080c5c357b22fbf71bf0309018926a9c2f77897"
+    },
+    "pages": [
+      {
+        "en": "Once upon a time, in Joburg's Orange Grove, a little girl called Phyllis was born into the world. Two people in love, hugged their sweet little babe. No-one knew then, what a dancer they'd made.",
+        "sourceText": "Once upon a time, in Joburg's Orange Grove, a little girl called Phyllis was born into the world. Two people in love, hugged their sweet little babe. No-one knew then, what a dancer they'd made.",
+        "zh": "从前，在约翰内斯堡橘园区，一个叫菲莉丝的小女孩出生。相爱的父母抱着甜美的宝宝，那时谁也不知道，她会成为舞者。",
+        "tip": "先认识故事里的小女孩。",
+        "alt": "从前，在约翰内斯堡橘园区，一个叫菲莉丝的小女孩出生。相爱的父母抱着甜美的宝宝，那时谁也不知道，她会成为舞者。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0267/02.jpg",
+        "sourceImageSha256": "8fc6b42654f76a936c814c77a75f4f2ba5a2dc8fe42e7948012abead507c4ebe",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "By the time she was four, she had learned very quick. She impressed all her teachers, with her ducky feet flicks! Before school and after, she danced everyday. Nothing pleased Phyllis, more than ballet.",
+        "sourceText": "By the time she was four, she had learned very quick. She impressed all her teachers, with her ducky feet flicks! Before school and after, she danced everyday. Nothing pleased Phyllis, more than ballet.",
+        "zh": "四岁时，她学得很快，灵巧的小脚让老师惊叹。上学前后她每天跳舞，最让她快乐的就是芭蕾。",
+        "tip": "听 ballet，看看舞蹈动作。",
+        "alt": "四岁时，她学得很快，灵巧的小脚让老师惊叹。上学前后她每天跳舞，最让她快乐的就是芭蕾。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0267/03.jpg",
+        "sourceImageSha256": "915e853da714ec053814731d1959b0156010f99a8b50b4af8d0cd72d709fd75a",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "When the world was ready for Phyllis at fifteen, She arrived in big, old London, ready to live her dream. She said goodbye to all her friends. She was ready to start fresh. Watch out Royal Ballet School! Phyllis is here to impress.",
+        "sourceText": "When the world was ready for Phyllis at fifteen, She arrived in big, old London, ready to live her dream. She said goodbye to all her friends. She was ready to start fresh. Watch out Royal Ballet School! Phyllis is here to impress.",
+        "zh": "十五岁的菲莉丝告别朋友，来到古老的大城市伦敦，准备实现梦想，在皇家芭蕾舞学校重新开始。",
+        "tip": "指指她到达的新地方。",
+        "alt": "十五岁的菲莉丝告别朋友，来到古老的大城市伦敦，准备实现梦想，在皇家芭蕾舞学校重新开始。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0267/04.jpg",
+        "sourceImageSha256": "adf4326e691149c2614f3263266fd6d1f286abc30d2b556ec2bff0d4d9a969f3",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "When Phyllis danced Swan Lake, it was fit to show the Queen! After years of pirouetting, she was ready to be seen. Dancing for the audience, she turned and twirled about. Look! Everyone is smiling! See how they clap and shout!",
+        "sourceText": "When Phyllis danced Swan Lake, it was fit to show the Queen! After years of pirouetting, she was ready to be seen. Dancing for the audience, she turned and twirled about. Look! Everyone is smiling! See how they clap and shout!",
+        "zh": "她跳《天鹅湖》，精彩得适合献给女王。多年练习后，她在观众面前旋转，大家笑着鼓掌欢呼。",
+        "tip": "轻轻鼓掌，感受观众的快乐。",
+        "alt": "她跳《天鹅湖》，精彩得适合献给女王。多年练习后，她在观众面前旋转，大家笑着鼓掌欢呼。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0267/05.jpg",
+        "sourceImageSha256": "08de8c6ff068a81c953e7a8541eea475ec82ef79ac64af698eff68f4cd8c7308",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "From Mexico to Canada. From the USA to France. Phyllis travelled far and wide, so the world could see her dance. With the Royal Ballet Company, and her ballerina friends, she spread her love for ballet. She never wanted it to end.",
+        "sourceText": "From Mexico to Canada. From the USA to France. Phyllis travelled far and wide, so the world could see her dance. With the Royal Ballet Company, and her ballerina friends, she spread her love for ballet. She never wanted it to end.",
+        "zh": "从墨西哥到加拿大，从美国到法国，她和皇家芭蕾舞团的朋友们到世界各地表演，把对芭蕾的爱传给更多人。",
+        "tip": "听 dance，用手臂轻轻画个弧。",
+        "alt": "从墨西哥到加拿大，从美国到法国，她和皇家芭蕾舞团的朋友们到世界各地表演，把对芭蕾的爱传给更多人。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0267/06.jpg",
+        "sourceImageSha256": "a916aeb763ab2e5209125a7cc66a09883328289c5d298942ba7a373039cde4d7",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Phyllis always knew, that dance was in her heart. But she longed to return home again, and make a fresh new start. So she leaped and bounded, back to her beautiful land. Her ballerina roots were regrown. She was once more South African.",
+        "sourceText": "Phyllis always knew, that dance was in her heart. But she longed to return home again, and make a fresh new start. So she leaped and bounded, back to her beautiful land. Her ballerina roots were regrown. She was once more South African.",
+        "zh": "她知道舞蹈在心里，也想念家乡，于是回到美丽的南非，重新开始，在故乡扎根。",
+        "tip": "说说她想回到哪里。",
+        "alt": "她知道舞蹈在心里，也想念家乡，于是回到美丽的南非，重新开始，在故乡扎根。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0267/07.jpg",
+        "sourceImageSha256": "2a11baeefcf12311cb2d61e942a003b82c10fb9fdf2e58e0e9ff823f2680088e",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Dancing wasn't just for fun, as Phyllis always knew. She'd work at dancing day and night, and with hard work she grew. Always smiling, always trying, through good times and through tough, Phyllis always did her best. She couldn't get enough.",
+        "sourceText": "Dancing wasn't just for fun, as Phyllis always knew. She'd work at dancing day and night, and with hard work she grew. Always smiling, always trying, through good times and through tough, Phyllis always did her best. She couldn't get enough.",
+        "zh": "舞蹈不只是玩乐，她日夜努力练习，遇到顺利或困难时都保持尝试、尽力做好。",
+        "tip": "说一句：喜欢的事情也可以慢慢练习。",
+        "alt": "舞蹈不只是玩乐，她日夜努力练习，遇到顺利或困难时都保持尝试、尽力做好。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0267/08.jpg",
+        "sourceImageSha256": "ef995f3988d80517c4744580a71dd1a79b2daf443ad3296e2cc05fa125fdd13e",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Romeo and Juliet, Swan Lake and Giselle. Phyllis danced these for the people: graceful, tireless, well. With partners Gary Burne and Eduard Greyling too, her magnificence inspired the audience. To her, flowers they threw.",
+        "sourceText": "Romeo and Juliet, Swan Lake and Giselle. Phyllis danced these for the people: graceful, tireless, well. With partners Gary Burne and Eduard Greyling too, her magnificence inspired the audience. To her, flowers they threw.",
+        "zh": "她与加里·伯恩、爱德华·格雷林搭档，跳《罗密欧与朱丽叶》《天鹅湖》《吉赛尔》，优雅的表演打动观众，人们向她献花。",
+        "tip": "找找观众或鲜花，先轻松听。",
+        "alt": "她与加里·伯恩、爱德华·格雷林搭档，跳《罗密欧与朱丽叶》《天鹅湖》《吉赛尔》，优雅的表演打动观众，人们向她献花。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0267/09.jpg",
+        "sourceImageSha256": "5c4c5a35f6ef8526f8bf9ca76c8435e6ca1acff1d2ef40e9d5f768ae2b81af76",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Reward comes easily, when you put yourself to the test. Phyllis came to realise this, once she was called 'The Best.' She was awarded 'Prima Ballerina Assoluta.' The greatest dancer of them all! Phyllis would be forever known. She wanted nothing more.",
+        "sourceText": "Reward comes easily, when you put yourself to the test. Phyllis came to realise this, once she was called 'The Best.' She was awarded 'Prima Ballerina Assoluta.' The greatest dancer of them all! Phyllis would be forever known. She wanted nothing more.",
+        "zh": "她的努力得到认可，获得“绝代芭蕾舞者”的崇高称号，被人们长久铭记。",
+        "tip": "一起为她的努力鼓掌。",
+        "alt": "她的努力得到认可，获得“绝代芭蕾舞者”的崇高称号，被人们长久铭记。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0267/10.jpg",
+        "sourceImageSha256": "54f57fc4b9c9c517088e0f758bf5538afa40667fbabe1f3a67049e10262bb3c9",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Goodness! What a catch! Phyllis met her loving partner. His name was Phillip Boyd. He was another dancer. Together they were married. and together they would dance. No-one could be better matched, given half the chance!",
+        "sourceText": "Goodness! What a catch! Phyllis met her loving partner. His name was Phillip Boyd. He was another dancer. Together they were married. and together they would dance. No-one could be better matched, given half the chance!",
+        "zh": "她遇见同为舞者的菲利普·博伊德。两人相爱结婚，一同跳舞，十分般配。",
+        "tip": "看看两位一起跳舞的人。",
+        "alt": "她遇见同为舞者的菲利普·博伊德。两人相爱结婚，一同跳舞，十分般配。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0267/11.jpg",
+        "sourceImageSha256": "d7ba1e2d0b05684591046fac48b6e9c51434fb88a3c013de82d287ebf88011f4",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Though they had no children, Phyllis and Phillip were never sad. They two of them found another way to help other Mums and Dads. They started Dance For All, a special school for dance. So that children with no money, could also learn to prance!",
+        "sourceText": "Though they had no children, Phyllis and Phillip were never sad. They two of them found another way to help other Mums and Dads. They started Dance For All, a special school for dance. So that children with no money, could also learn to prance!",
+        "zh": "他们没有孩子，却找到帮助其他家庭的方法，创办“人人舞蹈”学校，让没有足够钱的孩子也能学跳舞。",
+        "tip": "说说怎样让更多人也有尝试的机会。",
+        "alt": "他们没有孩子，却找到帮助其他家庭的方法，创办“人人舞蹈”学校，让没有足够钱的孩子也能学跳舞。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0267/12.jpg",
+        "sourceImageSha256": "f6e360463d01f1b85cf0d368bd64a453bad1886a30b0eeaf86bd9aef5f9acf70",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "She left a legacy of dance, and incredible success. Her magic was passed on to others to help them become their best. Her students spread across the world, inspired by her ducky feet. They dance on while we watch, dreaming from our seats.",
+        "sourceText": "She left a legacy of dance, and incredible success. Her magic was passed on to others to help them become their best. Her students spread across the world, inspired by her ducky feet. They dance on while we watch, dreaming from our seats.",
+        "zh": "她留下丰富的舞蹈成就，把本领传给学生。学生们到世界各地跳舞，而我们坐在观众席上，看着他们，心里也有了梦想。",
+        "tip": "说说孩子自己想尝试什么，不必选择舞蹈。",
+        "alt": "她留下丰富的舞蹈成就，把本领传给学生。学生们到世界各地跳舞，而我们坐在观众席上，看着他们，心里也有了梦想。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0267/13.jpg",
+        "sourceImageSha256": "3b49f2a2ae1d3f4d0adcb0cf3f4ec9d687913a53d12906fac7431e59c7e98e2c",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "ballet",
+        "meaning": "芭蕾舞",
+        "pageIndex": 1
+      },
+      {
+        "id": "word-1",
+        "word": "dance",
+        "meaning": "跳舞",
+        "pageIndex": 4
+      },
+      {
+        "id": "word-2",
+        "word": "dream",
+        "meaning": "梦想",
+        "pageIndex": 2
+      }
+    ],
+    "activity": {
+      "title": "随音乐动一动",
+      "text": "放一小段喜欢的音乐，自由摆动手臂或轻轻转身。无需模仿专业芭蕾动作。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Rowan",
+      "voiceId": "en_male_adam-imitation_uranus_bigtts",
+      "locale": "en-US",
+      "accentLabel": "美式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  }
+]
