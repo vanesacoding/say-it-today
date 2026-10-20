@@ -1,0 +1,724 @@
+[
+  {
+    "id": "0113",
+    "title": "New pussy cat",
+    "zh": "家里的新小猫",
+    "stageId": "S1",
+    "primaryTheme": "nature",
+    "themeIds": [
+      "nature",
+      "everyday"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0113/01.jpg",
+    "sourceCoverSha256": "9a4571fab3e3f3dbb29eca547a75e6a432bd999e8708a8191e0c54b0208bc092",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0113_new-pussy-cat.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Ritah Katetemera",
+        "插画：Marleen Visser"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "9eac4d766f9788054be08a891c17ffe6004b6e6d768ad30b90d2607b37238d90"
+    },
+    "pages": [
+      {
+        "en": "Prosy wanted a pussy cat.",
+        "sourceText": "Prosy wanted a pussy cat.",
+        "zh": "普罗西想要一只小猫。",
+        "tip": "指指普罗西，听 cat。",
+        "alt": "普罗西想要一只小猫。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0113/02.jpg",
+        "sourceImageSha256": "60557fac7e234c1d41e685b82ec2745efb87e2ef28451eec21517c14633c5466",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Prosy's family went to visit the pussy cats.",
+        "sourceText": "Prosy's family went to visit the pussy cats.",
+        "zh": "普罗西一家去看小猫们。",
+        "tip": "找一找画面中的猫。",
+        "alt": "普罗西一家去看小猫们。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0113/03.jpg",
+        "sourceImageSha256": "10ce1e8f5270bb4c741d3f94ab4a261da5f844517dd02868e262852effe6eab8",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Prosy wanted this cat. It was too big for her.",
+        "sourceText": "Prosy wanted this cat. It was too big for her.",
+        "zh": "普罗西想要这只猫，可它对她来说太大了。",
+        "tip": "张开双手，演一演 big。",
+        "alt": "普罗西想要这只猫，可它对她来说太大了。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0113/04.jpg",
+        "sourceImageSha256": "c205f65535a239557efefcf698489d4e15203fa218a02333a0aec577f054ef90",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Tim wanted this kitten. It was too small for him.",
+        "sourceText": "Tim wanted this kitten. It was too small for him.",
+        "zh": "蒂姆想要这只小猫，可它对他来说太小了。",
+        "tip": "双手靠近，演一演 small。",
+        "alt": "蒂姆想要这只小猫，可它对他来说太小了。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0113/05.jpg",
+        "sourceImageSha256": "9a4571fab3e3f3dbb29eca547a75e6a432bd999e8708a8191e0c54b0208bc092",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Mum wanted this kitten. It was too quick for her.",
+        "sourceText": "Mum wanted this kitten. It was too quick for her.",
+        "zh": "妈妈想要这只小猫，可它对她来说跑得太快。",
+        "tip": "用手指轻轻演一演小猫跑动。",
+        "alt": "妈妈想要这只小猫，可它对她来说跑得太快。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0113/06.jpg",
+        "sourceImageSha256": "1b657ce02e4897f5c85bf42471080b47b64ae876792792415326b4eaabbc2934",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Everyone liked this kitten.",
+        "sourceText": "Everyone liked this kitten.",
+        "zh": "大家都喜欢这只小猫。",
+        "tip": "请孩子指指全家喜欢的猫。",
+        "alt": "大家都喜欢这只小猫。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0113/07.jpg",
+        "sourceImageSha256": "29d44b1ae05d76766433cc88b98959ecb2d1a09183c5cc6c24fdcd1b601bcbbd",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "They took the kitten.",
+        "sourceText": "They took the kitten.",
+        "zh": "他们带走了这只小猫。",
+        "tip": "看看谁在抱小猫。",
+        "alt": "他们带走了这只小猫。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0113/08.jpg",
+        "sourceImageSha256": "0590f9097e594477b0b7762df352a6552f5343f0971554c2f874c63b11b4ef0a",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Everyone is happy with the new pussy cat.",
+        "sourceText": "Everyone is happy with the new pussy cat.",
+        "zh": "有了新小猫，大家都很开心。",
+        "tip": "说说怎么轻轻对待小动物。",
+        "alt": "有了新小猫，大家都很开心。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0113/09.jpg",
+        "sourceImageSha256": "57b1a88eb4bfa7e5786ebeb4314d8bf6bbc2edce567d2a47957a31fa259e8c31",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "cat",
+        "meaning": "猫",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "big",
+        "meaning": "大的",
+        "pageIndex": 2
+      },
+      {
+        "id": "word-2",
+        "word": "small",
+        "meaning": "小的",
+        "pageIndex": 3
+      }
+    ],
+    "activity": {
+      "title": "给玩偶找个小家",
+      "text": "给一个玩偶准备柔软、安静的小角落，说说小动物需要照顾和休息。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Knightley",
+      "voiceId": "en_male_knightley_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  },
+  {
+    "id": "0117",
+    "title": "Friendship between Hyena and Hare",
+    "zh": "鬣狗和野兔的友谊",
+    "stageId": "S2",
+    "primaryTheme": "feelings",
+    "themeIds": [
+      "feelings"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0117/01.jpg",
+    "sourceCoverSha256": "0d925eae8f0a88ae390a2bebe692151111cd87e54e0c810f255bb6fe5b01a5c9",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0117_friendship-between-hyena-and-hare.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Adapted Aesop's Fable",
+        "插画：Rob Owen"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "775f840dd3ef83cacefeccf7b7f6c2b80fd7753159c89802d6422c6ba07ca9ed"
+    },
+    "pages": [
+      {
+        "en": "Hare and Hyena were friends. They decided to farm potatoes together.",
+        "sourceText": "Hare and Hyena were friends. They decided to farm potatoes together.",
+        "zh": "野兔和鬣狗是朋友，它们决定一起种土豆。",
+        "tip": "指指两个朋友，听 together。",
+        "alt": "野兔和鬣狗是朋友，它们决定一起种土豆。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0117/02.jpg",
+        "sourceImageSha256": "fbdc5be6321fbe732ee3c82531d320a2dcb0d0c7df6ab9ad071406af8f31c665",
+        "imageWidth": 463,
+        "imageHeight": 479
+      },
+      {
+        "en": "They worked hard on the farm.",
+        "sourceText": "They worked hard on the farm.",
+        "zh": "它们在农田里辛勤劳动。",
+        "tip": "做一个轻轻种地的动作。",
+        "alt": "它们在农田里辛勤劳动。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0117/03.jpg",
+        "sourceImageSha256": "e3340d46ca263595a07b2c48baf79614de15140359908852b6031e4043f885d4",
+        "imageWidth": 465,
+        "imageHeight": 480
+      },
+      {
+        "en": "After work, Hare and Hyena played together.",
+        "sourceText": "After work, Hare and Hyena played together.",
+        "zh": "干完活，它们一起玩耍。",
+        "tip": "看看它们一起玩的样子。",
+        "alt": "干完活，它们一起玩耍。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0117/04.jpg",
+        "sourceImageSha256": "e30a69d2400e795db83829d520c3d2118ad0ed830f36cd498a24dbaaf63c4fd0",
+        "imageWidth": 469,
+        "imageHeight": 479
+      },
+      {
+        "en": "But sometimes Hyena chased Hare. Hare would run away.",
+        "sourceText": "But sometimes Hyena chased Hare. Hare would run away.",
+        "zh": "可有时鬣狗会追野兔，野兔就跑开。",
+        "tip": "说说被追的人是不是也觉得好玩。",
+        "alt": "可有时鬣狗会追野兔，野兔就跑开。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0117/05.jpg",
+        "sourceImageSha256": "53a6c774bb5084546f1999dcdaf438ae8d0a5bc4d3d18fc9fc44eeb6f0a72d26",
+        "imageWidth": 465,
+        "imageHeight": 480
+      },
+      {
+        "en": "One day, Hare asked, \"If you are my friend, why do you chase me?\"",
+        "sourceText": "One day, Hare asked, \"If you are my friend, why do you chase me?\"",
+        "zh": "一天，野兔问：“如果你是我的朋友，为什么要追我？”",
+        "tip": "练一句“我不喜欢这样”，不用背英文。",
+        "alt": "一天，野兔问：“如果你是我的朋友，为什么要追我？”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0117/06.jpg",
+        "sourceImageSha256": "f428abdd8d1db055de190498cbd1c816ee984fedfb3ff37b9b3c1e8a761fcd0c",
+        "imageWidth": 477,
+        "imageHeight": 479
+      },
+      {
+        "en": "Then Hare asked, \"But if you are not my friend, why do we work and play together?\"",
+        "sourceText": "Then Hare asked, \"But if you are not my friend, why do we work and play together?\"",
+        "zh": "接着野兔又问：“可如果你不是我的朋友，为什么又和我一起工作、一起玩？”",
+        "tip": "听听野兔的困惑，不急着给标准答案。",
+        "alt": "接着野兔又问：“可如果你不是我的朋友，为什么又和我一起工作、一起玩？”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0117/07.jpg",
+        "sourceImageSha256": "0d925eae8f0a88ae390a2bebe692151111cd87e54e0c810f255bb6fe5b01a5c9",
+        "imageWidth": 473,
+        "imageHeight": 480
+      },
+      {
+        "en": "A friend is someone who is always a friend.",
+        "sourceText": "A friend is someone who is always a friend.",
+        "zh": "朋友应该一直像朋友那样对待你。",
+        "tip": "说说朋友需要听见彼此的感受和请求。",
+        "alt": "朋友应该一直像朋友那样对待你。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0117/08.jpg",
+        "sourceImageSha256": "93256b4ec005cce91063f17d58f54e29174dbd1d5e8d094137c077d09b2ab317",
+        "imageWidth": 465,
+        "imageHeight": 480
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "friends",
+        "meaning": "朋友",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "together",
+        "meaning": "一起",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-2",
+        "word": "play",
+        "meaning": "玩",
+        "pageIndex": 5
+      }
+    ],
+    "activity": {
+      "title": "练一句温和的请求",
+      "text": "和家人演一演：“我不喜欢这样，请停一下。”用中文说也很好。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Rowan",
+      "voiceId": "en_male_adam-imitation_uranus_bigtts",
+      "locale": "en-US",
+      "accentLabel": "美式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  },
+  {
+    "id": "0121",
+    "title": "Porridge",
+    "zh": "早餐粥",
+    "stageId": "S2",
+    "primaryTheme": "everyday",
+    "themeIds": [
+      "everyday"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0121/01.jpg",
+    "sourceCoverSha256": "51a96b9346eb4ade70a1f409122b1564022a8afd841843b2da57fe9542d216b6",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0121_porridge.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Zimbili Dlamini, Hlengiwe Zondi",
+        "插画：Catherine Groenewald"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "0af79e30507e2ffae00b056a9d422104c636ca8aab2c49bb2b6afbbc2ebe3f18"
+    },
+    "pages": [
+      {
+        "en": "Zama is getting ready for school.",
+        "sourceText": "Zama is getting ready for school.",
+        "zh": "扎马正在准备去上学。",
+        "tip": "找找上学要用的东西。",
+        "alt": "扎马正在准备去上学。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0121/02.jpg",
+        "sourceImageSha256": "9ebec2dc8d5332ac0789fd0021dce2e48ea546e2bc860d075105a383506bcec4",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Dad is cooking porridge for breakfast.",
+        "sourceText": "Dad is cooking porridge for breakfast.",
+        "zh": "爸爸在煮早餐粥。",
+        "tip": "指指粥，说 porridge。",
+        "alt": "爸爸在煮早餐粥。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0121/03.jpg",
+        "sourceImageSha256": "db9555260a70e0b98ec8c5e07721a9767675b11116f27795c70b01035ce20acc",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "\"Mom makes the best porridge!\" says Zama.",
+        "sourceText": "\"Mom makes the best porridge!\" says Zama.",
+        "zh": "“妈妈煮的粥最好吃！”扎马说。",
+        "tip": "说说自己喜欢的早餐。",
+        "alt": "“妈妈煮的粥最好吃！”扎马说。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0121/04.jpg",
+        "sourceImageSha256": "10c00584613d80b2b95f2c64f663c251d47954bb51d9b2beaf5d0a870e476a22",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Porridge gives Zama energy for school.",
+        "sourceText": "Porridge gives Zama energy for school.",
+        "zh": "粥给扎马上学所需的能量。",
+        "tip": "摸摸肚子，说说早餐让我们有精神。",
+        "alt": "粥给扎马上学所需的能量。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0121/05.jpg",
+        "sourceImageSha256": "65dda6e36ba2a74021d0562101c9eebe87330fbe0b54163e9d9b4603062af2c9",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The porridge is ready.",
+        "sourceText": "The porridge is ready.",
+        "zh": "粥煮好了。",
+        "tip": "指指盛好的粥。",
+        "alt": "粥煮好了。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0121/06.jpg",
+        "sourceImageSha256": "1f2b4f495132137a70fb9fc6a188a94e7183d4e27c0271c646495109bd60354a",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Dad pours the milk, with love.",
+        "sourceText": "Dad pours the milk, with love.",
+        "zh": "爸爸满怀爱意地倒入牛奶。",
+        "tip": "听 milk，指指牛奶。",
+        "alt": "爸爸满怀爱意地倒入牛奶。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0121/07.jpg",
+        "sourceImageSha256": "51a96b9346eb4ade70a1f409122b1564022a8afd841843b2da57fe9542d216b6",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "\"Dad, I think this porridge needs more sugar,\" says Zama.",
+        "sourceText": "\"Dad, I think this porridge needs more sugar,\" says Zama.",
+        "zh": "扎马说：“爸爸，我觉得这碗粥还需要一些糖。”",
+        "tip": "听听她怎样提出请求。",
+        "alt": "扎马说：“爸爸，我觉得这碗粥还需要一些糖。”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0121/08.jpg",
+        "sourceImageSha256": "e6f69c4c9f274a362c83615c7dbc28f4d56a89cada924e403f38c2fbb55a1771",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "\"Mom's porridge tastes much better than Dad's porridge,\" thinks Zama.",
+        "sourceText": "\"Mom's porridge tastes much better than Dad's porridge,\" thinks Zama.",
+        "zh": "扎马心想：“妈妈煮的粥比爸爸煮的好吃多了。”",
+        "tip": "可以说每个人做饭的味道会不同。",
+        "alt": "扎马心想：“妈妈煮的粥比爸爸煮的好吃多了。”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0121/09.jpg",
+        "sourceImageSha256": "238686236f7079d6530bba3c76c78bcc8d0121de3a1bc42940194af4a0c1b39d",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "\"Dad, please can I have more sugar?\" asks Zama.",
+        "sourceText": "\"Dad, please can I have more sugar?\" asks Zama.",
+        "zh": "扎马问：“爸爸，请再给我一点糖好吗？”",
+        "tip": "和孩子练一句中文的“请帮我”。",
+        "alt": "扎马问：“爸爸，请再给我一点糖好吗？”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0121/10.jpg",
+        "sourceImageSha256": "a091fb67751a8170bc58f79eec73951a6507bf82761e81e13374c0024dea76e4",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Dad gives Zama more sugar.",
+        "sourceText": "Dad gives Zama more sugar.",
+        "zh": "爸爸又给扎马加了些“糖”。",
+        "tip": "先看图，猜猜会发生什么。",
+        "alt": "爸爸又给扎马加了些“糖”。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0121/11.jpg",
+        "sourceImageSha256": "ec85a07eac50ec080302ba1be0c6068ca53786081beed3041ee2575ecc84b0e4",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "\"Wu! Dad! You put salt on my porridge!\"",
+        "sourceText": "\"Wu! Dad! You put salt on my porridge!\"",
+        "zh": "“哇，爸爸！你往粥里放的是盐！”",
+        "tip": "指指调料，听 salt。",
+        "alt": "“哇，爸爸！你往粥里放的是盐！”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0121/12.jpg",
+        "sourceImageSha256": "c51cec3c1df7c9b4bfe6a134dde66a7f8203c309b6c2b9d7206316055c212aa5",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "\"Dad, when will Mom be home?\" asks Zama.",
+        "sourceText": "\"Dad, when will Mom be home?\" asks Zama.",
+        "zh": "扎马问：“爸爸，妈妈什么时候回家呀？”",
+        "tip": "一起笑一笑，说说爸爸也在努力照顾她。",
+        "alt": "扎马问：“爸爸，妈妈什么时候回家呀？”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0121/13.jpg",
+        "sourceImageSha256": "66051d946afdec632fcb75c1e0b5d9d6634a27a05fdfa5fc9fe1555f5d7cf77b",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "porridge",
+        "meaning": "粥",
+        "pageIndex": 1
+      },
+      {
+        "id": "word-1",
+        "word": "milk",
+        "meaning": "牛奶",
+        "pageIndex": 5
+      },
+      {
+        "id": "word-2",
+        "word": "salt",
+        "meaning": "盐",
+        "pageIndex": 10
+      }
+    ],
+    "activity": {
+      "title": "认识厨房里的标签",
+      "text": "由大人拿出盐和糖的包装，一起看看标签。不直接品尝，做饭时由大人确认调料。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Charlotte",
+      "voiceId": "en_female_authoritative-british_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  },
+  {
+    "id": "0126",
+    "title": "Clouds",
+    "zh": "我喜欢云",
+    "stageId": "S1",
+    "primaryTheme": "nature",
+    "themeIds": [
+      "nature",
+      "discovery"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0126/01.jpg",
+    "sourceCoverSha256": "8f33843d47bf3696259eb8b78526426c1667257cb20871ce709ecf1832242418",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0126_clouds.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Clark Ness",
+        "插画：Microsoft Clip Art"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "9340f51f469093f66521b2744ba278f1f3cffa30618247a71842f36e8441fcbb"
+    },
+    "pages": [
+      {
+        "en": "Clouds can bring rain. I like clouds.",
+        "sourceText": "Clouds can bring rain. I like clouds.",
+        "zh": "云能带来雨。我喜欢云。",
+        "tip": "指指云和雨，听 clouds。",
+        "alt": "云能带来雨。我喜欢云。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0126/02.jpg",
+        "sourceImageSha256": "472e7f679ae9dc45b12f988e3816a928132ff76db2ccf907eeba1c2cfe4cce22",
+        "imageWidth": 484,
+        "imageHeight": 364
+      },
+      {
+        "en": "Clouds can bring snow. I like clouds.",
+        "sourceText": "Clouds can bring snow. I like clouds.",
+        "zh": "云能带来雪。我喜欢云。",
+        "tip": "找一找雪，说 snow。",
+        "alt": "云能带来雪。我喜欢云。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0126/03.jpg",
+        "sourceImageSha256": "d751923e0a69464079f6310124712d63c33f0d737c2e5024001227703ea0041e",
+        "imageWidth": 529,
+        "imageHeight": 454
+      },
+      {
+        "en": "Clouds can hide the sun. I like clouds.",
+        "sourceText": "Clouds can hide the sun. I like clouds.",
+        "zh": "云能遮住太阳。我喜欢云。",
+        "tip": "用手掌轻轻遮住图里的太阳。",
+        "alt": "云能遮住太阳。我喜欢云。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0126/04.jpg",
+        "sourceImageSha256": "457dc0813d94d6ec1379a61a384a49ebeaef57a9928e16427cd0ec6d3ad0c510",
+        "imageWidth": 546,
+        "imageHeight": 456
+      },
+      {
+        "en": "Clouds can hide the stars. I like clouds.",
+        "sourceText": "Clouds can hide the stars. I like clouds.",
+        "zh": "云能遮住星星。我喜欢云。",
+        "tip": "指指星星，重复 I like clouds 也可以。",
+        "alt": "云能遮住星星。我喜欢云。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0126/05.jpg",
+        "sourceImageSha256": "42e657379e113de5cdb7cb71057d28b537e87a8b73a793bf843a1154ab663426",
+        "imageWidth": 510,
+        "imageHeight": 403
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "clouds",
+        "meaning": "云",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "rain",
+        "meaning": "雨",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-2",
+        "word": "snow",
+        "meaning": "雪",
+        "pageIndex": 1
+      }
+    ],
+    "activity": {
+      "title": "窗边看云",
+      "text": "和大人在安全的窗边看云。说说云的形状，或画一朵自己喜欢的云。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Knightley",
+      "voiceId": "en_male_knightley_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  },
+  {
+    "id": "0127",
+    "title": "Different Plays",
+    "zh": "不同的玩法",
+    "stageId": "S1",
+    "primaryTheme": "everyday",
+    "themeIds": [
+      "everyday"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0127/01.jpg",
+    "sourceCoverSha256": "4f36555b95407748d5951362520ee2c452a71dd937164350b40a5542f009f078",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0127_different-plays.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Ajarubo Philiam",
+        "插画：Vusi Malindi, Marion Drew, Benjamin Mitchley, Joseph Ejoyi, Mlungisi Dlamini, Kathy Arbuckle"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "4c34a8f36ceab0e7e06f14b20aaa7d964597e58104e8fb10775c4547d58c0bb5"
+    },
+    "pages": [
+      {
+        "en": "Skipping",
+        "sourceText": "Skipping",
+        "zh": "跳绳。",
+        "tip": "指指跳绳的人，听 Skipping。",
+        "alt": "跳绳。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0127/02.jpg",
+        "sourceImageSha256": "fa1fc31b29b577d45d6169bfcd0371e6d81c052cd947cefd7ef5428c6c4e2cd3",
+        "imageWidth": 400,
+        "imageHeight": 480
+      },
+      {
+        "en": "Running",
+        "sourceText": "Running",
+        "zh": "跑步。",
+        "tip": "用两根手指在掌心演一演 Running。",
+        "alt": "跑步。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0127/03.jpg",
+        "sourceImageSha256": "bfec8b2d74ebbb85d33db9faf2b4cd350071320802b84c181dc418bea56f3966",
+        "imageWidth": 442,
+        "imageHeight": 480
+      },
+      {
+        "en": "Kicking the ball",
+        "sourceText": "Kicking the ball",
+        "zh": "踢球。",
+        "tip": "指指球，说 ball。",
+        "alt": "踢球。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0127/04.jpg",
+        "sourceImageSha256": "f16c2bc177393760a40ee2d27a1b402542889c42cae8bc8ff5bf6846e07400a3",
+        "imageWidth": 443,
+        "imageHeight": 479
+      },
+      {
+        "en": "Jumping",
+        "sourceText": "Jumping",
+        "zh": "跳跃。",
+        "tip": "用手指向上轻轻一跳，说 Jumping。",
+        "alt": "跳跃。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0127/05.jpg",
+        "sourceImageSha256": "bad33147a50bd4f7a6539683267fe5bb973f9809d5fd1272e01efa95843563b0",
+        "imageWidth": 423,
+        "imageHeight": 480
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "Skipping",
+        "meaning": "跳绳",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "Running",
+        "meaning": "跑步",
+        "pageIndex": 1
+      },
+      {
+        "id": "word-2",
+        "word": "Jumping",
+        "meaning": "跳跃",
+        "pageIndex": 3
+      }
+    ],
+    "activity": {
+      "title": "选一个小动作",
+      "text": "在安全、空旷的地方，选一个喜欢的动作做一次。也可以只用手指演一演。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Rowan",
+      "voiceId": "en_male_adam-imitation_uranus_bigtts",
+      "locale": "en-US",
+      "accentLabel": "美式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  }
+]

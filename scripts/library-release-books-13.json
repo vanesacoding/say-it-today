@@ -1,0 +1,1057 @@
+[
+  {
+    "id": "0124",
+    "title": "A Fish and a Gift",
+    "zh": "一条鱼和一份礼物",
+    "stageId": "S3",
+    "primaryTheme": "nature",
+    "themeIds": [
+      "nature",
+      "everyday"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0124/01.jpg",
+    "sourceCoverSha256": "34407f7d736d1e32e66bec623a66f4a7c59272c399c6efc55d7aacdf060d3919",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0124_a-fish-and-a-gift.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Liesl Jobson",
+        "插画：Jesse Breytenbach"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "03be63ac0f55e81424769dfa8569577d21be9762f80cf46ae778b038a8e4fb1f"
+    },
+    "pages": [
+      {
+        "en": "One special Friday Yusuf's father gets dressed before a flicker of light brightens the sky. He pulls on his heavy weatherproof jacket and the green woolen cap that covers his ears. He waves his boy goodbye. Yusuf's eyes brighten when Papa says, \"Today is the day I will catch a fish and bring a gift home for you.\"",
+        "sourceText": "One special Friday Yusuf's father gets dressed before a flicker of light brightens the sky. He pulls on his heavy weatherproof jacket and the green woolen cap that covers his ears. He waves his boy goodbye. Yusuf's eyes brighten when Papa says, \"Today is the day I will catch a fish and bring a gift home for you.\"",
+        "zh": "一个特别的星期五，天还没亮，优素福的爸爸就穿好防风雨厚外套，戴上盖住耳朵的绿毛线帽，向孩子挥手。爸爸答应今天去捕鱼，还会带礼物回来，优素福眼睛一亮。",
+        "tip": "先听故事，指指爸爸准备出海的衣帽。",
+        "alt": "一个特别的星期五，天还没亮，优素福的爸爸就穿好防风雨厚外套，戴上盖住耳朵的绿毛线帽，向孩子挥手。爸爸答应今天去捕鱼，还会带礼物回来，优素福眼睛一亮。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0124/02.jpg",
+        "sourceImageSha256": "098e43a6ddfbe483918729f233f309c2d6061de8e3ac896579eea5d81ff73f98",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "A fish and a gift? Oh, what will it be? Papa cycles down to Muizenberg Beach. Squeak squeak go the wheels all the way to Surfer's Corner. Gulls circle the sky. \"Whaaat? Whaaat? Whaaat?\" they cry. \"What will you bring back for Yusuf?\" Papa rings his bell. \"Wait and see what it will be!\"",
+        "sourceText": "A fish and a gift? Oh, what will it be? Papa cycles down to Muizenberg Beach. Squeak squeak go the wheels all the way to Surfer's Corner. Gulls circle the sky. \"Whaaat? Whaaat? Whaaat?\" they cry. \"What will you bring back for Yusuf?\" Papa rings his bell. \"Wait and see what it will be!\"",
+        "zh": "一条鱼，一份礼物，会是什么呢？爸爸骑车去梅森堡海滩，车轮一路吱呀响。海鸥在天上盘旋叫着，像在问带什么给优素福。爸爸按铃回答：“等着看吧！”",
+        "tip": "指指海鸥，轻轻演一演它的叫声。",
+        "alt": "一条鱼，一份礼物，会是什么呢？爸爸骑车去梅森堡海滩，车轮一路吱呀响。海鸥在天上盘旋叫着，像在问带什么给优素福。爸爸按铃回答：“等着看吧！”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0124/03.jpg",
+        "sourceImageSha256": "2e6e987d97c5432a5d10503c07679aad9bd7e1efd36cf1e9ba24e6f36b06e32e",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The fishermen watch the sun rise. They check their nets. They check their oars. They listen to the wind. They drag their boats down to the water. Yusuf's grandfather, Oupa Salie was a treknet fisherman. Before him his father, Oupagrootjie Ridwaan, knew the sea too.",
+        "sourceText": "The fishermen watch the sun rise. They check their nets. They check their oars. They listen to the wind. They drag their boats down to the water. Yusuf's grandfather, Oupa Salie was a treknet fisherman. Before him his father, Oupagrootjie Ridwaan, knew the sea too.",
+        "zh": "渔民看日出，检查渔网和船桨，听风声，把船拖入海。优素福的爷爷萨利是拖网渔民，更早的曾祖父里德万也熟悉这片海。",
+        "tip": "找一找船桨和渔网。",
+        "alt": "渔民看日出，检查渔网和船桨，听风声，把船拖入海。优素福的爷爷萨利是拖网渔民，更早的曾祖父里德万也熟悉这片海。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0124/04.jpg",
+        "sourceImageSha256": "574976afb086ab2d2cf74e9ca691526224d705c31dfc154717b434a7e2872e44",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The boat rides into the waves. Papa's arms stretch to the oar. His leg braces against the side. His neck strains, his back muscles ripple. Papa sings as he works: \"Drop and swish. Find a fish. Pull and plop. Don't you stop.\"",
+        "sourceText": "The boat rides into the waves. Papa's arms stretch to the oar. His leg braces against the side. His neck strains, his back muscles ripple. Papa sings as he works: \"Drop and swish. Find a fish. Pull and plop. Don't you stop.\"",
+        "zh": "船驶入波浪，爸爸伸臂划桨，腿抵住船边，脖子绷紧，背部肌肉起伏，边干活边唱：放下、划动，寻找鱼；拉起、落下，不停歇。",
+        "tip": "用手臂轻轻演一演划船。",
+        "alt": "船驶入波浪，爸爸伸臂划桨，腿抵住船边，脖子绷紧，背部肌肉起伏，边干活边唱：放下、划动，寻找鱼；拉起、落下，不停歇。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0124/05.jpg",
+        "sourceImageSha256": "18a08984f44c8c4a95a99920c09acee9010cc50ee7aab7fb2cc2adf69630dfe1",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "All day long Yusuf looks at the sky. It is bright and clear and windless. A fish and a gift! What will Papa bring home from the sea? Sometimes he brings a beautiful shell. Sometimes he brings a jewel green bottle rinsed by the waves.",
+        "sourceText": "All day long Yusuf looks at the sky. It is bright and clear and windless. A fish and a gift! What will Papa bring home from the sea? Sometimes he brings a beautiful shell. Sometimes he brings a jewel green bottle rinsed by the waves.",
+        "zh": "优素福整天看着晴朗无风的天空，盼着鱼和礼物。爸爸有时带漂亮贝壳，有时带被海浪洗净、像宝石般绿色的瓶子。",
+        "tip": "猜猜今天会带什么礼物，不必猜对。",
+        "alt": "优素福整天看着晴朗无风的天空，盼着鱼和礼物。爸爸有时带漂亮贝壳，有时带被海浪洗净、像宝石般绿色的瓶子。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0124/06.jpg",
+        "sourceImageSha256": "06ce9396cc7ec7dabf38cf2119c5c043b87c73a10394cf950126bc8e59b770c1",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Some days Yusuf's father brings a story. Like the time they found sea turtles on the sand, hundreds washed up in a storm. \"Whaaat? Whaaat? Whaaat?\" cried the gulls. \"What will you do to help the turtles?\" Papa said, \"We saved those turtles, I tell you straight. We sent them back to the ocean, every last one.\"",
+        "sourceText": "Some days Yusuf's father brings a story. Like the time they found sea turtles on the sand, hundreds washed up in a storm. \"Whaaat? Whaaat? Whaaat?\" cried the gulls. \"What will you do to help the turtles?\" Papa said, \"We saved those turtles, I tell you straight. We sent them back to the ocean, every last one.\"",
+        "zh": "有时爸爸带回来一个故事，比如有次风暴把数百只海龟冲上沙滩。海鸥叫着，仿佛问怎么办。爸爸说，他们救了海龟，把每一只都送回海里。",
+        "tip": "指指海龟，听 turtles。",
+        "alt": "有时爸爸带回来一个故事，比如有次风暴把数百只海龟冲上沙滩。海鸥叫着，仿佛问怎么办。爸爸说，他们救了海龟，把每一只都送回海里。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0124/07.jpg",
+        "sourceImageSha256": "fe120fc85380a7c524fdb7f97d8857f8286217c43fde43915d25b69384ace950",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Always Papa brings a song. He sings the song while he pulls the oars. He sings the song while he pulls the nets. He sings the song as he winds the ropes. He sings the song as he cycles home. \"Drop and swish. Find a fish. Pull and plop. Don't you stop.\"",
+        "sourceText": "Always Papa brings a song. He sings the song while he pulls the oars. He sings the song while he pulls the nets. He sings the song as he winds the ropes. He sings the song as he cycles home. \"Drop and swish. Find a fish. Pull and plop. Don't you stop.\"",
+        "zh": "爸爸总带着一首歌，划桨、拉网、盘绳、骑车回家时都唱：放下、划动，寻找鱼；拉起、落下，不停歇。",
+        "tip": "听听反复出现的节奏，用手轻轻打拍。",
+        "alt": "爸爸总带着一首歌，划桨、拉网、盘绳、骑车回家时都唱：放下、划动，寻找鱼；拉起、落下，不停歇。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0124/08.jpg",
+        "sourceImageSha256": "201f0fa68e488a793c3ff450af4478035ab51fa337d1f7d98db380d69355fd18",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Ouma Safiya wants a nice fat yellowtail for her supper. Mother wants a new dress. \"Don't be silly,\" says Ouma. \"You'll be lucky if they catch even a tiny crab. More likely it will be fish tail Friday. There's not so many fish left in the sea.\" Yusuf holds Ouma's hand. They cross the road at the bathing cabins. \"Whaaat? Whaaat? Whaaat?\" cry the gulls perched on the bright rooftops. \"What is for supper?\"",
+        "sourceText": "Ouma Safiya wants a nice fat yellowtail for her supper. Mother wants a new dress. \"Don't be silly,\" says Ouma. \"You'll be lucky if they catch even a tiny crab. More likely it will be fish tail Friday. There's not so many fish left in the sea.\" Yusuf holds Ouma's hand. They cross the road at the bathing cabins. \"Whaaat? Whaaat? Whaaat?\" cry the gulls perched on the bright rooftops. \"What is for supper?\"",
+        "zh": "萨菲娅奶奶想吃肥美的黄尾鱼，妈妈想要新裙子。奶奶说海里的鱼不多了，能抓到小螃蟹都算幸运，也许只有鱼尾巴。优素福牵着奶奶过马路，海鸥在彩色屋顶叫着，像在问晚饭吃什么。",
+        "tip": "找找奶奶和孩子，先听懂他们在等待。",
+        "alt": "萨菲娅奶奶想吃肥美的黄尾鱼，妈妈想要新裙子。奶奶说海里的鱼不多了，能抓到小螃蟹都算幸运，也许只有鱼尾巴。优素福牵着奶奶过马路，海鸥在彩色屋顶叫着，像在问晚饭吃什么。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0124/09.jpg",
+        "sourceImageSha256": "dbc045b31ad4b9db4cb61beb17dcd80cb66a7281a90d1c87153a09ef3b7cdb5e",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Last year the fishermen fought with the surfers. Angry fists and shouting words. \"Whaaat? Whaaat? Whaaat?\" cried the gulls. \"There's enough sea for everybody,\" said Yusuf's father. He showed them the fishing license that had been Oupa Salie's. \"Waves for all. Water for free.\"",
+        "sourceText": "Last year the fishermen fought with the surfers. Angry fists and shouting words. \"Whaaat? Whaaat? Whaaat?\" cried the gulls. \"There's enough sea for everybody,\" said Yusuf's father. He showed them the fishing license that had been Oupa Salie's. \"Waves for all. Water for free.\"",
+        "zh": "去年渔民和冲浪者曾争吵冲突。爸爸拿出祖传的捕鱼许可证，说海足够大家共享：“海浪给大家，海水自由流。”",
+        "tip": "可以说：大家需要商量着共享海边。",
+        "alt": "去年渔民和冲浪者曾争吵冲突。爸爸拿出祖传的捕鱼许可证，说海足够大家共享：“海浪给大家，海水自由流。”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0124/10.jpg",
+        "sourceImageSha256": "56fe6ee43b24bd55e8519bbaaf52f453f24dd24eb50c6efbfd3b4c75d6d2ffa2",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Ouma Safiya watches through her binoculars, her fingers curled in curiosity. The shark siren sounds. Swimmers run back to the sand and grab their towels. Surfers rush to the shore, carrying their boards under their arms. Under the showers they strip off their wetsuits. \"Whaaat? Whaaat? Whaaat?\" cry the gulls. \"What will Yusuf's father bring from the ocean?\"",
+        "sourceText": "Ouma Safiya watches through her binoculars, her fingers curled in curiosity. The shark siren sounds. Swimmers run back to the sand and grab their towels. Surfers rush to the shore, carrying their boards under their arms. Under the showers they strip off their wetsuits. \"Whaaat? Whaaat? Whaaat?\" cry the gulls. \"What will Yusuf's father bring from the ocean?\"",
+        "zh": "奶奶用望远镜好奇地看。鲨鱼警报响了，游泳者拿毛巾跑回沙滩，冲浪者抱板上岸、冲水脱潜水衣。海鸥又叫，爸爸会从海里带回什么呢？",
+        "tip": "指指岸边的人，说说听到警报要听从工作人员。",
+        "alt": "奶奶用望远镜好奇地看。鲨鱼警报响了，游泳者拿毛巾跑回沙滩，冲浪者抱板上岸、冲水脱潜水衣。海鸥又叫，爸爸会从海里带回什么呢？",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0124/11.jpg",
+        "sourceImageSha256": "676084a7f1d85aac78713fbadca041e79e0e51632836f6aea795e7430c57759b",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Yusuf's father and uncle and cousins heave and pull. A little shark has been caught. It twists and thrashes in the waves. Yusuf's father untangles the nets, singing to the shark: \"Drop and swish. Find a fish. Pull and plop. Don't you stop.\" When the shark at last is free it streaks back into the waves, leaving only one fat yellowtail in the net. Ouma Safiya will be pleased.",
+        "sourceText": "Yusuf's father and uncle and cousins heave and pull. A little shark has been caught. It twists and thrashes in the waves. Yusuf's father untangles the nets, singing to the shark: \"Drop and swish. Find a fish. Pull and plop. Don't you stop.\" When the shark at last is free it streaks back into the waves, leaving only one fat yellowtail in the net. Ouma Safiya will be pleased.",
+        "zh": "爸爸和亲人用力拉网，一条小鲨鱼在浪里挣扎。爸爸解开网，唱着熟悉的歌。鲨鱼终于自由游回海里，网里只留一条肥黄尾鱼，奶奶会开心。",
+        "tip": "找找游走的鲨鱼，看看爸爸怎样帮助它。",
+        "alt": "爸爸和亲人用力拉网，一条小鲨鱼在浪里挣扎。爸爸解开网，唱着熟悉的歌。鲨鱼终于自由游回海里，网里只留一条肥黄尾鱼，奶奶会开心。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0124/12.jpg",
+        "sourceImageSha256": "4761b69114fc4998dc68867f194909dd03e4d635bbf6944bb70b1fcc8bc0f567",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The men pull the boat in and coil up the cables. A hard white triangle catches Papa's finger. \"Whaaat? Whaaat? Whaaat?\" cry the gulls. \"What did you bring back for Yusuf?\" As the sun goes down, Papa answers the gulls. \"A lucky shark tooth for my boy.\" At home Yusuf holds his gift up to the stars.",
+        "sourceText": "The men pull the boat in and coil up the cables. A hard white triangle catches Papa's finger. \"Whaaat? Whaaat? Whaaat?\" cry the gulls. \"What did you bring back for Yusuf?\" As the sun goes down, Papa answers the gulls. \"A lucky shark tooth for my boy.\" At home Yusuf holds his gift up to the stars.",
+        "zh": "男人们收船盘绳，一个坚硬的白色三角碰到爸爸手指。海鸥仿佛追问礼物，夕阳下爸爸回答：“给孩子一颗幸运的鲨鱼牙。”回到家，优素福举起礼物，望向星空。",
+        "tip": "指指礼物，回想最开始爸爸的承诺。",
+        "alt": "男人们收船盘绳，一个坚硬的白色三角碰到爸爸手指。海鸥仿佛追问礼物，夕阳下爸爸回答：“给孩子一颗幸运的鲨鱼牙。”回到家，优素福举起礼物，望向星空。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0124/13.jpg",
+        "sourceImageSha256": "6d207f41baca53ba9d022eacc49afde5e7227927fce391f265a33b71114ab40d",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "fish",
+        "meaning": "鱼",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "gift",
+        "meaning": "礼物",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-2",
+        "word": "turtles",
+        "meaning": "海龟",
+        "pageIndex": 5
+      }
+    ],
+    "activity": {
+      "title": "画一份来自海边的礼物",
+      "text": "画一片海浪、一只海龟或一个想象中的贝壳送给家人。去海边时不惊扰动物，也不带走活物。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Rowan",
+      "voiceId": "en_male_adam-imitation_uranus_bigtts",
+      "locale": "en-US",
+      "accentLabel": "美式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  },
+  {
+    "id": "0237",
+    "title": "Mr Mkhize's quarters",
+    "zh": "姆基泽先生的四分之一面包",
+    "stageId": "S3",
+    "primaryTheme": "discovery",
+    "themeIds": [
+      "discovery",
+      "everyday"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0237/01.jpg",
+    "sourceCoverSha256": "c454023c150bae81db070145f96d068ab4d26e4315342828e2d8ffcb2c8a0a04",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0237_mr-mkhizes-quarters.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Lindiwe Tshabalala, Lorato Trok",
+        "插画：Marleen Visser"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "232b355f562f4a492efcacd834a098f83e51ce255220fa9c926000b991b93ec6"
+    },
+    "pages": [
+      {
+        "en": "It is nearly break time at Siyafunda Primary School. The two spaza shop owners at the school are preparing lunch to sell to hungry children.",
+        "sourceText": "It is nearly break time at Siyafunda Primary School. The two spaza shop owners at the school are preparing lunch to sell to hungry children.",
+        "zh": "西亚丰达小学快到休息时间，两位校内小店主正准备午餐，卖给饥饿的孩子们。",
+        "tip": "先找到故事里的两家小店。",
+        "alt": "西亚丰达小学快到休息时间，两位校内小店主正准备午餐，卖给饥饿的孩子们。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0237/02.jpg",
+        "sourceImageSha256": "5cd71453edea7c4058c79edd084fa8040806b461e0c54f71702812a03f361cc6",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "In Mr Motaung's shop, the bread is cut and ready for making kotas. He carefully cuts out the soft middle of each quarter loaf. Then he puts polony and chips in the space inside. Motaung puts two spoonfuls of his wife's homemade atchar in each kota. He likes to boast that his kotas have atchar inside and atchar on top!",
+        "sourceText": "In Mr Motaung's shop, the bread is cut and ready for making kotas. He carefully cuts out the soft middle of each quarter loaf. Then he puts polony and chips in the space inside. Motaung puts two spoonfuls of his wife's homemade atchar in each kota. He likes to boast that his kotas have atchar inside and atchar on top!",
+        "zh": "莫陶恩先生把面包切成四分之一块，挖出软芯，放入午餐肉和薯条，再加两勺妻子做的酸辣腌菜。他得意地说，面包里面和上面都有腌菜！",
+        "tip": "看看面包里夹了什么。",
+        "alt": "莫陶恩先生把面包切成四分之一块，挖出软芯，放入午餐肉和薯条，再加两勺妻子做的酸辣腌菜。他得意地说，面包里面和上面都有腌菜！",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0237/03.jpg",
+        "sourceImageSha256": "b00e463f4aa0265c633d46348c4948582148248733514de1da3b8169f1f62370",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "In Mr Mkhize's shop, the chips are nearly ready, but he is still cutting his bread for kotas. He is worried because things are not going well with his shop. \"It started well,\" thinks Mkhize. \"But now I get fewer and fewer customers. At least I'm reducing some of my costs by cutting five kotas from a loaf.\"",
+        "sourceText": "In Mr Mkhize's shop, the chips are nearly ready, but he is still cutting his bread for kotas. He is worried because things are not going well with his shop. \"It started well,\" thinks Mkhize. \"But now I get fewer and fewer customers. At least I'm reducing some of my costs by cutting five kotas from a loaf.\"",
+        "zh": "姆基泽先生的薯条快好了，还在切面包。他担心顾客越来越少，却想把一条面包切成五块，至少能省些成本。",
+        "tip": "先看切开的面包，猜猜大小会怎样变化。",
+        "alt": "姆基泽先生的薯条快好了，还在切面包。他担心顾客越来越少，却想把一条面包切成五块，至少能省些成本。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0237/04.jpg",
+        "sourceImageSha256": "f4e08f5116ad4edb80bf9ccee681ae1cfb19e13d75ecfd3fd78419dd3ac18dfe",
+        "imageWidth": 540,
+        "imageHeight": 546
+      },
+      {
+        "en": "Jabu and Zodwa are buying lunch. Zodwa buys from Mr Mkhize. Jabu buys from Mr Motaung. He believes that Motaung's kota has got more chips and atchar than Mkhize's kota.",
+        "sourceText": "Jabu and Zodwa are buying lunch. Zodwa buys from Mr Mkhize. Jabu buys from Mr Motaung. He believes that Motaung's kota has got more chips and atchar than Mkhize's kota.",
+        "zh": "贾布和佐德瓦买午餐，佐德瓦去姆基泽家，贾布去莫陶恩家，他觉得那里夹的薯条和腌菜更多。",
+        "tip": "找找两位孩子买的面包。",
+        "alt": "贾布和佐德瓦买午餐，佐德瓦去姆基泽家，贾布去莫陶恩家，他觉得那里夹的薯条和腌菜更多。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0237/05.jpg",
+        "sourceImageSha256": "c5ed1da99b5fc83f8db995c09e30c5bd9f44e535bc8ed4564afe8e82310f3d0f",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The queue at Mr Motaung's shop is always longer. Zodwa waits for Jabu. Then the friends sit together in the shade to enjoy their kotas.",
+        "sourceText": "The queue at Mr Motaung's shop is always longer. Zodwa waits for Jabu. Then the friends sit together in the shade to enjoy their kotas.",
+        "zh": "莫陶恩店前的队总更长。佐德瓦等着贾布，两人再到树荫下坐着吃。",
+        "tip": "指指队伍，看看哪边人更多。",
+        "alt": "莫陶恩店前的队总更长。佐德瓦等着贾布，两人再到树荫下坐着吃。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0237/06.jpg",
+        "sourceImageSha256": "fc68a76882d3cbe33a7dff41c4f027d1099eae2cb1f41381a4c9c502e89eb87c",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Zodwa notices something that makes her stare and frown.\"What are you staring at?\" asks Jabu.\"Your kota! It looks bigger than mine,\" says Zodwa.",
+        "sourceText": "Zodwa notices something that makes her stare and frown.\"What are you staring at?\" asks Jabu.\"Your kota! It looks bigger than mine,\" says Zodwa.",
+        "zh": "佐德瓦盯着贾布的面包皱眉，觉得他的比自己的大。",
+        "tip": "比较两块面包的样子，不用量尺寸。",
+        "alt": "佐德瓦盯着贾布的面包皱眉，觉得他的比自己的大。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0237/07.jpg",
+        "sourceImageSha256": "f73e20d480b14695893ad20575c82ebe95b6d039641e486362782dbb5079a609",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "They both look very closely at their kotas. Sure enough, Jabu's is bigger. \"Something is not right here,\" says Zodwa. \"I wonder if this is the reason Mr Mkhize's shop is not busy anymore.\" Jabu thinks for a while and then he replies, \"Well, I heard that some kids saw Mkhize cutting his bread into five pieces for kotas!\"",
+        "sourceText": "They both look very closely at their kotas. Sure enough, Jabu's is bigger. \"Something is not right here,\" says Zodwa. \"I wonder if this is the reason Mr Mkhize's shop is not busy anymore.\" Jabu thinks for a while and then he replies, \"Well, I heard that some kids saw Mkhize cutting his bread into five pieces for kotas!\"",
+        "zh": "两人仔细看，贾布的果然更大。佐德瓦怀疑这和姆基泽生意变差有关，贾布说听说他把一条面包切成五份。",
+        "tip": "回想一开始说好的是什么份量。",
+        "alt": "两人仔细看，贾布的果然更大。佐德瓦怀疑这和姆基泽生意变差有关，贾布说听说他把一条面包切成五份。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0237/08.jpg",
+        "sourceImageSha256": "9fe4e79d9c6f7d293c1e10aa2121be75f8965b0b605c3e7f0690ef398888c507",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Nomsa overhears Jabu and Zodwa talking and she's curious. She asks them what's wrong with cutting the loaf into five pieces for kotas. Zodwa and Jabu reply together, \"A kota is a quarter of a loaf!\" Nomsa still looks confused, so Zodwa explains, \"The loaf must be cut into four equal pieces. Otherwise, they are not quarters.\"",
+        "sourceText": "Nomsa overhears Jabu and Zodwa talking and she's curious. She asks them what's wrong with cutting the loaf into five pieces for kotas. Zodwa and Jabu reply together, \"A kota is a quarter of a loaf!\" Nomsa still looks confused, so Zodwa explains, \"The loaf must be cut into four equal pieces. Otherwise, they are not quarters.\"",
+        "zh": "诺姆萨听了好奇，问切五份有什么错。两人解释：kota 指四分之一，整条必须切成四块同样大小的，才叫四分之一。",
+        "tip": "听 equal，用中文说“一样大”。",
+        "alt": "诺姆萨听了好奇，问切五份有什么错。两人解释：kota 指四分之一，整条必须切成四块同样大小的，才叫四分之一。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0237/09.jpg",
+        "sourceImageSha256": "c454023c150bae81db070145f96d068ab4d26e4315342828e2d8ffcb2c8a0a04",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Nomsa is cross because she also buys from Mr Mkhize. \"So, he is stealing bread from us!\" she says in a loud voice. Zodwa decides to go back to Mkhize's shop to complain. She marches off, holding her kota up in the air. Nomsa hurries behind her. Hungry Jabu looks longingly at his kota and sighs. Then he gets up to follow his friends.",
+        "sourceText": "Nomsa is cross because she also buys from Mr Mkhize. \"So, he is stealing bread from us!\" she says in a loud voice. Zodwa decides to go back to Mkhize's shop to complain. She marches off, holding her kota up in the air. Nomsa hurries behind her. Hungry Jabu looks longingly at his kota and sighs. Then he gets up to follow his friends.",
+        "zh": "诺姆萨也常在那里买，气得说店主少给了面包。佐德瓦决定回店里反映，诺姆萨跟上，贾布舍不得放下午餐，叹气后也起身跟去。",
+        "tip": "看看孩子们准备怎样说明问题。",
+        "alt": "诺姆萨也常在那里买，气得说店主少给了面包。佐德瓦决定回店里反映，诺姆萨跟上，贾布舍不得放下午餐，叹气后也起身跟去。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0237/10.jpg",
+        "sourceImageSha256": "76eb61cb79b8394991b6670f12ea09cef2d3f7042897d571bdd6c5d9434b2e70",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Mr Mkhize is disappointed when he sees that the children aren't new customers. \"Oh, hello again kids,\" he mutters, \"how can I help you?\"\"Mr Mkhize, I asked you for a quarter and I paid you for a quarter. But this is not a quarter,\" says Zodwa, pointing at her kota. \"I want the rest of my kota or my money back,\" she adds firmly.",
+        "sourceText": "Mr Mkhize is disappointed when he sees that the children aren't new customers. \"Oh, hello again kids,\" he mutters, \"how can I help you?\"\"Mr Mkhize, I asked you for a quarter and I paid you for a quarter. But this is not a quarter,\" says Zodwa, pointing at her kota. \"I want the rest of my kota or my money back,\" she adds firmly.",
+        "zh": "姆基泽看见不是新顾客，有些失望，问有什么事。佐德瓦坚定地说，自己付钱买四分之一，这份却不够，要么补足，要么退款。",
+        "tip": "练一句温和明确的“这和说好的不一样”。",
+        "alt": "姆基泽看见不是新顾客，有些失望，问有什么事。佐德瓦坚定地说，自己付钱买四分之一，这份却不够，要么补足，要么退款。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0237/11.jpg",
+        "sourceImageSha256": "91abf3ad8e4f68e681db78475c13348d25bfd7de0630238a34942f82da4c04f8",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "\"Is it true Mr Mkhize? You've been cheating us!\" cries Nomsa. A few children have followed them to the shop and are now listening to the fierce accusations. Mkhize waves his hands wildly. \"What are you saying about me?\" he protests. \"I'm not like that! I want you to get out of my shop now!\"",
+        "sourceText": "\"Is it true Mr Mkhize? You've been cheating us!\" cries Nomsa. A few children have followed them to the shop and are now listening to the fierce accusations. Mkhize waves his hands wildly. \"What are you saying about me?\" he protests. \"I'm not like that! I want you to get out of my shop now!\"",
+        "zh": "诺姆萨质问店主，其他孩子也跟着围来。姆基泽挥手否认，要求他们离开。",
+        "tip": "说说大家这时的情绪，先听完故事。",
+        "alt": "诺姆萨质问店主，其他孩子也跟着围来。姆基泽挥手否认，要求他们离开。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0237/12.jpg",
+        "sourceImageSha256": "34a88eaee67aee7bdd71a85dd717c222ebe83de530ef533bb9bd9ceeb960f2c7",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Then Zodwa says quietly, \"We will tell everyone what you are doing. It will spread like wildfire throughout the school. You will have to close your shop. No one will come and buy from you!\" Mr Mkhize looks at the three children standing in front of him. Then he looks at the growing crowd outside his shop.",
+        "sourceText": "Then Zodwa says quietly, \"We will tell everyone what you are doing. It will spread like wildfire throughout the school. You will have to close your shop. No one will come and buy from you!\" Mr Mkhize looks at the three children standing in front of him. Then he looks at the growing crowd outside his shop.",
+        "zh": "佐德瓦平静地说，大家会把实情告诉学校其他人，如果没人再来，店就要关门。店主看着三个孩子和外面越来越多的人。",
+        "tip": "看看她怎样平静表达自己的立场。",
+        "alt": "佐德瓦平静地说，大家会把实情告诉学校其他人，如果没人再来，店就要关门。店主看着三个孩子和外面越来越多的人。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0237/13.jpg",
+        "sourceImageSha256": "b0b71536c643f86c1378b55021d17b595778069301b102bfe40c4b8478c3a136",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "\"OK,\" he says eventually, \"I will give you your money back.\"And also promise that you will cut each loaf into quarters for your kotas,\" speaks up Jabu. Mr Mkhize promises that he will. Then he clears his throat and says loud enough for everyone to hear, \"I also promise that I will add more atchar and more chips to my kotas.\"",
+        "sourceText": "\"OK,\" he says eventually, \"I will give you your money back.\"And also promise that you will cut each loaf into quarters for your kotas,\" speaks up Jabu. Mr Mkhize promises that he will. Then he clears his throat and says loud enough for everyone to hear, \"I also promise that I will add more atchar and more chips to my kotas.\"",
+        "zh": "店主终于答应退款。贾布请他承诺以后切成四等份，他答应了，还大声保证多加腌菜和薯条。",
+        "tip": "听 quarter，再看四份一样大的意思。",
+        "alt": "店主终于答应退款。贾布请他承诺以后切成四等份，他答应了，还大声保证多加腌菜和薯条。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0237/14.jpg",
+        "sourceImageSha256": "767e4fbe979b86fa8b2be9f1619f243a9c7009e19718b1feefc90cfc8bdccc6b",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Mr Mkhize did indeed add extra chips and atchaar to his kotas. Soon more children were buying from him, and his shop started doing well. He was even able to hire someone to help him.",
+        "sourceText": "Mr Mkhize did indeed add extra chips and atchaar to his kotas. Soon more children were buying from him, and his shop started doing well. He was even able to hire someone to help him.",
+        "zh": "姆基泽确实多加了配料，顾客逐渐增加，生意好了，还能请帮手。",
+        "tip": "说说承诺做到以后有什么变化。",
+        "alt": "姆基泽确实多加了配料，顾客逐渐增加，生意好了，还能请帮手。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0237/15.jpg",
+        "sourceImageSha256": "935b987cc2dade2fee51169196a93eb75973457b44d1ce6793a629b7bb813fac",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Now there is a healthy competition between Mr Mkhize and Mr Motaung, and everyone is happy.",
+        "sourceText": "Now there is a healthy competition between Mr Mkhize and Mr Motaung, and everyone is happy.",
+        "zh": "如今，两家店有了良性竞争，大家都开心。",
+        "tip": "用折纸再看看四等份，想玩才做。",
+        "alt": "如今，两家店有了良性竞争，大家都开心。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0237/16.jpg",
+        "sourceImageSha256": "f788df282f566570d3602d1fc87a783d56628a534eecd4bcd08ecc2993cd394a",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "bread",
+        "meaning": "面包",
+        "pageIndex": 1
+      },
+      {
+        "id": "word-1",
+        "word": "quarter",
+        "meaning": "四分之一",
+        "pageIndex": 7
+      },
+      {
+        "id": "word-2",
+        "word": "equal",
+        "meaning": "相等的",
+        "pageIndex": 7
+      }
+    ],
+    "activity": {
+      "title": "纸面包分四份",
+      "text": "把一张方形纸对折两次，再打开，看看四块是不是一样大。无需背分数术语。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Charlotte",
+      "voiceId": "en_female_authoritative-british_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  },
+  {
+    "id": "0019",
+    "title": "My first day at the market",
+    "zh": "第一次去市场",
+    "stageId": "S3",
+    "primaryTheme": "everyday",
+    "themeIds": [
+      "everyday",
+      "feelings"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0019/01.jpg",
+    "sourceCoverSha256": "2c1dcb55496b8284ade6aea63b5a9b5e82745e674ac05ead7095051cc9ecc437",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0019_my-first-day-at-the-market.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Timothy Kabare, Ursula Nafula",
+        "插画：Catherine Groenewald"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "cdb5da23d5c0812bf76c0a36185e7cdabae69e50347ce314c25a1627a1feaaf3"
+    },
+    "pages": [
+      {
+        "en": "I live in Kakuma village, a very hot dry place, full of thorny trees, and more goats than people. Even the market place is quiet, with only a few small shops. Most people use bicycles for transport.",
+        "sourceText": "I live in Kakuma village, a very hot dry place, full of thorny trees, and more goats than people. Even the market place is quiet, with only a few small shops. Most people use bicycles for transport.",
+        "zh": "我住在卡库马村，那里炎热干燥，长着带刺的树，山羊比人还多。市场也很安静，只有几家小店，大家大多骑自行车出行。",
+        "tip": "看看村庄的交通和商店。",
+        "alt": "我住在卡库马村，那里炎热干燥，长着带刺的树，山羊比人还多。市场也很安静，只有几家小店，大家大多骑自行车出行。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0019/02.jpg",
+        "sourceImageSha256": "7f3d21129798c41506ea3400b7c73eb91d6b41e674f71bf1a86c193e5d0eb441",
+        "imageWidth": 650,
+        "imageHeight": 546
+      },
+      {
+        "en": "One morning my mother called me and said, \"Etabo, today you turn six years old. We have a present for you.\" \"What is it? What is it?\" I asked eagerly. \"Tomorrow we're going by bus to the market in Eldoret,\" she replied, \"And we're taking you with us!\" My first visit to the city! I was so excited that I could hardly sleep that night.",
+        "sourceText": "One morning my mother called me and said, \"Etabo, today you turn six years old. We have a present for you.\" \"What is it? What is it?\" I asked eagerly. \"Tomorrow we're going by bus to the market in Eldoret,\" she replied, \"And we're taking you with us!\" My first visit to the city! I was so excited that I could hardly sleep that night.",
+        "zh": "六岁生日那天，妈妈说有礼物：明天要坐巴士带我去埃尔多雷特市场！第一次去城市，我兴奋得几乎整晚没睡。",
+        "tip": "说说第一次去新地方是什么心情。",
+        "alt": "六岁生日那天，妈妈说有礼物：明天要坐巴士带我去埃尔多雷特市场！第一次去城市，我兴奋得几乎整晚没睡。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0019/03.jpg",
+        "sourceImageSha256": "3e429dc4f77802bf63d9ad9cad949741dc55fa1ec3e6cd16bb900af5afc88488",
+        "imageWidth": 650,
+        "imageHeight": 546
+      },
+      {
+        "en": "The next day at the Kakuma bus stop, I stood between my mother and my aunt in my new pair of blue jeans and red T-shirt. I felt very small between my tall slender mother and my big round aunt.",
+        "sourceText": "The next day at the Kakuma bus stop, I stood between my mother and my aunt in my new pair of blue jeans and red T-shirt. I felt very small between my tall slender mother and my big round aunt.",
+        "zh": "第二天，在村里的车站，我穿着新蓝牛仔裤和红T恤，站在高瘦的妈妈和身材圆润的姨妈中间，觉得自己很小。",
+        "tip": "指指红色衣服的小朋友。",
+        "alt": "第二天，在村里的车站，我穿着新蓝牛仔裤和红T恤，站在高瘦的妈妈和身材圆润的姨妈中间，觉得自己很小。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0019/04.jpg",
+        "sourceImageSha256": "c0ace1bc43e73a42aa14599dea0ba8479eb64647a54ae76850542d593df698ef",
+        "imageWidth": 650,
+        "imageHeight": 546
+      },
+      {
+        "en": "The bus was very full, so I had to sit on my mother's lap. Tired from the heat and excitement, I slept the whole way and saw nothing.",
+        "sourceText": "The bus was very full, so I had to sit on my mother's lap. Tired from the heat and excitement, I slept the whole way and saw nothing.",
+        "zh": "巴士很挤，我坐在妈妈腿上。天气热，我又兴奋又疲倦，整路都睡着，什么也没看见。",
+        "tip": "说一句：现实乘车要按当地规则使用合适的座椅和约束装置。",
+        "alt": "巴士很挤，我坐在妈妈腿上。天气热，我又兴奋又疲倦，整路都睡着，什么也没看见。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0019/05.jpg",
+        "sourceImageSha256": "9574ab4f6b0ca8fd6e0f249497d872951bd886972bbeebc134f7f64d0f731346",
+        "imageWidth": 650,
+        "imageHeight": 546
+      },
+      {
+        "en": "The sun was just rising when we reached Eldoret market. At the entrance was a woman selling grains. Over in one corner there were two men getting ready to lay out their sweet potatoes. Over in another corner was a short woman holding a shiny blue helicopter. \"Mother, mother, look at that helicopter!\" But mother pulled me away.",
+        "sourceText": "The sun was just rising when we reached Eldoret market. At the entrance was a woman selling grains. Over in one corner there were two men getting ready to lay out their sweet potatoes. Over in another corner was a short woman holding a shiny blue helicopter. \"Mother, mother, look at that helicopter!\" But mother pulled me away.",
+        "zh": "到市场时太阳刚升起，有人卖谷物，有人摆红薯，一位女士手里拿着亮蓝色玩具直升机。我兴奋地叫妈妈看，她却拉着我继续走。",
+        "tip": "找找蓝色直升机玩具。",
+        "alt": "到市场时太阳刚升起，有人卖谷物，有人摆红薯，一位女士手里拿着亮蓝色玩具直升机。我兴奋地叫妈妈看，她却拉着我继续走。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0019/06.jpg",
+        "sourceImageSha256": "428659c3ad8b7a529a6858f27a04d3ecc5308ed2ca8c6eea8192b08b83a32442",
+        "imageWidth": 650,
+        "imageHeight": 546
+      },
+      {
+        "en": "In the middle of the market, there was a large stall that sold different types of fruit. Some of them I had never seen before. \"What are the names of these fruits?\" I asked my mother. She pointed at some: \"These are oranges, and these are guavas.\" I turned around and said, \"And these?\"",
+        "sourceText": "In the middle of the market, there was a large stall that sold different types of fruit. Some of them I had never seen before. \"What are the names of these fruits?\" I asked my mother. She pointed at some: \"These are oranges, and these are guavas.\" I turned around and said, \"And these?\"",
+        "zh": "市场中央的大摊位卖各种水果，有些我从没见过。妈妈告诉我那是橙子、那是番石榴，我又转头问其他水果。",
+        "tip": "指一种认识的水果就好。",
+        "alt": "市场中央的大摊位卖各种水果，有些我从没见过。妈妈告诉我那是橙子、那是番石榴，我又转头问其他水果。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0019/07.jpg",
+        "sourceImageSha256": "a43415c7993af4c67d5923be4c7e58d1a8d03a8eb483feaad518d5a5a212ace9",
+        "imageWidth": 650,
+        "imageHeight": 546
+      },
+      {
+        "en": "Of all the fruits at the stall, I liked the apples most. I liked their shape and colour. I wondered how they tasted. I turned to mother and said, \"Could you buy one for me?\"",
+        "sourceText": "Of all the fruits at the stall, I liked the apples most. I liked their shape and colour. I wondered how they tasted. I turned to mother and said, \"Could you buy one for me?\"",
+        "zh": "我最喜欢苹果的形状和颜色，想知道滋味，请妈妈给我买一个。",
+        "tip": "找找苹果，听 apple。",
+        "alt": "我最喜欢苹果的形状和颜色，想知道滋味，请妈妈给我买一个。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0019/08.jpg",
+        "sourceImageSha256": "7f2208ac505e44ecaeaf51c1033c18fd4f4402b9d3b383dc590b48350f92fddb",
+        "imageWidth": 650,
+        "imageHeight": 546
+      },
+      {
+        "en": "As soon as she gave me the apple, I let go of my mother's hand, took the fruit with both hands, and bit into the juicy flesh. I had never enjoyed a fruit the way I enjoyed that apple. All I cared about was my apple.",
+        "sourceText": "As soon as she gave me the apple, I let go of my mother's hand, took the fruit with both hands, and bit into the juicy flesh. I had never enjoyed a fruit the way I enjoyed that apple. All I cared about was my apple.",
+        "zh": "妈妈给了苹果，我松开她的手，用双手捧着咬一口，果肉多汁，真好吃，心里只想着苹果。",
+        "tip": "注意他松开手了，先看后面会怎样。",
+        "alt": "妈妈给了苹果，我松开她的手，用双手捧着咬一口，果肉多汁，真好吃，心里只想着苹果。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0019/09.jpg",
+        "sourceImageSha256": "b258086b8395796cd1ee9d05c28a28a1ca57a4e943e047cde71a866a85f082c3",
+        "imageWidth": 650,
+        "imageHeight": 546
+      },
+      {
+        "en": "When I finished the apple, I looked up to talk to my mother. But she was not there! I looked where we had come from, but my mother and aunt were not there. I looked to the right, then to the left. But they were nowhere to be seen. \"Have you seen my mother?\" I asked the women selling potatoes nearby. They took no notice. I started to cry.",
+        "sourceText": "When I finished the apple, I looked up to talk to my mother. But she was not there! I looked where we had come from, but my mother and aunt were not there. I looked to the right, then to the left. But they were nowhere to be seen. \"Have you seen my mother?\" I asked the women selling potatoes nearby. They took no notice. I started to cry.",
+        "zh": "吃完后，我抬头找妈妈，可妈妈和姨妈都不见了。我左右寻找，问卖土豆的女士们，她们没理会，我就哭了。",
+        "tip": "先安慰：走散时害怕很正常，可以找工作人员帮忙。",
+        "alt": "吃完后，我抬头找妈妈，可妈妈和姨妈都不见了。我左右寻找，问卖土豆的女士们，她们没理会，我就哭了。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0019/10.jpg",
+        "sourceImageSha256": "9f5767d23711586c371079ae3db1a61eaa7d8bb9e799996420e0a4376e551184",
+        "imageWidth": 650,
+        "imageHeight": 546
+      },
+      {
+        "en": "A while later, a woman took me by the hand and led me to a place where there were other children. A big man with a thick beard asked, \"What's your name, boy?\" \"E-ta-bo,\" I replied through my tears.",
+        "sourceText": "A while later, a woman took me by the hand and led me to a place where there were other children. A big man with a thick beard asked, \"What's your name, boy?\" \"E-ta-bo,\" I replied through my tears.",
+        "zh": "过了一会儿，一位女士把我带到有其他孩子的地方。一位大胡子男人问名字，我边哭边回答：“埃－塔－博。”",
+        "tip": "说说向工作人员报出自己名字很有帮助。",
+        "alt": "过了一会儿，一位女士把我带到有其他孩子的地方。一位大胡子男人问名字，我边哭边回答：“埃－塔－博。”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0019/11.jpg",
+        "sourceImageSha256": "d88468ce3bed9277177cd26a46fce1db532e74d90787591220f7fd5911c2c6f5",
+        "imageWidth": 650,
+        "imageHeight": 546
+      },
+      {
+        "en": "I wondered if children were also sold at the market. I stopped crying and looked around to see if anyone would buy the children in the room. Soon a woman came in and picked up one of the children. \"I will be the next one to be taken away,\" I thought. \"And then I'll never go home again!\" I started crying once more.",
+        "sourceText": "I wondered if children were also sold at the market. I stopped crying and looked around to see if anyone would buy the children in the room. Soon a woman came in and picked up one of the children. \"I will be the next one to be taken away,\" I thought. \"And then I'll never go home again!\" I started crying once more.",
+        "zh": "我担心市场连孩子也卖。看见一位女士抱走另一个孩子，我更怕自己也被带走，再也回不了家，又哭了。",
+        "tip": "说清这是孩子害怕时的猜想，并非市场真在卖孩子。",
+        "alt": "我担心市场连孩子也卖。看见一位女士抱走另一个孩子，我更怕自己也被带走，再也回不了家，又哭了。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0019/12.jpg",
+        "sourceImageSha256": "11a30bb8b73ebd01140a76edc82bcaab8ab04899d07533544686eb4d2ea07279",
+        "imageWidth": 650,
+        "imageHeight": 546
+      },
+      {
+        "en": "When I heard the big man with the thick beard saying, \"Where is Etabo?\" I cried even harder. \"But I do not want to go with you!\" I sobbed. I ran away from him.",
+        "sourceText": "When I heard the big man with the thick beard saying, \"Where is Etabo?\" I cried even harder. \"But I do not want to go with you!\" I sobbed. I ran away from him.",
+        "zh": "听见大胡子叫我的名字，我哭得更厉害，喊着不想跟他走，跑开了。",
+        "tip": "陪孩子看这份害怕，不要求模仿跑开。",
+        "alt": "听见大胡子叫我的名字，我哭得更厉害，喊着不想跟他走，跑开了。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0019/13.jpg",
+        "sourceImageSha256": "d748570315e092772cc8fb7b201d04daa5289d0744c82858b4e8f63d5061a9e3",
+        "imageWidth": 650,
+        "imageHeight": 546
+      },
+      {
+        "en": "When my mother and aunt heard my name, they rushed to the room. \"Etabo, Etabo!\" a familiar voice called. It was my mother.",
+        "sourceText": "When my mother and aunt heard my name, they rushed to the room. \"Etabo, Etabo!\" a familiar voice called. It was my mother.",
+        "zh": "妈妈和姨妈听到名字赶来，熟悉的声音叫着：“埃塔博！”",
+        "tip": "听听认出妈妈时的变化。",
+        "alt": "妈妈和姨妈听到名字赶来，熟悉的声音叫着：“埃塔博！”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0019/14.jpg",
+        "sourceImageSha256": "aafbfa91a468fb72392b58228d0c8da6a045f13bd24d34b7044f51a3fb5dd4ab",
+        "imageWidth": 650,
+        "imageHeight": 546
+      },
+      {
+        "en": "As I got up to hug my mother, my aunt said, \"Etabo, we were looking for you to give you your birthday present.\" And from a big bag, she pulled out a shiny blue helicopter. \"It's yours!\" she said.",
+        "sourceText": "As I got up to hug my mother, my aunt said, \"Etabo, we were looking for you to give you your birthday present.\" And from a big bag, she pulled out a shiny blue helicopter. \"It's yours!\" she said.",
+        "zh": "我起身抱住妈妈，姨妈说大家正找我送生日礼物，从大包里拿出亮蓝色玩具直升机：“它是你的了！”",
+        "tip": "说说出门牵好手、走散找工作人员的小约定。",
+        "alt": "我起身抱住妈妈，姨妈说大家正找我送生日礼物，从大包里拿出亮蓝色玩具直升机：“它是你的了！”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0019/15.jpg",
+        "sourceImageSha256": "aafbfa91a468fb72392b58228d0c8da6a045f13bd24d34b7044f51a3fb5dd4ab",
+        "imageWidth": 650,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "market",
+        "meaning": "市场",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "apple",
+        "meaning": "苹果",
+        "pageIndex": 7
+      },
+      {
+        "id": "word-2",
+        "word": "mother",
+        "meaning": "妈妈",
+        "pageIndex": 1
+      }
+    ],
+    "activity": {
+      "title": "出门前的小约定",
+      "text": "和照顾自己的大人约定：人多时牵好手，走散就留在安全位置，向穿制服的工作人员求助。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Knightley",
+      "voiceId": "en_male_knightley_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  },
+  {
+    "id": "0103",
+    "title": "Singing the Truth: The Story of Miriam Makeba",
+    "zh": "唱出真相：米丽娅姆·马凯巴",
+    "stageId": "S3",
+    "primaryTheme": "feelings",
+    "themeIds": [
+      "feelings",
+      "everyday"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0103/01.jpg",
+    "sourceCoverSha256": "8b48ec31dbd03da6c66934cc813f97885ddeab9f867cba0cfce03dd66df6054c",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0103_singing-the-truth-the-story-of-miriam-makeba.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Jade Mathieson",
+        "插画：Louwrisa Blaauw"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "ca7dfc28f82a6d0bd67f71d91893179e9b6fdc6dfded2aaa4086077a28f5b302"
+    },
+    "pages": [
+      {
+        "en": "A long time ago, in the vast city of Johannesburg, a baby girl was born. That baby was me. My mom called me Miriam. Miriam Makeba.",
+        "sourceText": "A long time ago, in the vast city of Johannesburg, a baby girl was born. That baby was me. My mom called me Miriam. Miriam Makeba.",
+        "zh": "很久以前，在大城市约翰内斯堡，一个女婴出生了，那就是我。妈妈给我取名米丽娅姆·马凯巴。",
+        "tip": "先认识故事的讲述者。",
+        "alt": "很久以前，在大城市约翰内斯堡，一个女婴出生了，那就是我。妈妈给我取名米丽娅姆·马凯巴。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0103/02.jpg",
+        "sourceImageSha256": "fd02cf2ac74fe331e6152f6cdbe0e82acb34d263f902e3830eb9983d876e4f65",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Mom was a sangoma, but she also worked to make other people's homes neat and clean. It was hard for my mom to earn enough for both of us. She started selling homemade beer to bring in more money.",
+        "sourceText": "Mom was a sangoma, but she also worked to make other people's homes neat and clean. It was hard for my mom to earn enough for both of us. She started selling homemade beer to bring in more money.",
+        "zh": "妈妈是传统治疗者，也替别人清扫房屋。养活我们很难，她开始卖自酿啤酒增加收入。",
+        "tip": "先听家庭故事，不必解释所有职业词。",
+        "alt": "妈妈是传统治疗者，也替别人清扫房屋。养活我们很难，她开始卖自酿啤酒增加收入。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0103/03.jpg",
+        "sourceImageSha256": "e2d152042b2924e4ea3cc968c1fc7eba941a8146bae696ac06d3dba418843b0b",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The laws of the land said that selling homemade beer was wrong. The police sent my mom to jail for six long months. I was only 18 days old, and needed my mom. So even though I was just a baby, I went to jail too.",
+        "sourceText": "The laws of the land said that selling homemade beer was wrong. The police sent my mom to jail for six long months. I was only 18 days old, and needed my mom. So even though I was just a baby, I went to jail too.",
+        "zh": "当时的法律不准卖自酿啤酒，警察把妈妈关了六个月。那时我才十八天大，需要妈妈，所以还是婴儿的我也一起进了监狱。",
+        "tip": "用简单中文说：那是她家曾经很难的一段日子。",
+        "alt": "当时的法律不准卖自酿啤酒，警察把妈妈关了六个月。那时我才十八天大，需要妈妈，所以还是婴儿的我也一起进了监狱。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0103/04.jpg",
+        "sourceImageSha256": "4189a26e0ded2b1f37088cae083f3bb12934521064409bf381f8746aacd9345d",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "As a little girl I loved to sing. When I was older, I helped my mom clean houses. Singing songs as I worked made the chores go faster and the days seem brighter. Singing made me happier than I can explain.",
+        "sourceText": "As a little girl I loved to sing. When I was older, I helped my mom clean houses. Singing songs as I worked made the chores go faster and the days seem brighter. Singing made me happier than I can explain.",
+        "zh": "小时候我爱唱歌，长大后帮妈妈清扫房屋，一边做事一边唱，让家务变快、日子变亮。唱歌让我快乐得难以形容。",
+        "tip": "轻轻哼一个喜欢的音。",
+        "alt": "小时候我爱唱歌，长大后帮妈妈清扫房屋，一边做事一边唱，让家务变快、日子变亮。唱歌让我快乐得难以形容。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0103/05.jpg",
+        "sourceImageSha256": "bcc5b015c0ab822477bbe273b54a72431acd7a269a71120316928c9f9fa40ae3",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "I sang in my church, and this made others happy too. Music has the power to bring people together. When we were singing we felt brave and strong.",
+        "sourceText": "I sang in my church, and this made others happy too. Music has the power to bring people together. When we were singing we felt brave and strong.",
+        "zh": "我在教堂唱歌，也让别人开心。音乐能把人们聚在一起，唱歌时，我们觉得勇敢又有力量。",
+        "tip": "听 together，和家人轻轻拍一下节奏。",
+        "alt": "我在教堂唱歌，也让别人开心。音乐能把人们聚在一起，唱歌时，我们觉得勇敢又有力量。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0103/06.jpg",
+        "sourceImageSha256": "d9bce3ba06c605f2e45c880f5dad3537dd4043587835d3199a8cc9ff7c9050c3",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "People said my voice was a gift and my songs were special. I sang with other musicians and our music was heard all over the world.",
+        "sourceText": "People said my voice was a gift and my songs were special. I sang with other musicians and our music was heard all over the world.",
+        "zh": "人们说我的嗓音是礼物，歌很特别。我和其他音乐家一起唱，音乐传遍世界。",
+        "tip": "指指一起表演的人，听 music。",
+        "alt": "人们说我的嗓音是礼物，歌很特别。我和其他音乐家一起唱，音乐传遍世界。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0103/07.jpg",
+        "sourceImageSha256": "67dd6e665067295ef48e84bbd093e124e4c226bcb413377fab91ad85c79924a6",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "My home was Sophiatown, a place of culture and music. Sophiatown, a place where South Africans could make music in harmony and dance together. But the people who ruled the land at the time did not like this togetherness. Those rulers didn't want black and white people to be friends.",
+        "sourceText": "My home was Sophiatown, a place of culture and music. Sophiatown, a place where South Africans could make music in harmony and dance together. But the people who ruled the land at the time did not like this togetherness. Those rulers didn't want black and white people to be friends.",
+        "zh": "我的家在索菲亚镇，一个充满文化和音乐的地方，人们一起奏乐跳舞。但当时的统治者不喜欢这样的团结，不想让黑人和白人成为朋友。",
+        "tip": "说一句：不该因为肤色不同就阻止人交朋友。",
+        "alt": "我的家在索菲亚镇，一个充满文化和音乐的地方，人们一起奏乐跳舞。但当时的统治者不喜欢这样的团结，不想让黑人和白人成为朋友。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0103/08.jpg",
+        "sourceImageSha256": "d86ba4078b479f95ab8ecffde707e43eed660d90fd7c2357950de0c4b32c67fc",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "I knew it was wrong to treat people differently because of their skin colour. I did not hide my beliefs, and so those people in charge wanted me out of the country. When I was singing in America, I was told I could never return home.",
+        "sourceText": "I knew it was wrong to treat people differently because of their skin colour. I did not hide my beliefs, and so those people in charge wanted me out of the country. When I was singing in America, I was told I could never return home.",
+        "zh": "我知道按肤色区别对待人是不对的，也不隐藏想法，当权者因此想把我赶走。我在美国演唱时，被告知再也不能回家。",
+        "tip": "看看她的表情，先听她的经历。",
+        "alt": "我知道按肤色区别对待人是不对的，也不隐藏想法，当权者因此想把我赶走。我在美国演唱时，被告知再也不能回家。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0103/09.jpg",
+        "sourceImageSha256": "2c8f0822900566d2f9cae3b69cdb995d4fb6b2d988d8335d8332c8e2dcbaafb0",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "People all over the world heard my story. My songs and my story helped many to see how there was no fairness in South Africa for those with black skin. I decided to go on singing and telling the truth about my country, no matter what.",
+        "sourceText": "People all over the world heard my story. My songs and my story helped many to see how there was no fairness in South Africa for those with black skin. I decided to go on singing and telling the truth about my country, no matter what.",
+        "zh": "世界各地的人听见我的故事，我的歌让更多人知道南非黑人受到不公平待遇。我决定无论怎样，都继续唱，讲述祖国的真相。",
+        "tip": "可以说：讲出经历，能让更多人了解。",
+        "alt": "世界各地的人听见我的故事，我的歌让更多人知道南非黑人受到不公平待遇。我决定无论怎样，都继续唱，讲述祖国的真相。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0103/10.jpg",
+        "sourceImageSha256": "ee46d48f4de07c9f9ea4308ec3162cd8fe07dc20037b82730ed01b3015549830",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "The world loved my music and I was welcomed in many countries. I won awards and sang for important people all over the globe. My life was good, but something was missing. I could not sing in my home country, and people there were not free.",
+        "sourceText": "The world loved my music and I was welcomed in many countries. I won awards and sang for important people all over the globe. My life was good, but something was missing. I could not sing in my home country, and people there were not free.",
+        "zh": "大家喜欢我的音乐，许多国家欢迎我。我获得奖项，为许多人演唱，生活虽好，却少了一样：不能在家乡唱歌，那里的人也还不自由。",
+        "tip": "说说她最想回到哪里。",
+        "alt": "大家喜欢我的音乐，许多国家欢迎我。我获得奖项，为许多人演唱，生活虽好，却少了一样：不能在家乡唱歌，那里的人也还不自由。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0103/11.jpg",
+        "sourceImageSha256": "97597cd4cf4b1a80a58cff6d8037244e2a4315bfe9973654c0ed2d562728ed57",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Then a wonderful day dawned when Nelson Mandela became president of South Africa. New people were in charge and the unfair laws belonged to the past. I finally went home with new hope in my heart.",
+        "sourceText": "Then a wonderful day dawned when Nelson Mandela became president of South Africa. New people were in charge and the unfair laws belonged to the past. I finally went home with new hope in my heart.",
+        "zh": "终于，纳尔逊·曼德拉成为南非总统，不公平的旧法律过去了。我怀着新的希望，回到家乡。",
+        "tip": "听故事中的变化，不必背历史人名。",
+        "alt": "终于，纳尔逊·曼德拉成为南非总统，不公平的旧法律过去了。我怀着新的希望，回到家乡。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0103/12.jpg",
+        "sourceImageSha256": "194331ca2fa725faf8ec2e2ac81a6d554e09223ac05d2b411f409afc4403a670",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "After that I could sing in a free, fair country. People of different skin colours could enjoy music together. I helped make this happen because I was brave and strong. I sang the truth in all of my songs.",
+        "sourceText": "After that I could sing in a free, fair country. People of different skin colours could enjoy music together. I helped make this happen because I was brave and strong. I sang the truth in all of my songs.",
+        "zh": "此后，我能在自由、公平的国家唱歌，不同肤色的人一起享受音乐。我因勇敢、坚持而帮助促成改变，把真相唱进每首歌。",
+        "tip": "和孩子说说：不同的人都值得被公平对待。",
+        "alt": "此后，我能在自由、公平的国家唱歌，不同肤色的人一起享受音乐。我因勇敢、坚持而帮助促成改变，把真相唱进每首歌。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0103/13.jpg",
+        "sourceImageSha256": "f66d7c4565774123a7d90f90c6a483373a3c594d898ce6217f045a286d1de85d",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "sing",
+        "meaning": "唱歌",
+        "pageIndex": 3
+      },
+      {
+        "id": "word-1",
+        "word": "music",
+        "meaning": "音乐",
+        "pageIndex": 5
+      },
+      {
+        "id": "word-2",
+        "word": "together",
+        "meaning": "一起",
+        "pageIndex": 4
+      }
+    ],
+    "activity": {
+      "title": "一起唱一小句",
+      "text": "和家人轻轻唱一段熟悉的旋律，或拍手打节奏。每个人都可以选择自己舒服的声音。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Rowan",
+      "voiceId": "en_male_adam-imitation_uranus_bigtts",
+      "locale": "en-US",
+      "accentLabel": "美式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  },
+  {
+    "id": "0169",
+    "title": "Anansi gives people stories",
+    "zh": "阿南西带来故事",
+    "stageId": "S3",
+    "primaryTheme": "discovery",
+    "themeIds": [
+      "discovery",
+      "feelings"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0169/01.jpg",
+    "sourceCoverSha256": "2529f468a113737bfc44d3f2836bb116b613d08a69677b3181eeb98714b8d567",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0169_anansi-gives-people-stories.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Ghanaian folktale",
+        "插画：Wiehan de Jager"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "c9f65ba190cc4f51ea0bd356234e52a076c1f105be1ee8e293f4897d43b9aeb4"
+    },
+    "pages": [
+      {
+        "en": "Long, long ago, the Sky God, Nyame, kept all stories locked in a wooden box, high in the sky. People down on earth had no stories to tell and they were very sad. They asked Anansi the clever Spider to help them.",
+        "sourceText": "Long, long ago, the Sky God, Nyame, kept all stories locked in a wooden box, high in the sky. People down on earth had no stories to tell and they were very sad. They asked Anansi the clever Spider to help them.",
+        "zh": "很久以前，天神尼亚梅把所有故事锁在天上的木箱里。地上的人没故事可讲，很难过，便请聪明的蜘蛛阿南西帮忙。",
+        "tip": "先看木箱，听 stories。",
+        "alt": "很久以前，天神尼亚梅把所有故事锁在天上的木箱里。地上的人没故事可讲，很难过，便请聪明的蜘蛛阿南西帮忙。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0169/02.jpg",
+        "sourceImageSha256": "a42adbb8fc16bc9f7ac4e50a4004165e4c7091423acec4a85cb867a3e5da6954",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Anansi spun a long thread, and climbed up his sticky thread all the way to heaven. \"Can I have the stories, please?\" he asked the Sky God. But Nyame laughed at Anansi and said, \"Oh, these are very expensive stories. You wouldn't be able to pay for them, little spider.\"",
+        "sourceText": "Anansi spun a long thread, and climbed up his sticky thread all the way to heaven. \"Can I have the stories, please?\" he asked the Sky God. But Nyame laughed at Anansi and said, \"Oh, these are very expensive stories. You wouldn't be able to pay for them, little spider.\"",
+        "zh": "阿南西吐出长丝，沿着黏丝爬到天上，请求得到故事。尼亚梅笑它，说故事太贵，小蜘蛛买不起。",
+        "tip": "用手指演一演向上爬。",
+        "alt": "阿南西吐出长丝，沿着黏丝爬到天上，请求得到故事。尼亚梅笑它，说故事太贵，小蜘蛛买不起。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0169/03.jpg",
+        "sourceImageSha256": "3f9274f2819866808b6e6c4d53b0eda7cdfc1317d47cafd23d48b88289efe25d",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "\"How much do the stories cost?\" asked Anansi. \"You'll have to bring me three rare and fierce animals,\" Nyame answered, \"A leopard with sharp teeth like spears, a hornet that stings people, and a snake that swallows people whole.\" He laughed and laughed. He thought his stories were quite safe.",
+        "sourceText": "\"How much do the stories cost?\" asked Anansi. \"You'll have to bring me three rare and fierce animals,\" Nyame answered, \"A leopard with sharp teeth like spears, a hornet that stings people, and a snake that swallows people whole.\" He laughed and laughed. He thought his stories were quite safe.",
+        "zh": "阿南西问价钱。天神要三种罕见凶猛的动物：利齿像矛的花豹、会蜇人的大黄蜂，以及能整个吞人的蛇。他大笑，觉得故事安全了。",
+        "tip": "说明这是夸张的民间童话，只需认出三种动物。",
+        "alt": "阿南西问价钱。天神要三种罕见凶猛的动物：利齿像矛的花豹、会蜇人的大黄蜂，以及能整个吞人的蛇。他大笑，觉得故事安全了。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0169/04.jpg",
+        "sourceImageSha256": "2b84cbb83290df715ba4b644ccd293b598cd015352ceb3413280630d532074b7",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "So Anansi climbed slowly back down his sticky thread to the earth. He thought and he thought, and he came up with a plan. He dug a deep hole, covered it with branches and dirt so it was hidden, and he went home for supper. In the morning, sure enough, a leopard had fallen into his pit. He was furiously scratching at the side of the pit, but he couldn't get out.",
+        "sourceText": "So Anansi climbed slowly back down his sticky thread to the earth. He thought and he thought, and he came up with a plan. He dug a deep hole, covered it with branches and dirt so it was hidden, and he went home for supper. In the morning, sure enough, a leopard had fallen into his pit. He was furiously scratching at the side of the pit, but he couldn't get out.",
+        "zh": "阿南西回地上想出办法，挖深坑，用树枝泥土盖住，自己回家吃饭。第二天，花豹果然落入坑里，愤怒地抓挠，却出不来。",
+        "tip": "找找坑里的花豹，不模仿做陷阱。",
+        "alt": "阿南西回地上想出办法，挖深坑，用树枝泥土盖住，自己回家吃饭。第二天，花豹果然落入坑里，愤怒地抓挠，却出不来。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0169/05.jpg",
+        "sourceImageSha256": "0ea2e4754692cdf5b4001ebd0124d6d5f167e27e7103d9da3cf59a563c0319b1",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "\"Oh let me help you, my dear friend!\" said Anansi. \"Just lie down on these sticks and I'll pull you out.\" Anansi wound his sticky web round the leopard and the sticks, and pulled him up to heaven to show the Sky God. But Nyame just laughed and said, \"Where are the other two?\"",
+        "sourceText": "\"Oh let me help you, my dear friend!\" said Anansi. \"Just lie down on these sticks and I'll pull you out.\" Anansi wound his sticky web round the leopard and the sticks, and pulled him up to heaven to show the Sky God. But Nyame just laughed and said, \"Where are the other two?\"",
+        "zh": "阿南西假装帮忙，让花豹躺在木棍上，再用蛛丝绑好，拉到天上给天神看。天神仍笑着问其他两种在哪。",
+        "tip": "用简单中文说：第一个任务完成了。",
+        "alt": "阿南西假装帮忙，让花豹躺在木棍上，再用蛛丝绑好，拉到天上给天神看。天神仍笑着问其他两种在哪。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0169/06.jpg",
+        "sourceImageSha256": "95f17ca236a6adcb655197524eb804b7134d58d98a39f420b6dda24ab83373cc",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "So Anansi went back down to earth to get the second creature. He thought and he thought and he came up with a plan. He took a gourd full of water and went to the tree where the hornets lived. He poured out some of the water all over their nest. Then he cut a leaf from a banana tree and held it over his head, and he poured the rest of the water all over himself.",
+        "sourceText": "So Anansi went back down to earth to get the second creature. He thought and he thought and he came up with a plan. He took a gourd full of water and went to the tree where the hornets lived. He poured out some of the water all over their nest. Then he cut a leaf from a banana tree and held it over his head, and he poured the rest of the water all over himself.",
+        "zh": "蜘蛛回地上想第二个办法，带一葫芦水到蜂巢，先往巢上倒水，再把香蕉叶顶在头上，将剩余的水倒到身上。",
+        "tip": "看看它怎样假装下雨，不接触真实蜂巢。",
+        "alt": "蜘蛛回地上想第二个办法，带一葫芦水到蜂巢，先往巢上倒水，再把香蕉叶顶在头上，将剩余的水倒到身上。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0169/07.jpg",
+        "sourceImageSha256": "08df7270804acfebc0e3d9ea9eb2579f2329e2462ae362b2085e5731585c7b80",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "He called out to the hornets, \"Hey hornets! Come see! It is raining! Quick - get inside my gourd and it will keep all of you dry.\" Hornets don't like to get wet, so they all flew into Anansi's gourd.",
+        "sourceText": "He called out to the hornets, \"Hey hornets! Come see! It is raining! Quick - get inside my gourd and it will keep all of you dry.\" Hornets don't like to get wet, so they all flew into Anansi's gourd.",
+        "zh": "它喊黄蜂来看，说下雨了，快躲到葫芦里避雨。黄蜂不想淋湿，就全飞进去了。",
+        "tip": "指指葫芦，猜猜接下来怎样。",
+        "alt": "它喊黄蜂来看，说下雨了，快躲到葫芦里避雨。黄蜂不想淋湿，就全飞进去了。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0169/08.jpg",
+        "sourceImageSha256": "e9c21b508ce590ee43126c42cd5eaaa4b47491d5f458fbd0046d16ea1f6b05c2",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Then Anansi quickly spun a web across the opening so the hornets couldn't get out no matter how much they buzzed. He carried them up to heaven and showed them to the Sky God. But Nyame just said, \"Where's the last one?\" (He wasn't laughing so much anymore.)",
+        "sourceText": "Then Anansi quickly spun a web across the opening so the hornets couldn't get out no matter how much they buzzed. He carried them up to heaven and showed them to the Sky God. But Nyame just said, \"Where's the last one?\" (He wasn't laughing so much anymore.)",
+        "zh": "蜘蛛迅速用网封住开口，黄蜂嗡嗡叫也出不来。它把黄蜂送上天，天神问最后一个在哪，这次没那么得意了。",
+        "tip": "听听重复的任务，先跟上故事即可。",
+        "alt": "蜘蛛迅速用网封住开口，黄蜂嗡嗡叫也出不来。它把黄蜂送上天，天神问最后一个在哪，这次没那么得意了。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0169/09.jpg",
+        "sourceImageSha256": "11838adf9c3a290c23ccb6efc99a0628b169faadb033db572daa61a4ccc25b1b",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "So Anansi went down to earth again. He thought and thought and he thought, but he couldn't come up with a plan. So he asked his wife, who had a very good idea. Together they found a good long thick branch and some strong vines. When they got near the stream where the snake lived, they began to argue. \"The branch is longer!\" \"No, it isn't!\" \"Yes it is!\"",
+        "sourceText": "So Anansi went down to earth again. He thought and thought and he thought, but he couldn't come up with a plan. So he asked his wife, who had a very good idea. Together they found a good long thick branch and some strong vines. When they got near the stream where the snake lived, they began to argue. \"The branch is longer!\" \"No, it isn't!\" \"Yes it is!\"",
+        "zh": "蜘蛛又回地上，想来想去没办法，便问妻子。妻子有了主意，两人找到粗长树枝和藤蔓，到蛇住的溪流旁，故意争论树枝是不是更长。",
+        "tip": "说说遇到难题也可以请别人一起想。",
+        "alt": "蜘蛛又回地上，想来想去没办法，便问妻子。妻子有了主意，两人找到粗长树枝和藤蔓，到蛇住的溪流旁，故意争论树枝是不是更长。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0169/10.jpg",
+        "sourceImageSha256": "da37489d600ad2bfe5b74b5732ae63277c9ece60bb85821b95a6e77d5b09a812",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Soon the snake came out and asked what the argument was. \"I was arguing with my wife,\" said Anansi. \"She says this stick is longer than you are. But I don't agree.\" \"Of course I'm longer than that stick!\" said the snake. \"I'm very long! I'm a huge snake! Just put your stick next to me and measure!\"",
+        "sourceText": "Soon the snake came out and asked what the argument was. \"I was arguing with my wife,\" said Anansi. \"She says this stick is longer than you are. But I don't agree.\" \"Of course I'm longer than that stick!\" said the snake. \"I'm very long! I'm a huge snake! Just put your stick next to me and measure!\"",
+        "zh": "蛇出来问缘由。蜘蛛说妻子觉得木棍比蛇长，自己却不同意。蛇当然觉得自己更长，要它把木棍放旁边比一比。",
+        "tip": "指指长蛇和木棍，演一演比较长度。",
+        "alt": "蛇出来问缘由。蜘蛛说妻子觉得木棍比蛇长，自己却不同意。蛇当然觉得自己更长，要它把木棍放旁边比一比。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0169/11.jpg",
+        "sourceImageSha256": "85c0af6abb9176ff52a16b807b1b980a6fee3addf836ae276421f143421959c6",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "So Anansi did that, and he tied the snake to the stick with his vine to keep him straight. When he was all tied up, Anansi took the snake up to heaven.",
+        "sourceText": "So Anansi did that, and he tied the snake to the stick with his vine to keep him straight. When he was all tied up, Anansi took the snake up to heaven.",
+        "zh": "蜘蛛照做，再用藤蔓把蛇绑在木棍上，说这样能让它伸直，随后把绑好的蛇送上天。",
+        "tip": "只看图听童话，现实里不要靠近或捕捉蛇。",
+        "alt": "蜘蛛照做，再用藤蔓把蛇绑在木棍上，说这样能让它伸直，随后把绑好的蛇送上天。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0169/12.jpg",
+        "sourceImageSha256": "c8bdbef3b4bfa5326f78ac5aa7a843f3be6f7594466d1b749ea18c600f8229e1",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Nyame had to admit that Anansi had paid his price. So he went to his wooden box, opened the lid, and gave all the stories to Anansi. Anansi carried the stories triumphantly down to earth. He shared them with his wife, and with all the other animals and people. Stories are for telling, not for keeping in wooden boxes.",
+        "sourceText": "Nyame had to admit that Anansi had paid his price. So he went to his wooden box, opened the lid, and gave all the stories to Anansi. Anansi carried the stories triumphantly down to earth. He shared them with his wife, and with all the other animals and people. Stories are for telling, not for keeping in wooden boxes.",
+        "zh": "天神只好承认阿南西付清代价，打开木箱，把所有故事给它。蜘蛛胜利地带回地上，与妻子、动物和人们分享。故事是用来讲的，不该锁在箱子里。",
+        "tip": "邀请孩子选一个人，和他分享喜欢的故事。",
+        "alt": "天神只好承认阿南西付清代价，打开木箱，把所有故事给它。蜘蛛胜利地带回地上，与妻子、动物和人们分享。故事是用来讲的，不该锁在箱子里。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0169/13.jpg",
+        "sourceImageSha256": "2529f468a113737bfc44d3f2836bb116b613d08a69677b3181eeb98714b8d567",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "stories",
+        "meaning": "故事",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "spider",
+        "meaning": "蜘蛛",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-2",
+        "word": "shared",
+        "meaning": "分享了",
+        "pageIndex": 11
+      }
+    ],
+    "activity": {
+      "title": "编一个接龙小故事",
+      "text": "大人先说一句“有一天，一只小动物出门了”，孩子愿意就添一句，或指一个玩偶请大人接着讲。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Charlotte",
+      "voiceId": "en_female_authoritative-british_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  }
+]

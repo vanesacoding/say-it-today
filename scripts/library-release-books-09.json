@@ -1,0 +1,870 @@
+[
+  {
+    "id": "0149",
+    "title": "The Moon and the Cap",
+    "zh": "月亮和帽子",
+    "stageId": "S2",
+    "primaryTheme": "feelings",
+    "themeIds": [
+      "feelings",
+      "discovery"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0149/01.jpg",
+    "sourceCoverSha256": "f8b69bacdb052cb267f8ae2828cf2d84fab0f497782fbd0a418b20aaa89c27d0",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0149_the-moon-and-the-cap.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Noni",
+        "插画：Angie & Upesh"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "cdf07ff7d15aac3dea903cea70b5586896c857aeb7195b4846b2920d5c4567d1"
+    },
+    "pages": [
+      {
+        "en": "All of us went to the fun fair.",
+        "sourceText": "All of us went to the fun fair.",
+        "zh": "我们全家一起去了游乐集市。",
+        "tip": "看看集市里有什么好玩的。",
+        "alt": "我们全家一起去了游乐集市。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0149/02.jpg",
+        "sourceImageSha256": "fd4d101452a4e52cc84891e537b1692a95b2a45d9c4f877c0201b70cfea89a6c",
+        "imageWidth": 663,
+        "imageHeight": 546
+      },
+      {
+        "en": "Father bought brother fancy glasses. Mother bought me a bright blue cap. The baby got sugar candy.",
+        "sourceText": "Father bought brother fancy glasses. Mother bought me a bright blue cap. The baby got sugar candy.",
+        "zh": "爸爸给哥哥买了有趣的眼镜，妈妈给我买了一顶亮蓝色帽子，宝宝得到糖果。",
+        "tip": "找一找蓝色帽子，听 cap。",
+        "alt": "爸爸给哥哥买了有趣的眼镜，妈妈给我买了一顶亮蓝色帽子，宝宝得到糖果。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0149/03.jpg",
+        "sourceImageSha256": "0b39fe0dedfe88c1575fec14e69c5b4b97e160d4dea5947153c70f8afe11accd",
+        "imageWidth": 662,
+        "imageHeight": 546
+      },
+      {
+        "en": "On the way home, a very strong wind came. It blew my cap away.",
+        "sourceText": "On the way home, a very strong wind came. It blew my cap away.",
+        "zh": "回家路上，一阵强风把我的帽子吹走了。",
+        "tip": "用手指指一指帽子飞的方向。",
+        "alt": "回家路上，一阵强风把我的帽子吹走了。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0149/04.jpg",
+        "sourceImageSha256": "ba0d4826af4edecbb9a4baafe6cbb6356069bb871f0c0461879285aba4046b1f",
+        "imageWidth": 663,
+        "imageHeight": 546
+      },
+      {
+        "en": "My cap got stuck on a branch of a big old tree.",
+        "sourceText": "My cap got stuck on a branch of a big old tree.",
+        "zh": "帽子挂在一棵高大老树的树枝上。",
+        "tip": "请孩子找树枝上的帽子。",
+        "alt": "帽子挂在一棵高大老树的树枝上。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0149/05.jpg",
+        "sourceImageSha256": "7909f6f4dc8e1026d7833da48cb95f04d5a78ca7841b262633a1185c9499d3f9",
+        "imageWidth": 663,
+        "imageHeight": 546
+      },
+      {
+        "en": "I cried a lot. And I did not eat my dinner.",
+        "sourceText": "I cried a lot. And I did not eat my dinner.",
+        "zh": "我哭得很伤心，连晚饭也没吃。",
+        "tip": "说“丢了喜欢的东西会难过”，先安慰这份感受。",
+        "alt": "我哭得很伤心，连晚饭也没吃。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0149/06.jpg",
+        "sourceImageSha256": "2ab23d60f2e0ca2631482cc9eee63b5a88a88302e7c5c53f485396b32f3ce172",
+        "imageWidth": 661,
+        "imageHeight": 546
+      },
+      {
+        "en": "Later that night, the moon came up. It looked at my cap in the big old tree.",
+        "sourceText": "Later that night, the moon came up. It looked at my cap in the big old tree.",
+        "zh": "夜里，月亮升起来，看见大树上的帽子。",
+        "tip": "指指月亮，说 moon。",
+        "alt": "夜里，月亮升起来，看见大树上的帽子。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0149/07.jpg",
+        "sourceImageSha256": "002c5b2d7c2194ff75f6715a1444ea23b783b811af46db44ef00142e1825c8d6",
+        "imageWidth": 667,
+        "imageHeight": 546
+      },
+      {
+        "en": "The moon tried on my cap. It smiled happily. I had to smile too.",
+        "sourceText": "The moon tried on my cap. It smiled happily. I had to smile too.",
+        "zh": "月亮试戴我的帽子，开心地笑了，我也忍不住笑起来。",
+        "tip": "一起给月亮一个微笑。",
+        "alt": "月亮试戴我的帽子，开心地笑了，我也忍不住笑起来。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0149/08.jpg",
+        "sourceImageSha256": "bfd5848249a0eb5407eda66f3edc93bdbfd19d4d95c235ec034dd7a4f410764f",
+        "imageWidth": 660,
+        "imageHeight": 546
+      },
+      {
+        "en": "After school the next day, my mother gave me a shiny new red cap. \"The moon sent it,\" she said.",
+        "sourceText": "After school the next day, my mother gave me a shiny new red cap. \"The moon sent it,\" she said.",
+        "zh": "第二天放学后，妈妈送我一顶亮闪闪的新红帽子。她说：“这是月亮送给你的。”",
+        "tip": "找找新帽子的颜色。",
+        "alt": "第二天放学后，妈妈送我一顶亮闪闪的新红帽子。她说：“这是月亮送给你的。”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0149/09.jpg",
+        "sourceImageSha256": "a3860de472184a71d0fb04b51c4c230a55c912c911f5c93a985161cc8efb58eb",
+        "imageWidth": 662,
+        "imageHeight": 546
+      },
+      {
+        "en": "That night, both the moon and I wore our caps and smiled. We were happy.",
+        "sourceText": "That night, both the moon and I wore our caps and smiled. We were happy.",
+        "zh": "那天晚上，月亮和我都戴着帽子微笑，我们很开心。",
+        "tip": "说说这是一个充满想象的故事。",
+        "alt": "那天晚上，月亮和我都戴着帽子微笑，我们很开心。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0149/10.jpg",
+        "sourceImageSha256": "b9b007f41f94c58ecd8d15fd3fecd6b1004f3e222f06ab9d10f6d75c353499b0",
+        "imageWidth": 662,
+        "imageHeight": 546
+      },
+      {
+        "en": "Do you think the sun needs a hat?",
+        "sourceText": "Do you think the sun needs a hat?",
+        "zh": "你觉得太阳需要帽子吗？",
+        "tip": "孩子愿意就说说自己的想法，没有标准答案。",
+        "alt": "你觉得太阳需要帽子吗？",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0149/11.jpg",
+        "sourceImageSha256": "dd1ca9fce1e5abb774f12f9d378eee1802ec1a014f645f4330688823494bce2f",
+        "imageWidth": 662,
+        "imageHeight": 546
+      },
+      {
+        "en": "Guess which cap I am wearing today!",
+        "sourceText": "Guess which cap I am wearing today!",
+        "zh": "猜猜我今天戴的是哪顶帽子！",
+        "tip": "从画面找线索，指一指就好。",
+        "alt": "猜猜我今天戴的是哪顶帽子！",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0149/12.jpg",
+        "sourceImageSha256": "dbe4888b411458a794f64e88084221953ddfaa0efb26b1582895824bef59ef44",
+        "imageWidth": 755,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "cap",
+        "meaning": "帽子",
+        "pageIndex": 1
+      },
+      {
+        "id": "word-1",
+        "word": "moon",
+        "meaning": "月亮",
+        "pageIndex": 5
+      },
+      {
+        "id": "word-2",
+        "word": "smile",
+        "meaning": "微笑",
+        "pageIndex": 6
+      }
+    ],
+    "activity": {
+      "title": "给月亮画顶帽子",
+      "text": "画一个月亮，为它设计一顶自己喜欢的帽子。可以试着说 moon 或 cap。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Charlotte",
+      "voiceId": "en_female_authoritative-british_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  },
+  {
+    "id": "0152",
+    "title": "What is wrong child?",
+    "zh": "宝宝怎么啦？",
+    "stageId": "S2",
+    "primaryTheme": "everyday",
+    "themeIds": [
+      "everyday",
+      "feelings"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0152/01.jpg",
+    "sourceCoverSha256": "301dabd85eadf2d425e1bad91ae418ee923d3f45861a168791713a579f10f975",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0152_what-is-wrong-child.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Ursula Nafula",
+        "插画：Wiehan de Jager"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "86d1186c3053595750e05991f2c9dca65f219383778e512506060e36360b753a"
+    },
+    "pages": [
+      {
+        "en": "This is Matende.",
+        "sourceText": "This is Matende.",
+        "zh": "这是马滕德。",
+        "tip": "指指宝宝，轻声和他打招呼。",
+        "alt": "这是马滕德。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0152/02.jpg",
+        "sourceImageSha256": "d7fc3d5b6f61ff910a23181630c78dc6990f5f9d5d9cfa74d4ad6ddbca7255f5",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Matende cried all the time.",
+        "sourceText": "Matende cried all the time.",
+        "zh": "马滕德总是在哭。",
+        "tip": "说说宝宝还不会用语言表达需要。",
+        "alt": "马滕德总是在哭。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0152/03.jpg",
+        "sourceImageSha256": "043d19ebaa605bcfc24fa0e8e2d066d70ac21d56ad06ddc122833e28b9053007",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "When his mother fed him, Matende cried.",
+        "sourceText": "When his mother fed him, Matende cried.",
+        "zh": "妈妈喂他吃东西，他仍在哭。",
+        "tip": "找找妈妈正在做什么。",
+        "alt": "妈妈喂他吃东西，他仍在哭。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0152/04.jpg",
+        "sourceImageSha256": "5fe98a036663e1e4edf84362c0fb9492edd1a9de42c25e05f7f16506889f3b8c",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "When Matende was put down to rest, he still cried.",
+        "sourceText": "When Matende was put down to rest, he still cried.",
+        "zh": "把马滕德放下休息，他还是哭。",
+        "tip": "这页只听故事，不用模仿哭声。",
+        "alt": "把马滕德放下休息，他还是哭。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0152/05.jpg",
+        "sourceImageSha256": "2f59ddca90b51ff8027252b450d51aeae266cb1f33693b63e3ea8e04d8b8f352",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "When his mother changed his nappies, Matende continued to cry.",
+        "sourceText": "When his mother changed his nappies, Matende continued to cry.",
+        "zh": "妈妈给他换尿布，他继续哭。",
+        "tip": "指指照顾宝宝的妈妈。",
+        "alt": "妈妈给他换尿布，他继续哭。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0152/06.jpg",
+        "sourceImageSha256": "3ce5f84da5d79d7259f02990c4283070266353942b94c76909622d2c93d3121a",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "When his mother carried him on her shoulder, Matende cried more.",
+        "sourceText": "When his mother carried him on her shoulder, Matende cried more.",
+        "zh": "妈妈把他抱到肩膀上，他哭得更厉害。",
+        "tip": "说说妈妈一直在尝试帮助他。",
+        "alt": "妈妈把他抱到肩膀上，他哭得更厉害。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0152/07.jpg",
+        "sourceImageSha256": "e7fba3d8b46c3d7af44d199d20f52303a62a32dad3853642f4d9b91b584b872c",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "When he fell asleep, Matende looked like he would start to cry again.",
+        "sourceText": "When he fell asleep, Matende looked like he would start to cry again.",
+        "zh": "睡着后，马滕德看起来又像要哭了。",
+        "tip": "轻声听 asleep，做一个睡觉的手势。",
+        "alt": "睡着后，马滕德看起来又像要哭了。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0152/08.jpg",
+        "sourceImageSha256": "301dabd85eadf2d425e1bad91ae418ee923d3f45861a168791713a579f10f975",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Matende's mother looked at her son. She did not know what was wrong with him.",
+        "sourceText": "Matende's mother looked at her son. She did not know what was wrong with him.",
+        "zh": "妈妈看着儿子，不知道他到底怎么了。",
+        "tip": "可以说“暂时不知道原因时，也可以向人求助”。",
+        "alt": "妈妈看着儿子，不知道他到底怎么了。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0152/09.jpg",
+        "sourceImageSha256": "46d6064dee09cbdf6d1055dfde5fa5641ff798e7e1d90de70bcf3a54a1fe0215",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "cried",
+        "meaning": "哭了",
+        "pageIndex": 1
+      },
+      {
+        "id": "word-1",
+        "word": "mother",
+        "meaning": "妈妈",
+        "pageIndex": 2
+      },
+      {
+        "id": "word-2",
+        "word": "asleep",
+        "meaning": "睡着的",
+        "pageIndex": 6
+      }
+    ],
+    "activity": {
+      "title": "安慰玩偶宝宝",
+      "text": "用玩偶演一演轻声安慰宝宝。真实宝宝一直哭时，由照顾他的大人来判断需要什么。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Knightley",
+      "voiceId": "en_male_knightley_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  },
+  {
+    "id": "0155",
+    "title": "The Jungle School",
+    "zh": "丛林学校",
+    "stageId": "S3",
+    "primaryTheme": "nature",
+    "themeIds": [
+      "nature",
+      "everyday"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0155/01.jpg",
+    "sourceCoverSha256": "d70a3ab8ecff1893f36650f0a6514bdc5cc26238bab2a5f2445a6424e1776aab",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0155_the-jungle-school.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Madhav Chavan, Meera Tendolkar",
+        "插画：Ketan Raut"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "9a8d2b28353673b88ecf000142b5b8ca08d23b0ee560f2d159b9f6a2b2ed0fba"
+    },
+    "pages": [
+      {
+        "en": "There was a dark jungle.",
+        "sourceText": "There was a dark jungle.",
+        "zh": "有一片幽暗的丛林。",
+        "tip": "先看看这片丛林。",
+        "alt": "有一片幽暗的丛林。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0155/02.jpg",
+        "sourceImageSha256": "e9777d56ce416409567af8b585edaaf029e69d4ed057064333c84f4b556db8b8",
+        "imageWidth": 539,
+        "imageHeight": 546
+      },
+      {
+        "en": "It was a big dark jungle. There were lots of trees and a narrow path. Many animals and birds lived here.",
+        "sourceText": "It was a big dark jungle. There were lots of trees and a narrow path. Many animals and birds lived here.",
+        "zh": "丛林又大又暗，有许多树和一条窄窄的小路，住着很多动物和鸟。",
+        "tip": "找一种孩子认识的动物。",
+        "alt": "丛林又大又暗，有许多树和一条窄窄的小路，住着很多动物和鸟。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0155/03.jpg",
+        "sourceImageSha256": "be598412cd20468aff5372c345d1ff6704887f3551c613d57d8fca7c299ec719",
+        "imageWidth": 548,
+        "imageHeight": 546
+      },
+      {
+        "en": "One day, all the animals came together. \"Did you hear?\" asked Tota, the parrot. \"Yes,\" said Hirni, the deer. \"What?\" asked Darpok, the rabbit. \"We have a school in the jungle,\" answered Zhoola, the monkey. Mota, the elephant wondered, \"Hmph?\" Lamboo, the giraffe said, \"Oh, good!\" Dheema, the snail squealed, \"Hurry, let's go!\"",
+        "sourceText": "One day, all the animals came together. \"Did you hear?\" asked Tota, the parrot. \"Yes,\" said Hirni, the deer. \"What?\" asked Darpok, the rabbit. \"We have a school in the jungle,\" answered Zhoola, the monkey. Mota, the elephant wondered, \"Hmph?\" Lamboo, the giraffe said, \"Oh, good!\" Dheema, the snail squealed, \"Hurry, let's go!\"",
+        "zh": "一天，动物们聚在一起。鹦鹉托塔问：“听说了吗？”鹿希尔妮说听说了，兔子达尔波克忙问是什么事。猴子朱拉说丛林里有学校了！大象惊讶，长颈鹿说真好，蜗牛催大家快去。",
+        "tip": "指指长颈鹿，再听 school。",
+        "alt": "一天，动物们聚在一起。鹦鹉托塔问：“听说了吗？”鹿希尔妮说听说了，兔子达尔波克忙问是什么事。猴子朱拉说丛林里有学校了！大象惊讶，长颈鹿说真好，蜗牛催大家快去。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0155/04.jpg",
+        "sourceImageSha256": "9b07bbee5a5745556c0f32a880a64a4cd9e27b7dd5c2ef8c8df29181d045baca",
+        "imageWidth": 550,
+        "imageHeight": 546
+      },
+      {
+        "en": "Tota, the parrot flew ahead. Zhoola, the monkey jumped from tree to tree. Poorakha, the python slithered fast. \"Here!\" shouted Tota. \"Can you read?\" \"It is upside down, I think,\" said Zhoola hanging by the branch. Poorakha concluded, \"Hisssss. No one can read.\"",
+        "sourceText": "Tota, the parrot flew ahead. Zhoola, the monkey jumped from tree to tree. Poorakha, the python slithered fast. \"Here!\" shouted Tota. \"Can you read?\" \"It is upside down, I think,\" said Zhoola hanging by the branch. Poorakha concluded, \"Hisssss. No one can read.\"",
+        "zh": "鹦鹉先飞过去，猴子在树间跳，蟒蛇快速滑行。大家找到牌子，却没有谁会读。倒挂在树枝上的猴子觉得牌子是倒着的。",
+        "tip": "看看猴子的位置，想想它为什么这样说。",
+        "alt": "鹦鹉先飞过去，猴子在树间跳，蟒蛇快速滑行。大家找到牌子，却没有谁会读。倒挂在树枝上的猴子觉得牌子是倒着的。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0155/05.jpg",
+        "sourceImageSha256": "8f1c4e897d7a710ca05ec6f9d27ec381577d3e80c624cce97567b75e807812d1",
+        "imageWidth": 545,
+        "imageHeight": 546
+      },
+      {
+        "en": "Soon, all the other friends joined them. Lamboo looked over the tree. \"No one here,\" he said. Zhoola repeated, \"No one here.\" Tota proposed, \"Look carefully!\" Pilloo, the little bear declared, \"I found a room!\"",
+        "sourceText": "Soon, all the other friends joined them. Lamboo looked over the tree. \"No one here,\" he said. Zhoola repeated, \"No one here.\" Tota proposed, \"Look carefully!\" Pilloo, the little bear declared, \"I found a room!\"",
+        "zh": "其他朋友也来了。长颈鹿往树那边看，和猴子都说没人。鹦鹉让大家仔细找，小熊终于发现一个房间。",
+        "tip": "请孩子一起找学校的房间。",
+        "alt": "其他朋友也来了。长颈鹿往树那边看，和猴子都说没人。鹦鹉让大家仔细找，小熊终于发现一个房间。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0155/06.jpg",
+        "sourceImageSha256": "5fe452d9b570aef6968b9e25b5510b8d7a533080c30b2f35398484e4a1785fde",
+        "imageWidth": 548,
+        "imageHeight": 546
+      },
+      {
+        "en": "\"I found a swing\", announced Dheema. \"What are these blocks?\" Darpok wanted to know. \"What is this?\" was Zhoola's question. Poorakha explained, \"I believe, this is a pencil.\"",
+        "sourceText": "\"I found a swing\", announced Dheema. \"What are these blocks?\" Darpok wanted to know. \"What is this?\" was Zhoola's question. Poorakha explained, \"I believe, this is a pencil.\"",
+        "zh": "蜗牛找到秋千，兔子好奇积木，猴子指着一样东西问是什么。蟒蛇说：“我想，这是一支铅笔。”",
+        "tip": "指指铅笔，说 pencil。",
+        "alt": "蜗牛找到秋千，兔子好奇积木，猴子指着一样东西问是什么。蟒蛇说：“我想，这是一支铅笔。”",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0155/07.jpg",
+        "sourceImageSha256": "df4e365231ebd6e1d2859d25909cd3ad34721ba548cb822d57818c7795c172c8",
+        "imageWidth": 548,
+        "imageHeight": 546
+      },
+      {
+        "en": "Moto and Lamboo found a classroom. They called the others, \"Look, what is this?\" Everyone came with school bags. They began shouting, \"Teacher! Teacher! Where is our teacher?\" No one knew.",
+        "sourceText": "Moto and Lamboo found a classroom. They called the others, \"Look, what is this?\" Everyone came with school bags. They began shouting, \"Teacher! Teacher! Where is our teacher?\" No one knew.",
+        "zh": "大象和长颈鹿发现教室，叫来背书包的朋友。大家喊：“老师！老师！老师在哪里？”可谁也不知道。",
+        "tip": "和孩子轻轻说 teacher。",
+        "alt": "大象和长颈鹿发现教室，叫来背书包的朋友。大家喊：“老师！老师！老师在哪里？”可谁也不知道。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0155/08.jpg",
+        "sourceImageSha256": "5a5654a5dfb9675f7452f4a57141d53b03737b19b8de750213d238d46a665257",
+        "imageWidth": 548,
+        "imageHeight": 546
+      },
+      {
+        "en": "Then they heard a roar. They heard a loud roar. They heard a louder roar. Poorakha was worried. Dheema was scared. Tota hid behind the board. Lamboo and Zhoola were puzzled.",
+        "sourceText": "Then they heard a roar. They heard a loud roar. They heard a louder roar. Poorakha was worried. Dheema was scared. Tota hid behind the board. Lamboo and Zhoola were puzzled.",
+        "zh": "这时传来吼声，一声比一声响。蟒蛇担心，蜗牛害怕，鹦鹉躲到牌子后面，长颈鹿和猴子很困惑。",
+        "tip": "猜猜是谁来了，孩子不猜也能翻页。",
+        "alt": "这时传来吼声，一声比一声响。蟒蛇担心，蜗牛害怕，鹦鹉躲到牌子后面，长颈鹿和猴子很困惑。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0155/09.jpg",
+        "sourceImageSha256": "25f3a9589b8df4b2155903a2fdc3b266eedfb76b8b5fcc58b618ae66a32baa42",
+        "imageWidth": 545,
+        "imageHeight": 546
+      },
+      {
+        "en": "Who is this? \"Hup!\" said Zhoola the monkey. No one spoke. They all looked at the teacher. Up and down carefully. Then they looked at one another.",
+        "sourceText": "Who is this? \"Hup!\" said Zhoola the monkey. No one spoke. They all looked at the teacher. Up and down carefully. Then they looked at one another.",
+        "zh": "这是谁？猴子叫了一声，其他动物都不说话。它们上下打量老师，又互相看看。",
+        "tip": "仔细看看老师的样子。",
+        "alt": "这是谁？猴子叫了一声，其他动物都不说话。它们上下打量老师，又互相看看。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0155/10.jpg",
+        "sourceImageSha256": "da1ab336dc01df633f7e7c27e0613cfd313ab6b4a3e6f3207e240c9bbbcf802d",
+        "imageWidth": 525,
+        "imageHeight": 546
+      },
+      {
+        "en": "The teacher turned to write on the black board. \"Jump,\" said Zhoola. \"Fly! said Tota. Thump, thump, thump ran Mota. \"Run, run run fast,\" screamed Dheema. \"Bhagoooo,\" they all shouted together. When the teacher turned... There was no one in the class.",
+        "sourceText": "The teacher turned to write on the black board. \"Jump,\" said Zhoola. \"Fly! said Tota. Thump, thump, thump ran Mota. \"Run, run run fast,\" screamed Dheema. \"Bhagoooo,\" they all shouted together. When the teacher turned... There was no one in the class.",
+        "zh": "老师转身在黑板上写字，猴子叫“跳”，鹦鹉叫“飞”，大象咚咚跑，蜗牛也喊快跑。大家一起冲走，老师转过身时，教室里已经空了。",
+        "tip": "找找离开的动物，笑着结束，不必把童话当真实学校。",
+        "alt": "老师转身在黑板上写字，猴子叫“跳”，鹦鹉叫“飞”，大象咚咚跑，蜗牛也喊快跑。大家一起冲走，老师转过身时，教室里已经空了。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0155/11.jpg",
+        "sourceImageSha256": "153de139f9e2d0ad1068072072354d988d5cb70a07857b2f1defeccc7dc16100",
+        "imageWidth": 545,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "school",
+        "meaning": "学校",
+        "pageIndex": 2
+      },
+      {
+        "id": "word-1",
+        "word": "pencil",
+        "meaning": "铅笔",
+        "pageIndex": 5
+      },
+      {
+        "id": "word-2",
+        "word": "teacher",
+        "meaning": "老师",
+        "pageIndex": 6
+      }
+    ],
+    "activity": {
+      "title": "玩偶来上学",
+      "text": "摆两三个玩偶和一本书，轮流当老师，说 Hello，再一起看一幅图。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Rowan",
+      "voiceId": "en_male_adam-imitation_uranus_bigtts",
+      "locale": "en-US",
+      "accentLabel": "美式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  },
+  {
+    "id": "0160",
+    "title": "Disability is Not Inability",
+    "zh": "残障不等于不能",
+    "stageId": "S2",
+    "primaryTheme": "feelings",
+    "themeIds": [
+      "feelings",
+      "everyday"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0160/01.jpg",
+    "sourceCoverSha256": "69664ee6c085357140cb3ea9763ea2730b02f3da811f4b31d28c2600d416a29d",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0160_disability-is-not-inability.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Agnes Mabururu",
+        "插画：Wiehan de Jager"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "683a91b723ab0ca7b6e017c675de2c3b2e4ddbfc15e6448daf1453ca283756aa"
+    },
+    "pages": [
+      {
+        "en": "This is Agnes. She is my teacher.",
+        "sourceText": "This is Agnes. She is my teacher.",
+        "zh": "这是阿格尼斯，她是我的老师。",
+        "tip": "指指老师，听 teacher。",
+        "alt": "这是阿格尼斯，她是我的老师。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0160/02.jpg",
+        "sourceImageSha256": "87aca465ac5b8e917cce1d26aca438880a6bef8e3fa4d88983bd8b8f4ead0835",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Agnes uses crutches to walk.",
+        "sourceText": "Agnes uses crutches to walk.",
+        "zh": "阿格尼斯使用拐杖走路。",
+        "tip": "平常地说：拐杖帮助她走路。",
+        "alt": "阿格尼斯使用拐杖走路。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0160/03.jpg",
+        "sourceImageSha256": "581093d555ab5d1372145412bc9acc8cb08cfcc022ae40082ba8708217e460cd",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "This is Metobo. He is my favourite radio DJ.",
+        "sourceText": "This is Metobo. He is my favourite radio DJ.",
+        "zh": "这是梅托博，他是我最喜欢的电台主持人。",
+        "tip": "看看他工作时用的东西。",
+        "alt": "这是梅托博，他是我最喜欢的电台主持人。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0160/04.jpg",
+        "sourceImageSha256": "8ac3221e705e2854a56b79e9dc69b0a3d359396ac6795cdcd21de23219300c4b",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Metobo has problems with his eyes.",
+        "sourceText": "Metobo has problems with his eyes.",
+        "zh": "梅托博的眼睛有视力障碍。",
+        "tip": "可以说：人们用不同方式感受世界。",
+        "alt": "梅托博的眼睛有视力障碍。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0160/05.jpg",
+        "sourceImageSha256": "2cc346fabe453072dce0fe600f0119147f7d33fcdbb64b564c58717480b93afd",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "This is Moraa, my neighbour. Moraa is a farmer.",
+        "sourceText": "This is Moraa, my neighbour. Moraa is a farmer.",
+        "zh": "这是我的邻居莫拉，她是一位农民。",
+        "tip": "指指莫拉，听 farmer。",
+        "alt": "这是我的邻居莫拉，她是一位农民。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0160/06.jpg",
+        "sourceImageSha256": "34422003d2c8cff76293b4288f03c5a6329ee8124abf7e6141715dbb9f4210d2",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Moraa cannot hear. She speaks using Sign Language.",
+        "sourceText": "Moraa cannot hear. She speaks using Sign Language.",
+        "zh": "莫拉听不见，她使用手语交流。",
+        "tip": "看看她的手势，不把随意动作当作正式手语。",
+        "alt": "莫拉听不见，她使用手语交流。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0160/07.jpg",
+        "sourceImageSha256": "69664ee6c085357140cb3ea9763ea2730b02f3da811f4b31d28c2600d416a29d",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "This is Osero. He is the best soccer player at my school.",
+        "sourceText": "This is Osero. He is the best soccer player at my school.",
+        "zh": "这是奥塞罗，他是学校里最棒的足球运动员。",
+        "tip": "找找足球和运动员。",
+        "alt": "这是奥塞罗，他是学校里最棒的足球运动员。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0160/08.jpg",
+        "sourceImageSha256": "96de1fb8a6a6a332a5bb0c36610cedca4a27f8ad5cc679466ec1a15fbd49f40d",
+        "imageWidth": 546,
+        "imageHeight": 546
+      },
+      {
+        "en": "Osero has no hands. But he scores many goals for our team!",
+        "sourceText": "Osero has no hands. But he scores many goals for our team!",
+        "zh": "奥塞罗没有双手，却为我们球队踢进了许多球！",
+        "tip": "为他的球技鼓掌，说说每个人都有自己的本领。",
+        "alt": "奥塞罗没有双手，却为我们球队踢进了许多球！",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0160/09.jpg",
+        "sourceImageSha256": "af84fe2ad850a338a34aab04a56fc8e42b5532ac157538b9fa1a05fbc1462369",
+        "imageWidth": 546,
+        "imageHeight": 546
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "teacher",
+        "meaning": "老师",
+        "pageIndex": 0
+      },
+      {
+        "id": "word-1",
+        "word": "farmer",
+        "meaning": "农民",
+        "pageIndex": 4
+      },
+      {
+        "id": "word-2",
+        "word": "goals",
+        "meaning": "进球",
+        "pageIndex": 7
+      }
+    ],
+    "activity": {
+      "title": "每个人都有擅长的事",
+      "text": "和家人各说一件喜欢或擅长的事。需要帮助时，也可以直接说“请帮我”。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Charlotte",
+      "voiceId": "en_female_authoritative-british_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  },
+  {
+    "id": "0167",
+    "title": "The seventh sun: A tribal tale from Odisha, India",
+    "zh": "第七个太阳",
+    "stageId": "S3",
+    "primaryTheme": "discovery",
+    "themeIds": [
+      "discovery",
+      "nature"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0167/01.jpg",
+    "sourceCoverSha256": "199cf47391c705e85a0b205971c25b6bd2a7b1c2cc0dea43c0d0fae530ea6f86",
+    "source": {
+      "name": "African Storybook / Global ASP",
+      "url": "https://github.com/global-asp/asp-source/blob/b5c3d5b2266ad936e5f20fa878e839b32b02b4ba/en/0167_the-seventh-sun-a-tribal-tale-from-odisha-india.md",
+      "publisherUrl": "https://www.africanstorybook.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://github.com/global-asp/asp-imagebank/blob/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/README.md",
+      "creators": [
+        "文字：Indian Folktale",
+        "插画：Pratham Books"
+      ],
+      "editorialNote": "英文按所链固定版本逐页保留（仅合并换行空白），未增删或校改故事原文。中文为忠实释义辅助；陪读提示、重点词和活动为叽咕新增。",
+      "sourceTextSha256": "72004c9c082a89e80becf7176407cbb960a19570f3fb0b0cb5f608be7287aa57"
+    },
+    "pages": [
+      {
+        "en": "Long, long ago there were seven suns in the sky. Their rays made the earth so hot that human beings could not bear it.",
+        "sourceText": "Long, long ago there were seven suns in the sky. Their rays made the earth so hot that human beings could not bear it.",
+        "zh": "很久以前，天空有七个太阳，照得大地十分炎热，人们难以忍受。",
+        "tip": "先说明这是想象中的古老神话。",
+        "alt": "很久以前，天空有七个太阳，照得大地十分炎热，人们难以忍受。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0167/02.jpg",
+        "sourceImageSha256": "e47e2523baaf710f540d21ac5602dbee5556ace82e7b75a7d00de835f73abca2",
+        "imageWidth": 418,
+        "imageHeight": 336
+      },
+      {
+        "en": "So, the seven brothers belonging to a tribe called the Munda decided to kill the suns. They shot arrows at them and were able to kill six of the suns.",
+        "sourceText": "So, the seven brothers belonging to a tribe called the Munda decided to kill the suns. They shot arrows at them and were able to kill six of the suns.",
+        "zh": "蒙达部族的七兄弟决定射掉太阳，用箭射落了其中六个。",
+        "tip": "只听这一页，不模仿射击。",
+        "alt": "蒙达部族的七兄弟决定射掉太阳，用箭射落了其中六个。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0167/03.jpg",
+        "sourceImageSha256": "1c59e53e97fa97fe69a15e66e84aaa0689574e0cc83c0f0c8d1318f1e4b26e49",
+        "imageWidth": 418,
+        "imageHeight": 336
+      },
+      {
+        "en": "The seventh sun hid behind a hill.",
+        "sourceText": "The seventh sun hid behind a hill.",
+        "zh": "第七个太阳躲到山后。",
+        "tip": "指指山后藏着的太阳。",
+        "alt": "第七个太阳躲到山后。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0167/04.jpg",
+        "sourceImageSha256": "2dea3ad3a80501404c37c16291baf82e82493ad296c8e64bccb6e89be9b71336",
+        "imageWidth": 418,
+        "imageHeight": 336
+      },
+      {
+        "en": "Now, with the suns gone, there was darkness everywhere. The deer could not see the tigers, the elephants bumped into trees, the rabbits walked over the lions and there was confusion all around.",
+        "sourceText": "Now, with the suns gone, there was darkness everywhere. The deer could not see the tigers, the elephants bumped into trees, the rabbits walked over the lions and there was confusion all around.",
+        "zh": "太阳消失后，到处漆黑。鹿看不见老虎，大象撞到树，兔子踩过狮子，四周一片混乱。",
+        "tip": "找找黑暗中不方便的动物。",
+        "alt": "太阳消失后，到处漆黑。鹿看不见老虎，大象撞到树，兔子踩过狮子，四周一片混乱。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0167/05.jpg",
+        "sourceImageSha256": "f05a52eba5aefa2a5fab5d556df4e77f1eab54726d021033a2ace7991c2571a9",
+        "imageWidth": 418,
+        "imageHeight": 336
+      },
+      {
+        "en": "To find a way out, the animals decided to have a meeting. A rabbit told them about one of the seven suns who was still alive and hiding behind a hill. But who would be the best one to call out to the sun?",
+        "sourceText": "To find a way out, the animals decided to have a meeting. A rabbit told them about one of the seven suns who was still alive and hiding behind a hill. But who would be the best one to call out to the sun?",
+        "zh": "动物们开会想办法。兔子说，还有一个太阳活着，藏在山后，可让谁来请它出来最好呢？",
+        "tip": "邀请孩子指一种想来试试的动物。",
+        "alt": "动物们开会想办法。兔子说，还有一个太阳活着，藏在山后，可让谁来请它出来最好呢？",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0167/06.jpg",
+        "sourceImageSha256": "b49ce8d6c197a714c7c347a91466183c693ea5b67395adaec956caeee42cfeae",
+        "imageWidth": 424,
+        "imageHeight": 336
+      },
+      {
+        "en": "\"I will call out to the sun,\" said the lion, for he was the king of the forest. \"Sun, sun, please do not run away from us. Come back in and shine on us,\" roared the lion. But the sun did not listen to him.",
+        "sourceText": "\"I will call out to the sun,\" said the lion, for he was the king of the forest. \"Sun, sun, please do not run away from us. Come back in and shine on us,\" roared the lion. But the sun did not listen to him.",
+        "zh": "森林之王狮子先吼着请太阳回来照亮大家，可太阳不听。",
+        "tip": "轻声模仿狮子打招呼，不用大喊。",
+        "alt": "森林之王狮子先吼着请太阳回来照亮大家，可太阳不听。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0167/07.jpg",
+        "sourceImageSha256": "05947eee4bd71055431d514fc312b199c1b699d2de983d8c8b38b9b0ed53d620",
+        "imageWidth": 418,
+        "imageHeight": 336
+      },
+      {
+        "en": "The elephant called out next. He raised his trunk and trumpeted, \"Sun, sun, please come back,\" but the sun did not listen to him.",
+        "sourceText": "The elephant called out next. He raised his trunk and trumpeted, \"Sun, sun, please come back,\" but the sun did not listen to him.",
+        "zh": "大象接着举起鼻子，请太阳回来，可太阳仍不理会。",
+        "tip": "用手臂轻轻演一演象鼻。",
+        "alt": "大象接着举起鼻子，请太阳回来，可太阳仍不理会。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0167/08.jpg",
+        "sourceImageSha256": "f5cb2df64e4acc7f2f5fb1a9c39a53bef51e2af4bd70d2f51fb45ce0e11fbfc3",
+        "imageWidth": 418,
+        "imageHeight": 336
+      },
+      {
+        "en": "The beautiful peacock danced and pleaded, \"Sun, sun, please come back,\" but the sun refused to come out. One after the other, all the animals called out to the sun, but he did not listen to any of them. Finally, a rooster offered to call the sun. Everybody laughed. The lion was a fair leader. He said, \"The rooster should be allowed to try.\"",
+        "sourceText": "The beautiful peacock danced and pleaded, \"Sun, sun, please come back,\" but the sun refused to come out. One after the other, all the animals called out to the sun, but he did not listen to any of them. Finally, a rooster offered to call the sun. Everybody laughed. The lion was a fair leader. He said, \"The rooster should be allowed to try.\"",
+        "zh": "孔雀跳舞恳求，太阳还是不出来。动物们一个个试过，都没成功。最后公鸡说想试，大家笑了，公平的狮子却让它试一试。",
+        "tip": "说说每个人都可以有尝试的机会。",
+        "alt": "孔雀跳舞恳求，太阳还是不出来。动物们一个个试过，都没成功。最后公鸡说想试，大家笑了，公平的狮子却让它试一试。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0167/09.jpg",
+        "sourceImageSha256": "bc65242449bc48ff825503d19ef3b0e8dea3e42b3059b57894065153e53428b1",
+        "imageWidth": 418,
+        "imageHeight": 336
+      },
+      {
+        "en": "The rooster stepped forward and gently crowed, \"Kookoodokoo koo.\" To everyone's surprise, the sun peeped out a little from behind the hill.",
+        "sourceText": "The rooster stepped forward and gently crowed, \"Kookoodokoo koo.\" To everyone's surprise, the sun peeped out a little from behind the hill.",
+        "zh": "公鸡走上前，轻轻啼叫。让大家惊讶的是，太阳从山后露出了一点点。",
+        "tip": "用手指露出一点，演一演太阳。",
+        "alt": "公鸡走上前，轻轻啼叫。让大家惊讶的是，太阳从山后露出了一点点。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0167/10.jpg",
+        "sourceImageSha256": "97e4e1931a6d4924092d6eb3ef40db929d08759f4b4659439bceb2b195b4af8a",
+        "imageWidth": 417,
+        "imageHeight": 336
+      },
+      {
+        "en": "The rooster crowed again, this time a little boldly, \"KookoodoKOO-KOO...\" The sun came up a little higher. The rooster crowed for the third time. This time it was louder and bolder, \"KOOKOODOKOO-KOO...\" and the sun rose high and bright. There was light everywhere. The animals were delighted and the humans felt relieved.",
+        "sourceText": "The rooster crowed again, this time a little boldly, \"KookoodoKOO-KOO...\" The sun came up a little higher. The rooster crowed for the third time. This time it was louder and bolder, \"KOOKOODOKOO-KOO...\" and the sun rose high and bright. There was light everywhere. The animals were delighted and the humans felt relieved.",
+        "zh": "公鸡又叫，声音更坚定，太阳升高一点。第三次啼叫更响亮，太阳终于明亮地升上天空，动物们开心，人们也松了口气。",
+        "tip": "用手掌从低到高演一演太阳升起。",
+        "alt": "公鸡又叫，声音更坚定，太阳升高一点。第三次啼叫更响亮，太阳终于明亮地升上天空，动物们开心，人们也松了口气。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0167/11.jpg",
+        "sourceImageSha256": "fedead2560585d47a4ade5fdbab2e01dcf00b6fe97bbfbcd53f6180d73cf193b",
+        "imageWidth": 418,
+        "imageHeight": 336
+      },
+      {
+        "en": "The animals asked the human beings not to kill the sun and they agreed. Ever since that day, when the rooster crows in the morning, the sun rises and shines in the sky.",
+        "sourceText": "The animals asked the human beings not to kill the sun and they agreed. Ever since that day, when the rooster crows in the morning, the sun rises and shines in the sky.",
+        "zh": "动物们请人们不要再射太阳，人们答应了。从那以后，每当清晨公鸡啼叫，太阳就升起，照耀天空。",
+        "tip": "说清这是神话的解释，现实里是地球自转让我们迎来白天。",
+        "alt": "动物们请人们不要再射太阳，人们答应了。从那以后，每当清晨公鸡啼叫，太阳就升起，照耀天空。",
+        "sourceImage": "https://raw.githubusercontent.com/global-asp/asp-imagebank/a56e6dbe7aeeb8ea3e53d9941664416e2e7356ad/medium/0167/12.jpg",
+        "sourceImageSha256": "3dde2220bbaeae73074f62a1a1a5bcc55560e7134f44d84cb527d8ba4e4d41c6",
+        "imageWidth": 418,
+        "imageHeight": 336
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "sun",
+        "meaning": "太阳",
+        "pageIndex": 5
+      },
+      {
+        "id": "word-1",
+        "word": "rooster",
+        "meaning": "公鸡",
+        "pageIndex": 7
+      },
+      {
+        "id": "word-2",
+        "word": "morning",
+        "meaning": "早晨",
+        "pageIndex": 10
+      }
+    ],
+    "activity": {
+      "title": "画一张早晨的天空",
+      "text": "画画自己见过的早晨。大人说明这是传统神话，太阳升起并不是因为公鸡叫。",
+      "hint": "想玩就试试；指图、用中文说或只听故事都可以。"
+    },
+    "narration": {
+      "kind": "ai",
+      "provider": "Volcengine",
+      "model": "seed-tts-2.0",
+      "voice": "Knightley",
+      "voiceId": "en_male_knightley_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5,
+      "pitchRate": 0,
+      "voiceType": "preset",
+      "auditionRunId": 39355874472
+    }
+  }
+]

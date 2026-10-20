@@ -11,8 +11,8 @@
   },
   "profiles": [
     {"id":"charlie-us", "name":"Charlie 2.0", "speaker":"ICL_uranus_en_female_charlie_tob", "locale":"en-US", "accentLabel":"美式英语", "status":"existing-user-approved", "speechRate":-5},
-    {"id":"rowan-us", "name":"Rowan", "speaker":"en_male_adam-imitation_uranus_bigtts", "locale":"en-US", "accentLabel":"美式英语", "status":"shortlisted-awaiting-audition", "officialUseCases":["通用场景","有声阅读"]},
-    {"id":"charlotte-gb", "name":"Charlotte", "speaker":"en_female_authoritative-british_uranus_bigtts", "locale":"en-GB", "accentLabel":"英式英语", "status":"shortlisted-awaiting-audition", "officialUseCases":["教学场景","视频配音"]},
-    {"id":"knightley-gb", "name":"Knightley", "speaker":"en_male_knightley_uranus_bigtts", "locale":"en-GB", "accentLabel":"英式英语", "status":"shortlisted-awaiting-audition", "officialUseCases":["有声阅读"]}
+    {"id":"rowan-us", "name":"Rowan", "speaker":"en_male_adam-imitation_uranus_bigtts", "locale":"en-US", "accentLabel":"美式英语", "status":"audition-generated-and-audio-validated", "officialUseCases":["通用场景","有声阅读"]},
+    {"id":"charlotte-gb", "name":"Charlotte", "speaker":"en_female_authoritative-british_uranus_bigtts", "locale":"en-GB", "accentLabel":"英式英语", "status":"audition-generated-and-audio-validated", "officialUseCases":["教学场景","视频配音"]},
+    {"id":"knightley-gb", "name":"Knightley", "speaker":"en_male_knightley_uranus_bigtts", "locale":"en-GB", "accentLabel":"英式英语", "status":"audition-generated-and-audio-validated", "officialUseCases":["有声阅读"]}
   ]
 }

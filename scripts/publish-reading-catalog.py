@@ -36,7 +36,8 @@ def main():
     if head != os.environ['GITHUB_SHA']:
         raise ValueError('Main changed during production; review the saved audio before deploying')
     current = api('/contents/public/books/catalog.js?ref=main')
-    source = base64.b64decode(current['content'])
+    blob = current if current.get('content') else api('/git/blobs/' + current['sha'])
+    source = base64.b64decode(blob['content'])
     if hashlib.sha256(source).hexdigest() != ledger['sourceCatalogueSha256']:
         raise ValueError('Remote source catalogue changed')
     generated = (ROOT / '.reading-audio' / args.batch / 'catalog.generated.js').read_bytes()
