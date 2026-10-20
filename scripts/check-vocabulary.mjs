@@ -87,6 +87,7 @@ const state=JSON.parse(browse.window.localStorage.getItem('jigu-reading-library-
 const flow=app(),audio=[];flow.window.Audio=class{play(){audio.push(this);return Promise.resolve()}pause(){this.paused=true}};
 flow.window.scrollTo=(x,y)=>{flow.window.scrollY=y};click(flow,'[data-go="shelf"]');flow.window.scrollTo(0,600);click(flow,'[data-book="0087"]');click(flow,'[data-go="reader"]');click(flow,'[data-action="listen"]');
 function readingTouch(type,points,changed=points){const e=new flow.window.Event(type,{bubbles:true});Object.defineProperties(e,{touches:{value:points},changedTouches:{value:changed}});flow.window.document.querySelector('.textPanel').dispatchEvent(e)}
+readingTouch('touchstart',[{clientX:100,clientY:200}]);readingTouch('touchend',[],[{clientX:200,clientY:200}]);assert.equal(audio.length,1);assert.ok(!audio[0].paused,'swiping past the first page keeps listening');
 flow.window.scrollTo(0,250);readingTouch('touchstart',[{clientX:200,clientY:200}]);readingTouch('touchend',[],[{clientX:100,clientY:200}]);assert.match(flow.window.document.querySelector('.readerHeader').textContent,/2\/8/);assert.equal(audio.length,2);assert.ok(audio[0].paused);assert.equal(flow.window.scrollY,0);
 click(flow,'[data-action="prev"]');assert.equal(audio.length,3);assert.match(flow.window.document.querySelector('.readerHeader').textContent,/1\/8/);
 click(flow,'[data-go="shelf"]');assert.equal(flow.window.scrollY,600,'shelf return restores browsing position');

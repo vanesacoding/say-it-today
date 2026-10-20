@@ -54,6 +54,6 @@ try{
   assert.ok(longRows.every(r=>r.nowrap==='nowrap'&&r.scroll<=r.width+1),JSON.stringify({width,longRows}));
   await page.close();
  }
- for(const width of [320,390,430,1024]){const rows=fitResults.filter(r=>r.width===width),fits=rows.filter(r=>r.fits).length;console.log(`COMPANION FIT ${width}: ${fits}/${rows.length}`);if(width===390||width===430)assert.ok(fits/rows.length>=0.9,JSON.stringify(rows.filter(r=>!r.fits)));}
+ for(const width of [320,390,430,1024]){const rows=fitResults.filter(r=>r.width===width),fits=rows.filter(r=>r.fits).length;console.log(`COMPANION FIT ${width}: ${fits}/${rows.length}`);if(width!==320)assert.ok(fits/rows.length>=0.9,JSON.stringify(rows.filter(r=>!r.fits)));}
  assert.equal(frames,420);console.log('PASS Let’s Read browser layout: all 105 pages × 4 viewports, complete uncropped art, exact English, no horizontal overflow and fixed page controls');
 }finally{await browser.close()}
