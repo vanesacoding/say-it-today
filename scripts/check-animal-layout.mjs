@@ -2,7 +2,7 @@ import {chromium} from 'playwright';
 import {readFileSync,mkdirSync} from 'node:fs';
 import assert from 'node:assert/strict';
 const books=JSON.parse(readFileSync('scripts/library-release-books-animals.json'));
-const inject=readFileSync('public/books/catalog.js','utf8')+'\n'+JSON.stringify(books)+'.forEach(b=>{if(!window.JIGU_BOOKS.some(o=>o.id===b.id))window.JIGU_BOOKS.push(b)});';
+const inject=readFileSync('public/books/catalog.js','utf8')+'\nwindow.JIGU_BOOKS='+JSON.stringify(books)+'.concat(window.JIGU_BOOKS.filter(b=>!'+JSON.stringify(books.map(b=>b.id))+'.includes(b.id)));';
 const browser=await chromium.launch();mkdirSync('layout-proof',{recursive:true});
 try{
  for(const [width,height] of [[320,568],[390,844],[430,932],[1024,768]]){

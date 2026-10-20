@@ -8,6 +8,9 @@ books={b['id']:b for b in json.loads((root/'scripts/library-release-books-phone.
 for b in json.loads((root/'scripts/library-release-books-letsread.json').read_text()):books[b['id']]=b
 for shard in manifest['shards']:
  for b in json.loads((root/'scripts'/shard['file']).read_text()):books[b['id']]=b
+catalogue=json.loads((root/'public/books/catalog.js').read_text().removeprefix('window.JIGU_BOOKS = ').strip().removesuffix(';'))
+for b in catalogue:
+ if b['id'] in ['0087','0001']:books[b['id']]=b
 jobs={}
 for book in books.values():
  jobs.setdefault(book['sourceCover'],[]).append((root/'dist/books/library'/book['id']/'cover.jpg',book['sourceCoverSha256']))
