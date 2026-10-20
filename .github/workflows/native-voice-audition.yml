@@ -1,0 +1,28 @@
+name: Native English narrator samples
+on:
+  push:
+    branches: [main]
+    paths: [scripts/native-voice-audition-request.json]
+permissions:
+  contents: read
+concurrency:
+  group: native-english-samples
+  cancel-in-progress: false
+jobs:
+  audition:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get update -qq && sudo apt-get install -y ffmpeg
+      - name: Generate one sample for each selected native English voice
+        env:
+          DOUBAO_SPEECH_API_KEY: ${{ secrets.DOUBAO_SPEECH_API_KEY }}
+        run: python3 scripts/native-voice-audition.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: jigu-native-voice-samples
+          path: .reading-audio/native-voices/
+          include-hidden-files: true
+          retention-days: 90
