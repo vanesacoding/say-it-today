@@ -32,7 +32,7 @@ window.JIGU_CURATION = {
     "0130",
     "0344"
   ],
-  "expectedActiveBooks": 73,
+  "expectedActiveBooks": 83,
   "reason": "2026-10-20 editorial withdrawal by explicit title; additional review uses story and illustration content, not ethnicity.",
   "withdrawnArchivedIds": [
     "how-about-you"

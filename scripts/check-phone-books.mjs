@@ -1,9 +1,8 @@
 import {readFileSync} from 'node:fs';
 import {strict as assert} from 'node:assert';
 import {JSDOM} from 'jsdom';
-const html=readFileSync('index.html','utf8'),request=JSON.parse(readFileSync('scripts/library-release-request.json'));
-const manifest=JSON.parse(readFileSync('scripts/library-release-candidate.json'));
-const additions=manifest.shards.flatMap(s=>JSON.parse(readFileSync('scripts/'+s.file)));
+const html=readFileSync('index.html','utf8');
+const additions=JSON.parse(readFileSync('scripts/library-release-books-phone.json'));
 const dom=new JSDOM(html,{url:'https://jigu.local/',runScripts:'outside-only'}),w=dom.window;w.scrollTo=()=>{};
 w.eval(readFileSync('public/books/curation.js','utf8'));w.eval(readFileSync('public/books/catalog.js','utf8'));
 for(const b of additions)if(!w.JIGU_BOOKS.some(old=>old.id===b.id))w.JIGU_BOOKS.push(b);

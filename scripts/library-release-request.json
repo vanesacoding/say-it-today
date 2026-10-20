@@ -1,14 +1,22 @@
 {
-  "id": "bookdash-two-phone-books-20261020",
-  "candidateSha256": "cad2d9c3ac703b646106ce29e95d0a6f7645c14e2b6014cd456c5c7228a1c4d6",
-  "sourceCatalogueSha256": "db69cd2c223086cc684988692b60392fbd0ce1c48f2bb8e012d7c5ebae805e3f",
-  "curationSha256": "509d618d932cadc8fa7a87df855278e074d3064c52c6095460bb9435ed6eb742",
+  "id": "letsread-ten-20261020",
+  "candidateSha256": "9852aced6924ac0f39d03d315b026e5ebed5012acd477d08abe1ea5128b4daec",
+  "sourceCatalogueSha256": "02990648e47708fdaa42f79c4db73b8e4d80a77adb3eb50360f0a1c27302e893",
+  "curationSha256": "6148ffd5494821111b5111a4813b2797f43645ae9fd4ef4e1ac0aec5d9d0b588",
   "sourceActiveBooks": 73,
-  "targetActiveBooks": 75,
-  "expectedNewBooks": 2,
+  "targetActiveBooks": 83,
+  "expectedNewBooks": 10,
   "newBookIds": [
-    "little-goat",
-    "can-we-eat-a-rainbow"
+    "lr-our-family",
+    "lr-shopping-time",
+    "lr-simple-counting",
+    "lr-see-clearly",
+    "lr-daddy-doing",
+    "lr-corn-is-yummy",
+    "lr-hide-it",
+    "lr-shy-noy",
+    "lr-seven-days",
+    "lr-occupations"
   ],
   "allowExistingChanges": false
 }
