@@ -1,0 +1,415 @@
+[
+  {
+    "id": "how-do-you-sleep",
+    "title": "How do you sleep?",
+    "zh": "动物怎样睡觉",
+    "stageId": "S2",
+    "primaryTheme": "nature",
+    "themeIds": [
+      "nature"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://bookdash.org/wp-content/uploads/2022/05/how-do-you-sleep_en_20220520_cover-2.jpg",
+    "sourceCoverSha256": "0b503a777049df404c1c6a61bfc12c8ab65c66c1ffeb2e91073c52d6b38c7236",
+    "source": {
+      "name": "Book Dash",
+      "url": "https://bookdash.org/books/how-do-you-sleep/",
+      "publisherUrl": "https://bookdash.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://bookdash.org/re-using-the-book-dash-content/",
+      "creators": [
+        "文字：Diane Awerbuck",
+        "插画：Alex Latimer",
+        "设计：Georgia Demertzis"
+      ],
+      "format": "bookdash-science-spreads-v1",
+      "editorialNote": "保留原版全部故事跨页、英文与原始插画；只合并排版换行，环形拟声词按顺时针阅读。无字页不添加英文。中文释义、陪读提示、关键词和AI配音由叽咕新增。原图以完整跨页适屏显示，不裁掉动物。"
+    },
+    "narration": {
+      "kind": "ai",
+      "voice": "Charlotte",
+      "voiceId": "en_female_authoritative-british_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5
+    },
+    "pages": [
+      {
+        "en": "",
+        "sourceText": "",
+        "zh": "普拉望着窗外，想知道动物怎样睡觉。",
+        "alt": "普拉望着窗外，想知道动物怎样睡觉。",
+        "tip": "先一起看看夜晚的窗外，不必读英文。",
+        "sourcePageNumber": 4,
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2022/05/how-do-you-sleep_en_20220520_page4-scaled.jpg",
+        "sourceImageSha256": "b0351566a057e162dce78315c5fd5a20a7716c07acc942a4108e80c009796bc1",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "en": "How do you sleep, bird? I fly in my sleep.",
+        "sourceText": "How do you sleep, bird? I fly in my sleep.",
+        "zh": "鸟儿，你怎样睡觉？我飞着睡觉。",
+        "alt": "鸟儿，你怎样睡觉？我飞着睡觉。",
+        "tip": "指一指飞翔的鸟。有些鸟能在飞行中短暂睡眠，不是所有鸟都这样。",
+        "sourcePageNumber": 5,
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2022/05/how-do-you-sleep_en_20220520_page5-scaled.jpg",
+        "sourceImageSha256": "a096056bbc93e80c4784a6bab00d8ba272e95fb959b7bfdbfc03dab692dff5c5",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "en": "How do you sleep, bat? I sleep upside down.",
+        "sourceText": "How do you sleep, bat? I sleep upside down.",
+        "zh": "蝙蝠，你怎样睡觉？我倒挂着睡觉。",
+        "alt": "蝙蝠，你怎样睡觉？我倒挂着睡觉。",
+        "tip": "指着蝙蝠，手指朝下比一比 upside down，不让孩子倒挂。",
+        "sourcePageNumber": 6,
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2022/05/how-do-you-sleep_en_20220520_page6-scaled.jpg",
+        "sourceImageSha256": "248f29259ed6a29dab2ae9ef6728c0253d28198859280f2cd407fbcbf80c5e98",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "en": "How do you sleep, bullfrog? I rest on my side.",
+        "sourceText": "How do you sleep, bullfrog? I rest on my side.",
+        "zh": "牛蛙，你怎样睡觉？我侧着身子休息。",
+        "alt": "牛蛙，你怎样睡觉？我侧着身子休息。",
+        "tip": "找找牛蛙身体靠着哪一边，认识 side 就好。",
+        "sourcePageNumber": 7,
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2022/05/how-do-you-sleep_en_20220520_page7-scaled.jpg",
+        "sourceImageSha256": "691fa5abf8da6f2d51a128e09037ef36f5a0c1d45cfdcd07d6a40555aedcceeb",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "en": "How do you sleep, octopus? I change colour in my dreams.",
+        "sourceText": "How do you sleep, octopus? I change colour in my dreams.",
+        "zh": "章鱼，你怎样睡觉？我在梦中变换颜色。",
+        "alt": "章鱼，你怎样睡觉？我在梦中变换颜色。",
+        "tip": "找找章鱼身上的颜色；“梦中变色”是绘本的拟人说法，不把它当作已证实的梦境。",
+        "sourcePageNumber": 8,
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2022/05/how-do-you-sleep_en_20220520_page8-scaled.jpg",
+        "sourceImageSha256": "98495731d319d3dc297f29a52dc65685c03a26f498dde86b80a5c3406b1beb0f",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "en": "How do you sleep, duck? We take turns to guard each other.",
+        "sourceText": "How do you sleep, duck? We take turns to guard each other.",
+        "zh": "鸭子，你们怎样睡觉？我们轮流守护彼此。",
+        "alt": "鸭子，你们怎样睡觉？我们轮流守护彼此。",
+        "tip": "找找图中睁眼和闭眼的鸭子，感受 take turns（轮流）。",
+        "sourcePageNumber": 9,
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2022/05/how-do-you-sleep_en_20220520_page9-scaled.jpg",
+        "sourceImageSha256": "eeaca8e8cbf727a4e9daf6b1fcbc71f213ed7d5ded02fc73bdbd04fe296aec0b",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "en": "How do you sleep, baby owl? I sleep on my face.",
+        "sourceText": "How do you sleep, baby owl? I sleep on my face.",
+        "zh": "小猫头鹰，你怎样睡觉？我脸朝下睡。",
+        "alt": "小猫头鹰，你怎样睡觉？我脸朝下睡。",
+        "tip": "指图认一认小猫头鹰的姿势，观察就好，不模仿趴睡。",
+        "sourcePageNumber": 10,
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2022/05/how-do-you-sleep_en_20220520_page10-scaled.jpg",
+        "sourceImageSha256": "0043472ddc8afc0eadc22149394e8d834d5c9b12ec4e910e30e26e5d75aa5e4e",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "en": "How do you sleep, otter? We sleep holding hands.",
+        "sourceText": "How do you sleep, otter? We sleep holding hands.",
+        "zh": "水獭，你们怎样睡觉？我们拉着手睡。",
+        "alt": "水獭，你们怎样睡觉？我们拉着手睡。",
+        "tip": "看看两只水獭的爪子。部分海獭休息时会牵爪，不是所有水獭都这样。",
+        "sourcePageNumber": 11,
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2022/05/how-do-you-sleep_en_20220520_page11-scaled.jpg",
+        "sourceImageSha256": "50f794a571435eee22e0e9139dc14cc45f5118af3f15cf276733a88ea6779458",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "en": "How do you sleep, walrus? I sleep on the land and under the water.",
+        "sourceText": "How do you sleep, walrus? I sleep on the land and under the water.",
+        "zh": "海象，你怎样睡觉？我在陆地上，也在水下睡。",
+        "alt": "海象，你怎样睡觉？我在陆地上，也在水下睡。",
+        "tip": "在画面中分别找 land 和 water，不需要记住长句。",
+        "sourcePageNumber": 12,
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2022/05/how-do-you-sleep_en_20220520_page12-scaled.jpg",
+        "sourceImageSha256": "5c0d5de4a2323a0366a215f0a08e9b59d510afe4c72055bdf1bc0fbed3c82d13",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "en": "How do you sleep, giraffe? We sleep on each other.",
+        "sourceText": "How do you sleep, giraffe? We sleep on each other.",
+        "zh": "长颈鹿，你们怎样睡觉？我们靠着彼此睡。",
+        "alt": "长颈鹿，你们怎样睡觉？我们靠着彼此睡。",
+        "tip": "看看长长的脖子怎样靠在一起；这是图中这一群的姿势，不代表每只都这样。",
+        "sourcePageNumber": 13,
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2022/05/how-do-you-sleep_en_20220520_page13-scaled.jpg",
+        "sourceImageSha256": "0d8f3e0c3916df1209e25f6b9b1f59c120c5a73599b505ad7f7a0d6053e45ec1",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "en": "How do you sleep, meerkat? We sleep in a heap.",
+        "sourceText": "How do you sleep, meerkat? We sleep in a heap.",
+        "zh": "狐獴，你们怎样睡觉？我们挤在一堆睡。",
+        "alt": "狐獴，你们怎样睡觉？我们挤在一堆睡。",
+        "tip": "数数挤在一起的小动物，heap 就是一堆。",
+        "sourcePageNumber": 14,
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2022/05/how-do-you-sleep_en_20220520_page14-scaled.jpg",
+        "sourceImageSha256": "72655c5e62a21c3662fbb32289a855cafc2a5ebcafdd0f8c57048650b0e41a40",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "en": "How do you sleep, Pula? Goodnight! Sleep tight!",
+        "sourceText": "How do you sleep, Pula? Goodnight! Sleep tight!",
+        "zh": "普拉，你怎样睡觉？晚安！睡个好觉！",
+        "alt": "普拉，你怎样睡觉？晚安！睡个好觉！",
+        "tip": "睡前轻轻说 Goodnight! 就完成今天的共读。",
+        "sourcePageNumber": 15,
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2022/05/how-do-you-sleep_en_20220520_page15-scaled.jpg",
+        "sourceImageSha256": "4c82a05fff91ceab15ca1adc8a4b3225a3341064b8845e1bd42ae33eb471d6af",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "sleep",
+        "meaning": "睡觉",
+        "pageIndex": 1
+      },
+      {
+        "id": "word-1",
+        "word": "duck",
+        "meaning": "鸭子",
+        "pageIndex": 5
+      },
+      {
+        "id": "word-2",
+        "word": "hands",
+        "meaning": "手",
+        "pageIndex": 7
+      }
+    ],
+    "activity": {
+      "title": "读完去发现",
+      "text": "找一找家里或公园里能看到的动物，说说它怎样休息。只观察，不打扰。"
+    }
+  },
+  {
+    "id": "how-do-you-eat",
+    "title": "How do you eat?",
+    "zh": "动物怎样吃东西",
+    "stageId": "S3",
+    "primaryTheme": "nature",
+    "themeIds": [
+      "nature"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://bookdash.org/wp-content/uploads/2025/10/how-do-you-eat_en_cover-1.jpg",
+    "sourceCoverSha256": "37a0c03f3f01984bb9a5153801d0bb93c4472fe22be796ffeceb66ada250a6dd",
+    "source": {
+      "name": "Book Dash",
+      "url": "https://bookdash.org/books/how-do-you-eat/",
+      "publisherUrl": "https://bookdash.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://bookdash.org/re-using-the-book-dash-content/",
+      "creators": [
+        "文字：Diane Awerbuck",
+        "插画：Alex Latimer",
+        "设计：Georgia Demertzis",
+        "编辑：Katie Huston"
+      ],
+      "format": "bookdash-science-spreads-v1",
+      "editorialNote": "保留原版全部故事跨页、英文与原始插画；只合并排版换行，环形拟声词按顺时针阅读。无字页不添加英文。中文释义、陪读提示、关键词和AI配音由叽咕新增。原图以完整跨页适屏显示，不裁掉动物。"
+    },
+    "narration": {
+      "kind": "ai",
+      "voice": "Rowan",
+      "voiceId": "en_male_adam-imitation_uranus_bigtts",
+      "locale": "en-US",
+      "accentLabel": "美式英语",
+      "speechRate": -5
+    },
+    "pages": [
+      {
+        "en": "Miri likes to crunch her toast.",
+        "sourceText": "Miri likes to crunch her toast.",
+        "zh": "米莉喜欢把吐司嚼得咔嚓响。",
+        "alt": "米莉喜欢把吐司嚼得咔嚓响。",
+        "tip": "一起找吐司，轻轻模仿 crunch 的声音。",
+        "sourcePageNumber": 4,
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2025/10/how-do-you-eat_en_page4-scaled.jpg",
+        "sourceImageSha256": "cf91fd882de5ef21cf11ed690d6fc85739ddf5149e47ca2c393314895d996df6",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "en": "How do you eat, flamingo? I eat upside down! I trap shrimp in my beak.",
+        "sourceText": "How do you eat, flamingo? I eat upside down! I trap shrimp in my beak.",
+        "zh": "火烈鸟，你怎样吃东西？我把头倒过来！我用喙捕捉小虾。",
+        "alt": "火烈鸟，你怎样吃东西？我把头倒过来！我用喙捕捉小虾。",
+        "tip": "指着火烈鸟朝下的喙，认识 beak，不要求读出动物的长名字。",
+        "sourcePageNumber": 5,
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2025/10/how-do-you-eat_en_page5-scaled.jpg",
+        "sourceImageSha256": "8fc98bed79a3b23be90a9b378671e27739bde4c6e02d0ad3124122426d28e351",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "en": "How do you eat, dung beetle? I roll dung into a ball. I chew the wet bits and my babies munch the grass.",
+        "sourceText": "How do you eat, dung beetle? I roll dung into a ball. I chew the wet bits and my babies munch the grass.",
+        "zh": "蜣螂，你怎样吃东西？我把粪便滚成球。我嚼湿润的部分，我的宝宝大口吃其中的草。",
+        "alt": "蜣螂，你怎样吃东西？我把粪便滚成球。我嚼湿润的部分，我的宝宝大口吃其中的草。",
+        "tip": "在图里找圆球，做一个 roll（滚动）的手势。",
+        "sourcePageNumber": 6,
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2025/10/how-do-you-eat_en_page6-scaled.jpg",
+        "sourceImageSha256": "f927519798e8e201133f6eb827f06401e203ca5dd4ba1fed9168fca1be580710",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "en": "How do you eat, pangolin? I lick up ants with my long, sticky tongue.",
+        "sourceText": "How do you eat, pangolin? I lick up ants with my long, sticky tongue.",
+        "zh": "穿山甲，你怎样吃东西？我用又长又黏的舌头舔蚂蚁。",
+        "alt": "穿山甲，你怎样吃东西？我用又长又黏的舌头舔蚂蚁。",
+        "tip": "顺着画面找到长舌头，指一指 tongue。",
+        "sourcePageNumber": 7,
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2025/10/how-do-you-eat_en_page7-scaled.jpg",
+        "sourceImageSha256": "10182f6e9a9fad8a24ab960f4366b4849de992dcab8132975b980743a02bf7e3",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "en": "How do you eat, earthworm? I don’t have teeth. I swallow soil!",
+        "sourceText": "How do you eat, earthworm? I don’t have teeth. I swallow soil!",
+        "zh": "蚯蚓，你怎样吃东西？我没有牙齿。我把土吞下去！",
+        "alt": "蚯蚓，你怎样吃东西？我没有牙齿。我把土吞下去！",
+        "tip": "指图认识 soil（土壤）；动物的食物不能照着尝。",
+        "sourcePageNumber": 8,
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2025/10/how-do-you-eat_en_page8-scaled.jpg",
+        "sourceImageSha256": "01225f6f446af86b2174e91102c6b86f0ad59271ccc4c3fd579e81b6d02e1e1e",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "en": "How do you eat, tickbird? I ride on animals and snack on their ticks and earwax.",
+        "sourceText": "How do you eat, tickbird? I ride on animals and snack on their ticks and earwax.",
+        "zh": "牛椋鸟，你怎样吃东西？我站在动物身上，吃它们身上的蜱虫和耳垢。",
+        "alt": "牛椋鸟，你怎样吃东西？我站在动物身上，吃它们身上的蜱虫和耳垢。",
+        "tip": "在大动物身上找小鸟，看看它站在哪里。",
+        "sourcePageNumber": 9,
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2025/10/how-do-you-eat_en_page9-scaled.jpg",
+        "sourceImageSha256": "b627a5c496890ae512af0c76ef3738f0198175c01060befe7fddd05ccc8a7272",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "en": "How do you eat, whale? I sing to find my supper. The sound bounces off the fish!",
+        "sourceText": "How do you eat, whale? I sing to find my supper. The sound bounces off the fish!",
+        "zh": "鲸，你怎样吃东西？我发出声音寻找晚餐，声音从鱼身上反射回来！",
+        "alt": "鲸，你怎样吃东西？我发出声音寻找晚餐，声音从鱼身上反射回来！",
+        "tip": "“唱歌”是绘本的形象说法；部分齿鲸用回声定位，并非所有鲸都这样。",
+        "sourcePageNumber": 10,
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2025/10/how-do-you-eat_en_page10-scaled.jpg",
+        "sourceImageSha256": "9699b00ecd394a1287457775dc7d82f4de34f939fb1e2ff81f1374bc00b1f643",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "en": "How do you eat, tortoise? I munch prickly pears with my hard mouth.",
+        "sourceText": "How do you eat, tortoise? I munch prickly pears with my hard mouth.",
+        "zh": "陆龟，你怎样吃东西？我用坚硬的嘴吃仙人掌果。",
+        "alt": "陆龟，你怎样吃东西？我用坚硬的嘴吃仙人掌果。",
+        "tip": "找找陆龟的嘴和红色的果实，不模仿采摘带刺植物。",
+        "sourcePageNumber": 11,
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2025/10/how-do-you-eat_en_page11-scaled.jpg",
+        "sourceImageSha256": "4008e02ea067e75c547402dd5b78e5bb8c3cb9ace64cfb6d9f71169bbd49164c",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "en": "How do you eat, secretary bird? I stomp on snakes. I slurp them up!",
+        "sourceText": "How do you eat, secretary bird? I stomp on snakes. I slurp them up!",
+        "zh": "蛇鹫，你怎样吃东西？我用力踩蛇，再把它们吞下去！",
+        "alt": "蛇鹫，你怎样吃东西？我用力踩蛇，再把它们吞下去！",
+        "tip": "看看蛇鹫的长腿，认识动物的进食方式，不模仿捕猎。",
+        "sourcePageNumber": 12,
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2025/10/how-do-you-eat_en_page12-scaled.jpg",
+        "sourceImageSha256": "8b8167221db3982f8f4ddae190dfe73dd002bd97e4f4e2ef480420f7f8e5ae64",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "en": "How do you eat, giraffe? I stretch my neck and grab the highest leaves.",
+        "sourceText": "How do you eat, giraffe? I stretch my neck and grab the highest leaves.",
+        "zh": "长颈鹿，你怎样吃东西？我伸长脖子，够到最高处的叶子。",
+        "alt": "长颈鹿，你怎样吃东西？我伸长脖子，够到最高处的叶子。",
+        "tip": "指着高处的叶子，轻轻伸伸脖子，说 leaves。",
+        "sourcePageNumber": 13,
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2025/10/how-do-you-eat_en_page13-scaled.jpg",
+        "sourceImageSha256": "ff79366ad706f4dff282372f970127506b2a7701ff9457ca2421ee9536a3f454",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "en": "How do you eat, ostrich? I swallow little stones to break up my food.",
+        "sourceText": "How do you eat, ostrich? I swallow little stones to break up my food.",
+        "zh": "鸵鸟，你怎样吃东西？我吞下小石子，帮助磨碎食物。",
+        "alt": "鸵鸟，你怎样吃东西？我吞下小石子，帮助磨碎食物。",
+        "tip": "指图认识 stones；石子是鸵鸟帮助消化用的，人不能吞。",
+        "sourcePageNumber": 14,
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2025/10/how-do-you-eat_en_page14-scaled.jpg",
+        "sourceImageSha256": "ee536f283b821f71e05dd05765060a5ffdcc7675b9992f3dbf42815c7faf6c09",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "en": "Miri, what is the best way to eat? Oh, she’s too busy to chat! Nibble! Chew! Munch! Gobble! Slurp! Nibble! Chew! Nibble! Chew! Slurp! BURP! Excuse me!",
+        "sourceText": "Miri, what is the best way to eat? Oh, she’s too busy to chat! Nibble! Chew! Munch! Gobble! Slurp! Nibble! Chew! Nibble! Chew! Slurp! BURP! Excuse me!",
+        "zh": "米莉，怎样吃东西最好呢？哦，她正忙着吃，顾不上聊天！小口咬！嚼一嚼！大口嚼！狼吞虎咽！吸溜！小口咬！嚼一嚼！小口咬！嚼一嚼！吸溜！嗝！不好意思！",
+        "alt": "米莉，怎样吃东西最好呢？哦，她正忙着吃，顾不上聊天！小口咬！嚼一嚼！大口嚼！狼吞虎咽！吸溜！小口咬！嚼一嚼！小口咬！嚼一嚼！吸溜！嗝！不好意思！",
+        "tip": "任选一个吃东西的动作词模仿一下，最后一起说 Excuse me。",
+        "sourcePageNumber": 15,
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2025/10/how-do-you-eat_en_page15-scaled.jpg",
+        "sourceImageSha256": "ebd09975732a9d02e4dc303d2cec52c313acf5ace4f9af3a790e8f5681bd8a9d",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      }
+    ],
+    "keywords": [
+      {
+        "id": "word-0",
+        "word": "beak",
+        "meaning": "喙",
+        "pageIndex": 1
+      },
+      {
+        "id": "word-1",
+        "word": "tongue",
+        "meaning": "舌头",
+        "pageIndex": 3
+      },
+      {
+        "id": "word-2",
+        "word": "leaves",
+        "meaning": "叶子",
+        "pageIndex": 9
+      }
+    ],
+    "activity": {
+      "title": "读完去发现",
+      "text": "看看家里的宠物或窗外的小鸟，用手指认一认它的嘴。只观察，不喂陌生动物。"
+    }
+  }
+]

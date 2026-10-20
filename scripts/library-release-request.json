@@ -1,22 +1,14 @@
 {
-  "id": "letsread-ten-20261020",
-  "candidateSha256": "9852aced6924ac0f39d03d315b026e5ebed5012acd477d08abe1ea5128b4daec",
-  "sourceCatalogueSha256": "02990648e47708fdaa42f79c4db73b8e4d80a77adb3eb50360f0a1c27302e893",
-  "curationSha256": "6148ffd5494821111b5111a4813b2797f43645ae9fd4ef4e1ac0aec5d9d0b588",
-  "sourceActiveBooks": 73,
-  "targetActiveBooks": 83,
-  "expectedNewBooks": 10,
+  "id": "animal-science-two-20261021",
+  "candidateSha256": "d7a28d6a75b1d69890f89c107b6cef736d5ee1702af7a083bdbf44612734166c",
+  "sourceCatalogueSha256": "a01e00ba2f5123255c7ec1d9dc01e66ba7c8fe89269676f300d33b25843f93c4",
+  "curationSha256": "98078f5aebc5557c6200c7a70ce44711a487ce4b3bd1094e2fc8981aab581036",
+  "sourceActiveBooks": 83,
+  "targetActiveBooks": 85,
+  "expectedNewBooks": 2,
   "newBookIds": [
-    "lr-our-family",
-    "lr-shopping-time",
-    "lr-simple-counting",
-    "lr-see-clearly",
-    "lr-daddy-doing",
-    "lr-corn-is-yummy",
-    "lr-hide-it",
-    "lr-shy-noy",
-    "lr-seven-days",
-    "lr-occupations"
+    "how-do-you-sleep",
+    "how-do-you-eat"
   ],
   "allowExistingChanges": false
 }
