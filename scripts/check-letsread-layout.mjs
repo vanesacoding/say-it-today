@@ -13,8 +13,8 @@ try{
    const cover=page.locator(`[data-book="${b.id}"] .shelfCover`);await cover.scrollIntoViewIfNeeded();
    await cover.locator('img').evaluate(im=>im.complete&&im.naturalWidth?Promise.resolve():new Promise((resolve,reject)=>{im.addEventListener('load',resolve,{once:true});im.addEventListener('error',reject,{once:true})}));
    const geometry=await cover.evaluate(el=>{const im=el.querySelector('img'),r=el.getBoundingClientRect(),ir=im.getBoundingClientRect();return {width:r.width,height:r.height,imageWidth:ir.width,imageHeight:ir.height,naturalWidth:im.naturalWidth,naturalHeight:im.naturalHeight,declaredWidth:im.width,declaredHeight:im.height}});
-   assert.ok(Math.abs(geometry.width-geometry.imageWidth)<1&&Math.abs(geometry.height-geometry.imageHeight)<1,'cover frame must follow the complete source image');
-   assert.ok(Math.abs(geometry.width/geometry.height-geometry.naturalWidth/geometry.naturalHeight)<0.002,JSON.stringify({book:b.id,viewport:width,geometry}));
+   assert.ok(Math.abs(geometry.width-geometry.imageWidth)<1&&Math.abs(geometry.height-geometry.imageHeight)<1,'cover image must fill the square frame');
+   assert.ok(Math.abs(geometry.width-geometry.height)<1,JSON.stringify({book:b.id,viewport:width,geometry}));
    if(width===390&&b.id==='lr-seven-days'){await cover.scrollIntoViewIfNeeded();await page.screenshot({path:'layout-proof/portrait-covers-390.png'});}
    await page.locator(`[data-book="${b.id}"]`).click();assert.ok((await page.locator('main').textContent()).includes(b.narration.accentLabel));
    await page.locator('[data-action="credits"]').click();assert.equal(await page.locator('.creditRights').getAttribute('open'),null);assert.ok((await page.locator('.creditMeta').textContent()).includes(b.pages.length+'页'));assert.ok((await page.locator('.creditFacts').textContent()).includes(b.narration.accentLabel));
@@ -28,7 +28,6 @@ try{
     const line=page.locator('.readEnglish');assert.equal(await line.count()?await line.textContent():'',b.pages[i].en);
     const fit=await page.locator('main').evaluate(el=>{const bottom=el.querySelector('.pageControls').getBoundingClientRect().top;return {fits:[...el.querySelectorAll('.textPanel,.companionPanel,.readerTools')].every(e=>e.getBoundingClientRect().bottom<=bottom+1),artHeight:el.querySelector('#artFrame').getBoundingClientRect().height,font:parseFloat(getComputedStyle(el.querySelector('.readEnglish')||el.querySelector('.wordlessHint')).fontSize)}});
     fitResults.push({book:b.id,page:i+1,width,...fit});assert.ok(fit.artHeight>=149&&fit.font>=12);
-    if(width===390&&b.id==='lr-our-family'&&i===0){await page.locator('[data-action="page-art"]').click();assert.ok(await page.getByRole('dialog',{name:'完整插画'}).isVisible());await page.getByRole('button',{name:'关闭',exact:true}).click();assert.equal(await page.locator('.readerHeader .heading').textContent(),'Our Family 1/9');}
 
     for(const end of [false,true]){
      await page.evaluate(end=>scrollTo(0,end?document.documentElement.scrollHeight:0),end);

@@ -5,6 +5,7 @@ from pathlib import Path
 root=Path(__file__).resolve().parents[1]
 manifest=json.loads((root/'scripts/library-release-candidate.json').read_text())
 books={b['id']:b for b in json.loads((root/'scripts/library-release-books-phone.json').read_text())}
+for b in json.loads((root/'scripts/library-release-books-letsread.json').read_text()):books[b['id']]=b
 for shard in manifest['shards']:
  for b in json.loads((root/'scripts'/shard['file']).read_text()):books[b['id']]=b
 jobs={}

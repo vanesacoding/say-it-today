@@ -10,7 +10,7 @@
     "content:check": "node scripts/check-content-bank.mjs",
     "preview": "vite preview",
     "check": "node scripts/check-content-bank.mjs && node --import tsx scripts/check-srs.ts && node --import tsx scripts/check-db.ts && node --import tsx scripts/check-ui.ts && npm run reading:check && node scripts/check-vocabulary.mjs",
-    "reading:check": "node scripts/check-reading-alpha.mjs && node scripts/check-phone-books.mjs && node scripts/check-letsread.mjs"
+    "reading:check": "node scripts/check-reading-alpha.mjs && node scripts/check-phone-books.mjs && node scripts/check-letsread.mjs && node scripts/check-animal-books.mjs"
   },
   "dependencies": {
     "@phosphor-icons/react": "^2.1.10",

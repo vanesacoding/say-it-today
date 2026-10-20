@@ -6,13 +6,13 @@ const browser=await chromium.launch();
 try{
  for(const [width,height] of [[320,568],[390,844],[430,932],[1024,768]]){
   const page=await browser.newPage({viewport:{width,height},hasTouch:true});
-  await page.addInitScript(()=>localStorage.setItem('jigu-reading-library-v2',JSON.stringify({selectedId:'lr-our-family',records:{'lr-our-family':{opened:true,finished:true,page:8,lastReadAt:1}}})));
+  await page.addInitScript(()=>localStorage.setItem('jigu-reading-library-v2',JSON.stringify({selectedId:'lr-our-family',records:{'lr-our-family':{opened:true,finished:true,page:8,lastReadAt:1},'0087':{opened:true,finished:true,page:7,lastReadAt:2}}})));
   await page.goto('http://127.0.0.1:4173/');
   async function loaded(locator){await locator.evaluate(async im=>{if(!im.complete)await new Promise((resolve,reject)=>{im.addEventListener('load',resolve,{once:true});im.addEventListener('error',reject,{once:true})});if(!im.naturalWidth)throw new Error('Image unavailable');await im.decode();await new Promise(resolve=>requestAnimationFrame(()=>requestAnimationFrame(resolve)))});if(await locator.evaluate(im=>!!im.closest('.artFrame')))await page.waitForFunction(()=>[...document.querySelectorAll('.artFrame')].every(f=>f.classList.contains('loaded')))}
   await loaded(page.locator('.entryImage img'));
   if(width===390){
    await page.screenshot({path:'layout-proof/flow-01-home.png'});await page.locator('[data-go="shelf"]').first().click();
-   for(const id of ['lr-our-family','lr-shopping-time','lr-simple-counting','lr-see-clearly'])await loaded(page.locator(`[data-book="${id}"] img`));
+   for(const id of ['lr-our-family','lr-shopping-time','lr-simple-counting','lr-see-clearly']){const im=page.locator(`[data-book="${id}"] img`);await im.scrollIntoViewIfNeeded();await loaded(im)}await page.evaluate(()=>scrollTo(0,0));
    await page.screenshot({path:'layout-proof/flow-02-shelf.png'});await page.getByLabel('选择共读阶段').click();await page.screenshot({path:'layout-proof/stage-picker-390.png'});await page.getByRole('button',{name:'关闭',exact:true}).click();
   }
   await page.locator('[data-go="mine"]').click();await page.locator('[data-go="vocabulary"]').click();
@@ -54,6 +54,9 @@ try{
   await page.locator('[data-go="shelf"]').first().click();assert.ok(Math.abs((await page.evaluate(()=>scrollY))-originY)<2,'return to the same shelf position');
   await page.locator('[data-book="lr-seven-days"]').click();await page.locator('[data-action="words"]').click();await page.locator('.wordCard').first().click();
   const title=await page.getByRole('dialog').getAttribute('aria-label');await swipe(-100);assert.notEqual(await page.getByRole('dialog').getAttribute('aria-label'),title);await swipe(100);assert.equal(await page.getByRole('dialog').getAttribute('aria-label'),title);
+  await page.getByRole('button',{name:'关闭',exact:true}).click();await page.locator('[data-go="mine"]').click();await page.locator('[data-go="vocabulary"]').click();await page.locator('[data-action="browse-five"]').click();
+  assert.equal(await page.locator('.wordBrowseNav [role="status"]').textContent(),'1 / 5');await swipe(-100);assert.equal(await page.locator('.wordBrowseNav [role="status"]').textContent(),'2 / 5');await swipe(100);assert.equal(await page.locator('.wordBrowseNav [role="status"]').textContent(),'1 / 5');
+  if(width===390)await page.screenshot({path:'layout-proof/browse-five-390.png'});
   await session.detach();await page.close();
  }
  console.log('PASS vocabulary touch browsing: native left/right gestures at four sizes, vertical-scroll isolation, buttons, boundaries and return from source');
