@@ -53,7 +53,7 @@ function makeDom(saved,legacy,onlyBookId){
  return dom;
 }
 function click(d,s){const el=d.window.document.querySelector(s);assert.ok(el,'missing control '+s);el.click()}
-function selectStage(d,value){const select=d.window.document.querySelector('[data-stage-select]');assert.ok(select);select.value=value;select.dispatchEvent(new d.window.Event('change',{bubbles:true}))}
+function selectStage(d,value){click(d,'[data-stage-select]');const option=d.window.document.querySelector('[data-stage-option][value="'+value+'"]');assert.ok(option);option.click();assert.equal(d.window.document.querySelector('.sheetStagePicker'),null,'selecting a stage closes the sheet')}
 function open(d,id){click(d,'[data-go="shelf"]');click(d,'[data-filter-theme="all"]');selectStage(d,'all');click(d,`[data-book="${id}"]`);click(d,'[data-go="reader"]')}
 function heading(d){return d.window.document.querySelector('.readerHeader .heading').textContent}
 const dom=makeDom();click(dom,'[data-go="shelf"]');assert.equal(dom.window.document.querySelectorAll('.shelfCard').length,activeBooks.length);

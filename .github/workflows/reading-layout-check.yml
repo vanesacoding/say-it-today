@@ -1,10 +1,10 @@
 name: Reading navigation layout
 on:
   pull_request:
-    paths: [index.html, public/books/curation.js, scripts/check-vocabulary.mjs, scripts/check-phone-books.mjs, scripts/check-phone-layout.mjs, scripts/library-release-books-phone.json, scripts/library-release-books-letsread.json, scripts/check-letsread.mjs, scripts/check-letsread-layout.mjs, .github/workflows/reading-layout-check.yml]
+    paths: [index.html, public/books/curation.js, scripts/check-vocabulary.mjs, scripts/check-vocabulary-swipe-layout.mjs, scripts/check-phone-books.mjs, scripts/check-phone-layout.mjs, scripts/library-release-books-phone.json, scripts/library-release-books-letsread.json, scripts/check-letsread.mjs, scripts/check-letsread-layout.mjs, .github/workflows/reading-layout-check.yml]
   push:
     branches: [main]
-    paths: [index.html, public/books/curation.js, scripts/check-vocabulary.mjs, scripts/check-phone-books.mjs, scripts/check-phone-layout.mjs, scripts/library-release-books-phone.json, scripts/library-release-books-letsread.json, scripts/check-letsread.mjs, scripts/check-letsread-layout.mjs, .github/workflows/reading-layout-check.yml]
+    paths: [index.html, public/books/curation.js, scripts/check-vocabulary.mjs, scripts/check-vocabulary-swipe-layout.mjs, scripts/check-phone-books.mjs, scripts/check-phone-layout.mjs, scripts/library-release-books-phone.json, scripts/library-release-books-letsread.json, scripts/check-letsread.mjs, scripts/check-letsread-layout.mjs, .github/workflows/reading-layout-check.yml]
 permissions:
   contents: read
 jobs:
@@ -50,11 +50,16 @@ jobs:
                   assert.equal(rail.overflow,'auto');
                   assert.ok(rail.pageWidth<=rail.viewport,'no page-level horizontal overflow');
                   if(width===320)assert.ok(rail.scrollWidth>rail.width,'narrow screens scroll themes');
-                  await page.getByLabel('选择共读阶段').selectOption('S2');
+                  await page.getByLabel('选择共读阶段').click();await page.getByRole('radio',{name:'短句共读',exact:true}).click();
                   await page.getByRole('button',{name:'心情与朋友',exact:true}).click();
-                  assert.equal(await page.getByLabel('选择共读阶段').inputValue(),'S2');
+                  assert.equal(await page.getByLabel('选择共读阶段').getAttribute('value'),'S2');
                   assert.ok(await page.locator('.shelfCard').count()>0);
                   assert.ok((await page.locator('.shelfCard .cardStage').allTextContents()).every(t=>t.startsWith('短句共读')));
+                  await page.getByLabel('选择共读阶段').click();
+                  const picker=await page.locator('.sheetStagePicker').evaluate(el=>({background:getComputedStyle(el).backgroundColor,fonts:[...el.querySelectorAll('.stageOption')].map(e=>parseFloat(getComputedStyle(e).fontSize)),rows:el.querySelectorAll('input[type=radio]').length}));
+                  assert.equal(picker.background,'rgb(250, 247, 241)');assert.equal(picker.rows,4);assert.ok(picker.fonts.every(n=>n<=13));
+                  if(width===390)await page.screenshot({path:'layout-proof/stage-picker-390.png'});
+                  await page.getByRole('button',{name:'关闭',exact:true}).click();
                   await page.getByRole('button',{name:'阶段说明',exact:true}).click();
                   assert.ok(await page.getByRole('dialog',{name:'共读阶段怎么选'}).isVisible());
                   const guide=await page.locator('.sheetStages').evaluate(el=>({width:el.getBoundingClientRect().width,rows:[...el.querySelectorAll('.stageGuideRow')].map(r=>({title:parseFloat(getComputedStyle(r.querySelector('dt')).fontSize),text:parseFloat(getComputedStyle(r.querySelector('dd')).fontSize)}))}));
@@ -63,7 +68,7 @@ jobs:
                   await page.getByRole('button',{name:'关闭',exact:true}).click();
                   await page.reload();
                   await page.locator('.bottomNav [data-go="shelf"]').click();
-                  assert.equal(await page.getByLabel('选择共读阶段').inputValue(),'all');
+                  assert.equal(await page.getByLabel('选择共读阶段').getAttribute('value'),'all');
                   assert.equal(await page.getByRole('button',{name:'全部',exact:true}).getAttribute('aria-pressed'),'true');
                   assert.equal(await page.locator('[data-book="0130"],[data-book="0344"]').count(),0);
                   for(const [topic,label] of [['everyday','日常生活'],['nature','动物与自然'],['discovery','颜色与发现'],['feelings','心情与朋友']]){
@@ -76,7 +81,7 @@ jobs:
                   const chips=await page.locator('.themeFilters button').evaluateAll(buttons=>buttons.map(b=>({touch:b.getBoundingClientRect().height,visual:b.querySelector('span').getBoundingClientRect().height,shadow:getComputedStyle(b).boxShadow})));
                   assert.ok(chips.every(c=>c.touch>=44&&c.visual<36&&c.shadow==='none'));
                   assert.ok(!/原版真人朗读|AI英文配音|设备英语朗读/.test(await page.locator('main').textContent()));
-                  await page.getByLabel('选择共读阶段').selectOption('all');
+                  await page.getByLabel('选择共读阶段').click();await page.getByRole('radio',{name:'全部阶段',exact:true}).click();
                   await page.getByRole('button',{name:'全部',exact:true}).click();
                 }
                 for(const end of [false,true]) {
@@ -107,7 +112,7 @@ jobs:
           JS
 
       - name: Verify complete candidate mobile books
-        run: python3 scripts/prepare-phone-layout.py && node scripts/check-phone-layout.mjs && node scripts/check-letsread-layout.mjs
+        run: python3 scripts/prepare-phone-layout.py && node scripts/check-phone-layout.mjs && node scripts/check-letsread-layout.mjs && node scripts/check-vocabulary-swipe-layout.mjs
       - uses: actions/upload-artifact@v4
         if: always()
         with:
