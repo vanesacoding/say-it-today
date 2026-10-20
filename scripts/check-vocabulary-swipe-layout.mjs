@@ -7,7 +7,15 @@ try{
  for(const [width,height] of [[320,568],[390,844],[430,932],[1024,768]]){
   const page=await browser.newPage({viewport:{width,height},hasTouch:true});
   await page.addInitScript(()=>localStorage.setItem('jigu-reading-library-v2',JSON.stringify({selectedId:'lr-our-family',records:{'lr-our-family':{opened:true,finished:true,page:8,lastReadAt:1}}})));
-  await page.goto('http://127.0.0.1:4173/');if(width===390)await page.screenshot({path:'layout-proof/flow-01-home.png'});await page.locator('[data-go="mine"]').click();await page.locator('[data-go="vocabulary"]').click();
+  await page.goto('http://127.0.0.1:4173/');
+  async function loaded(locator){await locator.evaluate(im=>im.complete&&im.naturalWidth?Promise.resolve():new Promise((resolve,reject)=>{im.addEventListener('load',resolve,{once:true});im.addEventListener('error',reject,{once:true})}))}
+  await loaded(page.locator('.entryImage img'));
+  if(width===390){
+   await page.screenshot({path:'layout-proof/flow-01-home.png'});await page.locator('[data-go="shelf"]').first().click();
+   for(const id of ['lr-our-family','lr-shopping-time','lr-simple-counting','lr-see-clearly'])await loaded(page.locator(`[data-book="${id}"] img`));
+   await page.screenshot({path:'layout-proof/flow-02-shelf.png'});await page.getByLabel('选择共读阶段').click();await page.screenshot({path:'layout-proof/stage-picker-390.png'});await page.getByRole('button',{name:'关闭',exact:true}).click();
+  }
+  await page.locator('[data-go="mine"]').click();await page.locator('[data-go="vocabulary"]').click();
   const keys=await page.locator('.vocabularyRow').evaluateAll(els=>els.map(el=>el.dataset.key));assert.ok(keys.length>=3);await page.locator('.vocabularyRow').first().click();
   const current=()=>page.locator('[data-action="vocabulary-source"]').getAttribute('data-key');
   const session=await page.context().newCDPSession(page);
@@ -31,9 +39,9 @@ try{
 
   await page.getByRole('button',{name:'关闭',exact:true}).click();
   await page.locator('[data-go="shelf"]').first().click();await page.locator('[data-book="lr-seven-days"]').scrollIntoViewIfNeeded();const originY=await page.evaluate(()=>scrollY);
-  if(width===390)await page.screenshot({path:'layout-proof/flow-02-shelf.png'});
+
   await page.locator('[data-book="lr-seven-days"]').click();await page.locator('[data-go="reader"]').click();
-  if(await page.locator('[data-action="companion"]').getAttribute('aria-checked')!=='true')await page.locator('[data-action="companion"]').click();if(width===390)await page.screenshot({path:'layout-proof/flow-03-reader.png'});
+  if(await page.locator('[data-action="companion"]').getAttribute('aria-checked')!=='true')await page.locator('[data-action="companion"]').click();if(width===390){await loaded(page.locator('.artFrame img'));await page.screenshot({path:'layout-proof/flow-03-reader.png'});}
   // Swiping the text area should turn pages just like swiping the picture.
   const text=await page.locator('.textPanel').boundingBox();const x=text.x+text.width*0.7,y=text.y+text.height/2;
   await session.send('Input.dispatchTouchEvent',{type:'touchStart',touchPoints:[{x,y}]});
