@@ -16,7 +16,10 @@ try{
    assert.ok(Math.abs(geometry.width-geometry.imageWidth)<1&&Math.abs(geometry.height-geometry.imageHeight)<1,'cover frame must follow the complete source image');
    assert.ok(Math.abs(geometry.width/geometry.height-geometry.naturalWidth/geometry.naturalHeight)<0.002,JSON.stringify({book:b.id,viewport:width,geometry}));
    if(width===390&&b.id==='lr-seven-days'){await cover.scrollIntoViewIfNeeded();await page.screenshot({path:'layout-proof/portrait-covers-390.png'});}
-   await page.locator(`[data-book="${b.id}"]`).click();assert.ok((await page.locator('main').textContent()).includes(b.narration.accentLabel));await page.locator('[data-go="reader"]').click();
+   await page.locator(`[data-book="${b.id}"]`).click();assert.ok((await page.locator('main').textContent()).includes(b.narration.accentLabel));
+   await page.locator('[data-action="credits"]').click();assert.equal(await page.locator('.creditRights').getAttribute('open'),null);assert.ok((await page.locator('.creditMeta').textContent()).includes(b.pages.length+'页'));assert.ok((await page.locator('.creditFacts').textContent()).includes(b.narration.accentLabel));
+   if(width===390&&b.id==='lr-our-family')await page.screenshot({path:'layout-proof/jigu-book-info-390.png'});
+   await page.getByRole('button',{name:'关闭',exact:true}).click();await page.locator('[data-go="reader"]').click();
    for(let i=0;i<b.pages.length;i++){
     await page.locator('.artFrame img').evaluate(im=>im.complete?Promise.resolve():new Promise((resolve,reject)=>{im.addEventListener('load',resolve,{once:true});im.addEventListener('error',()=>reject(new Error('Source illustration load failed')),{once:true})}));
     const art=await page.locator('.artFrame').evaluate(el=>{const r=el.getBoundingClientRect(),im=el.querySelector('img');return {width:r.width,height:r.height,naturalWidth:im.naturalWidth,fit:getComputedStyle(im).objectFit,overflow:document.documentElement.scrollWidth>innerWidth}});
@@ -31,7 +34,19 @@ try{
     await page.locator('[data-action="next"]').click();frames++;
    }
    assert.ok(await page.locator('.endTitle').isVisible());
+   assert.ok((await page.locator('.endGraphic img').getAttribute('src')).includes('jigu-icon'));
+   const rows=await page.locator('.wordCard b').evaluateAll(els=>els.map(el=>{const r=el.getBoundingClientRect();return {text:el.textContent,nowrap:getComputedStyle(el).whiteSpace,width:r.width,scroll:el.scrollWidth,height:r.height,line:parseFloat(getComputedStyle(el).lineHeight)}}));
+   assert.ok(rows.every(r=>r.nowrap==='nowrap'&&r.scroll<=r.width+1&&r.height<=r.line+1),JSON.stringify({book:b.id,width,rows}));
+   if(width===390&&b.id==='lr-our-family')await page.screenshot({path:'layout-proof/jigu-completion-390.png',fullPage:true});
   }
+  await page.locator('[data-go="shelf"]').last().click();
+  const longest=await page.evaluate(()=>[...window.JIGU_BOOKS.flatMap(b=>b.keywords.map(w=>w.word))].sort((a,b)=>b.length-a.length).slice(0,3));
+  // Use the production row markup already reached above; replace only the displayed test text.
+  await page.locator('[data-book="lr-our-family"]').click();await page.locator('[data-action="again"]').click();
+  for(let i=0;i<9;i++)await page.locator('[data-action="next"]').click();
+  await page.locator('.wordCard b').evaluateAll((els,words)=>els.forEach((el,i)=>el.textContent=words[i]),longest);
+  const longRows=await page.locator('.wordCard b').evaluateAll(els=>els.map(el=>({text:el.textContent,width:el.getBoundingClientRect().width,scroll:el.scrollWidth,nowrap:getComputedStyle(el).whiteSpace})));
+  assert.ok(longRows.every(r=>r.nowrap==='nowrap'&&r.scroll<=r.width+1),JSON.stringify({width,longRows}));
   await page.close();
  }
  assert.equal(frames,420);console.log('PASS Let’s Read browser layout: all 105 pages × 4 viewports, complete uncropped art, exact English, no horizontal overflow and fixed page controls');
