@@ -1,0 +1,4576 @@
+{
+  "reviewDate": "2026-10-20",
+  "selectionCriteria": [
+    "按画面与情节温和程度评审，不按人物种族或肤色筛选",
+    "手机内页短边至少320像素，宽高比不超过1.4",
+    "保留原英文，英文、插画、逐页配音及重点词对应",
+    "无字书不编写英文冒充原文"
+  ],
+  "withdrawnNamedIds": [
+    "0089",
+    "0240",
+    "0060",
+    "0050",
+    "0079",
+    "0099",
+    "0006",
+    "0256",
+    "0302",
+    "0169",
+    "0043",
+    "0017",
+    "0021",
+    "0327",
+    "0008",
+    "0095",
+    "0296"
+  ],
+  "additionalWithdrawals": {
+    "0156": "鳄鱼突然突袭的近景及拟声惊吓。",
+    "0011": "箱中突然窜出蛇，父子受惊逃跑，属于突发惊吓情节。",
+    "0155": "以咆哮、动物害怕及逃离老师为结尾，偏离温和共读定位。",
+    "0167": "明确写出射杀六个太阳；浓烈暗色幻想画面。",
+    "0168": "猎捕、箭支及明确的杀死威胁；黑色剪影风格较强烈。",
+    "0197": "较写实的犬与鳄鱼、尖牙和追逐场景，对低龄读者偏紧张。",
+    "0361": "人被狮子当作猎物、恐惧及逃命是核心冲突。",
+    "0248": "狮子咆哮、鳄鱼张嘴的写实近景，当前温和标准不通过；此前长颈鹿文字纠正保留。",
+    "0147": "多页出现浓烈暗色、巨眼、尖牙的幻想动物造型。",
+    "0117": "鬣狗龇牙、追逐野兔的画面较强烈。"
+  },
+  "expectedActiveBooks": 73,
+  "candidateCount": 39,
+  "candidateRawImageCount": 562,
+  "directlyApprovedAdditions": [],
+  "candidates": [
+    {
+      "slug": "a-tiny-seed",
+      "title": "A Tiny Seed",
+      "url": "https://bookdash.org/books/a-tiny-seed/",
+      "existingIds": [],
+      "existingState": "未收录",
+      "editorialPriority": "进阶备选",
+      "editorialNote": "人物传记，篇幅长、抽象概念多，结尾提及去世；不放入看图启蒙。",
+      "displayPassed": false,
+      "displayBlocker": "原版含约2:1横向跨页；当前手机要求内页宽高比不超过1.4，不能直接通过",
+      "imageCount": 14,
+      "wideImageCount": 12,
+      "images": [
+        {
+          "index": 0,
+          "url": "https://bookdash.org/wp-content/uploads/2015/02/a-tiny-seed_en_20200616_cover.jpg",
+          "width": 1969,
+          "height": 1969,
+          "sha256": "a7407f31bd34b0f489136e8fc8a76d94deb9b06d43ca523db83870439a391ee0"
+        },
+        {
+          "index": 1,
+          "url": "https://bookdash.org/wp-content/uploads/2015/02/a-tiny-seed_en_20200616_page4-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "d2e605fbf7b78fdedd6af01d3d57276ea56863c49c18894860be1a56097f2bb7"
+        },
+        {
+          "index": 2,
+          "url": "https://bookdash.org/wp-content/uploads/2015/02/a-tiny-seed_en_20200616_page5-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "a843892992f55da291ee956585e2174e6a286d11906a0ad63d4055801fe7ee54"
+        },
+        {
+          "index": 3,
+          "url": "https://bookdash.org/wp-content/uploads/2015/02/a-tiny-seed_en_20200616_page6-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "11773b3f69117ef722cb16f490824868367ed899992bf1e74773440eb92e7fa0"
+        },
+        {
+          "index": 4,
+          "url": "https://bookdash.org/wp-content/uploads/2015/02/a-tiny-seed_en_20200616_page7-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "8b61fc371885334975ad54910f890441715c2b3b819ecdf9cc6df5fb339ee927"
+        },
+        {
+          "index": 5,
+          "url": "https://bookdash.org/wp-content/uploads/2015/02/a-tiny-seed_en_20200616_page8-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "f0028c25a9c5273bc20ae3f80837e0b7e11189209a8a9746c5eb96eaec1dfe57"
+        },
+        {
+          "index": 6,
+          "url": "https://bookdash.org/wp-content/uploads/2015/02/a-tiny-seed_en_20200616_page9-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "733f55825075c290bf24a2af5053df8d1575420c89120d0f74b8297d112a7aba"
+        },
+        {
+          "index": 7,
+          "url": "https://bookdash.org/wp-content/uploads/2015/02/a-tiny-seed_en_20200616_page10-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "9b6e80264228077e643edd55b75a73fb7290f4d55bf351035d716d3cbb9e6b4c"
+        },
+        {
+          "index": 8,
+          "url": "https://bookdash.org/wp-content/uploads/2015/02/a-tiny-seed_en_20200616_page11-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "587c4a44fcb53c8027cee66df00737bec0ed46c8bf09536102eba6730bec1d1d"
+        },
+        {
+          "index": 9,
+          "url": "https://bookdash.org/wp-content/uploads/2015/02/a-tiny-seed_en_20200616_page12-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "9316e50c0fc2f6784df9a2fa6f82708dbcd2f49e6d8d46c644b4759cb41ef101"
+        },
+        {
+          "index": 10,
+          "url": "https://bookdash.org/wp-content/uploads/2015/02/a-tiny-seed_en_20200616_page13-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "5088795b3d73785312aef82fb29f5b3086350713eaed9e86a9c7bb6a13194803"
+        },
+        {
+          "index": 11,
+          "url": "https://bookdash.org/wp-content/uploads/2015/02/a-tiny-seed_en_20200616_page14-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "9ad2274f560d70b281ffe7f65f9cc4f93628e8622688e205871d46b6ecc4dd05"
+        },
+        {
+          "index": 12,
+          "url": "https://bookdash.org/wp-content/uploads/2015/02/a-tiny-seed_en_20200616_page15-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "0b0c9393f8dec133415bcfd58c1ebe492afe6de46a7b8bd63bb3b94d002e8f9e"
+        },
+        {
+          "index": 13,
+          "url": "https://bookdash.org/wp-content/uploads/2015/02/a-tiny-seed_en_20200616_page17.jpg",
+          "width": 1969,
+          "height": 1969,
+          "sha256": "251fa46c6beac8c2e727027a2b07dc7f1455149cb348ca23948e950bf4e0a108"
+        }
+      ]
+    },
+    {
+      "slug": "amazing-daisy",
+      "title": "Amazing Daisy!",
+      "url": "https://bookdash.org/books/amazing-daisy/",
+      "existingIds": [],
+      "existingState": "未收录",
+      "editorialPriority": "备选",
+      "editorialNote": "坚持梦想的小鸡故事；有被嘲笑及撞击摔倒的情节，需家长帮助理解。",
+      "displayPassed": false,
+      "displayBlocker": "原版含约2:1横向跨页；当前手机要求内页宽高比不超过1.4，不能直接通过",
+      "imageCount": 14,
+      "wideImageCount": 12,
+      "images": [
+        {
+          "index": 0,
+          "url": "https://bookdash.org/wp-content/uploads/2016/09/amazing-daisy-pdf-ebook_20150804_Page_01.jpg",
+          "width": 756,
+          "height": 756,
+          "sha256": "5197455d791877fe728d0e283c3b81b5c6ae859065a0236d53574fc3e8cc4172"
+        },
+        {
+          "index": 1,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/amazing-daisy-pdf-ebook_20150804_Page_05.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "90ee87dbda06275ae6cafc0725493a4b44708eb4f7b67e3b712ee9ce574885de"
+        },
+        {
+          "index": 2,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/amazing-daisy-pdf-ebook_20150804_Page_06.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "25109beb5eef92d10f509a0fc55c242f11a3dcffd7888e5c0705bed4c6d5ddbb"
+        },
+        {
+          "index": 3,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/amazing-daisy-pdf-ebook_20150804_Page_07.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "801196fa632909a3e3fd31ba96c987bb25f03d4b110691853faedb831b93164b"
+        },
+        {
+          "index": 4,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/amazing-daisy-pdf-ebook_20150804_Page_08.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "4c6a231aa5c4e9b13e7e17319b01d0efe4104a743e538cd02bd88073fe085bfe"
+        },
+        {
+          "index": 5,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/amazing-daisy-pdf-ebook_20150804_Page_09.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "33f039860bf614a1cfdffe76b1e55689e3912f322504b3746043815948e6982a"
+        },
+        {
+          "index": 6,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/amazing-daisy-pdf-ebook_20150804_Page_10.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "e592376344b831073509cb9c4eec6a5c21769c462b2f6eab921bda1fc8b353eb"
+        },
+        {
+          "index": 7,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/amazing-daisy-pdf-ebook_20150804_Page_11.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "f1fc5eb867fe5fa930129b99b5d31deb5177eaf220b1b69c91d0219b0cee8a09"
+        },
+        {
+          "index": 8,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/amazing-daisy-pdf-ebook_20150804_Page_12.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "f421b0449e85f5f96e33909fbebebea3b21e6c4c5a7e2e490ffb688ae12abe66"
+        },
+        {
+          "index": 9,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/amazing-daisy-pdf-ebook_20150804_Page_13.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "3da80c78b3c544d7a8ff04609e050107db95d84bacaa82dc68aec94f727a66b8"
+        },
+        {
+          "index": 10,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/amazing-daisy-pdf-ebook_20150804_Page_14.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "d9e93836a38885366d4ae3ef10b72211102d33d5650e1eeb4ec115366f2ca2a8"
+        },
+        {
+          "index": 11,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/amazing-daisy-pdf-ebook_20150804_Page_15.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "3c2871032312a060882a74d5c14a17e68dbde71208771c7d383a60b2d77b9f35"
+        },
+        {
+          "index": 12,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/amazing-daisy-pdf-ebook_20150804_Page_16.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "1571eded2845c3f4b63243fc64e40530b0b979860b78b7f4d14bd3e0eb43f8c9"
+        },
+        {
+          "index": 13,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/amazing-daisy-pdf-ebook_20150804_Page_18.jpg",
+          "width": 788,
+          "height": 788,
+          "sha256": "ba22e05a25c900a4afe850cafc8f5d6bdbd8ec82da5f878d144533bfe602dc89"
+        }
+      ]
+    },
+    {
+      "slug": "banzis-busy-bees",
+      "title": "Banzi’s Busy Bees",
+      "url": "https://bookdash.org/books/banzis-busy-bees/",
+      "existingIds": [],
+      "existingState": "未收录",
+      "editorialPriority": "备选",
+      "editorialNote": "种植、蜜蜂和照顾花园；拼贴画有辨识度，非写实恐怖。",
+      "displayPassed": false,
+      "displayBlocker": "原版含约2:1横向跨页；当前手机要求内页宽高比不超过1.4，不能直接通过",
+      "imageCount": 14,
+      "wideImageCount": 12,
+      "images": [
+        {
+          "index": 0,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/banzis-busy-bees_en_cover-1.jpg",
+          "width": 2362,
+          "height": 2362,
+          "sha256": "f9c82dd86f79dbe9e6f1f4885a49636dc4f299bdcf558c61fe836ee388597298"
+        },
+        {
+          "index": 1,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/banzis-busy-bees_en_page4-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "f371cce0bfe475f8e2b07ba1439e6fc0b5d4d5b2a3398a13fe565e0cf272a30d"
+        },
+        {
+          "index": 2,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/banzis-busy-bees_en_page5-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "a65f2b4aa33ad10c79b994e7de0beaa2199fb51b872e3ac0c18c2b2e66410b09"
+        },
+        {
+          "index": 3,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/banzis-busy-bees_en_page6-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "cc6de54588a99b3d99e9d4c47cd71f6eaeaeebaa558e1b4e16a4170aa6ace327"
+        },
+        {
+          "index": 4,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/banzis-busy-bees_en_page7-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "66887d7bd4b7c2fd5d78497f46dc1944f5b23e47ed77c97832ce2fd5503edd16"
+        },
+        {
+          "index": 5,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/banzis-busy-bees_en_page8-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "0f69a7bf9c29f4669de9f732ceee75bfc1046fc85c323bc01b9155f606072b2e"
+        },
+        {
+          "index": 6,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/banzis-busy-bees_en_page9-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "e763cd1d8e1b5f107716104658c6ef29c121bf3af04687487bc3eb268f25ab77"
+        },
+        {
+          "index": 7,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/banzis-busy-bees_en_page10-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "1019a7827e07cb704f955f7c44c0357422611f1a34d3bd572995025a0542ecf3"
+        },
+        {
+          "index": 8,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/banzis-busy-bees_en_page11-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "abf5157f87f751eada4871419afdc23bb45dd03498288729d9407c35c1f4de02"
+        },
+        {
+          "index": 9,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/banzis-busy-bees_en_page12-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "8a31a9d8a0cc693cba94ddbb9b4b90084922ab85279a90eef0c70401f9d6c858"
+        },
+        {
+          "index": 10,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/banzis-busy-bees_en_page13-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "59ff29519801025ee23d134582f870e12702d884d2a0c78fad73e505cc2d59af"
+        },
+        {
+          "index": 11,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/banzis-busy-bees_en_page14-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "38835dd01e25d1de2fcb00cf0cb96bdaa23dc7ba7cb1795f6ef60b4495bfd810"
+        },
+        {
+          "index": 12,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/banzis-busy-bees_en_page15-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "137854e5ba700d0e1caaf4f70087b6329eb51a095e7e21c163239406b71f3702"
+        },
+        {
+          "index": 13,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/banzis-busy-bees_en_page17.jpg",
+          "width": 2362,
+          "height": 2362,
+          "sha256": "f25741bf053da26013e97249994c52215fd1eb0ba6054ff3e3ed2a7a4da3f96d"
+        }
+      ]
+    },
+    {
+      "slug": "can-we-eat-a-rainbow",
+      "title": "Can we eat a rainbow?",
+      "url": "https://bookdash.org/books/can-we-eat-a-rainbow/",
+      "existingIds": [],
+      "existingState": "未收录",
+      "editorialPriority": "优先适配",
+      "editorialNote": "颜色与蔬果，角色圆润、重复问答，适合日常生活及颜色主题。",
+      "displayPassed": false,
+      "displayBlocker": "原版含约2:1横向跨页；当前手机要求内页宽高比不超过1.4，不能直接通过",
+      "imageCount": 14,
+      "wideImageCount": 12,
+      "images": [
+        {
+          "index": 0,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_cover-1.jpg",
+          "width": 2362,
+          "height": 2362,
+          "sha256": "ef28f5f50ede1058817f4ece87ffdfcfd03736d4abd5ed00a68156fc81ba6af0"
+        },
+        {
+          "index": 1,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page4-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "83b777a249d197f11ae9aafcf8f7af9f327275df5359308babf9b5c488e3c37b"
+        },
+        {
+          "index": 2,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page5-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "0ef21122e48aee6e6ce53b970f8ca25bbc1aa2c7da356ea5b867c993671cc517"
+        },
+        {
+          "index": 3,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page6-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "1c3c58d54fdfbba691da497c2aee340eb768a1011a5c0ba3ab4973a86f1bbb41"
+        },
+        {
+          "index": 4,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page7-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "75588bb0cd83c6558407440836787df167dcfc1bc0b712ae17e436d886f0f6bc"
+        },
+        {
+          "index": 5,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page8-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "4992f00972b2419ea834c426b0e3936771ad3a924a553ac324b85a213a5e0fc9"
+        },
+        {
+          "index": 6,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page9-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "785575e957eed5cef375ad105750e8f49569382c975d52b319d5538c62818ddd"
+        },
+        {
+          "index": 7,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page10-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "ecb0fcb0d5e842f5f4b12765c6e44306a66b7bf771c5f59529b6346d90e87d48"
+        },
+        {
+          "index": 8,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page11-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "ed77be6e1a689e2c928b052d6da22db78ff6fa419507649334c990cbdf865ef0"
+        },
+        {
+          "index": 9,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page12-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "a2ab45ae396b64793194ef79c445cbd536f91b1cdb668b32b150ac19547206fc"
+        },
+        {
+          "index": 10,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page13-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "77a337f8b6ac03cef9b8d1b8e2360050cc2ca061c7b4624986ded7835f3f28ff"
+        },
+        {
+          "index": 11,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page14-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "f38c76fbaa000dc92245540230d4a44dd549bba50488d35b5809787aacf3b3a9"
+        },
+        {
+          "index": 12,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page15-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "5857c0e5703460cacaafce1fa2f8c6e24721a2fc83955c5add9d8e6778aead4e"
+        },
+        {
+          "index": 13,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page17.jpg",
+          "width": 2362,
+          "height": 2362,
+          "sha256": "9ce5fefd737b56a0793d77c279edb5c47b4baba233382b40c9e9f230a17fc525"
+        }
+      ]
+    },
+    {
+      "slug": "clever-pig",
+      "title": "Clever Pig",
+      "url": "https://bookdash.org/books/clever-pig/",
+      "existingIds": [],
+      "existingState": "未收录",
+      "editorialPriority": "备选",
+      "editorialNote": "暖黄色动物和友谊故事；需讲清小猪离开又带小猪回来的转折。",
+      "displayPassed": false,
+      "displayBlocker": "原版含约2:1横向跨页；当前手机要求内页宽高比不超过1.4，不能直接通过",
+      "imageCount": 14,
+      "wideImageCount": 12,
+      "images": [
+        {
+          "index": 0,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/clever-pig_en_20210131_cover.jpg",
+          "width": 2361,
+          "height": 2362,
+          "sha256": "04d45ebda4ac522189135ab147f4d6e40d99952933ee633e129a53249dcf3aad"
+        },
+        {
+          "index": 1,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/clever-pig_en_20210131_page4-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "09610aa0e47dd6e13f15c40e2c75d533167cf6fae75360dab7b62da7b82f82e1"
+        },
+        {
+          "index": 2,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/clever-pig_en_20210131_page5-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "b0bdd389322432b50bcc6491172192995b2fb3938970aad68f2a1b19fff72140"
+        },
+        {
+          "index": 3,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/clever-pig_en_20210131_page6-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "7480205e10e430e125aafffd72ba331970d43fa25a551a9fd716069affed3431"
+        },
+        {
+          "index": 4,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/clever-pig_en_20210131_page7-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "10d9db9bcd5c60f1ba389bdac762fb2077ea8bce7e0dea94f0e4a9de7123aecf"
+        },
+        {
+          "index": 5,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/clever-pig_en_20210131_page8-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "2581572630fc80d72aa8f15151d0849408a8900a3f3c7b2027a856c2da685957"
+        },
+        {
+          "index": 6,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/clever-pig_en_20210131_page9-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "9e76ff8558540eadadfbd5e1699ace009e0a277e18920942dd1b39a7a6be2093"
+        },
+        {
+          "index": 7,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/clever-pig_en_20210131_page10-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "6a6acb0149d6f15b6ac005dd7570ff0da2a6ccc50b94f542f67c3ed429f2854d"
+        },
+        {
+          "index": 8,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/clever-pig_en_20210131_page11-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "791b09c01192f1fc1974b446187c99e2353ea2eb53514eef376d0df1b86604d0"
+        },
+        {
+          "index": 9,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/clever-pig_en_20210131_page12-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "d099b38f32db96b6345aaf8538375245ad83593db559c960968f2eb7b70675de"
+        },
+        {
+          "index": 10,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/clever-pig_en_20210131_page13-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "24ac526e3f624898114012369a46de335036fd6bb3b2d8f096f46c860da6bf18"
+        },
+        {
+          "index": 11,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/clever-pig_en_20210131_page14-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "d9623c4bb79f6427a9676b36c13e5bbbe595ff302cb2b4696be7a4ae56ae6529"
+        },
+        {
+          "index": 12,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/clever-pig_en_20210131_page15-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "5ec4bf71df922fa695b7ebc91dfdb1b1046ce8ecfbcb7aed604ae99fa66e584b"
+        },
+        {
+          "index": 13,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/clever-pig_en_20210131_page17.jpg",
+          "width": 2362,
+          "height": 2362,
+          "sha256": "06ac46fc1c1645b596d88f4eb3d1e0e4f191c5b9b6364a2ba7959087cc00e9ac"
+        }
+      ]
+    },
+    {
+      "slug": "come-back-cat",
+      "title": "Come back, cat!",
+      "url": "https://bookdash.org/books/come-back-cat/",
+      "existingIds": [
+        "come-back-cat"
+      ],
+      "existingState": "旧版已归档",
+      "editorialPriority": "备选",
+      "editorialNote": "宠物动作短句；旧书已因横跨页退出当前书架，本轮不直接恢复。",
+      "displayPassed": false,
+      "displayBlocker": "原版含约2:1横向跨页；当前手机要求内页宽高比不超过1.4，不能直接通过",
+      "imageCount": 14,
+      "wideImageCount": 12,
+      "images": [
+        {
+          "index": 0,
+          "url": "https://bookdash.org/wp-content/uploads/2014/09/come-back-cat_english_front-cover_20140909.jpg",
+          "width": 566,
+          "height": 567,
+          "sha256": "73566868ee2ccf39eaf281760b485a055876ff33c522a08682995602ec87a236"
+        },
+        {
+          "index": 1,
+          "url": "https://bookdash.org/wp-content/uploads/2014/07/come-back-cat_english_interior-spreads_201409094.jpg",
+          "width": 4725,
+          "height": 2363,
+          "sha256": "d262c0e81b895eae1c321710f243a5fd789361014cb617ecf7cce6e6ca705e5b"
+        },
+        {
+          "index": 2,
+          "url": "https://bookdash.org/wp-content/uploads/2014/07/come-back-cat_english_interior-spreads_201409095.jpg",
+          "width": 4725,
+          "height": 2363,
+          "sha256": "a68a96204a519e2721ff9e9739d715868500f8d49a947fc42153930699f50ce0"
+        },
+        {
+          "index": 3,
+          "url": "https://bookdash.org/wp-content/uploads/2014/07/come-back-cat_english_interior-spreads_201409096.jpg",
+          "width": 4725,
+          "height": 2363,
+          "sha256": "11b202ec7facf50fcb4501aef83864e320beca9524486a092365a88611cd76b1"
+        },
+        {
+          "index": 4,
+          "url": "https://bookdash.org/wp-content/uploads/2014/07/come-back-cat_english_interior-spreads_201409097.jpg",
+          "width": 4725,
+          "height": 2363,
+          "sha256": "d16196467fa240eaa2ea764962bdeb3de02b6e4e51e65186a9d7c1ad759a195c"
+        },
+        {
+          "index": 5,
+          "url": "https://bookdash.org/wp-content/uploads/2014/07/come-back-cat_english_interior-spreads_201409098.jpg",
+          "width": 4725,
+          "height": 2363,
+          "sha256": "3e8eab6835a1e80d40b7634b88b581c40d16f61b141bca576b302735032ba99a"
+        },
+        {
+          "index": 6,
+          "url": "https://bookdash.org/wp-content/uploads/2014/07/come-back-cat_english_interior-spreads_201409099.jpg",
+          "width": 4725,
+          "height": 2363,
+          "sha256": "60efc155010ec7d8fc67508fd9223519664b27d5d42c81836471b22a5f795243"
+        },
+        {
+          "index": 7,
+          "url": "https://bookdash.org/wp-content/uploads/2014/07/come-back-cat_english_interior-spreads_2014090910.jpg",
+          "width": 4725,
+          "height": 2363,
+          "sha256": "d68696c8c365c59fdfbb4243f62ef0595046504d5162e51635f28fffa141299d"
+        },
+        {
+          "index": 8,
+          "url": "https://bookdash.org/wp-content/uploads/2014/07/come-back-cat_english_interior-spreads_2014090911.jpg",
+          "width": 4725,
+          "height": 2363,
+          "sha256": "8bc44f9c1f4e66efaa0294cd4f0d7f5e66475512840fe2e84ca6a1e55121f38a"
+        },
+        {
+          "index": 9,
+          "url": "https://bookdash.org/wp-content/uploads/2014/07/come-back-cat_english_interior-spreads_2014090912.jpg",
+          "width": 4725,
+          "height": 2363,
+          "sha256": "b258dd0614ef8fc724824ebee2160a0d8c24fef6319496250ca232f5850756d7"
+        },
+        {
+          "index": 10,
+          "url": "https://bookdash.org/wp-content/uploads/2014/07/come-back-cat_english_interior-spreads_2014090913.jpg",
+          "width": 4725,
+          "height": 2363,
+          "sha256": "f0f246e6ac140b29e28b93a38c0284588d0a56fd6b053319bacc51a766259334"
+        },
+        {
+          "index": 11,
+          "url": "https://bookdash.org/wp-content/uploads/2014/07/come-back-cat_english_interior-spreads_2014090914.jpg",
+          "width": 4725,
+          "height": 2363,
+          "sha256": "99a9a0ce6e68f49153135d3789761858723353e8fc18c17d8f4b1ab5b9af6e98"
+        },
+        {
+          "index": 12,
+          "url": "https://bookdash.org/wp-content/uploads/2014/07/come-back-cat_english_interior-spreads_2014090915.jpg",
+          "width": 4725,
+          "height": 2363,
+          "sha256": "a47fa45e4db5a6ae51e3711cdd220cd6b3994d22ce212f82e1918cec673d27eb"
+        },
+        {
+          "index": 13,
+          "url": "https://bookdash.org/wp-content/uploads/2014/07/come-back-cat_english_pdf-ebook_20140909_Page_18.jpg",
+          "width": 1575,
+          "height": 1575,
+          "sha256": "c4c0e504ad20fcbd5a5875668814c9334b3d6e1e3ce3cf7bfff3f97db024b810"
+        }
+      ]
+    },
+    {
+      "slug": "how-about-you",
+      "title": "How About You?",
+      "url": "https://bookdash.org/books/how-about-you/",
+      "existingIds": [
+        "how-about-you"
+      ],
+      "existingState": "旧版已归档",
+      "editorialPriority": "暂不选",
+      "editorialNote": "怪物、骷髅及龇牙特写，不符合本轮温和画风目标。",
+      "displayPassed": false,
+      "displayBlocker": "原版含约2:1横向跨页；当前手机要求内页宽高比不超过1.4，不能直接通过",
+      "imageCount": 15,
+      "wideImageCount": 13,
+      "images": [
+        {
+          "index": 0,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/how-about-you-pdf-ebook_20150804_Page_01.jpg",
+          "width": 788,
+          "height": 788,
+          "sha256": "c7361cd56c65c59644c50ae9c9f7dd0d323f48d8502e7c1b9a7b92b773d8c519"
+        },
+        {
+          "index": 1,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/how-about-you-pdf-ebook_20150804_Page_05.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "f6577a6b864848aeef241cf5e9cf3e09a32127fe212773297fedeb9c4921fbe0"
+        },
+        {
+          "index": 2,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/how-about-you-pdf-ebook_20150804_Page_06.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "a9eefee0756dd3d16eed40d22a2e3abe5cfcd35dc924003624e1732b40dd1792"
+        },
+        {
+          "index": 3,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/how-about-you-pdf-ebook_20150804_Page_07.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "dd55252987d5176f92b37f94591ce7b08c864797ea41bbf80b44cd6bf713091c"
+        },
+        {
+          "index": 4,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/how-about-you-pdf-ebook_20150804_Page_08.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "c399b39b65a734a0724ea71063e4feb949a5c1fecabd0586c367c969601eb803"
+        },
+        {
+          "index": 5,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/how-about-you-pdf-ebook_20150804_Page_09.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "236123f0fd4af7b7d133049af8b2ba44e107333f07538a63681efdc8cf9f5e33"
+        },
+        {
+          "index": 6,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/how-about-you-pdf-ebook_20150804_Page_10.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "a5925f0ecf2db1c19e25616326c275d33b4c5b7d7604fb08f794e568359f48c3"
+        },
+        {
+          "index": 7,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/how-about-you-pdf-ebook_20150804_Page_11.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "29cf7550e2021e6384656d26c94fb5e4ba44a9bc359b019ac25a252353ebeba6"
+        },
+        {
+          "index": 8,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/how-about-you-pdf-ebook_20150804_Page_12.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "ff4ddd85a175f9572a3b58f232c1214b8588b080cedc2ae9d361e1b26c5457fe"
+        },
+        {
+          "index": 9,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/how-about-you-pdf-ebook_20150804_Page_13.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "9f98995128e96ea9e2891f2d945ea66753abac2d6f0ba90aefaac54b59eca50d"
+        },
+        {
+          "index": 10,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/how-about-you-pdf-ebook_20150804_Page_14.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "99a85989610cfcc156aabd8c5bd4bbaccb4e723bbbce7b36e08808398dbc689b"
+        },
+        {
+          "index": 11,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/how-about-you-pdf-ebook_20150804_Page_15.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "a09d95bf65c16fe6fc05d44ee9ae7513a5ec862ecbf800594804c5ed17a0e058"
+        },
+        {
+          "index": 12,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/how-about-you-pdf-ebook_20150804_Page_16.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "a4a60063c411a9485dd02c42a0fefe6758dd7aa9663735efb3e1ce5be4cc5b0e"
+        },
+        {
+          "index": 13,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/how-about-you-pdf-ebook_20150804_Page_17.jpg",
+          "width": 3150,
+          "height": 1575,
+          "sha256": "7df326481bb113fe90a82d7a2ef395793897021a058b4c5806d64a42edcf420e"
+        },
+        {
+          "index": 14,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/how-about-you-pdf-ebook_20150804_Page_18.jpg",
+          "width": 788,
+          "height": 788,
+          "sha256": "e9c63bfd658460cb837bdd482ce8d9ab30ba419ad4b1a2f8a5b0007973c74ae5"
+        }
+      ]
+    },
+    {
+      "slug": "how-do-you-eat",
+      "title": "How do you eat?",
+      "url": "https://bookdash.org/books/how-do-you-eat/",
+      "existingIds": [],
+      "existingState": "未收录",
+      "editorialPriority": "备选",
+      "editorialNote": "动物饮食问答；含粪球、耳垢和吞吃蛇等内容，英语词汇较专门，需进阶共读。",
+      "displayPassed": false,
+      "displayBlocker": "原版含约2:1横向跨页；当前手机要求内页宽高比不超过1.4，不能直接通过",
+      "imageCount": 14,
+      "wideImageCount": 12,
+      "images": [
+        {
+          "index": 0,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/how-do-you-eat_en_cover-1.jpg",
+          "width": 2362,
+          "height": 2362,
+          "sha256": "37a0c03f3f01984bb9a5153801d0bb93c4472fe22be796ffeceb66ada250a6dd"
+        },
+        {
+          "index": 1,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/how-do-you-eat_en_page4-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "cf91fd882de5ef21cf11ed690d6fc85739ddf5149e47ca2c393314895d996df6"
+        },
+        {
+          "index": 2,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/how-do-you-eat_en_page5-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "8fc98bed79a3b23be90a9b378671e27739bde4c6e02d0ad3124122426d28e351"
+        },
+        {
+          "index": 3,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/how-do-you-eat_en_page6-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "f927519798e8e201133f6eb827f06401e203ca5dd4ba1fed9168fca1be580710"
+        },
+        {
+          "index": 4,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/how-do-you-eat_en_page7-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "10182f6e9a9fad8a24ab960f4366b4849de992dcab8132975b980743a02bf7e3"
+        },
+        {
+          "index": 5,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/how-do-you-eat_en_page8-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "01225f6f446af86b2174e91102c6b86f0ad59271ccc4c3fd579e81b6d02e1e1e"
+        },
+        {
+          "index": 6,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/how-do-you-eat_en_page9-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "b627a5c496890ae512af0c76ef3738f0198175c01060befe7fddd05ccc8a7272"
+        },
+        {
+          "index": 7,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/how-do-you-eat_en_page10-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "9699b00ecd394a1287457775dc7d82f4de34f939fb1e2ff81f1374bc00b1f643"
+        },
+        {
+          "index": 8,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/how-do-you-eat_en_page11-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "4008e02ea067e75c547402dd5b78e5bb8c3cb9ace64cfb6d9f71169bbd49164c"
+        },
+        {
+          "index": 9,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/how-do-you-eat_en_page12-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "8b8167221db3982f8f4ddae190dfe73dd002bd97e4f4e2ef480420f7f8e5ae64"
+        },
+        {
+          "index": 10,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/how-do-you-eat_en_page13-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "ff79366ad706f4dff282372f970127506b2a7701ff9457ca2421ee9536a3f454"
+        },
+        {
+          "index": 11,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/how-do-you-eat_en_page14-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "ee536f283b821f71e05dd05765060a5ffdcc7675b9992f3dbf42815c7faf6c09"
+        },
+        {
+          "index": 12,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/how-do-you-eat_en_page15-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "ebd09975732a9d02e4dc303d2cec52c313acf5ace4f9af3a790e8f5681bd8a9d"
+        },
+        {
+          "index": 13,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/how-do-you-eat_en_page17.jpg",
+          "width": 2362,
+          "height": 2362,
+          "sha256": "4ad80eeb1237a814c3c5b0afe55e28cd11646882b267f9ac9fdf36a4f9d06baa"
+        }
+      ]
+    },
+    {
+      "slug": "how-do-you-sleep",
+      "title": "How do you sleep?",
+      "url": "https://bookdash.org/books/how-do-you-sleep/",
+      "existingIds": [],
+      "existingState": "未收录",
+      "editorialPriority": "优先适配",
+      "editorialNote": "睡眠与动物观察，重复问句，画面友好；适合短句共读。",
+      "displayPassed": false,
+      "displayBlocker": "原版含约2:1横向跨页；当前手机要求内页宽高比不超过1.4，不能直接通过",
+      "imageCount": 14,
+      "wideImageCount": 12,
+      "images": [
+        {
+          "index": 0,
+          "url": "https://bookdash.org/wp-content/uploads/2022/05/how-do-you-sleep_en_20220520_cover-2.jpg",
+          "width": 2362,
+          "height": 2362,
+          "sha256": "0b503a777049df404c1c6a61bfc12c8ab65c66c1ffeb2e91073c52d6b38c7236"
+        },
+        {
+          "index": 1,
+          "url": "https://bookdash.org/wp-content/uploads/2022/05/how-do-you-sleep_en_20220520_page4-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "b0351566a057e162dce78315c5fd5a20a7716c07acc942a4108e80c009796bc1"
+        },
+        {
+          "index": 2,
+          "url": "https://bookdash.org/wp-content/uploads/2022/05/how-do-you-sleep_en_20220520_page5-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "a096056bbc93e80c4784a6bab00d8ba272e95fb959b7bfdbfc03dab692dff5c5"
+        },
+        {
+          "index": 3,
+          "url": "https://bookdash.org/wp-content/uploads/2022/05/how-do-you-sleep_en_20220520_page6-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "248f29259ed6a29dab2ae9ef6728c0253d28198859280f2cd407fbcbf80c5e98"
+        },
+        {
+          "index": 4,
+          "url": "https://bookdash.org/wp-content/uploads/2022/05/how-do-you-sleep_en_20220520_page7-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "691fa5abf8da6f2d51a128e09037ef36f5a0c1d45cfdcd07d6a40555aedcceeb"
+        },
+        {
+          "index": 5,
+          "url": "https://bookdash.org/wp-content/uploads/2022/05/how-do-you-sleep_en_20220520_page8-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "98495731d319d3dc297f29a52dc65685c03a26f498dde86b80a5c3406b1beb0f"
+        },
+        {
+          "index": 6,
+          "url": "https://bookdash.org/wp-content/uploads/2022/05/how-do-you-sleep_en_20220520_page9-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "eeaca8e8cbf727a4e9daf6b1fcbc71f213ed7d5ded02fc73bdbd04fe296aec0b"
+        },
+        {
+          "index": 7,
+          "url": "https://bookdash.org/wp-content/uploads/2022/05/how-do-you-sleep_en_20220520_page10-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "0043472ddc8afc0eadc22149394e8d834d5c9b12ec4e910e30e26e5d75aa5e4e"
+        },
+        {
+          "index": 8,
+          "url": "https://bookdash.org/wp-content/uploads/2022/05/how-do-you-sleep_en_20220520_page11-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "50f794a571435eee22e0e9139dc14cc45f5118af3f15cf276733a88ea6779458"
+        },
+        {
+          "index": 9,
+          "url": "https://bookdash.org/wp-content/uploads/2022/05/how-do-you-sleep_en_20220520_page12-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "5c0d5de4a2323a0366a215f0a08e9b59d510afe4c72055bdf1bc0fbed3c82d13"
+        },
+        {
+          "index": 10,
+          "url": "https://bookdash.org/wp-content/uploads/2022/05/how-do-you-sleep_en_20220520_page13-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "0d8f3e0c3916df1209e25f6b9b1f59c120c5a73599b505ad7f7a0d6053e45ec1"
+        },
+        {
+          "index": 11,
+          "url": "https://bookdash.org/wp-content/uploads/2022/05/how-do-you-sleep_en_20220520_page14-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "72655c5e62a21c3662fbb32289a855cafc2a5ebcafdd0f8c57048650b0e41a40"
+        },
+        {
+          "index": 12,
+          "url": "https://bookdash.org/wp-content/uploads/2022/05/how-do-you-sleep_en_20220520_page15-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "4c82a05fff91ceab15ca1adc8a4b3225a3341064b8845e1bd42ae33eb471d6af"
+        },
+        {
+          "index": 13,
+          "url": "https://bookdash.org/wp-content/uploads/2022/05/how-do-you-sleep_en_20220520_page17.jpg",
+          "width": 2362,
+          "height": 2362,
+          "sha256": "049f4c917f7a1b35659c55d0a345e216595b23996c809b81353e54d93593195e"
+        }
+      ]
+    },
+    {
+      "slug": "hugs-in-the-city",
+      "title": "Hugs in the City",
+      "url": "https://bookdash.org/books/hugs-in-the-city/",
+      "existingIds": [],
+      "existingState": "未收录",
+      "editorialPriority": "备选",
+      "editorialNote": "明亮温暖的猫咪故事；应提醒不强抱陌生猫，不模仿触摸动物园猛兽。",
+      "displayPassed": false,
+      "displayBlocker": "原版含约2:1横向跨页；当前手机要求内页宽高比不超过1.4，不能直接通过",
+      "imageCount": 14,
+      "wideImageCount": 12,
+      "images": [
+        {
+          "index": 0,
+          "url": "https://bookdash.org/wp-content/uploads/2016/11/hugs-in-the-city_english_20161230_cover.jpg",
+          "width": 567,
+          "height": 567,
+          "sha256": "cbde96ec41ec92fe4aee5cf15e03e81ceb26a3a2742bfd9022f0d5e7467ad960"
+        },
+        {
+          "index": 1,
+          "url": "https://bookdash.org/wp-content/uploads/2016/11/hugs-in-the-city_english_20161230_page4.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "7ed283cf14b2a91f58423b15888e45ba9652e8b4cc4b4495641c27c61c4d1ed9"
+        },
+        {
+          "index": 2,
+          "url": "https://bookdash.org/wp-content/uploads/2016/11/hugs-in-the-city_english_20161230_page5.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "50b8d13de5375b6f8d9ae1682670e246cdea1b50513f9ef72b6c0718a1e3fe0f"
+        },
+        {
+          "index": 3,
+          "url": "https://bookdash.org/wp-content/uploads/2016/11/hugs-in-the-city_english_20161230_page6.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "a851484932b2b92eb5b8ca15d2da85df1db53b390ef95e83765dd62f9e73e631"
+        },
+        {
+          "index": 4,
+          "url": "https://bookdash.org/wp-content/uploads/2016/11/hugs-in-the-city_english_20161230_page7.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "eadb38e891cf927209a5c8143a3648441b61ad4339e8db9e07a8bf382615fb13"
+        },
+        {
+          "index": 5,
+          "url": "https://bookdash.org/wp-content/uploads/2016/11/hugs-in-the-city_english_20161230_page8.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "c85f93f2462e36fcec800be2ea76d5ac9518ef51bcbc4d215beb474b168400a6"
+        },
+        {
+          "index": 6,
+          "url": "https://bookdash.org/wp-content/uploads/2016/11/hugs-in-the-city_english_20161230_page9.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "c92788ba051b810c4535bc98ac33652529305c9a2ec9dc0cd8eb8c7cc5e4ec7e"
+        },
+        {
+          "index": 7,
+          "url": "https://bookdash.org/wp-content/uploads/2016/11/hugs-in-the-city_english_20161230_page10.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "5033fc9cebedeb3de868cfa6e696f1c555ce23c84cad64a69f4f359d1b18d979"
+        },
+        {
+          "index": 8,
+          "url": "https://bookdash.org/wp-content/uploads/2016/11/hugs-in-the-city_english_20161230_page11.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "a4d659418840ed038a0b042c4ede6e748c3b0e6e6dbd683fd0ad4a5f622cb08d"
+        },
+        {
+          "index": 9,
+          "url": "https://bookdash.org/wp-content/uploads/2016/11/hugs-in-the-city_english_20161230_page12.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "b42a754d051b629de3916d4ad99a7beaba3a83a4846e154c26302311b0ae991f"
+        },
+        {
+          "index": 10,
+          "url": "https://bookdash.org/wp-content/uploads/2016/11/hugs-in-the-city_english_20161230_page13.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "0b1ff4ba862fafddc7e67f7691bc9eb77f0403223ce1325e2258d122f1a0c4a4"
+        },
+        {
+          "index": 11,
+          "url": "https://bookdash.org/wp-content/uploads/2016/11/hugs-in-the-city_english_20161230_page14.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "57c96a70bcd671736519192cc1218ea581d9b10003dbf59b1537fa0a1aa07aa2"
+        },
+        {
+          "index": 12,
+          "url": "https://bookdash.org/wp-content/uploads/2016/11/hugs-in-the-city_english_20161230_page15.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "a988680be67251aac8d3e4c3a0acce2a67601296364843a6e7ef7f75ad666712"
+        },
+        {
+          "index": 13,
+          "url": "https://bookdash.org/wp-content/uploads/2016/11/hugs-in-the-city_english_20161230_page17.jpg",
+          "width": 567,
+          "height": 567,
+          "sha256": "7b755f858c5a4a3a49c676cc2fd518a288b5b5a621753cf5bd68a9570a3b3976"
+        }
+      ]
+    },
+    {
+      "slug": "i-can-do-it",
+      "title": "I can do it!",
+      "url": "https://bookdash.org/books/i-can-do-it/",
+      "existingIds": [],
+      "existingState": "未收录",
+      "editorialPriority": "备选",
+      "editorialNote": "独立尝试和包容的积极故事；太阳、月亮拟人画风需团队另看，不能仅凭封面判断。",
+      "displayPassed": false,
+      "displayBlocker": "原版含约2:1横向跨页；当前手机要求内页宽高比不超过1.4，不能直接通过",
+      "imageCount": 14,
+      "wideImageCount": 12,
+      "images": [
+        {
+          "index": 0,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/i-can-do-it_en_cover-1.jpg",
+          "width": 2362,
+          "height": 2362,
+          "sha256": "fbb7607880d93955e470fb03573d04e69e28a246561d7b9668730951b45031d8"
+        },
+        {
+          "index": 1,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/i-can-do-it_en_page4-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "c2b6d9f25346938c61406f02640542dd92e5af01ff06fd72c44eda59d9b8cb23"
+        },
+        {
+          "index": 2,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/i-can-do-it_en_page5-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "d3602f0506e24e127961a99ccc58076b9409401ca7f6a9f1ace0c6f17e83627f"
+        },
+        {
+          "index": 3,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/i-can-do-it_en_page6-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "0b19b6c3026fb95103b37051b99ea5b55be0a71dd7136c0383a5d2c331dbe1d4"
+        },
+        {
+          "index": 4,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/i-can-do-it_en_page7-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "77821fced97dfe1893f0f4f2dc40c682a7ff41111585f6e87cdbb05cadfb4629"
+        },
+        {
+          "index": 5,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/i-can-do-it_en_page8-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "c0b6b3ccaaafa8f0d2740657b8612c8814157de0d320520b0c60e43fe70a5c8d"
+        },
+        {
+          "index": 6,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/i-can-do-it_en_page9-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "be689fc8fa9a7bf6ccd909aacd6018c55860f5c984ba7b12afd8c7a106f43636"
+        },
+        {
+          "index": 7,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/i-can-do-it_en_page10-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "d42dbd4e71dd837c85139dd619ee226e04d8d0c126d7e23eb15c6a2d742bf1e6"
+        },
+        {
+          "index": 8,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/i-can-do-it_en_page11-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "925c4134968bd772fd2d49461c68cbaf719edfc04804e03583099887a7318141"
+        },
+        {
+          "index": 9,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/i-can-do-it_en_page12-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "efc2bf4c159a6f903049d495eb9613cf431aa3e9aee88d83f791b076866341d6"
+        },
+        {
+          "index": 10,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/i-can-do-it_en_page13-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "6169ce18f5146b7842c3b00abaf3935112d34e1d0f178f20af27e3055fe73158"
+        },
+        {
+          "index": 11,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/i-can-do-it_en_page14-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "e87ffcaa7c5924a8bb7268750975706c3e80f07b5abec237550cdd414208a507"
+        },
+        {
+          "index": 12,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/i-can-do-it_en_page15-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "20e120dd6f8c167215806cb268c62916048211630ff7402abbb8e1fdcf2f67c0"
+        },
+        {
+          "index": 13,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/i-can-do-it_en_page17.jpg",
+          "width": 2362,
+          "height": 2362,
+          "sha256": "4c8afc11a827e103521eaa6306bf18626d184e52ee5562c08b5e4c5ad28192a5"
+        }
+      ]
+    },
+    {
+      "slug": "i-can-dress-myself",
+      "title": "I can dress myself!",
+      "url": "https://bookdash.org/books/i-can-dress-myself/",
+      "existingIds": [],
+      "existingState": "未收录",
+      "editorialPriority": "暂缓无字书",
+      "editorialNote": "原书是无字图画书；当前产品要求英文原句、原句配音与原文重点词，不能把自编旁白当原文。",
+      "displayPassed": false,
+      "displayBlocker": "原版含约2:1横向跨页；当前手机要求内页宽高比不超过1.4，不能直接通过",
+      "imageCount": 14,
+      "wideImageCount": 12,
+      "images": [
+        {
+          "index": 0,
+          "url": "https://bookdash.org/wp-content/uploads/2018/05/i-can-dress-myself_en_20180430_cover.jpg",
+          "width": 567,
+          "height": 567,
+          "sha256": "8b0ee277f777e9813a9c092f45c1d69b32eb385e9e38cda30ad578b2dc83ba73"
+        },
+        {
+          "index": 1,
+          "url": "https://bookdash.org/wp-content/uploads/2018/05/i-can-dress-myself_en_20180430_page4.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "7d8f39665c3e0a4213645b9b664049af08a9ae0e97ac99a044cf3d0415120e17"
+        },
+        {
+          "index": 2,
+          "url": "https://bookdash.org/wp-content/uploads/2018/05/i-can-dress-myself_en_20180430_page5.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "83c2938960abfbe16e97063927b8402b370883b01e1e6501bb0139eef5f80ed7"
+        },
+        {
+          "index": 3,
+          "url": "https://bookdash.org/wp-content/uploads/2018/05/i-can-dress-myself_en_20180430_page6.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "02724f69edd45be713f52a4b2925038dea3d1bc9a0e8bdb6ab41dbf4c6abb8a6"
+        },
+        {
+          "index": 4,
+          "url": "https://bookdash.org/wp-content/uploads/2018/05/i-can-dress-myself_en_20180430_page7.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "5a49b9d56f6de710dce526707fc6c4d5a911f49bd2e8fa49fc45d7c564167c9a"
+        },
+        {
+          "index": 5,
+          "url": "https://bookdash.org/wp-content/uploads/2018/05/i-can-dress-myself_en_20180430_page8.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "89a8d14d50315bcfe9e9b6d85f8f968f3dae2a544eebb2a79a5c2b1f5ec88bc3"
+        },
+        {
+          "index": 6,
+          "url": "https://bookdash.org/wp-content/uploads/2018/05/i-can-dress-myself_en_20180430_page9.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "e6cd05a7910105588549a257d507a427fe0c0ff145a790d680eb4c7cde533061"
+        },
+        {
+          "index": 7,
+          "url": "https://bookdash.org/wp-content/uploads/2018/05/i-can-dress-myself_en_20180430_page10.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "a1f39583eea306bd4bf1abd9a2926179347714580c8ba691b14e86f0e8a836ff"
+        },
+        {
+          "index": 8,
+          "url": "https://bookdash.org/wp-content/uploads/2018/05/i-can-dress-myself_en_20180430_page11.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "61bdf43f297b01f49e51974a6fe4f8e120d55c4e4b1178aeed4e7ecf14591f4e"
+        },
+        {
+          "index": 9,
+          "url": "https://bookdash.org/wp-content/uploads/2018/05/i-can-dress-myself_en_20180430_page12.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "1d57799db143e5e246fc2c52e4d8301eb570e2bf77854a8295a9bef28505d4aa"
+        },
+        {
+          "index": 10,
+          "url": "https://bookdash.org/wp-content/uploads/2018/05/i-can-dress-myself_en_20180430_page13.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "5a6ad4187e1a34a84c7d0c1d9f1d943145ee138cbfc59ee53d691d55c4c09dce"
+        },
+        {
+          "index": 11,
+          "url": "https://bookdash.org/wp-content/uploads/2018/05/i-can-dress-myself_en_20180430_page14.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "52491de79db6276d819f69f0d7b9c8c0661b889e83e920f93f99e0ccdb073b7f"
+        },
+        {
+          "index": 12,
+          "url": "https://bookdash.org/wp-content/uploads/2018/05/i-can-dress-myself_en_20180430_page15.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "ae07652116fbdf7e404bd1dbf64e96d09a7cf4e6dd2615c8347f15a77ae3534e"
+        },
+        {
+          "index": 13,
+          "url": "https://bookdash.org/wp-content/uploads/2018/05/i-can-dress-myself_en_20180430_page17.jpg",
+          "width": 567,
+          "height": 567,
+          "sha256": "19f142d96af9614021ad1e63750ffe7c155fbe5459b6390966f7afa7df95f0a4"
+        }
+      ]
+    },
+    {
+      "slug": "i-want-to",
+      "title": "I want to!",
+      "url": "https://bookdash.org/books/i-want-to/",
+      "existingIds": [],
+      "existingState": "未收录",
+      "editorialPriority": "优先适配",
+      "editorialNote": "日常动作与 I want to 重复句式，适合看图启蒙。",
+      "displayPassed": false,
+      "displayBlocker": "原版含约2:1横向跨页；当前手机要求内页宽高比不超过1.4，不能直接通过",
+      "imageCount": 18,
+      "wideImageCount": 15,
+      "images": [
+        {
+          "index": 0,
+          "url": "https://bookdash.org/wp-content/uploads/2019/05/i-want-to_en_20190503_cover.jpg",
+          "width": 2362,
+          "height": 2362,
+          "sha256": "59e27745d1e9aaef0a895dc1aff33495514c466890ef67e89d13f7d23a158f1c"
+        },
+        {
+          "index": 1,
+          "url": "https://bookdash.org/wp-content/uploads/2019/05/i-want-to_en_20190503_page1.jpg",
+          "width": 2362,
+          "height": 2362,
+          "sha256": "c72012df6c2a4798373054b2193d7b7ac93f7923db303993efe2b9aec70e96ee"
+        },
+        {
+          "index": 2,
+          "url": "https://bookdash.org/wp-content/uploads/2019/05/i-want-to_en_20190503_page16.jpg",
+          "width": 4724,
+          "height": 2362,
+          "sha256": "c0686edb870cb8f5449b1452195f300e960b19f3f35bc2acf82cca7051726c6f"
+        },
+        {
+          "index": 3,
+          "url": "https://bookdash.org/wp-content/uploads/2019/05/i-want-to_en_20190503_page3.jpg",
+          "width": 4724,
+          "height": 2362,
+          "sha256": "7ba93bcff385d92bc681371794c394fb93f6b893d1bd89d011c927e884b59537"
+        },
+        {
+          "index": 4,
+          "url": "https://bookdash.org/wp-content/uploads/2019/05/i-want-to_en_20190503_page4.jpg",
+          "width": 4724,
+          "height": 2362,
+          "sha256": "77f0a8dd91f66b7c243ef953ec4303ed8149d84f82bd8c013aa7a5cb7ba9a680"
+        },
+        {
+          "index": 5,
+          "url": "https://bookdash.org/wp-content/uploads/2019/05/i-want-to_en_20190503_page5.jpg",
+          "width": 4724,
+          "height": 2362,
+          "sha256": "a633eafc96e77626e2908bc7366ebae247d9801a4eb039ad6b6fbd3f5b0a45fb"
+        },
+        {
+          "index": 6,
+          "url": "https://bookdash.org/wp-content/uploads/2019/05/i-want-to_en_20190503_page6.jpg",
+          "width": 4724,
+          "height": 2362,
+          "sha256": "3a80cda12438a09bd891711f3fcfa756b01dfdeac44a6d2a0ab884fdbc3d4b85"
+        },
+        {
+          "index": 7,
+          "url": "https://bookdash.org/wp-content/uploads/2019/05/i-want-to_en_20190503_page7.jpg",
+          "width": 4724,
+          "height": 2362,
+          "sha256": "d0698680f885aaca4cb831ed88782a25c03847e9b751b6de5e452e2efced308e"
+        },
+        {
+          "index": 8,
+          "url": "https://bookdash.org/wp-content/uploads/2019/05/i-want-to_en_20190503_page8.jpg",
+          "width": 4724,
+          "height": 2362,
+          "sha256": "431bcdf2fa31afe98d5241fb98dad5b26a586a75fdee1314db7a9201d5edc669"
+        },
+        {
+          "index": 9,
+          "url": "https://bookdash.org/wp-content/uploads/2019/05/i-want-to_en_20190503_page9.jpg",
+          "width": 4724,
+          "height": 2362,
+          "sha256": "045b43a09e42999d8913756d7aca2f359d2a282c78c4cb805fad3770c639db38"
+        },
+        {
+          "index": 10,
+          "url": "https://bookdash.org/wp-content/uploads/2019/05/i-want-to_en_20190503_page10.jpg",
+          "width": 4724,
+          "height": 2362,
+          "sha256": "0c25620eaef519ddd455f2d5e34c8078141e56325cca9d766f860f33b8e1c66d"
+        },
+        {
+          "index": 11,
+          "url": "https://bookdash.org/wp-content/uploads/2019/05/i-want-to_en_20190503_page11.jpg",
+          "width": 4724,
+          "height": 2362,
+          "sha256": "bb70daa4d459b95d5c409a338017ce6967b414bf8a23beea49a582aed21de0e8"
+        },
+        {
+          "index": 12,
+          "url": "https://bookdash.org/wp-content/uploads/2019/05/i-want-to_en_20190503_page12.jpg",
+          "width": 4724,
+          "height": 2362,
+          "sha256": "65901e7a990deaa2c8a7c9842cda9bd82a08ec4f5e1f37f5eddf38c55c07d11d"
+        },
+        {
+          "index": 13,
+          "url": "https://bookdash.org/wp-content/uploads/2019/05/i-want-to_en_20190503_page13.jpg",
+          "width": 4724,
+          "height": 2362,
+          "sha256": "1bddf40097d49b10255dedf680ad53b21197db1d196338a67d8b27c1481bfbe1"
+        },
+        {
+          "index": 14,
+          "url": "https://bookdash.org/wp-content/uploads/2019/05/i-want-to_en_20190503_page14.jpg",
+          "width": 4724,
+          "height": 2362,
+          "sha256": "35eb7713a09efb02762505b602afe0ea2bbeec4a4e46248bc801fdc8adb9a6af"
+        },
+        {
+          "index": 15,
+          "url": "https://bookdash.org/wp-content/uploads/2019/05/i-want-to_en_20190503_page15.jpg",
+          "width": 4724,
+          "height": 2362,
+          "sha256": "c804a06be5a96a627b438f3cb3582613adf21973d64dcb9bd40292a8bb9bc502"
+        },
+        {
+          "index": 16,
+          "url": "https://bookdash.org/wp-content/uploads/2019/05/i-want-to_en_20190503_page2.jpg",
+          "width": 4724,
+          "height": 2362,
+          "sha256": "bbe436a4bc1b87047e8e8ae35009fb28fd2f0a3e6fd5f16dd89475aa132774c8"
+        },
+        {
+          "index": 17,
+          "url": "https://bookdash.org/wp-content/uploads/2019/05/i-want-to_en_20190503_page17.jpg",
+          "width": 2362,
+          "height": 2362,
+          "sha256": "8c8c340fbbfeb5687dc92ba5c1668994d424279125fc5f259aa957d2fdfcc3af"
+        }
+      ]
+    },
+    {
+      "slug": "imagine",
+      "title": "Imagine",
+      "url": "https://bookdash.org/books/imagine/",
+      "existingIds": [],
+      "existingState": "未收录",
+      "editorialPriority": "暂缓无字书",
+      "editorialNote": "无字想象故事；没有可直接用作英文原句配音和重点词的正文。",
+      "displayPassed": false,
+      "displayBlocker": "原版含约2:1横向跨页；当前手机要求内页宽高比不超过1.4，不能直接通过",
+      "imageCount": 14,
+      "wideImageCount": 12,
+      "images": [
+        {
+          "index": 0,
+          "url": "https://bookdash.org/wp-content/uploads/2021/10/imagine_en_20210929_cover-1.jpg",
+          "width": 2362,
+          "height": 2362,
+          "sha256": "7069953ff565610e506532ae5587589bcb4905ee1f18d588198fe91a0fe2d5f5"
+        },
+        {
+          "index": 1,
+          "url": "https://bookdash.org/wp-content/uploads/2021/10/imagine_en_20210929_page4-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "e732aa097112f3f306e471e2a5f2bbcc28522f77996df25f7316db6d180d5f17"
+        },
+        {
+          "index": 2,
+          "url": "https://bookdash.org/wp-content/uploads/2021/10/imagine_en_20210929_page5-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "7e765efe52a5f5abf834e11b1ea919d6921bff12eb3ea57581a7bbf4c72b9a00"
+        },
+        {
+          "index": 3,
+          "url": "https://bookdash.org/wp-content/uploads/2021/10/imagine_en_20210929_page6-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "90457150e36ee4cf0150664a59b381e6ae8348628cc31b906ab7f8ac9fa3000b"
+        },
+        {
+          "index": 4,
+          "url": "https://bookdash.org/wp-content/uploads/2021/10/imagine_en_20210929_page7-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "51fb126d307325428ae2820a57598a061ea93ba609693fc72d7ad2c10a3f9012"
+        },
+        {
+          "index": 5,
+          "url": "https://bookdash.org/wp-content/uploads/2021/10/imagine_en_20210929_page8-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "c11c7b1e408252b090f67c7ce827ca0c69228ccb79658be245960dbffbb017fa"
+        },
+        {
+          "index": 6,
+          "url": "https://bookdash.org/wp-content/uploads/2021/10/imagine_en_20210929_page9-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "829f7ca5e4ef6af0c16e3e816b741809b82c0fa1720cc3e229acc9acc5183703"
+        },
+        {
+          "index": 7,
+          "url": "https://bookdash.org/wp-content/uploads/2021/10/imagine_en_20210929_page10-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "bb5b453aea1baea7c7912bdd273a7ca28da00f5d4d11666f1c6068471bcfe3c3"
+        },
+        {
+          "index": 8,
+          "url": "https://bookdash.org/wp-content/uploads/2021/10/imagine_en_20210929_page11-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "c886a6d946ad91de693d632d5eae24fb9485fb623e86ae7c6f191bb2c0b3b123"
+        },
+        {
+          "index": 9,
+          "url": "https://bookdash.org/wp-content/uploads/2021/10/imagine_en_20210929_page12-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "f0ee25bf4dfc1d81bd2e90705f155faf98b26be406dfa6d7206bc686f3c685a2"
+        },
+        {
+          "index": 10,
+          "url": "https://bookdash.org/wp-content/uploads/2021/10/imagine_en_20210929_page13-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "67dcf1dde9ab657e6b8d7d8cd1cd3da80e35e0fa3c8ef3e0986c29fc4d063026"
+        },
+        {
+          "index": 11,
+          "url": "https://bookdash.org/wp-content/uploads/2021/10/imagine_en_20210929_page14-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "2b6c7157380a8df8a6c51c3a7d03bd549a0ffa659769bec111bfba4f6ec15cd6"
+        },
+        {
+          "index": 12,
+          "url": "https://bookdash.org/wp-content/uploads/2021/10/imagine_en_20210929_page15-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "d7d20899a3ee0b36dd0ef31189d44eda2b195712665e251fb394e2237fd01443"
+        },
+        {
+          "index": 13,
+          "url": "https://bookdash.org/wp-content/uploads/2021/10/imagine_en_20210929_page17.jpg",
+          "width": 2362,
+          "height": 2362,
+          "sha256": "afef25d99e901f93069c2b33b3c43c6e7cd9b860d355b190f4c1282d8ba8527a"
+        }
+      ]
+    },
+    {
+      "slug": "is-there-anyone-like-me",
+      "title": "Is There Anyone Like Me?",
+      "url": "https://bookdash.org/books/is-there-anyone-like-me/",
+      "existingIds": [
+        "is-there-anyone-like-me"
+      ],
+      "existingState": "旧版已归档",
+      "editorialPriority": "备选",
+      "editorialNote": "自我认同主题；部分驴眼睛、牙齿近景较夸张，审美需团队确认。",
+      "displayPassed": false,
+      "displayBlocker": "原版含约2:1横向跨页；当前手机要求内页宽高比不超过1.4，不能直接通过",
+      "imageCount": 14,
+      "wideImageCount": 12,
+      "images": [
+        {
+          "index": 0,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/anyone-like-me_front-cover_20150811.jpg",
+          "width": 3331,
+          "height": 3331,
+          "sha256": "b00ccdd39c0703cef8ec32a82b892abd0c9b02b819e9cdaca926da38bf23f752"
+        },
+        {
+          "index": 1,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/anyone-like-me_interior-spreads_201508044.jpg",
+          "width": 4725,
+          "height": 2363,
+          "sha256": "c1ec97619bc3cac226663bd0ed1d981c485fcaed0767313597622b554ab143a0"
+        },
+        {
+          "index": 2,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/anyone-like-me_interior-spreads_201508045.jpg",
+          "width": 4725,
+          "height": 2363,
+          "sha256": "0bd6cdaab422d99ae0197ba2b26f9a5662b8b4ce195734152ae5cc104a72a319"
+        },
+        {
+          "index": 3,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/anyone-like-me_interior-spreads_201508046.jpg",
+          "width": 4725,
+          "height": 2363,
+          "sha256": "a444d966c65c95c4a2f2e40a46825fc18b07c727671000011d72fb8850a31a6c"
+        },
+        {
+          "index": 4,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/anyone-like-me_interior-spreads_201508047.jpg",
+          "width": 4725,
+          "height": 2363,
+          "sha256": "c7052038fd9441e9f610a8a4c5a5b73701d8a40b9d009c85888b9be933d0c129"
+        },
+        {
+          "index": 5,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/anyone-like-me_interior-spreads_201508048.jpg",
+          "width": 4725,
+          "height": 2363,
+          "sha256": "92df7a8b8ca52f4d9a586c734d71fc49ce7607d533d235be44133343c668c438"
+        },
+        {
+          "index": 6,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/anyone-like-me_interior-spreads_201508049.jpg",
+          "width": 4725,
+          "height": 2363,
+          "sha256": "6dbfde86dbec69690862fdddb24f5c42acd0928475483ca09fde2434c0fc5d77"
+        },
+        {
+          "index": 7,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/anyone-like-me_interior-spreads_2015080410.jpg",
+          "width": 4725,
+          "height": 2363,
+          "sha256": "2c8c6a58189238ffe8b5605ea6c6e5cde9051ed7f642bab846b602f9b05af378"
+        },
+        {
+          "index": 8,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/anyone-like-me_interior-spreads_2015080411.jpg",
+          "width": 4725,
+          "height": 2363,
+          "sha256": "99f1fb0d88f2f68230bf40f72922fd712a60fe0a5599f78e32723d54d6c82c7a"
+        },
+        {
+          "index": 9,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/anyone-like-me_interior-spreads_2015080412.jpg",
+          "width": 4725,
+          "height": 2363,
+          "sha256": "3c47e89c702b0a97495c726d72c394a23a0882408f9cb543fc58288cc364e66c"
+        },
+        {
+          "index": 10,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/anyone-like-me_interior-spreads_2015080413.jpg",
+          "width": 4725,
+          "height": 2363,
+          "sha256": "977da7ed4627cdcd167533fc9fe23c0aed372ebb1fc6c99d2414d9edcdbb3185"
+        },
+        {
+          "index": 11,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/anyone-like-me_interior-spreads_2015080414.jpg",
+          "width": 4725,
+          "height": 2363,
+          "sha256": "e90d76b5ee9a8dc9618e7accf384912b109ad27dde08c27e03c445f9d4e2f851"
+        },
+        {
+          "index": 12,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/anyone-like-me_interior-spreads_2015080415.jpg",
+          "width": 4725,
+          "height": 2363,
+          "sha256": "7fae4768fbab41284396ddbce758fdd7e0cdf9fe1d9fe4f54797bff645a9d6e0"
+        },
+        {
+          "index": 13,
+          "url": "https://bookdash.org/wp-content/uploads/2015/08/anyone-like-me_en_20200616_page17.jpg",
+          "width": 1969,
+          "height": 1969,
+          "sha256": "de6f32e750714e5fb9cea856c4d6a1c41f8c881ba9fde32e830401a4c3346805"
+        }
+      ]
+    },
+    {
+      "slug": "it-wasnt-me",
+      "title": "It Wasn’t Me!",
+      "url": "https://bookdash.org/books/it-wasnt-me/",
+      "existingIds": [],
+      "existingState": "未收录",
+      "editorialPriority": "备选",
+      "editorialNote": "宠物闯祸与拟声词；画面温和，需保留原文短感叹句，不补写故事。",
+      "displayPassed": false,
+      "displayBlocker": "原版含约2:1横向跨页；当前手机要求内页宽高比不超过1.4，不能直接通过",
+      "imageCount": 14,
+      "wideImageCount": 12,
+      "images": [
+        {
+          "index": 0,
+          "url": "https://bookdash.org/wp-content/uploads/2016/07/it-wasnt-me_english_20160724_Page_01.jpg",
+          "width": 788,
+          "height": 788,
+          "sha256": "58fee46a8e5802016a04d0dc5e4576a55189016798c553b628fbdc1a1d10afcb"
+        },
+        {
+          "index": 1,
+          "url": "https://bookdash.org/wp-content/uploads/2016/07/it-wasnt-me_english_20160724_Page_05.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "0e510e2c4b08bd7fc67f4f176a65b16ba1373de408176f913a65e8f339c8943d"
+        },
+        {
+          "index": 2,
+          "url": "https://bookdash.org/wp-content/uploads/2016/07/it-wasnt-me_english_20160724_Page_06.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "13aa576a7f6062f692416a16469f4fd18bd6d8ee180606f6266f976febbdb2af"
+        },
+        {
+          "index": 3,
+          "url": "https://bookdash.org/wp-content/uploads/2016/07/it-wasnt-me_english_20160724_Page_07.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "f2fe1412c6562036a2cafad379728da2347c91a7b14b88baf97b745982645161"
+        },
+        {
+          "index": 4,
+          "url": "https://bookdash.org/wp-content/uploads/2016/07/it-wasnt-me_english_20160724_Page_08.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "86910cd6db5ceba4c90e43898db5c92ac731eacffde317e85616dac78019abfc"
+        },
+        {
+          "index": 5,
+          "url": "https://bookdash.org/wp-content/uploads/2016/07/it-wasnt-me_english_20160724_Page_09.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "f99f84792c5925f7a7e2e7d511e4ed6c152ee50935fddf2e562e5830d551bda5"
+        },
+        {
+          "index": 6,
+          "url": "https://bookdash.org/wp-content/uploads/2016/07/it-wasnt-me_english_20160724_Page_10.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "c9d4f54d9847705e55f15d931d780d01d60a541712bdae0189756992d6c7641e"
+        },
+        {
+          "index": 7,
+          "url": "https://bookdash.org/wp-content/uploads/2016/07/it-wasnt-me_english_20160724_Page_11.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "1cb60faa84558e18270bcc00c8db9611efe28882113bc86d0a7364423a5d1ca4"
+        },
+        {
+          "index": 8,
+          "url": "https://bookdash.org/wp-content/uploads/2016/07/it-wasnt-me_english_20160724_Page_12.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "87a377ea49a6fe9d67903a131dd3e3062daa9c4076fb93456b539b238c2472f1"
+        },
+        {
+          "index": 9,
+          "url": "https://bookdash.org/wp-content/uploads/2016/07/it-wasnt-me_english_20160724_Page_13.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "65440a2070061c956bb4f5b4a2212412405bc40b1f055f38606a1f36bca3e586"
+        },
+        {
+          "index": 10,
+          "url": "https://bookdash.org/wp-content/uploads/2016/07/it-wasnt-me_english_20160724_Page_14.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "701411c788f18a654c67706978b681313b22056cb5df463d54c3a3bd4c470268"
+        },
+        {
+          "index": 11,
+          "url": "https://bookdash.org/wp-content/uploads/2016/07/it-wasnt-me_english_20160724_Page_15.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "dadd903d96e4e9267c1ad262c8e4d08c39913c7b6bc381b7837e3defc2f04121"
+        },
+        {
+          "index": 12,
+          "url": "https://bookdash.org/wp-content/uploads/2016/07/it-wasnt-me_english_20160724_Page_16.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "af49dd9bbec42792ee13fbf9ff08ed7a9d24b17c8d5c898aa80f3d54740e9d26"
+        },
+        {
+          "index": 13,
+          "url": "https://bookdash.org/wp-content/uploads/2016/07/it-wasnt-me_english_20160724_Page_18.jpg",
+          "width": 788,
+          "height": 788,
+          "sha256": "fd01a36b71b93d1266e2540495f4f51f7d1ec022d7dbbf60af4c8b264ce7ed27"
+        }
+      ]
+    },
+    {
+      "slug": "khaya-wants-to-row",
+      "title": "Khaya Wants to Row",
+      "url": "https://bookdash.org/books/khaya-wants-to-row/",
+      "existingIds": [],
+      "existingState": "未收录",
+      "editorialPriority": "备选",
+      "editorialNote": "祖孙、划船与梦想，画风温暖；地名和文化称谓需要中文陪读解释。",
+      "displayPassed": false,
+      "displayBlocker": "原版含约2:1横向跨页；当前手机要求内页宽高比不超过1.4，不能直接通过",
+      "imageCount": 14,
+      "wideImageCount": 12,
+      "images": [
+        {
+          "index": 0,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/khaya-wants-to-row_en_cover-1.jpg",
+          "width": 2362,
+          "height": 2362,
+          "sha256": "dce41af197bc30353fbaa04e33b461d4f5ac6e04fd2cfbbfcf290850b3daa20a"
+        },
+        {
+          "index": 1,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/khaya-wants-to-row_en_page4-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "d2deef246baa51cf5198730c572999ef5419ff2201a2953416fef66254ebb4a3"
+        },
+        {
+          "index": 2,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/khaya-wants-to-row_en_page5-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "2d0a93c98947e29e01920a10c158570cc452b0ab671f9ace3e3d19eb7f0ee051"
+        },
+        {
+          "index": 3,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/khaya-wants-to-row_en_page6-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "178696baf4b3440281f9e393bb63224ab2a3c9fd8a117ff64464342a4eb8aedd"
+        },
+        {
+          "index": 4,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/khaya-wants-to-row_en_page7-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "5f67ef7fc23f2b53e1d2995d5edf14389ea85df35144d1f61769b3d5573119cc"
+        },
+        {
+          "index": 5,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/khaya-wants-to-row_en_page8-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "22ab7d7ebc8b4009d09b90871b49fc736676399a800d908d800e34216408f75c"
+        },
+        {
+          "index": 6,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/khaya-wants-to-row_en_page9-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "e365df14fea5578ff491fb95160765e70f02afa4cb82050fada2a16c3dfe1d0a"
+        },
+        {
+          "index": 7,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/khaya-wants-to-row_en_page10-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "cf9bc1623c020c0cd2c8fce6ebd53c2d002611ca22617573f9e90e563aaae95e"
+        },
+        {
+          "index": 8,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/khaya-wants-to-row_en_page11-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "9814278c9b309287ded7c1d6106910607a23fc6f486d52a0eac4c46cb17affed"
+        },
+        {
+          "index": 9,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/khaya-wants-to-row_en_page12-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "1a4f01a8cd5e731a917948f6b31308937a23d442bdcfb64912a93b7c3d1c6fa1"
+        },
+        {
+          "index": 10,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/khaya-wants-to-row_en_page13-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "7f61befacf8eed55c632076e57d66c04a270a59455bc4d4d7c2548499d3a7f82"
+        },
+        {
+          "index": 11,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/khaya-wants-to-row_en_page14-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "1e8190756975d83f202f9f1083935b7e1ac2fc6ce478021419e9634fedf8ef32"
+        },
+        {
+          "index": 12,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/khaya-wants-to-row_en_page15-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "93c7ed155698461f70cef539b41105ad4ae4e3455cf270afdfcf9dd0b02643b9"
+        },
+        {
+          "index": 13,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/khaya-wants-to-row_en_page17.jpg",
+          "width": 2362,
+          "height": 2362,
+          "sha256": "34640160dee5bd896f8f38a2cca697775f83937c01bc850bbc5b8cefe8b1e4db"
+        }
+      ]
+    },
+    {
+      "slug": "knight-times",
+      "title": "Knight Times",
+      "url": "https://bookdash.org/books/knight-times/",
+      "existingIds": [],
+      "existingState": "未收录",
+      "editorialPriority": "暂不选",
+      "editorialNote": "喷火龙、武器、攻击、悬崖追逐等画面，当前不优先。",
+      "displayPassed": false,
+      "displayBlocker": "原版含约2:1横向跨页；当前手机要求内页宽高比不超过1.4，不能直接通过",
+      "imageCount": 16,
+      "wideImageCount": 15,
+      "images": [
+        {
+          "index": 0,
+          "url": "https://bookdash.org/wp-content/uploads/2018/01/knight-times_20180117_cover.jpg",
+          "width": 567,
+          "height": 567,
+          "sha256": "5dc252229a3817ae33c974f88f99c090d709a3d2fb5e193475c10b76eea751a7"
+        },
+        {
+          "index": 1,
+          "url": "https://bookdash.org/wp-content/uploads/2018/01/knight-times_20180117_page2.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "eedec6f21b75474c745ea66c0b97fc1bed99540de870dc2f911519b34e30ebc4"
+        },
+        {
+          "index": 2,
+          "url": "https://bookdash.org/wp-content/uploads/2018/01/knight-times_20180117_page3.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "1a05f11d6707fa6a293ef44a9c580c0a3208e6b786298fc711abfeabdf7c8974"
+        },
+        {
+          "index": 3,
+          "url": "https://bookdash.org/wp-content/uploads/2018/01/knight-times_20180117_page4.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "dffde51b52a1fd6699d5308a28dba52e9c7cf6d82a3305a64ae70a6385873cac"
+        },
+        {
+          "index": 4,
+          "url": "https://bookdash.org/wp-content/uploads/2018/01/knight-times_20180117_page5.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "64bb8248ee6fbb0e9ffbe0e467745aadc6a3b7239404a10409aed0d2bcd73af4"
+        },
+        {
+          "index": 5,
+          "url": "https://bookdash.org/wp-content/uploads/2018/01/knight-times_20180117_page6.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "e80879940aea8b8390ede9f1e8ad40601734d58527834c3671c330a96c244bc9"
+        },
+        {
+          "index": 6,
+          "url": "https://bookdash.org/wp-content/uploads/2018/01/knight-times_20180117_page7.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "bbcf7e7a8f0f618cbd6e64a2148b9f3c61546eb62509e5f85d0f132f2623b1d2"
+        },
+        {
+          "index": 7,
+          "url": "https://bookdash.org/wp-content/uploads/2018/01/knight-times_20180117_page8.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "6a08f3e102022733cfe08ad932fe527e24c86ad80dd8bd172a08eb765876c436"
+        },
+        {
+          "index": 8,
+          "url": "https://bookdash.org/wp-content/uploads/2018/01/knight-times_20180117_page9.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "caeac937d6d1baf6e830d92212c377512f4bc6253a12d8b30fd83fdc339350c7"
+        },
+        {
+          "index": 9,
+          "url": "https://bookdash.org/wp-content/uploads/2018/01/knight-times_20180117_page10.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "0848b204310cbf5a6c821814965d552cc4bfbd9f8a8f3eed66ac1de795606d93"
+        },
+        {
+          "index": 10,
+          "url": "https://bookdash.org/wp-content/uploads/2018/01/knight-times_20180117_page11.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "c72b7f755c624414f002745045c263dea5a9d2ee8d061af1a615e6eb975a3473"
+        },
+        {
+          "index": 11,
+          "url": "https://bookdash.org/wp-content/uploads/2018/01/knight-times_20180117_page12.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "bb71a8acd2f68c37a5ae71bf3893fb18aeefe1350a9b985611b3f74739a6f15b"
+        },
+        {
+          "index": 12,
+          "url": "https://bookdash.org/wp-content/uploads/2018/01/knight-times_20180117_page13.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "567f2861e93779cd5a8e3bd4f15dc6869b25a5e334baac01d44d15915c19078e"
+        },
+        {
+          "index": 13,
+          "url": "https://bookdash.org/wp-content/uploads/2018/01/knight-times_20180117_page14.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "23d7a1de8c517b932e639ae810d231549d3506de29cea8120317a98ad9d16888"
+        },
+        {
+          "index": 14,
+          "url": "https://bookdash.org/wp-content/uploads/2018/01/knight-times_20180117_page15.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "36da282c47eea5371a1d9e0fe37b12b04711dc35bd1c57b681862b799199a24d"
+        },
+        {
+          "index": 15,
+          "url": "https://bookdash.org/wp-content/uploads/2018/01/knight-times_20180117_page16.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "bcae0bfe45e404dd5d4ef42e0c8baab0c78146dc8400cb4b282e71bf73aa76a6"
+        }
+      ]
+    },
+    {
+      "slug": "lets-be-friends",
+      "title": "Let’s be Friends",
+      "url": "https://bookdash.org/books/lets-be-friends/",
+      "existingIds": [],
+      "existingState": "未收录",
+      "editorialPriority": "暂不选",
+      "editorialNote": "多次用鲨鱼尖牙和其他角色受惊作为冲突，当前不优先。",
+      "displayPassed": false,
+      "displayBlocker": "原版含约2:1横向跨页；当前手机要求内页宽高比不超过1.4，不能直接通过",
+      "imageCount": 14,
+      "wideImageCount": 12,
+      "images": [
+        {
+          "index": 0,
+          "url": "https://bookdash.org/wp-content/uploads/2022/05/lets-be-friends_en_20220529_cover.jpg",
+          "width": 2362,
+          "height": 2362,
+          "sha256": "d48e431ffa41dbc5cbdba2ad98e66bee5119d9fc98e8ea95d03155e959c00c3e"
+        },
+        {
+          "index": 1,
+          "url": "https://bookdash.org/wp-content/uploads/2022/05/lets-be-friends_en_20220529_page4-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "9c2f8c9b948f6a2f6ebecd35086f8f43963abf4fa3776ac61cd21ad7868ec0f2"
+        },
+        {
+          "index": 2,
+          "url": "https://bookdash.org/wp-content/uploads/2022/05/lets-be-friends_en_20220529_page5-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "72999adf92dfbd25914a3963f721de72a7848db2f1ec39bbfe6a28cc12d4b75a"
+        },
+        {
+          "index": 3,
+          "url": "https://bookdash.org/wp-content/uploads/2022/05/lets-be-friends_en_20220529_page6-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "0029d1184c719a71ae427259de4221e860e24dd0232bc36206bca750cbfdedd6"
+        },
+        {
+          "index": 4,
+          "url": "https://bookdash.org/wp-content/uploads/2022/05/lets-be-friends_en_20220529_page7-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "70be42e8d31908bebea9c287f22aebda4f897414b85a76f198e06888c6df8343"
+        },
+        {
+          "index": 5,
+          "url": "https://bookdash.org/wp-content/uploads/2022/05/lets-be-friends_en_20220529_page8-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "c5a1c4cf9d45190a37b41444ef8ac23fce29afbcc4bec12610ccad5b9331b08c"
+        },
+        {
+          "index": 6,
+          "url": "https://bookdash.org/wp-content/uploads/2022/05/lets-be-friends_en_20220529_page9-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "8747e035bbf8e42b43a7ee02cbc86750bcb86640ad76e0110cb7da564fdf460c"
+        },
+        {
+          "index": 7,
+          "url": "https://bookdash.org/wp-content/uploads/2022/05/lets-be-friends_en_20220529_page10-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "fa1b61e1c1a8dbf52eb7ecd349c6bc0861a67b1cd13d076d41579c151fc0e5fe"
+        },
+        {
+          "index": 8,
+          "url": "https://bookdash.org/wp-content/uploads/2022/05/lets-be-friends_en_20220529_page11-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "ccf8dfe94ea719a9e4e0e055a50438b0906c370846cb5a4e504fb141f2827a5a"
+        },
+        {
+          "index": 9,
+          "url": "https://bookdash.org/wp-content/uploads/2022/05/lets-be-friends_en_20220529_page12-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "1d1645fb63bb672da6ce7ffe322e3c484cd8da9269f361ae43963051f4468f64"
+        },
+        {
+          "index": 10,
+          "url": "https://bookdash.org/wp-content/uploads/2022/05/lets-be-friends_en_20220529_page13-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "710f80f3185848ccef2adad74d7ec804f503179257e80870ac93504546727657"
+        },
+        {
+          "index": 11,
+          "url": "https://bookdash.org/wp-content/uploads/2022/05/lets-be-friends_en_20220529_page14-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "91fff65eecf860c8fd8dd53dc28615eff61db0ba6647aad4e0cbf13d3adfe4a1"
+        },
+        {
+          "index": 12,
+          "url": "https://bookdash.org/wp-content/uploads/2022/05/lets-be-friends_en_20220529_page15-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "15d05ea31743eb850bdc0efb48a9bea42e108c3960359ceffcb3fa001fbda4d2"
+        },
+        {
+          "index": 13,
+          "url": "https://bookdash.org/wp-content/uploads/2022/05/lets-be-friends_en_20220529_page17.jpg",
+          "width": 2362,
+          "height": 2362,
+          "sha256": "25d405456568a5476d5ffb222716f332a7fbcba14c0d9a8201f27e3344feb44f"
+        }
+      ]
+    },
+    {
+      "slug": "lets-go-looking",
+      "title": "Let’s Go Looking",
+      "url": "https://bookdash.org/books/lets-go-looking/",
+      "existingIds": [],
+      "existingState": "未收录",
+      "editorialPriority": "优先适配",
+      "editorialNote": "户外感官观察，蜗牛、鸟窝和风，适合生活探索。",
+      "displayPassed": false,
+      "displayBlocker": "原版含约2:1横向跨页；当前手机要求内页宽高比不超过1.4，不能直接通过",
+      "imageCount": 14,
+      "wideImageCount": 12,
+      "images": [
+        {
+          "index": 0,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/lets-go-looking_en_cover-1.jpg",
+          "width": 2362,
+          "height": 2362,
+          "sha256": "4e9321026350ed35006affa1551344e4bcf9ec7644001a76bbf5681cc7e1cc4d"
+        },
+        {
+          "index": 1,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/lets-go-looking_en_page4-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "0bc49004ad0d30938b8ee00357d5d206392bda487bc7278558c3b5308673e559"
+        },
+        {
+          "index": 2,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/lets-go-looking_en_page5-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "dd1529902f38a07faddc63b83e4cda343068892ec585d527f026c7965c463166"
+        },
+        {
+          "index": 3,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/lets-go-looking_en_page6-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "9136d2171d2140bf5b2a8da14ba00846e6afe2c5c825a7456f45a162fb82f762"
+        },
+        {
+          "index": 4,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/lets-go-looking_en_page7-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "c98e854a8490cd4db4f2cccd9e3cc804a0d957c7b690599e706c295d67ed85e5"
+        },
+        {
+          "index": 5,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/lets-go-looking_en_page8-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "2e6a6306786cf570cba10ea9a0d0dfe979606b374bd745fb0ded736f9ddf809d"
+        },
+        {
+          "index": 6,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/lets-go-looking_en_page9-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "dcda1e6ce5bd4b40fdbfbe462421f43f16d69163c0ff5b340e6f9a6ba80bea7f"
+        },
+        {
+          "index": 7,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/lets-go-looking_en_page10-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "d2744aa4e8b3c70da782761b4c452c030a02ab9e7807435da789750eca70573a"
+        },
+        {
+          "index": 8,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/lets-go-looking_en_page11-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "23b0a8fb20a37ca63de29dcad692d3f117db3b1f1d144c8b2003bfa8af172119"
+        },
+        {
+          "index": 9,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/lets-go-looking_en_page12-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "9bc987501388b4dcdb38ee561ba52796d35635e4587ceb316f4237afbc409660"
+        },
+        {
+          "index": 10,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/lets-go-looking_en_page13-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "21a24621859974c6ee02bf27fbae3050a82df13f5c152cc612b7efe73be9b5b9"
+        },
+        {
+          "index": 11,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/lets-go-looking_en_page14-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "759822901bc1635b237033b1eb09e519799683d182dabc32f66e6d44b2f312d7"
+        },
+        {
+          "index": 12,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/lets-go-looking_en_page15-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "b833ef113d40251112de88e8f1290faf48b2afa93096f2909c9df1ac9213be59"
+        },
+        {
+          "index": 13,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/lets-go-looking_en_page17.jpg",
+          "width": 2362,
+          "height": 2362,
+          "sha256": "31f06f537d66a531ffb2ad2949942e884b5295522ffd5fe4dacd2918aca40727"
+        }
+      ]
+    },
+    {
+      "slug": "little-ants-big-plan",
+      "title": "Little Ant’s Big Plan",
+      "url": "https://bookdash.org/books/little-ants-big-plan/",
+      "existingIds": [],
+      "existingState": "未收录",
+      "editorialPriority": "备选",
+      "editorialNote": "阅读与解决问题；含同伴嘲笑和家长责备，适合有陪伴的故事进阶。",
+      "displayPassed": false,
+      "displayBlocker": "原版含约2:1横向跨页；当前手机要求内页宽高比不超过1.4，不能直接通过",
+      "imageCount": 14,
+      "wideImageCount": 13,
+      "images": [
+        {
+          "index": 0,
+          "url": "https://bookdash.org/wp-content/uploads/2015/07/little-ants-big-plan_20150712_Page_01.jpg",
+          "width": 1575,
+          "height": 1575,
+          "sha256": "e63c9f7b24a2e3347bd3c6d43f00f4d94e18e4f05da0c7e2bcc7bad8c176ec09"
+        },
+        {
+          "index": 1,
+          "url": "https://bookdash.org/wp-content/uploads/2015/07/little-ants-big-plan_20150712_Page_05.jpg",
+          "width": 3150,
+          "height": 1575,
+          "sha256": "29c15013d2d8998bad671ba858aa3949ed2255182cc071cd621fdb2cdea44529"
+        },
+        {
+          "index": 2,
+          "url": "https://bookdash.org/wp-content/uploads/2015/07/little-ants-big-plan_20150712_Page_06.jpg",
+          "width": 3150,
+          "height": 1575,
+          "sha256": "493922745213125e577bcd51cd2cc0f156ec1437971a942b65bb0949eca183bc"
+        },
+        {
+          "index": 3,
+          "url": "https://bookdash.org/wp-content/uploads/2015/07/little-ants-big-plan_20150712_Page_07.jpg",
+          "width": 3150,
+          "height": 1575,
+          "sha256": "886de11609d370d153a054c25d76240647c6e9f6cd46cd1cafe16e994e99512f"
+        },
+        {
+          "index": 4,
+          "url": "https://bookdash.org/wp-content/uploads/2015/07/little-ants-big-plan_20150712_Page_08.jpg",
+          "width": 3150,
+          "height": 1575,
+          "sha256": "47ada189196e9c6e354d664fd55836e657caefb9b70908c91234a8293b2dc617"
+        },
+        {
+          "index": 5,
+          "url": "https://bookdash.org/wp-content/uploads/2015/07/little-ants-big-plan_20150712_Page_09.jpg",
+          "width": 3150,
+          "height": 1575,
+          "sha256": "a1bc61d7f9dceb024f53df49b5984087c9d243eafb516b700e79253bc471b7b0"
+        },
+        {
+          "index": 6,
+          "url": "https://bookdash.org/wp-content/uploads/2015/07/little-ants-big-plan_20150712_Page_10.jpg",
+          "width": 3150,
+          "height": 1575,
+          "sha256": "eeecebc8898fddbf408bff81364c3d9f31d2bcb8911c5ad281603d8e7815bca8"
+        },
+        {
+          "index": 7,
+          "url": "https://bookdash.org/wp-content/uploads/2015/07/little-ants-big-plan_20150712_Page_11.jpg",
+          "width": 3150,
+          "height": 1575,
+          "sha256": "7c46bb11d664c2f3a5db3a6b4ae2bdf2135c7ba62c4beb3bf7fb3375c6ff8f8a"
+        },
+        {
+          "index": 8,
+          "url": "https://bookdash.org/wp-content/uploads/2015/07/little-ants-big-plan_20150712_Page_12.jpg",
+          "width": 3150,
+          "height": 1575,
+          "sha256": "13bf73c8473ba22b37be6c60cbfcd1b6b184170c49df5bee777e91b314ae1b5e"
+        },
+        {
+          "index": 9,
+          "url": "https://bookdash.org/wp-content/uploads/2015/07/little-ants-big-plan_20150712_Page_13.jpg",
+          "width": 3150,
+          "height": 1575,
+          "sha256": "c3a2608e286b487eae8d3c7c46eaade62f0ee04bf728befa4140340038b41f2d"
+        },
+        {
+          "index": 10,
+          "url": "https://bookdash.org/wp-content/uploads/2015/07/little-ants-big-plan_20150712_Page_14.jpg",
+          "width": 3150,
+          "height": 1575,
+          "sha256": "816c9dae0837a127cef35d3c80e81fd40628164664f01ced79971d23f8331d20"
+        },
+        {
+          "index": 11,
+          "url": "https://bookdash.org/wp-content/uploads/2015/07/little-ants-big-plan_20150712_Page_15.jpg",
+          "width": 3150,
+          "height": 1575,
+          "sha256": "926af9f9f1a05c3c0201e1a5f910f1963edbc96aa6c888357d2f4186e598f647"
+        },
+        {
+          "index": 12,
+          "url": "https://bookdash.org/wp-content/uploads/2015/07/little-ants-big-plan_20150712_Page_16.jpg",
+          "width": 3150,
+          "height": 1575,
+          "sha256": "58ae520ac7f8e29fc0cd4a5aedd3e977c81685985bbd22d11c51ee72f3b726c3"
+        },
+        {
+          "index": 13,
+          "url": "https://bookdash.org/wp-content/uploads/2015/07/little-ants-big-plan_20150712_Page_17.jpg",
+          "width": 3150,
+          "height": 1575,
+          "sha256": "7a3178fb3454519d9f92dcf5357d2378ce7af999895ade5ff8ec54f4c1144eb8"
+        }
+      ]
+    },
+    {
+      "slug": "little-goat",
+      "title": "Little Goat",
+      "url": "https://bookdash.org/books/little-goat/",
+      "existingIds": [],
+      "existingState": "未收录",
+      "editorialPriority": "优先适配",
+      "editorialNote": "柔和动物画风、草地与亲子重逢，适合短句共读；提示妈妈会来找它。",
+      "displayPassed": false,
+      "displayBlocker": "原版含约2:1横向跨页；当前手机要求内页宽高比不超过1.4，不能直接通过",
+      "imageCount": 18,
+      "wideImageCount": 15,
+      "images": [
+        {
+          "index": 0,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_cover.jpg",
+          "width": 567,
+          "height": 567,
+          "sha256": "f9a300e806ec8d74b2af4000f51d9a99e6d4748a7b4a7f4b3ed70877275b9d40"
+        },
+        {
+          "index": 1,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page1.jpg",
+          "width": 567,
+          "height": 567,
+          "sha256": "09a7e87792dee21aa4eedadad6a3c4c2c16e7f92adc3d8c8cc32619185753e73"
+        },
+        {
+          "index": 2,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page2.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "9c9f220e1b62718618c104433894b3b2c3b0170be4339f46438bfe9f234840d7"
+        },
+        {
+          "index": 3,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page3.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "712f98a31a0a1ad18e2b5c534b732f572014c4ef98405c7795f2b634a6b2dbb7"
+        },
+        {
+          "index": 4,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page4.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "ccca1788b530fa480624c22e2325a93c4758c9e600f1a363c9abe5cea414b63c"
+        },
+        {
+          "index": 5,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page5.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "de571eb8bc1b0a2acc2326e571dad6a5284b2748b39186e2c9de635d287913e7"
+        },
+        {
+          "index": 6,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page6.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "e828d8c6c9627b1b34ca4efcc901869fb351e0313f9b7b7a9060fa1dc5f7a2ad"
+        },
+        {
+          "index": 7,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page7.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "2366b013698dd2a3a1012085db6e2dcc788929f66314867941daed8e0d9f2f8f"
+        },
+        {
+          "index": 8,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page8.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "6cf25a32fda0f40cf0031abc55a3cd4c99578c836a776ae69a3d07526c34cfeb"
+        },
+        {
+          "index": 9,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page9.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "3c082f8ff0a926ad78bc5517ebf9ada7f52c7c063287e1178511ff3586c7b136"
+        },
+        {
+          "index": 10,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page10.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "fe0aa4e8f8886a6077401665de5347d1ecc852c3dd521aa93594592f577dab9a"
+        },
+        {
+          "index": 11,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page11.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "4aa9d974b3858fe0765131c9b604cb0b5801aea5fa7348f32044f0e7af12b481"
+        },
+        {
+          "index": 12,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page12.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "a5de1f382b8ab995e01d4d1684366ad4fd226904c817d2099998b6bbc54f4aee"
+        },
+        {
+          "index": 13,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page13.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "cb8626291d277fa5ec49495dae19414993d9e38c53cf9ba68f354b5ef8bb3b0a"
+        },
+        {
+          "index": 14,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page14.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "5aa140a891445f583400965b09ec5e250c1e1c6295bacf12e045e4e9ddda36b1"
+        },
+        {
+          "index": 15,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page15.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "b08af2fc807be6b83d50fbd951c8bac1d9737c96c46c8d53e4781c9f1efaad3b"
+        },
+        {
+          "index": 16,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page16.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "ae5c3997a188f941e4fdbb3a4159f38e572caef3c16b417d8c4970351d83ed2e"
+        },
+        {
+          "index": 17,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page17.jpg",
+          "width": 567,
+          "height": 567,
+          "sha256": "4bf1709cc850440c638d53836b2b574ee649d8b854e6cdfa1e51c741936ef06c"
+        }
+      ]
+    },
+    {
+      "slug": "little-sock-and-the-tiny-creatures",
+      "title": "Little Sock and the tiny creatures",
+      "url": "https://bookdash.org/books/little-sock-and-the-tiny-creatures/",
+      "existingIds": [],
+      "existingState": "未收录",
+      "editorialPriority": "暂不选",
+      "editorialNote": "怪趣造型和蜘蛛网、蜘蛛近景较多；当前温和审美目标不优先。",
+      "displayPassed": false,
+      "displayBlocker": "原版含约2:1横向跨页；当前手机要求内页宽高比不超过1.4，不能直接通过",
+      "imageCount": 18,
+      "wideImageCount": 15,
+      "images": [
+        {
+          "index": 0,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/little-sock_english_20160324_Page_01.jpg",
+          "width": 788,
+          "height": 788,
+          "sha256": "3e835d7574f5fd13732b2ff0a648df8c02734adfdc0b5ca7eb06345caf577734"
+        },
+        {
+          "index": 1,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/little-sock_english_20160324_Page_02.jpg",
+          "width": 788,
+          "height": 788,
+          "sha256": "dc4633afe7e4b343dfbc3cecab2d6679ad40dde78af81d5e03483a648c9fca25"
+        },
+        {
+          "index": 2,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/little-sock_english_20160324_Page_03.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "6ffb4fc00c43fb5962b499ede15a40f04cd41df27fa2f5bfcf856c48c7d56232"
+        },
+        {
+          "index": 3,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/little-sock_english_20160324_Page_04.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "375556867074acfceffa15f739185ca97909b13b10d671c911f5dfef415db732"
+        },
+        {
+          "index": 4,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/little-sock_english_20160324_Page_05.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "949f5baa38d857e6eb880f3ba3b2e17275790cca238e95036ce4a0e1e078f360"
+        },
+        {
+          "index": 5,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/little-sock_english_20160324_Page_06.jpg",
+          "width": 3150,
+          "height": 1575,
+          "sha256": "765714f8c98b6f7b5f996417997f5ca10e13184fee48f7fdcdef002dee660ce1"
+        },
+        {
+          "index": 6,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/little-sock_english_20160324_Page_07.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "99e547124fb073fe4a11106ddcc29a821110ffefb52f33789378c6d57b03edb0"
+        },
+        {
+          "index": 7,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/little-sock_english_20160324_Page_08.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "fb36afeb64a30b5dda9c661ff861c6c70b03f89a5f81715ae7837505b1759784"
+        },
+        {
+          "index": 8,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/little-sock_english_20160324_Page_09.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "41c174a4ad8d036d41328eefd7bdabd7296589b2013c6c4ee5fb9a0d11873a6a"
+        },
+        {
+          "index": 9,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/little-sock_english_20160324_Page_10.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "030a203ca9785d31b90652042b95b7daaf5a2f538bc831305de0ef27f729cad2"
+        },
+        {
+          "index": 10,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/little-sock_english_20160324_Page_11.jpg",
+          "width": 2221,
+          "height": 1111,
+          "sha256": "03f199a290be4626f04e14de1c34e19d74ece38f31a5697abec75e777103d0b1"
+        },
+        {
+          "index": 11,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/little-sock_english_20160324_Page_12.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "53aac57d2cddef47f1ee2147e17f7fca99d122b4d7c4adb2fd933219fa27efa4"
+        },
+        {
+          "index": 12,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/little-sock_english_20160324_Page_13.jpg",
+          "width": 1497,
+          "height": 749,
+          "sha256": "de3a4e30611445d469e7fac6e60a3659d2ca8b14023b100fda075dce8d2acdef"
+        },
+        {
+          "index": 13,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/little-sock_english_20160324_Page_14.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "c2ad83b9e55f69419e29c98e56bb4cfbd23363722a5671f50ac7691e728bc268"
+        },
+        {
+          "index": 14,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/little-sock_english_20160324_Page_15.jpg",
+          "width": 2300,
+          "height": 1150,
+          "sha256": "bee5af2f6fbbbb3ffaead6d012561218131f6d9543c63db1ca87a52c9316f594"
+        },
+        {
+          "index": 15,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/little-sock_english_20160324_Page_16.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "45343a5f38b212c01bd648b581019c56fb5e4509297209e6f32e81253a4a0df8"
+        },
+        {
+          "index": 16,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/little-sock_english_20160324_Page_17.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "d11056b34abbada3493f6dc3a1adafbd4128fc8cb2d7ae19fcd52289636c81dd"
+        },
+        {
+          "index": 17,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/little-sock_english_20160324_Page_18.jpg",
+          "width": 788,
+          "height": 788,
+          "sha256": "13ff8ddf8a21a67fa1ec48f0b2b7ca47e5b4555e1c1e92199417ddd2d93f9010"
+        }
+      ]
+    },
+    {
+      "slug": "look-up",
+      "title": "Look up!",
+      "url": "https://bookdash.org/books/look-up/",
+      "existingIds": [],
+      "existingState": "未收录",
+      "editorialPriority": "优先适配",
+      "editorialNote": "天空、鸟类和昼夜观察；有夜色与蝙蝠，需在夜晚页面保持轻柔解读。",
+      "displayPassed": false,
+      "displayBlocker": "原版含约2:1横向跨页；当前手机要求内页宽高比不超过1.4，不能直接通过",
+      "imageCount": 14,
+      "wideImageCount": 12,
+      "images": [
+        {
+          "index": 0,
+          "url": "https://bookdash.org/wp-content/uploads/2021/10/look-up_en_20211014_cover.jpg",
+          "width": 2362,
+          "height": 2362,
+          "sha256": "d5ab293aeb15d6e36e5d976d3b9a8878d4367f1eb0496137ed31b1693a050397"
+        },
+        {
+          "index": 1,
+          "url": "https://bookdash.org/wp-content/uploads/2021/10/look-up_en_20211014_page4-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "898bbdc91b2085977c1182c4f2716c5e8defbe7bdafcf6c776a4967bd5c91311"
+        },
+        {
+          "index": 2,
+          "url": "https://bookdash.org/wp-content/uploads/2021/10/look-up_en_20211014_page5-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "379ee6255ad4ef1a4e95f1a45ab3f39df3fa266337d1e431783b4ef03e5091d0"
+        },
+        {
+          "index": 3,
+          "url": "https://bookdash.org/wp-content/uploads/2021/10/look-up_en_20211014_page6-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "ffb08c4b50e6ed7040bdec2002e11505f2d9021b9bb99fdc64fc8937d08375a1"
+        },
+        {
+          "index": 4,
+          "url": "https://bookdash.org/wp-content/uploads/2021/10/look-up_en_20211014_page7-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "80aabc5a15da98a2a7f529d6db42bf1ce018104ca79f9b09cab7ded3d2d0b98f"
+        },
+        {
+          "index": 5,
+          "url": "https://bookdash.org/wp-content/uploads/2021/10/look-up_en_20211014_page8-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "092174df27c505ea73b4c0b59a32c6102912d169d95d090adb63eea9fc0fdf2b"
+        },
+        {
+          "index": 6,
+          "url": "https://bookdash.org/wp-content/uploads/2021/10/look-up_en_20211014_page9-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "8d43b0af98abad69cf619caac39d2bbe3645e13bbe5fcda6870e6c78a0c8bd8a"
+        },
+        {
+          "index": 7,
+          "url": "https://bookdash.org/wp-content/uploads/2021/10/look-up_en_20211014_page10-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "72af85067bf3afb4f0ff57b97163081b2b3400b9f413aefea35a75c0355fd6b9"
+        },
+        {
+          "index": 8,
+          "url": "https://bookdash.org/wp-content/uploads/2021/10/look-up_en_20211014_page11-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "f5fbb3cef7830296ea385205dce2ca8d0a2e0cdcf8955a4304d6431b14111c5b"
+        },
+        {
+          "index": 9,
+          "url": "https://bookdash.org/wp-content/uploads/2021/10/look-up_en_20211014_page12-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "d38e52267250055a795fa3a46a0ec3b10cb0ab5ae8fb5efd832a7832007091fe"
+        },
+        {
+          "index": 10,
+          "url": "https://bookdash.org/wp-content/uploads/2021/10/look-up_en_20211014_page13-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "7d6c53690e3bd2587aad1da9d2c118bb66f375418e5b440b91deb176b4deccb5"
+        },
+        {
+          "index": 11,
+          "url": "https://bookdash.org/wp-content/uploads/2021/10/look-up_en_20211014_page14-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "52cbf2e187aede684ce4358749acb3e6dabd612432f5da30269f82b7a7ee2f8a"
+        },
+        {
+          "index": 12,
+          "url": "https://bookdash.org/wp-content/uploads/2021/10/look-up_en_20211014_page15-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "cd350f9e5c28b3f8bd0b81590b7711ef5f7dafdff6e890455a7c3aeedd5fcab1"
+        },
+        {
+          "index": 13,
+          "url": "https://bookdash.org/wp-content/uploads/2021/10/look-up_en_20211014_page17.jpg",
+          "width": 2362,
+          "height": 2362,
+          "sha256": "6533b74da9280dd57f19198586153b0516ec4fdf355f84bef06b02d0a1c61a37"
+        }
+      ]
+    },
+    {
+      "slug": "mama-antelopes-house",
+      "title": "Mama Antelope’s House",
+      "url": "https://bookdash.org/books/mama-antelopes-house/",
+      "existingIds": [],
+      "existingState": "未收录",
+      "editorialPriority": "备选",
+      "editorialNote": "鲜明动物画风，但包含大声敲门、撞门与害怕；当前低龄温和目标不优先。",
+      "displayPassed": false,
+      "displayBlocker": "原版含约2:1横向跨页；当前手机要求内页宽高比不超过1.4，不能直接通过",
+      "imageCount": 14,
+      "wideImageCount": 12,
+      "images": [
+        {
+          "index": 0,
+          "url": "https://bookdash.org/wp-content/uploads/2019/11/mama-antelopes-house_em_20191121_cover-1.jpg",
+          "width": 1181,
+          "height": 1181,
+          "sha256": "6bd829ea8aabfe8e453ff9c446a9fe3b9edf887cff922b5ecdd88e7072d3120b"
+        },
+        {
+          "index": 1,
+          "url": "https://bookdash.org/wp-content/uploads/2019/11/mama-antelopes-house_en_20191121_page4.jpg",
+          "width": 2362,
+          "height": 1181,
+          "sha256": "97c211d8dfb32574f41a45fe7a96206c8f740cdf17006910566b67a6bcad3344"
+        },
+        {
+          "index": 2,
+          "url": "https://bookdash.org/wp-content/uploads/2019/11/mama-antelopes-house_en_20191121_page5.jpg",
+          "width": 2362,
+          "height": 1181,
+          "sha256": "3cf990ad94ff42f5e2a817c96a81c4f3db4ebcc8f2fc8de1da5cac4b1e617cf5"
+        },
+        {
+          "index": 3,
+          "url": "https://bookdash.org/wp-content/uploads/2019/11/mama-antelopes-house_en_20191121_page6.jpg",
+          "width": 2362,
+          "height": 1181,
+          "sha256": "bf2a4ae60fb0dc7bce40b6910a5f11cd456cf358fcf4a7239b504418c12e048d"
+        },
+        {
+          "index": 4,
+          "url": "https://bookdash.org/wp-content/uploads/2019/11/mama-antelopes-house_en_20191121_page7.jpg",
+          "width": 2362,
+          "height": 1181,
+          "sha256": "f5cc68b866110b981650c2ab1163816f767e151dcfdf76bdbd69a9a76aeea830"
+        },
+        {
+          "index": 5,
+          "url": "https://bookdash.org/wp-content/uploads/2019/11/mama-antelopes-house_en_20191121_page8.jpg",
+          "width": 2362,
+          "height": 1181,
+          "sha256": "53e1b0d7bb8f5c75c220cb153f29d943c6e42504a2d9ab99c16a529a28659b6b"
+        },
+        {
+          "index": 6,
+          "url": "https://bookdash.org/wp-content/uploads/2019/11/mama-antelopes-house_en_20191121_page9.jpg",
+          "width": 2362,
+          "height": 1181,
+          "sha256": "777f400e50dbba2c43c1d81b5f591089e911fae46f540c0d1f7af73ec23dc1ad"
+        },
+        {
+          "index": 7,
+          "url": "https://bookdash.org/wp-content/uploads/2019/11/mama-antelopes-house_en_20191121_page10.jpg",
+          "width": 2362,
+          "height": 1181,
+          "sha256": "833579b240c18e9dc18cfa24356cbfda28d08ae0ffd3a15c5ac3ec2da1af5673"
+        },
+        {
+          "index": 8,
+          "url": "https://bookdash.org/wp-content/uploads/2019/11/mama-antelopes-house_en_20191121_page11.jpg",
+          "width": 2362,
+          "height": 1181,
+          "sha256": "f194e06fd6b9932e81c0d2557a6ff32b095d27246569024437e898b323f55f40"
+        },
+        {
+          "index": 9,
+          "url": "https://bookdash.org/wp-content/uploads/2019/11/mama-antelopes-house_en_20191121_page12.jpg",
+          "width": 2362,
+          "height": 1181,
+          "sha256": "71d86bdf1c987023f7f58ca1dce9bb3e289c8b2ac46aa1058b86d82805b5e332"
+        },
+        {
+          "index": 10,
+          "url": "https://bookdash.org/wp-content/uploads/2019/11/mama-antelopes-house_en_20191121_page13.jpg",
+          "width": 2362,
+          "height": 1181,
+          "sha256": "4e111f9b041dc71dc3e43d48f3bf210a5c5435e5b94dbaf9171b32bb35e5046d"
+        },
+        {
+          "index": 11,
+          "url": "https://bookdash.org/wp-content/uploads/2019/11/mama-antelopes-house_en_20191121_page14.jpg",
+          "width": 2362,
+          "height": 1181,
+          "sha256": "0c9d25225ba4b57598b2073c67e07dc3e0dc8ee31fd206fe8c4ab94844b03f50"
+        },
+        {
+          "index": 12,
+          "url": "https://bookdash.org/wp-content/uploads/2019/11/mama-antelopes-house_en_20191121_page15.jpg",
+          "width": 2362,
+          "height": 1181,
+          "sha256": "b14a5635e1c1476cdc8fed6e0a1dd3e051425947d6862bee363aecea15e80fb0"
+        },
+        {
+          "index": 13,
+          "url": "https://bookdash.org/wp-content/uploads/2019/11/mama-antelopes-house_en_20191121_page17.jpg",
+          "width": 1181,
+          "height": 1181,
+          "sha256": "7d850c55d98229edce1098a6e8b2cc776295521d0a8cea262d294dcce737826d"
+        }
+      ]
+    },
+    {
+      "slug": "pako-the-pigeon-disappears",
+      "title": "Pako the Pigeon Disappears",
+      "url": "https://bookdash.org/books/pako-the-pigeon-disappears/",
+      "existingIds": [],
+      "existingState": "未收录",
+      "editorialPriority": "备选",
+      "editorialNote": "寻找与帮助受伤的小鸟，图画无血腥；需安抚并解释小鸟会康复。",
+      "displayPassed": false,
+      "displayBlocker": "原版含约2:1横向跨页；当前手机要求内页宽高比不超过1.4，不能直接通过",
+      "imageCount": 14,
+      "wideImageCount": 12,
+      "images": [
+        {
+          "index": 0,
+          "url": "https://bookdash.org/wp-content/uploads/2021/06/pako_the_pigeon_disappears_en_20210531_cover-1.jpg",
+          "width": 2362,
+          "height": 2362,
+          "sha256": "525ee2ec7f143c52b4edcb32bfa690471af14a3ce8c1864604ea5578b4625c79"
+        },
+        {
+          "index": 1,
+          "url": "https://bookdash.org/wp-content/uploads/2021/06/pako_the_pigeon_disappears_en_20210531_page4-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "a6ae5c32202bdd2ea38e08e9ff17e6e4dfc85cbd4c5be364c618f0a8d7f4cf5b"
+        },
+        {
+          "index": 2,
+          "url": "https://bookdash.org/wp-content/uploads/2021/06/pako_the_pigeon_disappears_en_20210531_page5-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "d3c6bf8945484be918ce20612fdf02ad8f801dcd11fe9ed2c2748ccfabf603e2"
+        },
+        {
+          "index": 3,
+          "url": "https://bookdash.org/wp-content/uploads/2021/06/pako_the_pigeon_disappears_en_20210531_page6-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "a4de66e1efbf934d291a452672b1cd3a9b1b3c46b63ed64b70ec7439dcbabe5b"
+        },
+        {
+          "index": 4,
+          "url": "https://bookdash.org/wp-content/uploads/2021/06/pako_the_pigeon_disappears_en_20210531_page7-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "39aa3a17f54926fbde6bf890ba12cd8889c6364917cb76e229b7f3bea5846ba6"
+        },
+        {
+          "index": 5,
+          "url": "https://bookdash.org/wp-content/uploads/2021/06/pako_the_pigeon_disappears_en_20210531_page8-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "bebf42c1e7c730bb2b29a95ff2b855cd3802a6a7db1213cfedc074e0bde1fb3b"
+        },
+        {
+          "index": 6,
+          "url": "https://bookdash.org/wp-content/uploads/2021/06/pako_the_pigeon_disappears_en_20210531_page9-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "7e1af6874c562870992c067150b520e4f9155f0a6fd4f8fbda5f90976837e29b"
+        },
+        {
+          "index": 7,
+          "url": "https://bookdash.org/wp-content/uploads/2021/06/pako_the_pigeon_disappears_en_20210531_page10-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "731ef0e849b8b80f2a98f82705650cddda187cdb25d9fc6051cd579433056415"
+        },
+        {
+          "index": 8,
+          "url": "https://bookdash.org/wp-content/uploads/2021/06/pako_the_pigeon_disappears_en_20210531_page11-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "2b0105cefbd5053a3956c42f62ae150b0f35a94aa50d7f7fe14c45529921ad84"
+        },
+        {
+          "index": 9,
+          "url": "https://bookdash.org/wp-content/uploads/2021/06/pako_the_pigeon_disappears_en_20210531_page12-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "383cf3da0f98d11bf5f2ddd79eea7766122191dec6c331ff30705bef079cb6ce"
+        },
+        {
+          "index": 10,
+          "url": "https://bookdash.org/wp-content/uploads/2021/06/pako_the_pigeon_disappears_en_20210531_page13-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "471f5cbfe1170ef344db82f32852196128ab55c5151d7323664030276088f06f"
+        },
+        {
+          "index": 11,
+          "url": "https://bookdash.org/wp-content/uploads/2021/06/pako_the_pigeon_disappears_en_20210531_page14-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "7fa64a06e0c1561aa46bfd4821bde1f3a6624f047019b657bbe1db2f44e89e38"
+        },
+        {
+          "index": 12,
+          "url": "https://bookdash.org/wp-content/uploads/2021/06/pako_the_pigeon_disappears_en_20210531_page15-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "567b7dff85740b6edf02a017d614dddf98f4ec21fea69985a6d0f6d780a4e119"
+        },
+        {
+          "index": 13,
+          "url": "https://bookdash.org/wp-content/uploads/2021/06/pako_the_pigeon_disappears_en_20210531_page17.jpg",
+          "width": 2362,
+          "height": 2362,
+          "sha256": "3028ec9163be2d02f8d8945af2a5b10f8e4deb876296690dec82da9ea366e52f"
+        }
+      ]
+    },
+    {
+      "slug": "sbus-special-shoes",
+      "title": "Sbu’s Special Shoes",
+      "url": "https://bookdash.org/books/sbus-special-shoes/",
+      "existingIds": [
+        "sbus-special-shoes"
+      ],
+      "existingState": "旧版已归档",
+      "editorialPriority": "备选",
+      "editorialNote": "动作想象，低对比铅笔画；原宽跨页导致人物在手机上偏小。",
+      "displayPassed": false,
+      "displayBlocker": "原版含约2:1横向跨页；当前手机要求内页宽高比不超过1.4，不能直接通过",
+      "imageCount": 18,
+      "wideImageCount": 15,
+      "images": [
+        {
+          "index": 0,
+          "url": "https://bookdash.org/wp-content/uploads/2016/01/sbus-special-shoes_Page_01.jpg",
+          "width": 788,
+          "height": 788,
+          "sha256": "8c8b45a0fe74875cfcc195c931b9f8e6b355f7736ece2d4c2ab2e87db8ca0147"
+        },
+        {
+          "index": 1,
+          "url": "https://bookdash.org/wp-content/uploads/2016/01/sbus-special-shoes_Page_02.jpg",
+          "width": 788,
+          "height": 788,
+          "sha256": "b30a148b6254291691dce95b9eada7e52d934efb49ab5faa1ab57b43a26ca478"
+        },
+        {
+          "index": 2,
+          "url": "https://bookdash.org/wp-content/uploads/2016/01/sbus-special-shoes_Page_03.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "24262319a727ff6f27e13d2b96f4e263960b6dc4934592a8e61dfbdeba7e864d"
+        },
+        {
+          "index": 3,
+          "url": "https://bookdash.org/wp-content/uploads/2016/01/sbus-special-shoes_Page_04.jpg",
+          "width": 3150,
+          "height": 1575,
+          "sha256": "f727be839844c05d990064c22f4c2e1bfce3c310ff0fdce48d700cf86931ffeb"
+        },
+        {
+          "index": 4,
+          "url": "https://bookdash.org/wp-content/uploads/2016/01/sbus-special-shoes_Page_05.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "571ab13a034cb5a4ab30459961e68335fe06915dd04303f8e24d29d9def42a38"
+        },
+        {
+          "index": 5,
+          "url": "https://bookdash.org/wp-content/uploads/2016/01/sbus-special-shoes_Page_06.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "ff80a9af0ecac74fca80915d38ef90ac7dac644d941da6e3fdab2c57ee3cc7fd"
+        },
+        {
+          "index": 6,
+          "url": "https://bookdash.org/wp-content/uploads/2016/01/sbus-special-shoes_Page_07.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "2ec585922ddb69c8404486d9a491cccc63489c51bd086ec407d790baad95b866"
+        },
+        {
+          "index": 7,
+          "url": "https://bookdash.org/wp-content/uploads/2016/01/sbus-special-shoes_Page_08.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "fd9f5cd2edf5c1b477aba3acd4c37fff024d32f536bef777d0f07d368690e972"
+        },
+        {
+          "index": 8,
+          "url": "https://bookdash.org/wp-content/uploads/2016/01/sbus-special-shoes_Page_09.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "c343ffb313333b7bc1feb3c0dfdca2ff61a3553bbcb1d7eed488c909476bf188"
+        },
+        {
+          "index": 9,
+          "url": "https://bookdash.org/wp-content/uploads/2016/01/sbus-special-shoes_Page_10.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "cecc4c3bc17ed9902baf65745d4477e72be23900fc345ba3175904b34f4ac05c"
+        },
+        {
+          "index": 10,
+          "url": "https://bookdash.org/wp-content/uploads/2016/01/sbus-special-shoes_Page_11.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "6de569add192d300b6bf6d4620f7d727870a0c4b94ab5dda62ae111ee35d3730"
+        },
+        {
+          "index": 11,
+          "url": "https://bookdash.org/wp-content/uploads/2016/01/sbus-special-shoes_Page_12.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "b141077f368f221a8d4c935be2e13bfed85bf7102bb7574c45a47381722dcf6f"
+        },
+        {
+          "index": 12,
+          "url": "https://bookdash.org/wp-content/uploads/2016/01/sbus-special-shoes_Page_13.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "a2162dedc4d8c22d1882e1f398a0eae0c89daa5451a3680756482a48aa365955"
+        },
+        {
+          "index": 13,
+          "url": "https://bookdash.org/wp-content/uploads/2016/01/sbus-special-shoes_Page_14.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "e7f5afe14fc605a1a6c5ac9c3b0e2426d41d54d09bb4bf0134589847088c7ca4"
+        },
+        {
+          "index": 14,
+          "url": "https://bookdash.org/wp-content/uploads/2016/01/sbus-special-shoes_Page_15.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "333c81c3d215e8ed22f7cab35cc9c96470c73f63a6c37823bc81a09b4e463636"
+        },
+        {
+          "index": 15,
+          "url": "https://bookdash.org/wp-content/uploads/2016/01/sbus-special-shoes_Page_16.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "00272cbe63504f7ec8b637a03a13da755973d772fef019f0428c307b347532c0"
+        },
+        {
+          "index": 16,
+          "url": "https://bookdash.org/wp-content/uploads/2016/01/sbus-special-shoes_Page_17.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "c1ddc2e6190b56b96e04a8c3c5e39e4f0a0f85f8b6102a3bd2ad2b5a99d7aaa9"
+        },
+        {
+          "index": 17,
+          "url": "https://bookdash.org/wp-content/uploads/2016/01/sbus-special-shoes_Page_18.jpg",
+          "width": 788,
+          "height": 788,
+          "sha256": "9db7168a1637d02ba4c5b2ef2a3bb7539cd63ff958098251766a824fc3d2e5df"
+        }
+      ]
+    },
+    {
+      "slug": "small-birds-big-adventure",
+      "title": "Small Bird’s Big Adventure",
+      "url": "https://bookdash.org/books/small-birds-big-adventure/",
+      "existingIds": [],
+      "existingState": "未收录",
+      "editorialPriority": "备选",
+      "editorialNote": "鸟与主人重逢的积极故事；画面有大面积夜色，优先级低于浅色日常类。",
+      "displayPassed": false,
+      "displayBlocker": "原版含约2:1横向跨页；当前手机要求内页宽高比不超过1.4，不能直接通过",
+      "imageCount": 18,
+      "wideImageCount": 15,
+      "images": [
+        {
+          "index": 0,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/small-birds-big-adventure_english_20161230_cover.jpg",
+          "width": 567,
+          "height": 567,
+          "sha256": "d2d39b4a481648bdba0ade5297f9087daed3ae47ca455f0e1837788a00e1ecda"
+        },
+        {
+          "index": 1,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/small-birds-big-adventure_english_20161230_page1.jpg",
+          "width": 567,
+          "height": 567,
+          "sha256": "443b1e974b6ccc2036341c79832b1b9af71350817b27fafed03ee7fb12f6e686"
+        },
+        {
+          "index": 2,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/small-birds-big-adventure_english_20161230_page2.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "203948039ce330bb2e4ebb1be7d093db30a83c3bbb1be01ad934cdd744921262"
+        },
+        {
+          "index": 3,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/small-birds-big-adventure_english_20161230_page3.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "be5e91b61a80d5496378df11cb571d8a85263ed90f2f8b9e09b2a79b9f36fc28"
+        },
+        {
+          "index": 4,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/small-birds-big-adventure_english_20161230_page4.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "b51b4c68c0f6481d80fc6eac284f4d1f34c69366e58b7de8bf8dfa27e6f85865"
+        },
+        {
+          "index": 5,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/small-birds-big-adventure_english_20161230_page5.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "3c97eb62ed374ab014c30070464eb1a987efa9cb8c83f8003a895283431b182a"
+        },
+        {
+          "index": 6,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/small-birds-big-adventure_english_20161230_page6.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "7d2984690ee12428cafd60bdd199791c8e54be35a0d92934376c18616bfc0810"
+        },
+        {
+          "index": 7,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/small-birds-big-adventure_english_20161230_page7.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "c6fe06e650e1a2651f440d8a463036094360296aed39385aadd2c87a6badb03e"
+        },
+        {
+          "index": 8,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/small-birds-big-adventure_english_20161230_page8.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "0302eec4f7aa22b5ea8e94a0d9e68a61ce2a0f6c6b9b6b62a94982294a0f03b6"
+        },
+        {
+          "index": 9,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/small-birds-big-adventure_english_20161230_page9.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "dc4744ab513e882b8c4864c4e6d1ed55fa45589bd2c192d2d546fdbd49c621cf"
+        },
+        {
+          "index": 10,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/small-birds-big-adventure_english_20161230_page10.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "a608bf2e769917998149afd2f0ca1018a40c94a7d8d6effd0ec60345d5755123"
+        },
+        {
+          "index": 11,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/small-birds-big-adventure_english_20161230_page11.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "098a068c25a13d0b031e3afb3c7b49bc11857fc85b073757642c84e2827b8780"
+        },
+        {
+          "index": 12,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/small-birds-big-adventure_english_20161230_page12.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "c26cddf2952b1ebc297d0af1c9295e136e8c75818888945bda840df62e83689a"
+        },
+        {
+          "index": 13,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/small-birds-big-adventure_english_20161230_page13.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "a15cf3f5450936fb0bb677dbbba3a6ae3c9fffcc5684b882574f16fe1b312809"
+        },
+        {
+          "index": 14,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/small-birds-big-adventure_english_20161230_page14.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "fa5011b8c5f98ed7b1d9f424e3803fed29a4baf9a0d73c7d876d2ba9c1ccb6d3"
+        },
+        {
+          "index": 15,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/small-birds-big-adventure_english_20161230_page15.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "66c0cac919e763bd0cbc114497972dd5fd2d6fe8d493c0c72f3ddbdc3cf53c18"
+        },
+        {
+          "index": 16,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/small-birds-big-adventure_english_20161230_page16.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "203948039ce330bb2e4ebb1be7d093db30a83c3bbb1be01ad934cdd744921262"
+        },
+        {
+          "index": 17,
+          "url": "https://bookdash.org/wp-content/uploads/2017/02/small-birds-big-adventure_english_20161230_page17.jpg",
+          "width": 567,
+          "height": 567,
+          "sha256": "adfdfa37719cca22032f8e070a28475bc4d557c5d7e7e88058d76ecc19fdd680"
+        }
+      ]
+    },
+    {
+      "slug": "springloaded",
+      "title": "Springloaded",
+      "url": "https://bookdash.org/books/springloaded/",
+      "existingIds": [],
+      "existingState": "未收录",
+      "editorialPriority": "暂缓无字书",
+      "editorialNote": "无字图画故事，当前不能凭插画自行补写英文后声称原文。",
+      "displayPassed": false,
+      "displayBlocker": "原版含约2:1横向跨页；当前手机要求内页宽高比不超过1.4，不能直接通过",
+      "imageCount": 14,
+      "wideImageCount": 12,
+      "images": [
+        {
+          "index": 0,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/springloaded_english_20160324_Page_01.jpg",
+          "width": 788,
+          "height": 788,
+          "sha256": "a5ccd4b9179295ec006d787b7c29dc2fa910f9a12c617671a941ec058e8f2522"
+        },
+        {
+          "index": 1,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/springloaded_english_20160324_Page_05.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "5bf6908f194acc29f707657fb14b16ecdad28dcf6618e03dd90ec08478ab3d76"
+        },
+        {
+          "index": 2,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/springloaded_english_20160324_Page_06.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "250bd6404ec1a2476da6c5479a9fb6878798a3f509ca0b95c1c2e4a3b391d122"
+        },
+        {
+          "index": 3,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/springloaded_english_20160324_Page_07.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "3c36423f24a0ab1ffdd9d0f43f983a04c7d1d23aaeb10c2f707c4e9109263672"
+        },
+        {
+          "index": 4,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/springloaded_english_20160324_Page_08.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "ce980915eff619b76dbd19a536840d2ef7f602173df994c2681e3aecc90fe5c8"
+        },
+        {
+          "index": 5,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/springloaded_english_20160324_Page_09.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "aa8e9f11a87a23df7f846976b20aa062814f85f0dfacc45e94aadb451d6259af"
+        },
+        {
+          "index": 6,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/springloaded_english_20160324_Page_10.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "bc528394e0fe1e78869be60a73bc37cd0c47ed1bd19e5b06052604b0ab6bc7f0"
+        },
+        {
+          "index": 7,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/springloaded_english_20160324_Page_11.jpg",
+          "width": 1578,
+          "height": 791,
+          "sha256": "a9417a89f2f67c20441a44330f5aab075f002a742dec6346cf410887e16a3acb"
+        },
+        {
+          "index": 8,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/springloaded_english_20160324_Page_12.jpg",
+          "width": 1579,
+          "height": 791,
+          "sha256": "20e5399888ab0c04f2662a1a8649e3c417f896f5e87def741fdf9bcbb2621d55"
+        },
+        {
+          "index": 9,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/springloaded_english_20160324_Page_13.jpg",
+          "width": 1579,
+          "height": 791,
+          "sha256": "4dfbd9eb03f48c9786d8ea5c7b6573c2e4d7142eaf10dc59e987c2f78a8533e5"
+        },
+        {
+          "index": 10,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/springloaded_english_20160324_Page_14.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "007b1c70af7a1cbfee60f02695a71d85d7a8cd9678c624cff7754281796f6a27"
+        },
+        {
+          "index": 11,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/springloaded_english_20160324_Page_15.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "5d49394a970c292f0124d5868391b5d9027bcf4092976fcc197d0097d71a676e"
+        },
+        {
+          "index": 12,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/springloaded_english_20160324_Page_16.jpg",
+          "width": 1578,
+          "height": 791,
+          "sha256": "9dbc8685b9c6fd3967fea82b556b763fa1426d936f30085dbc97430c4f16c53d"
+        },
+        {
+          "index": 13,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/springloaded_english_20160324_Page_18.jpg",
+          "width": 788,
+          "height": 788,
+          "sha256": "dfd4fa90ef1477ff12fe4b305ee2b9cdb1abd98cf6540f8c7d7a99a2917e0cb6"
+        }
+      ]
+    },
+    {
+      "slug": "the-baby-book",
+      "title": "The Baby Book",
+      "url": "https://bookdash.org/books/the-baby-book/",
+      "existingIds": [],
+      "existingState": "未收录",
+      "editorialPriority": "资源未就绪",
+      "editorialNote": "公开页只获得封面，未取得可逐页核对的内页；不能仅凭封面验收。",
+      "displayPassed": false,
+      "displayBlocker": "只取得封面，内页尚未验收",
+      "imageCount": 1,
+      "wideImageCount": 0,
+      "images": [
+        {
+          "index": 0,
+          "url": "https://bookdash.org/wp-content/uploads/2017/05/the-baby-book_english_20170220_cover-3.jpg",
+          "width": 567,
+          "height": 567,
+          "sha256": "23dd009f230bfe93f1bc6505bffc22b70e657a9eb7fafe26798d39bc9f760f5d"
+        }
+      ]
+    },
+    {
+      "slug": "the-best-gift",
+      "title": "The Best Gift",
+      "url": "https://bookdash.org/books/the-best-gift/",
+      "existingIds": [],
+      "existingState": "未收录",
+      "editorialPriority": "备选",
+      "editorialNote": "家庭鼓励与发现兴趣，篇幅及拟声词多，适合故事进阶。",
+      "displayPassed": false,
+      "displayBlocker": "原版含约2:1横向跨页；当前手机要求内页宽高比不超过1.4，不能直接通过",
+      "imageCount": 14,
+      "wideImageCount": 12,
+      "images": [
+        {
+          "index": 0,
+          "url": "https://bookdash.org/wp-content/uploads/2021/06/the-best-gift_en_20210531_cover-1.jpg",
+          "width": 2362,
+          "height": 2362,
+          "sha256": "59c20706291c91cb9672dcd54c53df12034d17791e5a9756441e51d80ad22459"
+        },
+        {
+          "index": 1,
+          "url": "https://bookdash.org/wp-content/uploads/2021/06/the-best-gift_en_20210531_page4-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "3f306cdd6bc6ff289bdc456a503f2b26fcb64b4a5d0fcdbf59c71b2fbe65da49"
+        },
+        {
+          "index": 2,
+          "url": "https://bookdash.org/wp-content/uploads/2021/06/the-best-gift_en_20210531_page5-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "574bde0d7939ec78f7481791c67c483e3f01b5c48c80c178ed461af3d873c4df"
+        },
+        {
+          "index": 3,
+          "url": "https://bookdash.org/wp-content/uploads/2021/06/the-best-gift_en_20210531_page6-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "c30f08fd4c99e6a04e83fb9b948a74ae69ec76ae59babc50aa9ae2534f03c185"
+        },
+        {
+          "index": 4,
+          "url": "https://bookdash.org/wp-content/uploads/2021/06/the-best-gift_en_20210531_page7-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "3754031ebc4bd57ad7950d98344fd08a4534cdfc25f7466ad2edaecedc028c73"
+        },
+        {
+          "index": 5,
+          "url": "https://bookdash.org/wp-content/uploads/2021/06/the-best-gift_en_20210531_page8-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "64c4464fcd77e8bf8fc537ad9ca1f55199cde4e20faa07f0940115ff043c407f"
+        },
+        {
+          "index": 6,
+          "url": "https://bookdash.org/wp-content/uploads/2021/06/the-best-gift_en_20210531_page9-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "926703ade1e1c72efd0485c1a689e527322f0b377ed678cde5dbaf31a89663ec"
+        },
+        {
+          "index": 7,
+          "url": "https://bookdash.org/wp-content/uploads/2021/06/the-best-gift_en_20210531_page10-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "f6cc993ea43f981b8837398cb6fb6af6519816335172dd8be9ab3c03615884ea"
+        },
+        {
+          "index": 8,
+          "url": "https://bookdash.org/wp-content/uploads/2021/06/the-best-gift_en_20210531_page11-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "3e7ab31ce232149111c234b7e8ab1fa94fe4ffa6b9f5a3c0dd95230551a76f8d"
+        },
+        {
+          "index": 9,
+          "url": "https://bookdash.org/wp-content/uploads/2021/06/the-best-gift_en_20210531_page12-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "10942929e08ac34918d4f124e5d5044c8049d24ec7ac70ac63ec175deff9a1b2"
+        },
+        {
+          "index": 10,
+          "url": "https://bookdash.org/wp-content/uploads/2021/06/the-best-gift_en_20210531_page13-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "7dde02eda7e9c6a44c3476575ab7cb42c2f645233a4421f1eebac985afee8505"
+        },
+        {
+          "index": 11,
+          "url": "https://bookdash.org/wp-content/uploads/2021/06/the-best-gift_en_20210531_page14-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "cd8a19dc76c967e4f33a178265a837f63935fe97e6fe44e97704c22a8c160af6"
+        },
+        {
+          "index": 12,
+          "url": "https://bookdash.org/wp-content/uploads/2021/06/the-best-gift_en_20210531_page15-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "b128982cad6dd5e301804354c1d37d87bc422a233d4679837b4f10f9b7c05df7"
+        },
+        {
+          "index": 13,
+          "url": "https://bookdash.org/wp-content/uploads/2021/06/the-best-gift_en_20210531_page17.jpg",
+          "width": 2362,
+          "height": 2362,
+          "sha256": "ee9fd5f72d28dc0da1aa96912795e3b1315cbaddb3b6ac52d00dfd617009cafe"
+        }
+      ]
+    },
+    {
+      "slug": "the-best-thing-ever",
+      "title": "The best thing ever",
+      "url": "https://bookdash.org/books/the-best-thing-ever/",
+      "existingIds": [],
+      "existingState": "未收录",
+      "editorialPriority": "备选",
+      "editorialNote": "创造、建造与祖孙互动，内容积极；有复杂拼贴和较小人物，需要重做手机编排。",
+      "displayPassed": false,
+      "displayBlocker": "原版含约2:1横向跨页；当前手机要求内页宽高比不超过1.4，不能直接通过",
+      "imageCount": 14,
+      "wideImageCount": 12,
+      "images": [
+        {
+          "index": 0,
+          "url": "https://bookdash.org/wp-content/uploads/2016/04/the-best-thing-ever_english_20160409_Page_01-1.jpg",
+          "width": 788,
+          "height": 788,
+          "sha256": "ca1af30d13bde5bcb3eab7f643f2ef239f0dacb0bf50b2296213d2af7c6b0b1b"
+        },
+        {
+          "index": 1,
+          "url": "https://bookdash.org/wp-content/uploads/2016/04/the-best-thing-ever_english_20160409_Page_05.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "ccaeed4a0089c5fbb1005c1573ffbbbe46714eb92c180dc1566b10dbe2cd0edc"
+        },
+        {
+          "index": 2,
+          "url": "https://bookdash.org/wp-content/uploads/2016/04/the-best-thing-ever_english_20160409_Page_06.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "bc18b24eb135f338284902382ee08da71f4aa630cc075baa2295710d33db646e"
+        },
+        {
+          "index": 3,
+          "url": "https://bookdash.org/wp-content/uploads/2016/04/the-best-thing-ever_english_20160409_Page_07.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "4ae518d68683a99adbc3cf673dd3f81ff7c1f0be1356249d5a7591506aa843f3"
+        },
+        {
+          "index": 4,
+          "url": "https://bookdash.org/wp-content/uploads/2016/04/the-best-thing-ever_english_20160409_Page_08.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "7f95c053213f5c6138106c852ebf539c20e19d7ef977ae0a45c5e09a2913336e"
+        },
+        {
+          "index": 5,
+          "url": "https://bookdash.org/wp-content/uploads/2016/04/the-best-thing-ever_english_20160409_Page_09.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "47c7be6ae100ff67e21655af1bec25bc784493699adab7be49546b19828a9de8"
+        },
+        {
+          "index": 6,
+          "url": "https://bookdash.org/wp-content/uploads/2016/04/the-best-thing-ever_english_20160409_Page_10.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "ad6d507f6486531e0e4e226ae3c36e312269eb8f116acc8e4c243e7e95ddc54f"
+        },
+        {
+          "index": 7,
+          "url": "https://bookdash.org/wp-content/uploads/2016/04/the-best-thing-ever_english_20160409_Page_11.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "63874d5fdac0ab6f4abee8205da3487612ff4b33bdadb100b14b940e18e58bf5"
+        },
+        {
+          "index": 8,
+          "url": "https://bookdash.org/wp-content/uploads/2016/04/the-best-thing-ever_english_20160409_Page_12.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "2e801b1e2d352043e01e4700b11c93a0fa4f2b178db2e7471e66ed2c1d7db601"
+        },
+        {
+          "index": 9,
+          "url": "https://bookdash.org/wp-content/uploads/2016/04/the-best-thing-ever_english_20160409_Page_13.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "b4fedde7451df798e58786dcf353dcc013066834628d55b425bfd191065c1637"
+        },
+        {
+          "index": 10,
+          "url": "https://bookdash.org/wp-content/uploads/2016/04/the-best-thing-ever_english_20160409_Page_14.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "719bdfb5e46d91149a0866cb9b9eb8d44c571570a7108e5f3a7ea7b4fd995c59"
+        },
+        {
+          "index": 11,
+          "url": "https://bookdash.org/wp-content/uploads/2016/04/the-best-thing-ever_english_20160409_Page_15.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "5d1f8e48fbbeeecc15eb2efab9c073509379c53a8820f67b81c994b5016d9a8b"
+        },
+        {
+          "index": 12,
+          "url": "https://bookdash.org/wp-content/uploads/2016/04/the-best-thing-ever_english_20160409_Page_16.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "569729200ef4ff9b7e7dd84560c3edf1b0951226f3fc9d4d1ccb876700f6b09d"
+        },
+        {
+          "index": 13,
+          "url": "https://bookdash.org/wp-content/uploads/2016/04/the-best-thing-ever_english_20160409_Page_18.jpg",
+          "width": 788,
+          "height": 788,
+          "sha256": "0a28379e6700e9519d647815f9c0225293707741a97f70e458fbe164091cb898"
+        }
+      ]
+    },
+    {
+      "slug": "the-box",
+      "title": "The Box",
+      "url": "https://bookdash.org/books/the-box/",
+      "existingIds": [],
+      "existingState": "未收录",
+      "editorialPriority": "备选",
+      "editorialNote": "合作与想象游戏；含喷火龙想象画面，需团队确认温和程度。",
+      "displayPassed": false,
+      "displayBlocker": "原版含约2:1横向跨页；当前手机要求内页宽高比不超过1.4，不能直接通过",
+      "imageCount": 14,
+      "wideImageCount": 12,
+      "images": [
+        {
+          "index": 0,
+          "url": "https://bookdash.org/wp-content/uploads/2022/06/the-box_en_20220606_cover.jpg",
+          "width": 2362,
+          "height": 2362,
+          "sha256": "83b3e909d40b844d66442a9967894136ac11d206746f6e3ae6285569e108fe2f"
+        },
+        {
+          "index": 1,
+          "url": "https://bookdash.org/wp-content/uploads/2022/06/the-box_en_20220606_page4-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "d341d167d943a5d9fef8878b1958eb58f5ed540c713ef06f094eabba21eff79b"
+        },
+        {
+          "index": 2,
+          "url": "https://bookdash.org/wp-content/uploads/2022/06/the-box_en_20220606_page5-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "a539ea2f59348178da21cc0b903652cc8db5d3fc259109d08ddccd35e8db4971"
+        },
+        {
+          "index": 3,
+          "url": "https://bookdash.org/wp-content/uploads/2022/06/the-box_en_20220606_page6-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "67e0e861f94b5e1b226b588a7cfbc6cc3a3330972357ec63c69bd29ba8ef6119"
+        },
+        {
+          "index": 4,
+          "url": "https://bookdash.org/wp-content/uploads/2022/06/the-box_en_20220606_page7-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "ef01b0295228d8ce9ee91cf1434278557584f88df17ed676a38c943ee4af25d6"
+        },
+        {
+          "index": 5,
+          "url": "https://bookdash.org/wp-content/uploads/2022/06/the-box_en_20220606_page8-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "ef8976900599e43975693da6adccab5cd7e6e5f1927c4c515bda1b484912fd1a"
+        },
+        {
+          "index": 6,
+          "url": "https://bookdash.org/wp-content/uploads/2022/06/the-box_en_20220606_page9-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "c96c6d8751cb41ff573417f3b00e7ac111edcc79fe5f389277e4f28552030244"
+        },
+        {
+          "index": 7,
+          "url": "https://bookdash.org/wp-content/uploads/2022/06/the-box_en_20220606_page10-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "671364a1a3e50d4455fbec15d7f68d4ac31608313cc7c9581c5b6af6e35a8116"
+        },
+        {
+          "index": 8,
+          "url": "https://bookdash.org/wp-content/uploads/2022/06/the-box_en_20220606_page11-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "b5403b4ba51e7215bbc832e85910116f87a5e396d38dbfaef8f76a5d2c391d00"
+        },
+        {
+          "index": 9,
+          "url": "https://bookdash.org/wp-content/uploads/2022/06/the-box_en_20220606_page12-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "4645d81e459679f86f518abdca9e09627567ac71d0ca57fb6b05b53c8d9f765e"
+        },
+        {
+          "index": 10,
+          "url": "https://bookdash.org/wp-content/uploads/2022/06/the-box_en_20220606_page13-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "81a1fdd63ef44221f7829eb20c8315223910bf08b43c3651b95b965df08606b0"
+        },
+        {
+          "index": 11,
+          "url": "https://bookdash.org/wp-content/uploads/2022/06/the-box_en_20220606_page14-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "cf89ac0f010fde33de3bde14ffc8219ecd54259e3e42bdf6225423584872b24a"
+        },
+        {
+          "index": 12,
+          "url": "https://bookdash.org/wp-content/uploads/2022/06/the-box_en_20220606_page15-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "5c85a4798d0d2ab6b3fa8ee8347c175b2158b078b612819bca8b96641f5fff2b"
+        },
+        {
+          "index": 13,
+          "url": "https://bookdash.org/wp-content/uploads/2022/06/the-box_en_20220606_page17.jpg",
+          "width": 2362,
+          "height": 2362,
+          "sha256": "95d5acff0fde158ecfb078c7219b159b03e052ef380deeb60278311e1b17dbcc"
+        }
+      ]
+    },
+    {
+      "slug": "tones-big-drop",
+      "title": "Tone’s Big Drop",
+      "url": "https://bookdash.org/books/tones-big-drop/",
+      "existingIds": [],
+      "existingState": "未收录",
+      "editorialPriority": "备选",
+      "editorialNote": "水滴与天气主题，主角友好；文字多且落下的情节需要轻松解读。",
+      "displayPassed": false,
+      "displayBlocker": "原版含约2:1横向跨页；当前手机要求内页宽高比不超过1.4，不能直接通过",
+      "imageCount": 14,
+      "wideImageCount": 12,
+      "images": [
+        {
+          "index": 0,
+          "url": "https://bookdash.org/wp-content/uploads/2017/03/tones-big-drop_english_cover.jpg",
+          "width": 567,
+          "height": 567,
+          "sha256": "59a75b69bfa7b8b0476aa8d8ad286c3bc720b30eaf4138d47ea4884530a2174d"
+        },
+        {
+          "index": 1,
+          "url": "https://bookdash.org/wp-content/uploads/2017/03/tones-big-drop_english_page4.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "69e0f0a465860612bf87df6c3e71d6507c228d8bf3d047665723d7487042229f"
+        },
+        {
+          "index": 2,
+          "url": "https://bookdash.org/wp-content/uploads/2017/03/tones-big-drop_english_page5.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "549e77e1f73592b47a21c4c5bdcdaccf3772a8594f32863b91916347fa27467f"
+        },
+        {
+          "index": 3,
+          "url": "https://bookdash.org/wp-content/uploads/2017/03/tones-big-drop_english_page6.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "2b3c69e8ec59c1e7c5887408619569eef5335e8cca6b535e20a6b6dfa5d1de74"
+        },
+        {
+          "index": 4,
+          "url": "https://bookdash.org/wp-content/uploads/2017/03/tones-big-drop_english_page7.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "4347963b828a886518b440eb627bfb868ca93a96e3ead8d3881c7b9ab90c7cba"
+        },
+        {
+          "index": 5,
+          "url": "https://bookdash.org/wp-content/uploads/2017/03/tones-big-drop_english_page8.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "052406dede9e089c1cad756ad2c0cc936b3129fbf71b9f16a68f21e13a287171"
+        },
+        {
+          "index": 6,
+          "url": "https://bookdash.org/wp-content/uploads/2017/03/tones-big-drop_english_page9.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "58a5858673ffdfd96cb3630d1975434139d9fdd41c328502d1b5025eea069b1a"
+        },
+        {
+          "index": 7,
+          "url": "https://bookdash.org/wp-content/uploads/2017/03/tones-big-drop_english_page10.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "55163d5a6f75f04e6502edfd4bd04ff1b9a621506acd85897a5feae603ab9958"
+        },
+        {
+          "index": 8,
+          "url": "https://bookdash.org/wp-content/uploads/2017/03/tones-big-drop_english_page11.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "d557247693ca61ebbdf80f5915f0957dd90047617701aa43407bedd84ad48ff6"
+        },
+        {
+          "index": 9,
+          "url": "https://bookdash.org/wp-content/uploads/2017/03/tones-big-drop_english_page12.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "013d12ee7dddaaf72b1007f629040e034c8fed696487f2c156555ce7fbb604d5"
+        },
+        {
+          "index": 10,
+          "url": "https://bookdash.org/wp-content/uploads/2017/03/tones-big-drop_english_page13.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "a2bb83663a4a0dda7f6dc5d53f9540129bca44cd7b878e624ad701fa3c3a9e43"
+        },
+        {
+          "index": 11,
+          "url": "https://bookdash.org/wp-content/uploads/2017/03/tones-big-drop_english_page14.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "e03569b47107921d5b24c52248fc2feded4b0675f1fe0db4ff6edae871f77e69"
+        },
+        {
+          "index": 12,
+          "url": "https://bookdash.org/wp-content/uploads/2017/03/tones-big-drop_english_page15.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "a1b1f134864afa021b8d27715075c924a74f088f9bd489de4a49c7948763681b"
+        },
+        {
+          "index": 13,
+          "url": "https://bookdash.org/wp-content/uploads/2017/03/tones-big-drop_english_page17.jpg",
+          "width": 567,
+          "height": 567,
+          "sha256": "e07a01685559d92fec7461909f00e12c27d90000f74b18beae188a61d0739c76"
+        }
+      ]
+    },
+    {
+      "slug": "whats-happened-to-our-water",
+      "title": "What’s happened to our water?",
+      "url": "https://bookdash.org/books/whats-happened-to-our-water/",
+      "existingIds": [],
+      "existingState": "未收录",
+      "editorialPriority": "进阶备选",
+      "editorialNote": "环境保护与水污染，含垃圾和脏水；适合进阶解释，非低龄入门首选。",
+      "displayPassed": false,
+      "displayBlocker": "原版含约2:1横向跨页；当前手机要求内页宽高比不超过1.4，不能直接通过",
+      "imageCount": 14,
+      "wideImageCount": 12,
+      "images": [
+        {
+          "index": 0,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/whats-happened-to-our-water_en_cover-1.jpg",
+          "width": 2362,
+          "height": 2362,
+          "sha256": "0c1591419877072bcd9b326065d75f3d1a81de5a191a002fe164090ece028e20"
+        },
+        {
+          "index": 1,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/whats-happened-to-our-water_en_page4-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "603245fe164940e14619607181c2d896b36eaafe8f23621a86d01dea7dcd1504"
+        },
+        {
+          "index": 2,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/whats-happened-to-our-water_en_page5-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "d1d94d8fcb7eb290c2e7a8d25d2115ca2778fe70b46d292087c6a0172569bd7f"
+        },
+        {
+          "index": 3,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/whats-happened-to-our-water_en_page6-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "fa76310398d75763ee4e9ecb3d0883f2794b11b87a3274742c96d5b3025c60b4"
+        },
+        {
+          "index": 4,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/whats-happened-to-our-water_en_page7-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "da8c9661f6868978c7e658fad6cf9cfe637013f016e1890b4928e386fccf9ee1"
+        },
+        {
+          "index": 5,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/whats-happened-to-our-water_en_page8-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "1e18624ba126a2aca1637fe8122a31b0220d5dfb9f9cd7392773862fa91601ee"
+        },
+        {
+          "index": 6,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/whats-happened-to-our-water_en_page9-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "48ff5496bde0faec59c2ffe7003c7fbf88ab4321385375506a3da4ce2e622de0"
+        },
+        {
+          "index": 7,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/whats-happened-to-our-water_en_page10-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "953567cd085646d0d29aff42b95d0d881d72d21d7532b53bac1dbce65d1ba857"
+        },
+        {
+          "index": 8,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/whats-happened-to-our-water_en_page11-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "7d2a91280fe3eba394f309159442a6bf6ef1abb106bc06edc3b908d21e21d756"
+        },
+        {
+          "index": 9,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/whats-happened-to-our-water_en_page12-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "88585fa2836b839d440e255fca327e63de9da7e107528e97eba2e23194cb7766"
+        },
+        {
+          "index": 10,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/whats-happened-to-our-water_en_page13-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "bd1eed7e0b9fc6f15d0abd62d147d7e0f0caf54da9519324f15a0dd0cda39d3c"
+        },
+        {
+          "index": 11,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/whats-happened-to-our-water_en_page14-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "ffbe541c5a5c9434ee4700353594d4db75a787e1019e65da331d3d2098db7bc4"
+        },
+        {
+          "index": 12,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/whats-happened-to-our-water_en_page15-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "184040ae9e3b096ef521a3079f636fd5867bc4e5ff4fed5992f12e9f0973ae30"
+        },
+        {
+          "index": 13,
+          "url": "https://bookdash.org/wp-content/uploads/2025/10/whats-happened-to-our-water_en_page17.jpg",
+          "width": 2362,
+          "height": 2362,
+          "sha256": "06e04443ac34a94eebfe6dc422a8a92a5c2048296980e8bc85eadb321fe8d4d3"
+        }
+      ]
+    },
+    {
+      "slug": "where-is-lulu",
+      "title": "Where is Lulu?",
+      "url": "https://bookdash.org/books/where-is-lulu/",
+      "existingIds": [],
+      "existingState": "未收录",
+      "editorialPriority": "优先适配",
+      "editorialNote": "家庭寻找、图书馆和爱阅读，生活场景明确，画面鲜明。",
+      "displayPassed": false,
+      "displayBlocker": "原版含约2:1横向跨页；当前手机要求内页宽高比不超过1.4，不能直接通过",
+      "imageCount": 16,
+      "wideImageCount": 14,
+      "images": [
+        {
+          "index": 0,
+          "url": "https://bookdash.org/wp-content/uploads/2018/05/where-is-lulu_en_20180503_cover.jpg",
+          "width": 567,
+          "height": 567,
+          "sha256": "c47061a4511378ddf6553be075f1289022bab17d3f9f3c8e87ce8b017556df62"
+        },
+        {
+          "index": 1,
+          "url": "https://bookdash.org/wp-content/uploads/2018/05/where-is-lulu_en_20180503_page3.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "33cb6bd29dd7d93559f1a94232585a63c476b46ba66430024fe66bccc1fa9c11"
+        },
+        {
+          "index": 2,
+          "url": "https://bookdash.org/wp-content/uploads/2018/05/where-is-lulu_en_20180503_page4.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "ece14127346b708f69572539177b76cb829fa4b8607d100cc0d0294596937000"
+        },
+        {
+          "index": 3,
+          "url": "https://bookdash.org/wp-content/uploads/2018/05/where-is-lulu_en_20180503_page5.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "c2295c83a9f18fe0f51763e6efbfb324eaffe1a77c6c14fb72d00b3ae651c98e"
+        },
+        {
+          "index": 4,
+          "url": "https://bookdash.org/wp-content/uploads/2018/05/where-is-lulu_en_20180503_page6.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "8fa1310ddfcc2733ba3c5211d57a87ec5b45ed9f7e3ece977e3612d517ffc0f0"
+        },
+        {
+          "index": 5,
+          "url": "https://bookdash.org/wp-content/uploads/2018/05/where-is-lulu_en_20180503_page7.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "4fb81df93db5c9b9c2c9366fe4bac0645a968f6539668e711ae150dbc679ad4b"
+        },
+        {
+          "index": 6,
+          "url": "https://bookdash.org/wp-content/uploads/2018/05/where-is-lulu_en_20180503_page8.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "73e4ca41b02af86c66fc0bb09b36230613c317dd9b50b735c877c89a7a114e40"
+        },
+        {
+          "index": 7,
+          "url": "https://bookdash.org/wp-content/uploads/2018/05/where-is-lulu_en_20180503_page9.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "d666b7b0a3d4591265ccdd2d96fe15fd5fdcc9272103b50a13f4961053f5fbe5"
+        },
+        {
+          "index": 8,
+          "url": "https://bookdash.org/wp-content/uploads/2018/05/where-is-lulu_en_20180503_page10.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "a431e62552b60767b8dc1d667ed64f9faac8b6a020225b8133816ad1b782c69d"
+        },
+        {
+          "index": 9,
+          "url": "https://bookdash.org/wp-content/uploads/2018/05/where-is-lulu_en_20180503_page11.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "8c9691b4e71811db7fb1af90304802f79b0927daab5dd6bdafe6e322c8192479"
+        },
+        {
+          "index": 10,
+          "url": "https://bookdash.org/wp-content/uploads/2018/05/where-is-lulu_en_20180503_page12.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "1ddaa156f4f9d360510f7d67032dfd949fe0f4133bb2d782906f52d6d9a256d8"
+        },
+        {
+          "index": 11,
+          "url": "https://bookdash.org/wp-content/uploads/2018/05/where-is-lulu_en_20180503_page13.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "f7c3b89d9bcfbe5f84fa3c72db342e049d33a47f744f7633006b015c66526e80"
+        },
+        {
+          "index": 12,
+          "url": "https://bookdash.org/wp-content/uploads/2018/05/where-is-lulu_en_20180503_page14.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "051bb505f49eb1ad21c240bc94c0685ff9e6ef33435c4e6ae06c485e1e68a832"
+        },
+        {
+          "index": 13,
+          "url": "https://bookdash.org/wp-content/uploads/2018/05/where-is-lulu_en_20180503_page15.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "0ec1f0d0ac4ded8df6ee67dad088950533596e3bdc724d85994b0a7ef85bced1"
+        },
+        {
+          "index": 14,
+          "url": "https://bookdash.org/wp-content/uploads/2018/05/where-is-lulu_en_20180503_page16.jpg",
+          "width": 1134,
+          "height": 567,
+          "sha256": "7f137392b46819319e7a66d6e621960e281ce04fdf579ca6570616f9ad9c7919"
+        },
+        {
+          "index": 15,
+          "url": "https://bookdash.org/wp-content/uploads/2018/05/where-is-lulu_en_20180503_page17.jpg",
+          "width": 567,
+          "height": 567,
+          "sha256": "28dbf4279a74b5a22a00f68c652aa0a7c9fabc14e8f64849a45653f7787309a3"
+        }
+      ]
+    },
+    {
+      "slug": "who-ate-my-hat",
+      "title": "Who ate my hat?",
+      "url": "https://bookdash.org/books/who-ate-my-hat/",
+      "existingIds": [],
+      "existingState": "未收录",
+      "editorialPriority": "备选",
+      "editorialNote": "动物食物与道歉，整体卡通；面部近景夸张，需团队确认画风。",
+      "displayPassed": false,
+      "displayBlocker": "原版含约2:1横向跨页；当前手机要求内页宽高比不超过1.4，不能直接通过",
+      "imageCount": 14,
+      "wideImageCount": 12,
+      "images": [
+        {
+          "index": 0,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/who-ate-my-hat_en_cover.jpg",
+          "width": 2362,
+          "height": 2362,
+          "sha256": "ae5baa17a99fb9e30f81a3c719a94ce032e89e8b6fd070211f6b91ca2b6f136a"
+        },
+        {
+          "index": 1,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/who-ate-my-hat_en_page4-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "8327efc5ec3aa864fa6c1c8b8a248d5fd86107bfb07b5509177ef8495417dc5f"
+        },
+        {
+          "index": 2,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/who-ate-my-hat_en_page5-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "500fea46f9132005afec0482c718962eb077dd2d4d467bfab0301cdb64fae7e5"
+        },
+        {
+          "index": 3,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/who-ate-my-hat_en_page6-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "a7883d75b8fedfa5ab4cd51a5ec3f4b5aab86e41560c69ef70c3438e47612ffd"
+        },
+        {
+          "index": 4,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/who-ate-my-hat_en_page7-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "2fc367411379e3c6d1b83f143f487b1823d16a9c47609b69df5ba81611c2bacf"
+        },
+        {
+          "index": 5,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/who-ate-my-hat_en_page8-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "15ec5a6c728e1813f109e05c445edd437ec55901d4915911b89d9a7a7c41001c"
+        },
+        {
+          "index": 6,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/who-ate-my-hat_en_page9-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "5fa3a71f29d81432338471db8c30f268559a915321255e7667ba367e55069764"
+        },
+        {
+          "index": 7,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/who-ate-my-hat_en_page10-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "ab2712eb2d08549f4e1c90c14cc23eff6cac5e5351c5e208072199207cd89cd4"
+        },
+        {
+          "index": 8,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/who-ate-my-hat_en_page11-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "49b27546147e246992bffa492986c09230a96065b1896069d8381f1b042861de"
+        },
+        {
+          "index": 9,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/who-ate-my-hat_en_page12-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "53159fed6f808195f4bc9697f43dac983caafff750a65996d7f274d0d2881001"
+        },
+        {
+          "index": 10,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/who-ate-my-hat_en_page13-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "bf00d2643dd69a6daa6277ea75fb6acfa5c911d13db1bf086f033f56ee188a43"
+        },
+        {
+          "index": 11,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/who-ate-my-hat_en_page14-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "2ce037f7477c30635134d2f5f34a54785600a12736842141d3ec8fdea5291432"
+        },
+        {
+          "index": 12,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/who-ate-my-hat_en_page15-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "3b10eed6d3b35ae6d720f1042d9f2bb21ae9b4e5a8c03f5c9c024b03a38b23ef"
+        },
+        {
+          "index": 13,
+          "url": "https://bookdash.org/wp-content/uploads/2026/10/who-ate-my-hat_en_page17.jpg",
+          "width": 2362,
+          "height": 2362,
+          "sha256": "485ee67a86d9a21c18bc9116ea69dc19ccfe2e395ca422bd95dbc834fd7530e6"
+        }
+      ]
+    },
+    {
+      "slug": "who-is-our-friend",
+      "title": "Who is our friend?",
+      "url": "https://bookdash.org/books/who-is-our-friend/",
+      "existingIds": [],
+      "existingState": "未收录",
+      "editorialPriority": "暂不选",
+      "editorialNote": "多次呈现鳄鱼张嘴尖牙近景，当前温和审美不优先。",
+      "displayPassed": false,
+      "displayBlocker": "原版含约2:1横向跨页；当前手机要求内页宽高比不超过1.4，不能直接通过",
+      "imageCount": 18,
+      "wideImageCount": 15,
+      "images": [
+        {
+          "index": 0,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/who-is-our-friend_english_20160324_Page_01.jpg",
+          "width": 788,
+          "height": 788,
+          "sha256": "f8047f9896ba588e06aba223513b8e99f1d64dc4c6431e0bb5d1de31d3922b7d"
+        },
+        {
+          "index": 1,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/who-is-our-friend_english_20160324_Page_02.jpg",
+          "width": 788,
+          "height": 796,
+          "sha256": "8e1662f991f39e39d3cf9732e742718097dd0b853d2c3302b4aebda4d74cb96b"
+        },
+        {
+          "index": 2,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/who-is-our-friend_english_20160324_Page_03.jpg",
+          "width": 1578,
+          "height": 791,
+          "sha256": "7ac595d0f9575c54e0eb1218c101824c22a8bdd0258015ea03d8bac8aa63144a"
+        },
+        {
+          "index": 3,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/who-is-our-friend_english_20160324_Page_04.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "460ab3c3b8fb1cc296d4599262ce37cfa85817de51efeb6bb7f6ae3ba3d7b8b8"
+        },
+        {
+          "index": 4,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/who-is-our-friend_english_20160324_Page_05.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "652c1bbdaf840c9afa2ae223927bc94573b9d587591ed5801aa6d16537f2f17a"
+        },
+        {
+          "index": 5,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/who-is-our-friend_english_20160324_Page_06.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "4fbaf43745274a4663dfb7211a45222e2022418ae50a5c740934245a32123992"
+        },
+        {
+          "index": 6,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/who-is-our-friend_en_page6-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "f4d806bee15be6da8607dfec4bd478518d208763e2d24b2b7d503937d0977032"
+        },
+        {
+          "index": 7,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/who-is-our-friend_english_20160324_Page_08.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "dd8efefd2f34b5cf25d30386c9c5a8068e6d34c7a9032fd73d87c93739205e3b"
+        },
+        {
+          "index": 8,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/who-is-our-friend_en_page8-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "sha256": "d426fc34cece11247487f92c153d693c1b9b20c8780bc1c43bf7fe88662a1b46"
+        },
+        {
+          "index": 9,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/who-is-our-friend_english_20160324_Page_10.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "cd734f01e6b1f84de64734f8388c0599641be3f584c814422c2a14fc5cd06cce"
+        },
+        {
+          "index": 10,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/who-is-our-friend_english_20160324_Page_11.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "ecdf7e1e405a664f83e4c971eebcad9e79076868181ea65fef9196b9aa7fb7ce"
+        },
+        {
+          "index": 11,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/who-is-our-friend_english_20160324_Page_12.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "d5875baa5e3acbd2229218ae5bf495fd87d8b43582817eaf54fde86031f08342"
+        },
+        {
+          "index": 12,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/who-is-our-friend_english_20160324_Page_13.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "01c2e87a6aa74d4083b827a28632af9f5b85fc929dc521901172d700a38f4d89"
+        },
+        {
+          "index": 13,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/who-is-our-friend_english_20160324_Page_14.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "5c3ae4965c3589949b3f55762998d2ac55db4202c1e57b6aaafa008cf4b04ecd"
+        },
+        {
+          "index": 14,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/who-is-our-friend_english_20160324_Page_15.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "c2f5d8024237d3252e3f721e6cbd0789bc08f3e44bae1d02a90b3fc3fbb744f8"
+        },
+        {
+          "index": 15,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/who-is-our-friend_english_20160324_Page_16.jpg",
+          "width": 1575,
+          "height": 788,
+          "sha256": "e50d00c875ff2a89d2c069b4df5b298f9197ec5ff86d59fe99ebbcfc3a3ddd61"
+        },
+        {
+          "index": 16,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/who-is-our-friend_english_20160324_Page_17.jpg",
+          "width": 1578,
+          "height": 791,
+          "sha256": "7ac595d0f9575c54e0eb1218c101824c22a8bdd0258015ea03d8bac8aa63144a"
+        },
+        {
+          "index": 17,
+          "url": "https://bookdash.org/wp-content/uploads/2016/03/who-is-our-friend_english_20160324_Page_18.jpg",
+          "width": 788,
+          "height": 788,
+          "sha256": "976e0687779e2e711231054acf4f61dbce4f8308cf09f5cd8f35376281eb5da1"
+        }
+      ]
+    },
+    {
+      "slug": "why-birds-sing-at-dawn",
+      "title": "Why Birds Sing at Dawn",
+      "url": "https://bookdash.org/books/why-birds-sing-at-dawn/",
+      "existingIds": [],
+      "existingState": "未收录",
+      "editorialPriority": "备选",
+      "editorialNote": "音乐、帮助与自然的故事；干旱、家人离开有少量担忧，适合故事进阶。",
+      "displayPassed": false,
+      "displayBlocker": "原版含约2:1横向跨页；当前手机要求内页宽高比不超过1.4，不能直接通过",
+      "imageCount": 14,
+      "wideImageCount": 12,
+      "images": [
+        {
+          "index": 0,
+          "url": "https://bookdash.org/wp-content/uploads/2019/11/Why-birds-sing-at-dawn_en_20191121_cover-1.jpg",
+          "width": 1181,
+          "height": 1181,
+          "sha256": "88faf4e149694f6269c341e7b1943c9a8b048645e6df1e402a0f78af55186c41"
+        },
+        {
+          "index": 1,
+          "url": "https://bookdash.org/wp-content/uploads/2019/11/Why-birds-sing-at-dawn_en_20191121_page4.jpg",
+          "width": 2362,
+          "height": 1181,
+          "sha256": "d71f71e8cd443f456098f8c9e21fd1d364c269af367a3d6e6e3e7b96ea6ab5e9"
+        },
+        {
+          "index": 2,
+          "url": "https://bookdash.org/wp-content/uploads/2019/11/Why-birds-sing-at-dawn_en_20191121_page5.jpg",
+          "width": 2362,
+          "height": 1181,
+          "sha256": "3407796cb52a31052588c6a75a0ec37b8283f6db7fe1252ad954e9b49bc97093"
+        },
+        {
+          "index": 3,
+          "url": "https://bookdash.org/wp-content/uploads/2019/11/Why-birds-sing-at-dawn_en_20191121_page6.jpg",
+          "width": 2362,
+          "height": 1181,
+          "sha256": "cf2ffd5825839372932d6dd89ca253f9c3fcc3be5de5589058c6c442fcebdc32"
+        },
+        {
+          "index": 4,
+          "url": "https://bookdash.org/wp-content/uploads/2019/11/Why-birds-sing-at-dawn_en_20191121_page7.jpg",
+          "width": 2362,
+          "height": 1181,
+          "sha256": "839f0f8ff932a836d3102cc37356166976c261c3a34b2c7f764a0f8094a88d8d"
+        },
+        {
+          "index": 5,
+          "url": "https://bookdash.org/wp-content/uploads/2019/11/Why-birds-sing-at-dawn_en_20191121_page8.jpg",
+          "width": 2362,
+          "height": 1181,
+          "sha256": "1991eb247c8c97fb1d587f91b3e9e8ea19f1f97bdc481abc6d70512cd18e1f2a"
+        },
+        {
+          "index": 6,
+          "url": "https://bookdash.org/wp-content/uploads/2019/11/Why-birds-sing-at-dawn_en_20191121_page9.jpg",
+          "width": 2362,
+          "height": 1181,
+          "sha256": "06efef668c8beacdc9013d4d549e3827c8ebad840e4945da033cd6adefb55fb1"
+        },
+        {
+          "index": 7,
+          "url": "https://bookdash.org/wp-content/uploads/2019/11/Why-birds-sing-at-dawn_en_20191121_page10.jpg",
+          "width": 2362,
+          "height": 1181,
+          "sha256": "9f8464ded1cfd901e88d5995d3aa0614af557a711fdfdc400c325c2b5aabf82f"
+        },
+        {
+          "index": 8,
+          "url": "https://bookdash.org/wp-content/uploads/2019/11/Why-birds-sing-at-dawn_en_20191121_page11.jpg",
+          "width": 2362,
+          "height": 1181,
+          "sha256": "b35fb97e462820c60e324f7aa36976027593fac79cfa32262ebf66720161268b"
+        },
+        {
+          "index": 9,
+          "url": "https://bookdash.org/wp-content/uploads/2019/11/Why-birds-sing-at-dawn_en_20191121_page12.jpg",
+          "width": 2362,
+          "height": 1181,
+          "sha256": "420a358884854b86a47161668e8a0d7ab21d79a4ce40940a2696f6ae1ffe203f"
+        },
+        {
+          "index": 10,
+          "url": "https://bookdash.org/wp-content/uploads/2019/11/Why-birds-sing-at-dawn_en_20191121_page13.jpg",
+          "width": 2362,
+          "height": 1181,
+          "sha256": "54af480b107880cb9cc72a8fd29e393731f81b738ca834455c485d090053f222"
+        },
+        {
+          "index": 11,
+          "url": "https://bookdash.org/wp-content/uploads/2019/11/Why-birds-sing-at-dawn_en_20191121_page14.jpg",
+          "width": 2362,
+          "height": 1181,
+          "sha256": "8490ab87c201dcac2aaa64eed94d57e37e5f4a1fa6bca366d176f2cc19061421"
+        },
+        {
+          "index": 12,
+          "url": "https://bookdash.org/wp-content/uploads/2019/11/Why-birds-sing-at-dawn_en_20191121_page15.jpg",
+          "width": 2362,
+          "height": 1181,
+          "sha256": "31099d902112016dfbedd42212b3571b96292cf14979155af1d7bfa5036a69b1"
+        },
+        {
+          "index": 13,
+          "url": "https://bookdash.org/wp-content/uploads/2019/11/Why-birds-sing-at-dawn_en_20191121_page17.jpg",
+          "width": 1181,
+          "height": 1181,
+          "sha256": "8232cfc4818c672c8517de27c31e9e5bbecfbd6de35755d36f6676f07fe562cb"
+        }
+      ]
+    }
+  ],
+  "archivedWithdrawals": {
+    "how-about-you": "怪物、骷髅及龇牙近景；同时撤下旧收藏和历史阅读入口。"
+  }
+}
