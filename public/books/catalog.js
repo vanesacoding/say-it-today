@@ -24647,5 +24647,1224 @@ window.JIGU_BOOKS = [
       "voiceType": "preset",
       "auditionRunId": 39355874472
     }
+  },
+  {
+    "id": "little-goat",
+    "title": "Little Goat",
+    "zh": "小山羊",
+    "stageId": "S3",
+    "primaryTheme": "nature",
+    "themeIds": [
+      "nature"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_cover.jpg",
+    "sourceCoverSha256": "f9a300e806ec8d74b2af4000f51d9a99e6d4748a7b4a7f4b3ed70877275b9d40",
+    "source": {
+      "name": "Book Dash",
+      "url": "https://bookdash.org/books/little-goat/",
+      "publisherUrl": "https://bookdash.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://bookdash.org/books/little-goat/",
+      "creators": [
+        "文字：Mirna Lawrence",
+        "插画：Nicola Anne Smith",
+        "编辑：Nabeela Kalla",
+        "设计：Tiffany Mac Sherry"
+      ],
+      "editorialNote": "保留全部故事跨页英文；仅合并换行，并按手机阅读分镜分页。原始插画文件未修改；可查看原跨页。中文释义、陪读提示与活动为叽咕新增。",
+      "spreads": [
+        {
+          "index": 4,
+          "image": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page4.jpg",
+          "imageSha256": "ccca1788b530fa480624c22e2325a93c4758c9e600f1a363c9abe5cea414b63c",
+          "text": "Little Goat went to find the sweetest grass. The sky was blue above. But she did not look up."
+        },
+        {
+          "index": 5,
+          "image": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page5.jpg",
+          "imageSha256": "de571eb8bc1b0a2acc2326e571dad6a5284b2748b39186e2c9de635d287913e7",
+          "text": "The river gurgled below. But Little Goat did not listen to its song."
+        },
+        {
+          "index": 6,
+          "image": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page6.jpg",
+          "imageSha256": "e828d8c6c9627b1b34ca4efcc901869fb351e0313f9b7b7a9060fa1dc5f7a2ad",
+          "text": "A bird called to her, saying, “How do you do?” But Little Goat didn’t answer."
+        },
+        {
+          "index": 7,
+          "image": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page7.jpg",
+          "imageSha256": "2366b013698dd2a3a1012085db6e2dcc788929f66314867941daed8e0d9f2f8f",
+          "text": "She just walked along looking for the sweetest grass."
+        },
+        {
+          "index": 8,
+          "image": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page8.jpg",
+          "imageSha256": "6cf25a32fda0f40cf0031abc55a3cd4c99578c836a776ae69a3d07526c34cfeb",
+          "text": "As she walked along, Little Goat moved further and further away from Mother Goat."
+        },
+        {
+          "index": 9,
+          "image": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page9.jpg",
+          "imageSha256": "3c082f8ff0a926ad78bc5517ebf9ada7f52c7c063287e1178511ff3586c7b136",
+          "text": "Little Goat found the sweetest grass. She ate and ate. She had walked far from Mother Goat."
+        },
+        {
+          "index": 10,
+          "image": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page10.jpg",
+          "imageSha256": "fe0aa4e8f8886a6077401665de5347d1ecc852c3dd521aa93594592f577dab9a",
+          "text": "Mother Goat wondered where Little Goat had gone. She looked in the mealie patch, but Little Goat was not there."
+        },
+        {
+          "index": 11,
+          "image": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page11.jpg",
+          "imageSha256": "4aa9d974b3858fe0765131c9b604cb0b5801aea5fa7348f32044f0e7af12b481",
+          "text": "Mother Goat ran to the river. But Little Goat was not there. “Where are you, Little Goat,” bleated Mother Goat."
+        },
+        {
+          "index": 12,
+          "image": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page12.jpg",
+          "imageSha256": "a5de1f382b8ab995e01d4d1684366ad4fd226904c817d2099998b6bbc54f4aee",
+          "text": "A bird called to Mother Goat. “Little Goat is asleep in the sweet grass across the bridge.”"
+        },
+        {
+          "index": 13,
+          "image": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page13.jpg",
+          "imageSha256": "cb8626291d277fa5ec49495dae19414993d9e38c53cf9ba68f354b5ef8bb3b0a",
+          "text": "Mother Goat crossed the bridge, to the sweet grass."
+        },
+        {
+          "index": 14,
+          "image": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page14.jpg",
+          "imageSha256": "5aa140a891445f583400965b09ec5e250c1e1c6295bacf12e045e4e9ddda36b1",
+          "text": "There she found Little Goat fast asleep."
+        },
+        {
+          "index": 15,
+          "image": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page15.jpg",
+          "imageSha256": "b08af2fc807be6b83d50fbd951c8bac1d9737c96c46c8d53e4781c9f1efaad3b",
+          "text": "“Wake up, Little Goat,” said Mother Goat gently. “You were lost!” “I wasn’t lost... I have been here all the time!” said Little Goat."
+        }
+      ]
+    },
+    "pages": [
+      {
+        "en": "Little Goat went to find the sweetest grass. The sky was blue above. But she did not look up.",
+        "sourceText": "Little Goat went to find the sweetest grass. The sky was blue above. But she did not look up.",
+        "zh": "小山羊去寻找最甜的青草。头顶的天空蓝蓝的，可她没有抬头看。",
+        "tip": "指指青草，再看看头顶：小山羊有没有抬头？",
+        "alt": "小山羊去寻找最甜的青草。头顶的天空蓝蓝的，可她没有抬头看。",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page4.jpg",
+        "sourceImageSha256": "ccca1788b530fa480624c22e2325a93c4758c9e600f1a363c9abe5cea414b63c",
+        "imageWidth": 1134,
+        "imageHeight": 567,
+        "mobilePanels": [
+          [
+            0.5,
+            0,
+            0.5,
+            1
+          ]
+        ],
+        "sourceSpreadIndex": 4,
+        "audioFile": "audio/01-7bdf6a81e8860d33.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/little-goat/audio/01-7bdf6a81e8860d33.mp3",
+        "sourceAudioSha256": "7bdf6a81e8860d33f45a04a2fdcc7a7890bbc73dc4bcb53d054b3fabd4bcc9ec",
+        "sourceAudioTextSha256": "17c9d1c6bae1f63fc556cee7604bcb91cccc07438fcc366dd1938114aad991b3",
+        "audioDurationSeconds": 7.872
+      },
+      {
+        "en": "The river gurgled below. But Little Goat did not listen to its song.",
+        "sourceText": "The river gurgled below. But Little Goat did not listen to its song.",
+        "zh": "河水在下面潺潺流淌，可小山羊没有听它的歌。",
+        "tip": "用手指沿着河水轻轻划一划。",
+        "alt": "河水在下面潺潺流淌，可小山羊没有听它的歌。",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page5.jpg",
+        "sourceImageSha256": "de571eb8bc1b0a2acc2326e571dad6a5284b2748b39186e2c9de635d287913e7",
+        "imageWidth": 1134,
+        "imageHeight": 567,
+        "mobilePanels": [
+          [
+            0,
+            0,
+            0.5,
+            1
+          ]
+        ],
+        "sourceSpreadIndex": 5,
+        "audioFile": "audio/02-5789301fa7d84a95.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/little-goat/audio/02-5789301fa7d84a95.mp3",
+        "sourceAudioSha256": "5789301fa7d84a950034cfbcaa7db5e49fd4716090ef0e92bbdbc48ae1dcd05e",
+        "sourceAudioTextSha256": "c69b5a479f2e145acd02268322d59a62edb3d2a574a691ae74fe5d95f2d113dc",
+        "audioDurationSeconds": 5.328
+      },
+      {
+        "en": "A bird called to her, saying, “How do you do?”",
+        "sourceText": "A bird called to her, saying, “How do you do?”",
+        "zh": "一只小鸟向她喊道：“你好呀！”",
+        "tip": "像小鸟一样向小山羊轻轻打个招呼。",
+        "alt": "一只小鸟向她喊道：“你好呀！”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page6.jpg",
+        "sourceImageSha256": "e828d8c6c9627b1b34ca4efcc901869fb351e0313f9b7b7a9060fa1dc5f7a2ad",
+        "imageWidth": 1134,
+        "imageHeight": 567,
+        "mobilePanels": [
+          [
+            0,
+            0,
+            0.5,
+            1
+          ]
+        ],
+        "sourceSpreadIndex": 6,
+        "audioFile": "audio/03-ddb51d4f1338cf19.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/little-goat/audio/03-ddb51d4f1338cf19.mp3",
+        "sourceAudioSha256": "ddb51d4f1338cf19ef29d11541bc1ac32838040bd84819890e96bfda9599ad3c",
+        "sourceAudioTextSha256": "22e4f99ff107ac3e569c44b80b946527b790c89c3b904b8495aac80bcd59a9f1",
+        "audioDurationSeconds": 4.056
+      },
+      {
+        "en": "But Little Goat didn’t answer.",
+        "sourceText": "But Little Goat didn’t answer.",
+        "zh": "可是小山羊没有回答。",
+        "tip": "看看小山羊，猜猜她是不是还在找青草。",
+        "alt": "可是小山羊没有回答。",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page6.jpg",
+        "sourceImageSha256": "e828d8c6c9627b1b34ca4efcc901869fb351e0313f9b7b7a9060fa1dc5f7a2ad",
+        "imageWidth": 1134,
+        "imageHeight": 567,
+        "mobilePanels": [
+          [
+            0.5,
+            0,
+            0.5,
+            1
+          ]
+        ],
+        "sourceSpreadIndex": 6,
+        "audioFile": "audio/04-873abc75d87f7305.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/little-goat/audio/04-873abc75d87f7305.mp3",
+        "sourceAudioSha256": "873abc75d87f730513509b877d94341e8f039c16169dda0b5cdcb56bdfb87892",
+        "sourceAudioTextSha256": "8e74f0dca16a9b6e21fdbfd1a588a6a4f5c906484bfc97fd3fa799d5106b9286",
+        "audioDurationSeconds": 2.376
+      },
+      {
+        "en": "She just walked along looking for the sweetest grass.",
+        "sourceText": "She just walked along looking for the sweetest grass.",
+        "zh": "她只是一直往前走，寻找最甜的青草。",
+        "tip": "用两根手指演一演小山羊走路。",
+        "alt": "她只是一直往前走，寻找最甜的青草。",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page7.jpg",
+        "sourceImageSha256": "2366b013698dd2a3a1012085db6e2dcc788929f66314867941daed8e0d9f2f8f",
+        "imageWidth": 1134,
+        "imageHeight": 567,
+        "mobilePanels": [
+          [
+            0,
+            0,
+            0.5,
+            1
+          ]
+        ],
+        "sourceSpreadIndex": 7,
+        "audioFile": "audio/05-0d2dd9604d05d6bc.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/little-goat/audio/05-0d2dd9604d05d6bc.mp3",
+        "sourceAudioSha256": "0d2dd9604d05d6bc2a8a8636bdf5b26f9260a96d84111039d03906e18c09fe13",
+        "sourceAudioTextSha256": "5410845e90d91dabd5153162f4479bc581aac10dd293a04c34398af72c53bd13",
+        "audioDurationSeconds": 4.68
+      },
+      {
+        "en": "As she walked along, Little Goat moved further and further away from Mother Goat.",
+        "sourceText": "As she walked along, Little Goat moved further and further away from Mother Goat.",
+        "zh": "小山羊走着走着，离山羊妈妈越来越远。",
+        "tip": "分别指指妈妈和小山羊，看看她们离得多远。",
+        "alt": "小山羊走着走着，离山羊妈妈越来越远。",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page8.jpg",
+        "sourceImageSha256": "6cf25a32fda0f40cf0031abc55a3cd4c99578c836a776ae69a3d07526c34cfeb",
+        "imageWidth": 1134,
+        "imageHeight": 567,
+        "mobilePanels": [
+          [
+            0,
+            0,
+            0.5,
+            1
+          ],
+          [
+            0.5,
+            0,
+            0.5,
+            1
+          ]
+        ],
+        "sourceSpreadIndex": 8,
+        "audioFile": "audio/06-4df2c663d6a3e520.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/little-goat/audio/06-4df2c663d6a3e520.mp3",
+        "sourceAudioSha256": "4df2c663d6a3e5201ce0f6476380d6033a19cd6102a1ea231ad2d8861a10d4f7",
+        "sourceAudioTextSha256": "4ea51753c0f1be3e07e0dbe28cb3a475cb1164ddb8ed0b8f481dfb1f8d75e750",
+        "audioDurationSeconds": 6.36
+      },
+      {
+        "en": "Little Goat found the sweetest grass. She ate and ate.",
+        "sourceText": "Little Goat found the sweetest grass. She ate and ate.",
+        "zh": "小山羊找到了最甜的青草。她吃呀吃。",
+        "tip": "像小山羊一样轻轻做个嚼青草的动作。",
+        "alt": "小山羊找到了最甜的青草。她吃呀吃。",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page9.jpg",
+        "sourceImageSha256": "3c082f8ff0a926ad78bc5517ebf9ada7f52c7c063287e1178511ff3586c7b136",
+        "imageWidth": 1134,
+        "imageHeight": 567,
+        "mobilePanels": [
+          [
+            0,
+            0,
+            0.5,
+            1
+          ]
+        ],
+        "sourceSpreadIndex": 9,
+        "audioFile": "audio/07-0c3e1ec983d64416.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/little-goat/audio/07-0c3e1ec983d64416.mp3",
+        "sourceAudioSha256": "0c3e1ec983d64416dc7310808fa51a3e91103f7a4b3937dd7b73066187932f4d",
+        "sourceAudioTextSha256": "e562d158d6a861d09cd18bd54956d0a036cd687a97c4e728ea63f398e3e8d721",
+        "audioDurationSeconds": 5.088
+      },
+      {
+        "en": "She had walked far from Mother Goat.",
+        "sourceText": "She had walked far from Mother Goat.",
+        "zh": "她已经走得离山羊妈妈很远了。",
+        "tip": "指指小山羊，想想妈妈在哪里。",
+        "alt": "她已经走得离山羊妈妈很远了。",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page9.jpg",
+        "sourceImageSha256": "3c082f8ff0a926ad78bc5517ebf9ada7f52c7c063287e1178511ff3586c7b136",
+        "imageWidth": 1134,
+        "imageHeight": 567,
+        "mobilePanels": [
+          [
+            0.5,
+            0,
+            0.5,
+            1
+          ]
+        ],
+        "sourceSpreadIndex": 9,
+        "audioFile": "audio/08-da763a131eadab73.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/little-goat/audio/08-da763a131eadab73.mp3",
+        "sourceAudioSha256": "da763a131eadab73e9451e15ffa86574800bc024da964c45d782f11b5044d331",
+        "sourceAudioTextSha256": "49f79258bc6df8592472d8406e13ded782aaf7fec57b290c7e49096fc90d4edd",
+        "audioDurationSeconds": 2.808
+      },
+      {
+        "en": "Mother Goat wondered where Little Goat had gone. She looked in the mealie patch, but Little Goat was not there.",
+        "sourceText": "Mother Goat wondered where Little Goat had gone. She looked in the mealie patch, but Little Goat was not there.",
+        "zh": "山羊妈妈想知道小山羊去了哪里。她在玉米地里找，可小山羊不在那里。",
+        "tip": "陪妈妈在玉米地里找一找。",
+        "alt": "山羊妈妈想知道小山羊去了哪里。她在玉米地里找，可小山羊不在那里。",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page10.jpg",
+        "sourceImageSha256": "fe0aa4e8f8886a6077401665de5347d1ecc852c3dd521aa93594592f577dab9a",
+        "imageWidth": 1134,
+        "imageHeight": 567,
+        "mobilePanels": [
+          [
+            0.5,
+            0,
+            0.5,
+            1
+          ]
+        ],
+        "sourceSpreadIndex": 10,
+        "audioFile": "audio/09-ffc42319798bc168.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/little-goat/audio/09-ffc42319798bc168.mp3",
+        "sourceAudioSha256": "ffc42319798bc168abe6a79e48e2b2bf0aadfafdf74c1c125b4c5030a6a8e5c7",
+        "sourceAudioTextSha256": "cf641c5ae882de68affb2f53844f0946a9e3120152ee6b5b5dbd1e5a3f65859a",
+        "audioDurationSeconds": 8.28
+      },
+      {
+        "en": "Mother Goat ran to the river. But Little Goat was not there. “Where are you, Little Goat,” bleated Mother Goat.",
+        "sourceText": "Mother Goat ran to the river. But Little Goat was not there. “Where are you, Little Goat,” bleated Mother Goat.",
+        "zh": "山羊妈妈跑到河边，可小山羊不在那里。“小山羊，你在哪里？”妈妈咩咩地叫着。",
+        "tip": "像妈妈一样轻轻叫一声小山羊。",
+        "alt": "山羊妈妈跑到河边，可小山羊不在那里。“小山羊，你在哪里？”妈妈咩咩地叫着。",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page11.jpg",
+        "sourceImageSha256": "4aa9d974b3858fe0765131c9b604cb0b5801aea5fa7348f32044f0e7af12b481",
+        "imageWidth": 1134,
+        "imageHeight": 567,
+        "mobilePanels": [
+          [
+            0,
+            0,
+            0.6,
+            1
+          ]
+        ],
+        "sourceSpreadIndex": 11,
+        "audioFile": "audio/10-84ca1a3cb719288f.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/little-goat/audio/10-84ca1a3cb719288f.mp3",
+        "sourceAudioSha256": "84ca1a3cb719288fc6a60ca7dff1c0fee794959119f78e03f63c07036a3c0562",
+        "sourceAudioTextSha256": "9c0e366e8339a2e72923a9615bc7b6db7a68366b1210d1fd1f2df5f7a64e926b",
+        "audioDurationSeconds": 9.312
+      },
+      {
+        "en": "A bird called to Mother Goat. “Little Goat is asleep in the sweet grass across the bridge.”",
+        "sourceText": "A bird called to Mother Goat. “Little Goat is asleep in the sweet grass across the bridge.”",
+        "zh": "一只小鸟对山羊妈妈喊：“小山羊在桥那边的青草丛里睡着了。”",
+        "tip": "指指小鸟，它告诉了妈妈什么？可以用中文说。",
+        "alt": "一只小鸟对山羊妈妈喊：“小山羊在桥那边的青草丛里睡着了。”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page12.jpg",
+        "sourceImageSha256": "a5de1f382b8ab995e01d4d1684366ad4fd226904c817d2099998b6bbc54f4aee",
+        "imageWidth": 1134,
+        "imageHeight": 567,
+        "mobilePanels": [
+          [
+            0,
+            0,
+            0.48,
+            1
+          ],
+          [
+            0.35,
+            0,
+            0.65,
+            1
+          ]
+        ],
+        "sourceSpreadIndex": 12,
+        "audioFile": "audio/11-55e13f704cd6b6de.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/little-goat/audio/11-55e13f704cd6b6de.mp3",
+        "sourceAudioSha256": "55e13f704cd6b6de07358eec10506c511170e54cb4d79102db8a79cad306149b",
+        "sourceAudioTextSha256": "03fc839b31edfca6d83f9efc3076c45521bb7c723a83e6ea01239e0fb9bfbd37",
+        "audioDurationSeconds": 6.168
+      },
+      {
+        "en": "Mother Goat crossed the bridge, to the sweet grass.",
+        "sourceText": "Mother Goat crossed the bridge, to the sweet grass.",
+        "zh": "山羊妈妈过了桥，来到甜甜的青草丛。",
+        "tip": "用手指沿着小桥走到另一边。",
+        "alt": "山羊妈妈过了桥，来到甜甜的青草丛。",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page13.jpg",
+        "sourceImageSha256": "cb8626291d277fa5ec49495dae19414993d9e38c53cf9ba68f354b5ef8bb3b0a",
+        "imageWidth": 1134,
+        "imageHeight": 567,
+        "mobilePanels": [
+          [
+            0,
+            0,
+            0.5,
+            1
+          ]
+        ],
+        "sourceSpreadIndex": 13,
+        "audioFile": "audio/12-753ca7293337a406.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/little-goat/audio/12-753ca7293337a406.mp3",
+        "sourceAudioSha256": "753ca7293337a4067f66f0f4296fbafba37e1c0c7c134b827fa9cdc194cd17fb",
+        "sourceAudioTextSha256": "116306ec6d70d0f406460a5f1cc46a3a5078e89126b67054ec4bbaaa9e965f4d",
+        "audioDurationSeconds": 3.816
+      },
+      {
+        "en": "There she found Little Goat fast asleep.",
+        "sourceText": "There she found Little Goat fast asleep.",
+        "zh": "她在那里找到了睡得正香的小山羊。",
+        "tip": "轻声说 asleep，再做一个安静的睡觉动作。",
+        "alt": "她在那里找到了睡得正香的小山羊。",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page14.jpg",
+        "sourceImageSha256": "5aa140a891445f583400965b09ec5e250c1e1c6295bacf12e045e4e9ddda36b1",
+        "imageWidth": 1134,
+        "imageHeight": 567,
+        "mobilePanels": [
+          [
+            0.42,
+            0,
+            0.58,
+            1
+          ]
+        ],
+        "sourceSpreadIndex": 14,
+        "audioFile": "audio/13-bf4ef4727e92c573.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/little-goat/audio/13-bf4ef4727e92c573.mp3",
+        "sourceAudioSha256": "bf4ef4727e92c5735a621a07be7d235b31ada8188bed511d505afd7ece71a4b8",
+        "sourceAudioTextSha256": "7e7b31dccd14c15f1f66404defcf133b46175f1f0efeec81938fe1722309dbe2",
+        "audioDurationSeconds": 3.408
+      },
+      {
+        "en": "“Wake up, Little Goat,” said Mother Goat gently. “You were lost!”",
+        "sourceText": "“Wake up, Little Goat,” said Mother Goat gently. “You were lost!”",
+        "zh": "“醒醒，小山羊。”妈妈温柔地说，“你走丢啦！”",
+        "tip": "用温柔的声音学妈妈叫醒小山羊。",
+        "alt": "“醒醒，小山羊。”妈妈温柔地说，“你走丢啦！”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page15.jpg",
+        "sourceImageSha256": "b08af2fc807be6b83d50fbd951c8bac1d9737c96c46c8d53e4781c9f1efaad3b",
+        "imageWidth": 1134,
+        "imageHeight": 567,
+        "mobilePanels": [
+          [
+            0,
+            0,
+            0.5,
+            1
+          ]
+        ],
+        "sourceSpreadIndex": 15,
+        "audioFile": "audio/14-62ccbf02e5b0f0db.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/little-goat/audio/14-62ccbf02e5b0f0db.mp3",
+        "sourceAudioSha256": "62ccbf02e5b0f0dbd93e4fe0545c9a741913298a85c8d2840d099808127e1395",
+        "sourceAudioTextSha256": "20a521f6b0006e0a51ec9c52f1619d4a5f120df3e9bdb4bef5fe73a50b84ac52",
+        "audioDurationSeconds": 5.52
+      },
+      {
+        "en": "“I wasn’t lost... I have been here all the time!” said Little Goat.",
+        "sourceText": "“I wasn’t lost... I have been here all the time!” said Little Goat.",
+        "zh": "“我没有走丢呀……我一直都在这里！”小山羊说。",
+        "tip": "看看小山羊的表情，轻轻抱一抱身边的孩子。",
+        "alt": "“我没有走丢呀……我一直都在这里！”小山羊说。",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2017/02/little-goat_english_20170208_page15.jpg",
+        "sourceImageSha256": "b08af2fc807be6b83d50fbd951c8bac1d9737c96c46c8d53e4781c9f1efaad3b",
+        "imageWidth": 1134,
+        "imageHeight": 567,
+        "mobilePanels": [
+          [
+            0.5,
+            0,
+            0.5,
+            1
+          ]
+        ],
+        "sourceSpreadIndex": 15,
+        "audioFile": "audio/15-81d07022cd2b0029.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/little-goat/audio/15-81d07022cd2b0029.mp3",
+        "sourceAudioSha256": "81d07022cd2b0029e352bcce33eb2986f62a20287f164a5d8d07f2e3bffe9947",
+        "sourceAudioTextSha256": "03c0a9e428136dcd344195d719fc136795c029390cb1cec0ed090f0fccb026cf",
+        "audioDurationSeconds": 5.328
+      }
+    ],
+    "narration": {
+      "kind": "ai",
+      "provider": "Doubao Seed TTS 2.0",
+      "voice": "Charlotte",
+      "voiceId": "en_female_authoritative-british_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5
+    },
+    "keywords": [
+      {
+        "id": "little-goat-grass",
+        "word": "grass",
+        "meaning": "青草",
+        "pageIndex": 0
+      },
+      {
+        "id": "little-goat-bird",
+        "word": "bird",
+        "meaning": "小鸟",
+        "pageIndex": 2
+      },
+      {
+        "id": "little-goat-asleep",
+        "word": "asleep",
+        "meaning": "睡着的",
+        "pageIndex": 10
+      }
+    ],
+    "activity": {
+      "title": "一起找妈妈",
+      "text": "用玩偶演一演小山羊和妈妈的故事，出门时记得和大人待在一起。",
+      "hint": "指一指、聊一聊就好，不需要打卡。"
+    }
+  },
+  {
+    "id": "can-we-eat-a-rainbow",
+    "title": "Can we eat a rainbow?",
+    "zh": "我们能吃彩虹吗？",
+    "stageId": "S2",
+    "primaryTheme": "discovery",
+    "themeIds": [
+      "discovery"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_cover-1.jpg",
+    "sourceCoverSha256": "ef28f5f50ede1058817f4ece87ffdfcfd03736d4abd5ed00a68156fc81ba6af0",
+    "source": {
+      "name": "Book Dash",
+      "url": "https://bookdash.org/books/can-we-eat-a-rainbow/",
+      "publisherUrl": "https://bookdash.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://bookdash.org/books/can-we-eat-a-rainbow/",
+      "creators": [
+        "文字：Marion Drew",
+        "插画：Kelly Brown",
+        "编辑：Ester Levinrad",
+        "设计：Katlego Modubu"
+      ],
+      "editorialNote": "保留全部故事跨页英文；仅合并换行，并按手机阅读分镜分页。原始插画文件未修改；可查看原跨页。中文释义、陪读提示与活动为叽咕新增。",
+      "spreads": [
+        {
+          "index": 1,
+          "image": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page4-scaled.jpg",
+          "imageSha256": "83b777a249d197f11ae9aafcf8f7af9f327275df5359308babf9b5c488e3c37b",
+          "text": "This is Pabi. This is her dog Boo. Boo has a very clever nose. They are going to find a rainbow with Boo’s nose. Let’s go!"
+        },
+        {
+          "index": 2,
+          "image": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page5-scaled.jpg",
+          "imageSha256": "0ef21122e48aee6e6ce53b970f8ca25bbc1aa2c7da356ea5b867c993671cc517",
+          "text": "Boo smells something green. Sniff, sniff, sniff. Boo finds smelly green socks. Can we eat smelly green socks? No! Boo’s nose smells some green ..."
+        },
+        {
+          "index": 3,
+          "image": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page6-scaled.jpg",
+          "imageSha256": "1c3c58d54fdfbba691da497c2aee340eb768a1011a5c0ba3ab4973a86f1bbb41",
+          "text": "Spinach! Can we eat spinach? Yes! And green beans! Crunchy beans and salty spinach. Can you think of something green that is good to eat?"
+        },
+        {
+          "index": 4,
+          "image": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page7-scaled.jpg",
+          "imageSha256": "75588bb0cd83c6558407440836787df167dcfc1bc0b712ae17e436d886f0f6bc",
+          "text": "Boo smells something red. Sniff, sniff, sniff. Oh! Boo smells red soap. Can we eat this red soapy soap? No! Boo’s nose smells some red ..."
+        },
+        {
+          "index": 5,
+          "image": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page8-scaled.jpg",
+          "imageSha256": "4992f00972b2419ea834c426b0e3936771ad3a924a553ac324b85a213a5e0fc9",
+          "text": "Tomatoes! Can we eat tomatoes? Yes! And beetroot! Tasty tomatoes and beautiful beetroot! Can you think of something red that is good to eat?"
+        },
+        {
+          "index": 6,
+          "image": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page9-scaled.jpg",
+          "imageSha256": "785575e957eed5cef375ad105750e8f49569382c975d52b319d5538c62818ddd",
+          "text": "Boo smells something orange. Sniff, sniff, sniff. Boo smells an orange bottle. Can we eat a bottle? No! Boo’s nose smells an orange ..."
+        },
+        {
+          "index": 7,
+          "image": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page10-scaled.jpg",
+          "imageSha256": "ecb0fcb0d5e842f5f4b12765c6e44306a66b7bf771c5f59529b6346d90e87d48",
+          "text": "Pumpkin! Can we eat pumpkin? Yes! And oranges! Sweet, juicy oranges and spicy pumpkin. Can you think of something orange that is good to eat?"
+        },
+        {
+          "index": 8,
+          "image": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page11-scaled.jpg",
+          "imageSha256": "ed77be6e1a689e2c928b052d6da22db78ff6fa419507649334c990cbdf865ef0",
+          "text": "Boo smells something yellow. Sniff, sniff, sniff. Boo smells her yellow ball. Can we eat Boo’s yellow ball? No! Boo’s nose smells some yellow ..."
+        },
+        {
+          "index": 9,
+          "image": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page12-scaled.jpg",
+          "imageSha256": "a2ab45ae396b64793194ef79c445cbd536f91b1cdb668b32b150ac19547206fc",
+          "text": "Mielies! Can we eat mielies? Yes! And bananas! Crunchy, crispy mielies and beautiful, big bananas. Can you think of something yellow that is good to eat?"
+        },
+        {
+          "index": 10,
+          "image": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page13-scaled.jpg",
+          "imageSha256": "77a337f8b6ac03cef9b8d1b8e2360050cc2ca061c7b4624986ded7835f3f28ff",
+          "text": "Boo and Pabi found green beans. And red tomatoes. And orange pumpkin. And yellow mielies. How beautiful! ‘Can we make a rainbow, Boo?’ asks Pabi."
+        },
+        {
+          "index": 11,
+          "image": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page14-scaled.jpg",
+          "imageSha256": "f38c76fbaa000dc92245540230d4a44dd549bba50488d35b5809787aacf3b3a9",
+          "text": "Yes! Look! ‘We are cooking a big, juicy, sweet, crispy, beautiful rainbow,’ says Pabi. ‘Can we eat our rainbow, Boo?’"
+        },
+        {
+          "index": 12,
+          "image": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page15-scaled.jpg",
+          "imageSha256": "5857c0e5703460cacaafce1fa2f8c6e24721a2fc83955c5add9d8e6778aead4e",
+          "text": "‘Yes, we can! Our rainbow tastes good! It makes us big and strong!’ You can eat a rainbow too!"
+        }
+      ]
+    },
+    "pages": [
+      {
+        "en": "This is Pabi. This is her dog Boo.",
+        "sourceText": "This is Pabi. This is her dog Boo.",
+        "zh": "这是帕比。这是她的小狗布布。",
+        "tip": "分别指指帕比和布布。",
+        "alt": "这是帕比。这是她的小狗布布。",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page4-scaled.jpg",
+        "sourceImageSha256": "83b777a249d197f11ae9aafcf8f7af9f327275df5359308babf9b5c488e3c37b",
+        "imageWidth": 2560,
+        "imageHeight": 1280,
+        "mobilePanels": [
+          [
+            0,
+            0,
+            0.5,
+            1
+          ]
+        ],
+        "sourceSpreadIndex": 1,
+        "audioFile": "audio/01-09c94e491376c59a.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/can-we-eat-a-rainbow/audio/01-09c94e491376c59a.mp3",
+        "sourceAudioSha256": "09c94e491376c59af05d6bbd87789d83756ecdec41573786f2517eab8f83cc28",
+        "sourceAudioTextSha256": "ef03c106eb5429921964610ca8339b306f4d375a8119a92ef9b8185e2bc24e08",
+        "audioDurationSeconds": 3.816
+      },
+      {
+        "en": "Boo has a very clever nose. They are going to find a rainbow with Boo’s nose. Let’s go!",
+        "sourceText": "Boo has a very clever nose. They are going to find a rainbow with Boo’s nose. Let’s go!",
+        "zh": "布布有一个很灵的鼻子。他们要靠布布的鼻子去寻找彩虹。出发吧！",
+        "tip": "指指彩虹，说一种你看见的颜色。",
+        "alt": "布布有一个很灵的鼻子。他们要靠布布的鼻子去寻找彩虹。出发吧！",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page4-scaled.jpg",
+        "sourceImageSha256": "83b777a249d197f11ae9aafcf8f7af9f327275df5359308babf9b5c488e3c37b",
+        "imageWidth": 2560,
+        "imageHeight": 1280,
+        "mobilePanels": [
+          [
+            0.5,
+            0,
+            0.5,
+            1
+          ]
+        ],
+        "sourceSpreadIndex": 1,
+        "audioFile": "audio/02-ff9e90bd21a62ce2.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/can-we-eat-a-rainbow/audio/02-ff9e90bd21a62ce2.mp3",
+        "sourceAudioSha256": "ff9e90bd21a62ce2a2e2aefead4cc5f5c573ceb6ab4e59b5fe75e45efa7b4925",
+        "sourceAudioTextSha256": "32147265223f54442aabf786afd7045d0b62ff4561ed204191be3c90101a243b",
+        "audioDurationSeconds": 8.04
+      },
+      {
+        "en": "Boo smells something green. Sniff, sniff, sniff. Boo finds smelly green socks.",
+        "sourceText": "Boo smells something green. Sniff, sniff, sniff. Boo finds smelly green socks.",
+        "zh": "布布闻到了绿色的东西。闻呀闻。布布找到了臭臭的绿袜子。",
+        "tip": "学布布轻轻闻一闻，再指指袜子。",
+        "alt": "布布闻到了绿色的东西。闻呀闻。布布找到了臭臭的绿袜子。",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page5-scaled.jpg",
+        "sourceImageSha256": "0ef21122e48aee6e6ce53b970f8ca25bbc1aa2c7da356ea5b867c993671cc517",
+        "imageWidth": 2560,
+        "imageHeight": 1280,
+        "mobilePanels": [
+          [
+            0,
+            0,
+            0.5,
+            1
+          ]
+        ],
+        "sourceSpreadIndex": 2,
+        "audioFile": "audio/03-6c33f45ed6be4b66.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/can-we-eat-a-rainbow/audio/03-6c33f45ed6be4b66.mp3",
+        "sourceAudioSha256": "6c33f45ed6be4b666b5552258cba8ea8bf10f715ea015f05c32350a9ab94398a",
+        "sourceAudioTextSha256": "5c14b0f037b994ab1e98e1d8de1b10613b7f6a34cd36ddb89a799604b43e0df4",
+        "audioDurationSeconds": 8.448
+      },
+      {
+        "en": "Can we eat smelly green socks? No! Boo’s nose smells some green ...",
+        "sourceText": "Can we eat smelly green socks? No! Boo’s nose smells some green ...",
+        "zh": "臭臭的绿袜子能吃吗？不能！布布的鼻子又闻到了一些绿色的……",
+        "tip": "一起摇摇头，袜子不能吃。",
+        "alt": "臭臭的绿袜子能吃吗？不能！布布的鼻子又闻到了一些绿色的……",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page5-scaled.jpg",
+        "sourceImageSha256": "0ef21122e48aee6e6ce53b970f8ca25bbc1aa2c7da356ea5b867c993671cc517",
+        "imageWidth": 2560,
+        "imageHeight": 1280,
+        "mobilePanels": [
+          [
+            0.5,
+            0,
+            0.5,
+            1
+          ]
+        ],
+        "sourceSpreadIndex": 2,
+        "audioFile": "audio/04-09a3d75537f95e53.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/can-we-eat-a-rainbow/audio/04-09a3d75537f95e53.mp3",
+        "sourceAudioSha256": "09a3d75537f95e53581f30be641177a58d4ff398ad1fdf659a56b13028ec248a",
+        "sourceAudioTextSha256": "7abdbf26d8f871edd1068db7b700601780efc48913ba9efaf72bd26ff2b01442",
+        "audioDurationSeconds": 6.768
+      },
+      {
+        "en": "Spinach! Can we eat spinach? Yes! And green beans!",
+        "sourceText": "Spinach! Can we eat spinach? Yes! And green beans!",
+        "zh": "菠菜！我们能吃菠菜吗？能！还有四季豆！",
+        "tip": "找找小菠菜和豆苗，看看它们是什么颜色。",
+        "alt": "菠菜！我们能吃菠菜吗？能！还有四季豆！",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page6-scaled.jpg",
+        "sourceImageSha256": "1c3c58d54fdfbba691da497c2aee340eb768a1011a5c0ba3ab4973a86f1bbb41",
+        "imageWidth": 2560,
+        "imageHeight": 1280,
+        "mobilePanels": [
+          [
+            0,
+            0,
+            0.5,
+            1
+          ]
+        ],
+        "sourceSpreadIndex": 3,
+        "audioFile": "audio/05-84ab83975b43d31d.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/can-we-eat-a-rainbow/audio/05-84ab83975b43d31d.mp3",
+        "sourceAudioSha256": "84ab83975b43d31d322755fb2223037563cea44bb64cb4548ddc5b20babc9560",
+        "sourceAudioTextSha256": "beb2271a1a5b0180387ca5c6066a16a44ba03c6d7b76ce54bfb834d264bb1444",
+        "audioDurationSeconds": 6.744
+      },
+      {
+        "en": "Crunchy beans and salty spinach. Can you think of something green that is good to eat?",
+        "sourceText": "Crunchy beans and salty spinach. Can you think of something green that is good to eat?",
+        "zh": "脆脆的豆子和咸香的菠菜。你能想到什么绿色、又能吃的东西吗？",
+        "tip": "指一种蔬菜就好，也可以用中文说出你想到的食物。",
+        "alt": "脆脆的豆子和咸香的菠菜。你能想到什么绿色、又能吃的东西吗？",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page6-scaled.jpg",
+        "sourceImageSha256": "1c3c58d54fdfbba691da497c2aee340eb768a1011a5c0ba3ab4973a86f1bbb41",
+        "imageWidth": 2560,
+        "imageHeight": 1280,
+        "mobilePanels": [
+          [
+            0.5,
+            0,
+            0.5,
+            1
+          ]
+        ],
+        "sourceSpreadIndex": 3,
+        "audioFile": "audio/06-b2c6998aefd2c83f.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/can-we-eat-a-rainbow/audio/06-b2c6998aefd2c83f.mp3",
+        "sourceAudioSha256": "b2c6998aefd2c83ffbaab64c7a2a115d8385b53df7c93a260a8f517ceae74701",
+        "sourceAudioTextSha256": "113f0f8b5a4b7a1411ff868846421ffe2c63dc208eab7c038d84a75f1bcffb3e",
+        "audioDurationSeconds": 7.008
+      },
+      {
+        "en": "Boo smells something red. Sniff, sniff, sniff. Oh! Boo smells red soap.",
+        "sourceText": "Boo smells something red. Sniff, sniff, sniff. Oh! Boo smells red soap.",
+        "zh": "布布闻到了红色的东西。闻呀闻。哦！布布闻到了红色的肥皂。",
+        "tip": "指指冒泡泡的红肥皂。",
+        "alt": "布布闻到了红色的东西。闻呀闻。哦！布布闻到了红色的肥皂。",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page7-scaled.jpg",
+        "sourceImageSha256": "75588bb0cd83c6558407440836787df167dcfc1bc0b712ae17e436d886f0f6bc",
+        "imageWidth": 2560,
+        "imageHeight": 1280,
+        "mobilePanels": [
+          [
+            0,
+            0,
+            0.5,
+            1
+          ]
+        ],
+        "sourceSpreadIndex": 4,
+        "audioFile": "audio/07-7a58e8c199165748.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/can-we-eat-a-rainbow/audio/07-7a58e8c199165748.mp3",
+        "sourceAudioSha256": "7a58e8c1991657486b3e9df634ccff8d1a8a97b12f947d2636f9dfbfa4948dcb",
+        "sourceAudioTextSha256": "2343e856e6d8e5e656f096d3ebbb661c15ffc4acee51659f1ea40e14f005a3a3",
+        "audioDurationSeconds": 7.392
+      },
+      {
+        "en": "Can we eat this red soapy soap? No! Boo’s nose smells some red ...",
+        "sourceText": "Can we eat this red soapy soap? No! Boo’s nose smells some red ...",
+        "zh": "这块红红的、起泡泡的肥皂能吃吗？不能！布布的鼻子又闻到了一些红色的……",
+        "tip": "轻轻摇头，说说肥皂是用来做什么的。",
+        "alt": "这块红红的、起泡泡的肥皂能吃吗？不能！布布的鼻子又闻到了一些红色的……",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page7-scaled.jpg",
+        "sourceImageSha256": "75588bb0cd83c6558407440836787df167dcfc1bc0b712ae17e436d886f0f6bc",
+        "imageWidth": 2560,
+        "imageHeight": 1280,
+        "mobilePanels": [
+          [
+            0.5,
+            0,
+            0.5,
+            1
+          ]
+        ],
+        "sourceSpreadIndex": 4,
+        "audioFile": "audio/08-66f0544e228edf94.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/can-we-eat-a-rainbow/audio/08-66f0544e228edf94.mp3",
+        "sourceAudioSha256": "66f0544e228edf94ad1544528b5bd45a834809c822c45eb2a850656600e9654a",
+        "sourceAudioTextSha256": "a896228c8a284668c820367f4deeb0e526681aa6923c7690ab71f3472eeb7fcf",
+        "audioDurationSeconds": 7.008
+      },
+      {
+        "en": "Tomatoes! Can we eat tomatoes? Yes! And beetroot!",
+        "sourceText": "Tomatoes! Can we eat tomatoes? Yes! And beetroot!",
+        "zh": "番茄！我们能吃番茄吗？能！还有甜菜根！",
+        "tip": "指指藤上的番茄，再看看右边的大番茄。",
+        "alt": "番茄！我们能吃番茄吗？能！还有甜菜根！",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page8-scaled.jpg",
+        "sourceImageSha256": "4992f00972b2419ea834c426b0e3936771ad3a924a553ac324b85a213a5e0fc9",
+        "imageWidth": 2560,
+        "imageHeight": 1280,
+        "mobilePanels": [
+          [
+            0,
+            0,
+            0.5,
+            1
+          ]
+        ],
+        "sourceSpreadIndex": 5,
+        "audioFile": "audio/09-8fa38f34663b4daa.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/can-we-eat-a-rainbow/audio/09-8fa38f34663b4daa.mp3",
+        "sourceAudioSha256": "8fa38f34663b4daaa7ac790cbb6d7e054a5c05c81611f8649c33db636cc8704f",
+        "sourceAudioTextSha256": "d129241284dea802bc0b5d61e795606bd05e1d4814996b6ee1f6d048a7aedbdf",
+        "audioDurationSeconds": 5.736
+      },
+      {
+        "en": "Tasty tomatoes and beautiful beetroot! Can you think of something red that is good to eat?",
+        "sourceText": "Tasty tomatoes and beautiful beetroot! Can you think of something red that is good to eat?",
+        "zh": "美味的番茄和漂亮的甜菜根！你能想到什么红色、又能吃的东西吗？",
+        "tip": "一起想一种红色食物，不要求孩子回答完整英文。",
+        "alt": "美味的番茄和漂亮的甜菜根！你能想到什么红色、又能吃的东西吗？",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page8-scaled.jpg",
+        "sourceImageSha256": "4992f00972b2419ea834c426b0e3936771ad3a924a553ac324b85a213a5e0fc9",
+        "imageWidth": 2560,
+        "imageHeight": 1280,
+        "mobilePanels": [
+          [
+            0.5,
+            0,
+            0.5,
+            1
+          ]
+        ],
+        "sourceSpreadIndex": 5,
+        "audioFile": "audio/10-4f90857fbc578214.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/can-we-eat-a-rainbow/audio/10-4f90857fbc578214.mp3",
+        "sourceAudioSha256": "4f90857fbc578214dccae1ac6dcc7fca5c3bb143691ca8370eeec960e3db7fa8",
+        "sourceAudioTextSha256": "939250500bb24d06e9aa4ecd38979343ceebd828e1fa0cd2343add3d38ccbca7",
+        "audioDurationSeconds": 7.416
+      },
+      {
+        "en": "Boo smells something orange. Sniff, sniff, sniff. Boo smells an orange bottle.",
+        "sourceText": "Boo smells something orange. Sniff, sniff, sniff. Boo smells an orange bottle.",
+        "zh": "布布闻到了橙色的东西。闻呀闻。布布闻到了一个橙色的奶瓶。",
+        "tip": "找找宝宝身边的橙色奶瓶。",
+        "alt": "布布闻到了橙色的东西。闻呀闻。布布闻到了一个橙色的奶瓶。",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page9-scaled.jpg",
+        "sourceImageSha256": "785575e957eed5cef375ad105750e8f49569382c975d52b319d5538c62818ddd",
+        "imageWidth": 2560,
+        "imageHeight": 1280,
+        "mobilePanels": [
+          [
+            0,
+            0,
+            0.5,
+            1
+          ]
+        ],
+        "sourceSpreadIndex": 6,
+        "audioFile": "audio/11-03f8f56436b4506a.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/can-we-eat-a-rainbow/audio/11-03f8f56436b4506a.mp3",
+        "sourceAudioSha256": "03f8f56436b4506a8a8fbc060823c909178546b4d360716165f1d0101cad33c5",
+        "sourceAudioTextSha256": "540d507efc1439f87ec1083e098c44648079ac459f63a0c8a2900b25d3b66bc8",
+        "audioDurationSeconds": 7.416
+      },
+      {
+        "en": "Can we eat a bottle? No! Boo’s nose smells an orange ...",
+        "sourceText": "Can we eat a bottle? No! Boo’s nose smells an orange ...",
+        "zh": "奶瓶能吃吗？不能！布布的鼻子又闻到了一个橙色的……",
+        "tip": "摇摇头，再猜猜下一页会出现什么。",
+        "alt": "奶瓶能吃吗？不能！布布的鼻子又闻到了一个橙色的……",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page9-scaled.jpg",
+        "sourceImageSha256": "785575e957eed5cef375ad105750e8f49569382c975d52b319d5538c62818ddd",
+        "imageWidth": 2560,
+        "imageHeight": 1280,
+        "mobilePanels": [
+          [
+            0.5,
+            0,
+            0.5,
+            1
+          ]
+        ],
+        "sourceSpreadIndex": 6,
+        "audioFile": "audio/12-3fab4d77e5e55d0e.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/can-we-eat-a-rainbow/audio/12-3fab4d77e5e55d0e.mp3",
+        "sourceAudioSha256": "3fab4d77e5e55d0e00a0f035784555b7efe11426c4ab190872f5de605c472ff3",
+        "sourceAudioTextSha256": "8a4f5de3cb153234650febaeff3f4ebfe022c081e81e59a49fa8b4b1b9a6178e",
+        "audioDurationSeconds": 5.928
+      },
+      {
+        "en": "Pumpkin! Can we eat pumpkin? Yes! And oranges!",
+        "sourceText": "Pumpkin! Can we eat pumpkin? Yes! And oranges!",
+        "zh": "南瓜！我们能吃南瓜吗？能！还有橙子！",
+        "tip": "找找头顶的南瓜，和孩子轻松指一指。",
+        "alt": "南瓜！我们能吃南瓜吗？能！还有橙子！",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page10-scaled.jpg",
+        "sourceImageSha256": "ecb0fcb0d5e842f5f4b12765c6e44306a66b7bf771c5f59529b6346d90e87d48",
+        "imageWidth": 2560,
+        "imageHeight": 1280,
+        "mobilePanels": [
+          [
+            0,
+            0,
+            0.5,
+            1
+          ]
+        ],
+        "sourceSpreadIndex": 7,
+        "audioFile": "audio/13-3a714f33a7e03a63.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/can-we-eat-a-rainbow/audio/13-3a714f33a7e03a63.mp3",
+        "sourceAudioSha256": "3a714f33a7e03a638a585bc7cad6df752b8dc78120593b2962919d456151abc3",
+        "sourceAudioTextSha256": "407c181a987f803f7428fa67d261c1d16ebbb79e72af496edd8c1d59c4f208ed",
+        "audioDurationSeconds": 5.736
+      },
+      {
+        "en": "Sweet, juicy oranges and spicy pumpkin. Can you think of something orange that is good to eat?",
+        "sourceText": "Sweet, juicy oranges and spicy pumpkin. Can you think of something orange that is good to eat?",
+        "zh": "甜甜多汁的橙子和香辣的南瓜。你能想到什么橙色、又能吃的东西吗？",
+        "tip": "比较南瓜和橙子的形状，圆圆的各指一个。",
+        "alt": "甜甜多汁的橙子和香辣的南瓜。你能想到什么橙色、又能吃的东西吗？",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page10-scaled.jpg",
+        "sourceImageSha256": "ecb0fcb0d5e842f5f4b12765c6e44306a66b7bf771c5f59529b6346d90e87d48",
+        "imageWidth": 2560,
+        "imageHeight": 1280,
+        "mobilePanels": [
+          [
+            0.5,
+            0,
+            0.5,
+            1
+          ]
+        ],
+        "sourceSpreadIndex": 7,
+        "audioFile": "audio/14-203d16859a5607d5.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/can-we-eat-a-rainbow/audio/14-203d16859a5607d5.mp3",
+        "sourceAudioSha256": "203d16859a5607d558164af59a3b5ed75c5f460c42c497c1014cdf8a404c78b6",
+        "sourceAudioTextSha256": "b639dcd5b1f24fbc6529b9a07b2c59aa704104624a8cb610334e9b6aa5038fd1",
+        "audioDurationSeconds": 8.256
+      },
+      {
+        "en": "Boo smells something yellow. Sniff, sniff, sniff. Boo smells her yellow ball.",
+        "sourceText": "Boo smells something yellow. Sniff, sniff, sniff. Boo smells her yellow ball.",
+        "zh": "布布闻到了黄色的东西。闻呀闻。布布闻到了她的黄色小球。",
+        "tip": "指指球，学小狗伸个懒腰。",
+        "alt": "布布闻到了黄色的东西。闻呀闻。布布闻到了她的黄色小球。",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page11-scaled.jpg",
+        "sourceImageSha256": "ed77be6e1a689e2c928b052d6da22db78ff6fa419507649334c990cbdf865ef0",
+        "imageWidth": 2560,
+        "imageHeight": 1280,
+        "mobilePanels": [
+          [
+            0,
+            0,
+            0.5,
+            1
+          ]
+        ],
+        "sourceSpreadIndex": 8,
+        "audioFile": "audio/15-6a3e93036a20b95f.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/can-we-eat-a-rainbow/audio/15-6a3e93036a20b95f.mp3",
+        "sourceAudioSha256": "6a3e93036a20b95f88b23d0e93d7e8c28482cbede811f71f6606efbc8addfe40",
+        "sourceAudioTextSha256": "6c7544775c24c9ccd6e9f982ac611dff96caacca80226263dca85d708fe83e3f",
+        "audioDurationSeconds": 7.848
+      },
+      {
+        "en": "Can we eat Boo’s yellow ball? No! Boo’s nose smells some yellow ...",
+        "sourceText": "Can we eat Boo’s yellow ball? No! Boo’s nose smells some yellow ...",
+        "zh": "布布的黄色小球能吃吗？不能！布布的鼻子又闻到了一些黄色的……",
+        "tip": "一起摇头，再找找黄色。",
+        "alt": "布布的黄色小球能吃吗？不能！布布的鼻子又闻到了一些黄色的……",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page11-scaled.jpg",
+        "sourceImageSha256": "ed77be6e1a689e2c928b052d6da22db78ff6fa419507649334c990cbdf865ef0",
+        "imageWidth": 2560,
+        "imageHeight": 1280,
+        "mobilePanels": [
+          [
+            0.5,
+            0,
+            0.5,
+            1
+          ]
+        ],
+        "sourceSpreadIndex": 8,
+        "audioFile": "audio/16-6dfd5f1c2df7bdf1.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/can-we-eat-a-rainbow/audio/16-6dfd5f1c2df7bdf1.mp3",
+        "sourceAudioSha256": "6dfd5f1c2df7bdf128ddf1a4b9abf339728b34fbad3290e689c94565c4f39663",
+        "sourceAudioTextSha256": "786e593e428248275fcd7eb7001e203c0dc4dab567f59c37890caa5d9443617e",
+        "audioDurationSeconds": 5.928
+      },
+      {
+        "en": "Mielies! Can we eat mielies? Yes! And bananas!",
+        "sourceText": "Mielies! Can we eat mielies? Yes! And bananas!",
+        "zh": "玉米！我们能吃玉米吗？能！还有香蕉！",
+        "tip": "找找布布头顶上的香蕉。",
+        "alt": "玉米！我们能吃玉米吗？能！还有香蕉！",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page12-scaled.jpg",
+        "sourceImageSha256": "a2ab45ae396b64793194ef79c445cbd536f91b1cdb668b32b150ac19547206fc",
+        "imageWidth": 2560,
+        "imageHeight": 1280,
+        "mobilePanels": [
+          [
+            0,
+            0,
+            0.5,
+            1
+          ]
+        ],
+        "sourceSpreadIndex": 9,
+        "audioFile": "audio/17-42ffc57f29fae5dc.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/can-we-eat-a-rainbow/audio/17-42ffc57f29fae5dc.mp3",
+        "sourceAudioSha256": "42ffc57f29fae5dce71c11105486bd5f144cf068b7afdb01b6cbbe3a6d07745f",
+        "sourceAudioTextSha256": "e32e514077c546762172f775c5bb095280015c84bb0c8447eff8017ac8b81828",
+        "audioDurationSeconds": 7.44
+      },
+      {
+        "en": "Crunchy, crispy mielies and beautiful, big bananas. Can you think of something yellow that is good to eat?",
+        "sourceText": "Crunchy, crispy mielies and beautiful, big bananas. Can you think of something yellow that is good to eat?",
+        "zh": "脆脆的玉米和漂亮的大香蕉。你能想到什么黄色、又能吃的东西吗？",
+        "tip": "指指玉米和香蕉，选一种你喜欢的。",
+        "alt": "脆脆的玉米和漂亮的大香蕉。你能想到什么黄色、又能吃的东西吗？",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page12-scaled.jpg",
+        "sourceImageSha256": "a2ab45ae396b64793194ef79c445cbd536f91b1cdb668b32b150ac19547206fc",
+        "imageWidth": 2560,
+        "imageHeight": 1280,
+        "mobilePanels": [
+          [
+            0.5,
+            0,
+            0.5,
+            1
+          ]
+        ],
+        "sourceSpreadIndex": 9,
+        "audioFile": "audio/18-6603fb4ea6223509.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/can-we-eat-a-rainbow/audio/18-6603fb4ea6223509.mp3",
+        "sourceAudioSha256": "6603fb4ea6223509858ff0451c47693c49283bc7d0a956b8450c6cecbc97f148",
+        "sourceAudioTextSha256": "b064ccc4946e864f0eded5c047d32ef692811924f9584dbe78869e0e5ba3a913",
+        "audioDurationSeconds": 8.472
+      },
+      {
+        "en": "Boo and Pabi found green beans. And red tomatoes. And orange pumpkin. And yellow mielies.",
+        "sourceText": "Boo and Pabi found green beans. And red tomatoes. And orange pumpkin. And yellow mielies.",
+        "zh": "布布和帕比找到了绿豆角、红番茄、橙色南瓜和黄色玉米。",
+        "tip": "每种颜色各指一种食物。",
+        "alt": "布布和帕比找到了绿豆角、红番茄、橙色南瓜和黄色玉米。",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page13-scaled.jpg",
+        "sourceImageSha256": "77a337f8b6ac03cef9b8d1b8e2360050cc2ca061c7b4624986ded7835f3f28ff",
+        "imageWidth": 2560,
+        "imageHeight": 1280,
+        "mobilePanels": [
+          [
+            0,
+            0,
+            0.5,
+            1
+          ]
+        ],
+        "sourceSpreadIndex": 10,
+        "audioFile": "audio/19-8a79094a1a42a756.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/can-we-eat-a-rainbow/audio/19-8a79094a1a42a756.mp3",
+        "sourceAudioSha256": "8a79094a1a42a75694f6a568e766f040cd825349f979dc0e0c94ade265de81f9",
+        "sourceAudioTextSha256": "235c0133de3dd789685777e78d141aff72e4bda5c49570d28aad9102d9c2ca29",
+        "audioDurationSeconds": 10.392
+      },
+      {
+        "en": "How beautiful! ‘Can we make a rainbow, Boo?’ asks Pabi.",
+        "sourceText": "How beautiful! ‘Can we make a rainbow, Boo?’ asks Pabi.",
+        "zh": "真漂亮！“布布，我们能做一道彩虹吗？”帕比问。",
+        "tip": "看看找到的食物，猜猜可以怎么摆出彩虹。",
+        "alt": "真漂亮！“布布，我们能做一道彩虹吗？”帕比问。",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page13-scaled.jpg",
+        "sourceImageSha256": "77a337f8b6ac03cef9b8d1b8e2360050cc2ca061c7b4624986ded7835f3f28ff",
+        "imageWidth": 2560,
+        "imageHeight": 1280,
+        "mobilePanels": [
+          [
+            0.5,
+            0,
+            0.5,
+            1
+          ]
+        ],
+        "sourceSpreadIndex": 10,
+        "audioFile": "audio/20-7821d674497f179c.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/can-we-eat-a-rainbow/audio/20-7821d674497f179c.mp3",
+        "sourceAudioSha256": "7821d674497f179c10d425d22bbe73af512c0b3ceb34e267f5355d5ab25bb0b8",
+        "sourceAudioTextSha256": "07dc1038a6d91ffe48f6c2196e8d82a760ae75f6cd5e1afa0f9a0c879f15eb63",
+        "audioDurationSeconds": 5.328
+      },
+      {
+        "en": "Yes! Look! ‘We are cooking a big, juicy, sweet, crispy, beautiful rainbow,’ says Pabi. ‘Can we eat our rainbow, Boo?’",
+        "sourceText": "Yes! Look! ‘We are cooking a big, juicy, sweet, crispy, beautiful rainbow,’ says Pabi. ‘Can we eat our rainbow, Boo?’",
+        "zh": "能！看！“我们正在做一道又大、又多汁、又甜、又脆、又漂亮的彩虹！”帕比说，“布布，我们能吃这道彩虹吗？”",
+        "tip": "指指妈妈和帕比，做饭时请大人帮忙。",
+        "alt": "能！看！“我们正在做一道又大、又多汁、又甜、又脆、又漂亮的彩虹！”帕比说，“布布，我们能吃这道彩虹吗？”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page14-scaled.jpg",
+        "sourceImageSha256": "f38c76fbaa000dc92245540230d4a44dd549bba50488d35b5809787aacf3b3a9",
+        "imageWidth": 2560,
+        "imageHeight": 1280,
+        "mobilePanels": [
+          [
+            0,
+            0,
+            0.4,
+            1
+          ],
+          [
+            0.35,
+            0,
+            0.65,
+            1
+          ]
+        ],
+        "sourceSpreadIndex": 11,
+        "audioFile": "audio/21-1ff88286bf66b50d.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/can-we-eat-a-rainbow/audio/21-1ff88286bf66b50d.mp3",
+        "sourceAudioSha256": "1ff88286bf66b50de8af3b57fdaa8015817ec0368307e47feb6b960e9e4e3ef3",
+        "sourceAudioTextSha256": "3aa72da1d3c67c76bcc350815e1e703fda5a9eeffdf4a3e214179f04c92765ff",
+        "audioDurationSeconds": 11.808
+      },
+      {
+        "en": "‘Yes, we can! Our rainbow tastes good! It makes us big and strong!’ You can eat a rainbow too!",
+        "sourceText": "‘Yes, we can! Our rainbow tastes good! It makes us big and strong!’ You can eat a rainbow too!",
+        "zh": "“能，我们能吃！我们的彩虹真好吃！它让我们长得又高又壮！”你也可以吃一道彩虹！",
+        "tip": "看看餐盘里的颜色，想想今天的一餐有什么颜色。",
+        "alt": "“能，我们能吃！我们的彩虹真好吃！它让我们长得又高又壮！”你也可以吃一道彩虹！",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2026/10/can-we-eat-a-rainbow_en_page15-scaled.jpg",
+        "sourceImageSha256": "5857c0e5703460cacaafce1fa2f8c6e24721a2fc83955c5add9d8e6778aead4e",
+        "imageWidth": 2560,
+        "imageHeight": 1280,
+        "mobilePanels": [
+          [
+            0.5,
+            0,
+            0.5,
+            1
+          ]
+        ],
+        "sourceSpreadIndex": 12,
+        "audioFile": "audio/22-6c3b7726fe74cc1e.mp3",
+        "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/can-we-eat-a-rainbow/audio/22-6c3b7726fe74cc1e.mp3",
+        "sourceAudioSha256": "6c3b7726fe74cc1e2ebbb25ee2bc1c472a919f9ee3e5be65770919d904dd28cf",
+        "sourceAudioTextSha256": "76d7b4d846c43d449981202d876be16f67fafaafc9715aa139f9576adabc46d7",
+        "audioDurationSeconds": 9.72
+      }
+    ],
+    "narration": {
+      "kind": "ai",
+      "provider": "Doubao Seed TTS 2.0",
+      "voice": "Knightley",
+      "voiceId": "en_male_knightley_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5
+    },
+    "keywords": [
+      {
+        "id": "can-we-eat-a-rainbow-green",
+        "word": "green",
+        "meaning": "绿色的",
+        "pageIndex": 2
+      },
+      {
+        "id": "can-we-eat-a-rainbow-tomatoes",
+        "word": "tomatoes",
+        "meaning": "番茄",
+        "pageIndex": 8
+      },
+      {
+        "id": "can-we-eat-a-rainbow-pumpkin",
+        "word": "pumpkin",
+        "meaning": "南瓜",
+        "pageIndex": 12
+      }
+    ],
+    "activity": {
+      "title": "餐盘里的彩虹",
+      "text": "和孩子找一找今天餐桌上的颜色，各指一种食物。准备食物时由大人负责清洗和切配。",
+      "hint": "指一指、聊一聊就好，不需要打卡。"
+    }
   }
 ];
