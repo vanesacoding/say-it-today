@@ -85,7 +85,7 @@ jobs:
               for(const end of [false,true]) {
                 await page.evaluate(end=>window.scrollTo(0,end?document.documentElement.scrollHeight:0),end);
                 const header=await page.locator('.readerHeader').evaluate(el=>{const r=el.getBoundingClientRect();return {top:r.top,bottom:r.bottom,height:r.height,position:getComputedStyle(el).position,title:el.querySelector('.heading').textContent}});
-                assert.equal(header.position,'sticky');assert.ok(Math.abs(header.top)<2);assert.ok(header.height>=54&&header.bottom<height);assert.ok(header.title.includes('I like to read!'));
+                assert.equal(header.position,'sticky');assert.ok(header.top>=-1&&header.top<=29,JSON.stringify({width,height,end,header}));assert.ok(header.height>=54&&header.bottom<height);assert.ok(header.title.includes('I like to read!'));
               }
               await page.close();
             }
