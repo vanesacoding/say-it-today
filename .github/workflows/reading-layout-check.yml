@@ -1,10 +1,10 @@
 name: Reading navigation layout
 on:
   pull_request:
-    paths: [index.html, public/books/curation.js, scripts/check-vocabulary.mjs, scripts/check-phone-books.mjs, scripts/check-phone-layout.mjs, scripts/library-release-books-phone.json, scripts/library-release-books-letsread.json, scripts/check-letsread.mjs, scripts/check-letsread-layout.mjs, .github/workflows/reading-layout-check.yml]
+    paths: [index.html, public/books/curation.js, scripts/check-vocabulary.mjs, scripts/check-vocabulary-swipe-layout.mjs, scripts/check-phone-books.mjs, scripts/check-phone-layout.mjs, scripts/library-release-books-phone.json, scripts/library-release-books-letsread.json, scripts/check-letsread.mjs, scripts/check-letsread-layout.mjs, .github/workflows/reading-layout-check.yml]
   push:
     branches: [main]
-    paths: [index.html, public/books/curation.js, scripts/check-vocabulary.mjs, scripts/check-phone-books.mjs, scripts/check-phone-layout.mjs, scripts/library-release-books-phone.json, scripts/library-release-books-letsread.json, scripts/check-letsread.mjs, scripts/check-letsread-layout.mjs, .github/workflows/reading-layout-check.yml]
+    paths: [index.html, public/books/curation.js, scripts/check-vocabulary.mjs, scripts/check-vocabulary-swipe-layout.mjs, scripts/check-phone-books.mjs, scripts/check-phone-layout.mjs, scripts/library-release-books-phone.json, scripts/library-release-books-letsread.json, scripts/check-letsread.mjs, scripts/check-letsread-layout.mjs, .github/workflows/reading-layout-check.yml]
 permissions:
   contents: read
 jobs:
@@ -107,7 +107,7 @@ jobs:
           JS
 
       - name: Verify complete candidate mobile books
-        run: python3 scripts/prepare-phone-layout.py && node scripts/check-phone-layout.mjs && node scripts/check-letsread-layout.mjs
+        run: python3 scripts/prepare-phone-layout.py && node scripts/check-phone-layout.mjs && node scripts/check-letsread-layout.mjs && node scripts/check-vocabulary-swipe-layout.mjs
       - uses: actions/upload-artifact@v4
         if: always()
         with:

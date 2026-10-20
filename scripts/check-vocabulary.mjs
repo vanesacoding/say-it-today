@@ -58,6 +58,31 @@ assert.ok(![...withdrawn.window.document.querySelectorAll('.cardStage, .stageSel
 click(withdrawn,'[data-go="mine"]');assert.equal(withdrawn.window.document.querySelector('[data-resume="'+withdrawnId+'"]'),null);
 click(withdrawn,'[data-go="vocabulary"]');assert.ok(withdrawn.window.document.querySelector('.emptyVocabulary'));withdrawn.window.close();
 const archivedWithdrawal=app(JSON.stringify({selectedId:'how-about-you',records:{'how-about-you':{opened:true,saved:true,page:2}}}));click(archivedWithdrawal,'[data-go="mine"]');assert.equal(archivedWithdrawal.window.document.querySelector('[data-resume="how-about-you"]'),null);archivedWithdrawal.window.close();
+// Free browsing uses a stable word-bank order, without changing review ratings.
+const browse=app(JSON.stringify({records:{'0087':{opened:true,finished:true,page:7,lastReadAt:1}}}));
+click(browse,'[data-go="mine"]');click(browse,'[data-go="vocabulary"]');
+const keys=[...browse.window.document.querySelectorAll('.vocabularyRow')].map(el=>el.dataset.key);assert.ok(keys.length>=3);
+click(browse,'.vocabularyRow');
+const current=()=>browse.window.document.querySelector('[data-action="vocabulary-source"]').dataset.key;
+const counter=()=>browse.window.document.querySelector('.wordBrowseNav [role="status"]').textContent;
+function touch(type,points,target=browse.window.document.querySelector('.wordArt'),changed=points){const e=new browse.window.Event(type,{bubbles:true});Object.defineProperties(e,{touches:{value:points},changedTouches:{value:changed}});target.dispatchEvent(e)}
+function swipe(dx,dy=0,target){const start={clientX:200,clientY:250},end={clientX:200+dx,clientY:250+dy};touch('touchstart',[start],target);touch('touchmove',[end],target);touch('touchend',[],target,[end])}
+assert.equal(current(),keys[0]);assert.ok(browse.window.document.querySelector('[data-action="word-previous"]').disabled);
+swipe(100);assert.equal(current(),keys[0],'first boundary does not wrap');
+const played=[];browse.window.Audio=class{play(){played.push(this);return Promise.resolve()}pause(){this.paused=true}};
+click(browse,'[data-action="vocabulary-audio"]');const stale=played[0].onended;
+swipe(-100);assert.equal(current(),keys[1]);assert.ok(played[0].paused);stale();assert.equal(current(),keys[1]);assert.equal(counter(),'2 / '+keys.length);
+swipe(-15);assert.equal(current(),keys[1],'tap/short drags do not switch');
+swipe(-20,100);assert.equal(current(),keys[1],'vertical scroll does not switch');
+swipe(-100,120);assert.equal(current(),keys[1],'diagonal scroll does not switch');
+swipe(-100,0,browse.window.document.querySelector('[data-action="vocabulary-audio"]'));assert.equal(current(),keys[1],'controls do not start swipe gestures');
+touch('touchstart',[{clientX:200,clientY:250}]);touch('touchcancel',[]);touch('touchend',[],undefined,[{clientX:50,clientY:250}]);assert.equal(current(),keys[1]);
+touch('touchstart',[{clientX:200,clientY:250},{clientX:150,clientY:200}]);touch('touchend',[],undefined,[{clientX:50,clientY:250}]);assert.equal(current(),keys[1],'pinch gestures do not switch');
+click(browse,'[data-action="vocabulary-source"]');click(browse,'[data-action="reader-back"]');assert.equal(current(),keys[1]);assert.equal(counter(),'2 / '+keys.length);
+swipe(-100);assert.equal(current(),keys[2],'source inspection preserves the browsing sequence');swipe(100);assert.equal(current(),keys[1]);
+for(let i=0;i<keys.length;i++)click(browse,'[data-action="word-next"]');assert.equal(current(),keys.at(-1));assert.ok(browse.window.document.querySelector('[data-action="word-next"]').disabled);swipe(-100);assert.equal(current(),keys.at(-1),'last boundary does not wrap');
+browse.window.dispatchEvent(new browse.window.KeyboardEvent('keydown',{key:'ArrowLeft',bubbles:true}));assert.equal(current(),keys.at(-2));
+const state=JSON.parse(browse.window.localStorage.getItem('jigu-reading-library-v2'));assert.deepEqual(state.wordReviews,{},'browsing does not score vocabulary');browse.window.close();
 const h=app();h.window.close();
 const highlightHtml=html.replace('highlightWords(p.en,book.keywords.map(w=>w.word))', "highlightWords('Read reading READ. A sea turtle & <cat> catch.', ['read','sea turtle','turtle','cat'])");
 const fixtureDom=new JSDOM(highlightHtml,{url:'https://jigu.local/',runScripts:'outside-only'});fixtureDom.window.scrollTo=()=>{};fixtureDom.window.eval(readFileSync('public/books/curation.js','utf8'));fixtureDom.window.eval(catalog);fixtureDom.window.eval(bundle);fixtureDom.window.eval([...fixtureDom.window.document.scripts].find(s=>s.textContent.includes('const books=window.JIGU_BOOKS')).textContent);click(fixtureDom,'[data-go="reader"]');
