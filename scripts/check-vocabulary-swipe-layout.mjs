@@ -54,7 +54,7 @@ try{
   await page.locator('[data-go="shelf"]').first().click();assert.ok(Math.abs((await page.evaluate(()=>scrollY))-originY)<2,'return to the same shelf position');
   await page.locator('[data-book="lr-seven-days"]').click();await page.locator('[data-action="words"]').click();await page.locator('.wordCard').first().click();
   const title=await page.getByRole('dialog').getAttribute('aria-label');await swipe(-100);assert.notEqual(await page.getByRole('dialog').getAttribute('aria-label'),title);await swipe(100);assert.equal(await page.getByRole('dialog').getAttribute('aria-label'),title);
-  await page.getByRole('button',{name:'关闭',exact:true}).click();await page.locator('[data-go="mine"]').click();await page.locator('[data-go="vocabulary"]').click();await page.locator('[data-action="browse-five"]').click();
+  await page.getByRole('button',{name:'关闭',exact:true}).click();await page.locator('[data-go="shelf"]').first().click();await page.locator('[data-go="mine"]').click();await page.locator('[data-go="vocabulary"]').click();await page.locator('[data-action="browse-five"]').click();
   assert.equal(await page.locator('.wordBrowseNav [role="status"]').textContent(),'1 / 5');await swipe(-100);assert.equal(await page.locator('.wordBrowseNav [role="status"]').textContent(),'2 / 5');await swipe(100);assert.equal(await page.locator('.wordBrowseNav [role="status"]').textContent(),'1 / 5');
   if(width===390)await page.screenshot({path:'layout-proof/browse-five-390.png'});
   await session.detach();await page.close();

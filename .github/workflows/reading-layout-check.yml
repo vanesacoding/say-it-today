@@ -112,7 +112,7 @@ jobs:
           JS
 
       - name: Verify complete candidate mobile books
-        run: python3 scripts/prepare-phone-layout.py && node scripts/check-phone-layout.mjs && node scripts/check-letsread-layout.mjs && node scripts/check-vocabulary-swipe-layout.mjs && node scripts/check-animal-layout.mjs
+        run: python3 scripts/prepare-phone-layout.py && node scripts/check-animal-layout.mjs && node scripts/check-phone-layout.mjs && node scripts/check-letsread-layout.mjs && node scripts/check-vocabulary-swipe-layout.mjs
       - uses: actions/upload-artifact@v4
         if: always()
         with:
