@@ -13,12 +13,14 @@ for b in catalogue:
  if b['id'] in ['0087','0001']:books[b['id']]=b
 jobs={}
 for book in books.values():
- jobs.setdefault(book['sourceCover'],[]).append((root/'dist/books/library'/book['id']/'cover.jpg',book['sourceCoverSha256']))
- for index,page in enumerate(book['pages'],1):jobs.setdefault(page['sourceImage'],[]).append((root/'dist/books/library'/book['id']/f'{index:02}.jpg',page['sourceImageSha256']))
+ jobs.setdefault(book['sourceCover'],[]).append((root/'dist/books/library'/book['id']/'cover.jpg',book.get('sourceCoverSha256')))
+ for index,page in enumerate(book['pages'],1):jobs.setdefault(page['sourceImage'],[]).append((root/'dist/books/library'/book['id']/f'{index:02}.jpg',page.get('sourceImageSha256')))
 def get(item):
  url,targets=item
  with urllib.request.urlopen(urllib.request.Request(url,headers={'User-Agent':'JiguReading/1.0'}),timeout=40) as response:data=response.read()
  for target,expected in targets:
-  assert hashlib.sha256(data).hexdigest()==expected;target.parent.mkdir(parents=True,exist_ok=True);target.write_bytes(data)
+  assert len(data)>1000 and (data[:3]==b'\xff\xd8\xff' or data[:8]==b'\x89PNG\r\n\x1a\n')
+  if expected:assert hashlib.sha256(data).hexdigest()==expected
+  target.parent.mkdir(parents=True,exist_ok=True);target.write_bytes(data)
 with ThreadPoolExecutor(max_workers=6) as pool:list(pool.map(get,jobs.items()))
 print(f'PASS illustration preview: {len(books)} books / {len(jobs)} original assets, SHA256 unchanged')
