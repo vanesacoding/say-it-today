@@ -223,7 +223,9 @@ window.JIGU_BOOKS = [
       "title": "一起帮帮忙",
       "text": "为下一次家庭小聚会选一件小事，和孩子一起完成，比如摆好纸巾或收好玩具。",
       "hint": "指一指、聊一聊就好，不需要打卡。"
-    }
+    },
+    "sourceCoverWidth": 1241,
+    "sourceCoverHeight": 1754
   },
   {
     "id": "lr-shopping-time",
@@ -449,7 +451,9 @@ window.JIGU_BOOKS = [
       "title": "收拾小书包",
       "text": "找出孩子的书、笔和书包，边收拾边指认。年纪小的孩子只需要挑一件物品。",
       "hint": "指一指、聊一聊就好，不需要打卡。"
-    }
+    },
+    "sourceCoverWidth": 1800,
+    "sourceCoverHeight": 2565
   },
   {
     "id": "lr-simple-counting",
@@ -675,7 +679,9 @@ window.JIGU_BOOKS = [
       "title": "数数身边的小东西",
       "text": "选几块积木，从一数到孩子感兴趣的数量，不要求一次数到八。",
       "hint": "指一指、聊一聊就好，不需要打卡。"
-    }
+    },
+    "sourceCoverWidth": 1200,
+    "sourceCoverHeight": 1697
   },
   {
     "id": "lr-see-clearly",
@@ -888,7 +894,9 @@ window.JIGU_BOOKS = [
       "title": "看看听听",
       "text": "在家里选一个看得见的东西和一种听得到的声音，和孩子轻松找一找。",
       "hint": "指一指、聊一聊就好，不需要打卡。"
-    }
+    },
+    "sourceCoverWidth": 1240,
+    "sourceCoverHeight": 1754
   },
   {
     "id": "lr-daddy-doing",
@@ -1173,7 +1181,9 @@ window.JIGU_BOOKS = [
       "title": "家务小帮手",
       "text": "让孩子选择一件安全的小家务，比如收好玩具或摆放纸巾。熨烫、烧饭和提重物交给大人。",
       "hint": "指一指、聊一聊就好，不需要打卡。"
-    }
+    },
+    "sourceCoverWidth": 1240,
+    "sourceCoverHeight": 1754
   },
   {
     "id": "lr-corn-is-yummy",
@@ -1511,7 +1521,9 @@ window.JIGU_BOOKS = [
       "title": "观察一粒种子",
       "text": "和孩子看看家里的豆子或种子，也可以观察一盆小植物，聊聊它需要水和阳光。",
       "hint": "指一指、聊一聊就好，不需要打卡。"
-    }
+    },
+    "sourceCoverWidth": 479,
+    "sourceCoverHeight": 688
   },
   {
     "id": "lr-hide-it",
@@ -1723,7 +1735,9 @@ window.JIGU_BOOKS = [
       "title": "一起找物品",
       "text": "用一顶帽子玩一次双方都同意的寻找游戏，结束后一起放回原位。",
       "hint": "指一指、聊一聊就好，不需要打卡。"
-    }
+    },
+    "sourceCoverWidth": 1704,
+    "sourceCoverHeight": 2410
   },
   {
     "id": "lr-shy-noy",
@@ -2061,7 +2075,9 @@ window.JIGU_BOOKS = [
       "title": "轻轻发出邀请",
       "text": "和玩偶演一演第一次交朋友：招招手，邀请对方一起玩。孩子可以先看着，不必开口。",
       "hint": "指一指、聊一聊就好，不需要打卡。"
-    }
+    },
+    "sourceCoverWidth": 432,
+    "sourceCoverHeight": 611
   },
   {
     "id": "lr-seven-days",
@@ -2274,7 +2290,9 @@ window.JIGU_BOOKS = [
       "title": "这周最喜欢的一天",
       "text": "和孩子聊聊这周想一起做的一件小事，比如看书、散步或去公园。",
       "hint": "指一指、聊一聊就好，不需要打卡。"
-    }
+    },
+    "sourceCoverWidth": 596,
+    "sourceCoverHeight": 842
   },
   {
     "id": "lr-occupations",
@@ -2560,7 +2578,9 @@ window.JIGU_BOOKS = [
       "title": "找找身边的工作",
       "text": "散步时观察一位正在工作的人，找找他的工作用品，注意保持距离、不打扰。",
       "hint": "指一指、聊一聊就好，不需要打卡。"
-    }
+    },
+    "sourceCoverWidth": 1784,
+    "sourceCoverHeight": 2540
   },
   {
     "id": "0087",
@@ -4615,7 +4635,7 @@ window.JIGU_BOOKS = [
         "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/why-is-nita-upside-down/audio/08-7bc8ca39408a1746.mp3",
         "sourceAudioSha256": "7bc8ca39408a1746c2b9dfbbb1985917b34c0a79f515d5fbbcc0aaf725f5e398",
         "sourceAudioTextSha256": "45513bf3994e391588876fc60e32aabbf5de372bf1737b78c0331af2b906d668",
-        "audioDurationSeconds": 9.0,
+        "audioDurationSeconds": 9,
         "imageWidth": 1134,
         "imageHeight": 567
       },
@@ -8165,7 +8185,7 @@ window.JIGU_BOOKS = [
         "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0295/audio/07-113fe7f8f763ce46.mp3",
         "sourceAudioSha256": "113fe7f8f763ce4668f2d349e0a2dba13d7216ace293497503484f8b6c77b45f",
         "sourceAudioTextSha256": "e984dab48a079f87a964fa2e60976bbe81724c5f591151b7c5b74eac053c5621",
-        "audioDurationSeconds": 3.0
+        "audioDurationSeconds": 3
       },
       {
         "en": "It could have orange flowers.",
@@ -8778,7 +8798,7 @@ window.JIGU_BOOKS = [
         "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0296/audio/02-1de3e30721397b2c.mp3",
         "sourceAudioSha256": "1de3e30721397b2c67c61d34ec5929b231db9c7e7097a80507014312bb6ddddf",
         "sourceAudioTextSha256": "4b6c99444c3813247febb70dccc203300e40fc433f68405971a66b772970135e",
-        "audioDurationSeconds": 3.0
+        "audioDurationSeconds": 3
       },
       {
         "en": "People at the market are buying fruit.",
@@ -9996,7 +10016,7 @@ window.JIGU_BOOKS = [
         "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0079/audio/10-8db66e650df1a2db.mp3",
         "sourceAudioSha256": "8db66e650df1a2db72a8ff4ef7367ed95f0b2725cd1c869987c15c81f7a8ebb7",
         "sourceAudioTextSha256": "ac0b4c7288a6ae8c15777ab09b478f997cee3fac6d3ed8865d366eb03015b339",
-        "audioDurationSeconds": 3.0
+        "audioDurationSeconds": 3
       },
       {
         "en": "Jojo reads his book.",
@@ -11702,7 +11722,7 @@ window.JIGU_BOOKS = [
         "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0061/audio/07-bae2d2ea62453044.mp3",
         "sourceAudioSha256": "bae2d2ea62453044becd2b18a09ba1c9512e0a4084e7b0eba4a19e11449ba69c",
         "sourceAudioTextSha256": "aaa485fd7fc72444cf7dd8c4f8617ac14352f9c5677bf04cf3df5da30b147988",
-        "audioDurationSeconds": 3.0
+        "audioDurationSeconds": 3
       },
       {
         "en": "We all like flowers.",
@@ -12388,7 +12408,7 @@ window.JIGU_BOOKS = [
         "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0360/audio/01-fc23b45635da38ca.mp3",
         "sourceAudioSha256": "fc23b45635da38ca81e65f93852f1ac6a1d6464746785f794359beb3f3b27198",
         "sourceAudioTextSha256": "54073d9fca25060c11e901de3d617de8b212f48c608dcc90330f8d58420d9071",
-        "audioDurationSeconds": 3.0
+        "audioDurationSeconds": 3
       },
       {
         "en": "How many cats? One cat.",
@@ -12484,7 +12504,7 @@ window.JIGU_BOOKS = [
         "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0360/audio/07-bcbe45774b278def.mp3",
         "sourceAudioSha256": "bcbe45774b278def379ec0d18d4ba7f873d9ef8eebc17858725cd58785119e04",
         "sourceAudioTextSha256": "ed07e5dac84961d3e5f7c888afffe60fb333e109acbf06f408d490711b1ac213",
-        "audioDurationSeconds": 3.0
+        "audioDurationSeconds": 3
       },
       {
         "en": "How many cats? Seven cats.",
@@ -21726,7 +21746,7 @@ window.JIGU_BOOKS = [
         "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0160/audio/04-0648facab7f14b36.mp3",
         "sourceAudioSha256": "0648facab7f14b361d798bc1ae6234b1f85e6acdd78ef591e08101f3235da976",
         "sourceAudioTextSha256": "04e92bf793c9c5fb7feddbbade083b3c9d0f2897c8347afefae769cc1c0dca8c",
-        "audioDurationSeconds": 3.0
+        "audioDurationSeconds": 3
       },
       {
         "en": "This is Moraa, my neighbour. Moraa is a farmer.",
@@ -21922,7 +21942,7 @@ window.JIGU_BOOKS = [
         "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0167/audio/04-3a5c290643fa2864.mp3",
         "sourceAudioSha256": "3a5c290643fa2864c71fd78eba72d4a63dff4bb41d62649e51f9b12975c44cc2",
         "sourceAudioTextSha256": "f78e4f1380004edaa28829541d8934c86f68ddcaff728d8e5f2fc614af10beed",
-        "audioDurationSeconds": 15.0
+        "audioDurationSeconds": 15
       },
       {
         "en": "To find a way out, the animals decided to have a meeting. A rabbit told them about one of the seven suns who was still alive and hiding behind a hill. But who would be the best one to call out to the sun?",
@@ -25385,7 +25405,7 @@ window.JIGU_BOOKS = [
         "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0355/audio/02-7c3768464f986510.mp3",
         "sourceAudioSha256": "7c3768464f986510b4fc5064ebfd095d0bbb029c94a663ca42317bfbe3543be4",
         "sourceAudioTextSha256": "26b5cff7af46bda3890011addead7a01d653721dd068d5aff5e6c476c21bdc69",
-        "audioDurationSeconds": 3.0
+        "audioDurationSeconds": 3
       },
       {
         "en": "Why are leaves green?",
@@ -26457,7 +26477,7 @@ window.JIGU_BOOKS = [
         "sourceAudio": "https://vanesacoding.github.io/say-it-today/books/library/0019/audio/02-c7664355042cd5ba.mp3",
         "sourceAudioSha256": "c7664355042cd5ba90e4017cb00e94a6e7d477a8b0d9cb84ed72a81bbc0928bd",
         "sourceAudioTextSha256": "171cace59228245da90206a37a287eabd2d41cdd7faef8210912cecb335669a1",
-        "audioDurationSeconds": 27.0
+        "audioDurationSeconds": 27
       },
       {
         "en": "The next day at the Kakuma bus stop, I stood between my mother and my aunt in my new pair of blue jeans and red T-shirt. I felt very small between my tall slender mother and my big round aunt.",
