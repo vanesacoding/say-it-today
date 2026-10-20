@@ -1,5 +1,5 @@
 window.JIGU_CURATION = {
-  "version": 2,
+  "version": 3,
   "withdrawnIds": [
     "0089",
     "0240",
@@ -28,9 +28,11 @@ window.JIGU_CURATION = {
     "0248",
     "0147",
     "0117",
-    "how-about-you"
+    "how-about-you",
+    "0130",
+    "0344"
   ],
-  "expectedActiveBooks": 75,
+  "expectedActiveBooks": 73,
   "reason": "2026-10-20 editorial withdrawal by explicit title; additional review uses story and illustration content, not ethnicity.",
   "withdrawnArchivedIds": [
     "how-about-you"

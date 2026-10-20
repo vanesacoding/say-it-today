@@ -57,9 +57,11 @@ function selectStage(d,value){const select=d.window.document.querySelector('[dat
 function open(d,id){click(d,'[data-go="shelf"]');click(d,'[data-filter-theme="all"]');selectStage(d,'all');click(d,`[data-book="${id}"]`);click(d,'[data-go="reader"]')}
 function heading(d){return d.window.document.querySelector('.readerHeader .heading').textContent}
 const dom=makeDom();click(dom,'[data-go="shelf"]');assert.equal(dom.window.document.querySelectorAll('.shelfCard').length,activeBooks.length);
+assert.equal(dom.window.document.querySelectorAll('[data-book="0130"],[data-book="0344"]').length,0,'withdrawn titles must not appear on the full shelf');
 for(const theme of ['everyday','nature','discovery','feelings']){
  click(dom,`[data-filter-theme="${theme}"]`);
- assert.equal(dom.window.document.querySelectorAll('.shelfCard').length,activeBooks.filter(b=>b.themeIds.includes(theme)).length);
+ assert.equal(dom.window.document.querySelectorAll('.shelfCard').length,activeBooks.filter(b=>b.primaryTheme===theme).length);
+ const ids=[...dom.window.document.querySelectorAll('.shelfCard')].map(el=>el.dataset.book);assert.ok(ids.every(id=>activeBooks.find(b=>b.id===id).primaryTheme===theme),'selected topic must match every card primary label');
 }
 click(dom,'[data-filter-theme="all"]');selectStage(dom,'S2');assert.equal(dom.window.document.querySelectorAll('.shelfCard').length,activeBooks.filter(b=>b.stageId==='S2').length);
 selectStage(dom,'all');
