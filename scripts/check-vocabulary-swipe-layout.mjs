@@ -8,7 +8,7 @@ try{
   const page=await browser.newPage({viewport:{width,height},hasTouch:true});
   await page.addInitScript(()=>localStorage.setItem('jigu-reading-library-v2',JSON.stringify({selectedId:'lr-our-family',records:{'lr-our-family':{opened:true,finished:true,page:8,lastReadAt:1}}})));
   await page.goto('http://127.0.0.1:4173/');
-  async function loaded(locator){await locator.evaluate(im=>im.complete&&im.naturalWidth?Promise.resolve():new Promise((resolve,reject)=>{im.addEventListener('load',resolve,{once:true});im.addEventListener('error',reject,{once:true})}))}
+  async function loaded(locator){await locator.evaluate(async im=>{if(!im.complete)await new Promise((resolve,reject)=>{im.addEventListener('load',resolve,{once:true});im.addEventListener('error',reject,{once:true})});if(!im.naturalWidth)throw new Error('Image unavailable');await im.decode();await new Promise(resolve=>requestAnimationFrame(()=>requestAnimationFrame(resolve)))});if(await locator.evaluate(im=>!!im.closest('.artFrame')))await page.waitForFunction(()=>[...document.querySelectorAll('.artFrame')].every(f=>f.classList.contains('loaded')))}
   await loaded(page.locator('.entryImage img'));
   if(width===390){
    await page.screenshot({path:'layout-proof/flow-01-home.png'});await page.locator('[data-go="shelf"]').first().click();
@@ -42,6 +42,10 @@ try{
 
   await page.locator('[data-book="lr-seven-days"]').click();await page.locator('[data-go="reader"]').click();
   if(await page.locator('[data-action="companion"]').getAttribute('aria-checked')!=='true')await page.locator('[data-action="companion"]').click();if(width===390){await loaded(page.locator('.artFrame img'));await page.screenshot({path:'layout-proof/flow-03-reader.png'});}
+  await loaded(page.locator('.artFrame img'));
+  await page.locator('[data-action="companion"]').click();await loaded(page.locator('.artFrame img'));
+  for(let i=0;i<3;i++){await page.locator('[data-action="next"]').click();await page.locator('[data-action="prev"]').click()}
+  await loaded(page.locator('.artFrame img'));assert.ok(await page.locator('.imgLoading').isHidden(),'cached picture must not retain loading overlay after rerenders and quick page turns');
   // Swiping the text area should turn pages just like swiping the picture.
   const text=await page.locator('.textPanel').boundingBox();const x=text.x+text.width*0.7,y=text.y+text.height/2;
   await session.send('Input.dispatchTouchEvent',{type:'touchStart',touchPoints:[{x,y}]});

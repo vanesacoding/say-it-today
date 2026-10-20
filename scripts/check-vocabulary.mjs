@@ -101,3 +101,15 @@ assert.equal(fixtureDom.window.document.querySelector('.readEnglish cat'),null);
 for(const instance of [d,r])instance.window.close();
 console.log('PASS vocabulary: reached-page collection, cross-book deduplication, saved words, 1/3/7/14-day review, recorded sentence audio, stale callbacks, source navigation and archive migration');
 
+
+// Cached-complete images, decode failure and late callbacks must all settle safely.
+const images=app();click(images,'[data-go="reader"]');
+let image=images.window.document.querySelector('.artFrame img');
+Object.defineProperty(image,'naturalWidth',{value:400});image.decode=()=>Promise.reject(new Error('decode unsupported'));
+image.dispatchEvent(new images.window.Event('load'));await new Promise(resolve=>setTimeout(resolve,0));assert.ok(image.parentElement.classList.contains('loaded'));
+let finish;image.decode=()=>new Promise(resolve=>{finish=resolve});image.dispatchEvent(new images.window.Event('load'));
+click(images,'[data-action="next"]');finish();await new Promise(resolve=>setTimeout(resolve,0));assert.ok(!images.window.document.querySelector('.artFrame').classList.contains('loaded'),'old page callback cannot mark the new page ready');
+image=images.window.document.querySelector('.artFrame img');image.dispatchEvent(new images.window.Event('error'));assert.ok(images.window.document.querySelector('[data-action="retry-image"]'));click(images,'[data-action="retry-image"]');assert.ok(!image.isConnected);assert.equal(images.window.document.querySelector('.imgLoading').textContent,'插画加载中…');images.window.close();
+const cachedHtml=html.replace('  function render(){',"  Object.defineProperty(HTMLImageElement.prototype,'complete',{get(){return true}});Object.defineProperty(HTMLImageElement.prototype,'naturalWidth',{get(){return 400}});\n  function render(){");
+const cached=new JSDOM(cachedHtml,{url:'https://jigu.local/',runScripts:'outside-only'});cached.window.scrollTo=()=>{};cached.window.eval(readFileSync('public/books/curation.js','utf8'));cached.window.eval(catalog);cached.window.eval(bundle);cached.window.eval([...cached.window.document.scripts].find(s=>s.textContent.includes('const books=window.JIGU_BOOKS')).textContent);click(cached,'[data-go="reader"]');await new Promise(resolve=>setTimeout(resolve,0));assert.ok(cached.window.document.querySelector('.artFrame.loaded'),'complete cached image needs no load event');cached.window.close();
+console.log('PASS reader images: cached completion, decode rejection, stale callbacks and retry');
