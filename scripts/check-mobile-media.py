@@ -8,16 +8,21 @@ curation=json.loads((ROOT/'public/books/curation.js').read_text().removeprefix('
 active=[b for b in books if not b.get('archived') and b['id'] not in curation['withdrawnIds']]
 request=json.loads((ROOT/'scripts/library-release-request.json').read_text())
 current_hash=hashlib.sha256((ROOT/'public/books/catalog.js').read_bytes()).hexdigest()
-assert len(active)==curation['expectedActiveBooks']
+assert len(active)==(request['sourceActiveBooks'] if current_hash==request['sourceCatalogueSha256'] else curation['expectedActiveBooks'])
 count=0
 for book in active:
  for i,page in enumerate(book['pages']):
   p=ROOT/'public/books/library'/book['id']/f'{i+1:02d}.jpg'
   with Image.open(p) as im:
    im.load();w,h=im.size
-  assert min(w,h)>=320 and w/h<=1.4,(book['id'],i+1,w,h)
+  if page.get('mobilePanels'):
+   assert book['source'].get('spreads')
+   for x,y,pw,ph in page['mobilePanels']:
+    assert 0<=x<1 and 0<=y<1 and 0<pw<=1 and 0<ph<=1 and x+pw<=1.000001 and y+ph<=1.000001
+    assert min(w*pw,h*ph)>=320 and w*pw/(h*ph)<=1.4
+  else:assert min(w,h)>=320 and w/h<=1.4,(book['id'],i+1,w,h)
   if page.get('sourceImageSha256'):assert hashlib.sha256(p.read_bytes()).hexdigest()==page['sourceImageSha256']
   assert page.get('imageWidth')==w and page.get('imageHeight')==h
   count+=1
  assert book['audioType'] in ['human','generated']
-print(f'PASS mobile media: {len(active)} books / {count} pages, no landscape spreads, complete fixed narration')
+print(f'PASS mobile media: {len(active)} books / {count} pages, verified mobile framing, complete fixed narration')
