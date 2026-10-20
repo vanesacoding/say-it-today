@@ -9,6 +9,7 @@ for shard in manifest['shards']:
  for b in json.loads((root/'scripts'/shard['file']).read_text()):books[b['id']]=b
 jobs={}
 for book in books.values():
+ jobs.setdefault(book['sourceCover'],[]).append((root/'dist/books/library'/book['id']/'cover.jpg',book['sourceCoverSha256']))
  for index,page in enumerate(book['pages'],1):jobs.setdefault(page['sourceImage'],[]).append((root/'dist/books/library'/book['id']/f'{index:02}.jpg',page['sourceImageSha256']))
 def get(item):
  url,targets=item

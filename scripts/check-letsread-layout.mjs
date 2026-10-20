@@ -9,7 +9,14 @@ try{
  for(const [width,height] of [[320,568],[390,844],[430,932],[1024,768]]){
   const page=await browser.newPage({viewport:{width,height}});await page.route('**/books/catalog.js',r=>r.fulfill({body:inject,contentType:'text/javascript'}));await page.goto('http://127.0.0.1:4173/');
   for(const b of additions){
-   await page.locator('[data-go="shelf"]').first().click();await page.locator(`[data-book="${b.id}"]`).click();assert.ok((await page.locator('main').textContent()).includes(b.narration.accentLabel));await page.locator('[data-go="reader"]').click();
+   await page.locator('[data-go="shelf"]').first().click();
+   const cover=page.locator(`[data-book="${b.id}"] .shelfCover`);await cover.scrollIntoViewIfNeeded();
+   await cover.locator('img').evaluate(im=>im.complete&&im.naturalWidth?Promise.resolve():new Promise((resolve,reject)=>{im.addEventListener('load',resolve,{once:true});im.addEventListener('error',reject,{once:true})}));
+   const geometry=await cover.evaluate(el=>{const im=el.querySelector('img'),r=el.getBoundingClientRect(),ir=im.getBoundingClientRect();return {width:r.width,height:r.height,imageWidth:ir.width,imageHeight:ir.height,naturalWidth:im.naturalWidth,naturalHeight:im.naturalHeight,declaredWidth:im.width,declaredHeight:im.height}});
+   assert.ok(Math.abs(geometry.width-geometry.imageWidth)<1&&Math.abs(geometry.height-geometry.imageHeight)<1,'cover frame must follow the complete source image');
+   assert.ok(Math.abs(geometry.width/geometry.height-geometry.naturalWidth/geometry.naturalHeight)<0.002,JSON.stringify({book:b.id,viewport:width,geometry}));
+   if(width===390&&b.id==='lr-seven-days'){await cover.scrollIntoViewIfNeeded();await page.screenshot({path:'layout-proof/portrait-covers-390.png'});}
+   await page.locator(`[data-book="${b.id}"]`).click();assert.ok((await page.locator('main').textContent()).includes(b.narration.accentLabel));await page.locator('[data-go="reader"]').click();
    for(let i=0;i<b.pages.length;i++){
     await page.locator('.artFrame img').evaluate(im=>im.complete?Promise.resolve():new Promise((resolve,reject)=>{im.addEventListener('load',resolve,{once:true});im.addEventListener('error',()=>reject(new Error('Source illustration load failed')),{once:true})}));
     const art=await page.locator('.artFrame').evaluate(el=>{const r=el.getBoundingClientRect(),im=el.querySelector('img');return {width:r.width,height:r.height,naturalWidth:im.naturalWidth,fit:getComputedStyle(im).objectFit,overflow:document.documentElement.scrollWidth>innerWidth}});
