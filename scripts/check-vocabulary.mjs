@@ -50,12 +50,14 @@ if(archived){
  const restored=JSON.parse(a.window.localStorage.getItem('jigu-reading-library-v2'));assert.ok(restored.records[archived.id].saved);assert.ok(restored.wordSaves[archived.id+':'+archived.keywords[0].id]);assert.equal(restored.wordReviews.test.dueAt,123);assert.match(a.window.document.querySelector('.readerHeader').textContent,/旧版/);click(a,'[data-go="shelf"]');click(a,'[data-go="home"]');assert.ok(!a.window.document.querySelector('h1').textContent.includes(archived.title));a.window.close();
 }
 // Explicit withdrawals disappear from every navigation route, including saved legacy state.
+const withdrawnIds=(()=>{const c={window:{}};vm.runInNewContext(readFileSync('public/books/curation.js','utf8'),c);return c.window.JIGU_CURATION.withdrawnIds})();
 const withdrawnId='0089';const oldBook=(()=>{const c={window:{}};vm.runInNewContext(catalog,c);return c.window.JIGU_BOOKS.find(b=>b.id===withdrawnId)})();
 const withdrawn=app(JSON.stringify({selectedId:withdrawnId,records:{[withdrawnId]:{opened:true,saved:true,page:1}},wordSaves:{[withdrawnId+':'+oldBook.keywords[0].id]:true}}));
-click(withdrawn,'[data-go="shelf"]');assert.equal(withdrawn.window.document.querySelector('[data-book="'+withdrawnId+'"]'),null);
+click(withdrawn,'[data-go="shelf"]');for(const id of withdrawnIds)assert.equal(withdrawn.window.document.querySelector('[data-book="'+id+'"]'),null);
 assert.ok(![...withdrawn.window.document.querySelectorAll('.cardStage, .stageSelect')].some(e=>/S[123]/.test(e.textContent)));
 click(withdrawn,'[data-go="mine"]');assert.equal(withdrawn.window.document.querySelector('[data-resume="'+withdrawnId+'"]'),null);
 click(withdrawn,'[data-go="vocabulary"]');assert.ok(withdrawn.window.document.querySelector('.emptyVocabulary'));withdrawn.window.close();
+const archivedWithdrawal=app(JSON.stringify({selectedId:'how-about-you',records:{'how-about-you':{opened:true,saved:true,page:2}}}));click(archivedWithdrawal,'[data-go="mine"]');assert.equal(archivedWithdrawal.window.document.querySelector('[data-resume="how-about-you"]'),null);archivedWithdrawal.window.close();
 const h=app();h.window.close();
 const highlightHtml=html.replace('highlightWords(p.en,book.keywords.map(w=>w.word))', "highlightWords('Read reading READ. A sea turtle & <cat> catch.', ['read','sea turtle','turtle','cat'])");
 const fixtureDom=new JSDOM(highlightHtml,{url:'https://jigu.local/',runScripts:'outside-only'});fixtureDom.window.scrollTo=()=>{};fixtureDom.window.eval(readFileSync('public/books/curation.js','utf8'));fixtureDom.window.eval(catalog);fixtureDom.window.eval(bundle);fixtureDom.window.eval([...fixtureDom.window.document.scripts].find(s=>s.textContent.includes('const books=window.JIGU_BOOKS')).textContent);click(fixtureDom,'[data-go="reader"]');

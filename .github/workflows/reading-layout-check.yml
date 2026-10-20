@@ -1,10 +1,10 @@
 name: Reading navigation layout
 on:
   pull_request:
-    paths: [index.html, .github/workflows/reading-layout-check.yml]
+    paths: [index.html, public/books/curation.js, scripts/check-vocabulary.mjs, .github/workflows/reading-layout-check.yml]
   push:
     branches: [main]
-    paths: [index.html, .github/workflows/reading-layout-check.yml]
+    paths: [index.html, public/books/curation.js, scripts/check-vocabulary.mjs, .github/workflows/reading-layout-check.yml]
 permissions:
   contents: read
 jobs:
