@@ -64,7 +64,7 @@ def plan():
   changes.extend(json.loads(data))
  if len({b['id'] for b in changes})!=len(changes):raise ValueError('Duplicate book changes')
  original=json.loads(raw.decode().removeprefix('window.JIGU_BOOKS = ').strip().removesuffix(';'));previous={b['id']:b for b in original};overrides={b['id']:b for b in changes}
- books=[overrides.get(b['id'],b) for b in original]+[b for b in changes if b['id'] not in previous]
+ books=[b for b in changes if b['id'] not in previous]+[overrides.get(b['id'],b) for b in original]
  new_ids=[b['id'] for b in changes if b['id'] not in previous]
  if sorted(new_ids)!=sorted(candidate['newBookIds']) or sorted(new_ids)!=sorted(request['newBookIds']) or len(new_ids)!=request['expectedNewBooks']:raise ValueError('New-book set changed')
  if len(active(original))!=request['sourceActiveBooks'] or curation['expectedActiveBooks']!=request['targetActiveBooks'] or len({b['id'] for b in books})!=len(books) or len(active(books))!=request['targetActiveBooks']:raise ValueError('Wrong shelf count')

@@ -4,6 +4,7 @@ import importlib.util,json,shutil,tempfile
 ROOT=Path(__file__).resolve().parents[1]
 spec=importlib.util.spec_from_file_location('release',ROOT/'scripts/library-release-production.py');m=importlib.util.module_from_spec(spec);spec.loader.exec_module(m)
 books,request,ledger=m.plan();new=[b for b in books if b['id'] in request['newBookIds']]
+assert [b['id'] for b in books[:10]]==request['newBookIds']
 assert len(new)==10 and len({b['narration']['voiceId'] for b in new})==3
 assert len(ledger['pages'])==102 and all(p['bookId'] in request['newBookIds'] and p['speaker']!=m.CHARLIE for p in ledger['pages'])
 assert sum(len(b['pages']) for b in new)==105

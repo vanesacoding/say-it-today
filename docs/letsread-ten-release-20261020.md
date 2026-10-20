@@ -1,6 +1,6 @@
 # Ten complete Let's Read books
 
-Adds ten individually reviewed English books, taking the curated shelf from 73 to 83. Prior withdrawals remain in place. All original source JPEG bytes and source English are retained; only HTML markup and whitespace are normalized. No source sentence is rewritten to make it easier. Chinese translations, one-action companion tips, three linked keywords per book and optional everyday activities are Jigu additions.
+Adds ten individually reviewed English books, taking the curated shelf from 73 to 83. Prior withdrawals remain in place. The ten new books appear first on the shelf so the trial batch is easy to find; the relative order of all existing records is preserved. All original source JPEG bytes and source English are retained; only HTML markup and whitespace are normalized. No source sentence is rewritten to make it easier. Chinese translations, one-action companion tips, three linked keywords per book and optional everyday activities are Jigu additions.
 
 | Book | Chinese title | Stage | Primary topic | Fixed voice | Reading pages |
 | --- | --- | --- | --- | --- | --- |
