@@ -5,10 +5,10 @@ import vm from 'node:vm';
 import {JSDOM} from 'jsdom';
 const html=readFileSync('index.html','utf8');
 const catalogScript=readFileSync('public/books/catalog.js','utf8');
-const context={window:{}};vm.runInNewContext(catalogScript,context);const books=context.window.JIGU_BOOKS;const activeBooks=books.filter(b=>!b.archived);
+const context={window:{}};vm.runInNewContext(catalogScript,context);vm.runInNewContext(readFileSync('public/books/curation.js','utf8'),context);const curation=context.window.JIGU_CURATION;const books=context.window.JIGU_BOOKS;const activeBooks=books.filter(b=>!b.archived&&!curation.withdrawnIds.includes(b.id));
 const release=JSON.parse(readFileSync('scripts/library-release-request.json','utf8'));
 const baseline=createHash('sha256').update(catalogScript).digest('hex')===release.sourceCatalogueSha256;
-assert.equal(activeBooks.length,baseline?50:release.targetActiveBooks);
+assert.equal(activeBooks.length,curation.expectedActiveBooks);
 assert.equal(new Set(books.map(b=>b.id)).size,books.length);
 const stages=new Set(),themes=new Set();
 for(const b of books){
@@ -48,7 +48,7 @@ function makeDom(saved,legacy,onlyBookId){
  const dom=new JSDOM(html,{url:'https://jigu.local/say-it-today/',runScripts:'outside-only'});dom.window.scrollTo=()=>{};
  if(saved)dom.window.localStorage.setItem('jigu-reading-library-v2',saved);
  if(legacy)dom.window.localStorage.setItem('jigu-vertical-book-0087-v1',legacy);
- dom.window.eval(catalogScript);if(onlyBookId)for(const b of dom.window.JIGU_BOOKS)b.archived=b.id!==onlyBookId;dom.window.eval(readFileSync('public/books/vocabulary.js','utf8'));
+ dom.window.eval(readFileSync('public/books/curation.js','utf8'));dom.window.eval(catalogScript);if(onlyBookId)for(const b of dom.window.JIGU_BOOKS)b.archived=b.id!==onlyBookId;dom.window.eval(readFileSync('public/books/vocabulary.js','utf8'));
  dom.window.eval([...dom.window.document.scripts].find(s=>s.textContent.includes('const books=window.JIGU_BOOKS')).textContent);
  return dom;
 }
@@ -102,9 +102,9 @@ for(const b of activeBooks){
 }
 console.log('PASS all '+activeBooks.length+' books: correct page counts and art, companion text, completion, linked keywords and replay');
 // Independent progress and favorites survive switching and reloading.
-open(dom,'0008');click(dom,'[data-action="next"]');click(dom,'[data-action="favorite"]');
+open(dom,'0087');click(dom,'[data-action="next"]');click(dom,'[data-action="favorite"]');
 open(dom,'0001');for(let i=0;i<9;i++)click(dom,'[data-action="next"]');click(dom,'[data-action="favorite"]');
-open(dom,'0008');assert.match(heading(dom),/2\/8/);open(dom,'0001');assert.match(heading(dom),/10\/11/);
+open(dom,'0087');assert.match(heading(dom),/2\/8/);open(dom,'0001');assert.match(heading(dom),/10\/11/);
 const persisted=dom.window.localStorage.getItem('jigu-reading-library-v2');const reload=makeDom(persisted);
 click(reload,'[data-go="mine"]');assert.equal(reload.window.document.querySelectorAll('.favoriteBook').length,2);
 click(reload,'[data-resume="0001"]');assert.match(heading(reload),/10\/11/);assert.ok(reload.window.document.querySelector('.companionPanel'));
@@ -116,7 +116,7 @@ console.log('PASS independent progress, favorites, refresh, persistent companion
 const audioDom=makeDom();const played=[];
 class Narration{constructor(){this.onended=null;this.onerror=null;this.src='';this.paused=false}play(){played.push(this);return Promise.resolve()}pause(){this.paused=true}}
 audioDom.window.Audio=Narration;
-open(audioDom,'0008');click(audioDom,'[data-action="speak"]');assert.equal(played.at(-1).src,'./books/library/0008/audio/01.mp3');
+open(audioDom,'0087');click(audioDom,'[data-action="speak"]');assert.equal(played.at(-1).src,'./books/library/0087/audio/01.mp3');
 click(audioDom,'[data-go="shelf"]');assert.ok(played.at(-1).paused);
 open(audioDom,'0001');click(audioDom,'[data-go="shelf"]');click(audioDom,'[data-book="0001"]');click(audioDom,'[data-action="words"]');click(audioDom,'[data-word-id="word-0"]');click(audioDom,'[data-action="word-audio"]');assert.equal(played.at(-1).src,'./books/library/0001/audio/05.mp3');click(audioDom,'button[data-action="close"]');assert.ok(played.at(-1).paused);
 const utterances=[];let cancelled=0;

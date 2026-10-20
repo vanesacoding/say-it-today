@@ -4,10 +4,11 @@ import hashlib,json
 from PIL import Image
 ROOT=Path(__file__).resolve().parents[1]
 books=json.loads((ROOT/'public/books/catalog.js').read_text().removeprefix('window.JIGU_BOOKS = ').strip().removesuffix(';'))
-active=[b for b in books if not b.get('archived')]
+curation=json.loads((ROOT/'public/books/curation.js').read_text().removeprefix('window.JIGU_CURATION = ').strip().removesuffix(';'))
+active=[b for b in books if not b.get('archived') and b['id'] not in curation['withdrawnIds']]
 request=json.loads((ROOT/'scripts/library-release-request.json').read_text())
 current_hash=hashlib.sha256((ROOT/'public/books/catalog.js').read_bytes()).hexdigest()
-assert len(active)==(50 if current_hash==request['sourceCatalogueSha256'] else request['targetActiveBooks'])
+assert len(active)==curation['expectedActiveBooks']
 count=0
 for book in active:
  for i,page in enumerate(book['pages']):
