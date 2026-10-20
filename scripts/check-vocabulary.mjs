@@ -15,7 +15,7 @@ assert.equal(api.rate(known,true,now).dueAt,now+3*86400000);
 assert.equal(api.rate(known,false,now).dueAt,now+86400000);
 assert.equal(api.queue(items,{read:known},now).length,0);assert.equal(api.queue(items,{read:known},known.dueAt).length,1);
 const html=readFileSync('index.html','utf8'),catalog=readFileSync('public/books/catalog.js','utf8');
-function app(saved){const d=new JSDOM(html,{url:'https://jigu.local/',runScripts:'outside-only'});d.window.scrollTo=()=>{};if(saved)d.window.localStorage.setItem('jigu-reading-library-v2',saved);d.window.eval(catalog);d.window.eval(bundle);d.window.eval([...d.window.document.scripts].find(s=>s.textContent.includes('const books=window.JIGU_BOOKS')).textContent);return d;}
+function app(saved){const d=new JSDOM(html,{url:'https://jigu.local/',runScripts:'outside-only'});d.window.scrollTo=()=>{};if(saved)d.window.localStorage.setItem('jigu-reading-library-v2',saved);d.window.eval(readFileSync('public/books/curation.js','utf8'));d.window.eval(catalog);d.window.eval(bundle);d.window.eval([...d.window.document.scripts].find(s=>s.textContent.includes('const books=window.JIGU_BOOKS')).textContent);return d;}
 function click(d,selector){const e=d.window.document.querySelector(selector);assert.ok(e,'Missing '+selector);e.click();}
 const d=app();click(d,'[data-go="mine"]');click(d,'[data-go="vocabulary"]');assert.ok(d.window.document.querySelector('.emptyVocabulary'));
 click(d,'[data-go="shelf"]');click(d,'[data-book="0087"]');click(d,'[data-action="words"]');click(d,'[data-word-id="word-0"]');click(d,'[data-action="word-save"]');assert.ok(d.window.document.querySelector('.wordSave').disabled);
@@ -49,9 +49,16 @@ if(archived){
  assert.ok(!a.window.document.querySelector('h1').textContent.includes(archived.title),'Home moves to a current book');click(a,'[data-go="mine"]');assert.ok(a.window.document.querySelector(`[data-resume="${archived.id}"]`));click(a,`[data-resume="${archived.id}"]`);assert.match(a.window.document.querySelector('.readerHeader').textContent,new RegExp('3/'+archived.pages.length));
  const restored=JSON.parse(a.window.localStorage.getItem('jigu-reading-library-v2'));assert.ok(restored.records[archived.id].saved);assert.ok(restored.wordSaves[archived.id+':'+archived.keywords[0].id]);assert.equal(restored.wordReviews.test.dueAt,123);assert.match(a.window.document.querySelector('.readerHeader').textContent,/旧版/);click(a,'[data-go="shelf"]');click(a,'[data-go="home"]');assert.ok(!a.window.document.querySelector('h1').textContent.includes(archived.title));a.window.close();
 }
+// Explicit withdrawals disappear from every navigation route, including saved legacy state.
+const withdrawnId='0089';const oldBook=(()=>{const c={window:{}};vm.runInNewContext(catalog,c);return c.window.JIGU_BOOKS.find(b=>b.id===withdrawnId)})();
+const withdrawn=app(JSON.stringify({selectedId:withdrawnId,records:{[withdrawnId]:{opened:true,saved:true,page:1}},wordSaves:{[withdrawnId+':'+oldBook.keywords[0].id]:true}}));
+click(withdrawn,'[data-go="shelf"]');assert.equal(withdrawn.window.document.querySelector('[data-book="'+withdrawnId+'"]'),null);
+assert.ok(![...withdrawn.window.document.querySelectorAll('.cardStage, .stageSelect')].some(e=>/S[123]/.test(e.textContent)));
+click(withdrawn,'[data-go="mine"]');assert.equal(withdrawn.window.document.querySelector('[data-resume="'+withdrawnId+'"]'),null);
+click(withdrawn,'[data-go="vocabulary"]');assert.ok(withdrawn.window.document.querySelector('.emptyVocabulary'));withdrawn.window.close();
 const h=app();h.window.close();
 const highlightHtml=html.replace('highlightWords(p.en,book.keywords.map(w=>w.word))', "highlightWords('Read reading READ. A sea turtle & <cat> catch.', ['read','sea turtle','turtle','cat'])");
-const fixtureDom=new JSDOM(highlightHtml,{url:'https://jigu.local/',runScripts:'outside-only'});fixtureDom.window.scrollTo=()=>{};fixtureDom.window.eval(catalog);fixtureDom.window.eval(bundle);fixtureDom.window.eval([...fixtureDom.window.document.scripts].find(s=>s.textContent.includes('const books=window.JIGU_BOOKS')).textContent);click(fixtureDom,'[data-go="reader"]');
+const fixtureDom=new JSDOM(highlightHtml,{url:'https://jigu.local/',runScripts:'outside-only'});fixtureDom.window.scrollTo=()=>{};fixtureDom.window.eval(readFileSync('public/books/curation.js','utf8'));fixtureDom.window.eval(catalog);fixtureDom.window.eval(bundle);fixtureDom.window.eval([...fixtureDom.window.document.scripts].find(s=>s.textContent.includes('const books=window.JIGU_BOOKS')).textContent);click(fixtureDom,'[data-go="reader"]');
 assert.deepEqual([...fixtureDom.window.document.querySelectorAll('.readEnglish mark')].map(e=>e.textContent),['Read','READ','sea turtle','cat']);
 assert.equal(fixtureDom.window.document.querySelector('.readEnglish').textContent,'Read reading READ. A sea turtle & <cat> catch.');
 assert.equal(fixtureDom.window.document.querySelector('.readEnglish cat'),null);fixtureDom.window.close();

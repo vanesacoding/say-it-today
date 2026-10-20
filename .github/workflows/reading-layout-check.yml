@@ -52,7 +52,7 @@ jobs:
                   await page.getByRole('button',{name:'心情与朋友',exact:true}).click();
                   assert.equal(await page.getByLabel('选择共读阶段').inputValue(),'S2');
                   assert.ok(await page.locator('.shelfCard').count()>0);
-                  assert.ok((await page.locator('.shelfCard .cardStage').allTextContents()).every(t=>t.startsWith('S2')));
+                  assert.ok((await page.locator('.shelfCard .cardStage').allTextContents()).every(t=>t.startsWith('短句共读')));
                   await page.getByRole('button',{name:'阶段说明',exact:true}).click();
                   assert.ok(await page.getByRole('dialog',{name:'共读阶段怎么选'}).isVisible());
                   await page.getByRole('button',{name:'关闭',exact:true}).click();
