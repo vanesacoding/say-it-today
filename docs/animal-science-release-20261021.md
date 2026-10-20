@@ -36,3 +36,9 @@ Reference checks:
 - Square cover frames for every shelf card; portrait covers use cover fit and a reviewed 38% vertical position. Ten portrait cover crops were visually checked: no clipped faces or original title text. Interior images are unaffected.
 
 Validation: existing content and vocabulary checks; new 24-page source/companion checks; release plan mutation guards; native five-word touch regression; all cover frames square; stable shelf ordering; source-preserving animal page screenshots at four viewports. Narration media is synthesized only after the reviewed plan is merged, then decoded and hashed before publication.
+
+## Recording recovery
+
+The first production run 39470803397 completed and verified all 23 recordings, then stopped before deployment because the legacy audio regression assumed every generated book starts with text. The regression now explicitly exercises two consecutive spoken pages and separately verifies a wordless opening without synthesizing it. Full checks passed locally against the generated 85-book catalogue.
+
+Recovery pins the completed run in the request and restores its artifact with `--resume-only`. It verifies the same plan, page text, voices, file hashes and decoded audio; it makes no synthesis requests. Existing recordings remain unchanged.

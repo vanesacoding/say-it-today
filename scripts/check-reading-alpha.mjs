@@ -130,13 +130,13 @@ const recordedPath=(b,i)=>`./books/library/${b.id}/${b.pages[i].audioFile||'audi
 const generatedBooks=activeBooks.filter(b=>b.audioType==='generated');
 assert.ok(generatedBooks.length,'at least one fixed AI book must exercise recorded playback');
 for(const b of generatedBooks){
- open(audioDom,b.id);const speechCount=utterances.length;
+ open(audioDom,b.id);const first=b.pages.findIndex((p,i)=>p.en&&b.pages[i+1]?.en);assert.ok(first>=0,'two spoken pages exercise continuous playback');for(let i=0;i<b.pages.length;i++)click(audioDom,'[data-action="prev"]');for(let i=0;i<first;i++)click(audioDom,'[data-action="next"]');const speechCount=utterances.length;
  assert.match(audioDom.window.document.querySelector('.readerTools').textContent,/绘本说明/);
  click(audioDom,'[data-action="listen"]');assert.equal(utterances.length,speechCount,'AI narration uses recorded audio');
- assert.equal(played.at(-1).src,recordedPath(b,0));
- played.at(-1).onended();assert.match(heading(audioDom),new RegExp('2/'+b.pages.length));
- const player=played.at(-1);player.onerror();assert.equal(player.src,b.pages[1].sourceAudio);
- player.onerror();assert.equal(utterances.at(-1).text,b.pages[1].en);
+ assert.equal(played.at(-1).src,recordedPath(b,first));
+ played.at(-1).onended();assert.match(heading(audioDom),new RegExp((first+2)+'/'+b.pages.length));
+ const player=played.at(-1);player.onerror();assert.equal(player.src,b.pages[first+1].sourceAudio);
+ player.onerror();assert.equal(utterances.at(-1).text,b.pages[first+1].en);
  assert.match(audioDom.window.document.getElementById('toast').textContent,/朗读暂时不可用/);
  click(audioDom,'[data-go="shelf"]');click(audioDom,`[data-book="${b.id}"]`);click(audioDom,'[data-action="credits"]');
  assert.match(audioDom.window.document.querySelector('.credit').textContent,/AI合成配音/);
@@ -148,7 +148,7 @@ const wordlessBook=generatedBooks.find(b=>b.pages.some(p=>!p.en));
 assert.ok(wordlessBook);
 open(audioDom,wordlessBook.id);
 const wordlessIndex=wordlessBook.pages.findIndex(p=>!p.en),timers=[];
-while(!heading(audioDom).includes(`${wordlessIndex+1}/${wordlessBook.pages.length}`))click(audioDom,'[data-action="next"]');
+for(let i=0;i<wordlessBook.pages.length;i++)click(audioDom,'[data-action="prev"]');for(let i=0;i<wordlessIndex;i++)click(audioDom,'[data-action="next"]');
 audioDom.window.setTimeout=(fn,ms)=>{timers.push({fn,ms});return 123456};
 const playedBefore=played.length,speechBefore=utterances.length;
 click(audioDom,'[data-action="listen"]');
