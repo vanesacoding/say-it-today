@@ -2,8 +2,7 @@
 import {chromium} from 'playwright';
 import {readFileSync,mkdirSync} from 'node:fs';
 import assert from 'node:assert/strict';
-const manifest=JSON.parse(readFileSync('scripts/library-release-candidate.json'));
-const additions=manifest.shards.flatMap(s=>JSON.parse(readFileSync('scripts/'+s.file)));
+const additions=JSON.parse(readFileSync('scripts/library-release-books-phone.json'));
 const original=readFileSync('public/books/catalog.js','utf8');
 const inject=original+'\n'+JSON.stringify(additions)+'.forEach(b=>{if(!window.JIGU_BOOKS.some(o=>o.id===b.id))window.JIGU_BOOKS.push(b)});';
 const browser=await chromium.launch();mkdirSync('layout-proof',{recursive:true});

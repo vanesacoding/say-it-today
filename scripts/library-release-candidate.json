@@ -1,18 +1,30 @@
 {
-  "id": "bookdash-two-phone-books-20261020",
-  "sourceCatalogueSha256": "db69cd2c223086cc684988692b60392fbd0ce1c48f2bb8e012d7c5ebae805e3f",
+  "id": "letsread-ten-20261020",
+  "sourceCatalogueSha256": "02990648e47708fdaa42f79c4db73b8e4d80a77adb3eb50360f0a1c27302e893",
   "newBookIds": [
-    "little-goat",
-    "can-we-eat-a-rainbow"
+    "lr-our-family",
+    "lr-shopping-time",
+    "lr-simple-counting",
+    "lr-see-clearly",
+    "lr-daddy-doing",
+    "lr-corn-is-yummy",
+    "lr-hide-it",
+    "lr-shy-noy",
+    "lr-seven-days",
+    "lr-occupations"
   ],
-  "expectedPages": 37,
-  "sourceTextSha256": "55616c81d9bfd84b621e269cc4f44996a9ec7d0fa27c08d139f6529f8dbd23e0",
+  "expectedPages": 102,
+  "sourceTextSha256": "6b91753884d3e99b468c76c4d7b943447920cb3c6d5b0c774da4bc7c0fe62857",
   "speechRate": -5,
   "auditionRunId": 39355874472,
+  "sourceManifest": {
+    "file": "letsread-source-manifest.json",
+    "sha256": "887379e2728e6800245d2ec2bc65a3183d6ca1b2a1464a96e8a65ff09d8de7e1"
+  },
   "shards": [
     {
-      "file": "library-release-books-phone.json",
-      "sha256": "0f4e3895f8a3fed9c65af4f6ece25e50eabb9b585f0ac973af294659b74a329e"
+      "file": "library-release-books-letsread.json",
+      "sha256": "f3035a8f34d18d51bc1a174409cc48dd645cadf49b33f9f8d9e2d8d0dcefc8c6"
     }
   ]
 }

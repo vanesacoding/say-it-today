@@ -1,0 +1,2055 @@
+[
+  {
+    "id": "lr-our-family",
+    "title": "Our Family",
+    "zh": "我们一家",
+    "stageId": "S2",
+    "primaryTheme": "everyday",
+    "themeIds": [
+      "everyday"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://storage.googleapis.com/lets-read-asia/assets/images/20bcd999-eaf7-4524-bc82-d961309aebce.jpg",
+    "sourceCoverSha256": "b2de6423b09d1cddbe1ae8dcb6b37c7a7bf0ddac7bd381de31fee471b6d3a1a3",
+    "source": {
+      "name": "Let's Read / The Asia Foundation",
+      "url": "https://www.letsreadasia.org/book/9966787f-19fa-4438-9756-7a8f4fd204af?bookLang=4846240843956224",
+      "publisherUrl": "https://www.letsreadasia.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://letsreadasia.org/api/v5/book/preview/language/4846240843956224/book/9966787f-19fa-4438-9756-7a8f4fd204af",
+      "creators": [
+        "文字：Komar Rien Komar Cheh",
+        "插画：Chan Pisey",
+        "原书出版：The Asia Foundation - Let's Read",
+        "英文译者：Somey Chheang"
+      ],
+      "attributionText": "Brought to you by\nLet’s Read is a program of The Asia Foundation that supports early\nreading skills and habits to develop our next generation of critical\nthinkers and creative innovators in Asia and the Pacific.\nTo read more books like this and get further information,\nvisit: letsreadasia.org\nOriginal Story\nOur Family. Author: Komar Rien Komar Cheh. Illustrator: Chan\nPisey.\nPublished by The Asia Foundation - Let’s Read, © The Asia\nFoundation - Let’s Read. Released under CC-BY-4.0.\nThis work is a modified version of the original story. @ The Asia\nFoundation, 2018. Some rights reserved. Released under\nCC-BY-4.0.\nFor full terms of use and attribution,\nhttp://creativecommons.org/licenses/by/4.0/\nContributing translators: Somey Chheang\nSigner: Samyukta Shrestha.",
+      "originalPdf": "https://storage.googleapis.com/lets-read-asia/pdfs/67661587-0c1d-4fb6-9479-e1774fcde781/ញាតិរបស់យើង_eng_PORTRAIT_V12024.04.03T164932+0000.pdf",
+      "originalPdfSha256": "b3d0c109048f3536137f5c6b916d95e54603726f008339df1eece08f7b818420",
+      "sourceApiSha256": "bc7081ae8285ca322ab2b7fe1173168739bc5e7628193c68e17a5e8196f25596",
+      "format": "lets-read-source-pages-v1",
+      "editorialNote": "英文逐页保留所链官方英文版本，仅清理HTML标签与合并空白。原始插画完整保留，不裁切人物。书后练习与出版说明不放入故事正文；无字页不新增英文或配音。中文释义、陪读提示和活动由叽咕新增。"
+    },
+    "pages": [
+      {
+        "en": "Today we have a lot to do. Everyone wants to help!",
+        "sourceText": "Today we have a lot to do. Everyone wants to help!",
+        "sourcePageNumber": 1,
+        "sourcePageId": "5877936221585408",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/9966787f-19fa-4438-9756-7a8f4fd204af/Images/p-3.jpg",
+        "sourceImageSha256": "f7fa84e60753b8fc3f0319f4290856abfb24ea4312835fe64eb9452c5a425e06",
+        "imageWidth": 389,
+        "imageHeight": 550,
+        "zh": "今天我们有好多事情要做。每个人都想来帮忙！",
+        "alt": "今天我们有好多事情要做。每个人都想来帮忙！",
+        "tip": "指指小女孩，看看她在忙什么。"
+      },
+      {
+        "en": "Mom helps with the food.",
+        "sourceText": "Mom helps with the food.",
+        "sourcePageNumber": 2,
+        "sourcePageId": "5314986268164096",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/9966787f-19fa-4438-9756-7a8f4fd204af/Images/p-4.jpg",
+        "sourceImageSha256": "be517922a9c6ff51704ec7a1224c4ec4c1873ef924f192f76b6b4d80cb272854",
+        "imageWidth": 389,
+        "imageHeight": 550,
+        "zh": "妈妈帮忙准备食物。",
+        "alt": "妈妈帮忙准备食物。",
+        "tip": "找一找妈妈手里的食物。"
+      },
+      {
+        "en": "Dad helps with the balloons.",
+        "sourceText": "Dad helps with the balloons.",
+        "sourcePageNumber": 3,
+        "sourcePageId": "7802644697552780000",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/assets/images/4ed8d6e1-6ed4-4110-a51e-4c0698bdc361.png",
+        "sourceImageSha256": "7e08bf29a55e3f4cacc180f5ee5f588f4ca09508ae0c583908e62ba4e7653a83",
+        "imageWidth": 596,
+        "imageHeight": 842,
+        "zh": "爸爸帮忙准备气球。",
+        "alt": "爸爸帮忙准备气球。",
+        "tip": "学爸爸鼓起脸颊，轻轻吹一口气。"
+      },
+      {
+        "en": "Brother helps with the balloons.",
+        "sourceText": "Brother helps with the balloons.",
+        "sourcePageNumber": 5,
+        "sourcePageId": "5033511291453440",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/9966787f-19fa-4438-9756-7a8f4fd204af/Images/p-6.jpg",
+        "sourceImageSha256": "52899fd9054759b1d8c08465e10251594d84d0b77c22d06012ffe7e91b2594c6",
+        "imageWidth": 389,
+        "imageHeight": 550,
+        "zh": "哥哥也帮忙准备气球。",
+        "alt": "哥哥也帮忙准备气球。",
+        "tip": "选一个你喜欢的气球颜色。"
+      },
+      {
+        "en": "Grandma helps with the dress.",
+        "sourceText": "Grandma helps with the dress.",
+        "sourcePageNumber": 6,
+        "sourcePageId": "6159411198296064",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/9966787f-19fa-4438-9756-7a8f4fd204af/Images/p-7.jpg",
+        "sourceImageSha256": "a6e714bc7e9de78d2e036983d9d3de2d94d0fbacf8d95cd3fa65b9d2c768b4e5",
+        "imageWidth": 389,
+        "imageHeight": 550,
+        "zh": "奶奶帮忙准备裙子。",
+        "alt": "奶奶帮忙准备裙子。",
+        "tip": "指指奶奶手里的裙子。"
+      },
+      {
+        "en": "Grandpa helps with the bicycle.",
+        "sourceText": "Grandpa helps with the bicycle.",
+        "sourcePageNumber": 7,
+        "sourcePageId": "5596461244874752",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/9966787f-19fa-4438-9756-7a8f4fd204af/Images/p-8.jpg",
+        "sourceImageSha256": "04cb3daf86bafb763b183af04eee17e81652823267cd88f918d22741431684eb",
+        "imageWidth": 389,
+        "imageHeight": 550,
+        "zh": "爷爷帮忙准备自行车。",
+        "alt": "爷爷帮忙准备自行车。",
+        "tip": "找找自行车的两个轮子。"
+      },
+      {
+        "en": "Uncle helps with the gifts.",
+        "sourceText": "Uncle helps with the gifts.",
+        "sourcePageNumber": 8,
+        "sourcePageId": "6722361151717376",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/9966787f-19fa-4438-9756-7a8f4fd204af/Images/p-9.jpg",
+        "sourceImageSha256": "cf06c84379e2e05258d9bd76b13946151f9c6426fe73d2689c12fe299175fc71",
+        "imageWidth": 389,
+        "imageHeight": 550,
+        "zh": "叔叔帮忙准备礼物。",
+        "alt": "叔叔帮忙准备礼物。",
+        "tip": "指指礼物上的大蝴蝶结。"
+      },
+      {
+        "en": "Today is Sister's birthday party. What a beautiful celebration!",
+        "sourceText": "Today is Sister's birthday party. What a beautiful celebration!",
+        "sourcePageNumber": 9,
+        "sourcePageId": "4523337896165376",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/9966787f-19fa-4438-9756-7a8f4fd204af/Images/p-10.jpg",
+        "sourceImageSha256": "1ffb9f300c798bc7cf08e562bfe229aec819acbaa1e1214a75597ecf8096a1b7",
+        "imageWidth": 389,
+        "imageHeight": 550,
+        "zh": "今天是姐姐的生日会。多么美好的庆祝活动呀！",
+        "alt": "今天是姐姐的生日会。多么美好的庆祝活动呀！",
+        "tip": "和孩子轻轻拍手，送一句生日祝福。"
+      },
+      {
+        "en": "",
+        "sourceText": "",
+        "sourcePageNumber": 10,
+        "sourcePageId": "5649237803008000",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/9966787f-19fa-4438-9756-7a8f4fd204af/Images/p-11.jpg",
+        "sourceImageSha256": "fed72245bc19dfe92b7b01f10c666227390d4382649e129b76c0ea0ec88cdad8",
+        "imageWidth": 389,
+        "imageHeight": 550,
+        "zh": "再看看家人们帮了哪些忙。",
+        "alt": "再看看家人们帮了哪些忙。",
+        "tip": "选一位家人，指指他正在做的事情。"
+      }
+    ],
+    "narration": {
+      "kind": "ai",
+      "provider": "Doubao Seed TTS 2.0",
+      "voice": "Charlotte",
+      "voiceId": "en_female_authoritative-british_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5
+    },
+    "keywords": [
+      {
+        "id": "lr-our-family-help",
+        "word": "help",
+        "meaning": "帮忙",
+        "pageIndex": 0
+      },
+      {
+        "id": "lr-our-family-food",
+        "word": "food",
+        "meaning": "食物",
+        "pageIndex": 1
+      },
+      {
+        "id": "lr-our-family-gifts",
+        "word": "gifts",
+        "meaning": "礼物",
+        "pageIndex": 6
+      }
+    ],
+    "activity": {
+      "title": "一起帮帮忙",
+      "text": "为下一次家庭小聚会选一件小事，和孩子一起完成，比如摆好纸巾或收好玩具。",
+      "hint": "指一指、聊一聊就好，不需要打卡。"
+    }
+  },
+  {
+    "id": "lr-shopping-time",
+    "title": "It is Shopping Time",
+    "zh": "开学购物去",
+    "stageId": "S2",
+    "primaryTheme": "everyday",
+    "themeIds": [
+      "everyday"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://storage.googleapis.com/lets-read-asia/assets/images/8cd8b906-0db5-4227-a877-99782ab757c2.jpg",
+    "sourceCoverSha256": "50defbc0dd87a7f89984b3117d53540b26333c1d7502e341ace674faf1f31588",
+    "source": {
+      "name": "Let's Read / The Asia Foundation",
+      "url": "https://www.letsreadasia.org/book/it-is-shopping-time?bookLang=4846240843956224",
+      "publisherUrl": "https://www.letsreadasia.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://letsreadasia.org/api/v5/book/preview/language/4846240843956224/book/2659dc58-4e31-448c-a628-ad6b5f808a97",
+      "creators": [
+        "文字：Komar Rien Komar Cheh",
+        "插画：Be Chharya",
+        "原书出版：The Asia Foundation - Let's Read",
+        "英文译者：Somey Chheang"
+      ],
+      "attributionText": "Brought to you by\nLet’s Read is a program of The Asia Foundation that supports early\nreading skills and habits to develop our next generation of critical\nthinkers and creative innovators in Asia and the Pacific.\nTo read more books like this and get further information,\nvisit: letsreadasia.org\nOriginal Story\nIt is Shopping Time. Author: Komar Rien Komar Cheh. Illustrator:\nBe Chharya.\nPublished by The Asia Foundation - Let’s Read, © The Asia\nFoundation - Let’s Read. Released under CC-BY-4.0.\nThis work is a modified version of the original story. @ The Asia\nFoundation, 2018. Some rights reserved. Released under\nCC-BY-4.0.\nFor full terms of use and attribution,\nhttp://creativecommons.org/licenses/by/4.0/\nContributing translators: Somey Chheang",
+      "originalPdf": "https://storage.googleapis.com/lets-read-asia/pdfs/898e873a-167a-4777-b1eb-758e570f8871/ទិញអីវ៉ាន់_eng_PORTRAIT_V12024.04.03T165418+0000.pdf",
+      "originalPdfSha256": "0ff0201266991c9f4d6f21d145731450eac6fdbf8e90b3b38375abae8122ff1e",
+      "sourceApiSha256": "ddf411365716d3a0089b9ed67a6967f907557965ede552f67663808035c10690",
+      "format": "lets-read-source-pages-v1",
+      "editorialNote": "英文逐页保留所链官方英文版本，仅清理HTML标签与合并空白。原始插画完整保留，不裁切人物。书后练习与出版说明不放入故事正文；无字页不新增英文或配音。中文释义、陪读提示和活动由叽咕新增。"
+    },
+    "pages": [
+      {
+        "en": "It is almost time for the school year to start!",
+        "sourceText": "It is almost time for the school year to start!",
+        "sourcePageNumber": 1,
+        "sourcePageId": "5657235300548608",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/2659dc58-4e31-448c-a628-ad6b5f808a97/Images/p-3.jpg",
+        "sourceImageSha256": "b8940fc5ba6e97916142f8c0f045f07eacc0aedccaa0043c0debe68ce856969c",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "新学年就快开始啦！",
+        "alt": "新学年就快开始啦！",
+        "tip": "指指桌上的书，想想上学会用到什么。"
+      },
+      {
+        "en": "Sophy goes to the bookstore.",
+        "sourceText": "Sophy goes to the bookstore.",
+        "sourcePageNumber": 2,
+        "sourcePageId": "5094285347127296",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/2659dc58-4e31-448c-a628-ad6b5f808a97/Images/p-4.jpg",
+        "sourceImageSha256": "d41090813fee5b2df5db78421b9ef78ed3e67b3c3115c40dc623bb928ad1ea2b",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "索菲来到书店。",
+        "alt": "索菲来到书店。",
+        "tip": "找找装满书的书架。"
+      },
+      {
+        "en": "Sophy buys five books for writing.",
+        "sourceText": "Sophy buys five books for writing.",
+        "sourcePageNumber": 3,
+        "sourcePageId": "6220185253969920",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/2659dc58-4e31-448c-a628-ad6b5f808a97/Images/p-5.jpg",
+        "sourceImageSha256": "efb518a4079697937b6d3fd1026deab26e8e872b6872b1b61ea41a86768a8d84",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "索菲买了五本写字用的本子。",
+        "alt": "索菲买了五本写字用的本子。",
+        "tip": "和孩子一起慢慢数到五。"
+      },
+      {
+        "en": "Sophy buys four books for reading.",
+        "sourceText": "Sophy buys four books for reading.",
+        "sourcePageNumber": 4,
+        "sourcePageId": "4812810370416640",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/2659dc58-4e31-448c-a628-ad6b5f808a97/Images/p-6.jpg",
+        "sourceImageSha256": "32b0b0aeec245c608f42e53b98b16a5c690ee0607fc762721e7362a0c23f5e96",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "索菲买了四本阅读的书。",
+        "alt": "索菲买了四本阅读的书。",
+        "tip": "用手指点一点，一起数这些书。"
+      },
+      {
+        "en": "Sophy buys three blue pens.",
+        "sourceText": "Sophy buys three blue pens.",
+        "sourcePageNumber": 5,
+        "sourcePageId": "5938710277259264",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/2659dc58-4e31-448c-a628-ad6b5f808a97/Images/p-7.jpg",
+        "sourceImageSha256": "dd804fc290af38dacf0dea8299ceb4bc5b1ab631cceddbf55cef756038329e9a",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "索菲买了三支蓝色的笔。",
+        "alt": "索菲买了三支蓝色的笔。",
+        "tip": "指指蓝色的笔，再伸出三根手指。"
+      },
+      {
+        "en": "Sophy buys two boxes of chalk.",
+        "sourceText": "Sophy buys two boxes of chalk.",
+        "sourcePageNumber": 6,
+        "sourcePageId": "5375760323837952",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/2659dc58-4e31-448c-a628-ad6b5f808a97/Images/p-8.jpg",
+        "sourceImageSha256": "b468dad3706f81232c0da5fa6898b14f10ddd6a684e2649d6147d0bf0fc2d397",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "索菲买了两盒粉笔。",
+        "alt": "索菲买了两盒粉笔。",
+        "tip": "找找粉笔盒，轻轻数一数。"
+      },
+      {
+        "en": "Sophy buys a backpack.",
+        "sourceText": "Sophy buys a backpack.",
+        "sourcePageNumber": 7,
+        "sourcePageId": "6501660230680576",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/2659dc58-4e31-448c-a628-ad6b5f808a97/Images/p-9.jpg",
+        "sourceImageSha256": "4df1a70550a8f5e794b392b6ed168bfc9ca72aa428c218fcc2f07be4a50948c0",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "索菲买了一个书包。",
+        "alt": "索菲买了一个书包。",
+        "tip": "指指索菲头顶的书包。"
+      },
+      {
+        "en": "Now Sophy is ready for the new school year!",
+        "sourceText": "Now Sophy is ready for the new school year!",
+        "sourcePageNumber": 8,
+        "sourcePageId": "4672072882061312",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/2659dc58-4e31-448c-a628-ad6b5f808a97/Images/p-10.jpg",
+        "sourceImageSha256": "92c11935809cf56872901190d0a60827c34889c87cb1b8b784135b3f70804e26",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "现在，索菲准备好迎接新学年啦！",
+        "alt": "现在，索菲准备好迎接新学年啦！",
+        "tip": "选一样你也想放进书包的物品。"
+      },
+      {
+        "en": "",
+        "sourceText": "",
+        "sourcePageNumber": 9,
+        "sourcePageId": "5797972788903936",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/2659dc58-4e31-448c-a628-ad6b5f808a97/Images/p-11.jpg",
+        "sourceImageSha256": "3e97abd9bd2ec29ff3be685a09a3d4b969078dca281de06b7920e6ecffab528a",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "这里有好多不同颜色的书包。",
+        "alt": "这里有好多不同颜色的书包。",
+        "tip": "指一个你喜欢的书包颜色。"
+      }
+    ],
+    "narration": {
+      "kind": "ai",
+      "provider": "Doubao Seed TTS 2.0",
+      "voice": "Rowan",
+      "voiceId": "en_male_adam-imitation_uranus_bigtts",
+      "locale": "en-US",
+      "accentLabel": "美式英语",
+      "speechRate": -5
+    },
+    "keywords": [
+      {
+        "id": "lr-shopping-time-books",
+        "word": "books",
+        "meaning": "书",
+        "pageIndex": 2
+      },
+      {
+        "id": "lr-shopping-time-pens",
+        "word": "pens",
+        "meaning": "笔",
+        "pageIndex": 4
+      },
+      {
+        "id": "lr-shopping-time-backpack",
+        "word": "backpack",
+        "meaning": "书包",
+        "pageIndex": 6
+      }
+    ],
+    "activity": {
+      "title": "收拾小书包",
+      "text": "找出孩子的书、笔和书包，边收拾边指认。年纪小的孩子只需要挑一件物品。",
+      "hint": "指一指、聊一聊就好，不需要打卡。"
+    }
+  },
+  {
+    "id": "lr-simple-counting",
+    "title": "Simple Counting",
+    "zh": "一起数一数",
+    "stageId": "S1",
+    "primaryTheme": "discovery",
+    "themeIds": [
+      "discovery"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://storage.googleapis.com/lets-read-asia/assets/images/0125cd36-1f61-4f21-986f-28483f1096b1.jpg",
+    "sourceCoverSha256": "96d3f3ab3ea9770cfec53d91e914bb9da2da77deabceed03fbf981ed7c06a755",
+    "source": {
+      "name": "Let's Read / The Asia Foundation",
+      "url": "https://www.letsreadasia.org/book/simple-counting?bookLang=4846240843956224",
+      "publisherUrl": "https://www.letsreadasia.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://letsreadasia.org/api/v5/book/preview/language/4846240843956224/book/7bed4edb-5900-4dde-931a-35d6e72a1f33",
+      "creators": [
+        "文字：Komar Rien Komar Cheh",
+        "插画：Sorn Srey Nuch",
+        "原书出版：The Asia Foundation - Let's Read",
+        "英文译者：Nasema Zeerak"
+      ],
+      "attributionText": "Brought to you by\nLet’s Read is a program of The Asia Foundation that supports early\nreading skills and habits to develop our next generation of critical\nthinkers and creative innovators in Asia and the Pacific.\nTo read more books like this and get further information,\nvisit: letsreadasia.org\nOriginal Story\nSimple Counting. Author: Komar Rien Komar Cheh. Illustrator:\nSorn Srey Nuch.\nPublished by The Asia Foundation - Let’s Read, © The Asia\nFoundation - Let’s Read. Released under CC-BY-4.0.\nThis work is a modified version of the original story. @ The Asia\nFoundation, 2018. Some rights reserved. Released under\nCC-BY-4.0.\nFor full terms of use and attribution,\nhttp://creativecommons.org/licenses/by/4.0/\nContributing translators: Nasema Zeerak",
+      "originalPdf": "https://storage.googleapis.com/lets-read-asia/pdfs/6d3cd1af-b073-4229-b51b-a7715cd21b19/១...២...៣_eng_PORTRAIT_V12024.04.02T192843+0000.pdf",
+      "originalPdfSha256": "1a63139f7884b919f67ab30e7a865c10882863936c277466b6519e2d62d05bdc",
+      "sourceApiSha256": "f3cc738f1a40bbb5e55cb1871f9cd7116b3e8768eedf7a0f05a314782e3e897b",
+      "format": "lets-read-source-pages-v1",
+      "editorialNote": "英文逐页保留所链官方英文版本，仅清理HTML标签与合并空白。原始插画完整保留，不裁切人物。书后练习与出版说明不放入故事正文；无字页不新增英文或配音。中文释义、陪读提示和活动由叽咕新增。"
+    },
+    "pages": [
+      {
+        "en": "8 cicadas",
+        "sourceText": "8 cicadas",
+        "sourcePageNumber": 1,
+        "sourcePageId": "3450611359019591261",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/7bed4edb-5900-4dde-931a-35d6e72a1f33/Images/p-3.jpg",
+        "sourceImageSha256": "bd0e66ee6da57f8a7a26a5f520db07431495e42ddefc95f14977161ca6b3492f",
+        "imageWidth": 389,
+        "imageHeight": 550,
+        "zh": "八只蝉。",
+        "alt": "八只蝉。",
+        "tip": "沿着树干，轻轻点数这些蝉。"
+      },
+      {
+        "en": "7 butterflies",
+        "sourceText": "7 butterflies",
+        "sourcePageNumber": 2,
+        "sourcePageId": "5391007554027498407",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/7bed4edb-5900-4dde-931a-35d6e72a1f33/Images/p-4.jpg",
+        "sourceImageSha256": "fa9938f87fc5b66aa412a4e08c3cc99f3172aa7e51b1053623a72e93d9199bbc",
+        "imageWidth": 389,
+        "imageHeight": 550,
+        "zh": "七只蝴蝶。",
+        "alt": "七只蝴蝶。",
+        "tip": "找找不同颜色的蝴蝶。"
+      },
+      {
+        "en": "6 ducks",
+        "sourceText": "6 ducks",
+        "sourcePageNumber": 3,
+        "sourcePageId": "6417456596507041739",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/7bed4edb-5900-4dde-931a-35d6e72a1f33/Images/p-5.jpg",
+        "sourceImageSha256": "85339c17581bfd21b6972e119ad9623c41cd16b97e0c3c86afcffdfdc3fe166e",
+        "imageWidth": 389,
+        "imageHeight": 550,
+        "zh": "六只鸭子。",
+        "alt": "六只鸭子。",
+        "tip": "一边指鸭子，一边慢慢数。"
+      },
+      {
+        "en": "5 otters",
+        "sourceText": "5 otters",
+        "sourcePageNumber": 4,
+        "sourcePageId": "7674181643222929396",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/7bed4edb-5900-4dde-931a-35d6e72a1f33/Images/p-6.jpg",
+        "sourceImageSha256": "81f76072241b8ff87ab5261386abbf8ef5ccb39a931d590498e63f6d1234c9c3",
+        "imageWidth": 389,
+        "imageHeight": 550,
+        "zh": "五只水獭。",
+        "alt": "五只水獭。",
+        "tip": "看看水獭在水里怎样游。"
+      },
+      {
+        "en": "4 horses",
+        "sourceText": "4 horses",
+        "sourcePageNumber": 5,
+        "sourcePageId": "1488361557075235142",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/7bed4edb-5900-4dde-931a-35d6e72a1f33/Images/p-7.jpg",
+        "sourceImageSha256": "dd4a25cb4f00d9953ff4dfd70a8d12bdb9a14bae90a4ab92c55c722b195e0088",
+        "imageWidth": 389,
+        "imageHeight": 550,
+        "zh": "四匹马。",
+        "alt": "四匹马。",
+        "tip": "找一找正在休息的马。"
+      },
+      {
+        "en": "3 cows",
+        "sourceText": "3 cows",
+        "sourcePageNumber": 6,
+        "sourcePageId": "5662210465733318923",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/7bed4edb-5900-4dde-931a-35d6e72a1f33/Images/p-8.jpg",
+        "sourceImageSha256": "3d0f5d71ed413789c4fc2147ae942b5566dee6cc3374c109aae2965fa5dfaa74",
+        "imageWidth": 389,
+        "imageHeight": 550,
+        "zh": "三头牛。",
+        "alt": "三头牛。",
+        "tip": "一起数数牛，学一声轻轻的哞。"
+      },
+      {
+        "en": "2 lions",
+        "sourceText": "2 lions",
+        "sourcePageNumber": 7,
+        "sourcePageId": "7055171672344406473",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/7bed4edb-5900-4dde-931a-35d6e72a1f33/Images/p-9.jpg",
+        "sourceImageSha256": "b7e2381c12511233d10009a2912649380bc5e86eb450a29e72459b225543a083",
+        "imageWidth": 389,
+        "imageHeight": 550,
+        "zh": "两只狮子。",
+        "alt": "两只狮子。",
+        "tip": "指指两只狮子牵在一起的爪子。"
+      },
+      {
+        "en": "1 elephant",
+        "sourceText": "1 elephant",
+        "sourcePageNumber": 8,
+        "sourcePageId": "8681480987192949793",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/7bed4edb-5900-4dde-931a-35d6e72a1f33/Images/p-10.jpg",
+        "sourceImageSha256": "9827e4f15587453f15d0c10dcf7cdf2e6c0275ae14430075fad6085cdc837ef3",
+        "imageWidth": 389,
+        "imageHeight": 550,
+        "zh": "一头大象。",
+        "alt": "一头大象。",
+        "tip": "伸出一根手指，再学大象轻轻抬鼻子。"
+      },
+      {
+        "en": "",
+        "sourceText": "",
+        "sourcePageNumber": 9,
+        "sourcePageId": "9034620479335550672",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/7bed4edb-5900-4dde-931a-35d6e72a1f33/Images/p-11.jpg",
+        "sourceImageSha256": "a58f167943e5752821c3dfe4226e5ddb07d793ea6fbf4b0864edd86d6b8dc1e2",
+        "imageWidth": 389,
+        "imageHeight": 550,
+        "zh": "动物们又聚到一起了。",
+        "alt": "动物们又聚到一起了。",
+        "tip": "选一种喜欢的动物，和孩子一起找。"
+      }
+    ],
+    "narration": {
+      "kind": "ai",
+      "provider": "Doubao Seed TTS 2.0",
+      "voice": "Knightley",
+      "voiceId": "en_male_knightley_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5
+    },
+    "keywords": [
+      {
+        "id": "lr-simple-counting-butterflies",
+        "word": "butterflies",
+        "meaning": "蝴蝶",
+        "pageIndex": 1
+      },
+      {
+        "id": "lr-simple-counting-ducks",
+        "word": "ducks",
+        "meaning": "鸭子",
+        "pageIndex": 2
+      },
+      {
+        "id": "lr-simple-counting-elephant",
+        "word": "elephant",
+        "meaning": "大象",
+        "pageIndex": 7
+      }
+    ],
+    "activity": {
+      "title": "数数身边的小东西",
+      "text": "选几块积木，从一数到孩子感兴趣的数量，不要求一次数到八。",
+      "hint": "指一指、聊一聊就好，不需要打卡。"
+    }
+  },
+  {
+    "id": "lr-see-clearly",
+    "title": "I Can See Clearly",
+    "zh": "我看得清楚",
+    "stageId": "S2",
+    "primaryTheme": "discovery",
+    "themeIds": [
+      "discovery"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://storage.googleapis.com/lets-read-asia/assets/images/92454a72-a10a-434f-8222-5378c1861b41.png",
+    "sourceCoverSha256": "06aed5d9db58a8d19add54a2c37e3992cbde52e573c40e761d80e9986324c5ae",
+    "source": {
+      "name": "Let's Read / The Asia Foundation",
+      "url": "https://www.letsreadasia.org/book/i-can-see-clearly_922296?bookLang=4846240843956224",
+      "publisherUrl": "https://www.letsreadasia.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://letsreadasia.org/api/v5/book/preview/language/4846240843956224/book/069f7745-6802-4f52-8851-14f5a811718b",
+      "creators": [
+        "文字：All Children Reading - Cambodia",
+        "插画：Sin Thuokna",
+        "原书出版：The Asia Foundation - Let's Read",
+        "英文译者：Chheang Chansomey"
+      ],
+      "attributionText": "Brought to you by\nLet’s Read is a program of The Asia Foundation that supports early\nreading skills and habits to develop our next generation of critical\nthinkers and creative innovators in Asia and the Pacific.\nTo read more books like this and get further information,\nvisit: letsreadasia.org\nOriginal Story\nI Can See Clearly. Author: All Children Reading - Cambodia.\nIllustrator: Sin Thuokna.\nPublished by The Asia Foundation - Let’s Read, © The Asia\nFoundation - Let’s Read. Released under CC-BY-4.0.\nThis work is a modified version of the original story. @ The Asia\nFoundation, 2020. Some rights reserved. Released under\nCC-BY-4.0.\nFor full terms of use and attribution,\nhttp://creativecommons.org/licenses/by/4.0/\nContributing translators: Chheang Chansomey",
+      "originalPdf": "https://storage.googleapis.com/lets-read-asia/pdfs/ec5b8934-fd9e-424e-abc0-8aecdf674c81/ខ្ញុំឃើញច្បាស់_eng_PORTRAIT_V12024.04.03T122911+0000.pdf",
+      "originalPdfSha256": "046a49507520288acfa0256e96ef99c97802670f02abfc6a67277da2aa00112a",
+      "sourceApiSha256": "c89c72cbcbc522ec9e5cf96e61483b1cedd63179af3ffd8bdf794f0b488a899f",
+      "format": "lets-read-source-pages-v1",
+      "editorialNote": "英文逐页保留所链官方英文版本，仅清理HTML标签与合并空白。原始插画完整保留，不裁切人物。书后练习与出版说明不放入故事正文；无字页不新增英文或配音。中文释义、陪读提示和活动由叽咕新增。"
+    },
+    "pages": [
+      {
+        "en": "Can you see my writing clearly? Yes, I can. Your writing is very good.",
+        "sourceText": "Can you see my writing clearly? Yes, I can. Your writing is very good.",
+        "sourcePageNumber": 2,
+        "sourcePageId": "3378593062178756032",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/069f7745-6802-4f52-8851-14f5a811718b/Images/p-1.png",
+        "sourceImageSha256": "dd57f775cded5c14762a54cd739d49640ed0d982f219253e6857d1c99e848cd2",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "你能看清我的字吗？能，我能看清。你的字写得很好。",
+        "alt": "你能看清我的字吗？能，我能看清。你的字写得很好。",
+        "tip": "指指孩子手中的纸，看看上面写了什么。"
+      },
+      {
+        "en": "Can you hear me clearly? Yes, I can. Your voice is loud.",
+        "sourceText": "Can you hear me clearly? Yes, I can. Your voice is loud.",
+        "sourcePageNumber": 3,
+        "sourcePageId": "2404268425149480330",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/069f7745-6802-4f52-8851-14f5a811718b/Images/p-2.png",
+        "sourceImageSha256": "5a20307e7457f1b59c10e39348c034fcc583cf2434c6d713aa9bbd232f5dc9e6",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "你能听清我说话吗？能，我能听清。你的声音很响亮。",
+        "alt": "你能听清我说话吗？能，我能听清。你的声音很响亮。",
+        "tip": "用手拢在耳朵旁，做一个仔细听的动作。"
+      },
+      {
+        "en": "Can you hear me sing clearly? Yes, I can. Your voice is very beautiful.",
+        "sourceText": "Can you hear me sing clearly? Yes, I can. Your voice is very beautiful.",
+        "sourcePageNumber": 4,
+        "sourcePageId": "4088777400558362764",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/069f7745-6802-4f52-8851-14f5a811718b/Images/p-3.png",
+        "sourceImageSha256": "741022fa5298934a64bbe72d8c51fac4c0e1ce686bc1160ae23e38695f9d49b2",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "你能听清我唱歌吗？能，我能听清。你的声音真好听。",
+        "alt": "你能听清我唱歌吗？能，我能听清。你的声音真好听。",
+        "tip": "轻轻哼一句熟悉的歌。"
+      },
+      {
+        "en": "Can you see grandma clearly? Yes, I can. Grandma is walking with her stick.",
+        "sourceText": "Can you see grandma clearly? Yes, I can. Grandma is walking with her stick.",
+        "sourcePageNumber": 5,
+        "sourcePageId": "4574604569227128066",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/069f7745-6802-4f52-8851-14f5a811718b/Images/p-4.png",
+        "sourceImageSha256": "7540a7a8affd7b3d6bf8bd55d9c2613b6b9c1cd4cc06adc56d31bba7d041644c",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "你能看清奶奶吗？能，我能看清。奶奶拄着拐杖走路。",
+        "alt": "你能看清奶奶吗？能，我能看清。奶奶拄着拐杖走路。",
+        "tip": "找找奶奶手里的拐杖。"
+      },
+      {
+        "en": "Can you see flying birds clearly? Yes, I can. There are many birds flying.",
+        "sourceText": "Can you see flying birds clearly? Yes, I can. There are many birds flying.",
+        "sourcePageNumber": 6,
+        "sourcePageId": "2138703944161372348",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/069f7745-6802-4f52-8851-14f5a811718b/Images/p-5.png",
+        "sourceImageSha256": "e0ec15ccafedc821c2b9b0591ea1bacd4841729f0a7f50cacc24fbd764dbab79",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "你能看清飞翔的小鸟吗？能，我能看清。有好多小鸟在飞。",
+        "alt": "你能看清飞翔的小鸟吗？能，我能看清。有好多小鸟在飞。",
+        "tip": "指指天空里的一只小鸟。"
+      },
+      {
+        "en": "Can you see that island clearly? Yes, I can. That island is near here.",
+        "sourceText": "Can you see that island clearly? Yes, I can. That island is near here.",
+        "sourcePageNumber": 7,
+        "sourcePageId": "2534644158829454767",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/069f7745-6802-4f52-8851-14f5a811718b/Images/p-6.png",
+        "sourceImageSha256": "61d666d3267fa227ed562cae0717b78b576fd712315a8d736cc99bf89a0df358",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "你能看清那个小岛吗？能，我能看清。那个小岛离这里很近。",
+        "alt": "你能看清那个小岛吗？能，我能看清。那个小岛离这里很近。",
+        "tip": "沿着小岛的边缘，用手指画一圈。"
+      },
+      {
+        "en": "Can you see butterflies flying clearly? Yes, I can. There are many butterflies flying.",
+        "sourceText": "Can you see butterflies flying clearly? Yes, I can. There are many butterflies flying.",
+        "sourcePageNumber": 8,
+        "sourcePageId": "7283944707906390006",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/069f7745-6802-4f52-8851-14f5a811718b/Images/p-7.png",
+        "sourceImageSha256": "0d50bcb3359629cdd8554c4da60b8e728eacc086d4212cb3a3780e9c4aa343f6",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "你能看清飞舞的蝴蝶吗？能，我能看清。有好多蝴蝶在飞。",
+        "alt": "你能看清飞舞的蝴蝶吗？能，我能看清。有好多蝴蝶在飞。",
+        "tip": "选一只蝴蝶，看看它翅膀的颜色。"
+      },
+      {
+        "en": "Can you see the tiger clearly? No, I cannot. That is not a tiger. That is my cat!",
+        "sourceText": "Can you see the tiger clearly? No, I cannot. That is not a tiger. That is my cat!",
+        "sourcePageNumber": 9,
+        "sourcePageId": "6786230030727473357",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/069f7745-6802-4f52-8851-14f5a811718b/Images/p-8.png",
+        "sourceImageSha256": "5018f3d79ddab7ec6544abcefea68d43cc962d95f35a59c4bd51cb3acb10695a",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "你能看清那只老虎吗？不能，我看不清。那不是老虎，那是我的猫！",
+        "alt": "你能看清那只老虎吗？不能，我看不清。那不是老虎，那是我的猫！",
+        "tip": "指指真正的小猫，看看它和想象中的老虎有什么不同。"
+      }
+    ],
+    "narration": {
+      "kind": "ai",
+      "provider": "Doubao Seed TTS 2.0",
+      "voice": "Charlotte",
+      "voiceId": "en_female_authoritative-british_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5
+    },
+    "keywords": [
+      {
+        "id": "lr-see-clearly-see",
+        "word": "see",
+        "meaning": "看见",
+        "pageIndex": 0
+      },
+      {
+        "id": "lr-see-clearly-hear",
+        "word": "hear",
+        "meaning": "听见",
+        "pageIndex": 1
+      },
+      {
+        "id": "lr-see-clearly-birds",
+        "word": "birds",
+        "meaning": "小鸟",
+        "pageIndex": 4
+      }
+    ],
+    "activity": {
+      "title": "看看听听",
+      "text": "在家里选一个看得见的东西和一种听得到的声音，和孩子轻松找一找。",
+      "hint": "指一指、聊一聊就好，不需要打卡。"
+    }
+  },
+  {
+    "id": "lr-daddy-doing",
+    "title": "What is Daddy Doing?",
+    "zh": "爸爸在做什么",
+    "stageId": "S2",
+    "primaryTheme": "everyday",
+    "themeIds": [
+      "everyday"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://storage.googleapis.com/lets-read-asia/assets/images/59c0a09b-6568-4dba-a669-c8a068f48e27.png",
+    "sourceCoverSha256": "c881d6c6825d660de1b85a3861477f60dfbe348a6406caa43aaf4b112ea5135c",
+    "source": {
+      "name": "Let's Read / The Asia Foundation",
+      "url": "https://www.letsreadasia.org/book/what-is-daddy-doing-?bookLang=4846240843956224",
+      "publisherUrl": "https://www.letsreadasia.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://letsreadasia.org/api/v5/book/preview/language/4846240843956224/book/c21f33c5-2cf8-47ae-a275-d9998c4bc560",
+      "creators": [
+        "文字：All Children Reading - Cambodia",
+        "插画：Yam Luy Chhuy",
+        "原书出版：The Asia Foundation - Let's Read",
+        "英文译者：Brendan Boland and Chheang Chansomey"
+      ],
+      "attributionText": "Brought to you by\nLet’s Read is a program of The Asia Foundation that supports early\nreading skills and habits to develop our next generation of critical\nthinkers and creative innovators in Asia and the Pacific.\nTo read more books like this and get further information,\nvisit: letsreadasia.org\nOriginal Story\nWhat is Daddy Doing?. Author: All Children Reading - Cambodia.\nIllustrator: Yam Luy Chhuy.\nPublished by The Asia Foundation - Let’s Read, © The Asia\nFoundation - Let’s Read. Released under CC-BY-4.0.\nThis work is a modified version of the original story. @ The Asia\nFoundation, 2020. Some rights reserved. Released under\nCC-BY-4.0.\nFor full terms of use and attribution,\nhttp://creativecommons.org/licenses/by/4.0/\nContributing translators: Brendan Boland and Chheang\nChansomey",
+      "originalPdf": "https://storage.googleapis.com/lets-read-asia/pdfs/6557b157-71cd-4aa7-9d4a-c3d23d671b7c/តើពុកកំពុងធ្វើអ្វី_eng_PORTRAIT_V12024.09.30T203241+0000.pdf",
+      "originalPdfSha256": "8d80b8eb32f040b899d0693e9fe8cd9957624dadacb53a335f19b02fc078ae97",
+      "sourceApiSha256": "5483456bb0fcc622534fc0f77e18bd27f0663d8e1939ea2715dbeac84e9ff50c",
+      "format": "lets-read-source-pages-v1",
+      "editorialNote": "英文逐页保留所链官方英文版本，仅清理HTML标签与合并空白。原始插画完整保留，不裁切人物。书后练习与出版说明不放入故事正文；无字页不新增英文或配音。中文释义、陪读提示和活动由叽咕新增。"
+    },
+    "pages": [
+      {
+        "en": "What is Daddy doing? Daddy is sweeping the floor.",
+        "sourceText": "What is Daddy doing? Daddy is sweeping the floor.",
+        "sourcePageNumber": 1,
+        "sourcePageId": "8198275524782065463",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/c21f33c5-2cf8-47ae-a275-d9998c4bc560/Images/p-1.png",
+        "sourceImageSha256": "91574216a79c1fe3e386ee22b893c68c34b8ff4005121cd625d4ea1bc574e590",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "爸爸在做什么？爸爸正在扫地。",
+        "alt": "爸爸在做什么？爸爸正在扫地。",
+        "tip": "找找爸爸手里的扫帚。"
+      },
+      {
+        "en": "What is Daddy doing? Daddy is cooking.",
+        "sourceText": "What is Daddy doing? Daddy is cooking.",
+        "sourcePageNumber": 2,
+        "sourcePageId": "4963403138074435356",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/c21f33c5-2cf8-47ae-a275-d9998c4bc560/Images/p-2.png",
+        "sourceImageSha256": "a167200da755a5eeb59b35f4231834b40fb60ff83ad242f523001db649c126c3",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "爸爸在做什么？爸爸正在做饭。",
+        "alt": "爸爸在做什么？爸爸正在做饭。",
+        "tip": "指指锅里的食物，做饭时请大人操作。"
+      },
+      {
+        "en": "What is Daddy doing? Daddy is washing clothes.",
+        "sourceText": "What is Daddy doing? Daddy is washing clothes.",
+        "sourcePageNumber": 3,
+        "sourcePageId": "4316352856811265638",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/c21f33c5-2cf8-47ae-a275-d9998c4bc560/Images/p-3.png",
+        "sourceImageSha256": "28a985b45609eedb072a4f57a28f253f2b49105c18376a3fec2645c68635991d",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "爸爸在做什么？爸爸正在洗衣服。",
+        "alt": "爸爸在做什么？爸爸正在洗衣服。",
+        "tip": "学爸爸轻轻搓洗衣服的动作。"
+      },
+      {
+        "en": "What is Daddy doing? Daddy is ironing clothes.",
+        "sourceText": "What is Daddy doing? Daddy is ironing clothes.",
+        "sourcePageNumber": 4,
+        "sourcePageId": "3193602991548197007",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/c21f33c5-2cf8-47ae-a275-d9998c4bc560/Images/p-4.png",
+        "sourceImageSha256": "06d83d1fdb836dffd9c07fe638b715b0575f4fb19c748a5b91032c99a8d6ae64",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "爸爸在做什么？爸爸正在熨衣服。",
+        "alt": "爸爸在做什么？爸爸正在熨衣服。",
+        "tip": "指指熨斗，提醒孩子交给大人使用。"
+      },
+      {
+        "en": "What is Daddy doing? Daddy is carrying buckets of water to fill the large water jars.",
+        "sourceText": "What is Daddy doing? Daddy is carrying buckets of water to fill the large water jars.",
+        "sourcePageNumber": 5,
+        "sourcePageId": "3616930016967513244",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/c21f33c5-2cf8-47ae-a275-d9998c4bc560/Images/p-5.png",
+        "sourceImageSha256": "f055049045028391197a50f81812eb320d4e4e6541798806d3559536d5a11fd2",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "爸爸在做什么？爸爸正在提水，把大水缸装满。",
+        "alt": "爸爸在做什么？爸爸正在提水，把大水缸装满。",
+        "tip": "找找水桶和水缸。"
+      },
+      {
+        "en": "And…what is Mommy doing?",
+        "sourceText": "And…what is Mommy doing?",
+        "sourcePageNumber": 6,
+        "sourcePageId": "6944356242994258832",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/c21f33c5-2cf8-47ae-a275-d9998c4bc560/Images/p-6.png",
+        "sourceImageSha256": "a8bf7b1bdfab8162c46f2a1c540925404e8cac861be23141f97a16dc0ceeccd6",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "那么……妈妈在做什么呢？",
+        "alt": "那么……妈妈在做什么呢？",
+        "tip": "指指妈妈，猜猜她准备做什么。"
+      },
+      {
+        "en": "Mommy is sweeping the floor with Daddy.",
+        "sourceText": "Mommy is sweeping the floor with Daddy.",
+        "sourcePageNumber": 7,
+        "sourcePageId": "5713294489004045043",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/c21f33c5-2cf8-47ae-a275-d9998c4bc560/Images/p-7.png",
+        "sourceImageSha256": "a536cf0dea2148b4b87b3f81a8afc9567ce41cf26aa4f4b83ab60cbcc600ec5b",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "妈妈正在和爸爸一起扫地。",
+        "alt": "妈妈正在和爸爸一起扫地。",
+        "tip": "用手指沿着扫帚扫过的地方划一划。"
+      },
+      {
+        "en": "What is Mommy doing? Mommy is cooking with Daddy.",
+        "sourceText": "What is Mommy doing? Mommy is cooking with Daddy.",
+        "sourcePageNumber": 8,
+        "sourcePageId": "6452951110054891431",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/c21f33c5-2cf8-47ae-a275-d9998c4bc560/Images/p-8.png",
+        "sourceImageSha256": "15b3d3b2f03f99bc636a161e6f49bbe44da802d2694b96024da0dfc36fca2d3b",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "妈妈在做什么？妈妈正在和爸爸一起做饭。",
+        "alt": "妈妈在做什么？妈妈正在和爸爸一起做饭。",
+        "tip": "找找两个人各自拿着的东西。"
+      },
+      {
+        "en": "What is Mommy doing? Mommy is washing clothes with Daddy.",
+        "sourceText": "What is Mommy doing? Mommy is washing clothes with Daddy.",
+        "sourcePageNumber": 9,
+        "sourcePageId": "7305683068364800187",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/c21f33c5-2cf8-47ae-a275-d9998c4bc560/Images/p-9.png",
+        "sourceImageSha256": "3da98ee5bc15b5f55a59efeac5cf4d07b7a5c68d8c2007090eb59e1dac887ad6",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "妈妈在做什么？妈妈正在和爸爸一起洗衣服。",
+        "alt": "妈妈在做什么？妈妈正在和爸爸一起洗衣服。",
+        "tip": "看看盆里的衣服和泡泡。"
+      },
+      {
+        "en": "What is Mommy doing? Mommy is ironing clothes with Daddy.",
+        "sourceText": "What is Mommy doing? Mommy is ironing clothes with Daddy.",
+        "sourcePageNumber": 10,
+        "sourcePageId": "4575116397279515289",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/c21f33c5-2cf8-47ae-a275-d9998c4bc560/Images/p-10.png",
+        "sourceImageSha256": "9a7b0aeef7abc8410dd0a004bd26b061fe54ba0db7970a9228f3a7a5bc43ad98",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "妈妈在做什么？妈妈正在和爸爸一起熨衣服。",
+        "alt": "妈妈在做什么？妈妈正在和爸爸一起熨衣服。",
+        "tip": "指指整齐的衣服，不去碰热熨斗。"
+      },
+      {
+        "en": "What is Mommy doing? Mommy and Daddy are helping each other fill the large water jars with water.",
+        "sourceText": "What is Mommy doing? Mommy and Daddy are helping each other fill the large water jars with water.",
+        "sourcePageNumber": 11,
+        "sourcePageId": "2840049805342651975",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/c21f33c5-2cf8-47ae-a275-d9998c4bc560/Images/p-11.png",
+        "sourceImageSha256": "23d9a35ba144c46d55e36b714bad8b33efcb36a41610dae7441afa6dba64a26c",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "妈妈在做什么？妈妈和爸爸正在一起提水，把大水缸装满。",
+        "alt": "妈妈在做什么？妈妈和爸爸正在一起提水，把大水缸装满。",
+        "tip": "看看两个人是怎样一起帮忙的。"
+      },
+      {
+        "en": "Mommy and Daddy always help each other do the housework. We help Mommy and Daddy with the housework too.",
+        "sourceText": "Mommy and Daddy always help each other do the housework. We help Mommy and Daddy with the housework too.",
+        "sourcePageNumber": 12,
+        "sourcePageId": "4339064532538284297",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/c21f33c5-2cf8-47ae-a275-d9998c4bc560/Images/p-12.png",
+        "sourceImageSha256": "284711fcab68b62709714d5726d50e1e607a8a5d73215fe9b0694a5d8ba22b0e",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "妈妈和爸爸总是一起分担家务。我们也帮爸爸妈妈做家务。",
+        "alt": "妈妈和爸爸总是一起分担家务。我们也帮爸爸妈妈做家务。",
+        "tip": "选一件孩子能安全完成的小事，比如收好玩具。"
+      }
+    ],
+    "narration": {
+      "kind": "ai",
+      "provider": "Doubao Seed TTS 2.0",
+      "voice": "Rowan",
+      "voiceId": "en_male_adam-imitation_uranus_bigtts",
+      "locale": "en-US",
+      "accentLabel": "美式英语",
+      "speechRate": -5
+    },
+    "keywords": [
+      {
+        "id": "lr-daddy-doing-sweeping",
+        "word": "sweeping",
+        "meaning": "扫地",
+        "pageIndex": 0
+      },
+      {
+        "id": "lr-daddy-doing-cooking",
+        "word": "cooking",
+        "meaning": "做饭",
+        "pageIndex": 1
+      },
+      {
+        "id": "lr-daddy-doing-washing",
+        "word": "washing",
+        "meaning": "清洗",
+        "pageIndex": 2
+      }
+    ],
+    "activity": {
+      "title": "家务小帮手",
+      "text": "让孩子选择一件安全的小家务，比如收好玩具或摆放纸巾。熨烫、烧饭和提重物交给大人。",
+      "hint": "指一指、聊一聊就好，不需要打卡。"
+    }
+  },
+  {
+    "id": "lr-corn-is-yummy",
+    "title": "Chunu & Munu: The Corn Is Yummy!",
+    "zh": "玉米真好吃",
+    "stageId": "S2",
+    "primaryTheme": "nature",
+    "themeIds": [
+      "nature"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://storage.googleapis.com/lets-read-asia/assets/images/d1a888cc-7bb5-4f97-b7fb-596fc15c0e69.jpg",
+    "sourceCoverSha256": "fa8064277f5b831c7644e0af64b5acebd1026d7f9d925a8d56b2ea41b3bd9488",
+    "source": {
+      "name": "Let's Read / The Asia Foundation",
+      "url": "https://www.letsreadasia.org/book/8ea24f89-25b2-4093-bfa6-5590f26f67a8?bookLang=4846240843956224",
+      "publisherUrl": "https://www.letsreadasia.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://letsreadasia.org/api/v5/book/preview/language/4846240843956224/book/8ea24f89-25b2-4093-bfa6-5590f26f67a8",
+      "creators": [
+        "文字：Shilpi Pradhan",
+        "文字：Shantdas Manandhar",
+        "原书出版：Room to Read"
+      ],
+      "attributionText": "Brought to you by\nLet’s Read is a program of The Asia Foundation that supports early\nreading skills and habits to develop our next generation of critical\nthinkers and creative innovators in Asia and the Pacific.\nTo read more books like this and get further information,\nvisit: letsreadasia.org\nOriginal Story\nChunu & Munu: The Corn Is Yummy!. Author: Shilpi Pradhan,\nShantdas Manandhar.\nPublished by Room to Read, © Room to Read . Released under\nCC-BY-4.0.\nThis work is a modified version of the original story. @ The Asia\nFoundation, 2019. Some rights reserved. Released under\nCC-BY-4.0.\nFor full terms of use and attribution,\nhttp://creativecommons.org/licenses/by/4.0/\nSigner: Rabita Deula.",
+      "originalPdf": "https://storage.googleapis.com/lets-read-asia/pdfs/8ea24f89-25b2-4093-bfa6-5590f26f67a8/Chunu--Munu-The-Corn-Is-Yummy!_eng_PORTRAIT_V12025.11.26T092340+0000.pdf",
+      "originalPdfSha256": "5e58ab2e954d9249897e67444d4312350ad8f908ae9b4f7a3b718a95d85fc1a6",
+      "sourceApiSha256": "410b80a521d79b5cca35192609d9b95c182a872f37e5ddc7aa5003701bf9bf6d",
+      "format": "lets-read-source-pages-v1",
+      "editorialNote": "英文逐页保留所链官方英文版本，仅清理HTML标签与合并空白。原始插画完整保留，不裁切人物。书后练习与出版说明不放入故事正文；无字页不新增英文或配音。中文释义、陪读提示和活动由叽咕新增。"
+    },
+    "pages": [
+      {
+        "en": "Chunu and Munu are walking. They reach the corn field.",
+        "sourceText": "Chunu and Munu are walking. They reach the corn field.",
+        "sourcePageNumber": 2,
+        "sourcePageId": "6318469846925312",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/8ea24f89-25b2-4093-bfa6-5590f26f67a8/image_2.jpg",
+        "sourceImageSha256": "cdef4cda1eb0014a52092fe18785036c5a61f7b5ff9ced95b173d32d78c00cb9",
+        "imageWidth": 479,
+        "imageHeight": 688,
+        "zh": "楚努和穆努走着走着，来到玉米地。",
+        "alt": "楚努和穆努走着走着，来到玉米地。",
+        "tip": "指指田地，再看看两个小朋友。"
+      },
+      {
+        "en": "Their daddy is in the field. He is sowing corn.",
+        "sourceText": "Their daddy is in the field. He is sowing corn.",
+        "sourcePageNumber": 3,
+        "sourcePageId": "4911094963372032",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/8ea24f89-25b2-4093-bfa6-5590f26f67a8/image_3.jpg",
+        "sourceImageSha256": "58c905f93e59841d12a29e9914280608e6917f883230913b4fd85ac0f3388ee9",
+        "imageWidth": 479,
+        "imageHeight": 688,
+        "zh": "爸爸在田里，正在播种玉米。",
+        "alt": "爸爸在田里，正在播种玉米。",
+        "tip": "找找爸爸播种的位置。"
+      },
+      {
+        "en": "\"Can we help you?\" the girls ask.",
+        "sourceText": "\"Can we help you?\" the girls ask.",
+        "sourcePageNumber": 4,
+        "sourcePageId": "6036994870214656",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/8ea24f89-25b2-4093-bfa6-5590f26f67a8/image_4.jpg",
+        "sourceImageSha256": "3a0faaa126f083ab45fa3d9a8318e42e6212e46207602426e6c4c3f7087b5776",
+        "imageWidth": 479,
+        "imageHeight": 688,
+        "zh": "“我们能帮忙吗？”女孩们问。",
+        "alt": "“我们能帮忙吗？”女孩们问。",
+        "tip": "和孩子一起做一个举手想帮忙的动作。"
+      },
+      {
+        "en": "Father looks at Chunu. Then he looks at Munu.",
+        "sourceText": "Father looks at Chunu. Then he looks at Munu.",
+        "sourcePageNumber": 5,
+        "sourcePageId": "5474044916793344",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/8ea24f89-25b2-4093-bfa6-5590f26f67a8/image_5.jpg",
+        "sourceImageSha256": "03b148833cca1184f1b808af69fd3043553e7f65536e0337f27f227633d60c66",
+        "imageWidth": 479,
+        "imageHeight": 688,
+        "zh": "爸爸看看楚努，又看看穆努。",
+        "alt": "爸爸看看楚努，又看看穆努。",
+        "tip": "分别指指两个女孩。"
+      },
+      {
+        "en": "\"Okay,\" Daddy says. \"Come and help me.\"",
+        "sourceText": "\"Okay,\" Daddy says. \"Come and help me.\"",
+        "sourcePageNumber": 6,
+        "sourcePageId": "6599944823635968",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/8ea24f89-25b2-4093-bfa6-5590f26f67a8/image_6.jpg",
+        "sourceImageSha256": "b93fdd4fff04d2bdf308c37301712730595b99d5945bc2e2e1f1c20512bf00ff",
+        "imageWidth": 479,
+        "imageHeight": 688,
+        "zh": "“好呀。”爸爸说，“来帮我吧。”",
+        "alt": "“好呀。”爸爸说，“来帮我吧。”",
+        "tip": "像爸爸一样，温柔地招招手。"
+      },
+      {
+        "en": "Chunu and Munu are happy. They water the corn.",
+        "sourceText": "Chunu and Munu are happy. They water the corn.",
+        "sourcePageNumber": 7,
+        "sourcePageId": "4807151436431360",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/8ea24f89-25b2-4093-bfa6-5590f26f67a8/image_7.jpg",
+        "sourceImageSha256": "a441f5f70df246fccaef9c3b221f0bbee46de396cdf7e7bc7e0f32d7a351d8c5",
+        "imageWidth": 479,
+        "imageHeight": 688,
+        "zh": "楚努和穆努很高兴。她们给玉米浇水。",
+        "alt": "楚努和穆努很高兴。她们给玉米浇水。",
+        "tip": "指指水壶，做一个轻轻浇水的动作。"
+      },
+      {
+        "en": "Weeks later, the corn begins to sprout. The girls cheer and smile.",
+        "sourceText": "Weeks later, the corn begins to sprout. The girls cheer and smile.",
+        "sourcePageNumber": 8,
+        "sourcePageId": "5933051343273984",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/8ea24f89-25b2-4093-bfa6-5590f26f67a8/image_8.jpg",
+        "sourceImageSha256": "fa8064277f5b831c7644e0af64b5acebd1026d7f9d925a8d56b2ea41b3bd9488",
+        "imageWidth": 479,
+        "imageHeight": 688,
+        "zh": "几周后，玉米开始发芽。女孩们欢呼着，笑了起来。",
+        "alt": "几周后，玉米开始发芽。女孩们欢呼着，笑了起来。",
+        "tip": "找找刚长出来的小芽。"
+      },
+      {
+        "en": "They weed the corn. It is growing so well!",
+        "sourceText": "They weed the corn. It is growing so well!",
+        "sourcePageNumber": 9,
+        "sourcePageId": "5370101389852672",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/8ea24f89-25b2-4093-bfa6-5590f26f67a8/image_9.jpg",
+        "sourceImageSha256": "b49cc3dfa7a8343014366e06a386a36c6b32d26a27e4dc386c6d581f21282930",
+        "imageWidth": 479,
+        "imageHeight": 688,
+        "zh": "她们给玉米除草。玉米长得真好！",
+        "alt": "她们给玉米除草。玉米长得真好！",
+        "tip": "指指玉米苗，看看它比小芽高了多少。"
+      },
+      {
+        "en": "A few weeks later... Chunu says, \"Look at the weeds!\" Munu says, \"Look at the grass.\"",
+        "sourceText": "A few weeks later... Chunu says, \"Look at the weeds!\" Munu says, \"Look at the grass.\"",
+        "sourcePageNumber": 10,
+        "sourcePageId": "6496001296695296",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/8ea24f89-25b2-4093-bfa6-5590f26f67a8/image_10.jpg",
+        "sourceImageSha256": "b79771882e4d46d152769eef80f62f940f505fcb4c0ed859d2d4023733a77357",
+        "imageWidth": 479,
+        "imageHeight": 688,
+        "zh": "又过了几周……楚努说：“看看这些杂草！”穆努说：“看看这些草。”",
+        "alt": "又过了几周……楚努说：“看看这些杂草！”穆努说：“看看这些草。”",
+        "tip": "找找玉米周围的杂草。"
+      },
+      {
+        "en": "Chunu pulls out the weeds. Munu pulls out the grass.",
+        "sourceText": "Chunu pulls out the weeds. Munu pulls out the grass.",
+        "sourcePageNumber": 11,
+        "sourcePageId": "4666413948076032",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/8ea24f89-25b2-4093-bfa6-5590f26f67a8/image_11.jpg",
+        "sourceImageSha256": "08d6f3a7b3ccfbf877847f5a0f750f6ba8587a97990f97cf5ff902b68c3eb60a",
+        "imageWidth": 479,
+        "imageHeight": 688,
+        "zh": "楚努拔掉杂草，穆努拔掉青草。",
+        "alt": "楚努拔掉杂草，穆努拔掉青草。",
+        "tip": "用两根手指轻轻演一演拔草。"
+      },
+      {
+        "en": "The corn crop is happy.",
+        "sourceText": "The corn crop is happy.",
+        "sourcePageNumber": 12,
+        "sourcePageId": "5792313854918656",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/8ea24f89-25b2-4093-bfa6-5590f26f67a8/image_12.jpg",
+        "sourceImageSha256": "39fd547a8dc5d08a2e70cd6b2db911b0cad44990a3f60455c6a64f4c3fd6bdf9",
+        "imageWidth": 479,
+        "imageHeight": 688,
+        "zh": "玉米庄稼长得很开心。",
+        "alt": "玉米庄稼长得很开心。",
+        "tip": "看看又高又绿的玉米。"
+      },
+      {
+        "en": "Chunu picks the cobs. Munu puts them in a basket.",
+        "sourceText": "Chunu picks the cobs. Munu puts them in a basket.",
+        "sourcePageNumber": 13,
+        "sourcePageId": "5865744390684672",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/8ea24f89-25b2-4093-bfa6-5590f26f67a8/image_13.jpg",
+        "sourceImageSha256": "ec41d229b7948eb7bd8653abcc3e3128825ba33019bc28efcec368a1fadca075",
+        "imageWidth": 479,
+        "imageHeight": 688,
+        "zh": "楚努摘玉米棒，穆努把它们放进篮子。",
+        "alt": "楚努摘玉米棒，穆努把它们放进篮子。",
+        "tip": "指指摘玉米和装篮子的两个动作。"
+      },
+      {
+        "en": "The basket is full of corn! The girls carry it all the way home.",
+        "sourceText": "The basket is full of corn! The girls carry it all the way home.",
+        "sourcePageNumber": 14,
+        "sourcePageId": "5302794437263360",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/8ea24f89-25b2-4093-bfa6-5590f26f67a8/image_14.jpg",
+        "sourceImageSha256": "9231dcf0fdc458853430cb6e16d9aaf0f3f8336272cc9a9ca7d02e029e222b66",
+        "imageWidth": 479,
+        "imageHeight": 688,
+        "zh": "篮子里装满了玉米！女孩们把它一路抬回家。",
+        "alt": "篮子里装满了玉米！女孩们把它一路抬回家。",
+        "tip": "看看她们怎样一起抬篮子。"
+      },
+      {
+        "en": "Daddy roasts the corn. Chunu and Munu eat it happily.",
+        "sourceText": "Daddy roasts the corn. Chunu and Munu eat it happily.",
+        "sourcePageNumber": 15,
+        "sourcePageId": "6428694344105984",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/8ea24f89-25b2-4093-bfa6-5590f26f67a8/image_15.jpg",
+        "sourceImageSha256": "0ae43a1be98c49f003fee5c369cfccb286ff8c52c46c3e433b6f16128a3a0118",
+        "imageWidth": 479,
+        "imageHeight": 688,
+        "zh": "爸爸烤好玉米，楚努和穆努开心地吃着。",
+        "alt": "爸爸烤好玉米，楚努和穆努开心地吃着。",
+        "tip": "找找烤好的玉米，热食物要先放凉。"
+      },
+      {
+        "en": "Chunu and Munu cheer, \"The corn is yummy. Very yummy!\"",
+        "sourceText": "Chunu and Munu cheer, \"The corn is yummy. Very yummy!\"",
+        "sourcePageNumber": 16,
+        "sourcePageId": "5021319460552704",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/8ea24f89-25b2-4093-bfa6-5590f26f67a8/image_16.jpg",
+        "sourceImageSha256": "94d87b03e1ced75428b46a8449327ff229ca1bf0d91ce06e33367660f0c136d9",
+        "imageWidth": 479,
+        "imageHeight": 688,
+        "zh": "楚努和穆努欢呼：“玉米真好吃，太好吃啦！”",
+        "alt": "楚努和穆努欢呼：“玉米真好吃，太好吃啦！”",
+        "tip": "像她们一样，笑着说一声 yummy。"
+      }
+    ],
+    "narration": {
+      "kind": "ai",
+      "provider": "Doubao Seed TTS 2.0",
+      "voice": "Knightley",
+      "voiceId": "en_male_knightley_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5
+    },
+    "keywords": [
+      {
+        "id": "lr-corn-is-yummy-corn",
+        "word": "corn",
+        "meaning": "玉米",
+        "pageIndex": 0
+      },
+      {
+        "id": "lr-corn-is-yummy-water",
+        "word": "water",
+        "meaning": "浇水；水",
+        "pageIndex": 5
+      },
+      {
+        "id": "lr-corn-is-yummy-basket",
+        "word": "basket",
+        "meaning": "篮子",
+        "pageIndex": 11
+      }
+    ],
+    "activity": {
+      "title": "观察一粒种子",
+      "text": "和孩子看看家里的豆子或种子，也可以观察一盆小植物，聊聊它需要水和阳光。",
+      "hint": "指一指、聊一聊就好，不需要打卡。"
+    }
+  },
+  {
+    "id": "lr-hide-it",
+    "title": "Hide It",
+    "zh": "藏起来啦",
+    "stageId": "S2",
+    "primaryTheme": "everyday",
+    "themeIds": [
+      "everyday"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://storage.googleapis.com/lets-read-asia/assets/images/9b0a2179-31e0-44f1-9295-2bb29e3a0db1.png",
+    "sourceCoverSha256": "ed44d5475dcc0df3a607ecbd5fb5a14368e449be389547d3c7885cff22e4ac7d",
+    "source": {
+      "name": "Let's Read / The Asia Foundation",
+      "url": "https://www.letsreadasia.org/book/9bf6b752-9a9c-4136-b9ad-0a79b69eb65b?bookLang=4846240843956224",
+      "publisherUrl": "https://www.letsreadasia.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://letsreadasia.org/api/v5/book/preview/language/4846240843956224/book/9bf6b752-9a9c-4136-b9ad-0a79b69eb65b",
+      "creators": [
+        "文字：All Children Reading - Cambodia",
+        "插画：El Huyno",
+        "英文译者：Chheang Chansomey"
+      ],
+      "attributionText": "Brought to you by\nLet’s Read is a program of The Asia Foundation that supports early\nreading skills and habits to develop our next generation of critical\nthinkers and creative innovators in Asia and the Pacific.\nTo read more books like this and get further information,\nvisit: letsreadasia.org\nOriginal Story\nHide It. Author: All Children Reading - Cambodia. Illustrator: El\nHuyno.\nReleased under CC-BY-4.0.\nThis work is a modified version of the original story. @ The Asia\nFoundation, 2020. Some rights reserved. Released under\nCC-BY-4.0.\nFor full terms of use and attribution,\nhttp://creativecommons.org/licenses/by/4.0/\nContributing translators: Chheang Chansomey",
+      "originalPdf": "https://storage.googleapis.com/lets-read-asia/pdfs/70dc1607-d8a7-470c-9b7b-c7f892a78628/យកទុក_eng_PORTRAIT_V12024.04.03T134904+0000.pdf",
+      "originalPdfSha256": "5c4997673f5b45e9153f5ccada71132ae0076280ee047a265993ef0539df6d7c",
+      "sourceApiSha256": "628541da3cd1fc5cc2440fad84bd48fed992f0d1988e31eb35f05a4a42c6bfac",
+      "format": "lets-read-source-pages-v1",
+      "editorialNote": "英文逐页保留所链官方英文版本，仅清理HTML标签与合并空白。原始插画完整保留，不裁切人物。书后练习与出版说明不放入故事正文；无字页不新增英文或配音。中文释义、陪读提示和活动由叽咕新增。"
+    },
+    "pages": [
+      {
+        "en": "Sokha hides shampoo on a shelf.",
+        "sourceText": "Sokha hides shampoo on a shelf.",
+        "sourcePageNumber": 2,
+        "sourcePageId": "5433075158745088",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/9bf6b752-9a9c-4136-b9ad-0a79b69eb65b/Images/p-1.png",
+        "sourceImageSha256": "a1c9d82e33d893b8504e1f69cf37ed2809d8bf96df9efbdc30eab1b3d8308588",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "索卡把洗发水藏在架子上。",
+        "alt": "索卡把洗发水藏在架子上。",
+        "tip": "找找藏起来的洗发水。"
+      },
+      {
+        "en": "Dad is looking for the shampoo.",
+        "sourceText": "Dad is looking for the shampoo.",
+        "sourcePageNumber": 3,
+        "sourcePageId": "6558975065587712",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/9bf6b752-9a9c-4136-b9ad-0a79b69eb65b/Images/p-2.png",
+        "sourceImageSha256": "072ffc8622f945ef424ef440ef0017d399bd30add43f0b36603a6ddd18c561b5",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "爸爸正在找洗发水。",
+        "alt": "爸爸正在找洗发水。",
+        "tip": "指指爸爸正在找的地方。"
+      },
+      {
+        "en": "Sokha hides her dad’s trousers on a chair.",
+        "sourceText": "Sokha hides her dad’s trousers on a chair.",
+        "sourcePageNumber": 4,
+        "sourcePageId": "4834168108220416",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/9bf6b752-9a9c-4136-b9ad-0a79b69eb65b/Images/p-3.png",
+        "sourceImageSha256": "71d1f01fe92d8e8db1dd7cf15761dc1a8d62761e10c86099f9c96c8da26295ec",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "索卡把爸爸的长裤藏在椅子上。",
+        "alt": "索卡把爸爸的长裤藏在椅子上。",
+        "tip": "指指椅子上的长裤。"
+      },
+      {
+        "en": "Dad is looking for his trousers.",
+        "sourceText": "Dad is looking for his trousers.",
+        "sourcePageNumber": 5,
+        "sourcePageId": "5960068015063040",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/9bf6b752-9a9c-4136-b9ad-0a79b69eb65b/Images/p-4.png",
+        "sourceImageSha256": "603c3463813208d63348acf589b5665859a2b51c0650289bab6722d02a6b135f",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "爸爸正在找他的长裤。",
+        "alt": "爸爸正在找他的长裤。",
+        "tip": "看看爸爸的表情，想想长裤在哪里。"
+      },
+      {
+        "en": "Sokha hides her dad’s hat on a shelf.",
+        "sourceText": "Sokha hides her dad’s hat on a shelf.",
+        "sourcePageNumber": 6,
+        "sourcePageId": "5397118061641728",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/9bf6b752-9a9c-4136-b9ad-0a79b69eb65b/Images/p-5.png",
+        "sourceImageSha256": "4772166144be3ff69f419212a4bc8a70fe25eeca1d94f3941969fdd85d497ca2",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "索卡把爸爸的帽子藏在架子上。",
+        "alt": "索卡把爸爸的帽子藏在架子上。",
+        "tip": "找找架子上的帽子。"
+      },
+      {
+        "en": "Dad is looking for his hat.",
+        "sourceText": "Dad is looking for his hat.",
+        "sourcePageNumber": 7,
+        "sourcePageId": "6523017968484352",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/9bf6b752-9a9c-4136-b9ad-0a79b69eb65b/Images/p-6.png",
+        "sourceImageSha256": "208bd2ee747add73b41c18178f0eecf00d552ea6be9b3c1fd73bb89a4c2e67be",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "爸爸正在找他的帽子。",
+        "alt": "爸爸正在找他的帽子。",
+        "tip": "指一指帽子，帮爸爸找一找。"
+      },
+      {
+        "en": "Dad says: “Please bring my shampoo, trousers, and hat back.”",
+        "sourceText": "Dad says: “Please bring my shampoo, trousers, and hat back.”",
+        "sourcePageNumber": 8,
+        "sourcePageId": "5010862693679104",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/9bf6b752-9a9c-4136-b9ad-0a79b69eb65b/Images/p-7.png",
+        "sourceImageSha256": "3e725f3851a814f98e4a6332fc37e4ccd51de7977761541c57d8128b9b41edae",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "爸爸说：“请把我的洗发水、长裤和帽子拿回来。”",
+        "alt": "爸爸说：“请把我的洗发水、长裤和帽子拿回来。”",
+        "tip": "跟着画面，把三样物品分别指一遍。"
+      },
+      {
+        "en": "Dad praises Sokha.",
+        "sourceText": "Dad praises Sokha.",
+        "sourcePageNumber": 9,
+        "sourcePageId": "6136762600521728",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/9bf6b752-9a9c-4136-b9ad-0a79b69eb65b/Images/p-8.png",
+        "sourceImageSha256": "9d2d645746ee30038201b5cbe9aed0328ee6dacb660d059a83b2d5f326ae1251",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "爸爸夸奖了索卡。",
+        "alt": "爸爸夸奖了索卡。",
+        "tip": "把借用的小物品送回原位。"
+      }
+    ],
+    "narration": {
+      "kind": "ai",
+      "provider": "Doubao Seed TTS 2.0",
+      "voice": "Charlotte",
+      "voiceId": "en_female_authoritative-british_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5
+    },
+    "keywords": [
+      {
+        "id": "lr-hide-it-shampoo",
+        "word": "shampoo",
+        "meaning": "洗发水",
+        "pageIndex": 0
+      },
+      {
+        "id": "lr-hide-it-trousers",
+        "word": "trousers",
+        "meaning": "长裤",
+        "pageIndex": 2
+      },
+      {
+        "id": "lr-hide-it-hat",
+        "word": "hat",
+        "meaning": "帽子",
+        "pageIndex": 4
+      }
+    ],
+    "activity": {
+      "title": "一起找物品",
+      "text": "用一顶帽子玩一次双方都同意的寻找游戏，结束后一起放回原位。",
+      "hint": "指一指、聊一聊就好，不需要打卡。"
+    }
+  },
+  {
+    "id": "lr-shy-noy",
+    "title": "Shy Noy",
+    "zh": "害羞的小诺",
+    "stageId": "S3",
+    "primaryTheme": "feelings",
+    "themeIds": [
+      "feelings"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://storage.googleapis.com/lets-read-asia/assets/images/5b987153-16cd-47a2-8dec-e5db1b297e76.png",
+    "sourceCoverSha256": "28b35d2b8c13d3ab567c4a7cc99de2e548dbfbe0c4210f952c0eae22de95b91d",
+    "source": {
+      "name": "Let's Read / The Asia Foundation",
+      "url": "https://www.letsreadasia.org/book/the-shy-noy?bookLang=4846240843956224",
+      "publisherUrl": "https://www.letsreadasia.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://letsreadasia.org/api/v5/book/preview/language/4846240843956224/book/7742b62d-7a44-4288-90b4-f1791e9b55fa",
+      "creators": [
+        "插画：Thidavanh Oudomvilay",
+        "原书出版：Learn to Read",
+        "英文译者：Chansomey Chheang"
+      ],
+      "attributionText": "Brought to you by\nLet’s Read is a program of The Asia Foundation that supports early\nreading skills and habits to develop our next generation of critical\nthinkers and creative innovators in Asia and the Pacific.\nTo read more books like this and get further information,\nvisit: letsreadasia.org\nOriginal Story\nShy Noy. Illustrator: Thidavanh Oudomvilay.\nPublished by Learn to Read, © Learn to Read . Released under\nCC-BY-4.0.\nThis work is a modified version of the original story. @ The Asia\nFoundation, 2023. Some rights reserved. Released under\nCC-BY-4.0.\nFor full terms of use and attribution,\nhttp://creativecommons.org/licenses/by/4.0/\nContributing translators: Chansomey Chheang",
+      "originalPdf": "https://storage.googleapis.com/lets-read-asia/pdfs/aea8b970-ec3a-4477-9c6e-a4dc9dc01a4c/ນາງນ້ອຍຂີ້ອາຍ_eng_PORTRAIT_V12024.04.03T055953+0000.pdf",
+      "originalPdfSha256": "8441a220bdee465e907ebdc9d18ec7e2253e5fc1fc15df13861be646cf731de5",
+      "sourceApiSha256": "7ec6a3c180f27a88c42208c5e6c479b37f2b1650653b8d795d55a6ae52b66730",
+      "format": "lets-read-source-pages-v1",
+      "editorialNote": "英文逐页保留所链官方英文版本，仅清理HTML标签与合并空白。原始插画完整保留，不裁切人物。书后练习与出版说明不放入故事正文；无字页不新增英文或配音。中文释义、陪读提示和活动由叽咕新增。"
+    },
+    "pages": [
+      {
+        "en": "Noy just moved to a new school.",
+        "sourceText": "Noy just moved to a new school.",
+        "sourcePageNumber": 1,
+        "sourcePageId": "6724923530674176",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/7742b62d-7a44-4288-90b4-f1791e9b55fa/Images/p-2.png",
+        "sourceImageSha256": "759a9d7e063e0943f73d28db71f3b57b037963a4813930b16c603ae316823db8",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "小诺刚转到一所新学校。",
+        "alt": "小诺刚转到一所新学校。",
+        "tip": "找找站在老师身边的小诺。"
+      },
+      {
+        "en": "Noy is shy and doesn’t dare talk to the others.",
+        "sourceText": "Noy is shy and doesn’t dare talk to the others.",
+        "sourcePageNumber": 2,
+        "sourcePageId": "4525900275122176",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/7742b62d-7a44-4288-90b4-f1791e9b55fa/Images/p-3.png",
+        "sourceImageSha256": "9c1f7aaa7c205bc3b68e998e3b179f863d8c9b5f300cfe214efe204d0d80a818",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "小诺很害羞，不敢和其他人说话。",
+        "alt": "小诺很害羞，不敢和其他人说话。",
+        "tip": "看看小诺的表情，轻轻说：慢慢来就好。"
+      },
+      {
+        "en": "She thinks no one likes her.",
+        "sourceText": "She thinks no one likes her.",
+        "sourcePageNumber": 3,
+        "sourcePageId": "5651800181964800",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/7742b62d-7a44-4288-90b4-f1791e9b55fa/Images/p-4-5.png",
+        "sourceImageSha256": "83eee3bbe6d86c679ccff39e071c9e9a37790b7d7985f26ff67b3e81302799bc",
+        "imageWidth": 1200,
+        "imageHeight": 850,
+        "zh": "她觉得没有人喜欢她。",
+        "alt": "她觉得没有人喜欢她。",
+        "tip": "找找小诺，她正在想些什么？可以用中文聊。"
+      },
+      {
+        "en": "So, she stays by herself.",
+        "sourceText": "So, she stays by herself.",
+        "sourcePageNumber": 4,
+        "sourcePageId": "5088850228543488",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/7742b62d-7a44-4288-90b4-f1791e9b55fa/Images/p-6.png",
+        "sourceImageSha256": "9d3a39f681c39df9606dc01791b4d87d372edd65a6e88db65f390b84232d1d7d",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "于是，她一个人待着。",
+        "alt": "于是，她一个人待着。",
+        "tip": "指指独自坐着的小诺。"
+      },
+      {
+        "en": "During recess, a classmate invites her to play ball.",
+        "sourceText": "During recess, a classmate invites her to play ball.",
+        "sourcePageNumber": 5,
+        "sourcePageId": "6214750135386112",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/7742b62d-7a44-4288-90b4-f1791e9b55fa/Images/p-7.png",
+        "sourceImageSha256": "a9eada51b38a4465957afac94b2b797c53c3876b357553ab66d452cb6cb93d5e",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "课间，一位同学邀请她一起玩球。",
+        "alt": "课间，一位同学邀请她一起玩球。",
+        "tip": "像这位同学一样，向身边的人招招手。"
+      },
+      {
+        "en": "Noy runs fast and throws many balls into the basket.",
+        "sourceText": "Noy runs fast and throws many balls into the basket.",
+        "sourcePageNumber": 6,
+        "sourcePageId": "4807375251832832",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/7742b62d-7a44-4288-90b4-f1791e9b55fa/Images/p-8.png",
+        "sourceImageSha256": "4613c4040d734627b4b7b3c560c29fc53c078fe5d1c0b651cabaf907e28b0731",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "小诺跑得很快，把好多球投进篮子。",
+        "alt": "小诺跑得很快，把好多球投进篮子。",
+        "tip": "做一个轻轻投球的动作。"
+      },
+      {
+        "en": "\"Oh! You’re really good. Join our team again tomorrow.\"",
+        "sourceText": "\"Oh! You’re really good. Join our team again tomorrow.\"",
+        "sourcePageNumber": 7,
+        "sourcePageId": "5933275158675456",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/7742b62d-7a44-4288-90b4-f1791e9b55fa/Images/p-9.png",
+        "sourceImageSha256": "cdf17e18eac4a7b90047890b1afc3083aaa8e6de8107bc38024e35ffc267a3f6",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "“哦！你真厉害。明天再来和我们一起玩吧。”",
+        "alt": "“哦！你真厉害。明天再来和我们一起玩吧。”",
+        "tip": "向孩子伸出手，邀请他一起玩。"
+      },
+      {
+        "en": "At lunch break, Noy’s new friends invite her to eat with them. They’ve brought delicious food to share.",
+        "sourceText": "At lunch break, Noy’s new friends invite her to eat with them. They’ve brought delicious food to share.",
+        "sourcePageNumber": 8,
+        "sourcePageId": "5370325205254144",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/7742b62d-7a44-4288-90b4-f1791e9b55fa/Images/p-10-11.png",
+        "sourceImageSha256": "b02774d9dbb1a13c5476ecc7dddc53a19db72024dd8764ef38baaf2db03cd42b",
+        "imageWidth": 1200,
+        "imageHeight": 848,
+        "zh": "午饭时，小诺的新朋友邀请她一起吃饭。他们带来了好吃的食物，准备一起分享。",
+        "alt": "午饭时，小诺的新朋友邀请她一起吃饭。他们带来了好吃的食物，准备一起分享。",
+        "tip": "指指大家放在桌上的食物。"
+      },
+      {
+        "en": "After eating, they all sing. When it came to Noy’s turn, she sings beautifully.",
+        "sourceText": "After eating, they all sing. When it came to Noy’s turn, she sings beautifully.",
+        "sourcePageNumber": 9,
+        "sourcePageId": "6496225112096768",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/7742b62d-7a44-4288-90b4-f1791e9b55fa/Images/p-12-13.png",
+        "sourceImageSha256": "cc957e6856f245b536b2e3142c6fdac351380d039fe86908a9d8551c934c65c9",
+        "imageWidth": 1200,
+        "imageHeight": 848,
+        "zh": "吃完饭，大家一起唱歌。轮到小诺时，她唱得非常动听。",
+        "alt": "吃完饭，大家一起唱歌。轮到小诺时，她唱得非常动听。",
+        "tip": "轻轻哼一句孩子熟悉的歌。"
+      },
+      {
+        "en": "Everyone was surprised and wanted to learn how to sing Noy's song. Noy said, \"I’ll teach you this song, then you can teach me a new song.\"",
+        "sourceText": "Everyone was surprised and wanted to learn how to sing Noy's song. Noy said, \"I’ll teach you this song, then you can teach me a new song.\"",
+        "sourcePageNumber": 10,
+        "sourcePageId": "4666637763477504",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/7742b62d-7a44-4288-90b4-f1791e9b55fa/Images/p-14-15.png",
+        "sourceImageSha256": "2c021acddd0b13c74a92d7c4cf6d1b33d5ed212d3b0cb19518d2b8e6e29de185",
+        "imageWidth": 1200,
+        "imageHeight": 848,
+        "zh": "大家很惊喜，都想学唱小诺的歌。小诺说：“我教你们唱这首歌，然后你们可以教我一首新歌。”",
+        "alt": "大家很惊喜，都想学唱小诺的歌。小诺说：“我教你们唱这首歌，然后你们可以教我一首新歌。”",
+        "tip": "你哼一句，邀请孩子也哼一句。"
+      },
+      {
+        "en": "They happily sang and read together.",
+        "sourceText": "They happily sang and read together.",
+        "sourcePageNumber": 11,
+        "sourcePageId": "5580314125533184",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/7742b62d-7a44-4288-90b4-f1791e9b55fa/Images/p-16.png",
+        "sourceImageSha256": "4d7ba2be09ee0122ad01cc1eefde034994e91afcceae60453672fc6d6a2273ad",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "他们开心地一起唱歌、一起看书。",
+        "alt": "他们开心地一起唱歌、一起看书。",
+        "tip": "找找唱歌和看书的两幅小画面。"
+      },
+      {
+        "en": "They played and ate bananas together.",
+        "sourceText": "They played and ate bananas together.",
+        "sourcePageNumber": 12,
+        "sourcePageId": "6706214032375808",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/7742b62d-7a44-4288-90b4-f1791e9b55fa/Images/p-17.png",
+        "sourceImageSha256": "6e3f37b47d03ded5fe65e5772ea81bce84278875e9a92a3ea84b2add3e82aa23",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "他们一起玩，还一起吃香蕉。",
+        "alt": "他们一起玩，还一起吃香蕉。",
+        "tip": "指指香蕉，再找找一起玩的朋友。"
+      },
+      {
+        "en": "The teacher also loved Noy because she was hard working.",
+        "sourceText": "The teacher also loved Noy because she was hard working.",
+        "sourcePageNumber": 13,
+        "sourcePageId": "4559967334957056",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/7742b62d-7a44-4288-90b4-f1791e9b55fa/Images/p-18.png",
+        "sourceImageSha256": "274fdc1ec6da67469f07d031684fa06ffb970218314af77606f08838bb6e3115",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "因为小诺学习很认真，老师也很喜欢她。",
+        "alt": "因为小诺学习很认真，老师也很喜欢她。",
+        "tip": "看看老师和小诺一起读的书。"
+      },
+      {
+        "en": "Noy invited the teacher to take care of the flowers.",
+        "sourceText": "Noy invited the teacher to take care of the flowers.",
+        "sourcePageNumber": 14,
+        "sourcePageId": "5685867241799680",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/7742b62d-7a44-4288-90b4-f1791e9b55fa/Images/p-19.png",
+        "sourceImageSha256": "a43dda591e0f7aa3af2e790afe2e069ea5a2f9d1f235aebda51e4a4a1ce50196",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "小诺邀请老师一起照顾花儿。",
+        "alt": "小诺邀请老师一起照顾花儿。",
+        "tip": "指指花盆里的小花。"
+      },
+      {
+        "en": "Since then, Noy has not been shy and she has played with her friends every day.",
+        "sourceText": "Since then, Noy has not been shy and she has played with her friends every day.",
+        "sourcePageNumber": 15,
+        "sourcePageId": "5122917288378368",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/7742b62d-7a44-4288-90b4-f1791e9b55fa/Images/p-20.png",
+        "sourceImageSha256": "d7ffdeabd64b62b24b49bfb008487ae2543335668c88bbb48b8457dab2172a9c",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "从那以后，小诺不再害羞，每天都和朋友们一起玩。",
+        "alt": "从那以后，小诺不再害羞，每天都和朋友们一起玩。",
+        "tip": "像朋友一样，轻轻说一句：一起玩吧。"
+      }
+    ],
+    "narration": {
+      "kind": "ai",
+      "provider": "Doubao Seed TTS 2.0",
+      "voice": "Rowan",
+      "voiceId": "en_male_adam-imitation_uranus_bigtts",
+      "locale": "en-US",
+      "accentLabel": "美式英语",
+      "speechRate": -5
+    },
+    "keywords": [
+      {
+        "id": "lr-shy-noy-shy",
+        "word": "shy",
+        "meaning": "害羞的",
+        "pageIndex": 1
+      },
+      {
+        "id": "lr-shy-noy-friends",
+        "word": "friends",
+        "meaning": "朋友",
+        "pageIndex": 7
+      },
+      {
+        "id": "lr-shy-noy-play",
+        "word": "play",
+        "meaning": "玩耍",
+        "pageIndex": 4
+      }
+    ],
+    "activity": {
+      "title": "轻轻发出邀请",
+      "text": "和玩偶演一演第一次交朋友：招招手，邀请对方一起玩。孩子可以先看着，不必开口。",
+      "hint": "指一指、聊一聊就好，不需要打卡。"
+    }
+  },
+  {
+    "id": "lr-seven-days",
+    "title": "Seven Days",
+    "zh": "我的一星期",
+    "stageId": "S3",
+    "primaryTheme": "everyday",
+    "themeIds": [
+      "everyday"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://storage.googleapis.com/lets-read-asia/assets/images/4e5e27e8-13a0-4ab1-9183-c87eb1306ce5.png",
+    "sourceCoverSha256": "8c11f98049f8a1ae91178d74c53e8e80b0920ecc36fe7999992693c5c4e8b516",
+    "source": {
+      "name": "Let's Read / The Asia Foundation",
+      "url": "https://www.letsreadasia.org/book/seven-days?bookLang=4846240843956224",
+      "publisherUrl": "https://www.letsreadasia.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://letsreadasia.org/api/v5/book/preview/language/4846240843956224/book/f7bbe6c5-13c3-4892-89ee-e485c59bd2f1",
+      "creators": [
+        "文字：Komar Rien Komar Cheh",
+        "插画：Hin Koemyean",
+        "原书出版：The Asia Foundation - Let's Read",
+        "英文译者：Chheang Chansomey"
+      ],
+      "attributionText": "Brought to you by\nLet’s Read is a program of The Asia Foundation that supports early\nreading skills and habits to develop our next generation of critical\nthinkers and creative innovators in Asia and the Pacific.\nTo read more books like this and get further information,\nvisit: letsreadasia.org\nOriginal Story\nSeven Days. Author: Komar Rien Komar Cheh. Illustrator: Hin\nKoemyean.\nPublished by The Asia Foundation - Let’s Read, © The Asia\nFoundation - Let’s Read. Released under CC-BY-4.0.\nThis work is a modified version of the original story. @ The Asia\nFoundation, 2020. Some rights reserved. Released under\nCC-BY-4.0.\nFor full terms of use and attribution,\nhttp://creativecommons.org/licenses/by/4.0/\nContributing translators: Chheang Chansomey",
+      "originalPdf": "https://storage.googleapis.com/lets-read-asia/pdfs/4dcfc5cb-525e-4987-959b-1eb4b990294d/ប្រាំពីរថ្ងៃ_eng_PORTRAIT_V12024.04.03T112802+0000.pdf",
+      "originalPdfSha256": "b206300c1aba35e790d7d4edee564323ded928103c875aaea87594da7f77411a",
+      "sourceApiSha256": "238ca669f11615827814f488d9073977396dcabb4ed1ea6405b620788616465d",
+      "format": "lets-read-source-pages-v1",
+      "editorialNote": "英文逐页保留所链官方英文版本，仅清理HTML标签与合并空白。原始插画完整保留，不裁切人物。书后练习与出版说明不放入故事正文；无字页不新增英文或配音。中文释义、陪读提示和活动由叽咕新增。"
+    },
+    "pages": [
+      {
+        "en": "Monday morning, I learn to read at school. Monday afternoon, I look for crabs with my sisters.",
+        "sourceText": "Monday morning, I learn to read at school. Monday afternoon, I look for crabs with my sisters.",
+        "sourcePageNumber": 1,
+        "sourcePageId": "1385860672277724035",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/f7bbe6c5-13c3-4892-89ee-e485c59bd2f1/Images/p-1.png",
+        "sourceImageSha256": "1ddc765d0e8875f966e14a470a41a6c7224d8793d0fac3a0af958b6a4be20150",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "星期一上午，我在学校学阅读。星期一下午，我和姐姐妹妹们一起找螃蟹。",
+        "alt": "星期一上午，我在学校学阅读。星期一下午，我和姐姐妹妹们一起找螃蟹。",
+        "tip": "分别指指上面的学校和下面的水田。"
+      },
+      {
+        "en": "Tuesday morning, I learn new vocabulary at school. Tuesday afternoon, I go fishing with my brother.",
+        "sourceText": "Tuesday morning, I learn new vocabulary at school. Tuesday afternoon, I go fishing with my brother.",
+        "sourcePageNumber": 2,
+        "sourcePageId": "4396970861242949374",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/f7bbe6c5-13c3-4892-89ee-e485c59bd2f1/Images/p-2.png",
+        "sourceImageSha256": "ff3679246b1a97c05fd515cbc520e3b7c902209557ea7802102a77e0c52c79a5",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "星期二上午，我在学校学新词。星期二下午，我和哥哥一起钓鱼。",
+        "alt": "星期二上午，我在学校学新词。星期二下午，我和哥哥一起钓鱼。",
+        "tip": "找找小朋友手里的钓竿。"
+      },
+      {
+        "en": "Wednesday morning, I learn poetry. Wednesday afternoon, I go to the rice field with my father.",
+        "sourceText": "Wednesday morning, I learn poetry. Wednesday afternoon, I go to the rice field with my father.",
+        "sourcePageNumber": 3,
+        "sourcePageId": "1313108035163927924",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/f7bbe6c5-13c3-4892-89ee-e485c59bd2f1/Images/p-3.png",
+        "sourceImageSha256": "2e77e24d2629584cf7ad812954ebccc78c84a957d09f69fed6182f23d345f553",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "星期三上午，我学诗歌。星期三下午，我和爸爸一起去稻田。",
+        "alt": "星期三上午，我学诗歌。星期三下午，我和爸爸一起去稻田。",
+        "tip": "用手指沿着通往稻田的小路走一走。"
+      },
+      {
+        "en": "Thursday morning, I do homework by myself. Thursday afternoon, I go to the plantation with my mother.",
+        "sourceText": "Thursday morning, I do homework by myself. Thursday afternoon, I go to the plantation with my mother.",
+        "sourcePageNumber": 4,
+        "sourcePageId": "2103810714452625716",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/f7bbe6c5-13c3-4892-89ee-e485c59bd2f1/Images/p-4.png",
+        "sourceImageSha256": "a5e78ebcd932a81bf4ad5af7bbf57a1684be377296f38698d112ab98b187fe1e",
+        "imageWidth": 439,
+        "imageHeight": 600,
+        "zh": "星期四上午，我自己写作业。星期四下午，我和妈妈一起去种植园。",
+        "alt": "星期四上午，我自己写作业。星期四下午，我和妈妈一起去种植园。",
+        "tip": "指指下面画面中的妈妈。"
+      },
+      {
+        "en": "Friday morning, I learn how to write essays at school. Friday afternoon, I learn how to dance with my grandmother.",
+        "sourceText": "Friday morning, I learn how to write essays at school. Friday afternoon, I learn how to dance with my grandmother.",
+        "sourcePageNumber": 5,
+        "sourcePageId": "6371269777636104948",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/f7bbe6c5-13c3-4892-89ee-e485c59bd2f1/Images/p-5.png",
+        "sourceImageSha256": "339753116fb3dea44b593038d43957e03c5c5891aeb30ea37c8b722b70ad2d84",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "星期五上午，我在学校学写作文。星期五下午，我跟奶奶学跳舞。",
+        "alt": "星期五上午，我在学校学写作文。星期五下午，我跟奶奶学跳舞。",
+        "tip": "做一个轻轻摆动手臂的舞蹈动作。"
+      },
+      {
+        "en": "Saturday morning, I learn numbers at school. Saturday afternoon, I learn to play a musical instrument with my grandfather.",
+        "sourceText": "Saturday morning, I learn numbers at school. Saturday afternoon, I learn to play a musical instrument with my grandfather.",
+        "sourcePageNumber": 6,
+        "sourcePageId": "4027709941990452402",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/f7bbe6c5-13c3-4892-89ee-e485c59bd2f1/Images/p-6.png",
+        "sourceImageSha256": "9c9eff11876bc00ec31f4da06c649ad42b2268420012ec6b0db4fb0da787af0f",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "星期六上午，我在学校学数字。星期六下午，我跟爷爷学演奏乐器。",
+        "alt": "星期六上午，我在学校学数字。星期六下午，我跟爷爷学演奏乐器。",
+        "tip": "找找爷爷和小朋友正在用的乐器。"
+      },
+      {
+        "en": "Sunday morning, we visit the seaside.",
+        "sourceText": "Sunday morning, we visit the seaside.",
+        "sourcePageNumber": 7,
+        "sourcePageId": "1390027265439424086",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/f7bbe6c5-13c3-4892-89ee-e485c59bd2f1/Images/p-7.png",
+        "sourceImageSha256": "2cae8e85f3c84c065892792204334dab743745d1930a6dfbfe88538a231e7ab4",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "星期天上午，我们去海边玩。",
+        "alt": "星期天上午，我们去海边玩。",
+        "tip": "指指海浪，再看看一家人。"
+      },
+      {
+        "en": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday and Sunday, I am always happy.",
+        "sourceText": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday and Sunday, I am always happy.",
+        "sourcePageNumber": 8,
+        "sourcePageId": "2479166395891970083",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/f7bbe6c5-13c3-4892-89ee-e485c59bd2f1/Images/p-8.png",
+        "sourceImageSha256": "eaab6eb9ec6e99d789b334e217439f15d9e3202ce0ebf458ca71d9628e1722e4",
+        "imageWidth": 424,
+        "imageHeight": 600,
+        "zh": "星期一、星期二、星期三、星期四、星期五、星期六、星期天，我总是很开心。",
+        "alt": "星期一、星期二、星期三、星期四、星期五、星期六、星期天，我总是很开心。",
+        "tip": "挑一天，聊聊你和孩子喜欢一起做什么。"
+      }
+    ],
+    "narration": {
+      "kind": "ai",
+      "provider": "Doubao Seed TTS 2.0",
+      "voice": "Knightley",
+      "voiceId": "en_male_knightley_uranus_bigtts",
+      "locale": "en-GB",
+      "accentLabel": "英式英语",
+      "speechRate": -5
+    },
+    "keywords": [
+      {
+        "id": "lr-seven-days-monday",
+        "word": "Monday",
+        "meaning": "星期一",
+        "pageIndex": 0
+      },
+      {
+        "id": "lr-seven-days-school",
+        "word": "school",
+        "meaning": "学校",
+        "pageIndex": 0
+      },
+      {
+        "id": "lr-seven-days-sunday",
+        "word": "Sunday",
+        "meaning": "星期天",
+        "pageIndex": 6
+      }
+    ],
+    "activity": {
+      "title": "这周最喜欢的一天",
+      "text": "和孩子聊聊这周想一起做的一件小事，比如看书、散步或去公园。",
+      "hint": "指一指、聊一聊就好，不需要打卡。"
+    }
+  },
+  {
+    "id": "lr-occupations",
+    "title": "Different Occupations",
+    "zh": "大家做什么工作",
+    "stageId": "S2",
+    "primaryTheme": "everyday",
+    "themeIds": [
+      "everyday"
+    ],
+    "audioType": "generated",
+    "sourceCover": "https://storage.googleapis.com/lets-read-asia/assets/images/e543b07c-65ac-4f44-b93e-77ea10219382.png",
+    "sourceCoverSha256": "9848c321ffb016edeaebb1626b94d27239f30b8b014b3f772bb5025412416945",
+    "source": {
+      "name": "Let's Read / The Asia Foundation",
+      "url": "https://www.letsreadasia.org/book/different-occupations?bookLang=4846240843956224",
+      "publisherUrl": "https://www.letsreadasia.org/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseLabel": "CC BY 4.0",
+      "licenseEvidence": "https://letsreadasia.org/api/v5/book/preview/language/4846240843956224/book/75c3c3f0-c5b8-4c03-8afb-ff9bfb38bedb",
+      "creators": [
+        "文字：All Children Reading - Cambodia",
+        "插画：Meth Phearum",
+        "插画：Chantha Rathana",
+        "原书出版：The Asia Foundation - Let's Read",
+        "英文译者：Brendan Boland"
+      ],
+      "attributionText": "Brought to you by\nLet’s Read is a program of The Asia Foundation that supports early\nreading skills and habits to develop our next generation of critical\nthinkers and creative innovators in Asia and the Pacific.\nTo read more books like this and get further information,\nvisit: letsreadasia.org\nOriginal Story\nDifferent Occupations. Author: All Children Reading - Cambodia.\nIllustrator: Meth Phearum, Chantha Rathana.\nPublished by The Asia Foundation - Let’s Read, © The Asia\nFoundation - Let’s Read. Released under CC-BY-4.0.\nThis work is a modified version of the original story. @ The Asia\nFoundation, 2020. Some rights reserved. Released under\nCC-BY-4.0.\nFor full terms of use and attribution,\nhttp://creativecommons.org/licenses/by/4.0/\nContributing translators: Brendan Boland",
+      "originalPdf": "https://storage.googleapis.com/lets-read-asia/pdfs/efc4726c-5bb5-4c6e-beda-0ccb19556a9e/មុខរបរ_eng_PORTRAIT_V12024.04.03T123217+0000.pdf",
+      "originalPdfSha256": "f69a12487f5887d867abb0c05a4dc7969cad19987e85c165296b9dbb9e9fb2db",
+      "sourceApiSha256": "2336fc6bdc037e6e70663eec03dec69f466e566e7d11de7099a790cfde519945",
+      "format": "lets-read-source-pages-v1",
+      "editorialNote": "英文逐页保留所链官方英文版本，仅清理HTML标签与合并空白。原始插画完整保留，不裁切人物。书后练习与出版说明不放入故事正文；无字页不新增英文或配音。中文释义、陪读提示和活动由叽咕新增。"
+    },
+    "pages": [
+      {
+        "en": "Uncle Som is a farmer. He is farming.",
+        "sourceText": "Uncle Som is a farmer. He is farming.",
+        "sourcePageNumber": 2,
+        "sourcePageId": "693532837944774222",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/75c3c3f0-c5b8-4c03-8afb-ff9bfb38bedb/Images/p-1.png",
+        "sourceImageSha256": "7191865dcea8fa1d407d6c943b6290662df402df9f6d93a811fb1282195c1949",
+        "imageWidth": 421,
+        "imageHeight": 600,
+        "zh": "索姆叔叔是一位农民。他正在种田。",
+        "alt": "索姆叔叔是一位农民。他正在种田。",
+        "tip": "找找农民身边的水牛。"
+      },
+      {
+        "en": "Aunt Sopha is a first grade teacher. She is teaching.",
+        "sourceText": "Aunt Sopha is a first grade teacher. She is teaching.",
+        "sourcePageNumber": 3,
+        "sourcePageId": "4890749263827586367",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/75c3c3f0-c5b8-4c03-8afb-ff9bfb38bedb/Images/p-2.png",
+        "sourceImageSha256": "0b5deb031f5973b30c25909d0282fdc960bc2dec958a697b5af9b041473e983d",
+        "imageWidth": 421,
+        "imageHeight": 600,
+        "zh": "索帕阿姨是一年级老师。她正在上课。",
+        "alt": "索帕阿姨是一年级老师。她正在上课。",
+        "tip": "指指老师身后的黑板。"
+      },
+      {
+        "en": "Uncle San is a car mechanic. He is checking the motor.",
+        "sourceText": "Uncle San is a car mechanic. He is checking the motor.",
+        "sourcePageNumber": 4,
+        "sourcePageId": "8859047159617676022",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/75c3c3f0-c5b8-4c03-8afb-ff9bfb38bedb/Images/p-3.png",
+        "sourceImageSha256": "b8d8999e10be1c2be33ef11958fd2dbc7e59e0784588dc20b0354d05d112b03a",
+        "imageWidth": 421,
+        "imageHeight": 600,
+        "zh": "桑叔叔是一位汽车维修工。他正在检查发动机。",
+        "alt": "桑叔叔是一位汽车维修工。他正在检查发动机。",
+        "tip": "指指叔叔正在检查的汽车部件。"
+      },
+      {
+        "en": "Aunt Channa is a police officer. She is coordinating the traffic.",
+        "sourceText": "Aunt Channa is a police officer. She is coordinating the traffic.",
+        "sourcePageNumber": 5,
+        "sourcePageId": "5057031026150569750",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/75c3c3f0-c5b8-4c03-8afb-ff9bfb38bedb/Images/p-4.png",
+        "sourceImageSha256": "fe9c33655bff48c32c29dcf848ec62e42a424141da91ea8822672124c2ba6182",
+        "imageWidth": 421,
+        "imageHeight": 600,
+        "zh": "占娜阿姨是一位警察。她正在指挥交通。",
+        "alt": "占娜阿姨是一位警察。她正在指挥交通。",
+        "tip": "看看警察举起的手，学一个停下的动作。"
+      },
+      {
+        "en": "Uncle Saroeun is a chef. He is cooking.",
+        "sourceText": "Uncle Saroeun is a chef. He is cooking.",
+        "sourcePageNumber": 6,
+        "sourcePageId": "6674489699869529030",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/75c3c3f0-c5b8-4c03-8afb-ff9bfb38bedb/Images/p-5.png",
+        "sourceImageSha256": "c19e9567565f33809c58f818bf93912f0bbcdc1ff6d2710246e35142c24eeba1",
+        "imageWidth": 421,
+        "imageHeight": 600,
+        "zh": "萨伦叔叔是一位厨师。他正在做饭。",
+        "alt": "萨伦叔叔是一位厨师。他正在做饭。",
+        "tip": "找找厨师高高的白帽子。"
+      },
+      {
+        "en": "Sister Rany is a pediatrician. She is checking on a patient.",
+        "sourceText": "Sister Rany is a pediatrician. She is checking on a patient.",
+        "sourcePageNumber": 7,
+        "sourcePageId": "4075899693381570504",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/75c3c3f0-c5b8-4c03-8afb-ff9bfb38bedb/Images/p-6.png",
+        "sourceImageSha256": "29da9ec364e5262a6f81fd316809172c20cc5ea02314ecd7859110c0030c83c6",
+        "imageWidth": 421,
+        "imageHeight": 600,
+        "zh": "拉妮姐姐是一位儿科医生。她正在检查病人的身体。",
+        "alt": "拉妮姐姐是一位儿科医生。她正在检查病人的身体。",
+        "tip": "指指医生手里的听诊器。"
+      },
+      {
+        "en": "Uncle Bora is a tailor. He is sewing a pair of pants.",
+        "sourceText": "Uncle Bora is a tailor. He is sewing a pair of pants.",
+        "sourcePageNumber": 8,
+        "sourcePageId": "4250028859076817317",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/75c3c3f0-c5b8-4c03-8afb-ff9bfb38bedb/Images/p-7.png",
+        "sourceImageSha256": "fff11cfb3d5af8012e39b7e908312e8b59fa06a6ec174400381c8cc990341980",
+        "imageWidth": 421,
+        "imageHeight": 600,
+        "zh": "博拉叔叔是一位裁缝。他正在缝一条长裤。",
+        "alt": "博拉叔叔是一位裁缝。他正在缝一条长裤。",
+        "tip": "找找裁缝面前的缝纫机。"
+      },
+      {
+        "en": "Sister Tepy is a Tae Kwon Do athlete. She is practicing for her competition.",
+        "sourceText": "Sister Tepy is a Tae Kwon Do athlete. She is practicing for her competition.",
+        "sourcePageNumber": 9,
+        "sourcePageId": "3244097531198168332",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/75c3c3f0-c5b8-4c03-8afb-ff9bfb38bedb/Images/p-8.png",
+        "sourceImageSha256": "ff405a5c347ba1ebd7bccc7b8d64b41b969c2f3607b2e4ec3fbbf1f1dad1a055",
+        "imageWidth": 421,
+        "imageHeight": 600,
+        "zh": "蒂皮姐姐是一位跆拳道运动员。她正在为比赛练习。",
+        "alt": "蒂皮姐姐是一位跆拳道运动员。她正在为比赛练习。",
+        "tip": "看看运动员的动作，给她轻轻鼓掌。"
+      },
+      {
+        "en": "Brother Khiev is an engineer. He is watching the workers as they build the bridge.",
+        "sourceText": "Brother Khiev is an engineer. He is watching the workers as they build the bridge.",
+        "sourcePageNumber": 10,
+        "sourcePageId": "7684535015118403541",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/75c3c3f0-c5b8-4c03-8afb-ff9bfb38bedb/Images/p-9.png",
+        "sourceImageSha256": "ea500a3454e8260d84c0d3f9031d88d59f60fc52330397b32a11d93789fba599",
+        "imageWidth": 421,
+        "imageHeight": 600,
+        "zh": "基乌哥哥是一位工程师。他正在查看工人们修建桥梁的情况。",
+        "alt": "基乌哥哥是一位工程师。他正在查看工人们修建桥梁的情况。",
+        "tip": "指指工程师戴的安全帽。"
+      },
+      {
+        "en": "Sister Linda is a pilot. She is preparing for takeoff.",
+        "sourceText": "Sister Linda is a pilot. She is preparing for takeoff.",
+        "sourcePageNumber": 11,
+        "sourcePageId": "1874807372120869499",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/75c3c3f0-c5b8-4c03-8afb-ff9bfb38bedb/Images/p-10.png",
+        "sourceImageSha256": "c47bbb2ebd2aabaa4813baedcef7465f50f32230af34108c9c65765c815d63a7",
+        "imageWidth": 421,
+        "imageHeight": 600,
+        "zh": "琳达姐姐是一位飞行员。她正在为起飞做准备。",
+        "alt": "琳达姐姐是一位飞行员。她正在为起飞做准备。",
+        "tip": "指指飞机驾驶舱里的仪表。"
+      },
+      {
+        "en": "Uncle Socheat is an astronaut. He is preparing to board the spaceship to go to the moon.",
+        "sourceText": "Uncle Socheat is an astronaut. He is preparing to board the spaceship to go to the moon.",
+        "sourcePageNumber": 12,
+        "sourcePageId": "6683818322341333129",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/75c3c3f0-c5b8-4c03-8afb-ff9bfb38bedb/Images/p-11.png",
+        "sourceImageSha256": "a2239ed818897bc47fa512ba166d5c752c466d8afc0722d629b3eb6e3b1cc748",
+        "imageWidth": 421,
+        "imageHeight": 600,
+        "zh": "索奇特叔叔是一位宇航员。他正准备登上飞船，前往月球。",
+        "alt": "索奇特叔叔是一位宇航员。他正准备登上飞船，前往月球。",
+        "tip": "找找宇航员身后的飞船。"
+      },
+      {
+        "en": "These sisters, brothers, uncles, and aunts have different jobs. They love their jobs.",
+        "sourceText": "These sisters, brothers, uncles, and aunts have different jobs. They love their jobs.",
+        "sourcePageNumber": 13,
+        "sourcePageId": "7644211616495913172",
+        "sourceImage": "https://storage.googleapis.com/lets-read-asia/75c3c3f0-c5b8-4c03-8afb-ff9bfb38bedb/Images/p-12.png",
+        "sourceImageSha256": "935a7b4c9c26aac3dad58bf70724c781b1f0c9ede75487db100fb6359fedfcb2",
+        "imageWidth": 421,
+        "imageHeight": 600,
+        "zh": "这些哥哥姐姐、叔叔阿姨做着不同的工作。他们都热爱自己的工作。",
+        "alt": "这些哥哥姐姐、叔叔阿姨做着不同的工作。他们都热爱自己的工作。",
+        "tip": "选一位人物，找找前面哪一页介绍过他。"
+      }
+    ],
+    "narration": {
+      "kind": "ai",
+      "provider": "Doubao Seed TTS 2.0",
+      "voice": "Rowan",
+      "voiceId": "en_male_adam-imitation_uranus_bigtts",
+      "locale": "en-US",
+      "accentLabel": "美式英语",
+      "speechRate": -5
+    },
+    "keywords": [
+      {
+        "id": "lr-occupations-farmer",
+        "word": "farmer",
+        "meaning": "农民",
+        "pageIndex": 0
+      },
+      {
+        "id": "lr-occupations-teacher",
+        "word": "teacher",
+        "meaning": "老师",
+        "pageIndex": 1
+      },
+      {
+        "id": "lr-occupations-chef",
+        "word": "chef",
+        "meaning": "厨师",
+        "pageIndex": 4
+      }
+    ],
+    "activity": {
+      "title": "找找身边的工作",
+      "text": "散步时观察一位正在工作的人，找找他的工作用品，注意保持距离、不打扰。",
+      "hint": "指一指、聊一聊就好，不需要打卡。"
+    }
+  }
+]

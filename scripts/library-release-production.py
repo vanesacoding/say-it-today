@@ -1,5 +1,5 @@
 """Produce a pinned library release, with a fixed voice per book and no uncertain retries."""
-import argparse,importlib.util,json,os,subprocess,sys,urllib.request,urllib.error,uuid
+import argparse,importlib.util,json,os,subprocess,sys,urllib.request,urllib.error,uuid,html,re
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1];OUT=ROOT/'.reading-audio/library-release';CATALOG=ROOT/'public/books/catalog.js'
 spec=importlib.util.spec_from_file_location('recordings',ROOT/'scripts/doubao-reading-production.py');recordings=importlib.util.module_from_spec(spec);spec.loader.exec_module(recordings)
@@ -23,6 +23,23 @@ def validate_mobile_source(b):
    x,y,w,h=rect
    if not (0<=x<1 and 0<=y<1 and 0<w<=1 and 0<h<=1 and x+w<=1.000001 and y+h<=1.000001 and p['imageWidth']*w/(p['imageHeight']*h)<=1.4 and min(p['imageWidth']*w,p['imageHeight']*h)>=320):raise ValueError('Invalid mobile panel')
 
+def source_plain(text):
+ return ' '.join(html.unescape(re.sub(r'<[^>]*>',' ',text or '')).replace('\\u200b','').replace('\u200b','').split())
+
+def validate_letsread_source(book,source):
+ if source['license']!='CC-BY-4.0' or source['masterLicense']!='CC-BY-4.0' or book['source']['license']!='https://creativecommons.org/licenses/by/4.0/':raise ValueError('Unapproved source license')
+ if book['source']['originalPdf']!=source['pdfUrl'] or book['source']['originalPdfSha256']!=source['pdfSha256']:raise ValueError('Source PDF evidence changed')
+ if source['languageId']!='4846240843956224' or book['source']['sourceApiSha256']!=source['sourceApiSha256']:raise ValueError('Source metadata changed')
+ if book['source']['attributionText']!=source['attributionText'] or 'CC-BY-4.0' not in source['attributionText']:raise ValueError('Source attribution changed')
+ selected=[p for p in source['pages'] if not p['excluded']]
+ if [p['sourcePageId'] for p in book['pages']]!=[p['id'] for p in selected]:raise ValueError('Source pages missing or reordered')
+ for p,original in zip(book['pages'],selected):
+  if p['en']!=source_plain(original['html']) or p['en']!=original['text']:raise ValueError('Incomplete source English')
+  if p['sourceImage']!=original['image'] or p['sourceImageSha256']!=original['imageSha256']:raise ValueError('Source image changed')
+  if (p['imageWidth'],p['imageHeight'])!=(original['imageWidth'],original['imageHeight']) or min(p['imageWidth'],p['imageHeight'])<320 or p['imageWidth']/p['imageHeight']>1.42:raise ValueError('Invalid original page geometry')
+  if not (p['zh'] and p['tip'] and p['alt']):raise ValueError('Companion editorial missing')
+ if len(book['keywords'])!=3 or not book['activity']['title'] or not book['activity']['text']:raise ValueError('Editorial modules missing')
+
 def plan():
  raw=CATALOG.read_bytes();request=json.loads((ROOT/'scripts/library-release-request.json').read_text());data=(ROOT/'scripts/library-release-candidate.json').read_bytes()
  if sha(data)!=request['candidateSha256']:raise ValueError('Candidate hash changed')
@@ -33,6 +50,11 @@ def plan():
  if sha(curation_raw)!=request['curationSha256']:raise ValueError('Curation changed')
  curation=json.loads(curation_raw.decode().removeprefix('window.JIGU_CURATION = ').strip().removesuffix(';'))
  active=lambda bs:[b for b in bs if not b.get('archived') and b['id'] not in curation['withdrawnIds']]
+ source_manifest=candidate['sourceManifest']
+ source_data=(ROOT/'scripts'/source_manifest['file']).read_bytes()
+ if sha(source_data)!=source_manifest['sha256']:raise ValueError('Source manifest changed')
+ sources={b['bookId']:b for b in json.loads(source_data)}
+ if set(sources)!=set(candidate['newBookIds']):raise ValueError('Source manifest book set changed')
  changes=[]
  for shard in candidate['shards']:
   name=shard['file']
@@ -42,7 +64,7 @@ def plan():
   changes.extend(json.loads(data))
  if len({b['id'] for b in changes})!=len(changes):raise ValueError('Duplicate book changes')
  original=json.loads(raw.decode().removeprefix('window.JIGU_BOOKS = ').strip().removesuffix(';'));previous={b['id']:b for b in original};overrides={b['id']:b for b in changes}
- books=[overrides.get(b['id'],b) for b in original]+[b for b in changes if b['id'] not in previous]
+ books=[b for b in changes if b['id'] not in previous]+[overrides.get(b['id'],b) for b in original]
  new_ids=[b['id'] for b in changes if b['id'] not in previous]
  if sorted(new_ids)!=sorted(candidate['newBookIds']) or sorted(new_ids)!=sorted(request['newBookIds']) or len(new_ids)!=request['expectedNewBooks']:raise ValueError('New-book set changed')
  if len(active(original))!=request['sourceActiveBooks'] or curation['expectedActiveBooks']!=request['targetActiveBooks'] or len({b['id'] for b in books})!=len(books) or len(active(books))!=request['targetActiveBooks']:raise ValueError('Wrong shelf count')
@@ -62,7 +84,7 @@ def plan():
   if not before:
    if speaker not in NEW_VOICES or speaker==CHARLIE:raise ValueError('New books must not use Charlie')
    if any(p['en']!=p.get('sourceText') for p in b['pages']):raise ValueError('New source English was changed')
-   validate_mobile_source(b)
+   validate_letsread_source(b,sources[b['id']])
   for i,p in enumerate(b['pages']):
    if not p['en'].strip():continue
    if p.get('sourceAudioTextSha256')==sha(p['en'].encode()) and p.get('sourceAudioSha256'):continue
