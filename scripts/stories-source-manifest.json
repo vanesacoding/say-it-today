@@ -1,0 +1,2617 @@
+[
+  {
+    "bookId": "hippo-wants-to-dance",
+    "sourceUrl": "https://bookdash.org/books/hippo-wants-to-dance/",
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Megan Andrews (Illustrator)",
+      "Sam Beckbessinger (Writer)",
+      "Marisa Steyn (Designer)",
+      "Ester Levinrad (Editor)"
+    ],
+    "sourceCover": "https://bookdash.org/wp-content/uploads/2016/03/hippo-wants-to-dance_english_20160324_Page_01.jpg",
+    "sourceCoverSha256": "b708feb15ed3c9ae9fd9e18a4fcb5452fb2c61b1b4bea6a86cfb846ece3483a5",
+    "pages": [
+      {
+        "sourcePageNumber": 1,
+        "sourceText": "Hippo wants to dance. She jumps up and down on the dusty ground. THUMP! THUMP!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2016/03/hippo-wants-to-dance_english_20160324_Page_05.jpg",
+        "sourceImageSha256": "c835eb6dd2b2e3f977785f3e5c6b61d509afee1c4cb494914ee67921751fa182",
+        "imageWidth": 3150,
+        "imageHeight": 1575
+      },
+      {
+        "sourcePageNumber": 2,
+        "sourceText": "“You’re getting dirt on me!” says Shongololo, sleeping in the sand. “Go dance somewhere else.”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2016/03/hippo-wants-to-dance_english_20160324_Page_06.jpg",
+        "sourceImageSha256": "9c126604d3fdcb3cbf650f8077f94e0112e8d4e0e51f5f936622197c0ef72c4f",
+        "imageWidth": 3150,
+        "imageHeight": 1575
+      },
+      {
+        "sourcePageNumber": 3,
+        "sourceText": "Hippo wants to dance. She rolls into the river and splashes her arms and legs. SPLISH! SPLASH!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2016/03/hippo-wants-to-dance_english_20160324_Page_07.jpg",
+        "sourceImageSha256": "e78322826ae927b8c337651f892f274a574b2a7c712ad762c29ad25b32240005",
+        "imageWidth": 3150,
+        "imageHeight": 1575
+      },
+      {
+        "sourcePageNumber": 4,
+        "sourceText": "“You’re making me wet!” says Kingfisher, hunting for her breakfast. “Go dance somewhere else.”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2016/03/hippo-wants-to-dance_english_20160324_Page_08.jpg",
+        "sourceImageSha256": "b76e23c3226b9a650b8103cb38cd1cd2496b39bc8b2f0c29d4788f7d61dee91e",
+        "imageWidth": 1575,
+        "imageHeight": 788
+      },
+      {
+        "sourcePageNumber": 5,
+        "sourceText": "Hippo wants to dance. She twirls around and around in a field, kicking her legs up high. SWOOSH! SWOOSH!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2016/03/hippo-wants-to-dance_english_20160324_Page_09.jpg",
+        "sourceImageSha256": "e865650991ecd9b737766a6bac4dfa2c3226c2eb9f6fd0cb863bc926f9e96658",
+        "imageWidth": 1575,
+        "imageHeight": 788
+      },
+      {
+        "sourcePageNumber": 6,
+        "sourceText": "“Be careful! You nearly kicked me!” says Meerkat, bathing his babies. “Go dance somewhere else.”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2016/03/hippo-wants-to-dance_english_20160324_Page_10.jpg",
+        "sourceImageSha256": "ec82f3e0a4a2b87f0ca14fb274f9ee15f7e1874210586d6e67f2a2f69be1bdec",
+        "imageWidth": 1575,
+        "imageHeight": 788
+      },
+      {
+        "sourcePageNumber": 7,
+        "sourceText": "Hippo wants to dance. She flops into a puddle of mud and slides around on her nice big belly. SQUISH! SQUASH!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2016/03/hippo-wants-to-dance_english_20160324_Page_11.jpg",
+        "sourceImageSha256": "9531edc8b41c051e6193d6e746e2ff443316945134c959f53356c61ba505145e",
+        "imageWidth": 1575,
+        "imageHeight": 788
+      },
+      {
+        "sourcePageNumber": 8,
+        "sourceText": "“Why don’t you stop dancing?” asks Donkey, carrying his buckets. “Why can’t you do something useful instead?”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2016/03/hippo-wants-to-dance_english_20160324_Page_12.jpg",
+        "sourceImageSha256": "85a9897aed2095574bc2f3e983407ccbe722101421d783958e016556e0beea37",
+        "imageWidth": 1575,
+        "imageHeight": 788
+      },
+      {
+        "sourcePageNumber": 9,
+        "sourceText": "Hippo is sad. She is too sad to dance. She sits on a rock and cries. The tears roll down her cheeks and fall on the ground.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2016/03/hippo-wants-to-dance_english_20160324_Page_13.jpg",
+        "sourceImageSha256": "c564313a6707fdad39ea2232b7c21faaf8a78059e0fc336db3b09f6d15c9d91a",
+        "imageWidth": 1575,
+        "imageHeight": 788
+      },
+      {
+        "sourcePageNumber": 10,
+        "sourceText": "PLOP! PLOP! Grasshopper hears Hippo’s tears. He starts dancing around her feet. HOP! HOP!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2016/03/hippo-wants-to-dance_english_20160324_Page_14.jpg",
+        "sourceImageSha256": "141ab75b9ccc853cb711bd42036a92bd65de0b6d272740c4a1f5c36c9f6bfe48",
+        "imageWidth": 1575,
+        "imageHeight": 788
+      },
+      {
+        "sourcePageNumber": 11,
+        "sourceText": "Hippo and Grasshopper start to dance, and the other animals come to look...",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2016/03/hippo-wants-to-dance_english_20160324_Page_15.jpg",
+        "sourceImageSha256": "15714bbcc74fabfc302f020d32b4f0fb52e8a7948329e713cde1721f01bed9fb",
+        "imageWidth": 1575,
+        "imageHeight": 788
+      },
+      {
+        "sourcePageNumber": 12,
+        "sourceText": "",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2016/03/hippo-wants-to-dance_english_20160324_Page_16.jpg",
+        "sourceImageSha256": "2fe37b7754e7f9adb28af55b0d5f9b0dd62e0dbc4bd2da0d4970c9e3d932f998",
+        "imageWidth": 1575,
+        "imageHeight": 788
+      }
+    ],
+    "reviewedAt": "2026-10-21",
+    "includedSourceIndices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "excludedSourceIndices": [
+      0,
+      13,
+      14
+    ]
+  },
+  {
+    "bookId": "little-ants-big-plan",
+    "sourceUrl": "https://bookdash.org/books/little-ants-big-plan/",
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Steven McKimmie (Illustrator)",
+      "Telri Stoop (Designer)",
+      "Candice Dingwall (Writer)"
+    ],
+    "sourceCover": "https://bookdash.org/wp-content/uploads/2015/07/little-ants-big-plan_20150712_Page_01.jpg",
+    "sourceCoverSha256": "e63c9f7b24a2e3347bd3c6d43f00f4d94e18e4f05da0c7e2bcc7bad8c176ec09",
+    "pages": [
+      {
+        "sourcePageNumber": 1,
+        "sourceText": "Little Ant loved to read. Little Ant was often teased. “Ants don’t read. Ants must feed. Ants collect the food they need.”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2015/07/little-ants-big-plan_20150712_Page_05.jpg",
+        "sourceImageSha256": "29c15013d2d8998bad671ba858aa3949ed2255182cc071cd621fdb2cdea44529",
+        "imageWidth": 3150,
+        "imageHeight": 1575
+      },
+      {
+        "sourcePageNumber": 2,
+        "sourceText": "Little Ant would read all day, he’d read and read the day away. The other ants took what they found to store for winter underground.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2015/07/little-ants-big-plan_20150712_Page_06.jpg",
+        "sourceImageSha256": "493922745213125e577bcd51cd2cc0f156ec1437971a942b65bb0949eca183bc",
+        "imageWidth": 3150,
+        "imageHeight": 1575
+      },
+      {
+        "sourcePageNumber": 3,
+        "sourceText": "His mum and dad got really mad, and Little Ant felt really bad.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2015/07/little-ants-big-plan_20150712_Page_07.jpg",
+        "sourceImageSha256": "886de11609d370d153a054c25d76240647c6e9f6cd46cd1cafe16e994e99512f",
+        "imageWidth": 3150,
+        "imageHeight": 1575
+      },
+      {
+        "sourcePageNumber": 4,
+        "sourceText": "In autumn when the leaves fall down, the ants must keep food underground.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2015/07/little-ants-big-plan_20150712_Page_08.jpg",
+        "sourceImageSha256": "47ada189196e9c6e354d664fd55836e657caefb9b70908c91234a8293b2dc617",
+        "imageWidth": 3150,
+        "imageHeight": 1575
+      },
+      {
+        "sourcePageNumber": 5,
+        "sourceText": "The Queen wants food to fill the store, so all the ants must work some more.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2015/07/little-ants-big-plan_20150712_Page_09.jpg",
+        "sourceImageSha256": "a1bc61d7f9dceb024f53df49b5984087c9d243eafb516b700e79253bc471b7b0",
+        "imageWidth": 3150,
+        "imageHeight": 1575
+      },
+      {
+        "sourcePageNumber": 6,
+        "sourceText": "Little Ant begins to shout about a place he read about. “A restaurant is what we need, a place where people go to feed. It says so in the books I read.”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2015/07/little-ants-big-plan_20150712_Page_10.jpg",
+        "sourceImageSha256": "eeecebc8898fddbf408bff81364c3d9f31d2bcb8911c5ad281603d8e7815bca8",
+        "imageWidth": 3150,
+        "imageHeight": 1575
+      },
+      {
+        "sourcePageNumber": 7,
+        "sourceText": "The ants go marching one by one. They march into the setting sun.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2015/07/little-ants-big-plan_20150712_Page_11.jpg",
+        "sourceImageSha256": "7c46bb11d664c2f3a5db3a6b4ae2bdf2135c7ba62c4beb3bf7fb3375c6ff8f8a",
+        "imageWidth": 3150,
+        "imageHeight": 1575
+      },
+      {
+        "sourcePageNumber": 8,
+        "sourceText": "And Little Ant said “Hey, there’s one!”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2015/07/little-ants-big-plan_20150712_Page_12.jpg",
+        "sourceImageSha256": "13bf73c8473ba22b37be6c60cbfcd1b6b184170c49df5bee777e91b314ae1b5e",
+        "imageWidth": 3150,
+        "imageHeight": 1575
+      },
+      {
+        "sourcePageNumber": 9,
+        "sourceText": "The ants go marching one by one, carrying a burger, carrying a bun.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2015/07/little-ants-big-plan_20150712_Page_13.jpg",
+        "sourceImageSha256": "c3a2608e286b487eae8d3c7c46eaade62f0ee04bf728befa4140340038b41f2d",
+        "imageWidth": 3150,
+        "imageHeight": 1575
+      },
+      {
+        "sourcePageNumber": 10,
+        "sourceText": "When they return the Queen is glad. The stores are full. They cheer like mad.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2015/07/little-ants-big-plan_20150712_Page_14.jpg",
+        "sourceImageSha256": "816c9dae0837a127cef35d3c80e81fd40628164664f01ced79971d23f8331d20",
+        "imageWidth": 3150,
+        "imageHeight": 1575
+      },
+      {
+        "sourcePageNumber": 11,
+        "sourceText": "Ant gets hugs from mum and dad.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2015/07/little-ants-big-plan_20150712_Page_15.jpg",
+        "sourceImageSha256": "926af9f9f1a05c3c0201e1a5f910f1963edbc96aa6c888357d2f4186e598f647",
+        "imageWidth": 3150,
+        "imageHeight": 1575
+      },
+      {
+        "sourcePageNumber": 12,
+        "sourceText": "His baby sister takes his hand “Now I think I understand.” “The way you love to read a book... Makes me want to take a look.”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2015/07/little-ants-big-plan_20150712_Page_16.jpg",
+        "sourceImageSha256": "58ae520ac7f8e29fc0cd4a5aedd3e977c81685985bbd22d11c51ee72f3b726c3",
+        "imageWidth": 3150,
+        "imageHeight": 1575
+      }
+    ],
+    "reviewedAt": "2026-10-21",
+    "includedSourceIndices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "excludedSourceIndices": [
+      0,
+      13
+    ]
+  },
+  {
+    "bookId": "amazing-daisy",
+    "sourceUrl": "https://bookdash.org/books/amazing-daisy/",
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Nozizwe Herero (Writer)",
+      "Siya Masuku (Illustrator)",
+      "Leona Ingram (Designer)",
+      "Ester Levinrad (Editor)"
+    ],
+    "sourceCover": "https://bookdash.org/wp-content/uploads/2016/09/amazing-daisy-pdf-ebook_20150804_Page_01.jpg",
+    "sourceCoverSha256": "5197455d791877fe728d0e283c3b81b5c6ae859065a0236d53574fc3e8cc4172",
+    "pages": [
+      {
+        "sourcePageNumber": 1,
+        "sourceText": "Once upon a time on a little farm near a little village there lived a little chicken called Daisy.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2015/08/amazing-daisy-pdf-ebook_20150804_Page_05.jpg",
+        "sourceImageSha256": "90ee87dbda06275ae6cafc0725493a4b44708eb4f7b67e3b712ee9ce574885de",
+        "imageWidth": 1575,
+        "imageHeight": 788
+      },
+      {
+        "sourcePageNumber": 2,
+        "sourceText": "“When I grow up, I want to fly high, high into the sky,” Daisy said. But all the other chickens laughed at her.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2015/08/amazing-daisy-pdf-ebook_20150804_Page_06.jpg",
+        "sourceImageSha256": "25109beb5eef92d10f509a0fc55c242f11a3dcffd7888e5c0705bed4c6d5ddbb",
+        "imageWidth": 1575,
+        "imageHeight": 788
+      },
+      {
+        "sourcePageNumber": 3,
+        "sourceText": "“You are so weird,” they said. “We won’t play with you anymore.” “Daisy, we can all flap our wings but it’s very difficult for chickens to fly,” Mama told her.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2015/08/amazing-daisy-pdf-ebook_20150804_Page_07.jpg",
+        "sourceImageSha256": "801196fa632909a3e3fd31ba96c987bb25f03d4b110691853faedb831b93164b",
+        "imageWidth": 1575,
+        "imageHeight": 788
+      },
+      {
+        "sourcePageNumber": 4,
+        "sourceText": "Daisy wouldn’t give up. Every day she practised by herself, flapping her wings. Flap, flap, flap, she would flap her wings but she couldn’t lift off the ground.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2015/08/amazing-daisy-pdf-ebook_20150804_Page_08.jpg",
+        "sourceImageSha256": "4c6a231aa5c4e9b13e7e17319b01d0efe4104a743e538cd02bd88073fe085bfe",
+        "imageWidth": 1575,
+        "imageHeight": 788
+      },
+      {
+        "sourcePageNumber": 5,
+        "sourceText": "While she practised, she imagined herself flying high into the sky and looking at the chickens below. She imagined herself flying past the sparrows and past the swallows. “Wow!” the birds would say. “A chicken that can fly!”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2015/08/amazing-daisy-pdf-ebook_20150804_Page_09.jpg",
+        "sourceImageSha256": "33f039860bf614a1cfdffe76b1e55689e3912f322504b3746043815948e6982a",
+        "imageWidth": 1575,
+        "imageHeight": 788
+      },
+      {
+        "sourcePageNumber": 6,
+        "sourceText": "So... Flap, flap, flap, every day Daisy would flap her wings. She would lift off the ground but fall down again.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2015/08/amazing-daisy-pdf-ebook_20150804_Page_10.jpg",
+        "sourceImageSha256": "e592376344b831073509cb9c4eec6a5c21769c462b2f6eab921bda1fc8b353eb",
+        "imageWidth": 1575,
+        "imageHeight": 788
+      },
+      {
+        "sourcePageNumber": 7,
+        "sourceText": "“I’m never going to fly!” Daisy cried to Mama. “The others are right.” “Daisy, you are different from the other chickens. They don’t want to fly but you do! You can do it,” Mama said.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2015/08/amazing-daisy-pdf-ebook_20150804_Page_11.jpg",
+        "sourceImageSha256": "f1fc5eb867fe5fa930129b99b5d31deb5177eaf220b1b69c91d0219b0cee8a09",
+        "imageWidth": 1575,
+        "imageHeight": 788
+      },
+      {
+        "sourcePageNumber": 8,
+        "sourceText": "The following day Daisy climbed to the top of the chicken coop and flap, flap, flap, she flapped her wings. She flew into the air and flapped her wings... and flapped her wings... and flapped her wings and...",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2015/08/amazing-daisy-pdf-ebook_20150804_Page_12.jpg",
+        "sourceImageSha256": "f421b0449e85f5f96e33909fbebebea3b21e6c4c5a7e2e490ffb688ae12abe66",
+        "imageWidth": 1575,
+        "imageHeight": 788
+      },
+      {
+        "sourcePageNumber": 9,
+        "sourceText": "BAM! The other chickens laughed out loud. “Ha ha ha! We told you! Chickens can’t fly!”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2015/08/amazing-daisy-pdf-ebook_20150804_Page_13.jpg",
+        "sourceImageSha256": "3da80c78b3c544d7a8ff04609e050107db95d84bacaa82dc68aec94f727a66b8",
+        "imageWidth": 1575,
+        "imageHeight": 788
+      },
+      {
+        "sourcePageNumber": 10,
+        "sourceText": "But the next day Daisy climbed even higher, right up to the top of the rondavel. Flap, flap, flap, Daisy flapped her wings. She flew into the air and flapped her wings... and flapped her wings... and flapped her wings and...",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2015/08/amazing-daisy-pdf-ebook_20150804_Page_14.jpg",
+        "sourceImageSha256": "d9e93836a38885366d4ae3ef10b72211102d33d5650e1eeb4ec115366f2ca2a8",
+        "imageWidth": 1575,
+        "imageHeight": 788
+      },
+      {
+        "sourcePageNumber": 11,
+        "sourceText": "She kept flying! The wind beneath her wings grew stronger and she flew higher and higher! The sparrows and the swallows said, “Amazing! A flying chicken!”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2015/08/amazing-daisy-pdf-ebook_20150804_Page_15.jpg",
+        "sourceImageSha256": "3c2871032312a060882a74d5c14a17e68dbde71208771c7d383a60b2d77b9f35",
+        "imageWidth": 1575,
+        "imageHeight": 788
+      },
+      {
+        "sourcePageNumber": 12,
+        "sourceText": "And the other chickens wanted to be just like her. They said, “Oh Daisy, you’re amazing!”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2015/08/amazing-daisy-pdf-ebook_20150804_Page_16.jpg",
+        "sourceImageSha256": "1571eded2845c3f4b63243fc64e40530b0b979860b78b7f4d14bd3e0eb43f8c9",
+        "imageWidth": 1575,
+        "imageHeight": 788
+      }
+    ],
+    "reviewedAt": "2026-10-21",
+    "includedSourceIndices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "excludedSourceIndices": [
+      0,
+      13
+    ]
+  },
+  {
+    "bookId": "mama-antelopes-house",
+    "sourceUrl": "https://bookdash.org/books/mama-antelopes-house/",
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Nabeela Kalla (Editor)",
+      "Lauren Bird (Designer)",
+      "Florence Marundu (Writer)",
+      "Barbara Nascimbeni (Illustrator)"
+    ],
+    "sourceCover": "https://bookdash.org/wp-content/uploads/2019/11/mama-antelopes-house_em_20191121_cover-1.jpg",
+    "sourceCoverSha256": "6bd829ea8aabfe8e453ff9c446a9fe3b9edf887cff922b5ecdd88e7072d3120b",
+    "pages": [
+      {
+        "sourcePageNumber": 1,
+        "sourceText": "Long ago, all the animals lived in a village. Mama Antelope had a big house.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2019/11/mama-antelopes-house_en_20191121_page4.jpg",
+        "sourceImageSha256": "97c211d8dfb32574f41a45fe7a96206c8f740cdf17006910566b67a6bcad3344",
+        "imageWidth": 2362,
+        "imageHeight": 1181
+      },
+      {
+        "sourcePageNumber": 2,
+        "sourceText": "One day, Hare wanted to play a trick. He thought and thought and thought... He crept into Mama Antelope’s house. He closed the door and made a lot of noise.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2019/11/mama-antelopes-house_en_20191121_page5.jpg",
+        "sourceImageSha256": "3cf990ad94ff42f5e2a817c96a81c4f3db4ebcc8f2fc8de1da5cac4b1e617cf5",
+        "imageWidth": 2362,
+        "imageHeight": 1181
+      },
+      {
+        "sourcePageNumber": 3,
+        "sourceText": "Mama Antelope came home. “Who is in my house?” she cried. “Hyena, please help! Someone is in my house.” PING! CLINK!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2019/11/mama-antelopes-house_en_20191121_page6.jpg",
+        "sourceImageSha256": "bf2a4ae60fb0dc7bce40b6910a5f11cd456cf358fcf4a7239b504418c12e048d",
+        "imageWidth": 2362,
+        "imageHeight": 1181
+      },
+      {
+        "sourcePageNumber": 4,
+        "sourceText": "Knock, knock, knock! “Open the door!” howled Hyena. But the door did not open. CRASH! SNAP!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2019/11/mama-antelopes-house_en_20191121_page7.jpg",
+        "sourceImageSha256": "f5cc68b866110b981650c2ab1163816f767e151dcfdf76bdbd69a9a76aeea830",
+        "imageWidth": 2362,
+        "imageHeight": 1181
+      },
+      {
+        "sourcePageNumber": 5,
+        "sourceText": "Hyena called Giraffe. “Open the door!” shouted Giraffe. But the door did not open. BANG! SMASH!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2019/11/mama-antelopes-house_en_20191121_page8.jpg",
+        "sourceImageSha256": "53e1b0d7bb8f5c75c220cb153f29d943c6e42504a2d9ab99c16a529a28659b6b",
+        "imageWidth": 2362,
+        "imageHeight": 1181
+      },
+      {
+        "sourcePageNumber": 6,
+        "sourceText": "Giraffe called Zebra. “Open the door!” yelled Zebra. But the door did not open. BASH! BOOM!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2019/11/mama-antelopes-house_en_20191121_page9.jpg",
+        "sourceImageSha256": "777f400e50dbba2c43c1d81b5f591089e911fae46f540c0d1f7af73ec23dc1ad",
+        "imageWidth": 2362,
+        "imageHeight": 1181
+      },
+      {
+        "sourcePageNumber": 7,
+        "sourceText": "Zebra called Elephant. He was big and strong. “Open the door!” commanded Elephant. But the door did not open. BOOM! BOOM! BOOM!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2019/11/mama-antelopes-house_en_20191121_page10.jpg",
+        "sourceImageSha256": "833579b240c18e9dc18cfa24356cbfda28d08ae0ffd3a15c5ac3ec2da1af5673",
+        "imageWidth": 2362,
+        "imageHeight": 1181
+      },
+      {
+        "sourcePageNumber": 8,
+        "sourceText": "Mama Antelope was sad. All the animals were sad. Who was in Mama Antelope’s house?",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2019/11/mama-antelopes-house_en_20191121_page11.jpg",
+        "sourceImageSha256": "f194e06fd6b9932e81c0d2557a6ff32b095d27246569024437e898b323f55f40",
+        "imageWidth": 2362,
+        "imageHeight": 1181
+      },
+      {
+        "sourcePageNumber": 9,
+        "sourceText": "The birds sang. The butterflies flapped. The bees buzzed. “Open the door!” they all cried.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2019/11/mama-antelopes-house_en_20191121_page12.jpg",
+        "sourceImageSha256": "71d86bdf1c987023f7f58ca1dce9bb3e289c8b2ac46aa1058b86d82805b5e332",
+        "imageWidth": 2362,
+        "imageHeight": 1181
+      },
+      {
+        "sourcePageNumber": 10,
+        "sourceText": "Baby Antelope came home. “Who is in our house? Please open the door,” she asked sweetly.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2019/11/mama-antelopes-house_en_20191121_page13.jpg",
+        "sourceImageSha256": "4e111f9b041dc71dc3e43d48f3bf210a5c5435e5b94dbaf9171b32bb35e5046d",
+        "imageWidth": 2362,
+        "imageHeight": 1181
+      },
+      {
+        "sourcePageNumber": 11,
+        "sourceText": "The door opened. It was Hare! Hare was smiling. He loved tricks.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2019/11/mama-antelopes-house_en_20191121_page14.jpg",
+        "sourceImageSha256": "0c9d25225ba4b57598b2073c67e07dc3e0dc8ee31fd206fe8c4ab94844b03f50",
+        "imageWidth": 2362,
+        "imageHeight": 1181
+      },
+      {
+        "sourcePageNumber": 12,
+        "sourceText": "Hurrah! Hurrah! Mama Antelope and Baby Antelope are happy. The animals are happy. Mama Antelope’s house is open at last.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2019/11/mama-antelopes-house_en_20191121_page15.jpg",
+        "sourceImageSha256": "b14a5635e1c1476cdc8fed6e0a1dd3e051425947d6862bee363aecea15e80fb0",
+        "imageWidth": 2362,
+        "imageHeight": 1181
+      }
+    ],
+    "reviewedAt": "2026-10-21",
+    "includedSourceIndices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "excludedSourceIndices": [
+      0,
+      13
+    ]
+  },
+  {
+    "bookId": "shongololos-shoes",
+    "sourceUrl": "https://bookdash.org/books/shongololos-shoes/",
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Megan Lötter (Illustrator)",
+      "Marteli Kleyn (Designer)",
+      "Judith Browne (Editor)",
+      "Jacqui L’Ange (Writer)"
+    ],
+    "sourceCover": "https://bookdash.org/wp-content/uploads/2016/03/shongololos-shoes_english_20160323_Page_01.jpg",
+    "sourceCoverSha256": "807410f33d14bd0458d13a20e3527ce1c4bf79a830292326a2b845752af063d5",
+    "pages": [
+      {
+        "sourcePageNumber": 1,
+        "sourceText": "Where are all my shoes? I know I left them here!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2016/03/shongololos-shoes_english_20160323_Page_05.jpg",
+        "sourceImageSha256": "699e49e25f00b4d31cc93038c3adbcb4a900bc7a79d344cf7c0779c99002a5a8",
+        "imageWidth": 1575,
+        "imageHeight": 788
+      },
+      {
+        "sourcePageNumber": 2,
+        "sourceText": "I haven’t seen your shoes. Go ask Snail!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2016/03/shongololos-shoes_english_20160323_Page_06.jpg",
+        "sourceImageSha256": "09ab21226a427f53d5f71cc2a85ab2c9c36e2a8c8553984c8b80fe87b304b9c1",
+        "imageWidth": 1575,
+        "imageHeight": 788
+      },
+      {
+        "sourcePageNumber": 3,
+        "sourceText": "No shoes here. Go ask Giraffe.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2016/03/shongololos-shoes_english_20160323_Page_07.jpg",
+        "sourceImageSha256": "ff91f8575b77eb06f185df389fe564fe2f90bfb9bfb4abf5b9ad932a6d6971ac",
+        "imageWidth": 1575,
+        "imageHeight": 788
+      },
+      {
+        "sourcePageNumber": 4,
+        "sourceText": "I’m in a hurry – go ask Frog.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2016/03/shongololos-shoes_english_20160323_Page_08.jpg",
+        "sourceImageSha256": "ce7b383f6ff7eddf64b16a8989fcfc07c211e37e5a1d70f7e9149e7a45d13df3",
+        "imageWidth": 1575,
+        "imageHeight": 788
+      },
+      {
+        "sourcePageNumber": 5,
+        "sourceText": "Shoes? How many? Go ask Flamingo.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2016/03/shongololos-shoes_english_20160323_Page_09.jpg",
+        "sourceImageSha256": "d7b9594d1045bf97c574024f5c61b034f71c9d85f070ae0d0fa3e0c08f538810",
+        "imageWidth": 1575,
+        "imageHeight": 788
+      },
+      {
+        "sourcePageNumber": 6,
+        "sourceText": "Seen your shoes? No, not me.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2016/03/shongololos-shoes_english_20160323_Page_10.jpg",
+        "sourceImageSha256": "c6f5c8313a7a3cf550ca68e8d94f1f89e6a2561faeec216aba436dc056b5ccb3",
+        "imageWidth": 1575,
+        "imageHeight": 788
+      },
+      {
+        "sourcePageNumber": 7,
+        "sourceText": "Will I ever find my shoes?",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2016/03/shongololos-shoes_english_20160323_Page_11.jpg",
+        "sourceImageSha256": "0f0f8f525657fddab7381d91f13c9aded398cc910f3263359ee7e04745800888",
+        "imageWidth": 1575,
+        "imageHeight": 788
+      },
+      {
+        "sourcePageNumber": 8,
+        "sourceText": "Shoes, eh? You should ask the Monkeys.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2016/03/shongololos-shoes_english_20160323_Page_12.jpg",
+        "sourceImageSha256": "4252242733cb75955d32765716b77fd7c9c60a673264d4be4b27b31f035173c3",
+        "imageWidth": 1575,
+        "imageHeight": 788
+      },
+      {
+        "sourcePageNumber": 9,
+        "sourceText": "We’re busy. Go ask Owl, she knows everything! Hello hello?",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2016/03/shongololos-shoes_english_20160323_Page_13.jpg",
+        "sourceImageSha256": "44b6ec796d64aa6af0b98d625232d85a3f66b5047c297b6b327c6a34d2c19514",
+        "imageWidth": 1575,
+        "imageHeight": 788
+      },
+      {
+        "sourcePageNumber": 10,
+        "sourceText": "Hmm. I have an idea. Why don’t you ask Lion?",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2016/03/shongololos-shoes_english_20160323_Page_14.jpg",
+        "sourceImageSha256": "d76de923642e6f925128ba75f1263b1ebf38cbf22397af0c0dad223f27f16e34",
+        "imageWidth": 1575,
+        "imageHeight": 788
+      },
+      {
+        "sourcePageNumber": 11,
+        "sourceText": "These are yours? I’ll give them all back if you come to my party!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2016/03/shongololos-shoes_english_20160323_Page_15.jpg",
+        "sourceImageSha256": "050d04a8ab621becf843e5fbd1906231c0d9aea846d1f2e381883470fdea3681",
+        "imageWidth": 1575,
+        "imageHeight": 788
+      },
+      {
+        "sourcePageNumber": 12,
+        "sourceText": "",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2016/03/shongololos-shoes_english_20160323_Page_16.jpg",
+        "sourceImageSha256": "2b4c94ead2fddc671da788e62e6714400f52f60047aba0173da0435295241e34",
+        "imageWidth": 1579,
+        "imageHeight": 791
+      }
+    ],
+    "reviewedAt": "2026-10-21",
+    "includedSourceIndices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "excludedSourceIndices": [
+      0,
+      13
+    ]
+  },
+  {
+    "bookId": "lets-be-friends",
+    "sourceUrl": "https://bookdash.org/books/lets-be-friends/",
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Emma Bosman (Illustrator)",
+      "Murray Hunter (Writer)",
+      "Wilna Combrinck (Designer)",
+      "Ester Levinrad (Editor)"
+    ],
+    "sourceCover": "https://bookdash.org/wp-content/uploads/2022/05/lets-be-friends_en_20220529_cover.jpg",
+    "sourceCoverSha256": "d48e431ffa41dbc5cbdba2ad98e66bee5119d9fc98e8ea95d03155e959c00c3e",
+    "pages": [
+      {
+        "sourcePageNumber": 1,
+        "sourceText": "It’s time to make some friends!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2022/05/lets-be-friends_en_20220529_page4-scaled.jpg",
+        "sourceImageSha256": "9c2f8c9b948f6a2f6ebecd35086f8f43963abf4fa3776ac61cd21ad7868ec0f2",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 2,
+        "sourceText": "Making friends can be hard. But let’s try!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2022/05/lets-be-friends_en_20220529_page5-scaled.jpg",
+        "sourceImageSha256": "72999adf92dfbd25914a3963f721de72a7848db2f1ec39bbfe6a28cc12d4b75a",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 3,
+        "sourceText": "Hello! Hi! Do you like to swim? So do I!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2022/05/lets-be-friends_en_20220529_page6-scaled.jpg",
+        "sourceImageSha256": "0029d1184c719a71ae427259de4221e860e24dd0232bc36206bca750cbfdedd6",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 4,
+        "sourceText": "LET’S BE FRIENDS!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2022/05/lets-be-friends_en_20220529_page7-scaled.jpg",
+        "sourceImageSha256": "70be42e8d31908bebea9c287f22aebda4f897414b85a76f198e06888c6df8343",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 5,
+        "sourceText": "Oh dear.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2022/05/lets-be-friends_en_20220529_page8-scaled.jpg",
+        "sourceImageSha256": "c5a1c4cf9d45190a37b41444ef8ac23fce29afbcc4bec12610ccad5b9331b08c",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 6,
+        "sourceText": "Hello! Hi! Do you like seashells? So do I! LET’S BE FRIENDS!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2022/05/lets-be-friends_en_20220529_page9-scaled.jpg",
+        "sourceImageSha256": "8747e035bbf8e42b43a7ee02cbc86750bcb86640ad76e0110cb7da564fdf460c",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 7,
+        "sourceText": "Oh my.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2022/05/lets-be-friends_en_20220529_page10-scaled.jpg",
+        "sourceImageSha256": "fa1b61e1c1a8dbf52eb7ecd349c6bc0861a67b1cd13d076d41579c151fc0e5fe",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 8,
+        "sourceText": "Hello! Hi! Are you a fish? So am I! LET’S BE FRIENDS!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2022/05/lets-be-friends_en_20220529_page11-scaled.jpg",
+        "sourceImageSha256": "ccf8dfe94ea719a9e4e0e055a50438b0906c370846cb5a4e504fb141f2827a5a",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 9,
+        "sourceText": "Oh NO.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2022/05/lets-be-friends_en_20220529_page12-scaled.jpg",
+        "sourceImageSha256": "1d1645fb63bb672da6ce7ffe322e3c484cd8da9269f361ae43963051f4468f64",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 10,
+        "sourceText": "NOBODY wants to be my friend. Knock knock.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2022/05/lets-be-friends_en_20220529_page13-scaled.jpg",
+        "sourceImageSha256": "710f80f3185848ccef2adad74d7ec804f503179257e80870ac93504546727657",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 11,
+        "sourceText": "",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2022/05/lets-be-friends_en_20220529_page14-scaled.jpg",
+        "sourceImageSha256": "91fff65eecf860c8fd8dd53dc28615eff61db0ba6647aad4e0cbf13d3adfe4a1",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 12,
+        "sourceText": "LET’S BE FRIENDS!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2022/05/lets-be-friends_en_20220529_page15-scaled.jpg",
+        "sourceImageSha256": "15d05ea31743eb850bdc0efb48a9bea42e108c3960359ceffcb3fa001fbda4d2",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      }
+    ],
+    "reviewedAt": "2026-10-21",
+    "includedSourceIndices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "excludedSourceIndices": [
+      0,
+      13
+    ]
+  },
+  {
+    "bookId": "best-friends",
+    "sourceUrl": "https://bookdash.org/books/best-friends/",
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Julia Smuts Louw (Writer)",
+      "Katie Huston (Editor)",
+      "Penny Waterkeyn (Designer)",
+      "Gerhard van Wyk (Illustrator)"
+    ],
+    "sourceCover": "https://bookdash.org/wp-content/uploads/2025/10/best-friends_en_cover-1.jpg",
+    "sourceCoverSha256": "ec6b20d0753302fa65ff7b90cc0b070d2fc7839b6e2de5185785aac90acde969",
+    "pages": [
+      {
+        "sourcePageNumber": 1,
+        "sourceText": "Zindzi and Tim Tam were best friends. They did everything together.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2025/10/best-friends_en_page4-scaled.jpg",
+        "sourceImageSha256": "95ec0435a3d8613ba58a24f6f77b0c00c1b410af6eb018fea0fdc7282b0f96d4",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 2,
+        "sourceText": "‘Do you want to play dress-up?’ asked Oswin. ‘No thank you,’ said Zindzi. ‘I’ll play dress-up with Tim Tam.’",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2025/10/best-friends_en_page5-scaled.jpg",
+        "sourceImageSha256": "9274e84200b0788135f2f73f3c616a5d6b14541dfd238874f905f71c18376d85",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 3,
+        "sourceText": "‘Do you want to do a puzzle with me?’ asked Kaya. ‘No thank you,’ said Zindzi. ‘I like doing puzzles with Tim Tam.’",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2025/10/best-friends_en_page6-scaled.jpg",
+        "sourceImageSha256": "6277350e5aad39e6d949c60673d57bfe869e48f4aefab1c704bdf131759e9935",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 4,
+        "sourceText": "‘Do you want to join our scooter race?’ asked The Twins. ‘No thank you,’ said Zindzi. ‘I’ll race with Tim Tam.’",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2025/10/best-friends_en_page7-scaled.jpg",
+        "sourceImageSha256": "4fe7bb44706f46323280021be64fa72f74267727e23fc502cb37558b60042558",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 5,
+        "sourceText": "One day, Tim Tam didn’t come to school. ‘Tim Tam is sick,’ said Teacher. ‘Why don’t you play with your other friends, Zindzi?’",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2025/10/best-friends_en_page8-scaled.jpg",
+        "sourceImageSha256": "153f85117d7045af54093be7a7d2f3eefadeddebf4c291113dc13142c0e3901a",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 6,
+        "sourceText": "Oswin was making a Get Well Soon card for Tim Tam. ‘But... Tim Tam is MY best friend,’ said Zindzi.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2025/10/best-friends_en_page9-scaled.jpg",
+        "sourceImageSha256": "e808aefcc75a2f36d36e38b79e0f21ea0d3bb7b45aa0a59f64ffb1283334fc63",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 7,
+        "sourceText": "‘You can help me,’ said Oswin. ‘Dip dip, dab dab.’ ‘Dip dip, dab dab,’ said Zindzi.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2025/10/best-friends_en_page10-scaled.jpg",
+        "sourceImageSha256": "b7a0e4b888a9d0482fcf2d572336238990a7368b851c76c0d0f890053829e756",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 8,
+        "sourceText": "When the card was done, Oswin and Zindzi played dress-up. The next day, they played hopscotch with Kaya. The day after that, the three of them rode scooters with The Twins.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2025/10/best-friends_en_page11-scaled.jpg",
+        "sourceImageSha256": "fb361c962577f387344bf80d58a4296b03cb1d4c85f2b0b05f4e49f8f225ca5c",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 9,
+        "sourceText": "On Monday, Tim Tam came back to school. ‘Let’s go read a book with Oswin!’ said Zindzi.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2025/10/best-friends_en_page12-scaled.jpg",
+        "sourceImageSha256": "6cba040fe48b469fd5b75610b4b61511e3fe3130593031e31451753cb860f95f",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 10,
+        "sourceText": "‘Is Oswin your best friend now?’ asked Tim Tam. ‘He’s my NEW friend,’ said Zindzi. ‘He’s your friend too! Look, we made you a card.’",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2025/10/best-friends_en_page13-scaled.jpg",
+        "sourceImageSha256": "1d95ab2f1d685936d68502c15c28e79050b54ec16b097b3b2fe18143acf948ca",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 11,
+        "sourceText": "‘Should we all play together?’",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2025/10/best-friends_en_page14-scaled.jpg",
+        "sourceImageSha256": "a296608bc5412462f9dbe4076224abcf3e01b13adfe17e9cc3cf090dd82fdc6e",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 12,
+        "sourceText": "‘Okay,’ said Tim Tam. ‘Let’s all be best friends!’",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2025/10/best-friends_en_page15-scaled.jpg",
+        "sourceImageSha256": "2faa06323588f4c8390ce5724b703731c3fa7fadb21f201e2c959d1b70ea584c",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      }
+    ],
+    "reviewedAt": "2026-10-21",
+    "includedSourceIndices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "excludedSourceIndices": [
+      0,
+      13
+    ]
+  },
+  {
+    "bookId": "who-ate-my-hat",
+    "sourceUrl": "https://bookdash.org/books/who-ate-my-hat/",
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Griffin Shea (Writer)",
+      "Thembelihle Radebe (Designer)",
+      "El Marto (Illustrator)",
+      "Tiffany Mac Sherry (Editor)"
+    ],
+    "sourceCover": "https://bookdash.org/wp-content/uploads/2026/10/who-ate-my-hat_en_cover.jpg",
+    "sourceCoverSha256": "ae5baa17a99fb9e30f81a3c719a94ce032e89e8b6fd070211f6b91ca2b6f136a",
+    "pages": [
+      {
+        "sourcePageNumber": 1,
+        "sourceText": "I love my hat.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2026/10/who-ate-my-hat_en_page4-scaled.jpg",
+        "sourceImageSha256": "8327efc5ec3aa864fa6c1c8b8a248d5fd86107bfb07b5509177ef8495417dc5f",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 2,
+        "sourceText": "My hat was here. Who ate my hat?",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2026/10/who-ate-my-hat_en_page5-scaled.jpg",
+        "sourceImageSha256": "500fea46f9132005afec0482c718962eb077dd2d4d467bfab0301cdb64fae7e5",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 3,
+        "sourceText": "Did you eat my hat? I don’t eat hats. I crunch on carrots.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2026/10/who-ate-my-hat_en_page6-scaled.jpg",
+        "sourceImageSha256": "a7883d75b8fedfa5ab4cd51a5ec3f4b5aab86e41560c69ef70c3438e47612ffd",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 4,
+        "sourceText": "Did you eat my hat? I don’t eat hats. I nibble on nuts.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2026/10/who-ate-my-hat_en_page7-scaled.jpg",
+        "sourceImageSha256": "2fc367411379e3c6d1b83f143f487b1823d16a9c47609b69df5ba81611c2bacf",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 5,
+        "sourceText": "Did you eat my hat? I don’t eat hats. I munch on mangoes.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2026/10/who-ate-my-hat_en_page8-scaled.jpg",
+        "sourceImageSha256": "15ec5a6c728e1813f109e05c445edd437ec55901d4915911b89d9a7a7c41001c",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 6,
+        "sourceText": "Did you eat my hat? I don’t eat hats. I feast on flowers.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2026/10/who-ate-my-hat_en_page9-scaled.jpg",
+        "sourceImageSha256": "5fa3a71f29d81432338471db8c30f268559a915321255e7667ba367e55069764",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 7,
+        "sourceText": "That’s my hat! You ate my hat.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2026/10/who-ate-my-hat_en_page10-scaled.jpg",
+        "sourceImageSha256": "ab2712eb2d08549f4e1c90c14cc23eff6cac5e5351c5e208072199207cd89cd4",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 8,
+        "sourceText": "",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2026/10/who-ate-my-hat_en_page11-scaled.jpg",
+        "sourceImageSha256": "49b27546147e246992bffa492986c09230a96065b1896069d8381f1b042861de",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 9,
+        "sourceText": "I’m sorry. We can make a new hat.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2026/10/who-ate-my-hat_en_page12-scaled.jpg",
+        "sourceImageSha256": "53159fed6f808195f4bc9697f43dac983caafff750a65996d7f274d0d2881001",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 10,
+        "sourceText": "",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2026/10/who-ate-my-hat_en_page13-scaled.jpg",
+        "sourceImageSha256": "bf00d2643dd69a6daa6277ea75fb6acfa5c911d13db1bf086f033f56ee188a43",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 11,
+        "sourceText": "I love my new hat. I love my new hat too.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2026/10/who-ate-my-hat_en_page14-scaled.jpg",
+        "sourceImageSha256": "2ce037f7477c30635134d2f5f34a54785600a12736842141d3ec8fdea5291432",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 12,
+        "sourceText": "",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2026/10/who-ate-my-hat_en_page15-scaled.jpg",
+        "sourceImageSha256": "3b10eed6d3b35ae6d720f1042d9f2bb21ae9b4e5a8c03f5c9c024b03a38b23ef",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      }
+    ],
+    "reviewedAt": "2026-10-21",
+    "includedSourceIndices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "excludedSourceIndices": [
+      0,
+      13
+    ]
+  },
+  {
+    "bookId": "the-lost-laugh",
+    "sourceUrl": "https://bookdash.org/books/the-lost-laugh/",
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Wilna Combrinck (Designer)",
+      "Michelle Preen (Writer)",
+      "Karen Lilje (Illustrator)",
+      "Helen Moffett (Editor)"
+    ],
+    "sourceCover": "https://bookdash.org/wp-content/uploads/2018/01/the-lost-laugh_en_20181216_cover.jpg",
+    "sourceCoverSha256": "3765c0b554d06ef71f509d30cac297745b1918bfce183cbe55360b5b16005510",
+    "pages": [
+      {
+        "sourcePageNumber": 1,
+        "sourceText": "Spotty the Hyena is very sad. He has lost his laugh.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/01/the-lost-laugh_en_20181216_page4-scaled.jpg",
+        "sourceImageSha256": "f754efb7f5439674e6a949b75c3142fa462eec56021c134c41e70f2653c4d424",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 2,
+        "sourceText": "“Please help me find my laugh, Giraffe.” “I can’t hear a laugh up here.”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/01/the-lost-laugh_en_20181216_page5-scaled.jpg",
+        "sourceImageSha256": "a07ddcae669029457bc8c57403d98b31fe057f74e03d6c9e2662021a14033d9d",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 3,
+        "sourceText": "“Please help me find my laugh, Hippo.” “I can’t hear a laugh down here.”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/01/the-lost-laugh_en_20181216_page6-scaled.jpg",
+        "sourceImageSha256": "1de016fe05829fab6a795e63e340598dce53669ce28c9bccff48cc624433ee11",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 4,
+        "sourceText": "“Please help me find my laugh, Warthog.” “I can’t hear a laugh in here.”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/01/the-lost-laugh_en_20181216_page7-scaled.jpg",
+        "sourceImageSha256": "52d116a2c7e56213d708a45e7c5637d0dd45e1cfe9ccafded65c71be14c348c6",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 5,
+        "sourceText": "“Please help me find my laugh, Monkey.” “How did you lose it?”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/01/the-lost-laugh_en_20181216_page8-scaled.jpg",
+        "sourceImageSha256": "4af1c4aa0246afc2fafb40c46269fc1413502ddf231fde6fe17d265356b95496",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 6,
+        "sourceText": "“When I laugh, you can see my big teeth. That makes everyone frightened,” said Spotty. “Then I got sad and my laugh just disappeared.”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/01/the-lost-laugh_en_20181216_page9-scaled.jpg",
+        "sourceImageSha256": "a4a9bf907962841ca3ca82d1fd3c882916cc6a9ebf8935d75394b48e779bc189",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 7,
+        "sourceText": "“I can’t find it anywhere.” “But you were looking in the wrong place.”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/01/the-lost-laugh_en_20181216_page10-scaled.jpg",
+        "sourceImageSha256": "37d84a6c325e76692b8704aca3696ed44386bf83473611138230e14cf447d9d9",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 8,
+        "sourceText": "Monkey jumped out of the tree and picked up a feather. Then she began to tickle Spotty all over.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/01/the-lost-laugh_en_20181216_page11-scaled.jpg",
+        "sourceImageSha256": "3a36fa72a16fdc14782c23549da3489e8218db8ac591b2af3a95f190c59e23d5",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 9,
+        "sourceText": "Slowly Spotty started smiling, and then he let out a big, loud laugh. He laughed and laughed until he was rolling around on the ground.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/01/the-lost-laugh_en_20181216_page12-scaled.jpg",
+        "sourceImageSha256": "ba35bb1f88465a82d2744989b8af8d72c4bf8ce2596e42903b60b95c7d09ddcc",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 10,
+        "sourceText": "All the other animals started laughing too.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/01/the-lost-laugh_en_20181216_page13-scaled.jpg",
+        "sourceImageSha256": "b55bbc827ec57f324e3fff7d58f5226316c183933b8c42582c83bea562c1457e",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 11,
+        "sourceText": "“Where did you find his laugh?” they asked. “His laugh was inside him all the time. I just made him happy and out it came.”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/01/the-lost-laugh_en_20181216_page14-scaled.jpg",
+        "sourceImageSha256": "0d1c8c9e60f38cb62341c04d36b328d725a66c1c2bae33c662918778e6f04bb5",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 12,
+        "sourceText": "“I’ll never lose my laugh again,” said Spotty the happy Hyena. They all laughed and laughed so that their teeth showed too.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/01/the-lost-laugh_en_20181216_page15-scaled.jpg",
+        "sourceImageSha256": "6908852f2c443a0bb2506f69ffa037343625801f854b8f7e3465414364a5aed8",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      }
+    ],
+    "reviewedAt": "2026-10-21",
+    "includedSourceIndices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "excludedSourceIndices": [
+      0,
+      13
+    ]
+  },
+  {
+    "bookId": "mrs-penguins-perfect-palace",
+    "sourceUrl": "https://bookdash.org/books/mrs-penguins-perfect-palace/",
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Jennifer Jacobs (Designer)",
+      "Helen Brain (Writer)",
+      "Celeste (Illustrator)"
+    ],
+    "sourceCover": "https://bookdash.org/wp-content/uploads/2016/05/mrs-penguins-perfect-palace_en_20181215_cover.jpg",
+    "sourceCoverSha256": "470bf8029f414b274909ff3a73c94cd022927a37a8cb22cef1579629fbc7c6b2",
+    "pages": [
+      {
+        "sourcePageNumber": 1,
+        "sourceText": "“I wish I had a HOUSE!” said Mrs Penguin. “I don’t like living in rubbish.” “Dear Mrs Penguin,” said Papa Penguin. “We will build you a palace.”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2016/05/mrs-penguins-perfect-palace_en_20181215_page4-scaled.jpg",
+        "sourceImageSha256": "7de05d8270ea3c3c7d502deb23e020cff0c075d847d666f031e65fb662ea5e6d",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 2,
+        "sourceText": "So the Penguin family set to work. “The sand is making me itch,” grumbled Sissie. “I’m hungry,” said Gobbles. “The measurements are wrong,” said Boetie. Mrs Penguin sighed. She was doing all the work.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2016/05/mrs-penguins-perfect-palace_en_20181215_page5-scaled.jpg",
+        "sourceImageSha256": "a907249f0eb66de828504796dac8c660e105c5f924167342b95a81ccba3d2fef",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 3,
+        "sourceText": "At last the castle was finished. But the tide came in and washed it away. “We’ll try again,” said Papa Penguin.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2016/05/mrs-penguins-perfect-palace_en_20181215_page6-scaled.jpg",
+        "sourceImageSha256": "180fcc370d1e98d535f5cf26c07b95d819fa6baaec60eeac92f04d6d97c4d96a",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 4,
+        "sourceText": "“Come children, we’ll build Mama a mansion from stone.” So the Penguin family set to work.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2016/05/mrs-penguins-perfect-palace_en_20181215_page7-scaled.jpg",
+        "sourceImageSha256": "b9ece6b158e7e802878a536c42757c4e958d4aed171ab75d38c8698f267e75dd",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 5,
+        "sourceText": "“The stones are heavy,” grumbled Sissie. “I’m still hungry,” said Gobbles. “The measurements are wrong,” said Boetie.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2016/05/mrs-penguins-perfect-palace_en_20181215_page8-scaled.jpg",
+        "sourceImageSha256": "25194cb4d7981cf64118a6f7d336131d2833f9af14c5daaacdfc8378ebb57fc3",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 6,
+        "sourceText": "At last it was finished. But the wind came up and blew it over. Mrs Penguin was cross. “I’m not doing any more work,” she said.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2016/05/mrs-penguins-perfect-palace_en_20181215_page9-scaled.jpg",
+        "sourceImageSha256": "234b720ae77a71ba647d6d3bf729b384049722b3f8b25990f884bc61b61d07ac",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 7,
+        "sourceText": "“We’ll try again,” said Papa. “I can’t think of anything,” said Sisi. “It’s too hard.” “We haven’t got any cement,” said Boetie. “You can’t build a proper house without cement.” “I’m hungry,” said Gobbles. Mrs Penguin sighed. She was never going to get her home.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2016/05/mrs-penguins-perfect-palace_en_20181215_page10-scaled.jpg",
+        "sourceImageSha256": "a04a740df0df56bd01d133626a1667ef09a5b49b371d6e75b5d91045ff9857d3",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 8,
+        "sourceText": "“Just look at all this mess,” she said. Then Mrs Penguin had an idea.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2016/05/mrs-penguins-perfect-palace_en_20181215_page11-scaled.jpg",
+        "sourceImageSha256": "4f45555318f8f5061e98321ea6e5e6877299bbfb027685e2034989aef3b1eb7e",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 9,
+        "sourceText": "“Boetie, fetch wood,” she said. “Sissie, find nets.” “Gobbles, pick up plastic. Papa, fetch the hammer.” All day they worked.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2016/05/mrs-penguins-perfect-palace_en_20181215_page12-scaled.jpg",
+        "sourceImageSha256": "8a5459600e8dfd2190e30cbab6a881af6aa54c8709919d8d5091cb016ad625e3",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 10,
+        "sourceText": "“I’m tired,” said Sissie. “Keep working,” said Mama. “The measurements are wrong,” said Boetie. “Keep working,” said Mama. “I’m still hungry,” said Gobbles. “Keep working,” said Mama.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2016/05/mrs-penguins-perfect-palace_en_20181215_page13-scaled.jpg",
+        "sourceImageSha256": "9dd8890ccd7737e96651ac42f6becec616cae26a025965a85ffc992efadcbe85",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 11,
+        "sourceText": "“It’s going to be wonderful,” said Papa. “You’re doing a good job,” said Mama. So they worked and worked and worked and worked... and at last the house was finished.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2016/05/mrs-penguins-perfect-palace_en_20181215_page14-scaled.jpg",
+        "sourceImageSha256": "65de94f4b311b582a6debf02b95d8c1712a93bd4c93b91550a75b650af9033b8",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 12,
+        "sourceText": "“Welcome to your palace,” said Papa. Mrs Penguin clapped her flippers. “Thank you,” she said. “It’s Mrs Penguin’s Perfect Palace.”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2016/05/mrs-penguins-perfect-palace_en_20181215_page15-scaled.jpg",
+        "sourceImageSha256": "be25e3a00c41d5033236044bdf021915379e0c39cdbba6afce60d5558f968f08",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      }
+    ],
+    "reviewedAt": "2026-10-21",
+    "includedSourceIndices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "excludedSourceIndices": [
+      0,
+      13
+    ]
+  },
+  {
+    "bookId": "feathered-friends",
+    "sourceUrl": "https://bookdash.org/books/feathered-friends/",
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Steph Pretorius (Designer)",
+      "Jacqui L’Ange (Writer)",
+      "Helen Moffett (Editor)",
+      "Daniela Hammond (Illustrator)"
+    ],
+    "sourceCover": "https://bookdash.org/wp-content/uploads/2018/01/feathered-friends_20180117_cover.jpg",
+    "sourceCoverSha256": "e7d130e7a2a4ff1cac0b06ebf28ea9c5bb92c59132646d1a69440662a5c62ff2",
+    "pages": [
+      {
+        "sourcePageNumber": 3,
+        "sourceText": "We are the oakum boys. We do everything together.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/01/feathered-friends_20180117_page4.jpg",
+        "sourceImageSha256": "b326454c4da1fd4637e49a97e7a2f72ef536193b6bb4534dbb573ec486ad9249",
+        "imageWidth": 1134,
+        "imageHeight": 567
+      },
+      {
+        "sourcePageNumber": 4,
+        "sourceText": "Penguins don’t fly, they swim. But we’re too young to swim. So we walk.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/01/feathered-friends_20180117_page5.jpg",
+        "sourceImageSha256": "a92d2cd618b2ff4b210ed479fe7ca8333947300ba1ade2726b0f6b4688932a5e",
+        "imageWidth": 1134,
+        "imageHeight": 567
+      },
+      {
+        "sourcePageNumber": 5,
+        "sourceText": "One day we went for a long walk. We walked and walked. Until we saw something new.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/01/feathered-friends_20180117_page6.jpg",
+        "sourceImageSha256": "b07df3eb03e1d024b6c495af9635fb8ec3dae818ffbe8986043a0429e0c7a162",
+        "imageWidth": 1134,
+        "imageHeight": 567
+      },
+      {
+        "sourcePageNumber": 6,
+        "sourceText": "",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/01/feathered-friends_20180117_page7.jpg",
+        "sourceImageSha256": "e924913f129fc49484d5cb74871c3fe89343c91608a55d6feb7a9850bf91b4f8",
+        "imageWidth": 1134,
+        "imageHeight": 567
+      },
+      {
+        "sourcePageNumber": 7,
+        "sourceText": "He’s got something on his head!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/01/feathered-friends_20180117_page8.jpg",
+        "sourceImageSha256": "b42ffe16c4b237de9ac2fe7202f6f3b00c983e63fddc36b73427dd50bbe641cb",
+        "imageWidth": 1134,
+        "imageHeight": 567
+      },
+      {
+        "sourcePageNumber": 8,
+        "sourceText": "",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/01/feathered-friends_20180117_page9.jpg",
+        "sourceImageSha256": "bf8ccc0c54ba16b297ae7828f4499a6f2701d1bc0082484773f4363c2664c5f1",
+        "imageWidth": 1134,
+        "imageHeight": 567
+      },
+      {
+        "sourcePageNumber": 9,
+        "sourceText": "You’re changing! So are you!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/01/feathered-friends_20180117_page10.jpg",
+        "sourceImageSha256": "2521e03bc83e2d32e0f2aef1fd6947262fe67cc56ecfc4e8f5ae8b909f35e761",
+        "imageWidth": 1134,
+        "imageHeight": 567
+      },
+      {
+        "sourcePageNumber": 10,
+        "sourceText": "",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/01/feathered-friends_20180117_page11.jpg",
+        "sourceImageSha256": "a753421e52eda0a5ec5bdb131b4e20e3658defac9f0e7b83eb6d38197e336021",
+        "imageWidth": 1134,
+        "imageHeight": 567
+      },
+      {
+        "sourcePageNumber": 11,
+        "sourceText": "It’s not so bad! It’s not so cold!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/01/feathered-friends_20180117_page12.jpg",
+        "sourceImageSha256": "f9c69a0eb46af80d8b8d236bd6dcf491ce8d84e5fb7f1e6e3fbe5ea78385e594",
+        "imageWidth": 1134,
+        "imageHeight": 567
+      },
+      {
+        "sourcePageNumber": 12,
+        "sourceText": "But who’s going to teach us to swim? I will!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/01/feathered-friends_20180117_page13.jpg",
+        "sourceImageSha256": "9f24cccc47542ad2976960bea9566bc3d69cd4d6a96dae6d505e1b1a74c8cb53",
+        "imageWidth": 1134,
+        "imageHeight": 567
+      },
+      {
+        "sourcePageNumber": 13,
+        "sourceText": "",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/01/feathered-friends_20180117_page14.jpg",
+        "sourceImageSha256": "dfdf002a5e32000f53141d2eb88ef65fea1c3877eadd9331aac6ff0fde6ee4fd",
+        "imageWidth": 1134,
+        "imageHeight": 567
+      },
+      {
+        "sourcePageNumber": 14,
+        "sourceText": "",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/01/feathered-friends_20180117_page15.jpg",
+        "sourceImageSha256": "2ca16b5ecf92e09e003b590d92ec88b08629f8adf1928e36a19b3f5f3008ac97",
+        "imageWidth": 1134,
+        "imageHeight": 567
+      },
+      {
+        "sourcePageNumber": 15,
+        "sourceText": "In this book you’ll meet king penguins, chinstrap penguins, and one lonely macaroni ... as seen through the eyes of the oakum boys, which are what king penguin babies are before they grow up. All of these penguin species (and a few more) are found in Antarctica, the coldest, driest, windiest place on earth. It takes some very special qualities to survive in this harsh landscape. But if you are lucky enough to visit here, you will find that no matter how alike the penguins seem, each one is different – and all of them are special. We hope that by learning about these amazing animals, future generations will want to protect them as much as we do.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/01/feathered-friends_20180117_page17.jpg",
+        "sourceImageSha256": "2b8ca08c0a404325d63fe165f396777d53f58e7f3c78ca5e5e81aecde78519d7",
+        "imageWidth": 567,
+        "imageHeight": 567
+      }
+    ],
+    "reviewedAt": "2026-10-21",
+    "includedSourceIndices": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "excludedSourceIndices": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "bookId": "whats-happened-to-our-water",
+    "sourceUrl": "https://bookdash.org/books/whats-happened-to-our-water/",
+    "license": "CC-BY-4.0",
+    "creators": [
+      "SODAAA (Designer)",
+      "Sue Adams (Writer)",
+      "Angela Briggs (Editor)",
+      "Megan Naudé (Illustrator)"
+    ],
+    "sourceCover": "https://bookdash.org/wp-content/uploads/2025/10/whats-happened-to-our-water_en_cover-1.jpg",
+    "sourceCoverSha256": "0c1591419877072bcd9b326065d75f3d1a81de5a191a002fe164090ece028e20",
+    "pages": [
+      {
+        "sourcePageNumber": 1,
+        "sourceText": "Mfubu, the hippo, lives in his huge pool of water. I love wallowing and diving! SPLISH SPLOSH!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2025/10/whats-happened-to-our-water_en_page4-scaled.jpg",
+        "sourceImageSha256": "603245fe164940e14619607181c2d896b36eaafe8f23621a86d01dea7dcd1504",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 2,
+        "sourceText": "But now there is a big problem. The water is so dirty, I can’t see. Look at all this scum!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2025/10/whats-happened-to-our-water_en_page5-scaled.jpg",
+        "sourceImageSha256": "d1d94d8fcb7eb290c2e7a8d25d2115ca2778fe70b46d292087c6a0172569bd7f",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 3,
+        "sourceText": "I feel sad. I need my friends to help me find the problem. SPLISH SPLOSH! YUCK!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2025/10/whats-happened-to-our-water_en_page6-scaled.jpg",
+        "sourceImageSha256": "fa76310398d75763ee4e9ecb3d0883f2794b11b87a3274742c96d5b3025c60b4",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 4,
+        "sourceText": "First he finds Hoppy Heron. She is sad too. The water is so smelly! The fish are dying! I have nothing to eat!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2025/10/whats-happened-to-our-water_en_page7-scaled.jpg",
+        "sourceImageSha256": "da8c9661f6868978c7e658fad6cf9cfe637013f016e1890b4928e386fccf9ee1",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 5,
+        "sourceText": "Let’s go up the river to see if we can find the problem. HOP FLAP! EW! SPLISH SPLOSH! YUCK!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2025/10/whats-happened-to-our-water_en_page8-scaled.jpg",
+        "sourceImageSha256": "1e18624ba126a2aca1637fe8122a31b0220d5dfb9f9cd7392773862fa91601ee",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 6,
+        "sourceText": "They meet Jambo, the elephant. He is looking miserable. The water tastes so horrible, I can’t drink it.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2025/10/whats-happened-to-our-water_en_page9-scaled.jpg",
+        "sourceImageSha256": "48ff5496bde0faec59c2ffe7003c7fbf88ab4321385375506a3da4ce2e622de0",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 7,
+        "sourceText": "Let’s go up the river to see if we can find the problem. SPURT SPRAY! ICK! HOP FLAP! EW! SPLISH SPLOSH! YUCK!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2025/10/whats-happened-to-our-water_en_page10-scaled.jpg",
+        "sourceImageSha256": "953567cd085646d0d29aff42b95d0d881d72d21d7532b53bac1dbce65d1ba857",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 8,
+        "sourceText": "When they get near where the people live, they stop and stare. It’s the people polluting the river. YUCK!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2025/10/whats-happened-to-our-water_en_page11-scaled.jpg",
+        "sourceImageSha256": "7d2a91280fe3eba394f309159442a6bf6ef1abb106bc06edc3b908d21e21d756",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 9,
+        "sourceText": "Hello! Why do you look so sad? Your stinky mess is making our river dirty! It makes us sick.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2025/10/whats-happened-to-our-water_en_page12-scaled.jpg",
+        "sourceImageSha256": "88585fa2836b839d440e255fca327e63de9da7e107528e97eba2e23194cb7766",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 10,
+        "sourceText": "We’re so sorry! We must get help to fix this. KWAAAK!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2025/10/whats-happened-to-our-water_en_page13-scaled.jpg",
+        "sourceImageSha256": "bd1eed7e0b9fc6f15d0abd62d147d7e0f0caf54da9519324f15a0dd0cda39d3c",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 11,
+        "sourceText": "It’s getting late... and the animals are tired. The pipe is fixed and the litter is gone. And now we can go home. SPLISH SPLOSH! HOP FLAP! SPURT SPRAY!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2025/10/whats-happened-to-our-water_en_page14-scaled.jpg",
+        "sourceImageSha256": "ffbe541c5a5c9434ee4700353594d4db75a787e1019e65da331d3d2098db7bc4",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 12,
+        "sourceText": "Guess what? The pool is already cleaner. Guess what? The water already smells better. Guess what? The water already tastes cleaner. It’s been a good day.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2025/10/whats-happened-to-our-water_en_page15-scaled.jpg",
+        "sourceImageSha256": "184040ae9e3b096ef521a3079f636fd5867bc4e5ff4fed5992f12e9f0973ae30",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      }
+    ],
+    "reviewedAt": "2026-10-21",
+    "includedSourceIndices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "excludedSourceIndices": [
+      0,
+      13
+    ]
+  },
+  {
+    "bookId": "egg",
+    "sourceUrl": "https://bookdash.org/books/egg/",
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Nabeela Kalla (Editor)",
+      "Mirna Lawrence (Writer)",
+      "Megan Naudé (Illustrator)",
+      "Georgia Demertzis (Designer)"
+    ],
+    "sourceCover": "https://bookdash.org/wp-content/uploads/2020/11/egg_en_20201023_cover-1.jpg",
+    "sourceCoverSha256": "fde60db776be6fbefef69eda025ca9795f53d9e732a3334dd946e93533dbab3e",
+    "pages": [
+      {
+        "sourcePageNumber": 1,
+        "sourceText": "Egg",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2020/11/egg_en_20201023_page4-scaled.jpg",
+        "sourceImageSha256": "df08fc8d98d980b09b2c07b59cc96026342eefeb4ac5e1a3f63c2aa65903dc8f",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 2,
+        "sourceText": "My egg?",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2020/11/egg_en_20201023_page5-scaled.jpg",
+        "sourceImageSha256": "b2a14d2f14f75a83483273f6168a22bd81c930d85e8cc23c5e2453ec26509c33",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 3,
+        "sourceText": "Not my egg.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2020/11/egg_en_20201023_page6-scaled.jpg",
+        "sourceImageSha256": "a1c260c26cdb2c5dbbd0314001f703c9c8c39711cac1550591c1766c45d1f785",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 4,
+        "sourceText": "My egg?",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2020/11/egg_en_20201023_page7-scaled.jpg",
+        "sourceImageSha256": "bef2170d712ad18618678fbd88b3d8190c4b1b337788e7f772e77f909a57ba5f",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 5,
+        "sourceText": "Not my egg.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2020/11/egg_en_20201023_page8-scaled.jpg",
+        "sourceImageSha256": "d95105ebc38acf4d7efb1d48a2b23e1d8d95d339bc8fde704c9a0c612af7fa5c",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 6,
+        "sourceText": "My egg?",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2020/11/egg_en_20201023_page9-scaled.jpg",
+        "sourceImageSha256": "58eabd7f1a808ab584e9bae702cc91a4d5477d00a2fdee87eeaa2a0a4466bd18",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 7,
+        "sourceText": "Not my egg.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2020/11/egg_en_20201023_page10-scaled.jpg",
+        "sourceImageSha256": "70a698e44bb22fedb4521664e1b0692954cf07132dc77cf34b674423d3169413",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 8,
+        "sourceText": "My egg?",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2020/11/egg_en_20201023_page11-scaled.jpg",
+        "sourceImageSha256": "eafe678c3654d4d6439ec221df9c56b51ccfe8489720553e345b374e1817215a",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 9,
+        "sourceText": "Not my egg.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2020/11/egg_en_20201023_page12-scaled.jpg",
+        "sourceImageSha256": "566e88b8b69f88db20d633a3506b95e824d17a0e095bda96e0a378f4cf650c02",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 10,
+        "sourceText": "My egg.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2020/11/egg_en_20201023_page13-scaled.jpg",
+        "sourceImageSha256": "9919886e372345672b012eb176f69bfa72760150e98f75df25733184be54f492",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 11,
+        "sourceText": "Our egg.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2020/11/egg_en_20201023_page14-scaled.jpg",
+        "sourceImageSha256": "e467d41d991186e918f4e282adbb910cea548ed27139b3b8d61293f112fba8d9",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 12,
+        "sourceText": "",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2020/11/egg_en_20201023_page15-scaled.jpg",
+        "sourceImageSha256": "990885469ee0bf97a96166e97c4cce10a40398ec6e2ab08fce4de3e532bf2cb2",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      }
+    ],
+    "reviewedAt": "2026-10-21",
+    "includedSourceIndices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "excludedSourceIndices": [
+      0,
+      13
+    ]
+  },
+  {
+    "bookId": "the-best-nest",
+    "sourceUrl": "https://bookdash.org/books/the-best-nest/",
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Megan Naudé (Illustrator)",
+      "Ashlyn Atkinson (Designer)",
+      "David Mann (Editor)",
+      "Crystal Warren (Writer)"
+    ],
+    "sourceCover": "https://bookdash.org/wp-content/uploads/2021/10/the-best-nest_en_20210929_cover.jpg",
+    "sourceCoverSha256": "a90b1607101a1f98a18c4bd2feebb11adc1dc45449709149f878d780b7faf746",
+    "pages": [
+      {
+        "sourcePageNumber": 1,
+        "sourceText": "Blue Bird is bored. “I am tired of this nest,” he says. “We need a new home.”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2021/10/the-best-nest_en_20210929_page4-scaled.jpg",
+        "sourceImageSha256": "a27b94b1d6e97ccb298d8ec4790879d6a8cda4144f7094d22484dd0683b904e2",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 2,
+        "sourceText": "“If you insist,” says Brown Bird. “But I am not moving unless the new nest is better than the one that we have now.” “Oh yes,” says Blue Bird. “It will be a great nest. I will find the best nest ever!”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2021/10/the-best-nest_en_20210929_page5-scaled.jpg",
+        "sourceImageSha256": "30931094f90b34b165e3ba29e5f27a254c77310017b532b8a9529681b999c669",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 3,
+        "sourceText": "“Look at this lovely nest! It is soft and cosy. And we can each have our own bed. This is the best nest for us.”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2021/10/the-best-nest_en_20210929_page6-scaled.jpg",
+        "sourceImageSha256": "c5d099c314f85f4f9bfc37f0dffdc105315d1ba67dec7c8f67cbdca224e630c0",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 4,
+        "sourceText": "But it isn’t!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2021/10/the-best-nest_en_20210929_page7-scaled.jpg",
+        "sourceImageSha256": "80ceb10a0d8809f605f16b08941a8ec1feec2364c55ee6a4e03fe49d1cb3a463",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 5,
+        "sourceText": "“Look at this beautiful nest. It is so bright and colourful. This is the very best nest.”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2021/10/the-best-nest_en_20210929_page8-scaled.jpg",
+        "sourceImageSha256": "dacbcafce7d048025fc93c511c0b833aa11545691d407c92badd7964c04d1462",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 6,
+        "sourceText": "But it isn’t!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2021/10/the-best-nest_en_20210929_page9-scaled.jpg",
+        "sourceImageSha256": "a7f3aa424eb0a54aa77ce5480af94bbfa5bbeebe320101cc8b1ffc1dbb1ad4f1",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 7,
+        "sourceText": "“Look at this shiny nest. See how it sparkles. This is the best nest yet.”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2021/10/the-best-nest_en_20210929_page10-scaled.jpg",
+        "sourceImageSha256": "a9e9e854fc8ffd0a287f8967061fefe377547bc7d76ef5fc30e6fcb19d3aaa2d",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 8,
+        "sourceText": "But it isn’t!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2021/10/the-best-nest_en_20210929_page11-scaled.jpg",
+        "sourceImageSha256": "2f98cc3d3fa201cd6e1249d7edb417fb19d4a2c8253e368c000afc8c23bffca4",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 9,
+        "sourceText": "“Look at this large nest! It even has its own door. This is the best nest of all.”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2021/10/the-best-nest_en_20210929_page12-scaled.jpg",
+        "sourceImageSha256": "d61666a3ec7984b90e7d034154dd94a8a9845f074a6972f53db707fbf8816b6b",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 10,
+        "sourceText": "But it isn’t!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2021/10/the-best-nest_en_20210929_page13-scaled.jpg",
+        "sourceImageSha256": "8898790c96a8c5e8509636b22c91c10c391f9e3cb9219abd714b3d0ed3c1004b",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 11,
+        "sourceText": "“Look at this nest. See how well it has been built. This is the best nest ever.”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2021/10/the-best-nest_en_20210929_page14-scaled.jpg",
+        "sourceImageSha256": "70f64b210aaad006dbf1aa423cd7ceadd55a557253bef3eef7419bd4924f75ec",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 12,
+        "sourceText": "“Yes, it is,” says Brown Bird.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2021/10/the-best-nest_en_20210929_page15-scaled.jpg",
+        "sourceImageSha256": "82180235a11510a12a6e148455be83d9fe41b25407aa6a2684189b104fee11ab",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      }
+    ],
+    "reviewedAt": "2026-10-21",
+    "includedSourceIndices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "excludedSourceIndices": [
+      0,
+      13
+    ]
+  },
+  {
+    "bookId": "tortoise-finds-his-home",
+    "sourceUrl": "https://bookdash.org/books/tortoise-finds-his-home/",
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Katrin Coetzer (Illustrator)",
+      "Damian Gibbs (Designer)",
+      "Maya Fowler (Writer)"
+    ],
+    "sourceCover": "https://bookdash.org/wp-content/uploads/2014/11/tortoise-finds-his-home_english_pdf-ebook_cover_20150920.jpg",
+    "sourceCoverSha256": "5045648d82dcd93c72813590b0b2f156efecf914d1a745d7374ac6e065ebe984",
+    "pages": [
+      {
+        "sourcePageNumber": 1,
+        "sourceText": "One day Tortoise was walking through the veld. He was looking and looking. He gazed into the distance and squinted at the grass. Then he went past Snail. “Are you looking for something?” Snail asked. “Yes, Snail, I’m looking for my house. Have you seen it, by any chance?”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2014/11/tortoise-finds-his-home_english_interior-spreads_201411264.jpg",
+        "sourceImageSha256": "dbea2941e009a1c547d1dfd818cb18691c823d8a910f1dca4b18b5c48828ef6f",
+        "imageWidth": 4725,
+        "imageHeight": 2363
+      },
+      {
+        "sourcePageNumber": 2,
+        "sourceText": "Snail said: “No, I haven’t, but I’ll help you look!” She climbed onto Tortoise’s shell. Tortoise walked on with Snail on his back. They looked and looked, but there was no sign of a house. The sun was high in the sky.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2014/11/tortoise-finds-his-home_english_interior-spreads_201411265.jpg",
+        "sourceImageSha256": "ff8983d4919cd3c26e7ce60ac9d3085b8d9fd747731cd3f28769c1c3167dc42f",
+        "imageWidth": 4725,
+        "imageHeight": 2363
+      },
+      {
+        "sourcePageNumber": 3,
+        "sourceText": "A little later they passed Sparrow. “Are you looking for something?” asked Sparrow. “Yes, Sparrow, I’m looking for my house. Have you seen it, by any chance?” Sparrow said: “No, I haven’t, but I’ll help you look!”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2014/11/tortoise-finds-his-home_english_interior-spreads_201411266.jpg",
+        "sourceImageSha256": "9dd02f8cbcf393bf6b7d9fa77c509cd8baeccf98778b3a1916143c35daed1005",
+        "imageWidth": 4725,
+        "imageHeight": 2363
+      },
+      {
+        "sourcePageNumber": 4,
+        "sourceText": "He flapped his wings and he whizzed away. “But you’re going too fast for me,” complained Tortoise. Sparrow came back. “Alright, then I’ll hop on too.” Tortoise carried on, with Snail and Sparrow perched on his shell. They looked and looked, but there was no sign of a house. The sun had inched lower in the sky.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2014/11/tortoise-finds-his-home_english_interior-spreads_201411267.jpg",
+        "sourceImageSha256": "eb283768b904d425050da76b1eb443b9e10504ed20b7debfa3edbc4feb0874b6",
+        "imageWidth": 4725,
+        "imageHeight": 2363
+      },
+      {
+        "sourcePageNumber": 5,
+        "sourceText": "A little later they passed Ladybird. “Are you looking for something?” asked Ladybird. “Yes, Ladybird, I’m looking for my house. Have you seen it, by any chance?”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2014/11/tortoise-finds-his-home_english_interior-spreads_201411268.jpg",
+        "sourceImageSha256": "c51f15130046d185eb07fae68ddb0a3f4b8010555d8e24dfebc25ea29e8b19b8",
+        "imageWidth": 4725,
+        "imageHeight": 2363
+      },
+      {
+        "sourcePageNumber": 6,
+        "sourceText": "Ladybird said: “No, I haven’t, but I’ll help you look!” She hopped onto Tortoise’s back and on he went, with Snail and Sparrow and Ladybird sitting on his back. They looked and looked, but there was no sign of a house. A breeze started to blow.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2014/11/tortoise-finds-his-home_english_interior-spreads_201411269.jpg",
+        "sourceImageSha256": "21c2f9010475032584f127f67ca73ee28c7a96d6500335ae7912155203f63c30",
+        "imageWidth": 4725,
+        "imageHeight": 2363
+      },
+      {
+        "sourcePageNumber": 7,
+        "sourceText": "A little later they passed Mouse. He was making a garland of daisies. “Are you looking for something?” asked Mouse. “Yes, Mouse, I’m looking for my house. Have you seen it, by any chance?”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2014/11/tortoise-finds-his-home_english_interior-spreads_2014112610.jpg",
+        "sourceImageSha256": "485d9e018800fe28888232cb6d2767eb96c1c315e4eef786c30961a9f7fe7155",
+        "imageWidth": 4725,
+        "imageHeight": 2363
+      },
+      {
+        "sourcePageNumber": 8,
+        "sourceText": "Mouse said: “No, I haven’t, but I’ll help you look!” He hopped onto Tortoise’s back. “Wait, I can’t leave my flowers behind.” Tortoise waited. Mouse stretched and stretched and scooped up his daisies. Tortoise walked on, with Snail and Sparrow and Ladybird and Mouse on his back. They looked and looked, but there was no sign of a house. The wind swept leaves off the ground and swirled them around Tortoise’s feet. Tortoise got tired. “You lot are heavy,” he sighed.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2014/11/tortoise-finds-his-home_english_interior-spreads_2014112611.jpg",
+        "sourceImageSha256": "6f4bf7f62f0fd393d1ec54e6321e54f8607ca3f27b2d824446b131049cb76f65",
+        "imageWidth": 4725,
+        "imageHeight": 2363
+      },
+      {
+        "sourcePageNumber": 9,
+        "sourceText": "The wind got stronger. The sky turned dark. “Oh, where is my house?” asked Tortoise. Thunder roared in the hills. Lightning flashed in the distance. Drip-drip came the rain. “Oh, where is Tortoise’s house?” asked Snail and Sparrow and Ladybird and Mouse.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2014/11/tortoise-finds-his-home_english_interior-spreads_2014112612.jpg",
+        "sourceImageSha256": "aa8af88eb46b72b0ba964ef94e83f500525ca8cd5e50c149984a598a2c1b29b7",
+        "imageWidth": 4725,
+        "imageHeight": 2363
+      },
+      {
+        "sourcePageNumber": 10,
+        "sourceText": "The wind whirled and whipped. It blew Snail and Sparrow and Ladybird and Mouse right off Tortoise’s back.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2014/11/tortoise-finds-his-home_english_interior-spreads_2014112613.jpg",
+        "sourceImageSha256": "b231c3fbee6de0d13f9ad75ab3de311ccaeebbacf1245b04a0fabdb65c687de8",
+        "imageWidth": 4725,
+        "imageHeight": 2363
+      },
+      {
+        "sourcePageNumber": 11,
+        "sourceText": "And then came the hail, tip-tip-tip. Tortoise got such a fright he shrank into his shell. It was warm and cosy in there. “Oh, here is my house!”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2014/11/tortoise-finds-his-home_english_interior-spreads_2014112614.jpg",
+        "sourceImageSha256": "c16c78a0191b87b0f9d8508db72b82f3cde9b2bb85fe3b86ef9c95afbd8fcf63",
+        "imageWidth": 4725,
+        "imageHeight": 2363
+      },
+      {
+        "sourcePageNumber": 12,
+        "sourceText": "“Oh, here is Tortoise’s house!”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2014/11/tortoise-finds-his-home_english_interior-spreads_2014112615.jpg",
+        "sourceImageSha256": "a864e2b32743c6406612cfc77d039747afc8d046fe0133c25c186f75c3f12b6e",
+        "imageWidth": 4725,
+        "imageHeight": 2363
+      }
+    ],
+    "reviewedAt": "2026-10-21",
+    "includedSourceIndices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "excludedSourceIndices": [
+      0,
+      13
+    ]
+  },
+  {
+    "bookId": "small-birds-big-adventure",
+    "sourceUrl": "https://bookdash.org/books/small-birds-big-adventure/",
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Wesley van Eeden (Illustrator)",
+      "Bongani Kona (Editor)",
+      "Nick Mulgrew (Writer)",
+      "Jennifer Jacobs (Designer)"
+    ],
+    "sourceCover": "https://bookdash.org/wp-content/uploads/2017/02/small-birds-big-adventure_english_20161230_cover.jpg",
+    "sourceCoverSha256": "d2d39b4a481648bdba0ade5297f9087daed3ae47ca455f0e1837788a00e1ecda",
+    "pages": [
+      {
+        "sourcePageNumber": 4,
+        "sourceText": "Small Bird was a small bird. He was very small and very birdy.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2017/02/small-birds-big-adventure_english_20161230_page4.jpg",
+        "sourceImageSha256": "b51b4c68c0f6481d80fc6eac284f4d1f34c69366e58b7de8bf8dfa27e6f85865",
+        "imageWidth": 1134,
+        "imageHeight": 567
+      },
+      {
+        "sourcePageNumber": 5,
+        "sourceText": "Small Bird lived in a beautiful house with the Giant. Small Bird loved the Giant very much. She was a kind Giant. She gave Small Bird lots of toys.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2017/02/small-birds-big-adventure_english_20161230_page5.jpg",
+        "sourceImageSha256": "3c97eb62ed374ab014c30070464eb1a987efa9cb8c83f8003a895283431b182a",
+        "imageWidth": 1134,
+        "imageHeight": 567
+      },
+      {
+        "sourcePageNumber": 6,
+        "sourceText": "Small Bird was sad when the Giant wasn’t around. So one day Small Bird went to go find the Giant.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2017/02/small-birds-big-adventure_english_20161230_page6.jpg",
+        "sourceImageSha256": "7d2984690ee12428cafd60bdd199791c8e54be35a0d92934376c18616bfc0810",
+        "imageWidth": 1134,
+        "imageHeight": 567
+      },
+      {
+        "sourcePageNumber": 7,
+        "sourceText": "",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2017/02/small-birds-big-adventure_english_20161230_page7.jpg",
+        "sourceImageSha256": "c6fe06e650e1a2651f440d8a463036094360296aed39385aadd2c87a6badb03e",
+        "imageWidth": 1134,
+        "imageHeight": 567
+      },
+      {
+        "sourcePageNumber": 8,
+        "sourceText": "Small Bird flew up and up until he could see the whole world. He wanted to find the Giant. Where would he land?",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2017/02/small-birds-big-adventure_english_20161230_page8.jpg",
+        "sourceImageSha256": "0302eec4f7aa22b5ea8e94a0d9e68a61ce2a0f6c6b9b6b62a94982294a0f03b6",
+        "imageWidth": 1134,
+        "imageHeight": 567
+      },
+      {
+        "sourcePageNumber": 9,
+        "sourceText": "Small Bird landed in a huge forest, filled with trees and flowers and treasure. Small Bird loved playing with the shiny jewels! But where was the Giant?",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2017/02/small-birds-big-adventure_english_20161230_page9.jpg",
+        "sourceImageSha256": "dc4744ab513e882b8c4864c4e6d1ed55fa45589bd2c192d2d546fdbd49c621cf",
+        "imageWidth": 1134,
+        "imageHeight": 567
+      },
+      {
+        "sourcePageNumber": 10,
+        "sourceText": "Small Bird walked into a vast field of snow. The snow was white and soft. Small Bird loved rolling around on the cool ground. But where was the Giant?",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2017/02/small-birds-big-adventure_english_20161230_page10.jpg",
+        "sourceImageSha256": "a608bf2e769917998149afd2f0ca1018a40c94a7d8d6effd0ec60345d5755123",
+        "imageWidth": 1134,
+        "imageHeight": 567
+      },
+      {
+        "sourcePageNumber": 11,
+        "sourceText": "This time, Small Bird flew even higher into the sky. He flew among the stars and galaxies! He saw the moon! He saw a comet! But where was the Giant?",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2017/02/small-birds-big-adventure_english_20161230_page11.jpg",
+        "sourceImageSha256": "098a068c25a13d0b031e3afb3c7b49bc11857fc85b073757642c84e2827b8780",
+        "imageWidth": 1134,
+        "imageHeight": 567
+      },
+      {
+        "sourcePageNumber": 12,
+        "sourceText": "From way up high, with his sharp birdy eyes Small Bird saw something! What could it be?",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2017/02/small-birds-big-adventure_english_20161230_page12.jpg",
+        "sourceImageSha256": "c26cddf2952b1ebc297d0af1c9295e136e8c75818888945bda840df62e83689a",
+        "imageWidth": 1134,
+        "imageHeight": 567
+      },
+      {
+        "sourcePageNumber": 13,
+        "sourceText": "Small Bird dived down, down, down. Where would he land?",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2017/02/small-birds-big-adventure_english_20161230_page13.jpg",
+        "sourceImageSha256": "a15cf3f5450936fb0bb677dbbba3a6ae3c9fffcc5684b882574f16fe1b312809",
+        "imageWidth": 1134,
+        "imageHeight": 567
+      },
+      {
+        "sourcePageNumber": 14,
+        "sourceText": "Small Bird landed right in the Giant’s hands! He was so happy to see her. “I love you, Giant!” he shrieked.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2017/02/small-birds-big-adventure_english_20161230_page14.jpg",
+        "sourceImageSha256": "fa5011b8c5f98ed7b1d9f424e3803fed29a4baf9a0d73c7d876d2ba9c1ccb6d3",
+        "imageWidth": 1134,
+        "imageHeight": 567
+      },
+      {
+        "sourcePageNumber": 15,
+        "sourceText": "The Giant held Small Bird close to her. “I love you too,” the Giant said.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2017/02/small-birds-big-adventure_english_20161230_page15.jpg",
+        "sourceImageSha256": "66c0cac919e763bd0cbc114497972dd5fd2d6fe8d493c0c72f3ddbdc3cf53c18",
+        "imageWidth": 1134,
+        "imageHeight": 567
+      }
+    ],
+    "reviewedAt": "2026-10-21",
+    "includedSourceIndices": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "excludedSourceIndices": [
+      0,
+      1,
+      2,
+      3,
+      16,
+      17
+    ]
+  },
+  {
+    "bookId": "ann-nem-oh-nee-finds-adventure",
+    "sourceUrl": "https://bookdash.org/books/ann-nem-oh-nee-finds-adventure/",
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Matthew Griffiths (Writer)",
+      "Lauren Nel (Designer)",
+      "Jessica Bosworth Smith (Illustrator)",
+      "Diane Awerbuck (Editor)"
+    ],
+    "sourceCover": "https://bookdash.org/wp-content/uploads/2018/03/ann-nem-oh-nee-finds-adventure_en_20180329_cover-1.jpg",
+    "sourceCoverSha256": "ed3d16c980bf633c31f0919ca91afebb07ed6a6aa06b748f421b448f25d005bd",
+    "pages": [
+      {
+        "sourcePageNumber": 1,
+        "sourceText": "Ann-Nem-Oh-Nee lived in the ocean. All day long she clung to the same slippery rock with her single big foot. Her tiny tentacles caught tasty treats.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/03/ann-nem-oh-nee-finds-adventure_en_20180329_page_4-1.jpg",
+        "sourceImageSha256": "b8d9cf7fdccff7c4e468ddfd1a47380b11e28edf3fe66f6d4397c1a6985e46b6",
+        "imageWidth": 1134,
+        "imageHeight": 567
+      },
+      {
+        "sourcePageNumber": 2,
+        "sourceText": "On days when she felt cross, her stinging tentacles kept the other creatures away.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/03/ann-nem-oh-nee-finds-adventure_en_20180329_page_5-1.jpg",
+        "sourceImageSha256": "6e37f52b91018abb11a5114f0c1318d29b6af7330cc62b76df855e6f8b6c27f0",
+        "imageWidth": 1134,
+        "imageHeight": 567
+      },
+      {
+        "sourcePageNumber": 3,
+        "sourceText": "But today her rock felt lonely.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/03/ann-nem-oh-nee-finds-adventure_en_20180329_page_6-1.jpg",
+        "sourceImageSha256": "3995a2d107125b196710be3077295904bb79914dead2a381708663ab1c04153e",
+        "imageWidth": 1134,
+        "imageHeight": 567
+      },
+      {
+        "sourcePageNumber": 4,
+        "sourceText": "“I have no fins. I have no feet. I am different to every other creature.”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/03/ann-nem-oh-nee-finds-adventure_en_20180329_page_7-1.jpg",
+        "sourceImageSha256": "4ac7b1b003e11351b96e94addb098126f94ac98e4c32fcdb96d1ae3582f59404",
+        "imageWidth": 1134,
+        "imageHeight": 567
+      },
+      {
+        "sourcePageNumber": 5,
+        "sourceText": "“Even that hermit crab is off having adventures!” “Save me! That fish wants to pluck me out of my shell!”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/03/ann-nem-oh-nee-finds-adventure_en_20180329_page_8-1.jpg",
+        "sourceImageSha256": "79e9c96617d960744188bbc412dee1b06f14f75a2e05b8cdfd9b7b18bf6706d3",
+        "imageWidth": 1134,
+        "imageHeight": 567
+      },
+      {
+        "sourcePageNumber": 6,
+        "sourceText": "Ann-Nem-Oh-Nee whipped up her stinging tentacles and hid the hermit underneath them. “Go away, you big bully!” The big fish bared his teeth, but was afraid of being stung.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/03/ann-nem-oh-nee-finds-adventure_en_20180329_page_9-1.jpg",
+        "sourceImageSha256": "2eda8beb751c40f5657cff787c31bb831cc0be93dc7b387cc9de91f1c2fab4c7",
+        "imageWidth": 1134,
+        "imageHeight": 567
+      },
+      {
+        "sourcePageNumber": 7,
+        "sourceText": "He gave up and swam away with a cheeky flick of his tail. “That was close!” said the crab. “Is it safe now?” “You can come out, Crab. What’s your name?” “Herman. I’m a hermit, but I think I need a bodyguard. I wish I was as brave as you!”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/03/ann-nem-oh-nee-finds-adventure_en_20180329_page_10-1.jpg",
+        "sourceImageSha256": "906f5a67bb78df757f7d8a38aaba43263a15aaf3d00c9c5f894972d6462713a2",
+        "imageWidth": 1134,
+        "imageHeight": 567
+      },
+      {
+        "sourcePageNumber": 8,
+        "sourceText": "“I’m Ann-Nem-Oh-Nee. I wish I had amazing adventures like you.” “But why don’t you?” he asked. “I’m stuck to my rock. And I don’t have legs!” she replied. “Well, I don’t have stings, but I do have an idea!”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/03/ann-nem-oh-nee-finds-adventure_en_20180329_page_11-1.jpg",
+        "sourceImageSha256": "0c5c3ef97f3f980416ce32b4cfaf315f50e1e636bc3d60b62f9b0940d329f25e",
+        "imageWidth": 1134,
+        "imageHeight": 567
+      },
+      {
+        "sourcePageNumber": 9,
+        "sourceText": "Herman took Ann-Nem-Oh-Nee by the tentacle and danced around her, pulling silly faces. First Ann-Nem-Oh-Nee snorted, and then she giggled – and then she laughed so hard she popped right off her rock.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/03/ann-nem-oh-nee-finds-adventure_en_20180329_page_12-1.jpg",
+        "sourceImageSha256": "d8cea383247d503eb40c65b45ecb93153ea7a2ae438aa76758f6fd4e8dd31cb6",
+        "imageWidth": 1134,
+        "imageHeight": 567
+      },
+      {
+        "sourcePageNumber": 10,
+        "sourceText": "Herman gently picked her up and settled her on his shell. “Are you ready? I feel an adventure coming on,” he said.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/03/ann-nem-oh-nee-finds-adventure_en_20180329_page_13-1.jpg",
+        "sourceImageSha256": "44144781e67bbdff230457a8dc4f5271dc3c7d13924151a6eb2172f3889478ae",
+        "imageWidth": 1134,
+        "imageHeight": 567
+      },
+      {
+        "sourcePageNumber": 11,
+        "sourceText": "Ann-Nem-Oh-Nee adventures all over the ocean, catching tasty treats. Now she only uses her stinging tentacles to keep the nasty fish away from Herman.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/03/ann-nem-oh-nee-finds-adventure_en_20180329_page_14-1.jpg",
+        "sourceImageSha256": "f8bc9089f0062550bb27e65c07ecb76ea0ffb16449ce1aa861e41e72cefc3a08",
+        "imageWidth": 1134,
+        "imageHeight": 567
+      },
+      {
+        "sourcePageNumber": 12,
+        "sourceText": "And she never, ever feels lonely.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/03/ann-nem-oh-nee-finds-adventure_en_20180329_page_15-1.jpg",
+        "sourceImageSha256": "f375f9fb5b19eab541d0207bf726c2f70cab9e635765ea897b00286aa2a7ba79",
+        "imageWidth": 1134,
+        "imageHeight": 567
+      }
+    ],
+    "reviewedAt": "2026-10-21",
+    "includedSourceIndices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "excludedSourceIndices": [
+      0
+    ]
+  },
+  {
+    "bookId": "why-birds-sing-at-dawn",
+    "sourceUrl": "https://bookdash.org/books/why-birds-sing-at-dawn/",
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Makongo Kiugu (Designer)",
+      "Joey Kok (Editor)",
+      "Emmanuel Grebo (Illustrator)",
+      "Zanele (Writer)"
+    ],
+    "sourceCover": "https://bookdash.org/wp-content/uploads/2019/11/Why-birds-sing-at-dawn_en_20191121_cover-1.jpg",
+    "sourceCoverSha256": "88faf4e149694f6269c341e7b1943c9a8b048645e6df1e402a0f78af55186c41",
+    "pages": [
+      {
+        "sourcePageNumber": 1,
+        "sourceText": "A long time ago, in the forest of Happy-Land, birds and trees could talk to each other.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2019/11/Why-birds-sing-at-dawn_en_20191121_page4.jpg",
+        "sourceImageSha256": "d71f71e8cd443f456098f8c9e21fd1d364c269af367a3d6e6e3e7b96ea6ab5e9",
+        "imageWidth": 2362,
+        "imageHeight": 1181
+      },
+      {
+        "sourcePageNumber": 2,
+        "sourceText": "There was a bird family with three children: Blue, Pink and Yellow. They all lived on a big wise tree called Mamango.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2019/11/Why-birds-sing-at-dawn_en_20191121_page5.jpg",
+        "sourceImageSha256": "3407796cb52a31052588c6a75a0ec37b8283f6db7fe1252ad954e9b49bc97093",
+        "imageWidth": 2362,
+        "imageHeight": 1181
+      },
+      {
+        "sourcePageNumber": 3,
+        "sourceText": "Mama Birdie’s voice was beautiful! She would wake up early to sing her song.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2019/11/Why-birds-sing-at-dawn_en_20191121_page6.jpg",
+        "sourceImageSha256": "cf2ffd5825839372932d6dd89ca253f9c3fcc3be5de5589058c6c442fcebdc32",
+        "imageWidth": 2362,
+        "imageHeight": 1181
+      },
+      {
+        "sourcePageNumber": 4,
+        "sourceText": "But drought set in on the land. Rivers dried up and leaves fell off.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2019/11/Why-birds-sing-at-dawn_en_20191121_page7.jpg",
+        "sourceImageSha256": "839f0f8ff932a836d3102cc37356166976c261c3a34b2c7f764a0f8094a88d8d",
+        "imageWidth": 2362,
+        "imageHeight": 1181
+      },
+      {
+        "sourcePageNumber": 5,
+        "sourceText": "Mamango thought long and hard. “Maybe we should get the magic worm that brings rain. But who can go?”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2019/11/Why-birds-sing-at-dawn_en_20191121_page8.jpg",
+        "sourceImageSha256": "1991eb247c8c97fb1d587f91b3e9e8ea19f1f97bdc481abc6d70512cd18e1f2a",
+        "imageWidth": 2362,
+        "imageHeight": 1181
+      },
+      {
+        "sourcePageNumber": 6,
+        "sourceText": "“I will go. I am not afraid,” Mama Birdie said.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2019/11/Why-birds-sing-at-dawn_en_20191121_page9.jpg",
+        "sourceImageSha256": "06efef668c8beacdc9013d4d549e3827c8ebad840e4945da033cd6adefb55fb1",
+        "imageWidth": 2362,
+        "imageHeight": 1181
+      },
+      {
+        "sourcePageNumber": 7,
+        "sourceText": "Everyone missed Mama Birdie, and her song. Would she ever find her way back home?",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2019/11/Why-birds-sing-at-dawn_en_20191121_page10.jpg",
+        "sourceImageSha256": "9f8464ded1cfd901e88d5995d3aa0614af557a711fdfdc400c325c2b5aabf82f",
+        "imageWidth": 2362,
+        "imageHeight": 1181
+      },
+      {
+        "sourcePageNumber": 8,
+        "sourceText": "“What if we sing Mama’s song?” Yellow asked. “Mama said if we sing her song, she will find her way back.” “But I don’t know how to sing!” cried Pink.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2019/11/Why-birds-sing-at-dawn_en_20191121_page11.jpg",
+        "sourceImageSha256": "b35fb97e462820c60e324f7aa36976027593fac79cfa32262ebf66720161268b",
+        "imageWidth": 2362,
+        "imageHeight": 1181
+      },
+      {
+        "sourcePageNumber": 9,
+        "sourceText": "“Have you tried singing?” Mamango asked.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2019/11/Why-birds-sing-at-dawn_en_20191121_page12.jpg",
+        "sourceImageSha256": "420a358884854b86a47161668e8a0d7ab21d79a4ce40940a2696f6ae1ffe203f",
+        "imageWidth": 2362,
+        "imageHeight": 1181
+      },
+      {
+        "sourcePageNumber": 10,
+        "sourceText": "“I have tried singing,” said Yellow. “I can teach you.”",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2019/11/Why-birds-sing-at-dawn_en_20191121_page13.jpg",
+        "sourceImageSha256": "54af480b107880cb9cc72a8fd29e393731f81b738ca834455c485d090053f222",
+        "imageWidth": 2362,
+        "imageHeight": 1181
+      },
+      {
+        "sourcePageNumber": 11,
+        "sourceText": "Early the next morning, Yellow sang Mama’s song: “It’s a beautiful morning! We wake up and shine!” And rain started falling.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2019/11/Why-birds-sing-at-dawn_en_20191121_page14.jpg",
+        "sourceImageSha256": "8490ab87c201dcac2aaa64eed94d57e37e5f4a1fa6bca366d176f2cc19061421",
+        "imageWidth": 2362,
+        "imageHeight": 1181
+      },
+      {
+        "sourcePageNumber": 12,
+        "sourceText": "Eventually, all the birds joined Yellow in song. Mama Birdie found her way back to Happy-Land. And from then on, birds sang at dawn.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2019/11/Why-birds-sing-at-dawn_en_20191121_page15.jpg",
+        "sourceImageSha256": "31099d902112016dfbedd42212b3571b96292cf14979155af1d7bfa5036a69b1",
+        "imageWidth": 2362,
+        "imageHeight": 1181
+      }
+    ],
+    "reviewedAt": "2026-10-21",
+    "includedSourceIndices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "excludedSourceIndices": [
+      0,
+      13
+    ]
+  },
+  {
+    "bookId": "wiggle-jiggle",
+    "sourceUrl": "https://bookdash.org/books/wiggle-jiggle/",
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Robert Plummer (Editor)",
+      "Megan Naudé (Illustrator)",
+      "Mathapelo Mabaso (Writer)",
+      "Chenél Ferreira (Designer)"
+    ],
+    "sourceCover": "https://bookdash.org/wp-content/uploads/2019/05/wiggle-jiggle_en_20190503_cover.jpg",
+    "sourceCoverSha256": "4534d8f1e9fa4c490d7dca7367f1b70322c85cfaab49af7ff8644a41933dd875",
+    "pages": [
+      {
+        "sourcePageNumber": 4,
+        "sourceText": "Wiggle jiggle wriggle! I am a wiggly worm.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2019/05/wiggle-jiggle_en_20190503_page4.jpg",
+        "sourceImageSha256": "d1e59da8aabba37a521a650ad37b9e764d2c1713492026e2bcaf53b8425c6872",
+        "imageWidth": 4724,
+        "imageHeight": 2362
+      },
+      {
+        "sourcePageNumber": 5,
+        "sourceText": "Flowers and leaves are my favourite food. Yummy in my tummy!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2019/05/wiggle-jiggle_en_20190503_page5.jpg",
+        "sourceImageSha256": "b3fdc8ab66eb889b45d69351dab4f87f3ab992fed196c22c19b6253ca276e4ee",
+        "imageWidth": 4724,
+        "imageHeight": 2362
+      },
+      {
+        "sourcePageNumber": 6,
+        "sourceText": "Wiggle jiggle wriggle! I am a wiggly worm.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2019/05/wiggle-jiggle_en_20190503_page6.jpg",
+        "sourceImageSha256": "59e31828b07ee65a344f1e5d8f84dff7d3ba80bf7b4cd97fe7ed4bcacca447e4",
+        "imageWidth": 4724,
+        "imageHeight": 2362
+      },
+      {
+        "sourcePageNumber": 7,
+        "sourceText": "I love the rain. Pitter-patter on the leaves.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2019/05/wiggle-jiggle_en_20190503_page7.jpg",
+        "sourceImageSha256": "d3234f5f9e3b7a277c863ce344476ccb784e91b74ed17a9315170ae1ce536ba4",
+        "imageWidth": 4724,
+        "imageHeight": 2362
+      },
+      {
+        "sourcePageNumber": 8,
+        "sourceText": "Watch me wiggle and dance. Wiggle jiggle wriggle!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2019/05/wiggle-jiggle_en_20190503_page8.jpg",
+        "sourceImageSha256": "cca39fad3793a3574a255bb9974ca01df097b2a52dbc2c6be4fd96402fabb9d2",
+        "imageWidth": 4724,
+        "imageHeight": 2362
+      },
+      {
+        "sourcePageNumber": 9,
+        "sourceText": "POO!!! My magic poo makes plants grow BIG.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2019/05/wiggle-jiggle_en_20190503_page9.jpg",
+        "sourceImageSha256": "00b0303419c5596aac8ac7a8945d9c394ebce391053fe9a1adcb7bfd1c13e364",
+        "imageWidth": 4724,
+        "imageHeight": 2362
+      },
+      {
+        "sourcePageNumber": 10,
+        "sourceText": "I love to see my plants grow. Yellow, red, blue and green.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2019/05/wiggle-jiggle_en_20190503_page10.jpg",
+        "sourceImageSha256": "70ef779b553fcc2be94004140cc27ba708807411ccd3874ed56d82f394735795",
+        "imageWidth": 4724,
+        "imageHeight": 2362
+      },
+      {
+        "sourcePageNumber": 11,
+        "sourceText": "Wiggle jiggle wriggle! I am a wiggly worm.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2019/05/wiggle-jiggle_en_20190503_page11.jpg",
+        "sourceImageSha256": "d0f922046e51c4a8e09700dc9cdc64cf14b3f478f2d7483a828fcdc19c0cbc7c",
+        "imageWidth": 4724,
+        "imageHeight": 2362
+      },
+      {
+        "sourcePageNumber": 12,
+        "sourceText": "Wiggle when you see me in the garden. Wiggle jiggle wriggle!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2019/05/wiggle-jiggle_en_20190503_page12.jpg",
+        "sourceImageSha256": "08d90e31868dcf7632c1a102685485c30e33960f5ad8be97403c6b495d3e8928",
+        "imageWidth": 4724,
+        "imageHeight": 2362
+      },
+      {
+        "sourcePageNumber": 13,
+        "sourceText": "Where am I now? I’m here in my cocoon!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2019/05/wiggle-jiggle_en_20190503_page13.jpg",
+        "sourceImageSha256": "f153b3943080487b40358f5fce4d3d87b29fc2c6edf51e9317213a5539f8b6c3",
+        "imageWidth": 4724,
+        "imageHeight": 2362
+      },
+      {
+        "sourcePageNumber": 14,
+        "sourceText": "Oh wait! I’m NOT a wiggly worm!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2019/05/wiggle-jiggle_en_20190503_page14.jpg",
+        "sourceImageSha256": "60b22e6f4d4042163da17f3c550d582d009bc206421f293c306ea97b1e3f1f3b",
+        "imageWidth": 4724,
+        "imageHeight": 2362
+      },
+      {
+        "sourcePageNumber": 15,
+        "sourceText": "Flitter flutter flitter! I am a butterfly!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2019/05/wiggle-jiggle_en_20190503_page15.jpg",
+        "sourceImageSha256": "e6b8e8a9bdda75b83bf53a341d49ad4acd3557092b494d8404d60680dbf1a71e",
+        "imageWidth": 4724,
+        "imageHeight": 2362
+      }
+    ],
+    "reviewedAt": "2026-10-21",
+    "includedSourceIndices": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "excludedSourceIndices": [
+      0,
+      1,
+      2,
+      3,
+      16,
+      17
+    ]
+  },
+  {
+    "bookId": "the-fish-that-couldnt-swim",
+    "sourceUrl": "https://bookdash.org/books/the-fish-that-couldnt-swim/",
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Thulisizwe Mamba (Illustrator)",
+      "Ingrid Nye (Editor)",
+      "Sarah Gaylard (Writer)",
+      "Gisela Strydom (Designer)"
+    ],
+    "sourceCover": "https://bookdash.org/wp-content/uploads/2018/05/the-fish-that-couldnt-swim_en_20181215_cover.jpg",
+    "sourceCoverSha256": "ad0d0d6c7d9cc2540c12788cf7ecb9d82e4506e62c97ab96447a95ddfd8dfa62",
+    "pages": [
+      {
+        "sourcePageNumber": 1,
+        "sourceText": "There once was a boy who could run and jump and climb. He could even make a noise like a seagull. But he couldn’t swim. And oh, how he wanted to.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/05/the-fish-that-couldnt-swim_en_20181215_page4-scaled.jpg",
+        "sourceImageSha256": "b44f6e55881fa0a623517f7aa1d65c9159bd5d114c41c65b92048ccd09187f5c",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 2,
+        "sourceText": "Then one day... he noticed a fish that couldn’t swim either.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/05/the-fish-that-couldnt-swim_en_20181215_page5-scaled.jpg",
+        "sourceImageSha256": "db62d6762347778f20aa3aad4829309b99843e4ae1090a5710f580ee16eba750",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 3,
+        "sourceText": "He wanted to help the fish.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/05/the-fish-that-couldnt-swim_en_20181215_page6-scaled.jpg",
+        "sourceImageSha256": "87c3e872674846a367623c4fd78cae8304f66aa2e9622a0a10a0ccc73a787aa4",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 4,
+        "sourceText": "So he put it in the water...",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/05/the-fish-that-couldnt-swim_en_20181215_page7-scaled.jpg",
+        "sourceImageSha256": "03a765742ad736287fa4768fcdfaef14ad32d61153b698a4c086b1a544f3ba67",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 5,
+        "sourceText": "...and the fish came alive!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/05/the-fish-that-couldnt-swim_en_20181215_page8-scaled.jpg",
+        "sourceImageSha256": "6dc1c54dae399b5bcff2161bcf0409af3d6312630479911f503a79831cdb3554",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 6,
+        "sourceText": "But the boy also wanted to learn to swim.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/05/the-fish-that-couldnt-swim_en_20181215_page9-scaled.jpg",
+        "sourceImageSha256": "7b216c5e9b12e517af08aa1cc0d400a4a0422a5a7d9f7f6fbead5ec0230ed278",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 7,
+        "sourceText": "So the fish showed the boy how to put his mouth in the water and blow.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/05/the-fish-that-couldnt-swim_en_20181215_page10-scaled.jpg",
+        "sourceImageSha256": "8975e8798c8533c2a92d41f34bf578e28c59a84da362e4fbae95178c0fd38a66",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 8,
+        "sourceText": "What fun they had!",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/05/the-fish-that-couldnt-swim_en_20181215_page11-scaled.jpg",
+        "sourceImageSha256": "62c4076de99aa2ab54db14190fc952ecd5fce578ce59ba5bd562db7caa74a679",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 9,
+        "sourceText": "The next day, the boy remembered what the fish had taught him.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/05/the-fish-that-couldnt-swim_en_20181215_page12-scaled.jpg",
+        "sourceImageSha256": "51e0ae12e7ee116a1c3695bc587583dc68f8ded195cad248b2f6201d191bc20f",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 10,
+        "sourceText": "",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/05/the-fish-that-couldnt-swim_en_20181215_page13-scaled.jpg",
+        "sourceImageSha256": "39f2067c8f765b8abaa874ee5fd6a3a27f5cc09f7a7c784619f36bacc3ee6dfb",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 11,
+        "sourceText": "And so the boy who could run and jump and climb, and even make a noise like a seagull, learned to swim like a fish.",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/05/the-fish-that-couldnt-swim_en_20181215_page14-scaled.jpg",
+        "sourceImageSha256": "67da42dce58daa29bc4e5cf01f5829ac78cc65777e6b481f33905f6c9386bcd1",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      },
+      {
+        "sourcePageNumber": 12,
+        "sourceText": "",
+        "sourceImage": "https://bookdash.org/wp-content/uploads/2018/05/the-fish-that-couldnt-swim_en_20181215_page15-scaled.jpg",
+        "sourceImageSha256": "2b1325e88e66a44259c699eac3fff4a3ab75422365aef452bc1de39853e936eb",
+        "imageWidth": 2560,
+        "imageHeight": 1280
+      }
+    ],
+    "reviewedAt": "2026-10-21",
+    "includedSourceIndices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "excludedSourceIndices": [
+      0,
+      13
+    ]
+  }
+]

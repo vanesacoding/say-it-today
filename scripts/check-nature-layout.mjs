@@ -7,7 +7,7 @@ const browser=await chromium.launch();mkdirSync('layout-proof',{recursive:true})
 try{
  for(const [width,height] of [[320,568],[390,844],[430,932],[1024,768]]){
   const page=await browser.newPage({viewport:{width,height}});await page.route('**/books/catalog.js',r=>r.fulfill({body:inject,contentType:'text/javascript'}));await page.goto('http://127.0.0.1:4173/');await page.locator('.bottomNav [data-go="shelf"]').click();
-  assert.equal(await page.locator('.shelfCard').count(),100);let fits=0,total=0;
+  assert.equal(await page.locator('.shelfCard').count(),await page.evaluate(()=>window.JIGU_BOOKS.filter(b=>!b.archived&&!window.JIGU_CURATION.withdrawnIds.includes(b.id)).length));let fits=0,total=0;
   const newCovers=await page.locator('.shelfCover.sourceArtworkCover img').evaluateAll(es=>es.map(e=>getComputedStyle(e).objectFit));assert.equal(newCovers.length,15);assert.ok(newCovers.every(v=>v==='cover'));
   if(width===390){for(const b of books)await page.locator(`[data-book="${b.id}"] img`).evaluate(async im=>{im.loading='eager';try{await im.decode()}catch{}});await page.screenshot({path:'layout-proof/nature-square-covers-390.png',fullPage:true});}
 
@@ -27,5 +27,5 @@ try{
   }
   console.log(`NATURE COMPANION FIT ${width}: ${fits}/${total}`);if(width>=390)assert.ok(fits/total>=.8,'at least 80% of complete pages fit with companion; long original facts remain scrollable');await page.close();
  }
- console.log('PASS 176 original nature pages × 4 viewports, full uncropped art, original text, fixed controls, square covers and 100-book shelf');
+ console.log('PASS 176 original nature pages × 4 viewports, full uncropped art, original text, fixed controls, square covers and current shelf');
 }finally{await browser.close()}

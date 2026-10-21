@@ -19,7 +19,7 @@ for(const b of books){
  assert.ok(['S1','S2','S3'].includes(b.stageId));assert.ok(b.activity.title&&b.activity.text);
  assert.ok(['human','generated','device'].includes(b.audioType));
  if(release.newBookIds?.includes(b.id)){
-  assert.ok(['en_male_adam-imitation_uranus_bigtts','en_female_authoritative-british_uranus_bigtts','en_male_knightley_uranus_bigtts'].includes(b.narration?.voiceId),'new books must use one of three native voices');
+  assert.ok(['ICL_uranus_en_female_charlie_tob','en_male_adam-imitation_uranus_bigtts','en_female_authoritative-british_uranus_bigtts','en_male_knightley_uranus_bigtts'].includes(b.narration?.voiceId),'new books must use an approved English voice');
   for(const p of b.pages)assert.equal(p.en,p.sourceText,'new English must match pinned source');
  }
  if(b.audioType==='generated')assert.ok(b.narration?.kind==='ai'&&b.narration.voice);

@@ -5,9 +5,9 @@ ROOT=Path(__file__).resolve().parents[1]
 spec=importlib.util.spec_from_file_location('release',ROOT/'scripts/library-release-production.py');m=importlib.util.module_from_spec(spec);spec.loader.exec_module(m)
 books,request,ledger=m.plan();new=[b for b in books if b['id'] in request['newBookIds']]
 assert [b['id'] for b in books[:request['expectedNewBooks']]]==request['newBookIds']
-assert len(new)==request['expectedNewBooks']==15 and len({b['narration']['voiceId'] for b in new})==3
-assert len(ledger['pages'])==171 and all(p['bookId'] in request['newBookIds'] and p['speaker']!=m.CHARLIE for p in ledger['pages'])
-assert sum(len(b['pages']) for b in new)==176
+assert len(new)==request['expectedNewBooks']==20 and len({b['narration']['voiceId'] for b in new})==4
+assert len(ledger['pages'])==226 and all(p['bookId'] in request['newBookIds'] for p in ledger['pages'])
+assert sum(len(b['pages']) for b in new)==241
 with tempfile.TemporaryDirectory() as temp:
  root=Path(temp);(root/'scripts').mkdir();(root/'public/books').mkdir(parents=True)
  for name in ['catalog.js','curation.js']:shutil.copy(ROOT/'public/books'/name,root/'public/books'/name)
@@ -26,7 +26,7 @@ with tempfile.TemporaryDirectory() as temp:
   try:m.plan()
   except ValueError as e:assert expected in str(e),(expected,str(e))
   else:raise AssertionError('Unsafe plan accepted')
- rejects(lambda bs:bs[0]['narration'].update(voiceId=m.CHARLIE),'must not use Charlie')
+ rejects(lambda bs:bs[0]['narration'].update(voiceId='unapproved-voice'),'approved voice')
  rejects(lambda bs:bs[0]['pages'][0].update(en='Extra words.'),'source English')
  rejects(lambda bs:bs[0]['pages'][0].update(en='Rewritten words.',sourceText='Rewritten words.'),'Incomplete source English')
  rejects(lambda bs:bs[0]['pages'].pop(),'Source pages missing')
@@ -39,4 +39,4 @@ with tempfile.TemporaryDirectory() as temp:
  try:m.plan()
  except ValueError as e:assert 'Source manifest changed' in str(e)
  else:raise AssertionError('Altered source accepted')
-print('PASS release guards: 15 CC BY 4.0 books; 176 complete source pages; 171 new-only recordings; 3 voices; no Charlie, rewrites, missing/reordered pages, changed images, removed attribution or changed existing books')
+print('PASS release guards: 20 CC BY 4.0 books; 241 complete source pages; 226 new-only recordings; 4 approved voices; no unapproved voices, rewrites, missing/reordered pages, changed images, removed attribution or changed existing books')

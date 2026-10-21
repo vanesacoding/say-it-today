@@ -21,7 +21,7 @@ for book in active:
     assert 0<=x<1 and 0<=y<1 and 0<pw<=1 and 0<ph<=1 and x+pw<=1.000001 and y+ph<=1.000001
     assert min(w*pw,h*ph)>=320 and w*pw/(h*ph)<=1.4
   else:
-   limit=2.15 if book['source'].get('format')=='storyweaver-pdf-art-v1' else 2.01 if book['source'].get('format')=='bookdash-science-spreads-v1' else 1.42 if book['source'].get('format')=='lets-read-source-pages-v1' else 1.4
+   limit=2.15 if book['source'].get('format')=='storyweaver-pdf-art-v1' else 2.01 if book['source'].get('format') in ['bookdash-science-spreads-v1','bookdash-story-spreads-v1'] else 1.42 if book['source'].get('format')=='lets-read-source-pages-v1' else 1.4
    assert min(w,h)>=320 and w/h<=limit,(book['id'],i+1,w,h)
   if page.get('sourceImageSha256'):assert hashlib.sha256(p.read_bytes()).hexdigest()==page['sourceImageSha256']
   assert page.get('imageWidth')==w and page.get('imageHeight')==h

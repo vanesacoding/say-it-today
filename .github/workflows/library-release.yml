@@ -83,6 +83,23 @@ jobs:
           run-id: ${{ inputs.resume_run_id || steps.resume.outputs.run_id }}
           github-token: ${{ github.token }}
           path: .reading-audio/library-release
+      - name: Verify original story images before narration
+        run: python3 scripts/check-story-sources.py && node scripts/check-story-books.mjs
+      - name: Install mobile layout browser
+        run: npm install --no-save --package-lock=false playwright@1.56.1 && npx playwright install --with-deps chromium
+      - name: Verify every new story page on four screen sizes
+        run: |
+          npm run build
+          python3 -m http.server 4173 --directory dist >/tmp/jigu-story-layout.log 2>&1 &
+          node scripts/check-story-layout.mjs
+      - name: Save story layout evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: jigu-story-layout-proof
+          path: layout-proof/
+          if-no-files-found: warn
+          retention-days: 14
       - name: Generate only changed pages or verify saved recordings
         env:
           DOUBAO_SPEECH_API_KEY: ${{ secrets.DOUBAO_SPEECH_API_KEY }}

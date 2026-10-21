@@ -1,35 +1,40 @@
 {
-  "id": "nature-fifteen-20261021",
-  "sourceCatalogueSha256": "3e2c902fde1e7d02ed9626739cf672eb5c00e7cdb6c7a2776eddd0e05599cd84",
+  "id": "animal-stories-twenty-20261021",
+  "sourceCatalogueSha256": "67a31c1556e3fa856f1bbe993ef47318bbf0617ab9a3963ace6dada29dfc91e6",
   "newBookIds": [
-    "sw-animal-homes",
-    "sw-did-you-hear",
-    "sw-busy-ants",
-    "sw-clean-cat",
-    "sw-noisy-crows",
-    "sw-naughty-dog",
-    "sw-wild-cats",
-    "sw-birds-crests",
-    "sw-pufferfish",
-    "sw-love-our-home",
-    "sw-sunbirds",
-    "sw-insect-counting",
-    "lr-count-legs",
-    "sw-animal-tracks",
-    "rtr-ladybird"
+    "hippo-wants-to-dance",
+    "little-ants-big-plan",
+    "amazing-daisy",
+    "mama-antelopes-house",
+    "shongololos-shoes",
+    "lets-be-friends",
+    "best-friends",
+    "who-ate-my-hat",
+    "the-lost-laugh",
+    "mrs-penguins-perfect-palace",
+    "feathered-friends",
+    "whats-happened-to-our-water",
+    "egg",
+    "the-best-nest",
+    "tortoise-finds-his-home",
+    "small-birds-big-adventure",
+    "ann-nem-oh-nee-finds-adventure",
+    "why-birds-sing-at-dawn",
+    "wiggle-jiggle",
+    "the-fish-that-couldnt-swim"
   ],
-  "expectedPages": 171,
-  "sourceTextSha256": "f7b7284fefae8e5d39ab6a64380dee9956839b66658bfe124dc5b0a62a5a926c",
+  "expectedPages": 226,
+  "sourceTextSha256": "633bd361a0b06a22b5aa0bcedb9dd5780618d3438d21ab89298ba904eeecb4db",
   "speechRate": -5,
   "auditionRunId": 39355874472,
   "sourceManifest": {
-    "file": "nature-source-manifest.json",
-    "sha256": "240b94fa43e07eda4938ac9d6b4fe8c44c280a68f96009eedbf21ee4e8712b7a"
+    "file": "stories-source-manifest.json",
+    "sha256": "70b43f4ed50cff895d48e399ae6d0b74e3ff1c0fbbde254ee19b12a4e4519214"
   },
   "shards": [
     {
-      "file": "library-release-books-nature.json",
-      "sha256": "ae68e69ddb947da7eb8defc48ee0a2b5ef00b001f37c08403bd42a020b2535c5"
+      "file": "library-release-books-stories.json",
+      "sha256": "391fb4cdd6f4937a4b079aa58b9c09be58022b9480d7c0b37f51cb1f2252c1b1"
     }
   ]
 }

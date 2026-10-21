@@ -6,7 +6,7 @@ spec=importlib.util.spec_from_file_location('recordings',ROOT/'scripts/doubao-re
 core=recordings.core;sha,write_json,verify=recordings.sha,recordings.write_json,recordings.verify
 CHARLIE='ICL_uranus_en_female_charlie_tob';RATE=-5
 PROFILES={p['speaker']:p for p in json.loads((ROOT/'scripts/reading-voice-profiles.json').read_text())['profiles']}
-NEW_VOICES={p['speaker'] for p in PROFILES.values() if p['name'] in ['Rowan','Charlotte','Knightley']}
+NEW_VOICES={p['speaker'] for p in PROFILES.values() if p['name'] in ['Charlie 2.0','Rowan','Charlotte','Knightley']}
 
 def validate_mobile_source(b):
  spreads=b['source']['spreads']
@@ -48,7 +48,7 @@ def validate_bookdash_source(book,source):
  for p,original in zip(book['pages'],source['pages']):
   if p['en']!=original['sourceText']:raise ValueError('Incomplete source English')
   if any(p[k]!=original[k] for k in ['sourceImage','sourceImageSha256']):raise ValueError('Source image changed')
-  if any(p[k]!=original[k] for k in ['imageWidth','imageHeight']) or min(p['imageWidth'],p['imageHeight'])<1024 or p['imageWidth']/p['imageHeight']>2.01:raise ValueError('Invalid original page geometry')
+  if any(p[k]!=original[k] for k in ['imageWidth','imageHeight']) or min(p['imageWidth'],p['imageHeight'])<(567 if book['source'].get('format')=='bookdash-story-spreads-v1' else 1024) or p['imageWidth']/p['imageHeight']>2.01:raise ValueError('Invalid original page geometry')
   if not (p['zh'] and p['tip'] and p['alt']):raise ValueError('Companion editorial missing')
  if len(book['keywords'])!=3 or not book['activity']['text']:raise ValueError('Editorial modules missing')
 
@@ -108,10 +108,10 @@ def plan():
   if speaker not in PROFILES or rate!=RATE:raise ValueError('Unapproved voice or rate')
   if before and before.get('narration',{}).get('voiceId')!=speaker:raise ValueError('Existing book voice changed')
   if not before:
-   if speaker not in NEW_VOICES or speaker==CHARLIE:raise ValueError('New books must not use Charlie')
+   if speaker not in NEW_VOICES:raise ValueError('New books must use an approved voice')
    if any(p['en']!=p.get('sourceText') for p in b['pages']):raise ValueError('New source English was changed')
    if b['source'].get('format')=='storyweaver-pdf-art-v1':validate_pdf_source(b,sources[b['id']])
-   elif b['source'].get('format')=='bookdash-science-spreads-v1':validate_bookdash_source(b,sources[b['id']])
+   elif b['source'].get('format') in ['bookdash-science-spreads-v1','bookdash-story-spreads-v1']:validate_bookdash_source(b,sources[b['id']])
    else:validate_letsread_source(b,sources[b['id']])
   for i,p in enumerate(b['pages']):
    if not p['en'].strip():continue
@@ -124,7 +124,7 @@ def plan():
 def main():
  parser=argparse.ArgumentParser();parser.add_argument('--dry-run',action='store_true');parser.add_argument('--resume-only',action='store_true');parser.add_argument('--continue-unsubmitted',action='store_true');args=parser.parse_args()
  books,request,initial=plan()
- if args.dry_run:print(f"PASS pinned plan: {request['targetActiveBooks']} books, {initial['expectedPages']} recordings / {initial['characters']} characters; new books use Rowan, Charlotte, Knightley only");return
+ if args.dry_run:print(f"PASS pinned plan: {request['targetActiveBooks']} books, {initial['expectedPages']} recordings / {initial['characters']} characters; new books use approved per-book English voices");return
  key=os.environ.get('DOUBAO_SPEECH_API_KEY','').strip()
  if not key and not args.resume_only:raise ValueError('Speech secret missing')
  OUT.mkdir(parents=True,exist_ok=True);ledger_path=OUT/'production.json'
