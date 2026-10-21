@@ -15,7 +15,7 @@ try{
    for(const id of ['lr-our-family','lr-shopping-time','lr-simple-counting','lr-see-clearly']){const im=page.locator(`[data-book="${id}"] img`);await im.scrollIntoViewIfNeeded();await loaded(im)}await page.evaluate(()=>scrollTo(0,0));
    await page.screenshot({path:'layout-proof/flow-02-shelf.png'});await page.getByLabel('选择共读阶段').click();await page.screenshot({path:'layout-proof/stage-picker-390.png'});await page.getByRole('button',{name:'关闭',exact:true}).click();
   }
-  await page.locator('[data-go="mine"]').click();await page.locator('[data-go="vocabulary"]').click();
+  await page.locator('.bottomNav [data-go="mine"]').click();await page.locator('[data-go="vocabulary"]').click();
   const keys=await page.locator('.vocabularyRow').evaluateAll(els=>els.map(el=>el.dataset.key));assert.ok(keys.length>=3);await page.locator('.vocabularyRow').first().click();
   const current=()=>page.locator('[data-action="vocabulary-source"]').getAttribute('data-key');
   const session=await page.context().newCDPSession(page);
@@ -54,7 +54,7 @@ try{
   await page.locator('[data-go="shelf"]').first().click();assert.ok(Math.abs((await page.evaluate(()=>scrollY))-originY)<2,'return to the same shelf position');
   await page.locator('[data-book="lr-seven-days"]').click();await page.locator('[data-action="words"]').click();await page.locator('.wordCard').first().click();
   const title=await page.getByRole('dialog').getAttribute('aria-label');await swipe(-100);assert.notEqual(await page.getByRole('dialog').getAttribute('aria-label'),title);await swipe(100);assert.equal(await page.getByRole('dialog').getAttribute('aria-label'),title);
-  await page.getByRole('button',{name:'关闭',exact:true}).click();await page.locator('[data-go="shelf"]').first().click();await page.locator('[data-go="mine"]').click();await page.locator('[data-go="vocabulary"]').click();await page.locator('[data-action="browse-five"]').click();
+  await page.getByRole('button',{name:'关闭',exact:true}).click();await page.locator('[data-go="shelf"]').first().click();await page.locator('.bottomNav [data-go="mine"]').click();await page.locator('[data-go="vocabulary"]').click();await page.locator('[data-action="browse-five"]').click();
   assert.equal(await page.locator('.wordBrowseNav [role="status"]').textContent(),'1 / 5');await swipe(-100);assert.equal(await page.locator('.wordBrowseNav [role="status"]').textContent(),'2 / 5');await swipe(100);assert.equal(await page.locator('.wordBrowseNav [role="status"]').textContent(),'1 / 5');
   if(width===390)await page.screenshot({path:'layout-proof/browse-five-390.png'});
   await page.getByRole('button',{name:'关闭',exact:true}).click();await page.locator('[data-action="review-start"]').first().click();

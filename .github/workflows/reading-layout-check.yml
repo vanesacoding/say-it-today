@@ -1,10 +1,10 @@
 name: Reading navigation layout
 on:
   pull_request:
-    paths: [index.html, scripts/check-animal-books.mjs, scripts/check-animal-layout.mjs, scripts/library-release-books-animals.json, public/books/curation.js, scripts/check-vocabulary.mjs, scripts/check-vocabulary-swipe-layout.mjs, scripts/check-phone-books.mjs, scripts/check-phone-layout.mjs, scripts/library-release-books-phone.json, scripts/library-release-books-letsread.json, scripts/check-letsread.mjs, scripts/check-letsread-layout.mjs, .github/workflows/reading-layout-check.yml]
+    paths: [index.html, scripts/check-shelf-search.mjs, scripts/check-animal-books.mjs, scripts/check-animal-layout.mjs, scripts/library-release-books-animals.json, public/books/curation.js, scripts/check-vocabulary.mjs, scripts/check-vocabulary-swipe-layout.mjs, scripts/check-phone-books.mjs, scripts/check-phone-layout.mjs, scripts/library-release-books-phone.json, scripts/library-release-books-letsread.json, scripts/check-letsread.mjs, scripts/check-letsread-layout.mjs, .github/workflows/reading-layout-check.yml]
   push:
     branches: [main]
-    paths: [index.html, scripts/check-animal-books.mjs, scripts/check-animal-layout.mjs, scripts/library-release-books-animals.json, public/books/curation.js, scripts/check-vocabulary.mjs, scripts/check-vocabulary-swipe-layout.mjs, scripts/check-phone-books.mjs, scripts/check-phone-layout.mjs, scripts/library-release-books-phone.json, scripts/library-release-books-letsread.json, scripts/check-letsread.mjs, scripts/check-letsread-layout.mjs, .github/workflows/reading-layout-check.yml]
+    paths: [index.html, scripts/check-shelf-search.mjs, scripts/check-animal-books.mjs, scripts/check-animal-layout.mjs, scripts/library-release-books-animals.json, public/books/curation.js, scripts/check-vocabulary.mjs, scripts/check-vocabulary-swipe-layout.mjs, scripts/check-phone-books.mjs, scripts/check-phone-layout.mjs, scripts/library-release-books-phone.json, scripts/library-release-books-letsread.json, scripts/check-letsread.mjs, scripts/check-letsread-layout.mjs, .github/workflows/reading-layout-check.yml]
 permissions:
   contents: read
 jobs:
@@ -50,6 +50,17 @@ jobs:
                   assert.equal(rail.overflow,'auto');
                   assert.ok(rail.pageWidth<=rail.viewport,'no page-level horizontal overflow');
                   if(width===320)assert.ok(rail.scrollWidth>rail.width,'narrow screens scroll themes');
+                  const search=page.getByRole('searchbox',{name:'搜索中文或英文书名'});
+                  await search.fill('  I LIKE to read!  ');
+                  assert.equal(await page.locator('.shelfCard').count(),1);
+                  assert.equal(await page.locator('.shelfCard').getAttribute('data-book'),'0087');
+                  assert.ok(await search.evaluate(el=>document.activeElement===el));
+                  await search.fill('我喜欢看书');assert.equal(await page.locator('.shelfCard').count(),1);
+                  if(width===390)await page.screenshot({path:'layout-proof/title-search-390.png'});
+                  await page.getByRole('button',{name:'清空搜索',exact:true}).click();
+                  assert.equal(await search.inputValue(),'');
+                  const searchBox=await search.boundingBox();assert.ok(searchBox.width>100&&searchBox.x+searchBox.width<=width);
+                  assert.equal(await page.locator('.simpleHead button').getAttribute('data-go'),'mine');
                   await page.getByLabel('选择共读阶段').click();await page.getByRole('radio',{name:'短句共读',exact:true}).click();
                   await page.getByRole('button',{name:'心情与朋友',exact:true}).click();
                   assert.equal(await page.getByLabel('选择共读阶段').getAttribute('value'),'S2');

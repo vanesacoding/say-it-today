@@ -1,0 +1,24 @@
+import assert from 'node:assert/strict';
+import {readFileSync} from 'node:fs';
+import {JSDOM} from 'jsdom';
+const html=readFileSync('index.html','utf8');
+const d=new JSDOM(html,{url:'https://jigu.local/',runScripts:'outside-only'}),w=d.window,doc=w.document;w.scrollTo=()=>{};
+for(const file of ['curation','catalog','vocabulary'])w.eval(readFileSync(`public/books/${file}.js`,'utf8'));
+w.eval([...doc.scripts].find(s=>s.textContent.includes('const books=window.JIGU_BOOKS')).textContent);
+const click=s=>{const el=doc.querySelector(s);assert.ok(el,s);el.click()};
+click('.bottomNav [data-go="shelf"]');
+assert.equal(doc.querySelector('.simpleHead button').dataset.go,'mine');assert.match(doc.querySelector('.simpleHead button').textContent,/我的/);
+let input=doc.querySelector('[data-book-search]');
+function query(value){input=doc.querySelector('[data-book-search]');input.focus();input.value=value;input.dispatchEvent(new w.Event('input',{bubbles:true}));assert.equal(doc.activeElement,input,'typing preserves focus and input node')}
+const count=()=>doc.querySelectorAll('.shelfCard').length,all=count();assert.ok(all>=85);
+query('  i LIKE to read!  ');assert.equal(count(),1);assert.equal(doc.querySelector('.shelfCard').dataset.book,'0087');
+query('我喜欢看');assert.equal(count(),1);
+query('我喜欢看书');click('[data-filter-theme="nature"]');assert.equal(count(),0,'topic intersects search');
+click('[data-action="reset-filters"]');assert.equal(count(),all);assert.equal(doc.querySelector('[data-book-search]').value,'');
+query('不存在的书 xyz');assert.equal(count(),0);assert.match(doc.querySelector('.emptyBooks').textContent,/没有找到/);
+click('[data-action="clear-search"]');assert.equal(count(),all);assert.equal(doc.activeElement,doc.querySelector('[data-book-search]'));
+input=doc.querySelector('[data-book-search]');input.value='我';input.dispatchEvent(new w.InputEvent('input',{bubbles:true,isComposing:true}));assert.equal(count(),all,'IME composition does not rebuild results');input.value='我喜欢看书';input.dispatchEvent(new w.CompositionEvent('compositionend',{bubbles:true}));assert.equal(count(),1);assert.equal(doc.querySelector('[data-book-search]'),input);
+click('[data-book="0087"]');click('[data-go="shelf"]');assert.equal(count(),1);assert.equal(doc.querySelector('[data-book-search]').value,'我喜欢看书');
+query('<img src=x onerror=alert(1)>');assert.equal(count(),0);assert.equal(doc.querySelector('[data-shelf-results] img'),null);
+click('.simpleHead [data-go="mine"]');assert.match(doc.querySelector('main').textContent,/我的/);
+d.window.close();console.log('PASS Chinese/English search, IME, focus, filters, empty/clear, back and My link');
