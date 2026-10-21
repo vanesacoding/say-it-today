@@ -7,7 +7,8 @@ import importlib.util
 spec=importlib.util.spec_from_file_location('pdfassets',root/'scripts/pdf-source-assets.py');pdfassets=importlib.util.module_from_spec(spec);spec.loader.exec_module(pdfassets)
 manifest=json.loads((root/'scripts/library-release-candidate.json').read_text())
 books={b['id']:b for b in json.loads((root/'scripts/library-release-books-phone.json').read_text())}
-for b in json.loads((root/'scripts/library-release-books-letsread.json').read_text()):books[b['id']]=b
+for name in ['library-release-books-letsread.json','library-release-books-nature.json']:
+ for b in json.loads((root/'scripts'/name).read_text()):books[b['id']]=b
 for shard in manifest['shards']:
  for b in json.loads((root/'scripts'/shard['file']).read_text()):books[b['id']]=b
 catalogue=json.loads((root/'public/books/catalog.js').read_text().removeprefix('window.JIGU_BOOKS = ').strip().removesuffix(';'))
