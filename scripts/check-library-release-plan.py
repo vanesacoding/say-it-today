@@ -5,9 +5,9 @@ ROOT=Path(__file__).resolve().parents[1]
 spec=importlib.util.spec_from_file_location('release',ROOT/'scripts/library-release-production.py');m=importlib.util.module_from_spec(spec);spec.loader.exec_module(m)
 books,request,ledger=m.plan();new=[b for b in books if b['id'] in request['newBookIds']]
 assert [b['id'] for b in books[:request['expectedNewBooks']]]==request['newBookIds']
-assert len(new)==2 and len({b['narration']['voiceId'] for b in new})==2
-assert len(ledger['pages'])==23 and all(p['bookId'] in request['newBookIds'] and p['speaker']!=m.CHARLIE for p in ledger['pages'])
-assert sum(len(b['pages']) for b in new)==24
+assert len(new)==request['expectedNewBooks']==15 and len({b['narration']['voiceId'] for b in new})==3
+assert len(ledger['pages'])==171 and all(p['bookId'] in request['newBookIds'] and p['speaker']!=m.CHARLIE for p in ledger['pages'])
+assert sum(len(b['pages']) for b in new)==176
 with tempfile.TemporaryDirectory() as temp:
  root=Path(temp);(root/'scripts').mkdir();(root/'public/books').mkdir(parents=True)
  for name in ['catalog.js','curation.js']:shutil.copy(ROOT/'public/books'/name,root/'public/books'/name)
@@ -39,4 +39,4 @@ with tempfile.TemporaryDirectory() as temp:
  try:m.plan()
  except ValueError as e:assert 'Source manifest changed' in str(e)
  else:raise AssertionError('Altered source accepted')
-print('PASS release guards: 2 CC BY 4.0 books; 24 complete source spreads; 23 new-only recordings; no Charlie, rewrites, missing/reordered pages, changed images, removed attribution or changed existing books')
+print('PASS release guards: 15 CC BY 4.0 books; 176 complete source pages; 171 new-only recordings; 3 voices; no Charlie, rewrites, missing/reordered pages, changed images, removed attribution or changed existing books')

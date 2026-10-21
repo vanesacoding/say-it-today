@@ -1,15 +1,27 @@
 {
-  "id": "animal-science-two-20261021",
-  "candidateSha256": "d7a28d6a75b1d69890f89c107b6cef736d5ee1702af7a083bdbf44612734166c",
-  "sourceCatalogueSha256": "a01e00ba2f5123255c7ec1d9dc01e66ba7c8fe89269676f300d33b25843f93c4",
-  "curationSha256": "98078f5aebc5557c6200c7a70ce44711a487ce4b3bd1094e2fc8981aab581036",
-  "sourceActiveBooks": 83,
-  "targetActiveBooks": 85,
-  "expectedNewBooks": 2,
+  "id": "nature-fifteen-20261021",
+  "candidateSha256": "28f7221b77eefc00a9a3f68b5881617b73d68af2bb96f3a11978c5f379f62a15",
+  "sourceCatalogueSha256": "3e2c902fde1e7d02ed9626739cf672eb5c00e7cdb6c7a2776eddd0e05599cd84",
+  "curationSha256": "99c1917e952704bbd14ea1cd4de45d6048e5bfe52617394141ba886be108bbb9",
+  "sourceActiveBooks": 85,
+  "targetActiveBooks": 100,
+  "expectedNewBooks": 15,
   "newBookIds": [
-    "how-do-you-sleep",
-    "how-do-you-eat"
+    "sw-animal-homes",
+    "sw-did-you-hear",
+    "sw-busy-ants",
+    "sw-clean-cat",
+    "sw-noisy-crows",
+    "sw-naughty-dog",
+    "sw-wild-cats",
+    "sw-birds-crests",
+    "sw-pufferfish",
+    "sw-love-our-home",
+    "sw-sunbirds",
+    "sw-insect-counting",
+    "lr-count-legs",
+    "sw-animal-tracks",
+    "rtr-ladybird"
   ],
-  "allowExistingChanges": false,
-  "resumeRunId": 39470803397
+  "allowExistingChanges": false
 }
