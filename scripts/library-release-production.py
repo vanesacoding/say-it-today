@@ -52,6 +52,20 @@ def validate_bookdash_source(book,source):
   if not (p['zh'] and p['tip'] and p['alt']):raise ValueError('Companion editorial missing')
  if len(book['keywords'])!=3 or not book['activity']['text']:raise ValueError('Editorial modules missing')
 
+def validate_pdf_source(book,source):
+ if source['license']!='CC-BY-4.0' or book['source']['license']!='https://creativecommons.org/licenses/by/4.0/':raise ValueError('Unapproved source license')
+ if book['source']['url']!=source['sourceUrl'] or book['source']['creators']!=source['creators'] or book['source']['attributionText']!=source['attributionText']:raise ValueError('Source attribution changed')
+ if book['source']['originalPdf']!=source['sourceUrl'] or book['source']['originalPdfSha256']!=source['pdfSha256']:raise ValueError('Source PDF evidence changed')
+ if book['sourceCover']!=source['sourceCover'] or book['sourceCoverSha256']!=source['sourceCoverSha256']:raise ValueError('Source cover changed')
+ if [p['sourcePageNumber'] for p in book['pages']]!=source['includedPdfPages'] or len(book['pages'])!=len(source['pages']):raise ValueError('Source pages missing or reordered')
+ for p,original in zip(book['pages'],source['pages']):
+  if p['en']!=original['sourceText']:raise ValueError('Incomplete source English')
+  if any(p[k]!=original[k] for k in ['sourceImage','sourceImageSha256']):raise ValueError('Source image changed')
+  if not p['sourceImage'].startswith(source['sourceUrl']+'#jigu-'):raise ValueError('Source image locator changed')
+  if any(p[k]!=original[k] for k in ['imageWidth','imageHeight']) or min(p['imageWidth'],p['imageHeight'])<320 or p['imageWidth']/p['imageHeight']>2.15:raise ValueError('Invalid original page geometry')
+  if not (p['zh'] and p['tip'] and p['alt']):raise ValueError('Companion editorial missing')
+ if len(book['keywords'])!=3 or not book['activity']['text']:raise ValueError('Editorial modules missing')
+
 def plan():
  raw=CATALOG.read_bytes();request=json.loads((ROOT/'scripts/library-release-request.json').read_text());data=(ROOT/'scripts/library-release-candidate.json').read_bytes()
  if sha(data)!=request['candidateSha256']:raise ValueError('Candidate hash changed')
@@ -96,7 +110,8 @@ def plan():
   if not before:
    if speaker not in NEW_VOICES or speaker==CHARLIE:raise ValueError('New books must not use Charlie')
    if any(p['en']!=p.get('sourceText') for p in b['pages']):raise ValueError('New source English was changed')
-   if b['source'].get('format')=='bookdash-science-spreads-v1':validate_bookdash_source(b,sources[b['id']])
+   if b['source'].get('format')=='storyweaver-pdf-art-v1':validate_pdf_source(b,sources[b['id']])
+   elif b['source'].get('format')=='bookdash-science-spreads-v1':validate_bookdash_source(b,sources[b['id']])
    else:validate_letsread_source(b,sources[b['id']])
   for i,p in enumerate(b['pages']):
    if not p['en'].strip():continue

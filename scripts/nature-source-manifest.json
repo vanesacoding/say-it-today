@@ -1,0 +1,2300 @@
+[
+  {
+    "bookId": "sw-animal-homes",
+    "sourceUrl": "https://freekidsbooks.org/wp-content/uploads/2019/08/animal-homes-pratham-FKB.pdf",
+    "pdfSha256": "bd9ab213c39f293d71ea6e0c02556712104e27cc5207d804f21b503ee16b1e53",
+    "license": "CC-BY-4.0",
+    "creators": [
+      "文字：Ashwitha Jayakumar",
+      "插画：Nafisa Nandini Crishna"
+    ],
+    "attributionText": "This book was made possible by Pratham Books' StoryWeaver platform. Content under Creative\nCommons licenses can be downloaded, translated and can even be used to create new stories ​‐\nprovided you give appropriate credit, and indicate if changes were made. To know more about\nthis, and the full terms of use and attribution, please visit the following link.\nDisclaimer: https://www.storyweaver.org.in/terms_and_conditions\nSome rights reserved. This book is CC​-BY​-4.0 licensed. You can copy, modify,\ndistribute and perform the work, even for commercial purposes, all without asking\npermission. For full terms of use and attribution,\nhttp://creativecommons.org/licenses/by/4.0/\nThe development of this book has been supported by\nOracle.\nStory Attribution:\nThis story: Animal Homes is written by Ashwitha Jayakumar . © Pratham Books , 2019. Some rights reserved. Released under CC BY 4.0 license.\nOther Credits:\nThis book was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. Guest Editor: C G\nSalamander\nImages Attributions:\nCover page: A snail , by Nafisa Nandini Crishna © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 2: Children playing\noutside their house, by Nafisa Nandini Crishna © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 3: A hornbill and\nhoneybees, by Nafisa Nandini Crishna © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 4: Spiders and termites in their\nhabitat, by Nafisa Nandini Crishna © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 5: Snails and tortoises in their\nhabitat, by Nafisa Nandini Crishna © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 6: Fish and frogs, by Nafisa\nNandini Crishna © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 7: Rabbits and rats in their habitat, by Nafisa\nNandini Crishna © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 8: Monkeys and apes, by Nafisa Nandini Crishna ©\nPratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 9: Bears outside a cave, by Nafisa Nandini Crishna © Pratham Books,\n2019. Some rights reserved. Released under CC BY 4.0 license. Page 10: A crocodile, by Nafisa Nandini Crishna © Pratham Books, 2019. Some rights\nreserved. Released under CC BY 4.0 license. Page 11: Deer and tigers in a forest, by Nafisa Nandini Crishna © Pratham Books, 2019. Some rights reserved.\nReleased under CC BY 4.0 license.\n\n\nThis book was made possible by Pratham Books' StoryWeaver platform. Content under Creative\nCommons licenses can be downloaded, translated and can even be used to create new stories ​‐\nprovided you give appropriate credit, and indicate if changes were made. To know more about\nthis, and the full terms of use and attribution, please visit the following link.\nDisclaimer: https://www.storyweaver.org.in/terms_and_conditions\nSome rights reserved. This book is CC​-BY​-4.0 licensed. You can copy, modify,\ndistribute and perform the work, even for commercial purposes, all without asking\npermission. For full terms of use and attribution,\nhttp://creativecommons.org/licenses/by/4.0/\nThe development of this book has been supported by\nOracle.\nImages Attributions:\nPage 12: A house in the forest, by Nafisa Nandini Crishna © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license.\n",
+    "sourceCover": "https://freekidsbooks.org/wp-content/uploads/2019/08/animal-homes-pratham-FKB.pdf#jigu-image=8",
+    "sourceCoverSha256": "a59f832211a362bd6636e6f6955ac8bb5d8b5548d8e8540130683369e2292ef3",
+    "includedPdfPages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "excludedPdfPages": [
+      {
+        "pageNumber": 1,
+        "reason": "原封面插画单独用于封面"
+      },
+      {
+        "pageNumber": 13,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      },
+      {
+        "pageNumber": 14,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      },
+      {
+        "pageNumber": 15,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      },
+      {
+        "pageNumber": 16,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      }
+    ],
+    "pages": [
+      {
+        "sourcePageNumber": 2,
+        "sourcePdfText": "Animals live all around us.",
+        "sourceText": "Animals live all around us.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/08/animal-homes-pratham-FKB.pdf#jigu-image=23",
+        "sourceImageSha256": "b4d016038c12e2ebdf1a5d8019b44c88d4d55c5e43b3079c000ea01438eb4ab3",
+        "imageWidth": 1073,
+        "imageHeight": 770
+      },
+      {
+        "sourcePageNumber": 3,
+        "sourcePdfText": "Birds build their homes up high.\nAnd so do bees.",
+        "sourceText": "Birds build their homes up high. And so do bees.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/08/animal-homes-pratham-FKB.pdf#jigu-image=29",
+        "sourceImageSha256": "8b73d411c9909760c1e83afea115327348e1464565345a59e1099f1d7a06bb92",
+        "imageWidth": 1073,
+        "imageHeight": 770
+      },
+      {
+        "sourcePageNumber": 4,
+        "sourcePdfText": "Spiders spin\ntheir homes.\nTiny termites build\ntall, tall homes.",
+        "sourceText": "Spiders spin their homes. Tiny termites build tall, tall homes.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/08/animal-homes-pratham-FKB.pdf#jigu-image=35",
+        "sourceImageSha256": "4f4b999362fe8c92ae54d660c916dc35ac87ece6f65f6e37bad15eca4f6825aa",
+        "imageWidth": 1073,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 5,
+        "sourcePdfText": "Snails and tortoises grow\nhomes on their backs.",
+        "sourceText": "Snails and tortoises grow homes on their backs.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/08/animal-homes-pratham-FKB.pdf#jigu-image=41",
+        "sourceImageSha256": "4a25c0891b5ac59052df192562039523e6dc7774358a5771163c3bf782962628",
+        "imageWidth": 1073,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 6,
+        "sourcePdfText": "Fish live in the water.\nFrogs can live in water and on land.",
+        "sourceText": "Fish live in the water. Frogs can live in water and on land.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/08/animal-homes-pratham-FKB.pdf#jigu-image=47",
+        "sourceImageSha256": "7c6d60bc172e8bba24dab9cf55d885843f69cca5d98be719a585f2487c37dfa5",
+        "imageWidth": 1073,
+        "imageHeight": 770
+      },
+      {
+        "sourcePageNumber": 7,
+        "sourcePdfText": "Rabbits and rats live in\nburrows under the ground.",
+        "sourceText": "Rabbits and rats live in burrows under the ground.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/08/animal-homes-pratham-FKB.pdf#jigu-image=53",
+        "sourceImageSha256": "a4d6bbdde5b97248116352069736694c2b44736e5cf473269e819aca3818a987",
+        "imageWidth": 1073,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 8,
+        "sourcePdfText": "Monkeys and apes make\ntrees their homes.",
+        "sourceText": "Monkeys and apes make trees their homes.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/08/animal-homes-pratham-FKB.pdf#jigu-image=59",
+        "sourceImageSha256": "2dcc703342a28084610b4bc3f07e31fc037b35ecc3b9c46a5fb303f883ad3c3d",
+        "imageWidth": 1073,
+        "imageHeight": 770
+      },
+      {
+        "sourcePageNumber": 9,
+        "sourcePdfText": "Bears and wolves live in dens.",
+        "sourceText": "Bears and wolves live in dens.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/08/animal-homes-pratham-FKB.pdf#jigu-image=66",
+        "sourceImageSha256": "446a1ca85c8c56be87b32ea049415f52512e04056708db7ad42f7ddf4b76cd13",
+        "imageWidth": 1073,
+        "imageHeight": 770
+      },
+      {
+        "sourcePageNumber": 10,
+        "sourcePdfText": "Crocodiles live in swamps.",
+        "sourceText": "Crocodiles live in swamps.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/08/animal-homes-pratham-FKB.pdf#jigu-image=72",
+        "sourceImageSha256": "453703374b77eb2949bfbfbaada4e37f6679d21215d997ef330381785173cf7c",
+        "imageWidth": 1073,
+        "imageHeight": 770
+      },
+      {
+        "sourcePageNumber": 11,
+        "sourcePdfText": "Deer live in forests.\nAnd so do tigers!",
+        "sourceText": "Deer live in forests. And so do tigers!",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/08/animal-homes-pratham-FKB.pdf#jigu-image=78",
+        "sourceImageSha256": "220227c1848fe29757a9d0a334993215408095c540aba41ecb177e9277f6813d",
+        "imageWidth": 1073,
+        "imageHeight": 770
+      },
+      {
+        "sourcePageNumber": 12,
+        "sourcePdfText": "Some animals live close to us and\nsome live far away. \nBut do you know what we have in\ncommon with all the animals of the\nworld? \nOne Large Home\nWe all build our homes in one large\nhome: planet Earth!",
+        "sourceText": "One Large Home Some animals live close to us and some live far away. But do you know what we have in common with all the animals of the world? We all build our homes in one large home: planet Earth!",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/08/animal-homes-pratham-FKB.pdf#jigu-image=84",
+        "sourceImageSha256": "acbf3b58e3014dade5fc1d656ebb96f10914ad1f2a44983825b0c37a5e523e94",
+        "imageWidth": 1073,
+        "imageHeight": 770
+      }
+    ]
+  },
+  {
+    "bookId": "sw-did-you-hear",
+    "sourceUrl": "https://freekidsbooks.org/wp-content/uploads/2019/09/22064-did-you-hear_FKB.pdf",
+    "pdfSha256": "d6ec7b6a4a2b947d1be09633eeba77332deda1f154c4f17ce63245f0b6eb6a7c",
+    "license": "CC-BY-4.0",
+    "creators": [
+      "文字：Sejal Mehta",
+      "插画：Rohan Chakravarty"
+    ],
+    "attributionText": "This book was made possible by Pratham Books' StoryWeaver platform. Content under Creative\nCommons licenses can be downloaded, translated and can even be used to create new stories ​‐\nprovided you give appropriate credit, and indicate if changes were made. To know more about\nthis, and the full terms of use and attribution, please visit the following link.\nDisclaimer: https://www.storyweaver.org.in/terms_and_conditions\nSome rights reserved. This book is CC​-BY​-4.0 licensed. You can copy, modify,\ndistribute and perform the work, even for commercial purposes, all without asking\npermission. For full terms of use and attribution,\nhttp://creativecommons.org/licenses/by/4.0/\nStory Attribution:\nThis story: Did You Hear? is written by Sejal Mehta . © Pratham Books , 2017. Some rights reserved. Released under CC BY 4.0 license.\nOther Credits:\n'Did You Hear?' has been published on StoryWeaver by Pratham Books. www.prathambooks.org\nImages Attributions:\nCover page: Flock of birds on a wire, by Rohan Chakravarty © Pratham Books, 2017. Some rights reserved. Released under CC BY 4.0 license. Page 2: Two\nkoels singing in the rain, by Rohan Chakravarty © Pratham Books, 2017. Some rights reserved. Released under CC BY 4.0 license. Page 3: Brahminy kite\ncalling like a crying child, by Rohan Chakravarty © Pratham Books, 2017. Some rights reserved. Released under CC BY 4.0 license. Page 4: Malabar whistling\nthrush and girl whistling, by Rohan Chakravarty © Pratham Books, 2017. Some rights reserved. Released under CC BY 4.0 license. Page 5: Laughing dove\nand a boy laughing, by Rohan Chakravarty © Pratham Books, 2017. Some rights reserved. Released under CC BY 4.0 license. Page 6: Coppersmith barbet\nand man striking metal with hammer, by Rohan Chakravarty © Pratham Books, 2017. Some rights reserved. Released under CC BY 4.0 license. Page 7:\nRacket tailed drongo singing and other animals and birds listening, by Rohan Chakravarty © Pratham Books, 2017. Some rights reserved. Released under\nCC BY 4.0 license. Page 8: Birds singing and someone listening, by Rohan Chakravarty © Pratham Books, 2017. Some rights reserved. Released under CC BY\n4.0 license.\n",
+    "sourceCover": "https://freekidsbooks.org/wp-content/uploads/2019/09/22064-did-you-hear_FKB.pdf#jigu-image=8",
+    "sourceCoverSha256": "4cf2f1c2350a27f03a0857e69b16113534bd70d53488de8e2eecb94d23a38e1a",
+    "includedPdfPages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "excludedPdfPages": [
+      {
+        "pageNumber": 1,
+        "reason": "原封面插画单独用于封面"
+      },
+      {
+        "pageNumber": 9,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      },
+      {
+        "pageNumber": 10,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      },
+      {
+        "pageNumber": 11,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      }
+    ],
+    "pages": [
+      {
+        "sourcePageNumber": 2,
+        "sourcePdfText": "Birds talk. And they talk a lot!",
+        "sourceText": "Birds talk. And they talk a lot!",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/09/22064-did-you-hear_FKB.pdf#jigu-image=23",
+        "sourceImageSha256": "4a3b84474fdd4542866152aacf1892019888d396ce4b76d5170703ce36a76b39",
+        "imageWidth": 1073,
+        "imageHeight": 577
+      },
+      {
+        "sourcePageNumber": 3,
+        "sourcePdfText": "WAAAAHHHH!\nThe Brahminy kite wails like a hungry baby.\nWAAAAHHHH!",
+        "sourceText": "WAAAAHHHH! The Brahminy kite wails like a hungry baby. WAAAAHHHH!",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/09/22064-did-you-hear_FKB.pdf#jigu-image=29",
+        "sourceImageSha256": "bb4bc65304632bf089bf403261bf9953b70cb3ab0f64ca3bc4fbf4c76cff7501",
+        "imageWidth": 1073,
+        "imageHeight": 577
+      },
+      {
+        "sourcePageNumber": 4,
+        "sourcePdfText": "FHWEE! FHWEE!\nThe Malabar whistling thrush whistles like a happy child.\nFHWEE! FHWEE!",
+        "sourceText": "FHWEE! FHWEE! The Malabar whistling thrush whistles like a happy child. FHWEE! FHWEE!",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/09/22064-did-you-hear_FKB.pdf#jigu-image=35",
+        "sourceImageSha256": "2f9e6922d54756a451b8b6ad0c2e5c3a45b77c95556622ec224d5a44f5bafe8c",
+        "imageWidth": 1073,
+        "imageHeight": 577
+      },
+      {
+        "sourcePageNumber": 5,
+        "sourcePdfText": "HU HU HU HU! HU HU HU HU!\nThe laughing dove laughs as if it's being tickled.\nHU HU HU HU! HU HU HU HU!",
+        "sourceText": "HU HU HU HU! HU HU HU HU! The laughing dove laughs as if it's being tickled. HU HU HU HU! HU HU HU HU!",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/09/22064-did-you-hear_FKB.pdf#jigu-image=41",
+        "sourceImageSha256": "28704952261bd8a81794b6bbe550855d3c05f54666d6d919aaa4a3ad0b482d8d",
+        "imageWidth": 1073,
+        "imageHeight": 577
+      },
+      {
+        "sourcePageNumber": 6,
+        "sourcePdfText": "PUK! PUK! PUK!\nThe coppersmith barbet sounds like a hammer striking metal.\nPUK! PUK! PUK!",
+        "sourceText": "PUK! PUK! PUK! The coppersmith barbet sounds like a hammer striking metal. PUK! PUK! PUK!",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/09/22064-did-you-hear_FKB.pdf#jigu-image=47",
+        "sourceImageSha256": "2ac10519249de71d3b7d67aad67973a2c1bd5f9161439988cec14542274955b9",
+        "imageWidth": 1073,
+        "imageHeight": 577
+      },
+      {
+        "sourcePageNumber": 7,
+        "sourcePdfText": "WAAAAHHHH! FHWEE! HU HU! PUK! Who is that? \nThat is the racket-tailed drongo who can copy other birds!  \nWAAAAHHHH! FHWEE! HU HU! PUK!",
+        "sourceText": "WAAAAHHHH! FHWEE! HU HU! PUK! Who is that? That is the racket-tailed drongo who can copy other birds! WAAAAHHHH! FHWEE! HU HU! PUK!",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/09/22064-did-you-hear_FKB.pdf#jigu-image=53",
+        "sourceImageSha256": "b69b9f22f451e36edd3cc96e6e472008daec19d8d324f7a4aa34e5cf0a5ce88b",
+        "imageWidth": 1073,
+        "imageHeight": 577
+      },
+      {
+        "sourcePageNumber": 8,
+        "sourcePdfText": "We may not know what birds are saying, \nBut we know who is talking.",
+        "sourceText": "We may not know what birds are saying, But we know who is talking.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/09/22064-did-you-hear_FKB.pdf#jigu-image=60",
+        "sourceImageSha256": "ef24ba9ed54239d4690e2d502462151ec7dfe372953e5d0dfe5b437ba5cf1766",
+        "imageWidth": 1073,
+        "imageHeight": 577
+      }
+    ]
+  },
+  {
+    "bookId": "sw-busy-ants",
+    "sourceUrl": "https://freekidsbooks.org/wp-content/uploads/2019/11/FKB-Stories-Busy-Ants.pdf",
+    "pdfSha256": "0d35084824bd871fcd6df38d3388704b618a2bb2e5bc1c7328c8b61d24ba9590",
+    "license": "CC-BY-4.0",
+    "creators": [
+      "文字：Kanchan Bannerjee",
+      "插画：Deepa Balsavar"
+    ],
+    "attributionText": "This book was made possible by Pratham Books' StoryWeaver platform. Content under Creative\nCommons licenses can be downloaded, translated and can even be used to create new stories ​‐\nprovided you give appropriate credit, and indicate if changes were made. To know more about\nthis, and the full terms of use and attribution, please visit the following link.\nDisclaimer: https://www.storyweaver.org.in/terms_and_conditions\nSome rights reserved. This book is CC​-BY​-4.0 licensed. You can copy, modify,\ndistribute and perform the work, even for commercial purposes, all without asking\npermission. For full terms of use and attribution,\nhttp://creativecommons.org/licenses/by/4.0/\nStory Attribution:\nThis story: Busy Ants is written by Kanchan Bannerjee . © Pratham Books , 2015. Some rights reserved. Released under CC BY 4.0 license.\nOther Credits:\nThis book has been published on StoryWeaver by Pratham Books.The development of the print version of this book has been supported by HDFC Asset\nManagement Company Limited (A joint venture with Standard Life Investments). www.prathambooks.org\nImages Attributions:\nCover page: Ants nibbling on food , by Deepa Balsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 2: Child\nwatching a row of ants, by Deepa Balsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 3: Girl and dog watching\na row of ants, by Deepa Balsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 4: Ants on wheels , by Deepa\nBalsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 5: Ants feasting on a lollipop while a child, dog and cat wail,\nby Deepa Balsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 6: Ants marching towards a cake, by Deepa\nBalsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 7: Floor being wiped, ants crawling away , by Deepa\nBalsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 8: Ants feasting on an assortment of sweets , by Deepa\nBalsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 9: Ant carrying a round, green object, by Deepa Balsavar ©\nPratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 10: Ants crawling towards a shelf filled with food , by Deepa Balsavar ©\nPratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 11: Colony of ants , by Deepa Balsavar © Pratham Books, 2015. Some\nrights reserved. Released under CC BY 4.0 license.\n\n\nThis book was made possible by Pratham Books' StoryWeaver platform. Content under Creative\nCommons licenses can be downloaded, translated and can even be used to create new stories ​‐\nprovided you give appropriate credit, and indicate if changes were made. To know more about\nthis, and the full terms of use and attribution, please visit the following link.\nDisclaimer: https://www.storyweaver.org.in/terms_and_conditions\nSome rights reserved. This book is CC​-BY​-4.0 licensed. You can copy, modify,\ndistribute and perform the work, even for commercial purposes, all without asking\npermission. For full terms of use and attribution,\nhttp://creativecommons.org/licenses/by/4.0/\nImages Attributions:\nPage 12: Elephant, by Deepa Balsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license.\n",
+    "sourceCover": "https://freekidsbooks.org/wp-content/uploads/2019/11/FKB-Stories-Busy-Ants.pdf#jigu-image=31",
+    "sourceCoverSha256": "f46a97879c2e8ce1cb609bc72fab380b1eab30bf349b3c56be46eb8d64c364b7",
+    "includedPdfPages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "excludedPdfPages": [
+      {
+        "pageNumber": 1,
+        "reason": "原封面插画单独用于封面"
+      },
+      {
+        "pageNumber": 13,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      },
+      {
+        "pageNumber": 14,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      },
+      {
+        "pageNumber": 15,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      },
+      {
+        "pageNumber": 16,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      }
+    ],
+    "pages": [
+      {
+        "sourcePageNumber": 2,
+        "sourcePdfText": "Hello, I am the fourth one in the line. Can you see me?",
+        "sourceText": "Hello, I am the fourth one in the line. Can you see me?",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/11/FKB-Stories-Busy-Ants.pdf#jigu-image=37",
+        "sourceImageSha256": "5b204b50c11fa9b0cab1657e3ca5759fdc7a48499a2ebe87b221a2383b2ef6b8",
+        "imageWidth": 1073,
+        "imageHeight": 513
+      },
+      {
+        "sourcePageNumber": 3,
+        "sourcePdfText": "Left, right, left, right. We walk silently in a line.",
+        "sourceText": "Left, right, left, right. We walk silently in a line.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/11/FKB-Stories-Busy-Ants.pdf#jigu-image=41",
+        "sourceImageSha256": "b7a6c3fda1468d6aa26812a24a510d153f02b2992b69c6e8b2133d07a5169e4e",
+        "imageWidth": 1073,
+        "imageHeight": 513
+      },
+      {
+        "sourcePageNumber": 4,
+        "sourcePdfText": "I just got an idea. I am going to\nget a set of WHEELS to move\nfaster!",
+        "sourceText": "I just got an idea. I am going to get a set of WHEELS to move faster!",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/11/FKB-Stories-Busy-Ants.pdf#jigu-image=45",
+        "sourceImageSha256": "16e888083359b79abcb99fcac47a1b33e3a092b1ff90c560555df482af77a38d",
+        "imageWidth": 536,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 5,
+        "sourcePdfText": "We are not noisy like other animals. Ours is a language of smells.",
+        "sourceText": "We are not noisy like other animals. Ours is a language of smells.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/11/FKB-Stories-Busy-Ants.pdf#jigu-image=49",
+        "sourceImageSha256": "0f59c7cd9d80c124d6bf0656c5aa8012b6d856f0e3ac4d1b578bcf68002129f5",
+        "imageWidth": 1073,
+        "imageHeight": 513
+      },
+      {
+        "sourcePageNumber": 6,
+        "sourcePdfText": "One kind of smell says, “Follow\nme this way for a feast.”",
+        "sourceText": "One kind of smell says, “Follow me this way for a feast.”",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/11/FKB-Stories-Busy-Ants.pdf#jigu-image=53",
+        "sourceImageSha256": "f8a916565e2caec583073494f52263d70acdfc5a5712f978aad37dece60f4c73",
+        "imageWidth": 536,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 7,
+        "sourcePdfText": "Another smell says, “Danger! Do not go there.”",
+        "sourceText": "Another smell says, “Danger! Do not go there.”",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/11/FKB-Stories-Busy-Ants.pdf#jigu-image=57",
+        "sourceImageSha256": "bbbb23e336c2e770e3f14c047fd6b32c5d74b53dc09fe29235e4b84e1554f033",
+        "imageWidth": 1073,
+        "imageHeight": 513
+      },
+      {
+        "sourcePageNumber": 8,
+        "sourcePdfText": "I love cakes and all kinds of sweets, just like you.",
+        "sourceText": "I love cakes and all kinds of sweets, just like you.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/11/FKB-Stories-Busy-Ants.pdf#jigu-image=61",
+        "sourceImageSha256": "95543c5a8f6e30b43538b7f3abb9a787783c386f676bf799c27cbc53e394cfc2",
+        "imageWidth": 1073,
+        "imageHeight": 513
+      },
+      {
+        "sourcePageNumber": 9,
+        "sourcePdfText": "Want to see my muscles at work?\nI may look very tiny to you, but I\nam very strong.",
+        "sourceText": "Want to see my muscles at work? I may look very tiny to you, but I am very strong.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/11/FKB-Stories-Busy-Ants.pdf#jigu-image=65",
+        "sourceImageSha256": "c741a818706dc73732c2fcf78ac4399966cc486da9e5a8724a727738948c9b6f",
+        "imageWidth": 536,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 10,
+        "sourcePdfText": "Never mind if the door is shut. I\ncan slip through the smallest\ncrack.",
+        "sourceText": "Never mind if the door is shut. I can slip through the smallest crack.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/11/FKB-Stories-Busy-Ants.pdf#jigu-image=69",
+        "sourceImageSha256": "953ad389c3e67a47aea0f52a086b4cfb496622a5886209dcba3950e3e99307c6",
+        "imageWidth": 536,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 11,
+        "sourcePdfText": "Believe it or not, hundreds of us live happily in a colony.",
+        "sourceText": "Believe it or not, hundreds of us live happily in a colony.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/11/FKB-Stories-Busy-Ants.pdf#jigu-page=11",
+        "sourceImageSha256": "4e89288806460432a3bfba164ed12fe2f780ea81cdb761c3f8e0343d3029f34e",
+        "imageWidth": 1684,
+        "imageHeight": 1190
+      },
+      {
+        "sourcePageNumber": 12,
+        "sourcePdfText": "LET US LEARN SOME NEW WORDS.\nSmall - Big\nSlow - Fast\nShort - Tall\nThin - Fat\nHard - Soft\nNoisy - Quiet\nHere are some words with their opposites. Can you\nmake a sentence for each pair of opposite words?\nFor example, ‘An ant is small; an elephant is big’.\n“As busy as an ant” is a nice way to describe\nsomeone who is very hard working.",
+        "sourceText": "LET US LEARN SOME NEW WORDS. Small - Big Slow - Fast Short - Tall Thin - Fat Hard - Soft Noisy - Quiet Here are some words with their opposites. Can you make a sentence for each pair of opposite words? For example, ‘An ant is small; an elephant is big’. “As busy as an ant” is a nice way to describe someone who is very hard working.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/11/FKB-Stories-Busy-Ants.pdf#jigu-image=77",
+        "sourceImageSha256": "02944d8bc81e9073ada5964cb93ee591e9441b9b5aa4b7366c7cb360ab86dd69",
+        "imageWidth": 536,
+        "imageHeight": 771
+      }
+    ]
+  },
+  {
+    "bookId": "sw-clean-cat",
+    "sourceUrl": "https://data.booksie.org/pratham-books/1057-clean-cat.pdf",
+    "pdfSha256": "86e5b7ad0f88ec31693d87e66827ce9225b3ca5d225855584b3fdded7d3042c0",
+    "license": "CC-BY-4.0",
+    "creators": [
+      "文字：Kanchan Bannerjee",
+      "插画：Deepa Balsavar"
+    ],
+    "attributionText": "This book was made possible by Pratham Books' StoryWeaver platform. Content under Creative\nCommons licenses can be downloaded, translated and can even be used to create new stories ​‐\nprovided you give appropriate credit, and indicate if changes were made. To know more about\nthis, and the full terms of use and attribution, please visit the following link.\nDisclaimer: https://www.storyweaver.org.in/terms_and_conditions\nSome rights reserved. This book is CC​-BY​-4.0 licensed. You can copy, modify,\ndistribute and perform the work, even for commercial purposes, all without asking\npermission. For full terms of use and attribution,\nhttp://creativecommons.org/licenses/by/4.0/\nStory Attribution:\nThis story: Clean Cat is written by Kanchan Bannerjee . © Pratham Books , 2015. Some rights reserved. Released under CC BY 4.0 license.\nOther Credits:\nThis book has been published on StoryWeaver by Pratham Books.The development of the print version of this book has been supported by HDFC Asset\nManagement Company Limited (A joint venture with Standard Life Investments). www.prathambooks.org\nImages Attributions:\nCover page: Clean cat, by Deepa Balsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 2: Boy drawing a cat, as a\ncat watches him, by Deepa Balsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 3: Three children playing with a\ncat, by Deepa Balsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 4: Children leaving home for school, by Deepa\nBalsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 5: Cat licking itself clean, boy dragging a dog for a bath, by\nDeepa Balsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 6: Cat watching a mouse quietly, by Deepa Balsavar\n© Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 7: Mother scolding a child and a cat, by Deepa Balsavar © Pratham\nBooks, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 8: Cat jumping on to a wall, by Deepa Balsavar © Pratham Books, 2015. Some\nrights reserved. Released under CC BY 4.0 license. Page 9: Boy making faces at a brown cat, by Deepa Balsavar © Pratham Books, 2015. Some rights\nreserved. Released under CC BY 4.0 license. Page 10: Cat and a tiger, by Deepa Balsavar © Pratham Books, 2015. Some rights reserved. Released under CC\nBY 4.0 license. Page 11: Brown cat sleeping on a boy's bed, black cats out in the street, by Deepa Balsavar © Pratham Books, 2015. Some rights reserved.\nReleased under CC BY 4.0 license.\n\n\nThis book was made possible by Pratham Books' StoryWeaver platform. Content under Creative\nCommons licenses can be downloaded, translated and can even be used to create new stories ​‐\nprovided you give appropriate credit, and indicate if changes were made. To know more about\nthis, and the full terms of use and attribution, please visit the following link.\nDisclaimer: https://www.storyweaver.org.in/terms_and_conditions\nSome rights reserved. This book is CC​-BY​-4.0 licensed. You can copy, modify,\ndistribute and perform the work, even for commercial purposes, all without asking\npermission. For full terms of use and attribution,\nhttp://creativecommons.org/licenses/by/4.0/\nImages Attributions:\nPage 12: Dog and Cat, by Deepa Balsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license.\n",
+    "sourceCover": "https://data.booksie.org/pratham-books/1057-clean-cat.pdf#jigu-image=84",
+    "sourceCoverSha256": "b7c6a01fa6a320f1155eaea747d4f409e58d3dec019df65ea2fdf5edcb9687a7",
+    "includedPdfPages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "excludedPdfPages": [
+      {
+        "pageNumber": 1,
+        "reason": "原封面插画单独用于封面"
+      },
+      {
+        "pageNumber": 13,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      },
+      {
+        "pageNumber": 14,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      },
+      {
+        "pageNumber": 15,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      }
+    ],
+    "pages": [
+      {
+        "sourcePageNumber": 2,
+        "sourcePdfText": "This is my house. Ma, Pa and Cheena also live here.",
+        "sourceText": "This is my house. Ma, Pa and Cheena also live here.",
+        "sourceImage": "https://data.booksie.org/pratham-books/1057-clean-cat.pdf#jigu-image=87",
+        "sourceImageSha256": "3962552aefdb8eb6d9f3eb29b379de6d8553d20c191d74c96f12e7b0bd03f8e6",
+        "imageWidth": 1073,
+        "imageHeight": 513
+      },
+      {
+        "sourcePageNumber": 3,
+        "sourcePdfText": "The best chair in the house is for me. But sitting on the lap is even better, isn’t\nit?",
+        "sourceText": "The best chair in the house is for me. But sitting on the lap is even better, isn’t it?",
+        "sourceImage": "https://data.booksie.org/pratham-books/1057-clean-cat.pdf#jigu-image=88",
+        "sourceImageSha256": "e92c61c507136d7cb6151ed824c02843e8d4c4532bf5177ddcbd4e3ec399349f",
+        "imageWidth": 1073,
+        "imageHeight": 513
+      },
+      {
+        "sourcePageNumber": 4,
+        "sourcePdfText": "Cheena is my best friend. I wait for her to return from school.",
+        "sourceText": "Cheena is my best friend. I wait for her to return from school.",
+        "sourceImage": "https://data.booksie.org/pratham-books/1057-clean-cat.pdf#jigu-image=89",
+        "sourceImageSha256": "f13392f880836e8ee2d93f1447329998018b7014df8fad11ee6716b141feb347",
+        "imageWidth": 1073,
+        "imageHeight": 513
+      },
+      {
+        "sourcePageNumber": 5,
+        "sourcePdfText": "I keep myself clean without water. I do not need a bath like Tommy.",
+        "sourceText": "I keep myself clean without water. I do not need a bath like Tommy.",
+        "sourceImage": "https://data.booksie.org/pratham-books/1057-clean-cat.pdf#jigu-image=90",
+        "sourceImageSha256": "924adc3c05a0fe6998f9f5d22b8be87fe2878c742050c7b4a4a430d1222d31b7",
+        "imageWidth": 1073,
+        "imageHeight": 513
+      },
+      {
+        "sourcePageNumber": 6,
+        "sourcePdfText": "Shhh... don’t tell anyone that I am hiding here. \n1... 2... 3... Got you!",
+        "sourceText": "Shhh... don’t tell anyone that I am hiding here. 1... 2... 3... Got you!",
+        "sourceImage": "https://data.booksie.org/pratham-books/1057-clean-cat.pdf#jigu-image=91",
+        "sourceImageSha256": "c6eda75f4172bfff54dec680fa53ef5ec8ddc0e2ac8d10d5f5bf8587a5d3d014",
+        "imageWidth": 1073,
+        "imageHeight": 513
+      },
+      {
+        "sourcePageNumber": 7,
+        "sourcePdfText": "Ma shouts at me, when I bring some tasty food from the garden.",
+        "sourceText": "Ma shouts at me, when I bring some tasty food from the garden.",
+        "sourceImage": "https://data.booksie.org/pratham-books/1057-clean-cat.pdf#jigu-image=92",
+        "sourceImageSha256": "792da0b97c67c17aab93c41f24e02c5eebe9294ef840756703128ab68cd810ed",
+        "imageWidth": 1073,
+        "imageHeight": 513
+      },
+      {
+        "sourcePageNumber": 8,
+        "sourcePdfText": "I can climb trees. I can jump. I know all the short cuts here.",
+        "sourceText": "I can climb trees. I can jump. I know all the short cuts here.",
+        "sourceImage": "https://data.booksie.org/pratham-books/1057-clean-cat.pdf#jigu-image=93",
+        "sourceImageSha256": "f332e4e454164323efa2fd4f76e6acd4e388afa0fa9c3c250f27daa13fdc7ca1",
+        "imageWidth": 1073,
+        "imageHeight": 513
+      },
+      {
+        "sourcePageNumber": 9,
+        "sourcePdfText": "Sanju lives nearby. He teases me. It makes me very angry.",
+        "sourceText": "Sanju lives nearby. He teases me. It makes me very angry.",
+        "sourceImage": "https://data.booksie.org/pratham-books/1057-clean-cat.pdf#jigu-image=94",
+        "sourceImageSha256": "9750ca1ce19bd75388811192c4a2159eea203de2b65256e812011361aa651fad",
+        "imageWidth": 1073,
+        "imageHeight": 513
+      },
+      {
+        "sourcePageNumber": 10,
+        "sourcePdfText": "Please tell Sanju that the tiger is from our cat family. We have sharp claws.",
+        "sourceText": "Please tell Sanju that the tiger is from our cat family. We have sharp claws.",
+        "sourceImage": "https://data.booksie.org/pratham-books/1057-clean-cat.pdf#jigu-image=95",
+        "sourceImageSha256": "ff36c6eb988cb7cead9aadad5f6dcc1f0f5307b24ecf3a7de205b43a74f7cd9b",
+        "imageWidth": 1073,
+        "imageHeight": 513
+      },
+      {
+        "sourcePageNumber": 11,
+        "sourcePdfText": "My friends sometimes make a lot of noise at night. By then I am quietly in\nbed.",
+        "sourceText": "My friends sometimes make a lot of noise at night. By then I am quietly in bed.",
+        "sourceImage": "https://data.booksie.org/pratham-books/1057-clean-cat.pdf#jigu-image=96",
+        "sourceImageSha256": "f39e4bdfb847801aebe5e726673830165cfdc0bc80264257b49fbfb8d6e927e6",
+        "imageWidth": 1073,
+        "imageHeight": 513
+      },
+      {
+        "sourcePageNumber": 12,
+        "sourcePdfText": "Tails can speak!\nDid you know how animals and birds\ntell us something by using their tails?\nA dog wags its tail when it is happy. A\ncat puffs up its tail when it is angry.\nOften we say, “As clean as a cat”.\nThis is because cats do not like water,\nyet they are always keeping\nthemselves clean by licking\nthemselves.",
+        "sourceText": "Tails can speak! Did you know how animals and birds tell us something by using their tails? A dog wags its tail when it is happy. A cat puffs up its tail when it is angry. Often we say, “As clean as a cat”. This is because cats do not like water, yet they are always keeping themselves clean by licking themselves.",
+        "sourceImage": "https://data.booksie.org/pratham-books/1057-clean-cat.pdf#jigu-image=97",
+        "sourceImageSha256": "71c05375709400ad85a48ae4318c967e8bac93dd4687ef3282527cd72ee73dcf",
+        "imageWidth": 536,
+        "imageHeight": 771
+      }
+    ]
+  },
+  {
+    "bookId": "sw-noisy-crows",
+    "sourceUrl": "https://data.booksie.org/pratham-books/1062-noisy-crows.pdf",
+    "pdfSha256": "4a80a408a0fe7327f0fffe632fb89ad352ee7b1cf02830bbaa24a9f2c437a412",
+    "license": "CC-BY-4.0",
+    "creators": [
+      "文字：Kanchan Bannerjee",
+      "插画：Deepa Balsavar"
+    ],
+    "attributionText": "This book was made possible by Pratham Books' StoryWeaver platform. Content under Creative\nCommons licenses can be downloaded, translated and can even be used to create new stories ​‐\nprovided you give appropriate credit, and indicate if changes were made. To know more about\nthis, and the full terms of use and attribution, please visit the following link.\nDisclaimer: https://www.storyweaver.org.in/terms_and_conditions\nSome rights reserved. This book is CC​-BY​-4.0 licensed. You can copy, modify,\ndistribute and perform the work, even for commercial purposes, all without asking\npermission. For full terms of use and attribution,\nhttp://creativecommons.org/licenses/by/4.0/\nStory Attribution:\nThis story: Noisy Crows is written by Kanchan Bannerjee . © Pratham Books , 2015. Some rights reserved. Released under CC BY 4.0 license.\nOther Credits:\nThis book has been published on StoryWeaver by Pratham Books.The development of the print version of this book has been supported by HDFC Asset\nManagement Company Limited (A joint venture with Standard Life Investments). www.prathambooks.org\nImages Attributions:\nCover page: Flying crow, by Deepa Balsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 2: Crow on a mango tree,\nby Deepa Balsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 3: Crow guarding its nest and babies, by Deepa\nBalsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 4: Crow family sifting through the things they have\ncollected, by Deepa Balsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 5: Crow flying in the sky, by Deepa\nBalsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 6: A crow watching a girl and a dog walk by, by Deepa\nBalsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 7: Perched on top of a tall tree, a crow watches people\nbelow, by Deepa Balsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 8: A fish-seller speaking to a woman and\nher son, crow flying away with a piece of fish, by Deepa Balsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 9: A\nwoman watching three crows share a piece of fish, by Deepa Balsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license.\nPage 10: A crow being shooed away by an old man, by Deepa Balsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license.\nPage 11: Fox watching a crow sing, by Deepa Balsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license.\n\n\nThis book was made possible by Pratham Books' StoryWeaver platform. Content under Creative\nCommons licenses can be downloaded, translated and can even be used to create new stories ​‐\nprovided you give appropriate credit, and indicate if changes were made. To know more about\nthis, and the full terms of use and attribution, please visit the following link.\nDisclaimer: https://www.storyweaver.org.in/terms_and_conditions\nSome rights reserved. This book is CC​-BY​-4.0 licensed. You can copy, modify,\ndistribute and perform the work, even for commercial purposes, all without asking\npermission. For full terms of use and attribution,\nhttp://creativecommons.org/licenses/by/4.0/\nImages Attributions:\nPage 12: A crow and a cat, by Deepa Balsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 13: A lion and a dog, by\nDeepa Balsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license.\n",
+    "sourceCover": "https://data.booksie.org/pratham-books/1062-noisy-crows.pdf#jigu-image=89",
+    "sourceCoverSha256": "d0f4d3cf5e1f986b74024aa8afc0803d8cbb73d7159b65a056520a5dd32048a1",
+    "includedPdfPages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "excludedPdfPages": [
+      {
+        "pageNumber": 1,
+        "reason": "原封面插画单独用于封面"
+      },
+      {
+        "pageNumber": 14,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      },
+      {
+        "pageNumber": 15,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      },
+      {
+        "pageNumber": 16,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      }
+    ],
+    "pages": [
+      {
+        "sourcePageNumber": 2,
+        "sourcePdfText": "I live in the mango tree. I eat lots of ripe fruit in summer.",
+        "sourceText": "I live in the mango tree. I eat lots of ripe fruit in summer.",
+        "sourceImage": "https://data.booksie.org/pratham-books/1062-noisy-crows.pdf#jigu-image=92",
+        "sourceImageSha256": "1a05365025615684e0cb7286d3e52c53ec713b7c570eea327f4283083a902d56",
+        "imageWidth": 1073,
+        "imageHeight": 513
+      },
+      {
+        "sourcePageNumber": 3,
+        "sourcePdfText": "When my babies are in the nest, I have to be on guard.",
+        "sourceText": "When my babies are in the nest, I have to be on guard.",
+        "sourceImage": "https://data.booksie.org/pratham-books/1062-noisy-crows.pdf#jigu-image=93",
+        "sourceImageSha256": "ee2e41de217d07fab31bd0d028c965cbba97318bdec8ca8742fba484340255d0",
+        "imageWidth": 1073,
+        "imageHeight": 513
+      },
+      {
+        "sourcePageNumber": 4,
+        "sourcePdfText": "Come peep into my nest. See the lovely things I have found.",
+        "sourceText": "Come peep into my nest. See the lovely things I have found.",
+        "sourceImage": "https://data.booksie.org/pratham-books/1062-noisy-crows.pdf#jigu-image=94",
+        "sourceImageSha256": "ef38376b33d61e0a072738fe491f323474fc21f8fa09825d6f3f7cbed5fae04b",
+        "imageWidth": 1073,
+        "imageHeight": 513
+      },
+      {
+        "sourcePageNumber": 5,
+        "sourcePdfText": "I love to fly up in the sky, like a plane.",
+        "sourceText": "I love to fly up in the sky, like a plane.",
+        "sourceImage": "https://data.booksie.org/pratham-books/1062-noisy-crows.pdf#jigu-image=95",
+        "sourceImageSha256": "69ac4fc750bfb57c4b7f3becff1ca775f039341b9a05d17dbc23cd94e3de3c96",
+        "imageWidth": 1073,
+        "imageHeight": 513
+      },
+      {
+        "sourcePageNumber": 6,
+        "sourcePdfText": "I sit on the tree and look around for some tasty bits of food.",
+        "sourceText": "I sit on the tree and look around for some tasty bits of food.",
+        "sourceImage": "https://data.booksie.org/pratham-books/1062-noisy-crows.pdf#jigu-image=96",
+        "sourceImageSha256": "cda1cc0ada8959ac0d2255bb713660fb798e1d25b0a1df90ec48f1b4e7255abb",
+        "imageWidth": 1073,
+        "imageHeight": 513
+      },
+      {
+        "sourcePageNumber": 7,
+        "sourcePdfText": "I look to my right. I look to my left.",
+        "sourceText": "I look to my right. I look to my left.",
+        "sourceImage": "https://data.booksie.org/pratham-books/1062-noisy-crows.pdf#jigu-image=97",
+        "sourceImageSha256": "9c7e9ccf2e18259174f040360e9e20b18fa6ba4cfe4a9d528f1117aad549ea00",
+        "imageWidth": 1073,
+        "imageHeight": 513
+      },
+      {
+        "sourcePageNumber": 8,
+        "sourcePdfText": "I love fish. When I spot it, I fly down to pick it up.",
+        "sourceText": "I love fish. When I spot it, I fly down to pick it up.",
+        "sourceImage": "https://data.booksie.org/pratham-books/1062-noisy-crows.pdf#jigu-image=98",
+        "sourceImageSha256": "0543d6635fb830334ef766b5e54acac95c0be57b73a831b111ce4960663550ae",
+        "imageWidth": 1073,
+        "imageHeight": 513
+      },
+      {
+        "sourcePageNumber": 9,
+        "sourcePdfText": "With my cawing I call my friends to share the feast with me.",
+        "sourceText": "With my cawing I call my friends to share the feast with me.",
+        "sourceImage": "https://data.booksie.org/pratham-books/1062-noisy-crows.pdf#jigu-image=99",
+        "sourceImageSha256": "bc1a43550fa4c254adc53f531b100a2804e176fed5d9f4603e7cb33b35e512e2",
+        "imageWidth": 1073,
+        "imageHeight": 513
+      },
+      {
+        "sourcePageNumber": 10,
+        "sourcePdfText": "Some people shout at me, “Go away, you noisy bird.”",
+        "sourceText": "Some people shout at me, “Go away, you noisy bird.”",
+        "sourceImage": "https://data.booksie.org/pratham-books/1062-noisy-crows.pdf#jigu-image=100",
+        "sourceImageSha256": "e305f8fcf1dae9bdcd18df21009f1c60bff3b5b7e394a98a707b4e7564efbb9d",
+        "imageWidth": 1073,
+        "imageHeight": 513
+      },
+      {
+        "sourcePageNumber": 11,
+        "sourcePdfText": "Mr Fox likes my singing. He told me so himself.",
+        "sourceText": "Mr Fox likes my singing. He told me so himself.",
+        "sourceImage": "https://data.booksie.org/pratham-books/1062-noisy-crows.pdf#jigu-image=101",
+        "sourceImageSha256": "781235eaa72dd5bdd964ba13f6090c9fef1653c679291a44e3cc8af2dac4b154",
+        "imageWidth": 1073,
+        "imageHeight": 513
+      },
+      {
+        "sourcePageNumber": 12,
+        "sourcePdfText": "LET US LEARN SOME NEW WORDS.\n \nThe sound that each animal or bird\nmakes, has a special name.How\nmany of these do you know?\nA crow caws.\n \nA cat mews.",
+        "sourceText": "LET US LEARN SOME NEW WORDS. The sound that each animal or bird makes, has a special name.How many of these do you know? A crow caws. A cat mews.",
+        "sourceImage": "https://data.booksie.org/pratham-books/1062-noisy-crows.pdf#jigu-image=102",
+        "sourceImageSha256": "fef8dfbd5eec0e283dae2b2c094767a82955fcf942a0e3005a7c50d7e0262751",
+        "imageWidth": 536,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 13,
+        "sourcePdfText": "A lion roars.\nA dog barks.\n \nCrows make a lot of noise. So when\nsome people talk loudly we say, “As\nnoisy as a crow”.",
+        "sourceText": "A lion roars. A dog barks. Crows make a lot of noise. So when some people talk loudly we say, “As noisy as a crow”.",
+        "sourceImage": "https://data.booksie.org/pratham-books/1062-noisy-crows.pdf#jigu-image=103",
+        "sourceImageSha256": "f125ebbc00fa1745722dfee645ba182b921cd74808921a6a65d5c7d7f8a96ba9",
+        "imageWidth": 536,
+        "imageHeight": 771
+      }
+    ]
+  },
+  {
+    "bookId": "sw-naughty-dog",
+    "sourceUrl": "https://data.booksie.org/pratham-books/1067-naughty-dog.pdf",
+    "pdfSha256": "c429b05ec90aa0471bc5ad56aee746d03ceb83be92f677bf6ce6baaba5f9abef",
+    "license": "CC-BY-4.0",
+    "creators": [
+      "文字：Kanchan Bannerjee",
+      "插画：Deepa Balsavar"
+    ],
+    "attributionText": "This book was made possible by Pratham Books' StoryWeaver platform. Content under Creative\nCommons licenses can be downloaded, translated and can even be used to create new stories ​‐\nprovided you give appropriate credit, and indicate if changes were made. To know more about\nthis, and the full terms of use and attribution, please visit the following link.\nDisclaimer: https://www.storyweaver.org.in/terms_and_conditions\nSome rights reserved. This book is CC​-BY​-4.0 licensed. You can copy, modify,\ndistribute and perform the work, even for commercial purposes, all without asking\npermission. For full terms of use and attribution,\nhttp://creativecommons.org/licenses/by/4.0/\nStory Attribution:\nThis story: Naughty Dog is written by Kanchan Bannerjee . © Pratham Books , 2015. Some rights reserved. Released under CC BY 4.0 license.\nOther Credits:\nThis book has been published on StoryWeaver by Pratham Books.The development of the print version of this book has been supported by HDFC Asset\nManagement Company Limited (A joint venture with Standard Life Investments). www.prathambooks.org\nImages Attributions:\nCover page: Playful dog, by Deepa Balsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 2: Boy holding up a\ndrawing, dog sitting beside him, by Deepa Balsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 3: Children\nplaying in an open ground, by Deepa Balsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 4: Dog trying to wake\nup a sleeping boy, cat peeping through the door, by Deepa Balsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page\n5: Boy leaning on a dog and reading a book, by Deepa Balsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 6:\nChildren playing cricket, by Deepa Balsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 7: Mother scolding a boy\nand his dog for breaking something, by Deepa Balsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 8: Mother\nmaking rotis, crow driving away crows from papads, by Deepa Balsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license.\nPage 9: Boy feeding a dog , by Deepa Balsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 10: Boy handing over\na cricket bat, dog watching cats , by Deepa Balsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 11: Boy and a\ngirl playing with a dog, by Deepa Balsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license.\n\n\nThis book was made possible by Pratham Books' StoryWeaver platform. Content under Creative\nCommons licenses can be downloaded, translated and can even be used to create new stories ​‐\nprovided you give appropriate credit, and indicate if changes were made. To know more about\nthis, and the full terms of use and attribution, please visit the following link.\nDisclaimer: https://www.storyweaver.org.in/terms_and_conditions\nSome rights reserved. This book is CC​-BY​-4.0 licensed. You can copy, modify,\ndistribute and perform the work, even for commercial purposes, all without asking\npermission. For full terms of use and attribution,\nhttp://creativecommons.org/licenses/by/4.0/\nImages Attributions:\nPage 12: Children and their hobbies, by Deepa Balsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license. Page 13: Girl\ncycling, boy climbing, by Deepa Balsavar © Pratham Books, 2015. Some rights reserved. Released under CC BY 4.0 license.\n",
+    "sourceCover": "https://data.booksie.org/pratham-books/1067-naughty-dog.pdf#jigu-image=89",
+    "sourceCoverSha256": "5d7ec036fa1f56ecbf0cc125549da4f72357286792fbb5e9eca11a1738d198f3",
+    "includedPdfPages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "excludedPdfPages": [
+      {
+        "pageNumber": 1,
+        "reason": "原封面插画单独用于封面"
+      },
+      {
+        "pageNumber": 14,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      },
+      {
+        "pageNumber": 15,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      },
+      {
+        "pageNumber": 16,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      }
+    ],
+    "pages": [
+      {
+        "sourcePageNumber": 2,
+        "sourcePdfText": "We are a family of four. I follow Chinku everywhere.",
+        "sourceText": "We are a family of four. I follow Chinku everywhere.",
+        "sourceImage": "https://data.booksie.org/pratham-books/1067-naughty-dog.pdf#jigu-image=92",
+        "sourceImageSha256": "5c1901adbff393f321aa916f209abcabefc228784dd4fc630b602c5d934c6940",
+        "imageWidth": 1073,
+        "imageHeight": 513
+      },
+      {
+        "sourcePageNumber": 3,
+        "sourcePdfText": "I have to look after Chinku. You see, I am older than him.",
+        "sourceText": "I have to look after Chinku. You see, I am older than him.",
+        "sourceImage": "https://data.booksie.org/pratham-books/1067-naughty-dog.pdf#jigu-image=93",
+        "sourceImageSha256": "c9369b7763900c8f02d3cc628234ad50b41653cd8c5f89ac6e061b0092a83c48",
+        "imageWidth": 1073,
+        "imageHeight": 513
+      },
+      {
+        "sourcePageNumber": 4,
+        "sourcePdfText": "Sometimes Chinku is careless. It is my duty to guard the house.",
+        "sourceText": "Sometimes Chinku is careless. It is my duty to guard the house.",
+        "sourceImage": "https://data.booksie.org/pratham-books/1067-naughty-dog.pdf#jigu-image=94",
+        "sourceImageSha256": "c005cceddb9d9d134ec31ab569f3d7a2fb6876de297bb6db7f9b6e5718fe06a0",
+        "imageWidth": 1073,
+        "imageHeight": 513
+      },
+      {
+        "sourcePageNumber": 5,
+        "sourcePdfText": "We do everything together. We work together.",
+        "sourceText": "We do everything together. We work together.",
+        "sourceImage": "https://data.booksie.org/pratham-books/1067-naughty-dog.pdf#jigu-image=95",
+        "sourceImageSha256": "8e294c30a6a5098cf076b7853eae3c2ec8a1214c811bd9fdaf0964e8ac3d3c9f",
+        "imageWidth": 1073,
+        "imageHeight": 513
+      },
+      {
+        "sourcePageNumber": 6,
+        "sourcePdfText": "We play together.",
+        "sourceText": "We play together.",
+        "sourceImage": "https://data.booksie.org/pratham-books/1067-naughty-dog.pdf#jigu-image=96",
+        "sourceImageSha256": "1f2bc3009ad9219c250bb35b9530272b18244a246bc194ddf9264245c5fac07a",
+        "imageWidth": 1073,
+        "imageHeight": 513
+      },
+      {
+        "sourcePageNumber": 7,
+        "sourcePdfText": "We even share Ma’s scolding.",
+        "sourceText": "We even share Ma’s scolding.",
+        "sourceImage": "https://data.booksie.org/pratham-books/1067-naughty-dog.pdf#jigu-image=97",
+        "sourceImageSha256": "05e1ed5977a796df942635992b64901bc78c6fcc4431fa52fff14ae60e5fd89e",
+        "imageWidth": 1073,
+        "imageHeight": 513
+      },
+      {
+        "sourcePageNumber": 8,
+        "sourcePdfText": "When Chinku is at school I help Ma. I keep the crows away from the papads.",
+        "sourceText": "When Chinku is at school I help Ma. I keep the crows away from the papads.",
+        "sourceImage": "https://data.booksie.org/pratham-books/1067-naughty-dog.pdf#jigu-image=98",
+        "sourceImageSha256": "0b86654448bd311e3d0328a37e2fb56316233039a0b8ffe43e85b4e2d76f10dc",
+        "imageWidth": 1073,
+        "imageHeight": 513
+      },
+      {
+        "sourcePageNumber": 9,
+        "sourcePdfText": "Today Chinku will be my teacher. At last, I will learn something new.",
+        "sourceText": "Today Chinku will be my teacher. At last, I will learn something new.",
+        "sourceImage": "https://data.booksie.org/pratham-books/1067-naughty-dog.pdf#jigu-image=99",
+        "sourceImageSha256": "de6273fd7996975e6c41d0d99032ac6a1405c5298cb5fc7452250a2357de0101",
+        "imageWidth": 1073,
+        "imageHeight": 513
+      },
+      {
+        "sourcePageNumber": 10,
+        "sourcePdfText": "I am a good doggy. I do not scare away cats.",
+        "sourceText": "I am a good doggy. I do not scare away cats.",
+        "sourceImage": "https://data.booksie.org/pratham-books/1067-naughty-dog.pdf#jigu-image=100",
+        "sourceImageSha256": "e4abc3d385fc871426ad35e763ff8349567fdeaa91cb5b52ad9766c1d76a1bfe",
+        "imageWidth": 1073,
+        "imageHeight": 513
+      },
+      {
+        "sourcePageNumber": 11,
+        "sourcePdfText": "Are you Chinku’s friend? Then you are my friend too.",
+        "sourceText": "Are you Chinku’s friend? Then you are my friend too.",
+        "sourceImage": "https://data.booksie.org/pratham-books/1067-naughty-dog.pdf#jigu-image=101",
+        "sourceImageSha256": "d382ac6403bf03fe96a5f5d6eb98a47d1480f4f948b84c089817a463a5c69356",
+        "imageWidth": 1073,
+        "imageHeight": 513
+      },
+      {
+        "sourcePageNumber": 12,
+        "sourcePdfText": "Read the following action sentences.\nWhich of these activities do you like\nto do?\nI like dancing.\nI like swimming.\nI like skipping.\nI like drawing.",
+        "sourceText": "Read the following action sentences. Which of these activities do you like to do? I like dancing. I like swimming. I like skipping. I like drawing.",
+        "sourceImage": "https://data.booksie.org/pratham-books/1067-naughty-dog.pdf#jigu-image=102",
+        "sourceImageSha256": "fc05e8cc5fbf60a035654f3bbc3186b11860d56cfb1edaf2bf20b1e3489c3b5e",
+        "imageWidth": 536,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 13,
+        "sourcePdfText": "I like cycling.\nI like climbing.\nSometimes we say, “As faithful as a\ndog”. This is because a dog always\nstays close to its master. If it goes far\naway or is lost, a dog always finds its\nway back home.",
+        "sourceText": "I like cycling. I like climbing. Sometimes we say, “As faithful as a dog”. This is because a dog always stays close to its master. If it goes far away or is lost, a dog always finds its way back home.",
+        "sourceImage": "https://data.booksie.org/pratham-books/1067-naughty-dog.pdf#jigu-image=103",
+        "sourceImageSha256": "11510b5662431188b89ceb708f5a1cbac04b7e1b91a5bfca5f1c6562156ac92e",
+        "imageWidth": 536,
+        "imageHeight": 771
+      }
+    ]
+  },
+  {
+    "bookId": "sw-wild-cats",
+    "sourceUrl": "https://data.booksie.org/pratham-books/21618-wild-cat-wild-cat.pdf",
+    "pdfSha256": "f899f7a48015bf2e4102d24aaa6c324f68854b445f5c46cafdde5ddcc0a6c514",
+    "license": "CC-BY-4.0",
+    "creators": [
+      "文字：Sejal Mehta",
+      "插画：Rohan Chakravarty"
+    ],
+    "attributionText": "This book was made possible by Pratham Books' StoryWeaver platform. Content under Creative\nCommons licenses can be downloaded, translated and can even be used to create new stories ​‐\nprovided you give appropriate credit, and indicate if changes were made. To know more about\nthis, and the full terms of use and attribution, please visit the following link.\nDisclaimer: https://www.storyweaver.org.in/terms_and_conditions\nSome rights reserved. This book is CC​-BY​-4.0 licensed. You can copy, modify,\ndistribute and perform the work, even for commercial purposes, all without asking\npermission. For full terms of use and attribution,\nhttp://creativecommons.org/licenses/by/4.0/\nStory Attribution:\nThis story: Wild Cat! Wild Cat! is written by Sejal Mehta . © Pratham Books , 2017. Some rights reserved. Released under CC BY 4.0 license.\nOther Credits:\n'Wild Cat! Wild Cat!' has been published on StoryWeaver by Pratham Books. www.prathambooks.org\nImages Attributions:\nCover page: House cat looking at wild cats, by Rohan Chakravarty © Pratham Books, 2017. Some rights reserved. Released under CC BY 4.0 license. Page 2:\nHouse cat looking at tiger, by Rohan Chakravarty © Pratham Books, 2017. Some rights reserved. Released under CC BY 4.0 license. Page 3: House cat\nlooking at lion, by Rohan Chakravarty © Pratham Books, 2017. Some rights reserved. Released under CC BY 4.0 license. Page 4: House cat looking at leopard\nand leopard cat, by Rohan Chakravarty © Pratham Books, 2017. Some rights reserved. Released under CC BY 4.0 license. Page 5: House cat looking at\nmarble cat and clouded leopard, by Rohan Chakravarty © Pratham Books, 2017. Some rights reserved. Released under CC BY 4.0 license. Page 6: House cat\nlooking at snow leopard and pallas's cat, by Rohan Chakravarty © Pratham Books, 2017. Some rights reserved. Released under CC BY 4.0 license. Page 7:\nHouse cat looking at desert cat, by Rohan Chakravarty © Pratham Books, 2017. Some rights reserved. Released under CC BY 4.0 license. Page 8: House cat\nlooking at caracal and lynx, by Rohan Chakravarty © Pratham Books, 2017. Some rights reserved. Released under CC BY 4.0 license. Page 9: House cat\nlooking at fishing cat, by Rohan Chakravarty © Pratham Books, 2017. Some rights reserved. Released under CC BY 4.0 license. Page 10: House cat looking at\nrusty spotted cat, by Rohan Chakravarty © Pratham Books, 2017. Some rights reserved. Released under CC BY 4.0 license. Page 11: House cat looking at\ngolden cat and jungle cat, by Rohan Chakravarty © Pratham Books, 2017. Some rights reserved. Released under CC BY 4.0 license.\n\n\nThis book was made possible by Pratham Books' StoryWeaver platform. Content under Creative\nCommons licenses can be downloaded, translated and can even be used to create new stories ​‐\nprovided you give appropriate credit, and indicate if changes were made. To know more about\nthis, and the full terms of use and attribution, please visit the following link.\nDisclaimer: https://www.storyweaver.org.in/terms_and_conditions\nSome rights reserved. This book is CC​-BY​-4.0 licensed. You can copy, modify,\ndistribute and perform the work, even for commercial purposes, all without asking\npermission. For full terms of use and attribution,\nhttp://creativecommons.org/licenses/by/4.0/\nImages Attributions:\nPage 12: House cat seeing wild cats chasing mouse, by Rohan Chakravarty © Pratham Books, 2017. Some rights reserved. Released under CC BY 4.0 license.\n",
+    "sourceCover": "https://data.booksie.org/pratham-books/21618-wild-cat-wild-cat.pdf#jigu-image=84",
+    "sourceCoverSha256": "355e8e832eaee3b3a1b01ba6e693e0f748b651c65d210c36681aae58c6d8c203",
+    "includedPdfPages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "excludedPdfPages": [
+      {
+        "pageNumber": 1,
+        "reason": "原封面插画单独用于封面"
+      },
+      {
+        "pageNumber": 13,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      },
+      {
+        "pageNumber": 14,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      },
+      {
+        "pageNumber": 15,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      }
+    ],
+    "pages": [
+      {
+        "sourcePageNumber": 2,
+        "sourcePdfText": "Some wild cats have stripes.\nLike the tiger!",
+        "sourceText": "Some wild cats have stripes. Like the tiger!",
+        "sourceImage": "https://data.booksie.org/pratham-books/21618-wild-cat-wild-cat.pdf#jigu-image=87",
+        "sourceImageSha256": "7173b5c7de9fe0706fe0104bc673437cf57bb171793782b33f8a8a7b21d6aa9d",
+        "imageWidth": 1073,
+        "imageHeight": 577
+      },
+      {
+        "sourcePageNumber": 3,
+        "sourcePdfText": "Some wild cats have manes. \nLike the lion!",
+        "sourceText": "Some wild cats have manes. Like the lion!",
+        "sourceImage": "https://data.booksie.org/pratham-books/21618-wild-cat-wild-cat.pdf#jigu-image=88",
+        "sourceImageSha256": "3428ec0423e901dd16ec257cf8934d353151680146711fefdb503e89707b37fe",
+        "imageWidth": 1073,
+        "imageHeight": 577
+      },
+      {
+        "sourcePageNumber": 4,
+        "sourcePdfText": "Some wild cats have spots.\nLike the leopard and the leopard cat!",
+        "sourceText": "Some wild cats have spots. Like the leopard and the leopard cat!",
+        "sourceImage": "https://data.booksie.org/pratham-books/21618-wild-cat-wild-cat.pdf#jigu-image=89",
+        "sourceImageSha256": "5274a3407a74ba2aa6ecedd9fc556d19c36482fb93fd60940f8aef4cfc09afd7",
+        "imageWidth": 1073,
+        "imageHeight": 577
+      },
+      {
+        "sourcePageNumber": 5,
+        "sourcePdfText": "Some wild cats are the best climbers. \nLike the clouded leopard and the marbled cat!",
+        "sourceText": "Some wild cats are the best climbers. Like the clouded leopard and the marbled cat!",
+        "sourceImage": "https://data.booksie.org/pratham-books/21618-wild-cat-wild-cat.pdf#jigu-image=90",
+        "sourceImageSha256": "0e2b34663a0570163c7b0042438bb3f570aac6d2399a2b24047f3cab8ee58d15",
+        "imageWidth": 1073,
+        "imageHeight": 577
+      },
+      {
+        "sourcePageNumber": 6,
+        "sourcePdfText": "Some wild cats live high up in the mountains.\nLike the snow leopard and the Pallas's cat!",
+        "sourceText": "Some wild cats live high up in the mountains. Like the snow leopard and the Pallas's cat!",
+        "sourceImage": "https://data.booksie.org/pratham-books/21618-wild-cat-wild-cat.pdf#jigu-image=91",
+        "sourceImageSha256": "80a1d48f1649c9881985d2c8dca30c4f64b6464e81860f3b30dc7186ef901d75",
+        "imageWidth": 1073,
+        "imageHeight": 577
+      },
+      {
+        "sourcePageNumber": 7,
+        "sourcePdfText": "Some wild cats live in the desert.\nLike the desert cat!",
+        "sourceText": "Some wild cats live in the desert. Like the desert cat!",
+        "sourceImage": "https://data.booksie.org/pratham-books/21618-wild-cat-wild-cat.pdf#jigu-image=92",
+        "sourceImageSha256": "ebcadf0f564ed97e44ae19aba6c24631c395fd4f65e201b66239f4c6dd07d7bf",
+        "imageWidth": 1073,
+        "imageHeight": 577
+      },
+      {
+        "sourcePageNumber": 8,
+        "sourcePdfText": "Some wild cats have hairy ears.\nLike the caracal and the lynx!",
+        "sourceText": "Some wild cats have hairy ears. Like the caracal and the lynx!",
+        "sourceImage": "https://data.booksie.org/pratham-books/21618-wild-cat-wild-cat.pdf#jigu-image=93",
+        "sourceImageSha256": "bcfc949d1f39d028d39bc72e8711c3021d93811387358d817a26a3f92c2fd97d",
+        "imageWidth": 1073,
+        "imageHeight": 577
+      },
+      {
+        "sourcePageNumber": 9,
+        "sourcePdfText": "Some wild cats love to fish.\nLike the fishing cat!",
+        "sourceText": "Some wild cats love to fish. Like the fishing cat!",
+        "sourceImage": "https://data.booksie.org/pratham-books/21618-wild-cat-wild-cat.pdf#jigu-image=94",
+        "sourceImageSha256": "215cee47d4a94a1715ac4a28893b9f32e62795c628e294600c32f91a6563a608",
+        "imageWidth": 1073,
+        "imageHeight": 577
+      },
+      {
+        "sourcePageNumber": 10,
+        "sourcePdfText": "Some wild cats are the smallest wild cats in the world.\nLike the rusty-spotted cat!",
+        "sourceText": "Some wild cats are the smallest wild cats in the world. Like the rusty-spotted cat!",
+        "sourceImage": "https://data.booksie.org/pratham-books/21618-wild-cat-wild-cat.pdf#jigu-image=95",
+        "sourceImageSha256": "6731f40eee4c529f16154f450c3e7089f43c657dfa85da77df7689a8b47e9baa",
+        "imageWidth": 1073,
+        "imageHeight": 577
+      },
+      {
+        "sourcePageNumber": 11,
+        "sourcePdfText": "Some wild cats look like house cats.\nLike the jungle cat and the golden cat!",
+        "sourceText": "Some wild cats look like house cats. Like the jungle cat and the golden cat!",
+        "sourceImage": "https://data.booksie.org/pratham-books/21618-wild-cat-wild-cat.pdf#jigu-image=96",
+        "sourceImageSha256": "e463a8d150bf9d937b8ad25190f264a33e2b11b8f72bf4c845b3b147de6b7856",
+        "imageWidth": 1073,
+        "imageHeight": 577
+      },
+      {
+        "sourcePageNumber": 12,
+        "sourcePdfText": "But they are all wild cats!",
+        "sourceText": "But they are all wild cats!",
+        "sourceImage": "https://data.booksie.org/pratham-books/21618-wild-cat-wild-cat.pdf#jigu-image=97",
+        "sourceImageSha256": "09feaa1e7d170a24d552e93c6156b71c917fad5213a55c8680bc428ddc606e0d",
+        "imageWidth": 1073,
+        "imageHeight": 577
+      }
+    ]
+  },
+  {
+    "bookId": "sw-birds-crests",
+    "sourceUrl": "https://freekidsbooks.org/wp-content/uploads/2019/08/Why-dont-birds-comb-their-hair_FKB.pdf",
+    "pdfSha256": "52dbacfa6f484108082676bf3adce3da388ae58de50c0be23a9abe3038ebe0a0",
+    "license": "CC-BY-4.0",
+    "creators": [
+      "文字：Suchi Govindarajan",
+      "插画：Anjora Noronha"
+    ],
+    "attributionText": "This book was made possible by Pratham Books' StoryWeaver platform. Content under Creative\nCommons licenses can be downloaded, translated and can even be used to create new stories ​‐\nprovided you give appropriate credit, and indicate if changes were made. To know more about\nthis, and the full terms of use and attribution, please visit the following link.\nDisclaimer: https://www.storyweaver.org.in/terms_and_conditions\nSome rights reserved. This book is CC​-BY​-4.0 licensed. You can copy, modify,\ndistribute and perform the work, even for commercial purposes, all without asking\npermission. For full terms of use and attribution,\nhttp://creativecommons.org/licenses/by/4.0/\nThe development of this book has been supported by\nOracle.\nStory Attribution:\nThis story: Why Don't Birds Comb Their Hair? is written by Suchi Govindarajan . © Pratham Books , 2019. Some rights reserved. Released under CC BY 4.0\nlicense.\nOther Credits:\nThis book was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. Guest Editor: Radha\nRangarajan\nImages Attributions:\nCover page: An adult spoonbill, by Anjora Noronha © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 2: A bulbul and a\nhair clip, by Anjora Noronha © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 3: A hoopoe and a boy, by Anjora\nNoronha © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 4: A spoonbill and a boy, by Anjora Noronha © Pratham\nBooks, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 5: A monal, by Anjora Noronha © Pratham Books, 2019. Some rights reserved.\nReleased under CC BY 4.0 license. Page 6: An owl and a boy, by Anjora Noronha © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0\nlicense. Page 7: A boy and a drongo, by Anjora Noronha © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 8: A boy and\na hornbill on a scooter, by Anjora Noronha © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 9: A vulture and a boy, by\nAnjora Noronha © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 10: A spoonbill and a vulture and monal and\nhoopoe, by Anjora Noronha © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 11: Racket tailed drongo, brown fish owl,\nthe great indian hornbill, red whiskered bulul, by Anjora Noronha © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license.\n\n\nThis book was made possible by Pratham Books' StoryWeaver platform. Content under Creative\nCommons licenses can be downloaded, translated and can even be used to create new stories ​‐\nprovided you give appropriate credit, and indicate if changes were made. To know more about\nthis, and the full terms of use and attribution, please visit the following link.\nDisclaimer: https://www.storyweaver.org.in/terms_and_conditions\nSome rights reserved. This book is CC​-BY​-4.0 licensed. You can copy, modify,\ndistribute and perform the work, even for commercial purposes, all without asking\npermission. For full terms of use and attribution,\nhttp://creativecommons.org/licenses/by/4.0/\nThe development of this book has been supported by\nOracle.\nImages Attributions:\nPage 12: Hoopoe and a boy sitting on a branch, by Anjora Noronha © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license. Page\n13: Owls, worms and hornbills, by Anjora Noronha © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 14: Feather, by\nAnjora Noronha © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license.\n",
+    "sourceCover": "https://freekidsbooks.org/wp-content/uploads/2019/08/Why-dont-birds-comb-their-hair_FKB.pdf#jigu-image=8",
+    "sourceCoverSha256": "3465ee8649cadb384e98cff888193fbccd695b46f6aecf0972d4c611b41c3d89",
+    "includedPdfPages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "excludedPdfPages": [
+      {
+        "pageNumber": 1,
+        "reason": "原封面插画单独用于封面"
+      },
+      {
+        "pageNumber": 15,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      },
+      {
+        "pageNumber": 16,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      },
+      {
+        "pageNumber": 17,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      },
+      {
+        "pageNumber": 18,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      }
+    ],
+    "pages": [
+      {
+        "sourcePageNumber": 2,
+        "sourcePdfText": "Why don’t Bulbuls comb their hair?\nIt looks like a little wave.\nIf I had a Bulbul’s hair,\nI would wear clips.",
+        "sourceText": "Why don’t Bulbuls comb their hair? It looks like a little wave. If I had a Bulbul’s hair, I would wear clips.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/08/Why-dont-birds-comb-their-hair_FKB.pdf#jigu-image=23",
+        "sourceImageSha256": "7e06eef38f903b721a1c904debc4d63243856482c922048c76a9ca00907d8772",
+        "imageWidth": 1073,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 3,
+        "sourcePdfText": "Why don’t Hoopoes comb their hair?\nIt looks like a frilly fan.\nIf I had a Hoopoe's hair,\nI would push it back with a band.",
+        "sourceText": "Why don’t Hoopoes comb their hair? It looks like a frilly fan. If I had a Hoopoe's hair, I would push it back with a band.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/08/Why-dont-birds-comb-their-hair_FKB.pdf#jigu-image=30",
+        "sourceImageSha256": "f4b5f69025a53053aee27212bf8b25689687b14bc64be9edfb8b28f0fdf81b9a",
+        "imageWidth": 1073,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 4,
+        "sourcePdfText": "If I had a Spoonbill's hair,\nI would plait it all together.\nWhy don't Spoonbills comb their hair?\nIt looks like an old paintbrush.",
+        "sourceText": "Why don't Spoonbills comb their hair? It looks like an old paintbrush. If I had a Spoonbill's hair, I would plait it all together.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/08/Why-dont-birds-comb-their-hair_FKB.pdf#jigu-image=36",
+        "sourceImageSha256": "b0b862cde56708b37e21071b83d6dd9575b66c250b02399b7d9548f5d43218a5",
+        "imageWidth": 1073,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 5,
+        "sourcePdfText": "Why don’t Monals comb their hair?\nIt looks like a tiny broom.\nIf I had a Monal’s hair,\nI would tie it up with ribbons.",
+        "sourceText": "Why don’t Monals comb their hair? It looks like a tiny broom. If I had a Monal’s hair, I would tie it up with ribbons.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/08/Why-dont-birds-comb-their-hair_FKB.pdf#jigu-image=42",
+        "sourceImageSha256": "db76136f26bbd24e2d00f29e6786ddea0df6df7037919f8db95df69b1632bbb7",
+        "imageWidth": 1073,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 6,
+        "sourcePdfText": "Why don't Fish-Owls comb their hair?\nIt looks like two furry worms.\nIf I had a Fish-Owl’s hair,\nI would make two ponytails.",
+        "sourceText": "Why don't Fish-Owls comb their hair? It looks like two furry worms. If I had a Fish-Owl’s hair, I would make two ponytails.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/08/Why-dont-birds-comb-their-hair_FKB.pdf#jigu-image=48",
+        "sourceImageSha256": "0eaf9d444629c70e0fcf14e330b07d19c06fe832f772a070b00e8a85bcc31aca",
+        "imageWidth": 1073,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 7,
+        "sourcePdfText": "Why don't Drongos comb their hair?\nIt looks like a messy mop.\nIf I had a Drongo’s hair,\nI would rub oil and brush it down.",
+        "sourceText": "Why don't Drongos comb their hair? It looks like a messy mop. If I had a Drongo’s hair, I would rub oil and brush it down.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/08/Why-dont-birds-comb-their-hair_FKB.pdf#jigu-image=54",
+        "sourceImageSha256": "0d4e3991952863925044bd93dcc3f9b67cc524f5d6d3af48f623dcfbd1cbc39c",
+        "imageWidth": 1073,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 8,
+        "sourcePdfText": "Why don’t Hornbills have hair to comb?\nThey look like they are wearing helmets.\nIf I had a Hornbill’s helmet,\nI would ride around all day.",
+        "sourceText": "Why don’t Hornbills have hair to comb? They look like they are wearing helmets. If I had a Hornbill’s helmet, I would ride around all day.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/08/Why-dont-birds-comb-their-hair_FKB.pdf#jigu-image=60",
+        "sourceImageSha256": "92aab1563d012bd910dbd9ab0c17e448b42a53449b7a1f12b1fe4bccd314f3d7",
+        "imageWidth": 1073,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 9,
+        "sourcePdfText": "Why don’t Vultures have any hair?\nThey look so bald.\nIf I had a Vulture’s head,\nI would never have to comb my hair!",
+        "sourceText": "Why don’t Vultures have any hair? They look so bald. If I had a Vulture’s head, I would never have to comb my hair!",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/08/Why-dont-birds-comb-their-hair_FKB.pdf#jigu-image=67",
+        "sourceImageSha256": "f6419849808bad203b897ab4c13abd3522a0ac8095140c1610ada0a3c0f7d3b5",
+        "imageWidth": 1073,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 10,
+        "sourcePdfText": "Meet The Birds That\nHave Funny Hair\nCommon Hoopoe\nIndian Grey Vulture\nHimalayan Monal\nEurasian Spoonbill",
+        "sourceText": "Meet The Birds That Have Funny Hair Common Hoopoe Indian Grey Vulture Himalayan Monal Eurasian Spoonbill",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/08/Why-dont-birds-comb-their-hair_FKB.pdf#jigu-image=73",
+        "sourceImageSha256": "5f006a3449803de746b527ad8534226205db1fbadfc0c2caa82395a2f0dac8d6",
+        "imageWidth": 1073,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 11,
+        "sourcePdfText": "Red-whiskered Bulbul\nBrown Fish Owl\nRacket-tailed Drongo\nGreat Indian Hornbill",
+        "sourceText": "Red-whiskered Bulbul Brown Fish Owl Racket-tailed Drongo Great Indian Hornbill",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/08/Why-dont-birds-comb-their-hair_FKB.pdf#jigu-image=79",
+        "sourceImageSha256": "cf615e9064177c5f47c2b95529383b172a74ba4a4ec26da4adcecbfe245fd80e",
+        "imageWidth": 1073,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 12,
+        "sourcePdfText": "Crests are useful in many ways.They make\nbirds look attractive. Some birds can open\nand fold their crests to send signals to\nother birds. Some open their crests when\nthey want to frighten away other birds and\nanimals.\nSome birds look like they have hair on\ntheir heads. But their hair is not like\nours. Instead, each hair is just a very\nthin feather. A group of such feathers\nis called a crest.\nDo birds really\nhave hair?",
+        "sourceText": "Do birds really have hair? Some birds look like they have hair on their heads. But their hair is not like ours. Instead, each hair is just a very thin feather. A group of such feathers is called a crest. Crests are useful in many ways.They make birds look attractive. Some birds can open and fold their crests to send signals to other birds. Some open their crests when they want to frighten away other birds and animals.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/08/Why-dont-birds-comb-their-hair_FKB.pdf#jigu-image=85",
+        "sourceImageSha256": "e9daee64292422b48da90f32fc852062153b82936cadd3e86e3ae5d20d6a5f0c",
+        "imageWidth": 1073,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 13,
+        "sourcePdfText": "The hornbill’s helmet is called a casque\n(rhymes with mask). Like ear-tufts and\ncrests, casques make hornbills look good.\nThis helps them find mates. A hornbill’s\ncasque also makes its beak stronger. With a\nstrong beak, hornbills can pick and eat\nfruits more easily.\nThe furry worms on the owl’s head are\ncalled ear-tufts. They are not really ears,\njust bits of skin covered with feathers.\nThese help owls hide more easily, making\nthem look like they are part of a tree. The\near-tufts also help them look attractive (to\nother owls) or scary (to other birds and\nanimals).",
+        "sourceText": "The furry worms on the owl’s head are called ear-tufts. They are not really ears, just bits of skin covered with feathers. These help owls hide more easily, making them look like they are part of a tree. The ear-tufts also help them look attractive (to other owls) or scary (to other birds and animals). The hornbill’s helmet is called a casque (rhymes with mask). Like ear-tufts and crests, casques make hornbills look good. This helps them find mates. A hornbill’s casque also makes its beak stronger. With a strong beak, hornbills can pick and eat fruits more easily.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/08/Why-dont-birds-comb-their-hair_FKB.pdf#jigu-image=92",
+        "sourceImageSha256": "33e9e8cef96192261034298ae2078658120accf4e33eccce3589cf552740b40c",
+        "imageWidth": 1073,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 14,
+        "sourcePdfText": "",
+        "sourceText": "",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/08/Why-dont-birds-comb-their-hair_FKB.pdf#jigu-image=98",
+        "sourceImageSha256": "2e289ee69cfa637bdc728089b1d5a2fa7579574f4aef7503810305f27fef25f1",
+        "imageWidth": 1073,
+        "imageHeight": 771
+      }
+    ]
+  },
+  {
+    "bookId": "sw-pufferfish",
+    "sourceUrl": "https://freekidsbooks.org/wp-content/uploads/2019/03/60744-whoop-goes-the-pufferfish.pdf",
+    "pdfSha256": "bf1000725e2731bd219a591d192a8ca98ffc36d0861ddd348f0cffbcb3afd12b",
+    "license": "CC-BY-4.0",
+    "creators": [
+      "文字：Sejal Mehta",
+      "插画：Pia Meenakshi"
+    ],
+    "attributionText": "This book was made possible by Pratham Books' StoryWeaver platform. Content under Creative\nCommons licenses can be downloaded, translated and can even be used to create new stories ​‐\nprovided you give appropriate credit, and indicate if changes were made. To know more about\nthis, and the full terms of use and attribution, please visit the following link.\nDisclaimer: https://www.storyweaver.org.in/terms_and_conditions\nSome rights reserved. This book is CC​-BY​-4.0 licensed. You can copy, modify,\ndistribute and perform the work, even for commercial purposes, all without asking\npermission. For full terms of use and attribution,\nhttp://creativecommons.org/licenses/by/4.0/\nThe development of this book has been supported by\nOracle.\nStory Attribution:\nThis story: Whoop, Goes the Pufferfish is written by Sejal Mehta . © Pratham Books , 2019. Some rights reserved. Released under CC BY 4.0 license.\nOther Credits:\nThis book was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. Guest Editor: Radha\nRangarajan, Guest Art Director: Snigdha Rao\nImages Attributions:\nCover page: A puffer fish in the water, by Pia Meenakshi © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 2: Sunset at\na sea shore, by Pia Meenakshi © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 3: A porcelain crab and an orange\nstarfish, by Pia Meenakshi © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 4: A puffer fish in a tide pool, by Pia\nMeenakshi © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 5: A puffer fish puffs up, by Pia Meenakshi © Pratham\nBooks, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 6: A puffer fish, a porcelain crab and an orange starfish, by Pia Meenakshi ©\nPratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 7: A puffer fish a porcelain crab and an orange starfish, by Pia\nMeenakshi © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 8: Water entering into the tide pool, by Pia Meenakshi ©\nPratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 9: A porcelain crab an orange starfish, by Pia Meenakshi © Pratham\nBooks, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 10: Water entering the tide pool, by Pia Meenakshi © Pratham Books, 2019.\nSome rights reserved. Released under CC BY 4.0 license. Page 11: An octopus and a puffer fish and a porcelain crab and an orange starfish, by Pia\nMeenakshi © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license.\n\n\nThis book was made possible by Pratham Books' StoryWeaver platform. Content under Creative\nCommons licenses can be downloaded, translated and can even be used to create new stories ​‐\nprovided you give appropriate credit, and indicate if changes were made. To know more about\nthis, and the full terms of use and attribution, please visit the following link.\nDisclaimer: https://www.storyweaver.org.in/terms_and_conditions\nSome rights reserved. This book is CC​-BY​-4.0 licensed. You can copy, modify,\ndistribute and perform the work, even for commercial purposes, all without asking\npermission. For full terms of use and attribution,\nhttp://creativecommons.org/licenses/by/4.0/\nThe development of this book has been supported by\nOracle.\nImages Attributions:\nPage 12: 2 tide pools, by Pia Meenakshi © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license.\n",
+    "sourceCover": "https://freekidsbooks.org/wp-content/uploads/2019/03/60744-whoop-goes-the-pufferfish.pdf#jigu-image=84",
+    "sourceCoverSha256": "6158ad30f58823b9ecf80ba6d4f89056aa034cce4fc899e2f5a01b6780ed3787",
+    "includedPdfPages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "excludedPdfPages": [
+      {
+        "pageNumber": 1,
+        "reason": "原封面插画单独用于封面"
+      },
+      {
+        "pageNumber": 13,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      },
+      {
+        "pageNumber": 14,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      },
+      {
+        "pageNumber": 15,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      }
+    ],
+    "pages": [
+      {
+        "sourcePageNumber": 2,
+        "sourcePdfText": "It’s a beautiful and sunny morning at a rocky shore in Mumbai.\nAt low tide, all seems peaceful at a tide pool.",
+        "sourceText": "It’s a beautiful and sunny morning at a rocky shore in Mumbai. At low tide, all seems peaceful at a tide pool.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/03/60744-whoop-goes-the-pufferfish.pdf#jigu-image=88",
+        "sourceImageSha256": "c05f7b2fd20dbf5deb38d278c1602938a1cc2593c365542d92ad6461c6c6c5e6",
+        "imageWidth": 1073,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 3,
+        "sourcePdfText": "A pink Porcelain Crab is looking for food.\n                                                                      An orange Starfish is moving s-l-o-w-l-y with its tube feet.",
+        "sourceText": "A pink Porcelain Crab is looking for food. An orange Starfish is moving s-l-o-w-l-y with its tube feet.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/03/60744-whoop-goes-the-pufferfish.pdf#jigu-image=89",
+        "sourceImageSha256": "5fb1126a8c277dc2f311b56eed31487fcf80bb4ad4c9fe48b230d42463b8a695",
+        "imageWidth": 1073,
+        "imageHeight": 772
+      },
+      {
+        "sourcePageNumber": 4,
+        "sourcePdfText": "But wait.\nIs it really peaceful?\nOh no! A baby Pufferfish is stuck in the tide pool.",
+        "sourceText": "But wait. Is it really peaceful? Oh no! A baby Pufferfish is stuck in the tide pool.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/03/60744-whoop-goes-the-pufferfish.pdf#jigu-image=90",
+        "sourceImageSha256": "57ecb945f715888bb105a262405a55b30920ab74d1f73e24750440e93896f67d",
+        "imageWidth": 1073,
+        "imageHeight": 579
+      },
+      {
+        "sourcePageNumber": 5,
+        "sourcePdfText": "The Pufferfish swims to the left and bumps into a rock.\nIt swims to the right and bumps into a rock.\nIt swims here and there and everywhere, but there seems no way out.",
+        "sourceText": "The Pufferfish swims to the left and bumps into a rock. It swims to the right and bumps into a rock. It swims here and there and everywhere, but there seems no way out.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/03/60744-whoop-goes-the-pufferfish.pdf#jigu-image=91",
+        "sourceImageSha256": "d0f55b84f92a96b9ababe3265b4f62965252091b9bafa199cde3638082996dc5",
+        "imageWidth": 1073,
+        "imageHeight": 579
+      },
+      {
+        "sourcePageNumber": 6,
+        "sourcePdfText": "“HELP! I am stuck!” cries the Pufferfish.\nWHOOP! It puffs up to protect itself from danger. It\nswims around in circles.",
+        "sourceText": "“HELP! I am stuck!” cries the Pufferfish. WHOOP! It puffs up to protect itself from danger. It swims around in circles.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/03/60744-whoop-goes-the-pufferfish.pdf#jigu-image=92",
+        "sourceImageSha256": "e02af213c1c59e3b9281523b2a7b677e24c0c51ed9e1e46b72ba84fec7bd9213",
+        "imageWidth": 1073,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 7,
+        "sourcePdfText": "“Don’t panic, little fish,” says the\nPorcelain Crab.\n“The tide will come back in,” says\nthe Starfish.\nBut the Pufferfish is too\nfrightened to listen. Round and\nround it goes.",
+        "sourceText": "“Don’t panic, little fish,” says the Porcelain Crab. “The tide will come back in,” says the Starfish. But the Pufferfish is too frightened to listen. Round and round it goes.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/03/60744-whoop-goes-the-pufferfish.pdf#jigu-image=93",
+        "sourceImageSha256": "661824655aa4993d6eab4aa42101f894f1f458067460ce7ef3c8f32c6ebd2851",
+        "imageWidth": 1073,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 8,
+        "sourcePdfText": "“WHO IS MAKING ALL THIS NOISE?”\nA majestic Octopus swims into the pool from under a rock.\nThe Pufferfish stares in awe.",
+        "sourceText": "“WHO IS MAKING ALL THIS NOISE?” A majestic Octopus swims into the pool from under a rock. The Pufferfish stares in awe.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/03/60744-whoop-goes-the-pufferfish.pdf#jigu-image=94",
+        "sourceImageSha256": "e8125f9fb2f879aa98e4d39f0888b111a4586ca07073dd4d1921f746615321b3",
+        "imageWidth": 1073,
+        "imageHeight": 579
+      },
+      {
+        "sourcePageNumber": 9,
+        "sourcePdfText": "“You feel trapped because the tide is low,” says the Octopus. “When the tide is high, the water will\ncover all these rocks. And you will be able to swim back home to the sea.”",
+        "sourceText": "“You feel trapped because the tide is low,” says the Octopus. “When the tide is high, the water will cover all these rocks. And you will be able to swim back home to the sea.”",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/03/60744-whoop-goes-the-pufferfish.pdf#jigu-image=95",
+        "sourceImageSha256": "a285094a6316913712aafca266f81d64fb6593c1c242e98101aaf12fdcc9fee0",
+        "imageWidth": 1073,
+        "imageHeight": 579
+      },
+      {
+        "sourcePageNumber": 10,
+        "sourcePdfText": "The Pufferfish is relieved. It waits.\nIn time, water flows under the Porcelain Crab’s rock. It flows over the Starfish. It flows into the\ntidepools. \nThe water rises. The Pufferfish rises with it.",
+        "sourceText": "The Pufferfish is relieved. It waits. In time, water flows under the Porcelain Crab’s rock. It flows over the Starfish. It flows into the tidepools. The water rises. The Pufferfish rises with it.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/03/60744-whoop-goes-the-pufferfish.pdf#jigu-image=96",
+        "sourceImageSha256": "ab0250b2d08d1c4316a5ed0a15eb9f754fafd0b9910e38548be2708baf48ec51",
+        "imageWidth": 1073,
+        "imageHeight": 579
+      },
+      {
+        "sourcePageNumber": 11,
+        "sourcePdfText": "Finally, the baby Pufferfish can swim over\nthe rocks. It is overjoyed.\n“Thank you, everyone!” it calls out and\nswims away into the sea.\n“Goodbye, little one. Swim safe.”",
+        "sourceText": "Finally, the baby Pufferfish can swim over the rocks. It is overjoyed. “Thank you, everyone!” it calls out and swims away into the sea. “Goodbye, little one. Swim safe.”",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/03/60744-whoop-goes-the-pufferfish.pdf#jigu-image=97",
+        "sourceImageSha256": "3b299d4660063ea54dacddceda7cc060d91c099ea9215d44e9cb2dc1a02eecae",
+        "imageWidth": 1073,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 12,
+        "sourcePdfText": "What is a tide pool?\nTide pools are shallow pools of seawater on rocky shores.\nYou find these at low tide when the rest of the water has flowed back into the sea.\nTidepools are in the intertidal zone, the part of the beach only seen at low tide.\nLow tide is when the water flows back far\ninto the sea.\nHigh tide is when the water covers\nmost of the shore. Tides are caused by\nthe gravitational pull of the Moon on\nthe Earth.\nLow Tide, High Tide",
+        "sourceText": "What is a tide pool? Tide pools are shallow pools of seawater on rocky shores. You find these at low tide when the rest of the water has flowed back into the sea. Tidepools are in the intertidal zone, the part of the beach only seen at low tide. Low tide is when the water flows back far into the sea. High tide is when the water covers most of the shore. Tides are caused by the gravitational pull of the Moon on the Earth. Low Tide, High Tide",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/03/60744-whoop-goes-the-pufferfish.pdf#jigu-image=98",
+        "sourceImageSha256": "7220f977a2f6d5f79b236603723fcb79bb8039adca375b07facef2a1ee46e0ca",
+        "imageWidth": 1073,
+        "imageHeight": 771
+      }
+    ]
+  },
+  {
+    "bookId": "sw-love-our-home",
+    "sourceUrl": "https://freekidsbooks.org/wp-content/uploads/2019/09/we-love-our-home-pratham-FKB.pdf",
+    "pdfSha256": "24a098333e3f7f79cb7b4b83ba27e4a541ea359fe3398e035e53e8ddead6d16c",
+    "license": "CC-BY-4.0",
+    "creators": [
+      "文字：Karthika G",
+      "插画：Chaaya Prabhat"
+    ],
+    "attributionText": "This book was made possible by Pratham Books' StoryWeaver platform. Content under Creative\nCommons licenses can be downloaded, translated and can even be used to create new stories ​‐\nprovided you give appropriate credit, and indicate if changes were made. To know more about\nthis, and the full terms of use and attribution, please visit the following link.\nDisclaimer: https://www.storyweaver.org.in/terms_and_conditions\nSome rights reserved. This book is CC​-BY​-4.0 licensed. You can copy, modify,\ndistribute and perform the work, even for commercial purposes, all without asking\npermission. For full terms of use and attribution,\nhttp://creativecommons.org/licenses/by/4.0/\nStory Attribution:\nThis story: We Love Our Home is written by Karthika G . © Pratham Books , 2019. Some rights reserved. Released under CC BY 4.0 license.\nOther Credits:\n'We Love Our Home' has been published on StoryWeaver by Pratham Books. www.prathambooks.org. We're thankful to Radha Rangarajan, photographer,\nwriter and expert on everything non-human, for her inputs on this book.\nImages Attributions:\nCover page: Animals in the jungle , by Chaaya Prabhat © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 2: Crane flying\nin the sky , by Chaaya Prabhat © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 3: Dolphins in the lake , by Chaaya\nPrabhat © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 4: Big trees in a dusty forest, by Chaaya Prabhat © Pratham\nBooks, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 5: Hornbills in the forest , by Chaaya Prabhat © Pratham Books, 2018. Some\nrights reserved. Released under CC BY 4.0 license. Page 6: A standing Crane , by Chaaya Prabhat © Pratham Books, 2018. Some rights reserved. Released\nunder CC BY 4.0 license. Page 7: Rhinoceros in the wet mud, by Chaaya Prabhat © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0\nlicense. Page 8: A blue mountain , by Chaaya Prabhat © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 9: Nilgai\nstanding near the hills, by Chaaya Prabhat © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 10: Dry plants , by Chaaya\nPrabhat © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 11: Pangolin sleeping in a burrow, by Chaaya Prabhat ©\nPratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license.\n\n\nThis book was made possible by Pratham Books' StoryWeaver platform. Content under Creative\nCommons licenses can be downloaded, translated and can even be used to create new stories ​‐\nprovided you give appropriate credit, and indicate if changes were made. To know more about\nthis, and the full terms of use and attribution, please visit the following link.\nDisclaimer: https://www.storyweaver.org.in/terms_and_conditions\nSome rights reserved. This book is CC​-BY​-4.0 licensed. You can copy, modify,\ndistribute and perform the work, even for commercial purposes, all without asking\npermission. For full terms of use and attribution,\nhttp://creativecommons.org/licenses/by/4.0/\nImages Attributions:\nPage 12: A bent tree with a few leaves , by Chaaya Prabhat © Pratham Books, 2018. Some rights reserved. Released under CC BY 4.0 license. Page 13:\nMarten jumping on the tree tops , by Chaaya Prabhat © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 14: A fox tail in\nthe field, by Chaaya Prabhat © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 15: A Bengal Fox in the desert, by\nChaaya Prabhat © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 16: A birds nest on a tree , by Chaaya Prabhat ©\nPratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 17: Spot-billed pelicans in their nests, by Chaaya Prabhat © Pratham\nBooks, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 18: A lamp with a drawing and some crayons, by Chaaya Prabhat © Pratham\nBooks, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 19: A small girl sleeping on the mat, girl sitting on the bed and a chair , by\nChaaya Prabhat © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 20: A map of Indian wildlife, by Chaaya Prabhat ©\nPratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 21: A collage of animal pictures on the wall, by Chaaya Prabhat ©\nPratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license.\n",
+    "sourceCover": "https://freekidsbooks.org/wp-content/uploads/2019/09/we-love-our-home-pratham-FKB.pdf#jigu-image=8",
+    "sourceCoverSha256": "6d9099d9b10c0edc49870b2abf22ac135811aa855a80656e50f9be4994950c9b",
+    "includedPdfPages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "excludedPdfPages": [
+      {
+        "pageNumber": 1,
+        "reason": "原封面插画单独用于封面"
+      },
+      {
+        "pageNumber": 22,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      },
+      {
+        "pageNumber": 23,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      },
+      {
+        "pageNumber": 24,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      },
+      {
+        "pageNumber": 25,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      }
+    ],
+    "pages": [
+      {
+        "sourcePageNumber": 2,
+        "sourcePdfText": "Who loves splashing?",
+        "sourceText": "Who loves splashing?",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/09/we-love-our-home-pratham-FKB.pdf#jigu-image=23",
+        "sourceImageSha256": "2061136123adceb5050e3df7d06c3ec894d0063fa65ade1f9685518d4b631ee1",
+        "imageWidth": 1073,
+        "imageHeight": 770
+      },
+      {
+        "sourcePageNumber": 3,
+        "sourcePdfText": "The Irrawaddy Dolphin\nloves splashing in\nChilika Lake.",
+        "sourceText": "The Irrawaddy Dolphin loves splashing in Chilika Lake.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/09/we-love-our-home-pratham-FKB.pdf#jigu-image=29",
+        "sourceImageSha256": "1d0c7de32c867c23258e869d3348cb4a629926b95f0070ff26644c54c52f1168",
+        "imageWidth": 715,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 4,
+        "sourcePdfText": "Who loves dust baths?",
+        "sourceText": "Who loves dust baths?",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/09/we-love-our-home-pratham-FKB.pdf#jigu-image=35",
+        "sourceImageSha256": "4965311c4e2ddd95399195b9d60c41a7f071dcadf37fe5d883231925d4ccf788",
+        "imageWidth": 1073,
+        "imageHeight": 769
+      },
+      {
+        "sourcePageNumber": 5,
+        "sourcePdfText": "The Malabar Pied Hornbill loves \na dust bath in the forest in Dandeli.",
+        "sourceText": "The Malabar Pied Hornbill loves a dust bath in the forest in Dandeli.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/09/we-love-our-home-pratham-FKB.pdf#jigu-image=41",
+        "sourceImageSha256": "5dcc0fbda4930520e70141de3d609367151cca55e3c3fcae75f16311d9d8d615",
+        "imageWidth": 1073,
+        "imageHeight": 769
+      },
+      {
+        "sourcePageNumber": 6,
+        "sourcePdfText": "Who loves sitting in wet mud?",
+        "sourceText": "Who loves sitting in wet mud?",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/09/we-love-our-home-pratham-FKB.pdf#jigu-image=47",
+        "sourceImageSha256": "589d4ff9ee749c31cef884658788a89385c3f36df35df942b20ea1ba72413111",
+        "imageWidth": 1073,
+        "imageHeight": 769
+      },
+      {
+        "sourcePageNumber": 7,
+        "sourcePdfText": "The Indian Rhinoceros\nloves sitting in wet\nmud on the river banks\nof Kaziranga.",
+        "sourceText": "The Indian Rhinoceros loves sitting in wet mud on the river banks of Kaziranga.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/09/we-love-our-home-pratham-FKB.pdf#jigu-image=53",
+        "sourceImageSha256": "d6fa543f2e0c7e36c48d9ce09bd90875b91ad0ff3a1b90425afb6ff5c163cc26",
+        "imageWidth": 715,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 8,
+        "sourcePdfText": "Who loves making wide dung piles?",
+        "sourceText": "Who loves making wide dung piles?",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/09/we-love-our-home-pratham-FKB.pdf#jigu-image=59",
+        "sourceImageSha256": "1a2aeb815c50ce7b94f06eba74ee38c7f72f770dad9c12e1af6a276d6322eee9",
+        "imageWidth": 1073,
+        "imageHeight": 769
+      },
+      {
+        "sourcePageNumber": 9,
+        "sourcePdfText": "The Nilgai loves making wide dung piles \nat the foothills of the Himalayas.",
+        "sourceText": "The Nilgai loves making wide dung piles at the foothills of the Himalayas.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/09/we-love-our-home-pratham-FKB.pdf#jigu-image=66",
+        "sourceImageSha256": "1aacfa172cffb70a2a01e1610c42d8dd4df3f8835de7c5fb85308fe4c32803e8",
+        "imageWidth": 1073,
+        "imageHeight": 769
+      },
+      {
+        "sourcePageNumber": 10,
+        "sourcePdfText": "Who loves resting in burrows?",
+        "sourceText": "Who loves resting in burrows?",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/09/we-love-our-home-pratham-FKB.pdf#jigu-image=72",
+        "sourceImageSha256": "ab894796daa25f9836ed7b102ceb116c33a04d954c89ce92d140d643f12a04ec",
+        "imageWidth": 1073,
+        "imageHeight": 769
+      },
+      {
+        "sourcePageNumber": 11,
+        "sourcePdfText": "The Thick-tailed Pangolin \nloves resting in burrows in \nthe dry lands of Gir Forest.",
+        "sourceText": "The Thick-tailed Pangolin loves resting in burrows in the dry lands of Gir Forest.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/09/we-love-our-home-pratham-FKB.pdf#jigu-image=78",
+        "sourceImageSha256": "fc189e919e526d53d3f1167270b056a85d17ac993d057da6771fd5579eef7bc7",
+        "imageWidth": 1073,
+        "imageHeight": 769
+      },
+      {
+        "sourcePageNumber": 12,
+        "sourcePdfText": "Who loves jumping across treetops?",
+        "sourceText": "Who loves jumping across treetops?",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/09/we-love-our-home-pratham-FKB.pdf#jigu-image=84",
+        "sourceImageSha256": "9bcf51dd897bcded5b87713cab06a72f3b8f2aa8ae923c7d279c677e0dd73575",
+        "imageWidth": 1073,
+        "imageHeight": 769
+      },
+      {
+        "sourcePageNumber": 13,
+        "sourcePdfText": "The Yellow-throated\nMarten loves jumping\nacross treetops in\nNamdapha.",
+        "sourceText": "The Yellow-throated Marten loves jumping across treetops in Namdapha.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/09/we-love-our-home-pratham-FKB.pdf#jigu-image=90",
+        "sourceImageSha256": "71bf43563a039d2547d3fb54cf8a8140f64a3bc6ce5b74e93c212957a02657e7",
+        "imageWidth": 715,
+        "imageHeight": 768
+      },
+      {
+        "sourcePageNumber": 14,
+        "sourcePdfText": "Who loves playing hide-and-seek \nin short grasslands?",
+        "sourceText": "Who loves playing hide-and-seek in short grasslands?",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/09/we-love-our-home-pratham-FKB.pdf#jigu-image=96",
+        "sourceImageSha256": "73aaf758e9a801cf09f3680b7aeac308eb17301550cfb94c48b9cdcc5d988193",
+        "imageWidth": 1073,
+        "imageHeight": 769
+      },
+      {
+        "sourcePageNumber": 15,
+        "sourcePdfText": "The Bengal Fox loves \nplaying hide-and-seek in the \nshort grasslands at Jaisalmer.",
+        "sourceText": "The Bengal Fox loves playing hide-and-seek in the short grasslands at Jaisalmer.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/09/we-love-our-home-pratham-FKB.pdf#jigu-image=102",
+        "sourceImageSha256": "47781cea1160db1febcc780acc2df6e3d94b4f7ba8c908d39a89b18c76b7ac49",
+        "imageWidth": 1073,
+        "imageHeight": 769
+      },
+      {
+        "sourcePageNumber": 16,
+        "sourcePdfText": "Who loves building nests \nwith their partners?",
+        "sourceText": "Who loves building nests with their partners?",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/09/we-love-our-home-pratham-FKB.pdf#jigu-image=108",
+        "sourceImageSha256": "dd61173d3f1048ec2c8e5f548affa37596b5f1f0f6da198f657e70dde7f25a43",
+        "imageWidth": 715,
+        "imageHeight": 513
+      },
+      {
+        "sourcePageNumber": 17,
+        "sourcePdfText": "The Spot-billed Pelican\nloves building nests\nwith their partners \nat Atapaka.",
+        "sourceText": "The Spot-billed Pelican loves building nests with their partners at Atapaka.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/09/we-love-our-home-pratham-FKB.pdf#jigu-image=115",
+        "sourceImageSha256": "97b4dbc33a9618498b9b13675e164d747209fee2915e86d5323314707305181f",
+        "imageWidth": 715,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 18,
+        "sourcePdfText": "Who loves staying comfortable and snug at home?",
+        "sourceText": "Who loves staying comfortable and snug at home?",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/09/we-love-our-home-pratham-FKB.pdf#jigu-image=121",
+        "sourceImageSha256": "3bc04faba5dbfd9457afc32a1f06646233f7b8ca7cf7bf0ebba1f04eacb1cafa",
+        "imageWidth": 1073,
+        "imageHeight": 769
+      },
+      {
+        "sourcePageNumber": 19,
+        "sourcePdfText": "We all do!",
+        "sourceText": "We all do!",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/09/we-love-our-home-pratham-FKB.pdf#jigu-image=127",
+        "sourceImageSha256": "8e8a7e1c68d5b9dcbab90d7294c1a2c37bd50b1ff4cc42693157b2ad6ba3e044",
+        "imageWidth": 715,
+        "imageHeight": 385
+      },
+      {
+        "sourcePageNumber": 20,
+        "sourcePdfText": "1\n2\n3\n4\n5\n6\n7\n8\n1. Nilgais: Himachal Pradesh, near the Himalayan\nmountains \n2. Bengal Fox: Jaisalmer, Rajasthan \n3. Indian Rhinoceros: Kaziranga National Park,\nAssam \n4. Yellow-Throated Marten: Namdapha National\nPark, Arunachal Pradesh\n5. Irrawady Dolphin: Chilika Lake, Orissa\n6. Spot-Billed Pelican: Atapaka, Andhra Pradesh\n7. Malabar Pied Hornbill: Dandeli Wildlife\nSanctuary, Karnataka \n8. Pangolin: Gir Forest, Gujarat\nWhere can we find these animals\nand birds in India?",
+        "sourceText": "Where can we find these animals and birds in India? 1. Nilgais: Himachal Pradesh, near the Himalayan mountains 2. Bengal Fox: Jaisalmer, Rajasthan 3. Indian Rhinoceros: Kaziranga National Park, Assam 4. Yellow-Throated Marten: Namdapha National Park, Arunachal Pradesh 5. Irrawady Dolphin: Chilika Lake, Orissa 6. Spot-Billed Pelican: Atapaka, Andhra Pradesh 7. Malabar Pied Hornbill: Dandeli Wildlife Sanctuary, Karnataka 8. Pangolin: Gir Forest, Gujarat",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/09/we-love-our-home-pratham-FKB.pdf#jigu-image=133",
+        "sourceImageSha256": "a1dce6b8aa70b62b398a0acba1b156fff461b07cdf09e8e08a51c260d2074bde",
+        "imageWidth": 1073,
+        "imageHeight": 769
+      },
+      {
+        "sourcePageNumber": 21,
+        "sourcePdfText": "",
+        "sourceText": "",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2019/09/we-love-our-home-pratham-FKB.pdf#jigu-image=139",
+        "sourceImageSha256": "4684575a7316b1089ddd6476ec4c8486e9e4ad73415b93387b1c98f0b4f24377",
+        "imageWidth": 715,
+        "imageHeight": 513
+      }
+    ]
+  },
+  {
+    "bookId": "sw-sunbirds",
+    "sourceUrl": "https://data.booksie.org/pratham-books/123172-why-do-sunbirds-eat-all-day.pdf",
+    "pdfSha256": "b79dd309be4caac59eda56fa35139e9624d034ac4a2c4c28bf618ce040d1bcd8",
+    "license": "CC-BY-4.0",
+    "creators": [
+      "文字：Anusha Shankar",
+      "插画：Harjyot Khalsa"
+    ],
+    "attributionText": "This book was made possible by Pratham Books' StoryWeaver platform. Content under Creative\nCommons licenses can be downloaded, translated and can even be used to create new stories ​‐\nprovided you give appropriate credit, and indicate if changes were made. To know more about\nthis, and the full terms of use and attribution, please visit the following link.\nDisclaimer: https://www.storyweaver.org.in/terms_and_conditions\nSome rights reserved. This book is CC​-BY​-4.0 licensed. You can copy, modify,\ndistribute and perform the work, even for commercial purposes, all without asking\npermission. For full terms of use and attribution,\nhttp://creativecommons.org/licenses/by/4.0/\nThe development of this book has been supported by\nCISCO. www.prathambooks.org\nStory Attribution:\nThis story: Why Do Sunbirds Eat All Day? is written by Anusha Shankar . © Pratham Books , 2020. Some rights reserved. Released under CC BY 4.0 license.\nOther Credits:\n'Why Do Sunbirds Eat All Day?' has been published on StoryWeaver by Pratham Books. The development of this book has been supported by CISCO.\nwww.prathambooks.org. Guest Editor: Ashwitha Jayakumar, Guest Art Director: Shreyas R Krishnan\nImages Attributions:\nCover page: Two sunbirds are searching for food, by Harjyot Khalsa © Pratham Books, 2020. Some rights reserved. Released under CC BY 4.0 license. Page\n2: A sunbird looks at another sunbird putting its beak in a flower, by Harjyot Khalsa © Pratham Books, 2020. Some rights reserved. Released under CC BY\n4.0 license. Page 3: Two sunbirds hold a coin between their beaks, by Harjyot Khalsa © Pratham Books, 2020. Some rights reserved. Released under CC BY\n4.0 license. Page 4: Sunbirds using their beaks to gather nectar from flowers, by Harjyot Khalsa © Pratham Books, 2020. Some rights reserved. Released\nunder CC BY 4.0 license. Page 5: A sunbird feeds its babies in a nest, by Harjyot Khalsa © Pratham Books, 2020. Some rights reserved. Released under CC BY\n4.0 license. Page 6: Sunbirds flying around searching for food, by Harjyot Khalsa © Pratham Books, 2020. Some rights reserved. Released under CC BY 4.0\nlicense. Page 7: A sunbird flaps its wings, by Harjyot Khalsa © Pratham Books, 2020. Some rights reserved. Released under CC BY 4.0 license. Page 8: Two\nsunbirds sit on a branch, by Harjyot Khalsa © Pratham Books, 2020. Some rights reserved. Released under CC BY 4.0 license. Page 9: A sunbird takes nectar\nfrom a flower, by Harjyot Khalsa © Pratham Books, 2020. Some rights reserved. Released under CC BY 4.0 license. Page 10: Sunbirds eating different things,\nby Harjyot Khalsa © Pratham Books, 2020. Some rights reserved. Released under CC BY 4.0 license. Page 11: Two sunbirds sitting in a garden, by Harjyot\nKhalsa © Pratham Books, 2020. Some rights reserved. Released under CC BY 4.0 license.\n\n\nThis book was made possible by Pratham Books' StoryWeaver platform. Content under Creative\nCommons licenses can be downloaded, translated and can even be used to create new stories ​‐\nprovided you give appropriate credit, and indicate if changes were made. To know more about\nthis, and the full terms of use and attribution, please visit the following link.\nDisclaimer: https://www.storyweaver.org.in/terms_and_conditions\nSome rights reserved. This book is CC​-BY​-4.0 licensed. You can copy, modify,\ndistribute and perform the work, even for commercial purposes, all without asking\npermission. For full terms of use and attribution,\nhttp://creativecommons.org/licenses/by/4.0/\nThe development of this book has been supported by\nCISCO. www.prathambooks.org\nImages Attributions:\nPage 12: A girl holding a glass of milk pointing at a sunbird eating nectar from a flower, by Harjyot Khalsa © Pratham Books, 2020. Some rights reserved.\nReleased under CC BY 4.0 license. Page 13: A sunbird eating a berry, by Harjyot Khalsa © Pratham Books, 2020. Some rights reserved. Released under CC BY\n4.0 license.\n",
+    "sourceCover": "https://data.booksie.org/pratham-books/123172-why-do-sunbirds-eat-all-day.pdf#jigu-image=89",
+    "sourceCoverSha256": "dfc0c8457b2baedf136db29dad25aa271833c95772d103c22777f02900e7894a",
+    "includedPdfPages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "excludedPdfPages": [
+      {
+        "pageNumber": 1,
+        "reason": "原封面插画单独用于封面"
+      },
+      {
+        "pageNumber": 14,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      },
+      {
+        "pageNumber": 15,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      },
+      {
+        "pageNumber": 16,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      }
+    ],
+    "pages": [
+      {
+        "sourcePageNumber": 2,
+        "sourcePdfText": "Meet Loten. He is a long-billed sunbird.\nHis feathers are purple and maroon.\nThe yellow and grey bird\nis his sister, Lily.",
+        "sourceText": "Meet Loten. He is a long-billed sunbird. His feathers are purple and maroon. The yellow and grey bird is his sister, Lily.",
+        "sourceImage": "https://data.booksie.org/pratham-books/123172-why-do-sunbirds-eat-all-day.pdf#jigu-image=92",
+        "sourceImageSha256": "8a847e2fba23a598a8912ba4faeae2090f3e30d1ed018aab643e9138975f58d8",
+        "imageWidth": 1073,
+        "imageHeight": 770
+      },
+      {
+        "sourcePageNumber": 3,
+        "sourcePdfText": "Sunbirds like Loten and Lily\nlive in parts of India and Sri Lanka.\nThey are as long as a 100-rupee note\nand weigh as much as a ten-rupee coin.\n15cm\n14cm",
+        "sourceText": "Sunbirds like Loten and Lily live in parts of India and Sri Lanka. They are as long as a 100-rupee note and weigh as much as a ten-rupee coin. 15cm 14cm",
+        "sourceImage": "https://data.booksie.org/pratham-books/123172-why-do-sunbirds-eat-all-day.pdf#jigu-image=93",
+        "sourceImageSha256": "62eae010862da9a8991b8ce1e32b1a0cdeb6436485679077e446948504aaf7f3",
+        "imageWidth": 1073,
+        "imageHeight": 770
+      },
+      {
+        "sourcePageNumber": 4,
+        "sourcePdfText": "Loten and Lily have curved beaks\nand tube-shaped tongues to gather\nnectar from flowers.",
+        "sourceText": "Loten and Lily have curved beaks and tube-shaped tongues to gather nectar from flowers.",
+        "sourceImage": "https://data.booksie.org/pratham-books/123172-why-do-sunbirds-eat-all-day.pdf#jigu-image=94",
+        "sourceImageSha256": "26e4249672ab364b21a6df2a88ae776b5721526115b2361cac5a04fe94a144fa",
+        "imageWidth": 1073,
+        "imageHeight": 770
+      },
+      {
+        "sourcePageNumber": 5,
+        "sourcePdfText": "When Loten and Lily were babies,\nthey had short, wide beaks so that\ntheir parents could feed them easily.\nTheir parents digested the food\na little in their stomachs before\nfeeding it to them.",
+        "sourceText": "When Loten and Lily were babies, they had short, wide beaks so that their parents could feed them easily. Their parents digested the food a little in their stomachs before feeding it to them.",
+        "sourceImage": "https://data.booksie.org/pratham-books/123172-why-do-sunbirds-eat-all-day.pdf#jigu-image=95",
+        "sourceImageSha256": "2647bb5f6e54fd9ef2bd00132e798fb04ffadc4d2ec9bac12e2a39d76f4ef963",
+        "imageWidth": 1073,
+        "imageHeight": 770
+      },
+      {
+        "sourcePageNumber": 6,
+        "sourcePdfText": "When they grew strong enough,\nLoten and Lily learnt to fly.\nThey also had to learn\nto find their own food.",
+        "sourceText": "When they grew strong enough, Loten and Lily learnt to fly. They also had to learn to find their own food.",
+        "sourceImage": "https://data.booksie.org/pratham-books/123172-why-do-sunbirds-eat-all-day.pdf#jigu-image=96",
+        "sourceImageSha256": "656a311df4b0ae668e6e412774e3785cd3585402d344451d62bdcb2f53ef3315",
+        "imageWidth": 1073,
+        "imageHeight": 770
+      },
+      {
+        "sourcePageNumber": 7,
+        "sourcePdfText": "Loten and Lily get energy\nfrom what they eat and drink.\nThis energy allows them\nto use their muscles to fly.",
+        "sourceText": "Loten and Lily get energy from what they eat and drink. This energy allows them to use their muscles to fly.",
+        "sourceImage": "https://data.booksie.org/pratham-books/123172-why-do-sunbirds-eat-all-day.pdf#jigu-image=97",
+        "sourceImageSha256": "db41a5091b3d7640f50280538d9ba9c368ec4a8099b295550c810e4b3415318b",
+        "imageWidth": 1073,
+        "imageHeight": 770
+      },
+      {
+        "sourcePageNumber": 8,
+        "sourcePdfText": "Unlike us humans, Loten and Lily cannot store\nmuch energy in their bodies as fat.\nThey have to stay very light.\nOtherwise, they will not be able to fly.",
+        "sourceText": "Unlike us humans, Loten and Lily cannot store much energy in their bodies as fat. They have to stay very light. Otherwise, they will not be able to fly.",
+        "sourceImage": "https://data.booksie.org/pratham-books/123172-why-do-sunbirds-eat-all-day.pdf#jigu-image=98",
+        "sourceImageSha256": "0abd879978cc5258f01f6bb53de2f77730380076e5dbf03f74856b6f856bb6d0",
+        "imageWidth": 1073,
+        "imageHeight": 770
+      },
+      {
+        "sourcePageNumber": 9,
+        "sourcePdfText": "This is why sunbirds have to eat\nmany times a day.\nIn fact, they spend most of their days\nflying around, looking for food.",
+        "sourceText": "This is why sunbirds have to eat many times a day. In fact, they spend most of their days flying around, looking for food.",
+        "sourceImage": "https://data.booksie.org/pratham-books/123172-why-do-sunbirds-eat-all-day.pdf#jigu-image=99",
+        "sourceImageSha256": "13cb4bc262608ae19694a368f402ee505941c22e2db1d9278a4728c6bcd218d7",
+        "imageWidth": 1073,
+        "imageHeight": 770
+      },
+      {
+        "sourcePageNumber": 10,
+        "sourcePdfText": "Loten and Lily drink\nnectar from flowers.\nThey also like to eat\ninsects and spiders.\nSometimes, they eat\nsmall, juicy fruit.",
+        "sourceText": "Loten and Lily drink nectar from flowers. They also like to eat insects and spiders. Sometimes, they eat small, juicy fruit.",
+        "sourceImage": "https://data.booksie.org/pratham-books/123172-why-do-sunbirds-eat-all-day.pdf#jigu-image=100",
+        "sourceImageSha256": "8aa4a2d7fe1085a5d43526e1efddffb91dac826f86ede82f8625a276c1e68c2f",
+        "imageWidth": 1073,
+        "imageHeight": 770
+      },
+      {
+        "sourcePageNumber": 11,
+        "sourcePdfText": "If you spot a bird like Loten or Lily\nin a garden or a park, take a peek\nat what they are eating!",
+        "sourceText": "If you spot a bird like Loten or Lily in a garden or a park, take a peek at what they are eating!",
+        "sourceImage": "https://data.booksie.org/pratham-books/123172-why-do-sunbirds-eat-all-day.pdf#jigu-image=101",
+        "sourceImageSha256": "57e7e3eddd532e7ed32530a7abec0f7ee5158b3b9f6ba8c9804c0f82149f5edd",
+        "imageWidth": 1073,
+        "imageHeight": 770
+      },
+      {
+        "sourcePageNumber": 12,
+        "sourcePdfText": "Where Does Energy Come From?\nEnergy comes from food.\nAnimals, including humans and birds, need energy to stay alive.\nIt allows our bodies to work and our brains to think.\nSome birds have to eat every two hours, otherwise they wouldn’t\nhave enough energy to stay alive.\nBigger animals, like adult humans, can survive about two months\nwithout any food, if they really have to. But to live well, we need to\neat many times a day!",
+        "sourceText": "Where Does Energy Come From? Energy comes from food. Animals, including humans and birds, need energy to stay alive. It allows our bodies to work and our brains to think. Some birds have to eat every two hours, otherwise they wouldn’t have enough energy to stay alive. Bigger animals, like adult humans, can survive about two months without any food, if they really have to. But to live well, we need to eat many times a day!",
+        "sourceImage": "https://data.booksie.org/pratham-books/123172-why-do-sunbirds-eat-all-day.pdf#jigu-image=102",
+        "sourceImageSha256": "b435a3ef40dcf9d32852f2aaba58efa8f1d8b668808100203f94e4236f133b53",
+        "imageWidth": 1073,
+        "imageHeight": 770
+      },
+      {
+        "sourcePageNumber": 13,
+        "sourcePdfText": "",
+        "sourceText": "",
+        "sourceImage": "https://data.booksie.org/pratham-books/123172-why-do-sunbirds-eat-all-day.pdf#jigu-image=103",
+        "sourceImageSha256": "e72ba1cb5c042da7732ef0a83a5e480b02947a084bac797e2a1040a3b34c5c28",
+        "imageWidth": 1073,
+        "imageHeight": 770
+      }
+    ]
+  },
+  {
+    "bookId": "sw-insect-counting",
+    "sourceUrl": "https://data.booksie.org/pratham-books/63859-incredible-insects-a-counting-book.pdf",
+    "pdfSha256": "72c844e6213e63eb798e2f75e7830f99a98a35e1908d966f6ca8a35991cf8538",
+    "license": "CC-BY-4.0",
+    "creators": [
+      "文字：Sheena Deviah",
+      "插画：Sheena Deviah"
+    ],
+    "attributionText": "This book was made possible by Pratham Books' StoryWeaver platform. Content under Creative\nCommons licenses can be downloaded, translated and can even be used to create new stories ​‐\nprovided you give appropriate credit, and indicate if changes were made. To know more about\nthis, and the full terms of use and attribution, please visit the following link.\nDisclaimer: https://www.storyweaver.org.in/terms_and_conditions\nSome rights reserved. This book is CC​-BY​-4.0 licensed. You can copy, modify,\ndistribute and perform the work, even for commercial purposes, all without asking\npermission. For full terms of use and attribution,\nhttp://creativecommons.org/licenses/by/4.0/\nThe development of this book has been supported by\nOracle.\nStory Attribution:\nThis story: Incredible Insects: A Counting Book is written by Sheena Deviah . © Pratham Books , 2019. Some rights reserved. Released under CC BY 4.0\nlicense.\nOther Credits:\nThis book was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle.\nImages Attributions:\nCover page: Ladybird and jewel beetles, by Sheena Deviah © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 2:\nGrasshopper, by Sheena Deviah © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 3: Butterflies, by Sheena Deviah ©\nPratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 4: Leaf insects, by Sheena Deviah © Pratham Books, 2019. Some rights\nreserved. Released under CC BY 4.0 license. Page 5: Dragonflies, by Sheena Deviah © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0\nlicense. Page 6: Moths, by Sheena Deviah © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 7: Red bugs, by Sheena\nDeviah © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 8: Bumble bees, by Sheena Deviah © Pratham Books, 2019.\nSome rights reserved. Released under CC BY 4.0 license. Page 9: Jewel beetles, by Sheena Deviah © Pratham Books, 2019. Some rights reserved. Released\nunder CC BY 4.0 license. Page 10: Fireflies, by Sheena Deviah © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 11:\nLadybirds, by Sheena Deviah © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license.\n\n\nThis book was made possible by Pratham Books' StoryWeaver platform. Content under Creative\nCommons licenses can be downloaded, translated and can even be used to create new stories ​‐\nprovided you give appropriate credit, and indicate if changes were made. To know more about\nthis, and the full terms of use and attribution, please visit the following link.\nDisclaimer: https://www.storyweaver.org.in/terms_and_conditions\nSome rights reserved. This book is CC​-BY​-4.0 licensed. You can copy, modify,\ndistribute and perform the work, even for commercial purposes, all without asking\npermission. For full terms of use and attribution,\nhttp://creativecommons.org/licenses/by/4.0/\nThe development of this book has been supported by\nOracle.\nImages Attributions:\nPage 12: Insects in the garden, by Sheena Deviah © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license.\n",
+    "sourceCover": "https://data.booksie.org/pratham-books/63859-incredible-insects-a-counting-book.pdf#jigu-image=84",
+    "sourceCoverSha256": "10fee8551652a52af4e6a65b537bdd49590501ea2c3787f3fce091fa6632f331",
+    "includedPdfPages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "excludedPdfPages": [
+      {
+        "pageNumber": 1,
+        "reason": "原封面插画单独用于封面"
+      },
+      {
+        "pageNumber": 13,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      },
+      {
+        "pageNumber": 14,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      },
+      {
+        "pageNumber": 15,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      }
+    ],
+    "pages": [
+      {
+        "sourcePageNumber": 2,
+        "sourcePdfText": "Grasshopper\n1",
+        "sourceText": "1 Grasshopper",
+        "sourceImage": "https://data.booksie.org/pratham-books/63859-incredible-insects-a-counting-book.pdf#jigu-image=87",
+        "sourceImageSha256": "1b8246598d3c921ef1e4d4a0bf4f5c9440002a1e47cdc7093accf1d3bb4e7e79",
+        "imageWidth": 1073,
+        "imageHeight": 770
+      },
+      {
+        "sourcePageNumber": 3,
+        "sourcePdfText": "Butterflies\n2",
+        "sourceText": "2 Butterflies",
+        "sourceImage": "https://data.booksie.org/pratham-books/63859-incredible-insects-a-counting-book.pdf#jigu-image=88",
+        "sourceImageSha256": "c891137cc0131825168e2f8d4b686ae67fb4174d375ac3dafc6ba281495e16be",
+        "imageWidth": 1073,
+        "imageHeight": 770
+      },
+      {
+        "sourcePageNumber": 4,
+        "sourcePdfText": "Leaf insects\n3",
+        "sourceText": "3 Leaf insects",
+        "sourceImage": "https://data.booksie.org/pratham-books/63859-incredible-insects-a-counting-book.pdf#jigu-image=89",
+        "sourceImageSha256": "ac307894aca99ad7f07f76f29fd69a86eb98151275ebebdb4d16a46d09d069e8",
+        "imageWidth": 1073,
+        "imageHeight": 770
+      },
+      {
+        "sourcePageNumber": 5,
+        "sourcePdfText": "Dragonflies\n4",
+        "sourceText": "4 Dragonflies",
+        "sourceImage": "https://data.booksie.org/pratham-books/63859-incredible-insects-a-counting-book.pdf#jigu-image=90",
+        "sourceImageSha256": "89a3e29e1d9890e22b9e3a5383fed5be6aa22928c3f67e551bc7fef393d012ec",
+        "imageWidth": 1073,
+        "imageHeight": 770
+      },
+      {
+        "sourcePageNumber": 6,
+        "sourcePdfText": "Moths\n5",
+        "sourceText": "5 Moths",
+        "sourceImage": "https://data.booksie.org/pratham-books/63859-incredible-insects-a-counting-book.pdf#jigu-image=91",
+        "sourceImageSha256": "741327dd099418e03a310ea8330b3a6c25a1842ed334f72ce829e4d94e34fd76",
+        "imageWidth": 1073,
+        "imageHeight": 770
+      },
+      {
+        "sourcePageNumber": 7,
+        "sourcePdfText": "Red cotton stainers\n6",
+        "sourceText": "6 Red cotton stainers",
+        "sourceImage": "https://data.booksie.org/pratham-books/63859-incredible-insects-a-counting-book.pdf#jigu-image=92",
+        "sourceImageSha256": "5d41485f1de25c5eafec19b51b5cd0481f88d161bf9c6e3c514ff5a05830e7bf",
+        "imageWidth": 1073,
+        "imageHeight": 770
+      },
+      {
+        "sourcePageNumber": 8,
+        "sourcePdfText": "Bumble bees\n7",
+        "sourceText": "7 Bumble bees",
+        "sourceImage": "https://data.booksie.org/pratham-books/63859-incredible-insects-a-counting-book.pdf#jigu-image=93",
+        "sourceImageSha256": "5e71828f90a7a7ce45fa47fb6b3a4c7b9485ff6a83411de4d6fa22b84a74d465",
+        "imageWidth": 1073,
+        "imageHeight": 770
+      },
+      {
+        "sourcePageNumber": 9,
+        "sourcePdfText": "Jewel bugs\n8",
+        "sourceText": "8 Jewel bugs",
+        "sourceImage": "https://data.booksie.org/pratham-books/63859-incredible-insects-a-counting-book.pdf#jigu-image=94",
+        "sourceImageSha256": "fa298b868002d19bf98842222f8d2a2fe7fb64b5d405adb8ab380d9fce47f351",
+        "imageWidth": 1073,
+        "imageHeight": 770
+      },
+      {
+        "sourcePageNumber": 10,
+        "sourcePdfText": "Fireflies\n9",
+        "sourceText": "9 Fireflies",
+        "sourceImage": "https://data.booksie.org/pratham-books/63859-incredible-insects-a-counting-book.pdf#jigu-image=95",
+        "sourceImageSha256": "771e090017774599af61ec9bd0a4145c94d86c24d47c7f44dcc956e0d959a0a4",
+        "imageWidth": 1073,
+        "imageHeight": 770
+      },
+      {
+        "sourcePageNumber": 11,
+        "sourcePdfText": "Ladybirds\n10",
+        "sourceText": "10 Ladybirds",
+        "sourceImage": "https://data.booksie.org/pratham-books/63859-incredible-insects-a-counting-book.pdf#jigu-image=96",
+        "sourceImageSha256": "f4f25a88744aad1dd9ad9687d4053602287bcff620e7f98dbe0086688a4f64be",
+        "imageWidth": 1073,
+        "imageHeight": 770
+      },
+      {
+        "sourcePageNumber": 12,
+        "sourcePdfText": "",
+        "sourceText": "",
+        "sourceImage": "https://data.booksie.org/pratham-books/63859-incredible-insects-a-counting-book.pdf#jigu-image=97",
+        "sourceImageSha256": "bd0c80b40e1e067efd03d853b7e5ddd07706790ab573afb9ee01f7a70a267572",
+        "imageWidth": 1073,
+        "imageHeight": 770
+      }
+    ]
+  },
+  {
+    "bookId": "lr-count-legs",
+    "sourceUrl": "https://data.booksie.org/lets-read/3137f9b1-a8b4-4b5c-8f7b-a7ee03ea9505.pdf",
+    "pdfSha256": "6e53a1a185bc92f48094ae6926b35a6c0ab4b1592069b3477a97bd7a1f6e5b35",
+    "license": "CC-BY-4.0",
+    "creators": [
+      "文字：All Children Reading - Cambodia",
+      "出版与英文改编：The Asia Foundation"
+    ],
+    "attributionText": "Brought to you by\nLet’s Read! is an initiative of The Asia Foundation’s Books for Asia program that fosters young readers\nin Asia. booksforasia.org\nTo read more books like this and get further information about this book, visit letsreadasia.org\nOriginal Story\nេតោះេយើងរាប់េជើង, author: All Children Reading - Cambodia. Published by The Asia Foundation, https://www.letsreadasia.org ©\nThe Asia Foundation. Released under CC BY 4.0.\nThis work is a modified version of the original story. © The Asia Foundation, 2018. Some rights reserved. Released under CC\nBY 4.0.\nFor full terms of use and attribution, http://creativecommons.org/licenses/by/4.0/\n",
+    "sourceCover": "https://data.booksie.org/lets-read/3137f9b1-a8b4-4b5c-8f7b-a7ee03ea9505.pdf#jigu-image=8",
+    "sourceCoverSha256": "bd9cbb551fc4fc613b49e9932c965dae5f07dc00f1f2080b51aac89c457f1b03",
+    "includedPdfPages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "excludedPdfPages": [
+      {
+        "pageNumber": 1,
+        "reason": "原封面插画单独用于封面"
+      },
+      {
+        "pageNumber": 11,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      }
+    ],
+    "pages": [
+      {
+        "sourcePageNumber": 2,
+        "sourcePdfText": "Bird has two legs.",
+        "sourceText": "Bird has two legs.",
+        "sourceImage": "https://data.booksie.org/lets-read/3137f9b1-a8b4-4b5c-8f7b-a7ee03ea9505.pdf#jigu-image=18",
+        "sourceImageSha256": "59fcd97ea3c1dedbce5cc08c579ffc501d3d5e53545b22d3ea2f34ac2333063d",
+        "imageWidth": 425,
+        "imageHeight": 600
+      },
+      {
+        "sourcePageNumber": 3,
+        "sourcePdfText": "Egret has two legs too.",
+        "sourceText": "Egret has two legs too.",
+        "sourceImage": "https://data.booksie.org/lets-read/3137f9b1-a8b4-4b5c-8f7b-a7ee03ea9505.pdf#jigu-image=23",
+        "sourceImageSha256": "c5857b7b97745f476c5f81dca5ad080dd07dacf688ebf820f0a31caeb703890c",
+        "imageWidth": 425,
+        "imageHeight": 600
+      },
+      {
+        "sourcePageNumber": 4,
+        "sourcePdfText": "Cow has four legs.",
+        "sourceText": "Cow has four legs.",
+        "sourceImage": "https://data.booksie.org/lets-read/3137f9b1-a8b4-4b5c-8f7b-a7ee03ea9505.pdf#jigu-image=28",
+        "sourceImageSha256": "f10f654c61876a10b798fb9f1e62a535452ef94438bcb2ce3dbeafa846003b16",
+        "imageWidth": 425,
+        "imageHeight": 600
+      },
+      {
+        "sourcePageNumber": 5,
+        "sourcePdfText": "Elephant has four legs too.",
+        "sourceText": "Elephant has four legs too.",
+        "sourceImage": "https://data.booksie.org/lets-read/3137f9b1-a8b4-4b5c-8f7b-a7ee03ea9505.pdf#jigu-image=33",
+        "sourceImageSha256": "7e287fd51e3b9b24e3d3e260e53ac8ac7c36188cc1bcc72b306fdc562fd80707",
+        "imageWidth": 425,
+        "imageHeight": 600
+      },
+      {
+        "sourcePageNumber": 6,
+        "sourcePdfText": "Cicada has six legs.",
+        "sourceText": "Cicada has six legs.",
+        "sourceImage": "https://data.booksie.org/lets-read/3137f9b1-a8b4-4b5c-8f7b-a7ee03ea9505.pdf#jigu-image=38",
+        "sourceImageSha256": "f19d2fc52fca2928175e6ad1e36cd65bc416e20e02f4d21f8577927c74a87c46",
+        "imageWidth": 425,
+        "imageHeight": 600
+      },
+      {
+        "sourcePageNumber": 7,
+        "sourcePdfText": "Firefly has six legs too.",
+        "sourceText": "Firefly has six legs too.",
+        "sourceImage": "https://data.booksie.org/lets-read/3137f9b1-a8b4-4b5c-8f7b-a7ee03ea9505.pdf#jigu-image=43",
+        "sourceImageSha256": "438d52f5b054d8dcdb2f54f7e19b7b449273a0e6e14838057084cb5eb5705e90",
+        "imageWidth": 425,
+        "imageHeight": 600
+      },
+      {
+        "sourcePageNumber": 8,
+        "sourcePdfText": "Spider has eight legs.",
+        "sourceText": "Spider has eight legs.",
+        "sourceImage": "https://data.booksie.org/lets-read/3137f9b1-a8b4-4b5c-8f7b-a7ee03ea9505.pdf#jigu-image=48",
+        "sourceImageSha256": "905d68ccc4cf9569c6762d852164f9d3f50ad2b1fa4bda6dd6657777d2580934",
+        "imageWidth": 425,
+        "imageHeight": 600
+      },
+      {
+        "sourcePageNumber": 9,
+        "sourcePdfText": "Octopus has eight legs too.",
+        "sourceText": "Octopus has eight legs too.",
+        "sourceImage": "https://data.booksie.org/lets-read/3137f9b1-a8b4-4b5c-8f7b-a7ee03ea9505.pdf#jigu-image=53",
+        "sourceImageSha256": "f9bfaf7f21e03fbe616ae2cc9c15c7353a56a449efea950680f6bf8a7b5eff3f",
+        "imageWidth": 425,
+        "imageHeight": 600
+      },
+      {
+        "sourcePageNumber": 10,
+        "sourcePdfText": "",
+        "sourceText": "",
+        "sourceImage": "https://data.booksie.org/lets-read/3137f9b1-a8b4-4b5c-8f7b-a7ee03ea9505.pdf#jigu-image=58",
+        "sourceImageSha256": "455f54c9e887557b270e5e47c6a85b2a02f60b8d58cd9da362d8d68b7a9ed9c3",
+        "imageWidth": 425,
+        "imageHeight": 600
+      }
+    ]
+  },
+  {
+    "bookId": "sw-animal-tracks",
+    "sourceUrl": "https://freekidsbooks.org/wp-content/uploads/2021/08/who-just-went-by-pratham-FKB.pdf",
+    "pdfSha256": "6f298d658ba21441eb2d8d1bdf4549173ad09c3d682545229089b0c275fce7b3",
+    "license": "CC-BY-4.0",
+    "creators": [
+      "文字：Radha Rangarajan",
+      "插画：Kalp Sanghvi"
+    ],
+    "attributionText": "This book was made possible by Pratham Books' StoryWeaver platform. Content under Creative\nCommons licenses can be downloaded, translated and can even be used to create new stories ​‐\nprovided you give appropriate credit, and indicate if changes were made. To know more about\nthis, and the full terms of use and attribution, please visit the following link.\nDisclaimer: https://www.storyweaver.org.in/terms_and_conditions\nSome rights reserved. This book is CC​-BY​-4.0 licensed. You can copy, modify,\ndistribute and perform the work, even for commercial purposes, all without asking\npermission. For full terms of use and attribution,\nhttp://creativecommons.org/licenses/by/4.0/\nThe development of this book has been supported by\nOracle.\nStory Attribution:\nThis story: Who Just Went By? is written by Radha Rangarajan . © Pratham Books , 2019. Some rights reserved. Released under CC BY 4.0 license.\nOther Credits:\nThis book was first published on StoryWeaver by Pratham Books. The development of this book has been supported by Oracle. Guest Art Director: Snigdha\nRao. www.prathambooks.org\nImages Attributions:\nCover page: A tiger's feet , by Kalp Sanghvi © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 2: Deer footprint, by Kalp\nSanghvi © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 3: Tiger chasing Deer, by Kalp Sanghvi © Pratham Books,\n2019. Some rights reserved. Released under CC BY 4.0 license. Page 4: Footprints of a sandpiper and a ghost crab, by Kalp Sanghvi © Pratham Books, 2019.\nSome rights reserved. Released under CC BY 4.0 license. Page 5: A sandpiper and a ghost crab, by Kalp Sanghvi © Pratham Books, 2019. Some rights\nreserved. Released under CC BY 4.0 license. Page 6: Footprints of a snow leopard and a blue sheep, by Kalp Sanghvi © Pratham Books, 2019. Some rights\nreserved. Released under CC BY 4.0 license. Page 7: A snow leopard and a blue sheep, by Kalp Sanghvi © Pratham Books, 2019. Some rights reserved.\nReleased under CC BY 4.0 license. Page 8: Footprints of a toad-headed agama and a desert fox, by Kalp Sanghvi © Pratham Books, 2019. Some rights\nreserved. Released under CC BY 4.0 license. Page 9: A toad-headed agama and a desert fox, by Kalp Sanghvi © Pratham Books, 2019. Some rights reserved.\nReleased under CC BY 4.0 license. Page 10: Footprints of a slug, by Kalp Sanghvi © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0\nlicense. Page 11: A cat and a slug, by Kalp Sanghvi © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license.\n\n\nThis book was made possible by Pratham Books' StoryWeaver platform. Content under Creative\nCommons licenses can be downloaded, translated and can even be used to create new stories ​‐\nprovided you give appropriate credit, and indicate if changes were made. To know more about\nthis, and the full terms of use and attribution, please visit the following link.\nDisclaimer: https://www.storyweaver.org.in/terms_and_conditions\nSome rights reserved. This book is CC​-BY​-4.0 licensed. You can copy, modify,\ndistribute and perform the work, even for commercial purposes, all without asking\npermission. For full terms of use and attribution,\nhttp://creativecommons.org/licenses/by/4.0/\nThe development of this book has been supported by\nOracle.\nImages Attributions:\nPage 12: Footprints of a snail and a crab, by Kalp Sanghvi © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 13: Crab\nfootprints, by Kalp Sanghvi © Pratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license. Page 14: Animal footprints, by Kalp Sanghvi ©\nPratham Books, 2019. Some rights reserved. Released under CC BY 4.0 license.\n",
+    "sourceCover": "https://freekidsbooks.org/wp-content/uploads/2021/08/who-just-went-by-pratham-FKB.pdf#jigu-image=8",
+    "sourceCoverSha256": "46df028c59d13f8a8ae14811b2375e95c3f7b685f4bd61eef0d63aa9a7929844",
+    "includedPdfPages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "excludedPdfPages": [
+      {
+        "pageNumber": 1,
+        "reason": "原封面插画单独用于封面"
+      },
+      {
+        "pageNumber": 15,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      },
+      {
+        "pageNumber": 16,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      },
+      {
+        "pageNumber": 17,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      },
+      {
+        "pageNumber": 18,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      }
+    ],
+    "pages": [
+      {
+        "sourcePageNumber": 2,
+        "sourcePdfText": "Who just went by?",
+        "sourceText": "Who just went by?",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2021/08/who-just-went-by-pratham-FKB.pdf#jigu-image=23",
+        "sourceImageSha256": "13abbce7cb4b7a1adb3a9b59075bbc4c953ba9c22a26d6444b9e7eb8e6295e3e",
+        "imageWidth": 1073,
+        "imageHeight": 579
+      },
+      {
+        "sourcePageNumber": 3,
+        "sourcePdfText": "The tiger chasing\nthe spotted deer.",
+        "sourceText": "The tiger chasing the spotted deer.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2021/08/who-just-went-by-pratham-FKB.pdf#jigu-image=29",
+        "sourceImageSha256": "096414567b7953082f5dffa600a710c327550633ad0ed738234c3bc7cea25840",
+        "imageWidth": 1073,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 4,
+        "sourcePdfText": "Who just went by?",
+        "sourceText": "Who just went by?",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2021/08/who-just-went-by-pratham-FKB.pdf#jigu-image=35",
+        "sourceImageSha256": "228bc128b862500b9b69c03090b63814752b049ca945949d59bb89f703853db9",
+        "imageWidth": 1073,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 5,
+        "sourcePdfText": "The sandpiper chasing the\nghost crab.",
+        "sourceText": "The sandpiper chasing the ghost crab.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2021/08/who-just-went-by-pratham-FKB.pdf#jigu-image=41",
+        "sourceImageSha256": "57df912905d48776e084f605ace88d3ef355ceb8889ef90e0d4f14ec18a3a894",
+        "imageWidth": 1073,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 6,
+        "sourcePdfText": "Who just went by?",
+        "sourceText": "Who just went by?",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2021/08/who-just-went-by-pratham-FKB.pdf#jigu-image=47",
+        "sourceImageSha256": "348ba3b20af35c9313edf3ab8721391dc66170ea3f49a9f0edc4c3b75f102bfe",
+        "imageWidth": 1073,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 7,
+        "sourcePdfText": "The snow leopard chasing\nthe blue sheep.",
+        "sourceText": "The snow leopard chasing the blue sheep.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2021/08/who-just-went-by-pratham-FKB.pdf#jigu-image=53",
+        "sourceImageSha256": "31c80adf9e9f1c6260faf9b2a538ba339808c0da11136bbd68da98aa665a50d2",
+        "imageWidth": 1073,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 8,
+        "sourcePdfText": "Who just went by?",
+        "sourceText": "Who just went by?",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2021/08/who-just-went-by-pratham-FKB.pdf#jigu-image=59",
+        "sourceImageSha256": "6a7e90260aa9a89f6b50f00af88023303578b03b00a7a1b68f0cec7e4ee139ed",
+        "imageWidth": 1073,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 9,
+        "sourcePdfText": "The fox chasing the agama.",
+        "sourceText": "The fox chasing the agama.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2021/08/who-just-went-by-pratham-FKB.pdf#jigu-image=66",
+        "sourceImageSha256": "1b5cc06d30bd41189f1a3a3959b006c9dc35029af68f225620618c8b72ed5d10",
+        "imageWidth": 1073,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 10,
+        "sourcePdfText": "Who just went by?",
+        "sourceText": "Who just went by?",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2021/08/who-just-went-by-pratham-FKB.pdf#jigu-image=72",
+        "sourceImageSha256": "57ee32b3a8e19b916e8652b8f2f83563cf831df03566bfd43570575e365a0c34",
+        "imageWidth": 1073,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 11,
+        "sourcePdfText": "The cat chasing the slug.",
+        "sourceText": "The cat chasing the slug.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2021/08/who-just-went-by-pratham-FKB.pdf#jigu-image=78",
+        "sourceImageSha256": "3070c12f4d52d0996bc52a105bc713a52964ea57e13b336cacf7fde268a07964",
+        "imageWidth": 1073,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 12,
+        "sourcePdfText": "Who just went by?",
+        "sourceText": "Who just went by?",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2021/08/who-just-went-by-pratham-FKB.pdf#jigu-image=84",
+        "sourceImageSha256": "b49e729e9561611b9184bed81940693e9d311708c8848b8a953da3bc1830a345",
+        "imageWidth": 1073,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 13,
+        "sourcePdfText": "The snail and the crab walking together.\nThey are best friends!",
+        "sourceText": "The snail and the crab walking together. They are best friends!",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2021/08/who-just-went-by-pratham-FKB.pdf#jigu-image=90",
+        "sourceImageSha256": "b70e033b94b7e94fd849c6705583603f90c43402fa476d34239464ac4b67453e",
+        "imageWidth": 1073,
+        "imageHeight": 579
+      },
+      {
+        "sourcePageNumber": 14,
+        "sourcePdfText": "Watch Where You Walk\nThe study of footprints is very interesting.\n- Scientists have found marks of creatures that lived on Earth more\nthan 500 million years ago.\n- People who hunt and gather food from the forest know how to\nread animal tracks.\n- Members of a community called the Irulas in South India can tell\nthe exact name of the snake simply by seeing its marks on the\nground.\n- The next time you go to a forest, ask your guide to show you\nanimal tracks.",
+        "sourceText": "Watch Where You Walk The study of footprints is very interesting. - Scientists have found marks of creatures that lived on Earth more than 500 million years ago. - People who hunt and gather food from the forest know how to read animal tracks. - Members of a community called the Irulas in South India can tell the exact name of the snake simply by seeing its marks on the ground. - The next time you go to a forest, ask your guide to show you animal tracks.",
+        "sourceImage": "https://freekidsbooks.org/wp-content/uploads/2021/08/who-just-went-by-pratham-FKB.pdf#jigu-image=96",
+        "sourceImageSha256": "428d006c93d9eb54b687b03944b1c436ccbdf81722880f5a9abb8d0ba6a03cc6",
+        "imageWidth": 1073,
+        "imageHeight": 771
+      }
+    ]
+  },
+  {
+    "bookId": "rtr-ladybird",
+    "sourceUrl": "https://data.booksie.org/room-to-read/43404-the-ladybird.pdf",
+    "pdfSha256": "75379bebf1a0290f59e394e5cde19968dac25282bc0839b1c7eaa5f9e002b394",
+    "license": "CC-BY-4.0",
+    "creators": [
+      "文字：Shantdas Manandhar",
+      "插画：Promina Shreshtha",
+      "英文翻译：Stephanie Wei"
+    ],
+    "attributionText": "This book was made possible by Pratham Books' StoryWeaver platform. Content under Creative\nCommons licenses can be downloaded, translated and can even be used to create new stories ​‐\nprovided you give appropriate credit, and indicate if changes were made. To know more about\nthis, and the full terms of use and attribution, please visit the following link.\nDisclaimer: https://www.storyweaver.org.in/terms_and_conditions\nSome rights reserved. This book is CC​-BY​-4.0 licensed. You can copy, modify,\ndistribute and perform the work, even for commercial purposes, all without asking\npermission. For full terms of use and attribution,\nhttp://creativecommons.org/licenses/by/4.0/\nStory Attribution:\nThis story: The Ladybird is translated by Stephanie Wei . The © for this translation lies with Room to Read, 2008. Some rights reserved. Released under CC\nBY 4.0 license. Based on Original story: '\u0002टक\u0002टके क\u0007रा', by Shantdas Manandhar . © Room to Read , 2008. Some rights reserved. Released under CC BY 4.0\nlicense.\nOther Credits:\nThis story 'The Ladybird' has been published on StoryWeaver by Room to Read.\nImages Attributions:\nCover page: Two ladybirds, by Promina Shreshtha © Room to Read, 2008. Some rights reserved. Released under CC BY 4.0 license. Page 2: Two children see\na ladybird, by Promina Shreshtha © Room to Read, 2008. Some rights reserved. Released under CC BY 4.0 license. Page 3: A butterfly and a ladybird, by\nPromina Shreshtha © Room to Read, 2008. Some rights reserved. Released under CC BY 4.0 license. Page 4: A ladybird and a praying mantis, by Promina\nShreshtha © Room to Read, 2008. Some rights reserved. Released under CC BY 4.0 license. Page 5: Two children and a ladybird, by Promina Shreshtha ©\nRoom to Read, 2008. Some rights reserved. Released under CC BY 4.0 license. Page 6: A ladybird surrounded by spots, by Promina Shreshtha © Room to\nRead, 2008. Some rights reserved. Released under CC BY 4.0 license. Page 7: Two children see a ladybird on a leaf, by Promina Shreshtha © Room to Read,\n2008. Some rights reserved. Released under CC BY 4.0 license. Page 8: Two children see a flying ladybird, by Promina Shreshtha © Room to Read, 2008.\nSome rights reserved. Released under CC BY 4.0 license. Page 9: A girl points to a ladybird, by Promina Shreshtha © Room to Read, 2008. Some rights\nreserved. Released under CC BY 4.0 license. Page 10: Two children look up to a ladybird, by Promina Shreshtha © Room to Read, 2008. Some rights\nreserved. Released under CC BY 4.0 license.\n\n\nThis book was made possible by Pratham Books' StoryWeaver platform. Content under Creative\nCommons licenses can be downloaded, translated and can even be used to create new stories ​‐\nprovided you give appropriate credit, and indicate if changes were made. To know more about\nthis, and the full terms of use and attribution, please visit the following link.\nDisclaimer: https://www.storyweaver.org.in/terms_and_conditions\nSome rights reserved. This book is CC​-BY​-4.0 licensed. You can copy, modify,\ndistribute and perform the work, even for commercial purposes, all without asking\npermission. For full terms of use and attribution,\nhttp://creativecommons.org/licenses/by/4.0/\nImages Attributions:\nPage 11: A ladybird among flowers, by Promina Shreshtha © Room to Read, 2008. Some rights reserved. Released under CC BY 4.0 license. Page 12: A\nladybird, red spots and a girl, by Promina Shreshtha © Room to Read, 2008. Some rights reserved. Released under CC BY 4.0 license. Page 13: A ladybird,\nbutterfly and praying mantis, by Promina Shreshtha © Room to Read, 2008. Some rights reserved. Released under CC BY 4.0 license.\n",
+    "sourceCover": "https://data.booksie.org/room-to-read/43404-the-ladybird.pdf#jigu-image=91",
+    "sourceCoverSha256": "ddcac638b2b922d0eed4f58b79a0c4035a0feb40c99797d4d77058b8c475c299",
+    "includedPdfPages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "excludedPdfPages": [
+      {
+        "pageNumber": 1,
+        "reason": "原封面插画单独用于封面"
+      },
+      {
+        "pageNumber": 14,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      },
+      {
+        "pageNumber": 15,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      },
+      {
+        "pageNumber": 16,
+        "reason": "版权署名、平台说明或发行方广告，不是正文；完整授权信息保留在绘本说明"
+      }
+    ],
+    "pages": [
+      {
+        "sourcePageNumber": 2,
+        "sourcePdfText": "The ladybird is an insect with lots of black spots. \nMany, many black spots.",
+        "sourceText": "The ladybird is an insect with lots of black spots. Many, many black spots.",
+        "sourceImage": "https://data.booksie.org/room-to-read/43404-the-ladybird.pdf#jigu-image=94",
+        "sourceImageSha256": "070ca829bc1753c6a0216e2b0dacafb5fa2a97ce2797aa5116eeaf9d58c7c9c1",
+        "imageWidth": 1073,
+        "imageHeight": 577
+      },
+      {
+        "sourcePageNumber": 3,
+        "sourcePdfText": "It's not a butterfly.\nIt's a different\ninsect.",
+        "sourceText": "It's not a butterfly. It's a different insect.",
+        "sourceImage": "https://data.booksie.org/room-to-read/43404-the-ladybird.pdf#jigu-image=95",
+        "sourceImageSha256": "ad57fe4fbf91a34c80413e333bc4836205bf8ff38acc5f494b609de8cf6d7613",
+        "imageWidth": 715,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 4,
+        "sourcePdfText": "It's not an insect\nwith flat wings. \nIt's an insect with\nround wings.",
+        "sourceText": "It's not an insect with flat wings. It's an insect with round wings.",
+        "sourceImage": "https://data.booksie.org/room-to-read/43404-the-ladybird.pdf#jigu-image=96",
+        "sourceImageSha256": "8165e202e93e4ed052e4d1c68a788b67d6624f390bd80665e1d40a546443e523",
+        "imageWidth": 715,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 5,
+        "sourcePdfText": "It's not a big insect. \nIt's a small insect.",
+        "sourceText": "It's not a big insect. It's a small insect.",
+        "sourceImage": "https://data.booksie.org/room-to-read/43404-the-ladybird.pdf#jigu-image=97",
+        "sourceImageSha256": "464706e0b415f1bc019c140dccb0a436496b104b3fd1d18c03020396be324e50",
+        "imageWidth": 1073,
+        "imageHeight": 577
+      },
+      {
+        "sourcePageNumber": 6,
+        "sourcePdfText": "It has spots which\nare equal in shape\nand size. It has a red\nbody with black\nspots.",
+        "sourceText": "It has spots which are equal in shape and size. It has a red body with black spots.",
+        "sourceImage": "https://data.booksie.org/room-to-read/43404-the-ladybird.pdf#jigu-image=98",
+        "sourceImageSha256": "0d39ce4eea6f01f98e0842e1fc929ec1bfa1380d5d3bcf3f81afcc13f1903e81",
+        "imageWidth": 715,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 7,
+        "sourcePdfText": "Ladybird, how did\nyou get spots all\nover your body?",
+        "sourceText": "Ladybird, how did you get spots all over your body?",
+        "sourceImage": "https://data.booksie.org/room-to-read/43404-the-ladybird.pdf#jigu-image=99",
+        "sourceImageSha256": "f062eee76fbf62a812fd73ed611a57bb35fcf8b221ae77dc1d4588511f8717f6",
+        "imageWidth": 715,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 8,
+        "sourcePdfText": "Did you get them yourself?",
+        "sourceText": "Did you get them yourself?",
+        "sourceImage": "https://data.booksie.org/room-to-read/43404-the-ladybird.pdf#jigu-image=100",
+        "sourceImageSha256": "23061b687ff91e4ab4247d7be342b6f74663443b39e6648071f0eac8f849451c",
+        "imageWidth": 1073,
+        "imageHeight": 577
+      },
+      {
+        "sourcePageNumber": 9,
+        "sourcePdfText": "Can you give me one?",
+        "sourceText": "Can you give me one?",
+        "sourceImage": "https://data.booksie.org/room-to-read/43404-the-ladybird.pdf#jigu-image=101",
+        "sourceImageSha256": "9480260b5a17daed2462edfcf0aa1eebeb62fed55cc5b054371ea9a65862c3cc",
+        "imageWidth": 1073,
+        "imageHeight": 577
+      },
+      {
+        "sourcePageNumber": 10,
+        "sourcePdfText": "I want a spot.",
+        "sourceText": "I want a spot.",
+        "sourceImage": "https://data.booksie.org/room-to-read/43404-the-ladybird.pdf#jigu-image=102",
+        "sourceImageSha256": "7fdca921c0974d232c3ac3c67ac558e614260a972e74ad9acbd45c849c6310aa",
+        "imageWidth": 715,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 11,
+        "sourcePdfText": "Not many spots, just\none.",
+        "sourceText": "Not many spots, just one.",
+        "sourceImage": "https://data.booksie.org/room-to-read/43404-the-ladybird.pdf#jigu-image=103",
+        "sourceImageSha256": "4f4e0caa3224d9af79aac8604cebcc64041c9b340e157f2d51d4f25cf7e985f7",
+        "imageWidth": 715,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 12,
+        "sourcePdfText": "One red spot to put\non my forehead to\nbe like a ladybird.",
+        "sourceText": "One red spot to put on my forehead to be like a ladybird.",
+        "sourceImage": "https://data.booksie.org/room-to-read/43404-the-ladybird.pdf#jigu-image=104",
+        "sourceImageSha256": "f912b2039e23ca4f78d9b08aed94a034376cedb2389cb11c2fb7fafdba9eca24",
+        "imageWidth": 715,
+        "imageHeight": 771
+      },
+      {
+        "sourcePageNumber": 13,
+        "sourcePdfText": "Match the following :\nLady bird\nButterfly\nFlat winged insect\nBlack spot\nRed spot",
+        "sourceText": "Match the following : Lady bird Butterfly Flat winged insect Black spot Red spot",
+        "sourceImage": "https://data.booksie.org/room-to-read/43404-the-ladybird.pdf#jigu-image=105",
+        "sourceImageSha256": "b69e08ec736552901db5d66e32fc7900e66d4443ccce7e9c45e227ba767194fc",
+        "imageWidth": 1073,
+        "imageHeight": 770
+      }
+    ]
+  }
+]

@@ -1,22 +1,35 @@
 {
-  "id": "animal-science-two-20261021",
-  "sourceCatalogueSha256": "a01e00ba2f5123255c7ec1d9dc01e66ba7c8fe89269676f300d33b25843f93c4",
+  "id": "nature-fifteen-20261021",
+  "sourceCatalogueSha256": "3e2c902fde1e7d02ed9626739cf672eb5c00e7cdb6c7a2776eddd0e05599cd84",
   "newBookIds": [
-    "how-do-you-sleep",
-    "how-do-you-eat"
+    "sw-animal-homes",
+    "sw-did-you-hear",
+    "sw-busy-ants",
+    "sw-clean-cat",
+    "sw-noisy-crows",
+    "sw-naughty-dog",
+    "sw-wild-cats",
+    "sw-birds-crests",
+    "sw-pufferfish",
+    "sw-love-our-home",
+    "sw-sunbirds",
+    "sw-insect-counting",
+    "lr-count-legs",
+    "sw-animal-tracks",
+    "rtr-ladybird"
   ],
-  "expectedPages": 23,
-  "sourceTextSha256": "15d74e155d2c250cf1bee050e7dc228af2cfd011576891ce6174fb31df3cbe73",
+  "expectedPages": 171,
+  "sourceTextSha256": "f7b7284fefae8e5d39ab6a64380dee9956839b66658bfe124dc5b0a62a5a926c",
   "speechRate": -5,
   "auditionRunId": 39355874472,
   "sourceManifest": {
-    "file": "animals-source-manifest.json",
-    "sha256": "02c00fef302531c7e062bd6f2db574b8aa29e73ccc801b86ecf178ed45dac866"
+    "file": "nature-source-manifest.json",
+    "sha256": "240b94fa43e07eda4938ac9d6b4fe8c44c280a68f96009eedbf21ee4e8712b7a"
   },
   "shards": [
     {
-      "file": "library-release-books-animals.json",
-      "sha256": "ed02566fb80e8b9db7eaf999568b6a9197e5bed945871f69d5e691be3e3a5d6f"
+      "file": "library-release-books-nature.json",
+      "sha256": "bea5c1c7f917085c5d4422b6acd971bcc9b65fb1724a9edfb1fa29e71c90a957"
     }
   ]
 }
