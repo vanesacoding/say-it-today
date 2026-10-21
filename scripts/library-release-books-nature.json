@@ -26,7 +26,8 @@
       "originalPdf": "https://freekidsbooks.org/wp-content/uploads/2019/08/animal-homes-pratham-FKB.pdf",
       "originalPdfSha256": "bd9ab213c39f293d71ea6e0c02556712104e27cc5207d804f21b503ee16b1e53",
       "format": "storyweaver-pdf-art-v1",
-      "editorialNote": "保留全部正文和原文知识页、英文与原始插画；仅合并换行并按视觉阅读顺序排列，去除页码。优先直接提取PDF内嵌原图；多图页完整渲染，不重绘或放大低清图片。封面仅使用原封面插画，署名与授权见此处。中文释义、陪读提示、关键词和AI配音由叽咕新增。"
+      "editorialNote": "保留全部正文和原文知识页、英文与原始插画；仅合并换行并按视觉阅读顺序排列，去除页码。优先直接提取PDF内嵌原图；多图页完整渲染，不重绘或放大低清图片。封面仅使用原封面插画，署名与授权见此处。中文释义、陪读提示、关键词和AI配音由叽咕新增。书架封面按逐本审核的焦点裁成正方形；阅读内页仍保留完整插画。",
+      "coverPosition": "20% 50%"
     },
     "narration": {
       "kind": "ai",
@@ -222,7 +223,8 @@
       "originalPdf": "https://freekidsbooks.org/wp-content/uploads/2019/09/22064-did-you-hear_FKB.pdf",
       "originalPdfSha256": "d6ec7b6a4a2b947d1be09633eeba77332deda1f154c4f17ce63245f0b6eb6a7c",
       "format": "storyweaver-pdf-art-v1",
-      "editorialNote": "保留全部正文和原文知识页、英文与原始插画；仅合并换行并按视觉阅读顺序排列，去除页码。优先直接提取PDF内嵌原图；多图页完整渲染，不重绘或放大低清图片。封面仅使用原封面插画，署名与授权见此处。中文释义、陪读提示、关键词和AI配音由叽咕新增。"
+      "editorialNote": "保留全部正文和原文知识页、英文与原始插画；仅合并换行并按视觉阅读顺序排列，去除页码。优先直接提取PDF内嵌原图；多图页完整渲染，不重绘或放大低清图片。封面仅使用原封面插画，署名与授权见此处。中文释义、陪读提示、关键词和AI配音由叽咕新增。书架封面按逐本审核的焦点裁成正方形；阅读内页仍保留完整插画。",
+      "coverPosition": "50% 50%"
     },
     "narration": {
       "kind": "ai",
@@ -370,7 +372,8 @@
       "originalPdf": "https://freekidsbooks.org/wp-content/uploads/2019/11/FKB-Stories-Busy-Ants.pdf",
       "originalPdfSha256": "0d35084824bd871fcd6df38d3388704b618a2bb2e5bc1c7328c8b61d24ba9590",
       "format": "storyweaver-pdf-art-v1",
-      "editorialNote": "保留全部正文和原文知识页、英文与原始插画；仅合并换行并按视觉阅读顺序排列，去除页码。优先直接提取PDF内嵌原图；多图页完整渲染，不重绘或放大低清图片。封面仅使用原封面插画，署名与授权见此处。中文释义、陪读提示、关键词和AI配音由叽咕新增。"
+      "editorialNote": "保留全部正文和原文知识页、英文与原始插画；仅合并换行并按视觉阅读顺序排列，去除页码。优先直接提取PDF内嵌原图；多图页完整渲染，不重绘或放大低清图片。封面仅使用原封面插画，署名与授权见此处。中文释义、陪读提示、关键词和AI配音由叽咕新增。书架封面按逐本审核的焦点裁成正方形；阅读内页仍保留完整插画。",
+      "coverPosition": "50% 50%"
     },
     "narration": {
       "kind": "ai",
@@ -566,7 +569,8 @@
       "originalPdf": "https://data.booksie.org/pratham-books/1057-clean-cat.pdf",
       "originalPdfSha256": "86e5b7ad0f88ec31693d87e66827ce9225b3ca5d225855584b3fdded7d3042c0",
       "format": "storyweaver-pdf-art-v1",
-      "editorialNote": "保留全部正文和原文知识页、英文与原始插画；仅合并换行并按视觉阅读顺序排列，去除页码。优先直接提取PDF内嵌原图；多图页完整渲染，不重绘或放大低清图片。封面仅使用原封面插画，署名与授权见此处。中文释义、陪读提示、关键词和AI配音由叽咕新增。"
+      "editorialNote": "保留全部正文和原文知识页、英文与原始插画；仅合并换行并按视觉阅读顺序排列，去除页码。优先直接提取PDF内嵌原图；多图页完整渲染，不重绘或放大低清图片。封面仅使用原封面插画，署名与授权见此处。中文释义、陪读提示、关键词和AI配音由叽咕新增。书架封面按逐本审核的焦点裁成正方形；阅读内页仍保留完整插画。",
+      "coverPosition": "50% 50%"
     },
     "narration": {
       "kind": "ai",
@@ -762,7 +766,8 @@
       "originalPdf": "https://data.booksie.org/pratham-books/1062-noisy-crows.pdf",
       "originalPdfSha256": "4a80a408a0fe7327f0fffe632fb89ad352ee7b1cf02830bbaa24a9f2c437a412",
       "format": "storyweaver-pdf-art-v1",
-      "editorialNote": "保留全部正文和原文知识页、英文与原始插画；仅合并换行并按视觉阅读顺序排列，去除页码。优先直接提取PDF内嵌原图；多图页完整渲染，不重绘或放大低清图片。封面仅使用原封面插画，署名与授权见此处。中文释义、陪读提示、关键词和AI配音由叽咕新增。"
+      "editorialNote": "保留全部正文和原文知识页、英文与原始插画；仅合并换行并按视觉阅读顺序排列，去除页码。优先直接提取PDF内嵌原图；多图页完整渲染，不重绘或放大低清图片。封面仅使用原封面插画，署名与授权见此处。中文释义、陪读提示、关键词和AI配音由叽咕新增。书架封面按逐本审核的焦点裁成正方形；阅读内页仍保留完整插画。",
+      "coverPosition": "80% 50%"
     },
     "narration": {
       "kind": "ai",
@@ -970,7 +975,8 @@
       "originalPdf": "https://data.booksie.org/pratham-books/1067-naughty-dog.pdf",
       "originalPdfSha256": "c429b05ec90aa0471bc5ad56aee746d03ceb83be92f677bf6ce6baaba5f9abef",
       "format": "storyweaver-pdf-art-v1",
-      "editorialNote": "保留全部正文和原文知识页、英文与原始插画；仅合并换行并按视觉阅读顺序排列，去除页码。优先直接提取PDF内嵌原图；多图页完整渲染，不重绘或放大低清图片。封面仅使用原封面插画，署名与授权见此处。中文释义、陪读提示、关键词和AI配音由叽咕新增。"
+      "editorialNote": "保留全部正文和原文知识页、英文与原始插画；仅合并换行并按视觉阅读顺序排列，去除页码。优先直接提取PDF内嵌原图；多图页完整渲染，不重绘或放大低清图片。封面仅使用原封面插画，署名与授权见此处。中文释义、陪读提示、关键词和AI配音由叽咕新增。书架封面按逐本审核的焦点裁成正方形；阅读内页仍保留完整插画。",
+      "coverPosition": "0% 50%"
     },
     "narration": {
       "kind": "ai",
@@ -1179,7 +1185,8 @@
       "originalPdf": "https://data.booksie.org/pratham-books/21618-wild-cat-wild-cat.pdf",
       "originalPdfSha256": "f899f7a48015bf2e4102d24aaa6c324f68854b445f5c46cafdde5ddcc0a6c514",
       "format": "storyweaver-pdf-art-v1",
-      "editorialNote": "保留全部正文和原文知识页、英文与原始插画；仅合并换行并按视觉阅读顺序排列，去除页码。优先直接提取PDF内嵌原图；多图页完整渲染，不重绘或放大低清图片。封面仅使用原封面插画，署名与授权见此处。中文释义、陪读提示、关键词和AI配音由叽咕新增。"
+      "editorialNote": "保留全部正文和原文知识页、英文与原始插画；仅合并换行并按视觉阅读顺序排列，去除页码。优先直接提取PDF内嵌原图；多图页完整渲染，不重绘或放大低清图片。封面仅使用原封面插画，署名与授权见此处。中文释义、陪读提示、关键词和AI配音由叽咕新增。书架封面按逐本审核的焦点裁成正方形；阅读内页仍保留完整插画。",
+      "coverPosition": "50% 50%"
     },
     "narration": {
       "kind": "ai",
@@ -1375,7 +1382,8 @@
       "originalPdf": "https://freekidsbooks.org/wp-content/uploads/2019/08/Why-dont-birds-comb-their-hair_FKB.pdf",
       "originalPdfSha256": "52dbacfa6f484108082676bf3adce3da388ae58de50c0be23a9abe3038ebe0a0",
       "format": "storyweaver-pdf-art-v1",
-      "editorialNote": "保留全部正文和原文知识页、英文与原始插画；仅合并换行并按视觉阅读顺序排列，去除页码。优先直接提取PDF内嵌原图；多图页完整渲染，不重绘或放大低清图片。封面仅使用原封面插画，署名与授权见此处。中文释义、陪读提示、关键词和AI配音由叽咕新增。"
+      "editorialNote": "保留全部正文和原文知识页、英文与原始插画；仅合并换行并按视觉阅读顺序排列，去除页码。优先直接提取PDF内嵌原图；多图页完整渲染，不重绘或放大低清图片。封面仅使用原封面插画，署名与授权见此处。中文释义、陪读提示、关键词和AI配音由叽咕新增。书架封面按逐本审核的焦点裁成正方形；阅读内页仍保留完整插画。",
+      "coverPosition": "30% 50%"
     },
     "narration": {
       "kind": "ai",
@@ -1595,7 +1603,8 @@
       "originalPdf": "https://freekidsbooks.org/wp-content/uploads/2019/03/60744-whoop-goes-the-pufferfish.pdf",
       "originalPdfSha256": "bf1000725e2731bd219a591d192a8ca98ffc36d0861ddd348f0cffbcb3afd12b",
       "format": "storyweaver-pdf-art-v1",
-      "editorialNote": "保留全部正文和原文知识页、英文与原始插画；仅合并换行并按视觉阅读顺序排列，去除页码。优先直接提取PDF内嵌原图；多图页完整渲染，不重绘或放大低清图片。封面仅使用原封面插画，署名与授权见此处。中文释义、陪读提示、关键词和AI配音由叽咕新增。"
+      "editorialNote": "保留全部正文和原文知识页、英文与原始插画；仅合并换行并按视觉阅读顺序排列，去除页码。优先直接提取PDF内嵌原图；多图页完整渲染，不重绘或放大低清图片。封面仅使用原封面插画，署名与授权见此处。中文释义、陪读提示、关键词和AI配音由叽咕新增。书架封面按逐本审核的焦点裁成正方形；阅读内页仍保留完整插画。",
+      "coverPosition": "20% 50%"
     },
     "narration": {
       "kind": "ai",
@@ -1791,7 +1800,8 @@
       "originalPdf": "https://freekidsbooks.org/wp-content/uploads/2019/09/we-love-our-home-pratham-FKB.pdf",
       "originalPdfSha256": "24a098333e3f7f79cb7b4b83ba27e4a541ea359fe3398e035e53e8ddead6d16c",
       "format": "storyweaver-pdf-art-v1",
-      "editorialNote": "保留全部正文和原文知识页、英文与原始插画；仅合并换行并按视觉阅读顺序排列，去除页码。优先直接提取PDF内嵌原图；多图页完整渲染，不重绘或放大低清图片。封面仅使用原封面插画，署名与授权见此处。中文释义、陪读提示、关键词和AI配音由叽咕新增。"
+      "editorialNote": "保留全部正文和原文知识页、英文与原始插画；仅合并换行并按视觉阅读顺序排列，去除页码。优先直接提取PDF内嵌原图；多图页完整渲染，不重绘或放大低清图片。封面仅使用原封面插画，署名与授权见此处。中文释义、陪读提示、关键词和AI配音由叽咕新增。书架封面按逐本审核的焦点裁成正方形；阅读内页仍保留完整插画。",
+      "coverPosition": "50% 50%"
     },
     "narration": {
       "kind": "ai",
@@ -2095,7 +2105,8 @@
       "originalPdf": "https://data.booksie.org/pratham-books/123172-why-do-sunbirds-eat-all-day.pdf",
       "originalPdfSha256": "b79dd309be4caac59eda56fa35139e9624d034ac4a2c4c28bf618ce040d1bcd8",
       "format": "storyweaver-pdf-art-v1",
-      "editorialNote": "保留全部正文和原文知识页、英文与原始插画；仅合并换行并按视觉阅读顺序排列，去除页码。优先直接提取PDF内嵌原图；多图页完整渲染，不重绘或放大低清图片。封面仅使用原封面插画，署名与授权见此处。中文释义、陪读提示、关键词和AI配音由叽咕新增。"
+      "editorialNote": "保留全部正文和原文知识页、英文与原始插画；仅合并换行并按视觉阅读顺序排列，去除页码。优先直接提取PDF内嵌原图；多图页完整渲染，不重绘或放大低清图片。封面仅使用原封面插画，署名与授权见此处。中文释义、陪读提示、关键词和AI配音由叽咕新增。书架封面按逐本审核的焦点裁成正方形；阅读内页仍保留完整插画。",
+      "coverPosition": "10% 50%"
     },
     "narration": {
       "kind": "ai",
@@ -2304,7 +2315,8 @@
       "originalPdf": "https://data.booksie.org/pratham-books/63859-incredible-insects-a-counting-book.pdf",
       "originalPdfSha256": "72c844e6213e63eb798e2f75e7830f99a98a35e1908d966f6ca8a35991cf8538",
       "format": "storyweaver-pdf-art-v1",
-      "editorialNote": "保留全部正文和原文知识页、英文与原始插画；仅合并换行并按视觉阅读顺序排列，去除页码。优先直接提取PDF内嵌原图；多图页完整渲染，不重绘或放大低清图片。封面仅使用原封面插画，署名与授权见此处。中文释义、陪读提示、关键词和AI配音由叽咕新增。"
+      "editorialNote": "保留全部正文和原文知识页、英文与原始插画；仅合并换行并按视觉阅读顺序排列，去除页码。优先直接提取PDF内嵌原图；多图页完整渲染，不重绘或放大低清图片。封面仅使用原封面插画，署名与授权见此处。中文释义、陪读提示、关键词和AI配音由叽咕新增。书架封面按逐本审核的焦点裁成正方形；阅读内页仍保留完整插画。",
+      "coverPosition": "50% 50%"
     },
     "narration": {
       "kind": "ai",
@@ -2501,7 +2513,8 @@
       "originalPdf": "https://data.booksie.org/lets-read/3137f9b1-a8b4-4b5c-8f7b-a7ee03ea9505.pdf",
       "originalPdfSha256": "6e53a1a185bc92f48094ae6926b35a6c0ab4b1592069b3477a97bd7a1f6e5b35",
       "format": "storyweaver-pdf-art-v1",
-      "editorialNote": "保留全部正文和原文知识页、英文与原始插画；仅合并换行并按视觉阅读顺序排列，去除页码。优先直接提取PDF内嵌原图；多图页完整渲染，不重绘或放大低清图片。封面仅使用原封面插画，署名与授权见此处。中文释义、陪读提示、关键词和AI配音由叽咕新增。"
+      "editorialNote": "保留全部正文和原文知识页、英文与原始插画；仅合并换行并按视觉阅读顺序排列，去除页码。优先直接提取PDF内嵌原图；多图页完整渲染，不重绘或放大低清图片。封面仅使用原封面插画，署名与授权见此处。中文释义、陪读提示、关键词和AI配音由叽咕新增。书架封面按逐本审核的焦点裁成正方形；阅读内页仍保留完整插画。",
+      "coverPosition": "50% 50%"
     },
     "narration": {
       "kind": "ai",
@@ -2673,7 +2686,8 @@
       "originalPdf": "https://freekidsbooks.org/wp-content/uploads/2021/08/who-just-went-by-pratham-FKB.pdf",
       "originalPdfSha256": "6f298d658ba21441eb2d8d1bdf4549173ad09c3d682545229089b0c275fce7b3",
       "format": "storyweaver-pdf-art-v1",
-      "editorialNote": "保留全部正文和原文知识页、英文与原始插画；仅合并换行并按视觉阅读顺序排列，去除页码。优先直接提取PDF内嵌原图；多图页完整渲染，不重绘或放大低清图片。封面仅使用原封面插画，署名与授权见此处。中文释义、陪读提示、关键词和AI配音由叽咕新增。"
+      "editorialNote": "保留全部正文和原文知识页、英文与原始插画；仅合并换行并按视觉阅读顺序排列，去除页码。优先直接提取PDF内嵌原图；多图页完整渲染，不重绘或放大低清图片。封面仅使用原封面插画，署名与授权见此处。中文释义、陪读提示、关键词和AI配音由叽咕新增。书架封面按逐本审核的焦点裁成正方形；阅读内页仍保留完整插画。",
+      "coverPosition": "50% 50%"
     },
     "narration": {
       "kind": "ai",
@@ -2895,7 +2909,8 @@
       "originalPdf": "https://data.booksie.org/room-to-read/43404-the-ladybird.pdf",
       "originalPdfSha256": "75379bebf1a0290f59e394e5cde19968dac25282bc0839b1c7eaa5f9e002b394",
       "format": "storyweaver-pdf-art-v1",
-      "editorialNote": "保留全部正文和原文知识页、英文与原始插画；仅合并换行并按视觉阅读顺序排列，去除页码。优先直接提取PDF内嵌原图；多图页完整渲染，不重绘或放大低清图片。封面仅使用原封面插画，署名与授权见此处。中文释义、陪读提示、关键词和AI配音由叽咕新增。"
+      "editorialNote": "保留全部正文和原文知识页、英文与原始插画；仅合并换行并按视觉阅读顺序排列，去除页码。优先直接提取PDF内嵌原图；多图页完整渲染，不重绘或放大低清图片。封面仅使用原封面插画，署名与授权见此处。中文释义、陪读提示、关键词和AI配音由叽咕新增。书架封面按逐本审核的焦点裁成正方形；阅读内页仍保留完整插画。",
+      "coverPosition": "50% 50%"
     },
     "narration": {
       "kind": "ai",

@@ -8,6 +8,9 @@ try{
  for(const [width,height] of [[320,568],[390,844],[430,932],[1024,768]]){
   const page=await browser.newPage({viewport:{width,height}});await page.route('**/books/catalog.js',r=>r.fulfill({body:inject,contentType:'text/javascript'}));await page.goto('http://127.0.0.1:4173/');await page.locator('.bottomNav [data-go="shelf"]').click();
   assert.equal(await page.locator('.shelfCard').count(),100);let fits=0,total=0;
+  const newCovers=await page.locator('.shelfCover.sourceArtworkCover img').evaluateAll(es=>es.map(e=>getComputedStyle(e).objectFit));assert.equal(newCovers.length,15);assert.ok(newCovers.every(v=>v==='cover'));
+  if(width===390){for(const b of books)await page.locator(`[data-book="${b.id}"] img`).evaluate(async im=>{try{await im.decode()}catch{}});await page.screenshot({path:'layout-proof/nature-square-covers-390.png',fullPage:true});}
+
   const boxes=await page.locator('.shelfCover').evaluateAll(es=>es.map(e=>{const r=e.getBoundingClientRect();return [r.width,r.height]}));assert.ok(boxes.every(([w,h])=>Math.abs(w-h)<1));
   for(const b of books){
    await page.locator(`[data-book="${b.id}"]`).click();await page.locator('[data-go="reader"]').click();if(await page.locator('[data-action="companion"]').getAttribute('aria-checked')!=='true')await page.locator('[data-action="companion"]').click();
