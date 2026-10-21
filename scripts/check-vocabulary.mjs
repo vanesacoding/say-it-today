@@ -119,3 +119,25 @@ click(five,'[data-go="mine"]');click(five,'[data-go="vocabulary"]');const before
 click(five,'[data-action="browse-five"]');assert.equal(five.window.document.querySelector('.wordBrowseNav [role="status"]').textContent,'1 / 5');
 for(let i=0;i<4;i++)click(five,'[data-action="word-next"]');assert.equal(five.window.document.querySelector('.wordBrowseNav [role="status"]').textContent,'5 / 5');assert.ok(five.window.document.querySelector('[data-action="word-next"]').disabled);click(five,'[data-action="word-previous"]');assert.equal(five.window.document.querySelector('.wordBrowseNav [role="status"]').textContent,'4 / 5');assert.deepEqual(JSON.parse(five.window.localStorage.getItem('jigu-reading-library-v2')).wordReviews,beforeFive);five.window.close();
 console.log('PASS browse five: buttons, progress, boundaries, and no implicit review scores');
+// Review browsing keeps reveal/rating state per card and never scores a swipe.
+const three=app(JSON.stringify({records:{'0087':{finished:true,opened:true,page:7}}}));
+click(three,'[data-go="mine"]');click(three,'[data-go="vocabulary"]');click(three,'[data-action="review-start"]');
+const progress=()=>three.window.document.querySelector('.simpleHead .tiny').textContent;
+const reviewText=()=>three.window.document.querySelector('.reviewWord').textContent;
+const firstReviewWord=reviewText();assert.equal(progress(),'1 / 3');assert.ok(three.window.document.querySelector('[data-action="review-previous"]').disabled);
+const reviewPlayers=[];three.window.Audio=class{play(){reviewPlayers.push(this);return Promise.resolve()}pause(){this.paused=true}};
+function reviewSwipe(dx,dy=0,control=false){const target=three.window.document.querySelector(control?'[data-action="review-audio"]':'.reviewArt'),start={clientX:200,clientY:200},end={clientX:200+dx,clientY:200+dy};for(const [type,points,changed] of [['touchstart',[start],[start]],['touchmove',[end],[end]],['touchend',[],[end]]]){const e=new three.window.Event(type,{bubbles:true});Object.defineProperties(e,{touches:{value:points},changedTouches:{value:changed}});target.dispatchEvent(e)}}
+click(three,'[data-action="review-reveal"]');click(three,'[data-action="review-audio"]');const oldReviewEnd=reviewPlayers[0].onended;
+reviewSwipe(-100);assert.equal(progress(),'2 / 3');assert.ok(reviewPlayers[0].paused);oldReviewEnd();assert.equal(progress(),'2 / 3');assert.equal(three.window.document.querySelector('.reviewMeaning'),null);
+reviewSwipe(-10,90);assert.equal(progress(),'2 / 3');reviewSwipe(-100,0,true);assert.equal(progress(),'2 / 3');
+click(three,'[data-action="review-previous"]');assert.equal(reviewText(),firstReviewWord);assert.ok(three.window.document.querySelector('.reviewMeaning'),'revealed card stays revealed');
+reviewSwipe(-100);click(three,'[data-action="review-next"]');assert.equal(progress(),'3 / 3');assert.ok(three.window.document.querySelector('[data-action="review-next"]').disabled);reviewSwipe(-100);assert.equal(progress(),'3 / 3');
+assert.deepEqual(JSON.parse(three.window.localStorage.getItem('jigu-reading-library-v2')).wordReviews,{},'swipes and buttons do not score cards');
+click(three,'[data-action="review-reveal"]');click(three,'[data-action="vocabulary-source"]');click(three,'[data-action="reader-back"]');assert.equal(progress(),'3 / 3');assert.ok(three.window.document.querySelector('.reviewMeaning'));
+click(three,'[data-action="review-rate"][data-remembered="true"]');assert.equal(progress(),'1 / 3','rating last card returns to first still-unrated card');assert.equal(three.window.document.querySelector('.reviewComplete'),null);
+click(three,'[data-action="review-rate"][data-remembered="true"]');assert.equal(progress(),'2 / 3');
+click(three,'[data-action="review-previous"]');assert.equal(progress(),'1 / 3');click(three,'[data-action="review-rate"][data-remembered="true"]');assert.equal(progress(),'2 / 3');
+const firstKey=three.window.JiguVocabulary.keyFor(firstReviewWord);assert.equal(JSON.parse(three.window.localStorage.getItem('jigu-reading-library-v2')).wordReviews[firstKey].successes,1,'rating the same card again does not advance it twice');
+three.window.dispatchEvent(new three.window.KeyboardEvent('keydown',{key:'ArrowRight',bubbles:true}));assert.equal(progress(),'3 / 3');three.window.dispatchEvent(new three.window.KeyboardEvent('keydown',{key:'ArrowLeft',bubbles:true}));assert.equal(progress(),'2 / 3');
+click(three,'[data-action="review-reveal"]');click(three,'[data-action="review-rate"][data-remembered="false"]');assert.ok(three.window.document.querySelector('.reviewComplete'));three.window.close();
+console.log('PASS review three: native-event swipes, buttons, boundaries, reveal/source return, stopped audio, no implicit scores, all-card completion and idempotent ratings');
