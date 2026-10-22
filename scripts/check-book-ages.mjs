@@ -7,13 +7,14 @@ for(const file of ['curation','catalog','ages'])vm.runInContext(readFileSync(new
 const active=context.window.JIGU_BOOKS.filter(b=>!b.archived&&!context.window.JIGU_CURATION.withdrawnIds.includes(b.id));
 const bands=['0-2','3-4','5-6','7+'];
 for(const b of active){assert.ok(b.ageBands.length,b.id+' needs age tags');assert.ok(b.ageBands.every(a=>bands.includes(a)),b.id)}
-const fn=html.slice(html.indexOf('  function recommendedBook(){'),html.indexOf('  function selectHomeBook()'));
+const fn=html.slice(html.indexOf('  function recommendedBooks('),html.indexOf('  function selectHomeBook()'));
 vm.runInContext(html.match(/  const ageBands=\[[^\n]+/)[0],context);
 context.activeBooks=active;context.state={profile:{done:true},records:{}};
 vm.runInContext(fn,context);
 for(const ageBand of bands)for(const stageId of ['S1','S2','S3']){
   context.state.profile={done:true,ageBand,stageId};
   const selected=vm.runInContext('recommendedBook()',context),pool=active.filter(b=>b.stageId===stageId);
+  const list=vm.runInContext('recommendedBooks()',context);assert.equal(list.length,3);assert.equal(new Set(list.map(b=>b.id)).size,3);assert.ok(list.every(b=>b.stageId===stageId));
   assert.equal(selected.stageId,stageId);
   const distance=b=>Math.min(...b.ageBands.map(a=>Math.abs(bands.indexOf(a)-bands.indexOf(ageBand))));
   assert.equal(distance(selected),Math.min(...pool.map(distance)),ageBand+'/'+stageId);
