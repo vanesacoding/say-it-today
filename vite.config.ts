@@ -8,8 +8,8 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.ico', 'jigu-icon-64.png', 'jigu-apple-180.png'],
       manifest: {
-        name: '叽咕一下 · 亲子分级共读',
-        short_name: '叽咕一下',
+        name: '叽咕一会 · 亲子分级共读',
+        short_name: '叽咕一会',
         description: '精选分级英文绘本，英语朗读、中文陪读与故事重点词。',
         theme_color: '#faf7f0',
         background_color: '#faf7f0',
