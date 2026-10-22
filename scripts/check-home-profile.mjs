@@ -2,7 +2,7 @@ import {readFileSync} from 'node:fs';
 import assert from 'node:assert/strict';
 import {JSDOM} from 'jsdom';
 const html=readFileSync('index.html','utf8'),key='jigu-reading-library-v2';
-function app(saved,legacy){const d=new JSDOM(html,{url:'https://jigu.local/',runScripts:'outside-only'});d.window.scrollTo=()=>{};if(saved)d.window.localStorage.setItem(key,JSON.stringify(saved));if(legacy)d.window.localStorage.setItem('jigu-vertical-book-0087-v1',JSON.stringify(legacy));for(const name of ['curation','catalog','vocabulary'])d.window.eval(readFileSync(`public/books/${name}.js`,'utf8'));d.window.eval([...d.window.document.scripts].find(s=>s.textContent.includes('const books=window.JIGU_BOOKS')).textContent);return d}
+function app(saved,legacy){const d=new JSDOM(html,{url:'https://jigu.local/',runScripts:'outside-only'});d.window.scrollTo=()=>{};if(saved)d.window.localStorage.setItem(key,JSON.stringify(saved));if(legacy)d.window.localStorage.setItem('jigu-vertical-book-0087-v1',JSON.stringify(legacy));for(const name of ['curation','catalog','ages','vocabulary'])d.window.eval(readFileSync(`public/books/${name}.js`,'utf8'));d.window.eval([...d.window.document.scripts].find(s=>s.textContent.includes('const books=window.JIGU_BOOKS')).textContent);return d}
 const click=(d,s)=>{const e=d.window.document.querySelector(s);assert.ok(e,s);e.click()};const title=d=>d.window.document.querySelector('.homePage .homeTitle').textContent;
 const saved=d=>JSON.parse(d.window.localStorage.getItem(key));
 const fresh=app();assert.equal(title(fresh),'推荐读');assert.ok(fresh.window.document.querySelector('.babySetup'));assert.ok(fresh.window.document.querySelector('[data-action="profile-save"]').disabled);
