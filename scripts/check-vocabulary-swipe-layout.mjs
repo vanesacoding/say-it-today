@@ -6,7 +6,7 @@ const browser=await chromium.launch();
 try{
  for(const [width,height] of [[320,568],[390,844],[430,932],[1024,768]]){
   const page=await browser.newPage({viewport:{width,height},hasTouch:true});
-  await page.addInitScript(()=>localStorage.setItem('jigu-reading-library-v2',JSON.stringify({selectedId:'lr-our-family',records:{'lr-our-family':{opened:true,finished:true,page:8,lastReadAt:1},'0087':{opened:true,finished:true,page:7,lastReadAt:2}}})));
+  await page.addInitScript(()=>localStorage.setItem('jigu-reading-library-v2',JSON.stringify({selectedId:'lr-our-family',records:{'lr-our-family':{opened:true,finished:true,page:8,lastReadAt:1},'0087':{opened:true,finished:false,page:7,lastReadAt:2}}})));
   await page.goto('http://127.0.0.1:4173/');
   async function loaded(locator){await locator.evaluate(async im=>{if(!im.complete)await new Promise((resolve,reject)=>{im.addEventListener('load',resolve,{once:true});im.addEventListener('error',reject,{once:true})});if(!im.naturalWidth)throw new Error('Image unavailable');await im.decode();await new Promise(resolve=>requestAnimationFrame(()=>requestAnimationFrame(resolve)))});if(await locator.evaluate(im=>!!im.closest('.artFrame')))await page.waitForFunction(()=>[...document.querySelectorAll('.artFrame')].every(f=>f.classList.contains('loaded')))}
   await loaded(page.locator('.entryImage img'));
