@@ -47,6 +47,7 @@ try{
   for(let i=0;i<3;i++){await page.locator('[data-action="next"]').click();await page.locator('[data-action="prev"]').click()}
   await loaded(page.locator('.artFrame img'));assert.ok(await page.locator('.imgLoading').isHidden(),'cached picture must not retain loading overlay after rerenders and quick page turns');
   // Swiping the text area should turn pages just like swiping the picture.
+  await page.locator('.textPanel').scrollIntoViewIfNeeded();
   const text=await page.locator('.textPanel').boundingBox();const x=text.x+text.width*0.7,y=text.y+text.height/2;
   await session.send('Input.dispatchTouchEvent',{type:'touchStart',touchPoints:[{x,y}]});
   for(let i=1;i<=5;i++)await session.send('Input.dispatchTouchEvent',{type:'touchMove',touchPoints:[{x:x-100*i/5,y}]});
