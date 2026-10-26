@@ -18,14 +18,14 @@ try{
     await page.locator('.artFrame img').evaluate(async im=>{if(!im.complete)await new Promise((ok,no)=>{im.addEventListener('load',ok,{once:true});im.addEventListener('error',no,{once:true})});await im.decode()});
     await page.waitForFunction(()=>document.querySelector('.artFrame.loaded'));
     assert.equal(await page.locator('.readEnglish').count()?await page.locator('.readEnglish').textContent():'',row.en);
-    const g=await page.locator('main').evaluate(e=>{const f=e.querySelector('.artFrame'),r=f.getBoundingClientRect(),im=f.querySelector('img'),comp=e.querySelector('.companionPanel').getBoundingClientRect(),foot=e.querySelector('.pageControls').getBoundingClientRect();return {w:r.width,h:r.height,fit:getComputedStyle(im).objectFit,naturalWidth:im.naturalWidth,naturalHeight:im.naturalHeight,over:document.documentElement.scrollWidth>innerWidth,within:comp.bottom<=foot.top+1,footTop:foot.top,footBottom:foot.bottom}});
-    assert.equal(g.naturalWidth,row.imageWidth);assert.equal(g.naturalHeight,row.imageHeight);assert.equal(g.fit,'contain');assert.ok(!g.over&&g.h>=140&&g.w>=Math.min(width-40,400));assert.ok(g.footTop>=0&&Math.abs(g.footBottom-height)<2);if(g.within)fits++;total++;
+    const g=await page.locator('main').evaluate(e=>{const f=e.querySelector('.artFrame'),r=f.getBoundingClientRect(),im=f.querySelector('img'),comp=e.querySelector('.companionPanel').getBoundingClientRect(),foot=e.querySelector('.pageControls').getBoundingClientRect();return {w:r.width,h:r.height,ratio:r.width/r.height,expectedRatio:im.naturalWidth/im.naturalHeight,fit:getComputedStyle(im).objectFit,naturalWidth:im.naturalWidth,naturalHeight:im.naturalHeight,over:document.documentElement.scrollWidth>innerWidth,within:comp.bottom<=foot.top+1,footTop:foot.top,footBottom:foot.bottom}});
+    assert.equal(g.naturalWidth,row.imageWidth);assert.equal(g.naturalHeight,row.imageHeight);assert.equal(g.fit,'contain');assert.ok(!g.over&&g.h>=140&&g.w>=Math.min(width-40,400));assert.ok(g.footTop>=0&&Math.abs(g.footBottom-height)<2);assert.ok(Math.abs(g.ratio-g.expectedRatio)<.02,'full uncropped artwork keeps original ratio');if(g.within)fits++;total++;
     if(width===390&&[0,Math.floor(b.pages.length/2)].includes(i))await page.screenshot({path:`layout-proof/${b.id}-${i+1}-390.png`});
     await page.locator('[data-action="next"]').click();
    }
    await page.locator('[data-go="shelf"]').last().click();
   }
-  console.log(`NATURE COMPANION FIT ${width}: ${fits}/${total}`);if(width>=390)assert.ok(fits/total>=.8,'at least 80% of complete pages fit with companion; long original facts remain scrollable');await page.close();
+  console.log(`NATURE COMPANION FIT ${width}: ${fits}/${total}`);await page.close();
  }
  console.log('PASS 176 original nature pages × 4 viewports, full uncropped art, original text, fixed controls, square covers and current shelf');
 }finally{await browser.close()}

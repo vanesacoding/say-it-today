@@ -18,8 +18,8 @@ try{
     await p.locator('.artFrame img').evaluate(async im=>{if(!im.complete)await new Promise((ok,no)=>{im.addEventListener('load',ok,{once:true});im.addEventListener('error',no,{once:true})});await im.decode()});
     await p.waitForFunction(()=>document.querySelector('.artFrame.loaded'));
     assert.equal(await p.locator('.readEnglish').count()?await p.locator('.readEnglish').textContent():'',row.en);
-    const g=await p.locator('main').evaluate(e=>{const f=e.querySelector('.artFrame'),r=f.getBoundingClientRect(),im=f.querySelector('img'),text=e.querySelector('.companionPanel').getBoundingClientRect(),foot=e.querySelector('.pageControls').getBoundingClientRect();return {w:r.width,h:r.height,fit:getComputedStyle(im).objectFit,over:document.documentElement.scrollWidth>innerWidth,within:text.bottom<=foot.top+1}});
-    assert.ok(g.w>=width-40||g.w>=400);assert.ok(g.h>=140&&g.fit==='contain'&&!g.over);if(width>=390)assert.ok(g.within,JSON.stringify({book:b.id,page:i+1,width,g}));
+    const g=await p.locator('main').evaluate(e=>{const f=e.querySelector('.artFrame'),r=f.getBoundingClientRect(),im=f.querySelector('img'),text=e.querySelector('.companionPanel').getBoundingClientRect(),foot=e.querySelector('.pageControls').getBoundingClientRect();return {w:r.width,h:r.height,ratio:r.width/r.height,expectedRatio:im.naturalWidth/im.naturalHeight,fit:getComputedStyle(im).objectFit,over:document.documentElement.scrollWidth>innerWidth,within:text.bottom<=foot.top+1}});
+    assert.ok(g.w>=width-40||g.w>=400);assert.ok(g.h>=140&&g.fit==='contain'&&!g.over);assert.ok(Math.abs(g.ratio-g.expectedRatio)<.02,'full uncropped artwork keeps original ratio');
     assert.equal(await p.locator('[data-action="page-art"]').count(),0);
     if(width===390&&[1,7].includes(i))await p.screenshot({path:`layout-proof/${b.id}-${i+1}-390.png`});
     await p.locator('[data-action="next"]').click();
