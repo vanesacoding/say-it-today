@@ -1,0 +1,33 @@
+{
+  "35": {
+    "cue": {
+      "7": 29.36
+    },
+    "reason": "ASR independently identifies the sung word pop at 29.36 s."
+  },
+  "38": {
+    "cue": {
+      "0": 6.63
+    },
+    "reason": "Correct swallowed instrumental intro in the first two alignment tokens using the onset of bike/has."
+  },
+  "70": {
+    "cue": {
+      "0": 6.76
+    },
+    "reason": "Correct swallowed instrumental intro in the first two alignment tokens using the onset of car/can."
+  },
+  "67": {
+    "cue": {
+      "0": 7.1,
+      "1": 11.62,
+      "2": 16.68,
+      "3": 17.14,
+      "4": 19.74,
+      "5": 22.3,
+      "6": 27.0,
+      "7": 32.52
+    },
+    "reason": "Song rewrites dialogue and omits the standalone shoes-response page. Times follow the independently transcribed shoes/hat/toys/rain/umbrella clauses; the wordless response page occupies the gap after shoes."
+  }
+}

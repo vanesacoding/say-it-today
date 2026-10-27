@@ -8,7 +8,8 @@ dist
 public/audio/
 
 # Licensed media are validated and materialized during CI.
-public/books/library/
+public/books/library/*
+!public/books/library/heinemann-gk-*/
 .reading-audio/
 __pycache__/
 reading-mvp-review.patch

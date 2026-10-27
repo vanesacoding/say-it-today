@@ -1,0 +1,4018 @@
+{
+  "heinemann-gk-01": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "1--海尼曼 GK 第一阶 70节_1. At The Market.mp3",
+    "durationSeconds": 31.687,
+    "sha256": "444e38fcf7f65a291a85568f5ba6b5c9c90596c6288abfbddeb2459cdec17d6f",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.8697,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.728,
+        "page": 0
+      },
+      {
+        "at": 10.366,
+        "page": 1
+      },
+      {
+        "at": 13.399,
+        "page": 2
+      },
+      {
+        "at": 16.364,
+        "page": 3
+      },
+      {
+        "at": 19.465,
+        "page": 4
+      },
+      {
+        "at": 22.543,
+        "page": 5
+      },
+      {
+        "at": 25.598,
+        "page": 6
+      },
+      {
+        "at": 28.699,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "I can see the apples.",
+      "I can see the bananas.",
+      "I can see the eggs.",
+      "I can see the cheese.",
+      "I can see the milk.",
+      "I can see the bread.",
+      "I can see the meat.",
+      "I can see the market."
+    ]
+  },
+  "heinemann-gk-02": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "2--海尼曼 GK 第一阶 70节_2. Rex.mp3",
+    "durationSeconds": 33.933,
+    "sha256": "c17fce61ab871bc4c28430053a7140aa0ac26214b70824ea131f0b80d830ef6a",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.8811,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 7.009,
+        "page": 0
+      },
+      {
+        "at": 10.519,
+        "page": 1
+      },
+      {
+        "at": 13.573,
+        "page": 2
+      },
+      {
+        "at": 16.676,
+        "page": 3
+      },
+      {
+        "at": 19.705,
+        "page": 4
+      },
+      {
+        "at": 22.832,
+        "page": 5
+      },
+      {
+        "at": 25.886,
+        "page": 6
+      },
+      {
+        "at": 28.843,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "I like to swing.",
+      "I like to run.",
+      "I like to climb.",
+      "I like to hang.",
+      "I like to jump.",
+      "I like to slide.",
+      "I like to ride.",
+      "I like to swim!"
+    ]
+  },
+  "heinemann-gk-03": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "3--海尼曼 GK 第一阶 70节_3. Funny Things.mp3",
+    "durationSeconds": 26.697,
+    "sha256": "db40d236ec97520a45be7a00e62782d935a4c5140f206671debd48f40cd411d5",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.8706,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.21,
+        "page": 0
+      },
+      {
+        "at": 9.3,
+        "page": 1
+      },
+      {
+        "at": 11.78,
+        "page": 2
+      },
+      {
+        "at": 14.34,
+        "page": 3
+      },
+      {
+        "at": 16.48,
+        "page": 4
+      },
+      {
+        "at": 19.12,
+        "page": 5
+      },
+      {
+        "at": 21.72,
+        "page": 6
+      },
+      {
+        "at": 24.12,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "Look at the funny shoes.",
+      "Look at the funny socks.",
+      "Look at the funny pants.",
+      "Look at the funny shirt.",
+      "Look at the funny coat.",
+      "Look at the funny wig.",
+      "Look at the funny hat.",
+      "Look at the funny clown!"
+    ]
+  },
+  "heinemann-gk-04": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "44--海尼曼 GK 第一阶 70节_44. The Baby Animals.mp3",
+    "durationSeconds": 31.817,
+    "sha256": "e76bca439eecbf7c39872191e08dc20ffe9a0d50ce63f8d7a0e18ac18afb5d39",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.816,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.668,
+        "page": 0
+      },
+      {
+        "at": 10.272,
+        "page": 1
+      },
+      {
+        "at": 13.363,
+        "page": 2
+      },
+      {
+        "at": 16.499,
+        "page": 3
+      },
+      {
+        "at": 19.499,
+        "page": 4
+      },
+      {
+        "at": 22.567,
+        "page": 5
+      },
+      {
+        "at": 25.658,
+        "page": 6
+      },
+      {
+        "at": 28.726,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "Come and see the baby bird.",
+      "Come and see a baby chick.",
+      "Come and see the baby duckling.",
+      "Come and see a baby puppy.",
+      "Come and see the baby kitten.",
+      "Come and see a baby lamb.",
+      "Come and see the baby piglet.",
+      "Come and see the baby animals."
+    ]
+  },
+  "heinemann-gk-05": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "45--海尼曼 GK 第一阶 70节_45. Over The River.mp3",
+    "durationSeconds": 47.36,
+    "sha256": "55aff945a5974fa6d8cf2f8c240b0890efe0493482b125ce635023bfe3936750",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.9109,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.725,
+        "page": 0
+      },
+      {
+        "at": 12.314,
+        "page": 1
+      },
+      {
+        "at": 17.388,
+        "page": 2
+      },
+      {
+        "at": 22.428,
+        "page": 3
+      },
+      {
+        "at": 27.469,
+        "page": 4
+      },
+      {
+        "at": 32.543,
+        "page": 5
+      },
+      {
+        "at": 37.516,
+        "page": 6
+      },
+      {
+        "at": 42.59,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "We can see a mouse go over the river.",
+      "We can see a squirrel go over the river.",
+      "We can see a rabbit go over the river.",
+      "We can see a skunk go over the river.",
+      "We can see a fox go over the river.",
+      "We can see a deer go over the river.",
+      "We can see a bear go over the river.",
+      "We can see the bear go in the river!"
+    ]
+  },
+  "heinemann-gk-06": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "46--海尼曼 GK 第一阶 70节_46. My Big Bear.mp3",
+    "durationSeconds": 55.615,
+    "sha256": "ed4fc1cff4d0792aa986cba42114e8972fc5e73c63d027dc4135da74255e8ec8",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.9126,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.699,
+        "page": 0
+      },
+      {
+        "at": 13.03,
+        "page": 1
+      },
+      {
+        "at": 19.505,
+        "page": 2
+      },
+      {
+        "at": 25.622,
+        "page": 3
+      },
+      {
+        "at": 31.78,
+        "page": 4
+      },
+      {
+        "at": 37.977,
+        "page": 5
+      },
+      {
+        "at": 44.134,
+        "page": 6
+      },
+      {
+        "at": 50.172,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "Look at my big bear. He has a big nose.",
+      "Look at my big bear. He has a big mouth.",
+      "Look at my big bear. He has big eyes.",
+      "Look at my big bear. He has big ears.",
+      "Look at my big bear. He has big arms.",
+      "Look at my big bear. He has big legs.",
+      "Look at my big bear. He has big feet.",
+      "Look at my big bear. He has a little bear."
+    ]
+  },
+  "heinemann-gk-07": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "47--海尼曼 GK 第一阶 70节_47. Making Soup.mp3",
+    "durationSeconds": 31.739,
+    "sha256": "985bb5c825ccb84e47dc36ca268627e8f31f286d382aae2e9aa95048236864c3",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.8781,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.741,
+        "page": 0
+      },
+      {
+        "at": 10.451,
+        "page": 1
+      },
+      {
+        "at": 13.353,
+        "page": 2
+      },
+      {
+        "at": 16.504,
+        "page": 3
+      },
+      {
+        "at": 19.587,
+        "page": 4
+      },
+      {
+        "at": 22.761,
+        "page": 5
+      },
+      {
+        "at": 25.686,
+        "page": 6
+      },
+      {
+        "at": 28.746,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "Here is the pot for the soup.",
+      "Here is the water for the soup.",
+      "Here are the beans for the soup.",
+      "Here are the potatoes for the soup.",
+      "Here are the onions for the soup.",
+      "Here is the corn for the soup.",
+      "Here are the carrots for the soup.",
+      "Here is the soup!"
+    ]
+  },
+  "heinemann-gk-08": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "48--海尼曼 GK 第一阶 70节_48. My Family.mp3",
+    "durationSeconds": 47.36,
+    "sha256": "9072e32883495dc74795b148eaacc9fb63e6f5d930ddbe84bcc8ec176d89fb0a",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.889,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.758,
+        "page": 0
+      },
+      {
+        "at": 12.212,
+        "page": 1
+      },
+      {
+        "at": 17.253,
+        "page": 2
+      },
+      {
+        "at": 22.361,
+        "page": 3
+      },
+      {
+        "at": 27.367,
+        "page": 4
+      },
+      {
+        "at": 32.408,
+        "page": 5
+      },
+      {
+        "at": 37.035,
+        "page": 6
+      },
+      {
+        "at": 42.455,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "This is my mom. My mom likes to dig.",
+      "This is my dad. My dad likes to bake.",
+      "This is my sister. My sister likes to sing.",
+      "This is my brother. My brother likes to paint.",
+      "This is my grandma. My grandma likes to read.",
+      "This is my grandpa. My grandpa likes to run.",
+      "This is my family. My family likes to eat.",
+      "And my family loves to play!"
+    ]
+  },
+  "heinemann-gk-09": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "59--海尼曼 GK 第一阶 70节_59. Mouse.mp3",
+    "durationSeconds": 64.731,
+    "sha256": "5ecb7da8928f6d86019a0887033b81f0f3e21140ea998ee607d24bf1a206e770",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.7026,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.424,
+        "page": 0
+      },
+      {
+        "at": 14.241,
+        "page": 1
+      },
+      {
+        "at": 21.824,
+        "page": 2
+      },
+      {
+        "at": 29.36,
+        "page": 3
+      },
+      {
+        "at": 36.897,
+        "page": 4
+      },
+      {
+        "at": 44.48,
+        "page": 5
+      },
+      {
+        "at": 52.109,
+        "page": 6
+      },
+      {
+        "at": 59.692,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "Mouse likes cake. She likes to eat cake in bed.",
+      "Mouse likes cookies. She likes to eat cookies in bed.",
+      "She likes sandwiches. Mouse likes to eat sandwiches in bed.",
+      "Mouse likes pizza. She likes to eat pizza in bed.",
+      "She likes apples. Mouse likes to eat apples in bed.",
+      "Mouse likes bananas. She likes to eat bananas in bed.",
+      "Mouse loves cheese. She loves to eat cheese in bed.",
+      "And Mouse likes to dream in bed, too."
+    ]
+  },
+  "heinemann-gk-10": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "60--海尼曼 GK 第一阶 70节_60. Mop.mp3",
+    "durationSeconds": 41.822,
+    "sha256": "8c601b0d4cea412883176555ad3e28e64b914c3c624dc8f711883bca71089df0",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.5303,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.34,
+        "page": 0
+      },
+      {
+        "at": 11.86,
+        "page": 1
+      },
+      {
+        "at": 16.878,
+        "page": 2
+      },
+      {
+        "at": 21.927,
+        "page": 3
+      },
+      {
+        "at": 26.975,
+        "page": 4
+      },
+      {
+        "at": 31.904,
+        "page": 5
+      },
+      {
+        "at": 36.863,
+        "page": 6
+      },
+      {
+        "at": 39.223,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "“Come here, Mop,” . But Mop did not come.",
+      "“Sit, Mop,” But Mop did not sit.",
+      "“Jump up, Mop,” But he did not jump.",
+      "“Get the stick, Mop.” But he did not get the stick.",
+      "“Get the ball, Mop,” But Mop did not get the ball.",
+      "“Run, Mop,” But he did not run.",
+      "“Stop!” “Stop, Mop!”",
+      "But Mop did not stop!"
+    ]
+  },
+  "heinemann-gk-11": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "4--海尼曼 GK 第一阶 70节_4. Mom.mp3",
+    "durationSeconds": 31.739,
+    "sha256": "70abb9464841322d96457387282c48216ef623edf931f70bf86b3e8717d66d81",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.7425,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.741,
+        "page": 0
+      },
+      {
+        "at": 10.36,
+        "page": 1
+      },
+      {
+        "at": 13.421,
+        "page": 2
+      },
+      {
+        "at": 16.277,
+        "page": 3
+      },
+      {
+        "at": 19.315,
+        "page": 4
+      },
+      {
+        "at": 22.467,
+        "page": 5
+      },
+      {
+        "at": 25.459,
+        "page": 6
+      },
+      {
+        "at": 28.588,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "Mom is walking.",
+      "Mom is reading.",
+      "Mom is jumping.",
+      "Mom is swimming.",
+      "Mom is riding.",
+      "Mom is shopping.",
+      "Mom is eating.",
+      "Mom is hugging me."
+    ]
+  },
+  "heinemann-gk-12": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "5--海尼曼 GK 第一阶 70节_5. Dad.mp3",
+    "durationSeconds": 33.646,
+    "sha256": "3a6346dd51171e5fcbf6b459f7810ad8e2af1d7c968a0870791dad2f0a412fce",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.673,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.92,
+        "page": 0
+      },
+      {
+        "at": 10.67,
+        "page": 1
+      },
+      {
+        "at": 13.506,
+        "page": 2
+      },
+      {
+        "at": 16.583,
+        "page": 3
+      },
+      {
+        "at": 19.635,
+        "page": 4
+      },
+      {
+        "at": 22.759,
+        "page": 5
+      },
+      {
+        "at": 25.835,
+        "page": 6
+      },
+      {
+        "at": 28.911,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "Dad is driving.",
+      "Dad is cooking.",
+      "Dad is singing.",
+      "Dad is running.",
+      "Dad is digging.",
+      "Dad is writing.",
+      "Dad is painting.",
+      "Dad is hiding!"
+    ]
+  },
+  "heinemann-gk-13": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "6--海尼曼 GK 第一阶 70节_6. At The Zoo.mp3",
+    "durationSeconds": 31.739,
+    "sha256": "20c918a0b05f677ec640c6d40cad7ed105ac6598010bff107f254edafce1bb86",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.9284,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.718,
+        "page": 0
+      },
+      {
+        "at": 10.36,
+        "page": 1
+      },
+      {
+        "at": 13.421,
+        "page": 2
+      },
+      {
+        "at": 16.436,
+        "page": 3
+      },
+      {
+        "at": 19.474,
+        "page": 4
+      },
+      {
+        "at": 22.693,
+        "page": 5
+      },
+      {
+        "at": 25.64,
+        "page": 6
+      },
+      {
+        "at": 28.633,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "We can see a monkey.",
+      "We can see a snake.",
+      "We can see a bear.",
+      "We can see a lion.",
+      "We can see an elephant.",
+      "We can see a giraffe.",
+      "We can see a zebra.",
+      "We can see a bird."
+    ]
+  },
+  "heinemann-gk-14": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "7--海尼曼 GK 第一阶 70节_7. On The Way To School.mp3",
+    "durationSeconds": 26.697,
+    "sha256": "a27f413642346a844681d15552af015f25907dc4a196c23c2cae8b006d0a4c10",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.6683,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.33,
+        "page": 0
+      },
+      {
+        "at": 9.2,
+        "page": 1
+      },
+      {
+        "at": 11.8,
+        "page": 2
+      },
+      {
+        "at": 14.38,
+        "page": 3
+      },
+      {
+        "at": 16.86,
+        "page": 4
+      },
+      {
+        "at": 19.34,
+        "page": 5
+      },
+      {
+        "at": 21.94,
+        "page": 6
+      },
+      {
+        "at": 24.44,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "I see the sign.",
+      "I see the bus.",
+      "I see the driver.",
+      "I see the children.",
+      "I see the school.",
+      "I see the playground.",
+      "I see the door.",
+      "I see my teacher."
+    ]
+  },
+  "heinemann-gk-16": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "9--海尼曼 GK 第一阶 70节_9. Tom.mp3",
+    "durationSeconds": 33.881,
+    "sha256": "7b34548175ee371f1fdd826a4229eb23ab1eea47f71fddee866b354d929d22d7",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.6757,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.949,
+        "page": 0
+      },
+      {
+        "at": 10.479,
+        "page": 1
+      },
+      {
+        "at": 13.552,
+        "page": 2
+      },
+      {
+        "at": 16.747,
+        "page": 3
+      },
+      {
+        "at": 19.748,
+        "page": 4
+      },
+      {
+        "at": 22.966,
+        "page": 5
+      },
+      {
+        "at": 26.04,
+        "page": 6
+      },
+      {
+        "at": 29.065,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "Tom can run.",
+      "Tom can play.",
+      "Tom can hide.",
+      "Tom can eat.",
+      "Tom can drink.",
+      "Tom can jump.",
+      "Tom can sleep.",
+      "Tom can purr. Purr, Purr"
+    ]
+  },
+  "heinemann-gk-17": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "10--海尼曼 GK 第一阶 70节_10. I Can Read.mp3",
+    "durationSeconds": 31.739,
+    "sha256": "1df6bac470afc8fc7332e1a4272f1785b086e92c7b149aa8e6156bc5508346a3",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.8723,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.877,
+        "page": 0
+      },
+      {
+        "at": 10.451,
+        "page": 1
+      },
+      {
+        "at": 13.512,
+        "page": 2
+      },
+      {
+        "at": 16.572,
+        "page": 3
+      },
+      {
+        "at": 19.678,
+        "page": 4
+      },
+      {
+        "at": 22.716,
+        "page": 5
+      },
+      {
+        "at": 25.799,
+        "page": 6
+      },
+      {
+        "at": 28.86,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "I can read to my mom.",
+      "I can read to my dad.",
+      "I can read to my grandma.",
+      "I can read to my grandpa.",
+      "I can read to my brother.",
+      "I can read to my dog.",
+      "I can read to my bear.",
+      "I can read to myself."
+    ]
+  },
+  "heinemann-gk-18": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "11--海尼曼 GK 第一阶 70节_11. Baby.mp3",
+    "durationSeconds": 27.507,
+    "sha256": "4e4861dc6dd5b200b4a9e57b8212a16dec15303f7ab29909e054386b048e230c",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.8787,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.23,
+        "page": 0
+      },
+      {
+        "at": 9.3,
+        "page": 1
+      },
+      {
+        "at": 11.82,
+        "page": 2
+      },
+      {
+        "at": 14.24,
+        "page": 3
+      },
+      {
+        "at": 16.74,
+        "page": 4
+      },
+      {
+        "at": 19.24,
+        "page": 5
+      },
+      {
+        "at": 21.74,
+        "page": 6
+      },
+      {
+        "at": 24.14,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "Baby is sleeping.",
+      "Baby is crying.",
+      "Baby is eating.",
+      "Baby is sitting.",
+      "Baby is crawling.",
+      "Baby is playing.",
+      "Baby is smiling.",
+      "Baby is laughing."
+    ]
+  },
+  "heinemann-gk-19": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "12--海尼曼 GK 第一阶 70节_12. Playing Dress Up.mp3",
+    "durationSeconds": 27.22,
+    "sha256": "3b437f3b148abe8f6c97c79d860a6a0ac51bc29264a8a3f045b7104b126c29e4",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.8746,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.27,
+        "page": 0
+      },
+      {
+        "at": 9.28,
+        "page": 1
+      },
+      {
+        "at": 11.74,
+        "page": 2
+      },
+      {
+        "at": 14.58,
+        "page": 3
+      },
+      {
+        "at": 17.18,
+        "page": 4
+      },
+      {
+        "at": 19.78,
+        "page": 5
+      },
+      {
+        "at": 22.42,
+        "page": 6
+      },
+      {
+        "at": 24.98,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "I am a little cat.",
+      "I am a little bee.",
+      "I am a little duck.",
+      "I am a little monster.",
+      "I am a little dancer.",
+      "I am a little dog.",
+      "I am a little bunny.",
+      "I am a little girl."
+    ]
+  },
+  "heinemann-gk-20": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "13--海尼曼 GK 第一阶 70节_13. Little Cub.mp3",
+    "durationSeconds": 32.052,
+    "sha256": "736c2d41e2dbd76b445ebc30e2428b4ee5e92f4b6e54918dacfd80541a18843f",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.7152,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.951,
+        "page": 0
+      },
+      {
+        "at": 10.28,
+        "page": 1
+      },
+      {
+        "at": 13.554,
+        "page": 2
+      },
+      {
+        "at": 16.086,
+        "page": 3
+      },
+      {
+        "at": 19.392,
+        "page": 4
+      },
+      {
+        "at": 22.313,
+        "page": 5
+      },
+      {
+        "at": 25.756,
+        "page": 6
+      },
+      {
+        "at": 28.87,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "I am eating.",
+      "I am running.",
+      "I am riding.",
+      "I am drawing.",
+      "I am kicking.",
+      "I am playing.",
+      "I am reading.",
+      "I am dreaming."
+    ]
+  },
+  "heinemann-gk-21": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "14--海尼曼 GK 第一阶 70节_14. My Room.mp3",
+    "durationSeconds": 27.089,
+    "sha256": "50c7f13ae004bed2a0bd835fee2639a73abd0c968f933c23cf0ea3a387f60a4f",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.9123,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.21,
+        "page": 0
+      },
+      {
+        "at": 8.78,
+        "page": 1
+      },
+      {
+        "at": 11.86,
+        "page": 2
+      },
+      {
+        "at": 14.42,
+        "page": 3
+      },
+      {
+        "at": 17.1,
+        "page": 4
+      },
+      {
+        "at": 19.7,
+        "page": 5
+      },
+      {
+        "at": 22.3,
+        "page": 6
+      },
+      {
+        "at": 24.86,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "I like my bed.",
+      "I like my books.",
+      "I like my lamp.",
+      "I like my chair.",
+      "I like my toys.",
+      "I like my picture.",
+      "I like my bear.",
+      "I like my room!"
+    ]
+  },
+  "heinemann-gk-22": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "15--海尼曼 GK 第一阶 70节_15. The Baby.mp3",
+    "durationSeconds": 27.298,
+    "sha256": "550e210915dde9d219a24c10cbd8de7494e8be87a219f225603683d8dd90e1bb",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.8878,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.05,
+        "page": 0
+      },
+      {
+        "at": 9.3,
+        "page": 1
+      },
+      {
+        "at": 11.74,
+        "page": 2
+      },
+      {
+        "at": 14.32,
+        "page": 3
+      },
+      {
+        "at": 16.96,
+        "page": 4
+      },
+      {
+        "at": 19.52,
+        "page": 5
+      },
+      {
+        "at": 22.16,
+        "page": 6
+      },
+      {
+        "at": 24.74,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "The baby has a bottle.",
+      "The baby has a book.",
+      "The baby has a blanket.",
+      "The baby has a block.",
+      "The baby has a bear.",
+      "The baby has a duck.",
+      "The baby has a toy.",
+      "The baby has a smile!"
+    ]
+  },
+  "heinemann-gk-23": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "16--海尼曼 GK 第一阶 70节_16. Going Sledding.mp3",
+    "durationSeconds": 31.739,
+    "sha256": "7dd5c188769e133d2d4eae39dbcbff6ca67ddbed0785bb4fdcbd80d901e4153b",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.8347,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.786,
+        "page": 0
+      },
+      {
+        "at": 10.406,
+        "page": 1
+      },
+      {
+        "at": 13.058,
+        "page": 2
+      },
+      {
+        "at": 16.436,
+        "page": 3
+      },
+      {
+        "at": 19.451,
+        "page": 4
+      },
+      {
+        "at": 22.179,
+        "page": 5
+      },
+      {
+        "at": 25.595,
+        "page": 6
+      },
+      {
+        "at": 28.474,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "Look at my pants.",
+      "Look at my jacket.",
+      "Look at my socks.",
+      "Look at my boots.",
+      "Look at my hat.",
+      "Look at my mittens.",
+      "Look at my sled.",
+      "Look at me!"
+    ]
+  },
+  "heinemann-gk-24": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "17--海尼曼 GK 第一阶 70节_17. Making A Snowman.mp3",
+    "durationSeconds": 31.739,
+    "sha256": "054c3a1f438245c0a98e479a7ce686c93010368c0149675ead42927709d57595",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.9021,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.877,
+        "page": 0
+      },
+      {
+        "at": 10.496,
+        "page": 1
+      },
+      {
+        "at": 13.126,
+        "page": 2
+      },
+      {
+        "at": 16.481,
+        "page": 3
+      },
+      {
+        "at": 19.27,
+        "page": 4
+      },
+      {
+        "at": 22.27,
+        "page": 5
+      },
+      {
+        "at": 25.776,
+        "page": 6
+      },
+      {
+        "at": 28.414,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "Look at the snow.",
+      "Look at the hat.",
+      "Look at the buttons.",
+      "Look at the carrot.",
+      "Look at the banana.",
+      "Look at the scarf.",
+      "Look at the stick.",
+      "Look at the snowman!"
+    ]
+  },
+  "heinemann-gk-25": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "18--海尼曼 GK 第一阶 70节_18. My Lunch.mp3",
+    "durationSeconds": 27.167,
+    "sha256": "cfb7d905aa833803075f2f67e70c334270daa54900262c45dfc4e43ec85c3e68",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.8054,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.21,
+        "page": 0
+      },
+      {
+        "at": 9.32,
+        "page": 1
+      },
+      {
+        "at": 11.96,
+        "page": 2
+      },
+      {
+        "at": 14.46,
+        "page": 3
+      },
+      {
+        "at": 17.14,
+        "page": 4
+      },
+      {
+        "at": 19.72,
+        "page": 5
+      },
+      {
+        "at": 22.28,
+        "page": 6
+      },
+      {
+        "at": 24.68,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "Here is my apple.",
+      "Here is my juice.",
+      "Here is my bread.",
+      "Here is my cheese.",
+      "Here is my lettuce.",
+      "Here is my cookie.",
+      "Here is my napkin.",
+      "Here is my lunch."
+    ]
+  },
+  "heinemann-gk-26": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "19--海尼曼 GK 第一阶 70节_19. Toys.mp3",
+    "durationSeconds": 27.089,
+    "sha256": "67b10a22377d181bcfb3379ba025bbd743e8144af97f2405fefd1df68d4082d7",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.6038,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.17,
+        "page": 0
+      },
+      {
+        "at": 9.34,
+        "page": 1
+      },
+      {
+        "at": 11.88,
+        "page": 2
+      },
+      {
+        "at": 14.56,
+        "page": 3
+      },
+      {
+        "at": 17.12,
+        "page": 4
+      },
+      {
+        "at": 19.72,
+        "page": 5
+      },
+      {
+        "at": 22.34,
+        "page": 6
+      },
+      {
+        "at": 25.26,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "Here is a car.",
+      "Here is a ball.",
+      "Here is a truck.",
+      "Here is a bus.",
+      "Here is a boat.",
+      "Here is a plane.",
+      "Here is a train.",
+      "Happy birthday!"
+    ]
+  },
+  "heinemann-gk-27": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "20--海尼曼 GK 第一阶 70节_20. Little Things.mp3",
+    "durationSeconds": 31.739,
+    "sha256": "25b3d83c58f84a8860dc8eb7b5555bf1d65598dfe74764277f9c1ff02358d620",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.9138,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.831,
+        "page": 0
+      },
+      {
+        "at": 10.315,
+        "page": 1
+      },
+      {
+        "at": 13.172,
+        "page": 2
+      },
+      {
+        "at": 16.459,
+        "page": 3
+      },
+      {
+        "at": 19.315,
+        "page": 4
+      },
+      {
+        "at": 22.066,
+        "page": 5
+      },
+      {
+        "at": 25.595,
+        "page": 6
+      },
+      {
+        "at": 28.633,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "I have a little bed.",
+      "I have a little table.",
+      "I have a little chair.",
+      "I have a little lamp.",
+      "I have a little clock.",
+      "I have a little stove.",
+      "I have a little sink.",
+      "I have a little house!"
+    ]
+  },
+  "heinemann-gk-28": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "21--海尼曼 GK 第一阶 70节_21. Packing My Bag.mp3",
+    "durationSeconds": 27.402,
+    "sha256": "b55e3b4d3af577f36f7fc99aff5982641c1a691530bc98f7cab03970384c22ac",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.9254,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.27,
+        "page": 0
+      },
+      {
+        "at": 9.24,
+        "page": 1
+      },
+      {
+        "at": 11.88,
+        "page": 2
+      },
+      {
+        "at": 14.5,
+        "page": 3
+      },
+      {
+        "at": 17.12,
+        "page": 4
+      },
+      {
+        "at": 19.74,
+        "page": 5
+      },
+      {
+        "at": 22.36,
+        "page": 6
+      },
+      {
+        "at": 24.9,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "I have my pants.",
+      "I have my shirt.",
+      "I have my socks.",
+      "I have my shoes.",
+      "I have my toothbrush.",
+      "I have my pajamas.",
+      "I have my bear.",
+      "I have my bag."
+    ]
+  },
+  "heinemann-gk-29": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "22--海尼曼 GK 第一阶 70节_22. Setting The Table.mp3",
+    "durationSeconds": 26.54,
+    "sha256": "e1e1040e6ff21f122fe913c8e3e303ea6bfaee303f2bfcb60d307e39f594dde6",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.8965,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.17,
+        "page": 0
+      },
+      {
+        "at": 9.22,
+        "page": 1
+      },
+      {
+        "at": 11.68,
+        "page": 2
+      },
+      {
+        "at": 14.26,
+        "page": 3
+      },
+      {
+        "at": 16.82,
+        "page": 4
+      },
+      {
+        "at": 19.26,
+        "page": 5
+      },
+      {
+        "at": 21.78,
+        "page": 6
+      },
+      {
+        "at": 24.4,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "Here is the mat.",
+      "Here is the napkin.",
+      "Here is the plate.",
+      "Here is the knife.",
+      "Here is the fork.",
+      "Here is the spoon.",
+      "Here is the glass.",
+      "Here is the table."
+    ]
+  },
+  "heinemann-gk-30": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "23--海尼曼 GK 第一阶 70节_23. The Flower.mp3",
+    "durationSeconds": 26.54,
+    "sha256": "f7aa43cecf2ce6740f7b4d878bc7bd5d5924e6c6df709c39d127893fc187786f",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.6753,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.17,
+        "page": 0
+      },
+      {
+        "at": 9.12,
+        "page": 1
+      },
+      {
+        "at": 11.66,
+        "page": 2
+      },
+      {
+        "at": 14.24,
+        "page": 3
+      },
+      {
+        "at": 16.74,
+        "page": 4
+      },
+      {
+        "at": 19.18,
+        "page": 5
+      },
+      {
+        "at": 21.78,
+        "page": 6
+      },
+      {
+        "at": 24.36,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "Here is the pot.",
+      "Here is the dirt.",
+      "Here is the seed.",
+      "Here is the water.",
+      "Here is the sun.",
+      "Here is the stem.",
+      "Here is the leaf.",
+      "Here is the flower."
+    ]
+  },
+  "heinemann-gk-31": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "49--海尼曼 GK 第一阶 70节_49. Playing Together.mp3",
+    "durationSeconds": 48.98,
+    "sha256": "2c4d70e3e4bb1e98ff583acaff32b3cc1016dc4bff33fa2fd4854bf186aea150",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.8293,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.732,
+        "page": 0
+      },
+      {
+        "at": 12.455,
+        "page": 1
+      },
+      {
+        "at": 17.738,
+        "page": 2
+      },
+      {
+        "at": 22.845,
+        "page": 3
+      },
+      {
+        "at": 28.023,
+        "page": 4
+      },
+      {
+        "at": 33.271,
+        "page": 5
+      },
+      {
+        "at": 38.589,
+        "page": 6
+      },
+      {
+        "at": 43.732,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "We like to play with the blocks.",
+      "We like to play with the trucks.",
+      "We like to play with the dolls.",
+      "We like to play with a ball.",
+      "We like to play with the bears.",
+      "We like to play with the puzzles.",
+      "We like to play with the cars.",
+      "We like to play with the toys."
+    ]
+  },
+  "heinemann-gk-32": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "24--海尼曼 GK 第一阶 70节_24. Polly.mp3",
+    "durationSeconds": 31.739,
+    "sha256": "7a8d4f05ebf1ddeae35b7b5716c4fbcd9d603d409797fc609bed3120da451683",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.7935,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.718,
+        "page": 0
+      },
+      {
+        "at": 10.406,
+        "page": 1
+      },
+      {
+        "at": 13.33,
+        "page": 2
+      },
+      {
+        "at": 16.436,
+        "page": 3
+      },
+      {
+        "at": 19.633,
+        "page": 4
+      },
+      {
+        "at": 22.693,
+        "page": 5
+      },
+      {
+        "at": 25.618,
+        "page": 6
+      },
+      {
+        "at": 28.678,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "Polly likes the banana.",
+      "Polly likes the carrot.",
+      "She likes the apple.",
+      "She likes the tomato.",
+      "Polly likes the orange.",
+      "She likes the corn.",
+      "She likes the flower.",
+      "Polly likes the hat!"
+    ]
+  },
+  "heinemann-gk-33": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "50--海尼曼 GK 第一阶 70节_50. At the Farm.mp3",
+    "durationSeconds": 38.635,
+    "sha256": "5a49eb9eac6dc3c361f10cd6c9603536e33330c63b56861f0b14bfc62ef788eb",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.8375,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.691,
+        "page": 0
+      },
+      {
+        "at": 10.238,
+        "page": 1
+      },
+      {
+        "at": 14.985,
+        "page": 2
+      },
+      {
+        "at": 17.938,
+        "page": 3
+      },
+      {
+        "at": 22.822,
+        "page": 4
+      },
+      {
+        "at": 25.665,
+        "page": 5
+      },
+      {
+        "at": 30.577,
+        "page": 6
+      },
+      {
+        "at": 33.557,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "A cat is at the farm.",
+      "And a little kitten is at the farm, too.",
+      "A dog is at the farm.",
+      "And a little puppy is at the farm, too.",
+      "A duck is at the farm.",
+      "And a little duckling is at the farm, too.",
+      "The pig is at the farm.",
+      "And the little piglet is at the farm, too."
+    ]
+  },
+  "heinemann-gk-34": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "25--海尼曼 GK 第一阶 70节_25. The Sidewalk.mp3",
+    "durationSeconds": 27.324,
+    "sha256": "3d15c2ff8e950f8879ab38ad9ed4b6214886c4728c174e26c14edeefa5bec83f",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.9252,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.21,
+        "page": 0
+      },
+      {
+        "at": 9.34,
+        "page": 1
+      },
+      {
+        "at": 12.02,
+        "page": 2
+      },
+      {
+        "at": 14.5,
+        "page": 3
+      },
+      {
+        "at": 17.12,
+        "page": 4
+      },
+      {
+        "at": 19.72,
+        "page": 5
+      },
+      {
+        "at": 22.4,
+        "page": 6
+      },
+      {
+        "at": 24.84,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "Look at the bus.",
+      "Look at the bird.",
+      "Look at the flower.",
+      "Look at the dog.",
+      "Look at the car.",
+      "Look at the tree.",
+      "Look at the rainbow.",
+      "Look at the rain!"
+    ]
+  },
+  "heinemann-gk-35": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "51--海尼曼 GK 第一阶 70节_51. The Hat.mp3",
+    "durationSeconds": 31.739,
+    "sha256": "a9b984717d5a618106898c628a77438a00abdac81ebe30c14684415b737a5b9e",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.605,
+        "page": 0
+      },
+      {
+        "at": 10.338,
+        "page": 1
+      },
+      {
+        "at": 13.421,
+        "page": 2
+      },
+      {
+        "at": 16.481,
+        "page": 3
+      },
+      {
+        "at": 19.587,
+        "page": 4
+      },
+      {
+        "at": 22.671,
+        "page": 5
+      },
+      {
+        "at": 25.731,
+        "page": 6
+      },
+      {
+        "at": 29.36,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "The bear went in the hat.",
+      "The fox went in the hat.",
+      "A rabbit went in the hat.",
+      "A duck went in the hat.",
+      "The squirrel went in the hat.",
+      "A mouse went in the hat.",
+      "The ant went in the hat.",
+      "And pop!"
+    ],
+    "timingReviewNote": "ASR independently identifies the sung word pop at 29.36 s."
+  },
+  "heinemann-gk-36": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "26--海尼曼 GK 第一阶 70节_26. The Pet Store.mp3",
+    "durationSeconds": 31.739,
+    "sha256": "dc12477d6dca63b9a6567cc2c1bd43d570cd81861414667d9e5e10abd1f7f0a7",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.8082,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.763,
+        "page": 0
+      },
+      {
+        "at": 10.315,
+        "page": 1
+      },
+      {
+        "at": 13.398,
+        "page": 2
+      },
+      {
+        "at": 16.527,
+        "page": 3
+      },
+      {
+        "at": 19.655,
+        "page": 4
+      },
+      {
+        "at": 22.625,
+        "page": 5
+      },
+      {
+        "at": 25.686,
+        "page": 6
+      },
+      {
+        "at": 28.837,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "Here is a kitten.",
+      "Here is a puppy.",
+      "Here is a fish.",
+      "Here is a frog.",
+      "Here is a gerbil.",
+      "Here is a bird.",
+      "Here is a snake.",
+      "Here is a bunny."
+    ]
+  },
+  "heinemann-gk-37": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "52--海尼曼 GK 第一阶 70节_52. Going On A Vacation.mp3",
+    "durationSeconds": 44.565,
+    "sha256": "fde88077231ebb62888426d1dfcc89575c24463041e520bb0bf630b551927294",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.3931,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.799,
+        "page": 0
+      },
+      {
+        "at": 12.383,
+        "page": 1
+      },
+      {
+        "at": 17.444,
+        "page": 2
+      },
+      {
+        "at": 22.505,
+        "page": 3
+      },
+      {
+        "at": 27.535,
+        "page": 4
+      },
+      {
+        "at": 32.596,
+        "page": 5
+      },
+      {
+        "at": 37.594,
+        "page": 6
+      },
+      {
+        "at": 42.75,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "We put the bags in the car.",
+      "We put the toys in the car.",
+      "We put the blankets in the car.",
+      "We put the balls in the car.",
+      "We put the bears in the car.",
+      "We put the food in the car.",
+      "We put the dogs in the car.",
+      "Good-bye!"
+    ]
+  },
+  "heinemann-gk-38": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "27--海尼曼 GK 第一阶 70节_27. Wheels.mp3",
+    "durationSeconds": 31.739,
+    "sha256": "1937467427ee4e5c33b95097d8320a7999dc622896f185e340428e4fbf2386d9",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.808,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.63,
+        "page": 0
+      },
+      {
+        "at": 10.179,
+        "page": 1
+      },
+      {
+        "at": 12.99,
+        "page": 2
+      },
+      {
+        "at": 16.209,
+        "page": 3
+      },
+      {
+        "at": 19.134,
+        "page": 4
+      },
+      {
+        "at": 22.444,
+        "page": 5
+      },
+      {
+        "at": 25.436,
+        "page": 6
+      },
+      {
+        "at": 28.474,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "A bike has wheels.",
+      "A car has wheels.",
+      "A truck has wheels.",
+      "A bus has wheels.",
+      "A van has wheels.",
+      "A plane has wheels.",
+      "A train has wheels.",
+      "A wheelchair has wheels!"
+    ],
+    "timingReviewNote": "Correct swallowed instrumental intro in the first two alignment tokens using the onset of bike/has."
+  },
+  "heinemann-gk-39": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "53--海尼曼 GK 第一阶 70节_53. Hiding.mp3",
+    "durationSeconds": 48.901,
+    "sha256": "80696e9232b8f6ce0c87f3ace46960342f28049433cbc2d3fccaf076aeeef230",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.7949,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.93,
+        "page": 0
+      },
+      {
+        "at": 12.33,
+        "page": 1
+      },
+      {
+        "at": 17.535,
+        "page": 2
+      },
+      {
+        "at": 22.844,
+        "page": 3
+      },
+      {
+        "at": 28.013,
+        "page": 4
+      },
+      {
+        "at": 33.253,
+        "page": 5
+      },
+      {
+        "at": 38.597,
+        "page": 6
+      },
+      {
+        "at": 43.836,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "Puff likes to hide in the box.",
+      "Puff likes to hide in the bag.",
+      "Puff likes to hide in the closet.",
+      "Puff likes to hide behind the chair.",
+      "Puff likes to hide in the basket.",
+      "Puff likes to hide under the rug.",
+      "Puff likes to hide under the bed.",
+      "Puff likes to hide in the bed, too."
+    ]
+  },
+  "heinemann-gk-40": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "28--海尼曼 GK 第一阶 70节_28. The Show.mp3",
+    "durationSeconds": 31.739,
+    "sha256": "6355dc4e6dc27c2c6e22cdf6c51852a89922e21288bf4d4b12cbf738b8ec12f1",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.7531,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.65,
+        "page": 0
+      },
+      {
+        "at": 9.839,
+        "page": 1
+      },
+      {
+        "at": 13.262,
+        "page": 2
+      },
+      {
+        "at": 16.345,
+        "page": 3
+      },
+      {
+        "at": 19.383,
+        "page": 4
+      },
+      {
+        "at": 22.467,
+        "page": 5
+      },
+      {
+        "at": 25.527,
+        "page": 6
+      },
+      {
+        "at": 28.52,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "Come and see the clown.",
+      "Come and see the horse.",
+      "Come and see a dog.",
+      "Come and see a bear.",
+      "Come and see the lion.",
+      "Come and see an elephant.",
+      "Come and see a tiger.",
+      "Come and see the show!"
+    ]
+  },
+  "heinemann-gk-41": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "54--海尼曼 GK 第一阶 70节_54. Hop Hop Hop.mp3",
+    "durationSeconds": 31.739,
+    "sha256": "8559dcd137a65e324e07ddc16f6007580c5b96626f03935ced2913055371680a",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.8944,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.831,
+        "page": 0
+      },
+      {
+        "at": 10.383,
+        "page": 1
+      },
+      {
+        "at": 13.58,
+        "page": 2
+      },
+      {
+        "at": 16.55,
+        "page": 3
+      },
+      {
+        "at": 19.678,
+        "page": 4
+      },
+      {
+        "at": 22.739,
+        "page": 5
+      },
+      {
+        "at": 25.822,
+        "page": 6
+      },
+      {
+        "at": 28.814,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "I can hop in the grass.",
+      "I can hop in the leaves.",
+      "I can hop on the wall.",
+      "I can hop on the rocks.",
+      "I can hop in a puddle.",
+      "I can hop up the stairs.",
+      "I can hop, hop, hop on the bed.",
+      "And I can hop in the tub."
+    ]
+  },
+  "heinemann-gk-42": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "29--海尼曼 GK 第一阶 70节_29. The Puppet Show.mp3",
+    "durationSeconds": 27.193,
+    "sha256": "33dc03060ff313f1d8e7cd266e64358ba2bbe3160da288fb72c23bf219ce07cf",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.9029,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.25,
+        "page": 0
+      },
+      {
+        "at": 9.34,
+        "page": 1
+      },
+      {
+        "at": 11.94,
+        "page": 2
+      },
+      {
+        "at": 14.56,
+        "page": 3
+      },
+      {
+        "at": 17.12,
+        "page": 4
+      },
+      {
+        "at": 19.8,
+        "page": 5
+      },
+      {
+        "at": 22.36,
+        "page": 6
+      },
+      {
+        "at": 24.46,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "I can see the children.",
+      "I can see the ticket.",
+      "I can see the popcorn.",
+      "I can see the seats.",
+      "I can see the stage.",
+      "I can see the puppets.",
+      "I can see the show.",
+      ""
+    ]
+  },
+  "heinemann-gk-43": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "55--海尼曼 GK 第一阶 70节_55. Rain.mp3",
+    "durationSeconds": 69.904,
+    "sha256": "500079100491bf28ccf9bcebfa6719cb30c74fec7441523287d3aa7bf30f0a5e",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.813,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.84,
+        "page": 0
+      },
+      {
+        "at": 15.129,
+        "page": 1
+      },
+      {
+        "at": 22.918,
+        "page": 2
+      },
+      {
+        "at": 30.558,
+        "page": 3
+      },
+      {
+        "at": 38.647,
+        "page": 4
+      },
+      {
+        "at": 46.386,
+        "page": 5
+      },
+      {
+        "at": 54.375,
+        "page": 6
+      },
+      {
+        "at": 61.965,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "Look at the rain! The rain is falling on a pig.",
+      "Look at the rain! The rain is falling on the grass.",
+      "Look at the rain! The rain is falling on a frog.",
+      "Look at the rain! The rain is falling on the flowers.",
+      "Look at the rain! The rain is falling on a bird.",
+      "Look at the rain! The rain is falling on the trees.",
+      "Look at the rain! The rain is falling on a dog.",
+      "Look at the rain! The rain is falling on me!"
+    ]
+  },
+  "heinemann-gk-44": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "30--海尼曼 GK 第一阶 70节_30. My Baby Sister.mp3",
+    "durationSeconds": 27.193,
+    "sha256": "f942ad9743d12e35ebd214fe88eeb32ebd550785a1734a7231358decdb5eb394",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.7269,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.17,
+        "page": 0
+      },
+      {
+        "at": 9.32,
+        "page": 1
+      },
+      {
+        "at": 11.72,
+        "page": 2
+      },
+      {
+        "at": 14.54,
+        "page": 3
+      },
+      {
+        "at": 17.06,
+        "page": 4
+      },
+      {
+        "at": 19.56,
+        "page": 5
+      },
+      {
+        "at": 22.14,
+        "page": 6
+      },
+      {
+        "at": 24.96,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "Look at the ball.",
+      "Look at the book.",
+      "Look at the bear.",
+      "Look at the rattle.",
+      "Look at the duck.",
+      "Look at the dog.",
+      "Look at the baby.",
+      "Look at the smile!"
+    ]
+  },
+  "heinemann-gk-45": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "56--海尼曼 GK 第一阶 70节_56. So Big.mp3",
+    "durationSeconds": 47.804,
+    "sha256": "70712e21d49ed2e829f686e26f26d75c57cb6af63f7f858bbb3e8ee321a05ae5",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.8915,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.93,
+        "page": 0
+      },
+      {
+        "at": 12.429,
+        "page": 1
+      },
+      {
+        "at": 17.38,
+        "page": 2
+      },
+      {
+        "at": 22.434,
+        "page": 3
+      },
+      {
+        "at": 27.317,
+        "page": 4
+      },
+      {
+        "at": 32.37,
+        "page": 5
+      },
+      {
+        "at": 37.355,
+        "page": 6
+      },
+      {
+        "at": 42.511,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "Look at my hat. My hat is big.",
+      "Look at my coat. My coat is big.",
+      "Look at my bag. My bag is big.",
+      "Look at my bowl. My bowl is big.",
+      "Look at my spoon. My spoon is big.",
+      "Look at my book. My book is big.",
+      "Look at my chair. My chair is big.",
+      "Look at me. I am big, too!"
+    ]
+  },
+  "heinemann-gk-46": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "31--海尼曼 GK 第一阶 70节_31. The Parade.mp3",
+    "durationSeconds": 27.193,
+    "sha256": "7e4e01e742ff375a1ef962a5e7a0d271358400e3d4b3a868f0749afa857dc075",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.8522,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.21,
+        "page": 0
+      },
+      {
+        "at": 9.36,
+        "page": 1
+      },
+      {
+        "at": 12.02,
+        "page": 2
+      },
+      {
+        "at": 14.6,
+        "page": 3
+      },
+      {
+        "at": 17.12,
+        "page": 4
+      },
+      {
+        "at": 19.64,
+        "page": 5
+      },
+      {
+        "at": 22.46,
+        "page": 6
+      },
+      {
+        "at": 24.96,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "Look at the flags.",
+      "Look at the clowns.",
+      "Look at the band.",
+      "Look at the truck.",
+      "Look at the car.",
+      "Look at the balloons.",
+      "Look at the people.",
+      "Look at the parade!"
+    ]
+  },
+  "heinemann-gk-47": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "57--海尼曼 GK 第一阶 70节_57. Fun At School.mp3",
+    "durationSeconds": 31.739,
+    "sha256": "d52b090d5a78f198b27d4f1b72a093d40a82cdfc1a490571c7c96626a9c3465a",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.9073,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.673,
+        "page": 0
+      },
+      {
+        "at": 10.338,
+        "page": 1
+      },
+      {
+        "at": 13.444,
+        "page": 2
+      },
+      {
+        "at": 16.55,
+        "page": 3
+      },
+      {
+        "at": 19.655,
+        "page": 4
+      },
+      {
+        "at": 22.671,
+        "page": 5
+      },
+      {
+        "at": 25.731,
+        "page": 6
+      },
+      {
+        "at": 28.792,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "We read books at school.",
+      "We write stories at school.",
+      "We paint pictures at school.",
+      "We sing songs at school.",
+      "We eat lunch at school.",
+      "We play games at school.",
+      "We make puppets at school.",
+      "We make friends at school."
+    ]
+  },
+  "heinemann-gk-48": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "32--海尼曼 GK 第一阶 70节_32. At School.mp3",
+    "durationSeconds": 31.582,
+    "sha256": "3291452b02aa502170b25d32ba9e1f7d895e0bc010ba0150244a959e5b67d960",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.8651,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.704,
+        "page": 0
+      },
+      {
+        "at": 10.332,
+        "page": 1
+      },
+      {
+        "at": 13.422,
+        "page": 2
+      },
+      {
+        "at": 16.468,
+        "page": 3
+      },
+      {
+        "at": 19.626,
+        "page": 4
+      },
+      {
+        "at": 22.671,
+        "page": 5
+      },
+      {
+        "at": 25.672,
+        "page": 6
+      },
+      {
+        "at": 28.717,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "I like to read at school.",
+      "I like to write at school.",
+      "I like to build at school.",
+      "I like to cut at school.",
+      "I like to draw at school.",
+      "I like to paint at school.",
+      "I like to play at school.",
+      "I like school."
+    ]
+  },
+  "heinemann-gk-49": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "58--海尼曼 GK 第一阶 70节_58. My Big Brother.mp3",
+    "durationSeconds": 49.868,
+    "sha256": "56d1ace03cc312a9fe46bccc95bde2cbc9e8da4796bf00ceb50b8463650b618b",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.8271,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.759,
+        "page": 0
+      },
+      {
+        "at": 12.538,
+        "page": 1
+      },
+      {
+        "at": 17.632,
+        "page": 2
+      },
+      {
+        "at": 22.761,
+        "page": 3
+      },
+      {
+        "at": 27.962,
+        "page": 4
+      },
+      {
+        "at": 33.02,
+        "page": 5
+      },
+      {
+        "at": 38.327,
+        "page": 6
+      },
+      {
+        "at": 43.67,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "My big brother likes to paint pictures with me.",
+      "My big brother likes to ride bikes with me.",
+      "He likes to swing with me.",
+      "He likes to jump with me.",
+      "My brother and I like to climb.",
+      "My brother and I like to slide.",
+      "My big brother likes to read books with me.",
+      "My big brother likes me. And I like my big brother!"
+    ]
+  },
+  "heinemann-gk-50": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "33--海尼曼 GK 第一阶 70节_33. Getting Ready.mp3",
+    "durationSeconds": 27.193,
+    "sha256": "c94d31f50c69d7a0b64d8dede5bb82d9d39fa47ac565c047705be344a4ec3832",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.8612,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.17,
+        "page": 0
+      },
+      {
+        "at": 9.3,
+        "page": 1
+      },
+      {
+        "at": 11.92,
+        "page": 2
+      },
+      {
+        "at": 14.6,
+        "page": 3
+      },
+      {
+        "at": 16.9,
+        "page": 4
+      },
+      {
+        "at": 19.4,
+        "page": 5
+      },
+      {
+        "at": 22.14,
+        "page": 6
+      },
+      {
+        "at": 24.62,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "Look at my pants.",
+      "Look at my socks.",
+      "Look at my shoes.",
+      "Look at my shirt.",
+      "Look at my cap.",
+      "Look at my ball.",
+      "Look at my bat.",
+      "Look at my dad!"
+    ]
+  },
+  "heinemann-gk-51": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "61--海尼曼 GK 第一阶 70节_61. Play And Ride.mp3",
+    "durationSeconds": 56.372,
+    "sha256": "28b2377fcfa9c9eeca758001d902d628d80c0a18c7585d2b516cdc1c024c84a5",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.8686,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.759,
+        "page": 0
+      },
+      {
+        "at": 13.328,
+        "page": 1
+      },
+      {
+        "at": 19.448,
+        "page": 2
+      },
+      {
+        "at": 25.851,
+        "page": 3
+      },
+      {
+        "at": 31.971,
+        "page": 4
+      },
+      {
+        "at": 38.092,
+        "page": 5
+      },
+      {
+        "at": 44.131,
+        "page": 6
+      },
+      {
+        "at": 50.292,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "Look at this little truck. I can play with this truck.",
+      "Look at this big truck. I can ride in this truck.",
+      "Look at this little boat. I can play with this boat.",
+      "Look at this big boat. I can ride in this boat.",
+      "Look at this little train. I can play with this train.",
+      "Look at this big train. We can ride in this train.",
+      "Look at this little car. I can play with this car.",
+      "Look at this big car. We can ride in this car."
+    ]
+  },
+  "heinemann-gk-52": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "34--海尼曼 GK 第一阶 70节_34. My Bear.mp3",
+    "durationSeconds": 31.739,
+    "sha256": "f362673abb17c562e14241275f9d9309a2425544ffd46e676e4a9c3e3b09265d",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.8487,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.809,
+        "page": 0
+      },
+      {
+        "at": 10.406,
+        "page": 1
+      },
+      {
+        "at": 13.534,
+        "page": 2
+      },
+      {
+        "at": 16.527,
+        "page": 3
+      },
+      {
+        "at": 19.701,
+        "page": 4
+      },
+      {
+        "at": 22.671,
+        "page": 5
+      },
+      {
+        "at": 25.754,
+        "page": 6
+      },
+      {
+        "at": 28.769,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "I can ride with my bear.",
+      "I can eat with my bear.",
+      "I can dance with my bear.",
+      "I can read with my bear.",
+      "I can skate with my bear.",
+      "I can paint with my bear.",
+      "I can swing with my bear.",
+      "I can sleep with my bear."
+    ]
+  },
+  "heinemann-gk-53": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "62--海尼曼 GK 第一阶 70节_62. What Is Very Long.mp3",
+    "durationSeconds": 56.372,
+    "sha256": "df911d6d3fa44d742354bd36bc035fd0a8b2aaad9975c003c63f105a1ba1f5c4",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.8834,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.719,
+        "page": 0
+      },
+      {
+        "at": 13.409,
+        "page": 1
+      },
+      {
+        "at": 19.609,
+        "page": 2
+      },
+      {
+        "at": 25.81,
+        "page": 3
+      },
+      {
+        "at": 31.85,
+        "page": 4
+      },
+      {
+        "at": 38.011,
+        "page": 5
+      },
+      {
+        "at": 44.212,
+        "page": 6
+      },
+      {
+        "at": 50.453,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "This is a giraffe. The giraffe has a very long neck.",
+      "Here is a frog. The frog has very long legs.",
+      "This is a bird. The bird has a very long beak.",
+      "Here is an elephant. The elephant has a very long trunk.",
+      "This is a monkey. The monkey has a very long tail.",
+      "Here is a rabbit. The rabbit has very long ears.",
+      "This is a walrus. The walrus has very long teeth.",
+      "Here is a hippopotamus. The hippopotamus has a very long name!"
+    ]
+  },
+  "heinemann-gk-54": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "35--海尼曼 GK 第一阶 70节_35. The Play.mp3",
+    "durationSeconds": 27.193,
+    "sha256": "a10e370ed812f98cee6dd5f7f640849f836415a66ae3aec316e2fc0402788d66",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.897,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.17,
+        "page": 0
+      },
+      {
+        "at": 9.32,
+        "page": 1
+      },
+      {
+        "at": 11.72,
+        "page": 2
+      },
+      {
+        "at": 14.46,
+        "page": 3
+      },
+      {
+        "at": 17.1,
+        "page": 4
+      },
+      {
+        "at": 19.7,
+        "page": 5
+      },
+      {
+        "at": 22.2,
+        "page": 6
+      },
+      {
+        "at": 24.92,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "Here is the mouse.",
+      "Here is the hen.",
+      "Here is the cat.",
+      "Here is the duck.",
+      "Here is the dog.",
+      "Here is the cow.",
+      "Here is the horse.",
+      "Here is the play!"
+    ]
+  },
+  "heinemann-gk-55": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "63--海尼曼 GK 第一阶 70节_63. Our Pets.mp3",
+    "durationSeconds": 87.667,
+    "sha256": "5ebb37060e453d9cb68d8c23f1c575559ea30ab19f3a91a0ff554401bd19e8a8",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.8742,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.238,
+        "page": 0
+      },
+      {
+        "at": 17.032,
+        "page": 1
+      },
+      {
+        "at": 27.365,
+        "page": 2
+      },
+      {
+        "at": 37.947,
+        "page": 3
+      },
+      {
+        "at": 48.342,
+        "page": 4
+      },
+      {
+        "at": 58.925,
+        "page": 5
+      },
+      {
+        "at": 69.257,
+        "page": 6
+      },
+      {
+        "at": 79.714,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "This is a little pet. It is a mouse. I like this little mouse.",
+      "This is a long pet. It is a snake. I like this long snake.",
+      "This is a yellow pet. It is a bird. I like this yellow bird.",
+      "This is a big pet. It is a horse. I like this big horse.",
+      "This is a soft pet. It is a cat. I like this soft cat.",
+      "This is a wet pet. It is a goldfish. I like this wet goldfish.",
+      "This is a fat pet. It is a pig. I like this fat pig.",
+      "I like this black and white pet. It is a cow!"
+    ]
+  },
+  "heinemann-gk-56": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "36--海尼曼 GK 第一阶 70节_36. Making A Pizza.mp3",
+    "durationSeconds": 27.742,
+    "sha256": "ff7c77761657bebac1504191171123cbd53d206a691638ec0a670ea468747707",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.8735,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.77,
+        "page": 0
+      },
+      {
+        "at": 9.86,
+        "page": 1
+      },
+      {
+        "at": 12.22,
+        "page": 2
+      },
+      {
+        "at": 15.04,
+        "page": 3
+      },
+      {
+        "at": 17.62,
+        "page": 4
+      },
+      {
+        "at": 20.32,
+        "page": 5
+      },
+      {
+        "at": 22.76,
+        "page": 6
+      },
+      {
+        "at": 25.42,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "Here is the pan.",
+      "Here is the dough.",
+      "Here is the sauce.",
+      "Here is the cheese.",
+      "Here is the pepperoni.",
+      "Here is the oven.",
+      "Here is the pizza.",
+      "Here is the pan."
+    ]
+  },
+  "heinemann-gk-57": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "64--海尼曼 GK 第一阶 70节_64. A Visit from Aunt Bee.mp3",
+    "durationSeconds": 56.372,
+    "sha256": "c8672800ccd40df0b739f595960df024f2f8d158efba253704e294035083ffca",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.4042,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 7.162,
+        "page": 0
+      },
+      {
+        "at": 13.529,
+        "page": 1
+      },
+      {
+        "at": 19.69,
+        "page": 2
+      },
+      {
+        "at": 25.971,
+        "page": 3
+      },
+      {
+        "at": 32.052,
+        "page": 4
+      },
+      {
+        "at": 38.293,
+        "page": 5
+      },
+      {
+        "at": 44.373,
+        "page": 6
+      },
+      {
+        "at": 50.614,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "“Aunt Bee is coming!” said Mom.",
+      "Aunt Bee is coming. We clean the house.",
+      "Aunt Bee is coming. We pick some flowers.",
+      "Aunt Bee is coming. We blow up balloons.",
+      "Aunt Bee is coming. We make a cake.",
+      "Aunt Bee is coming. We set the table.",
+      "Aunt Bee is coming. We make a card.",
+      "Aunt Bee is here!"
+    ]
+  },
+  "heinemann-gk-58": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "37--海尼曼 GK 第一阶 70节_37. Birds.mp3",
+    "durationSeconds": 31.739,
+    "sha256": "82ad2f65b997ce318b5cde71542b59dcae71ff17c3f8f8c0809e10575243a2ac",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.7599,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.673,
+        "page": 0
+      },
+      {
+        "at": 10.27,
+        "page": 1
+      },
+      {
+        "at": 13.058,
+        "page": 2
+      },
+      {
+        "at": 16.277,
+        "page": 3
+      },
+      {
+        "at": 19.383,
+        "page": 4
+      },
+      {
+        "at": 22.467,
+        "page": 5
+      },
+      {
+        "at": 25.436,
+        "page": 6
+      },
+      {
+        "at": 28.497,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "This bird is flying.",
+      "This bird is swimming.",
+      "This bird is drinking.",
+      "This bird is eating.",
+      "This bird is walking.",
+      "This bird is running.",
+      "This bird is sleeping.",
+      "This bird is talking! Hello!"
+    ]
+  },
+  "heinemann-gk-59": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "65--海尼曼 GK 第一阶 70节_65. Flap Flap Fly.mp3",
+    "durationSeconds": 63.138,
+    "sha256": "4eb2bffd8814cf6eb87b483eacaab911923fe5c8c564990362ae3cc27e81c1df",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.6972,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.476,
+        "page": 0
+      },
+      {
+        "at": 14.251,
+        "page": 1
+      },
+      {
+        "at": 22.459,
+        "page": 2
+      },
+      {
+        "at": 29.855,
+        "page": 3
+      },
+      {
+        "at": 38.289,
+        "page": 4
+      },
+      {
+        "at": 45.504,
+        "page": 5
+      },
+      {
+        "at": 53.577,
+        "page": 6
+      },
+      {
+        "at": 55.922,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "Mother Duck can walk. She walks and walks. She walks by the pond.",
+      "The little ducks can walk. They walk and walk. They walk by the pond.",
+      "Mother Duck can eat. She eats and eats. She eats by the pond.",
+      "The little ducks can eat. They eat and eat. They eat by the pond.",
+      "Mother Duck can swim. She swims and swims. She swims in the pond.",
+      "The little ducks can swim. They swim and swim. They swim in the pond.",
+      "Mother Duck can fly.",
+      "The little ducks can . . . flap, flap, flap, fly!"
+    ]
+  },
+  "heinemann-gk-60": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "38--海尼曼 GK 第一阶 70节_38. At The Pond.mp3",
+    "durationSeconds": 31.739,
+    "sha256": "e20f587814424ee6beceac88623a3d498be7e02e94d167db982e37eb597f9755",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.8882,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.718,
+        "page": 0
+      },
+      {
+        "at": 10.406,
+        "page": 1
+      },
+      {
+        "at": 13.421,
+        "page": 2
+      },
+      {
+        "at": 16.481,
+        "page": 3
+      },
+      {
+        "at": 19.542,
+        "page": 4
+      },
+      {
+        "at": 22.648,
+        "page": 5
+      },
+      {
+        "at": 25.708,
+        "page": 6
+      },
+      {
+        "at": 28.792,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "We can see a frog.",
+      "We can see a turtle.",
+      "We can see the fish.",
+      "We can see a fox.",
+      "We can see the snake.",
+      "We can see a butterfly.",
+      "We can see a duck.",
+      "We can see the pond!"
+    ]
+  },
+  "heinemann-gk-61": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "66--海尼曼 GK 第一阶 70节_66. Going On A Train Ride.mp3",
+    "durationSeconds": 59.82,
+    "sha256": "60ee6de2ed28fb1149c519aa3627f085e95c0bb31c0c5a5920a1c441046acf82",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.7125,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.358,
+        "page": 0
+      },
+      {
+        "at": 14.143,
+        "page": 1
+      },
+      {
+        "at": 21.493,
+        "page": 2
+      },
+      {
+        "at": 31.577,
+        "page": 3
+      },
+      {
+        "at": 39.268,
+        "page": 4
+      },
+      {
+        "at": 47.215,
+        "page": 5
+      },
+      {
+        "at": 51.787,
+        "page": 6
+      },
+      {
+        "at": 57.812,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "I like trains. I am going on a train ride.",
+      "My dad likes trains. He can go on the train ride, too.",
+      "My little sister likes trains. My sister can come on the train, too.",
+      "My big brother can ride on the train. He likes trains.",
+      "My Gram can ride on the train, too. She loves trains.",
+      "Gramps can come with us, too.",
+      "And Bear likes trains. He can ride on the train, too.",
+      "Choo! Choo!"
+    ]
+  },
+  "heinemann-gk-62": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "39--海尼曼 GK 第一阶 70节_39. Spots.mp3",
+    "durationSeconds": 31.739,
+    "sha256": "d7f59d2cd01ec330472021536b5d8eb98b7351e036f9abbbeea5f2d598fe93dd",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.8761,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.582,
+        "page": 0
+      },
+      {
+        "at": 10.224,
+        "page": 1
+      },
+      {
+        "at": 13.353,
+        "page": 2
+      },
+      {
+        "at": 16.459,
+        "page": 3
+      },
+      {
+        "at": 19.338,
+        "page": 4
+      },
+      {
+        "at": 22.376,
+        "page": 5
+      },
+      {
+        "at": 25.436,
+        "page": 6
+      },
+      {
+        "at": 28.565,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "The dog has spots.",
+      "A cow has spots.",
+      "The pig has spots.",
+      "A ladybug has spots.",
+      "The frog has spots.",
+      "The fish has spots.",
+      "The cat has spots.",
+      "The clown has spots!"
+    ]
+  },
+  "heinemann-gk-63": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "67--海尼曼 GK 第一阶 70节_67. Playing With The Blocks.mp3",
+    "durationSeconds": 44.669,
+    "sha256": "7fd000d77836a46bdd18b7bb3d34592eabec52d4dfbba201b865d8866689adfe",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.4695,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.274,
+        "page": 0
+      },
+      {
+        "at": 11.71,
+        "page": 1
+      },
+      {
+        "at": 17.23,
+        "page": 2
+      },
+      {
+        "at": 21.876,
+        "page": 3
+      },
+      {
+        "at": 27.109,
+        "page": 4
+      },
+      {
+        "at": 32.405,
+        "page": 5
+      },
+      {
+        "at": 38.129,
+        "page": 6
+      },
+      {
+        "at": 42.946,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "Look at the house. I made it with the blocks.",
+      "Look at the big wall. I made it with the blocks.",
+      "Look at the road. I made it with the blocks.",
+      "Look at this tunnel. I made it with the blocks.",
+      "Look at the bridge. I made it with the blocks.",
+      "Look at this building. I made it with the blocks.",
+      "We can make a big building with the blocks.",
+      "Oh, no!"
+    ]
+  },
+  "heinemann-gk-64": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "40--海尼曼 GK 第一阶 70节_40. Drawing.mp3",
+    "durationSeconds": 28.029,
+    "sha256": "c74de0c867e58f3add48b7e209b15b118be3dd2fb36bc5862236227e3b0e593d",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.8165,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.798,
+        "page": 0
+      },
+      {
+        "at": 9.83,
+        "page": 1
+      },
+      {
+        "at": 12.413,
+        "page": 2
+      },
+      {
+        "at": 15.036,
+        "page": 3
+      },
+      {
+        "at": 17.598,
+        "page": 4
+      },
+      {
+        "at": 20.361,
+        "page": 5
+      },
+      {
+        "at": 22.864,
+        "page": 6
+      },
+      {
+        "at": 25.467,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "I can draw a mom.",
+      "I can draw a dad.",
+      "I can draw a girl.",
+      "I can draw a boy.",
+      "I can draw a baby.",
+      "I can draw a dog.",
+      "I can draw a cat.",
+      "I can draw my family!"
+    ]
+  },
+  "heinemann-gk-65": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "68--海尼曼 GK 第一阶 70节_68. Helping.mp3",
+    "durationSeconds": 56.372,
+    "sha256": "8ff95272f81344099ae1576da874c1db6c153ef160b3f2df8d513f9f1741517c",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.7813,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.839,
+        "page": 0
+      },
+      {
+        "at": 13.57,
+        "page": 1
+      },
+      {
+        "at": 19.65,
+        "page": 2
+      },
+      {
+        "at": 25.891,
+        "page": 3
+      },
+      {
+        "at": 31.931,
+        "page": 4
+      },
+      {
+        "at": 38.132,
+        "page": 5
+      },
+      {
+        "at": 44.373,
+        "page": 6
+      },
+      {
+        "at": 50.413,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "Look at us! We can help make the beds.",
+      "Look at us! We can help pick up the books.",
+      "Look at us! We can help pick up the toys.",
+      "We can help feed the cat. Look at us!",
+      "We can help wash the dishes. Look at us!",
+      "Look at us! We can help rake the leaves.",
+      "Look at us! We can help carry the bags.",
+      "And we can help eat the ice cream, too!"
+    ]
+  },
+  "heinemann-gk-66": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "41--海尼曼 GK 第一阶 70节_41. Baking.mp3",
+    "durationSeconds": 27.69,
+    "sha256": "ef642b430ed465791fd7eb9f5213496d02b5f86f37818ed0e8afe1789a6587d3",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.9256,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.25,
+        "page": 0
+      },
+      {
+        "at": 9.44,
+        "page": 1
+      },
+      {
+        "at": 12.06,
+        "page": 2
+      },
+      {
+        "at": 14.66,
+        "page": 3
+      },
+      {
+        "at": 17.3,
+        "page": 4
+      },
+      {
+        "at": 19.86,
+        "page": 5
+      },
+      {
+        "at": 22.44,
+        "page": 6
+      },
+      {
+        "at": 24.36,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "We baked the pizza.",
+      "We baked the bread.",
+      "We baked the pies.",
+      "We baked the brownies.",
+      "We baked the cupcakes.",
+      "We baked the cookies.",
+      "We baked the cake.",
+      ""
+    ]
+  },
+  "heinemann-gk-67": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "69--海尼曼 GK 第一阶 70节_69. Out To Play.mp3",
+    "durationSeconds": 37.721,
+    "sha256": "d78697abc1303a5717e60c3a640846db12f360661e5f45e3ebd13ae3790024e8",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.0,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 7.1,
+        "page": 0
+      },
+      {
+        "at": 11.62,
+        "page": 1
+      },
+      {
+        "at": 16.68,
+        "page": 2
+      },
+      {
+        "at": 17.14,
+        "page": 3
+      },
+      {
+        "at": 19.74,
+        "page": 4
+      },
+      {
+        "at": 22.3,
+        "page": 5
+      },
+      {
+        "at": 27.0,
+        "page": 6
+      },
+      {
+        "at": 32.52,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "Mommy, Mommy, I want to go out to play.",
+      "Bunny, Bunny, you can go out. Get your shoes.",
+      "",
+      "Get your hat. You can go out.",
+      "Get your toys. You can go out.",
+      "Look at the rain. You can’t go out to play.",
+      "I got my umbrella. I can go out to play.",
+      "And she went out to play."
+    ],
+    "timingReviewNote": "Song rewrites dialogue and omits the standalone shoes-response page. Times follow the independently transcribed shoes/hat/toys/rain/umbrella clauses; the wordless response page occupies the gap after shoes.",
+    "lyricsZhByPage": [
+      "妈妈，妈妈，我想出去玩。",
+      "小兔，小兔，你可以出去。拿好鞋子。",
+      "一起看看小兔拿好鞋子的画面。",
+      "拿好帽子。你可以出去。",
+      "拿好玩具。你可以出去。",
+      "看，下雨了。你不能出去玩。",
+      "我拿好雨伞了。我可以出去玩。",
+      "她出去玩了。"
+    ]
+  },
+  "heinemann-gk-68": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "42--海尼曼 GK 第一阶 70节_42. Painting.mp3",
+    "durationSeconds": 31.739,
+    "sha256": "3cc332ab10043ad03ccbf473d75bb77368e015f93954570c16302c128ae5315f",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.8242,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.786,
+        "page": 0
+      },
+      {
+        "at": 10.36,
+        "page": 1
+      },
+      {
+        "at": 13.376,
+        "page": 2
+      },
+      {
+        "at": 16.459,
+        "page": 3
+      },
+      {
+        "at": 19.474,
+        "page": 4
+      },
+      {
+        "at": 22.671,
+        "page": 5
+      },
+      {
+        "at": 25.64,
+        "page": 6
+      },
+      {
+        "at": 28.882,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "I can paint a tree.",
+      "I can paint a flower.",
+      "I can paint the house.",
+      "I can paint a car.",
+      "I can paint a dog.",
+      "I can paint a cat.",
+      "I can paint a family.",
+      "I can paint a picture!"
+    ]
+  },
+  "heinemann-gk-69": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "70--海尼曼 GK 第一阶 70节_70. Animals That Go Fast.mp3",
+    "durationSeconds": 69.486,
+    "sha256": "fd65e5893ce5cef7d46cd22768a255255170fc06bb60728949b949cf2e4593a5",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.9003,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.15,
+        "page": 0
+      },
+      {
+        "at": 14.642,
+        "page": 1
+      },
+      {
+        "at": 22.434,
+        "page": 2
+      },
+      {
+        "at": 30.177,
+        "page": 3
+      },
+      {
+        "at": 37.969,
+        "page": 4
+      },
+      {
+        "at": 45.811,
+        "page": 5
+      },
+      {
+        "at": 53.554,
+        "page": 6
+      },
+      {
+        "at": 61.544,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "This animal is a horse. A horse can run fast.",
+      "This animal is a big cat. The cat can run very fast.",
+      "This animal is a penguin. Penguins can swim fast.",
+      "This animal is a shark. Sharks can swim fast, too.",
+      "This animal is a big bird. Birds can fly very fast.",
+      "This animal is a little bird. It can fly fast, too.",
+      "This animal is a deer. It can run fast.",
+      "This animal is a big turtle. It can not run fast!"
+    ]
+  },
+  "heinemann-gk-70": {
+    "file": "audio/sing.mp3",
+    "sourceFile": "43--海尼曼 GK 第一阶 70节_43. Things That Go Fast.mp3",
+    "durationSeconds": 31.739,
+    "sha256": "88eb295ca90406dd14bbf0b5be843169973e216bf8dc54e1a4f76945d056cf97",
+    "alignmentMethod": "local-whisper-cross-attention-dtw",
+    "alignmentVersion": 1,
+    "minimumPageConfidence": 0.9232,
+    "cues": [
+      {
+        "at": 0,
+        "page": -1
+      },
+      {
+        "at": 6.76,
+        "page": 0
+      },
+      {
+        "at": 9.748,
+        "page": 1
+      },
+      {
+        "at": 13.353,
+        "page": 2
+      },
+      {
+        "at": 16.413,
+        "page": 3
+      },
+      {
+        "at": 19.565,
+        "page": 4
+      },
+      {
+        "at": 22.648,
+        "page": 5
+      },
+      {
+        "at": 25.731,
+        "page": 6
+      },
+      {
+        "at": 28.95,
+        "page": 7
+      }
+    ],
+    "reviewStatus": "automatic-alignment-with-targeted-transcript-review",
+    "lyricsByPage": [
+      "A car can go fast.",
+      "The plane can go fast.",
+      "A train can go fast.",
+      "The bus can go fast.",
+      "A boat can go fast.",
+      "A truck can go fast.",
+      "A bike can go fast.",
+      "I can go fast!"
+    ],
+    "timingReviewNote": "Correct swallowed instrumental intro in the first two alignment tokens using the onset of car/can."
+  }
+}

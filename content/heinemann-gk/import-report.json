@@ -1,0 +1,35 @@
+{
+  "books": 70,
+  "originalAudio": 70,
+  "singingAudio": 69,
+  "missingSinging": [
+    {
+      "id": "heinemann-gk-15",
+      "title": "The Park",
+      "reason": "not present in uploaded singing ZIP"
+    }
+  ],
+  "fpLevels": {
+    "A": 43,
+    "B": 15,
+    "C": 12
+  },
+  "pairing": "Uploaded narration compared with PDF-embedded audio; energy-envelope correlations >= 0.98907.",
+  "levelCorrections": [
+    {
+      "number": 41,
+      "title": "Hop Hop Hop",
+      "audioFilenameLevel": "A",
+      "pdfCoverLevel": "B",
+      "usedLevel": "B"
+    }
+  ],
+  "timings": "Local cross-attention DTW against lyrics, with targeted transcript review of variants; not equal-duration page division.",
+  "publishing": "Local private test package only; live GitHub Pages unchanged.",
+  "checks": {
+    "dataAndInteraction": "passed",
+    "mediaDecode": "630 JPEGs and 139 audio files passed",
+    "browser": "320/390/430/1024px: real MP3 play, fullscreen layout, pause, forward/backward seek and synchronized page changes passed",
+    "productionBuild": "passed"
+  }
+}
