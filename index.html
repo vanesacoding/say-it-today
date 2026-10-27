@@ -324,7 +324,7 @@
     player.onloadedmetadata=()=>{if(token!==playbackToken)return;const wanted=player._pendingSeek??recordFor(id).songPosition??start;if(wanted>0&&wanted<player.duration){player._pendingSeek=wanted;player.currentTime=wanted;}};
     player.ontimeupdate=()=>{if(token!==playbackToken||player.seeking)return;if(player._pendingSeek!=null&&Math.abs(player.currentTime-player._pendingSeek)>.4)return;delete player._pendingSeek;recordFor(id).songPosition=player.currentTime;syncSinging(player.currentTime);};
     player.onseeked=()=>{if(token!==playbackToken)return;if(player._pendingSeek!=null&&Math.abs(player.currentTime-player._pendingSeek)>.4)return;delete player._pendingSeek;recordFor(id).songPosition=player.currentTime;syncSinging(player.currentTime)};
-    player.onended=()=>{if(token!==playbackToken)return;songPlaying=false;songEnded=true;recordFor(id).songPosition=0;audio=null;save();render();};
+    player.onended=()=>{if(token!==playbackToken)return;songPlaying=false;songEnded=true;recordFor(id).songPosition=book.singing.durationSeconds;audio=null;save();render();};
     const fail=()=>{if(token!==playbackToken)return;stop();save();render();toast('唱读播放失败，请点击继续唱重试')};player.onerror=fail;songPlaying=true;render();player.play()?.catch(fail);
   }
   function startSinging(){stop();state.sheet=null;state.view='sing';songEnded=false;recordFor(book.id).songPosition=0;requestSingFullscreen();playSinging();}
