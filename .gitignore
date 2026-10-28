@@ -16,3 +16,7 @@ reading-mvp-review.patch
 # Per-page excerpts are built reproducibly from tracked originals and the timing manifest.
 public/books/library/heinemann-gk-*/audio/page-*.mp3
 public/books/library/heinemann-gk-*/audio/page-*.timing.json
+
+# Built from the verified Oxford media bundle.
+public/flashcards/oxford/images/
+public/flashcards/oxford/audio/

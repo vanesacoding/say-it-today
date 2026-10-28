@@ -1,0 +1,788 @@
+[
+  {
+    "id": "lgc0-001",
+    "originalFile": "lgc0-001 standup.mp3",
+    "matched": true,
+    "path": "audio/lgc0-001.mp3"
+  },
+  {
+    "id": "lgc0-002",
+    "originalFile": "lgc0-002 sitdown.mp3",
+    "matched": false,
+    "path": "audio/lgc0-002.mp3"
+  },
+  {
+    "id": "lgc0-003",
+    "originalFile": "lgc0-003 ball.mp3",
+    "matched": false,
+    "path": "audio/lgc0-003.mp3"
+  },
+  {
+    "id": "lgc0-004",
+    "originalFile": "lgc0-004 jumprope.mp3",
+    "matched": false,
+    "path": "audio/lgc0-004.mp3"
+  },
+  {
+    "id": "lgc0-006",
+    "originalFile": "lgc0-006 bike.mp3",
+    "matched": false,
+    "path": "audio/lgc0-006.mp3"
+  },
+  {
+    "id": "lgc0-007",
+    "originalFile": "lgc0-007 train.mp3",
+    "matched": false,
+    "path": "audio/lgc0-007.mp3"
+  },
+  {
+    "id": "lgc0-008",
+    "originalFile": "lgc0-008 car.mp3",
+    "matched": false,
+    "path": "audio/lgc0-008.mp3"
+  },
+  {
+    "id": "lgc0-009",
+    "originalFile": "lgc0-009 doll.mp3",
+    "matched": true,
+    "path": "audio/lgc0-009.mp3"
+  },
+  {
+    "id": "lgc0-010",
+    "originalFile": "lgc0-010 teddy.mp3",
+    "matched": false,
+    "path": "audio/lgc0-010.mp3"
+  },
+  {
+    "id": "lgc0-011",
+    "originalFile": "lgc0-011 comehere.mp3",
+    "matched": false,
+    "path": "audio/lgc0-011.mp3"
+  },
+  {
+    "id": "lgc0-012",
+    "originalFile": "lgc0-012 turn around.mp3",
+    "matched": false,
+    "path": "audio/lgc0-012.mp3"
+  },
+  {
+    "id": "lgc0-013",
+    "originalFile": "lgc0-013 red.mp3",
+    "matched": false,
+    "path": "audio/lgc0-013.mp3"
+  },
+  {
+    "id": "lgc0-016",
+    "originalFile": "lgc0-016 green.mp3",
+    "matched": false,
+    "path": "audio/lgc0-016.mp3"
+  },
+  {
+    "id": "lgc0-018",
+    "originalFile": "lgc0-018 purple.mp3",
+    "matched": false,
+    "path": "audio/lgc0-018.mp3"
+  },
+  {
+    "id": "lgc0-021",
+    "originalFile": "lgc0-021 white.mp3",
+    "matched": false,
+    "path": "audio/lgc0-021.mp3"
+  },
+  {
+    "id": "lgc0-022",
+    "originalFile": "lgc0-022 pink.mp3",
+    "matched": false,
+    "path": "audio/lgc0-022.mp3"
+  },
+  {
+    "id": "lgc0-023",
+    "originalFile": "lgc0-023 apple.mp3",
+    "matched": false,
+    "path": "audio/lgc0-023.mp3"
+  },
+  {
+    "id": "lgc0-024",
+    "originalFile": "lgc0-024 ant.mp3",
+    "matched": false,
+    "path": "audio/lgc0-024.mp3"
+  },
+  {
+    "id": "lgc0-025",
+    "originalFile": "lgc0-025 ball.mp3",
+    "matched": false,
+    "path": "audio/lgc0-025.mp3"
+  },
+  {
+    "id": "lgc0-026",
+    "originalFile": "lgc0-026 bird.mp3",
+    "matched": false,
+    "path": "audio/lgc0-026.mp3"
+  },
+  {
+    "id": "lgc0-027",
+    "originalFile": "lgc0-027 cat.mp3",
+    "matched": false,
+    "path": "audio/lgc0-027.mp3"
+  },
+  {
+    "id": "lgc0-029",
+    "originalFile": "lgc0-029 dog.mp3",
+    "matched": false,
+    "path": "audio/lgc0-029.mp3"
+  },
+  {
+    "id": "lgc0-030",
+    "originalFile": "lgc0-030 doll.mp3",
+    "matched": false,
+    "path": "audio/lgc0-030.mp3"
+  },
+  {
+    "id": "lgc0-031",
+    "originalFile": "lgc0-031.mp3",
+    "matched": false,
+    "path": "audio/lgc0-031.mp3"
+  },
+  {
+    "id": "lgc0-033",
+    "originalFile": "lgc0-033.mp3",
+    "matched": false,
+    "path": "audio/lgc0-033.mp3"
+  },
+  {
+    "id": "lgc0-034",
+    "originalFile": "lgc0-034.mp3",
+    "matched": true,
+    "path": "audio/lgc0-034.mp3"
+  },
+  {
+    "id": "lgc0-035",
+    "originalFile": "lgc0-035.mp3",
+    "matched": true,
+    "path": "audio/lgc0-035.mp3"
+  },
+  {
+    "id": "lgc0-036",
+    "originalFile": "lgc0-036.mp3",
+    "matched": false,
+    "path": "audio/lgc0-036.mp3"
+  },
+  {
+    "id": "lgc0-037",
+    "originalFile": "lgc0-037.mp3",
+    "matched": false,
+    "path": "audio/lgc0-037.mp3"
+  },
+  {
+    "id": "lgc0-038",
+    "originalFile": "lgc0-038 circle.mp3",
+    "matched": true,
+    "path": "audio/lgc0-038.mp3"
+  },
+  {
+    "id": "lgc0-039",
+    "originalFile": "lgc0-039 square.mp3",
+    "matched": false,
+    "path": "audio/lgc0-039.mp3"
+  },
+  {
+    "id": "lgc0-040",
+    "originalFile": "lgc0-040 triangle.mp3",
+    "matched": true,
+    "path": "audio/lgc0-040.mp3"
+  },
+  {
+    "id": "lgc0-041",
+    "originalFile": "lgc0-041 heart.mp3",
+    "matched": false,
+    "path": "audio/lgc0-041.mp3"
+  },
+  {
+    "id": "lgc0-042",
+    "originalFile": "lgc0-042 star.mp3",
+    "matched": true,
+    "path": "audio/lgc0-042.mp3"
+  },
+  {
+    "id": "lgc0-043",
+    "originalFile": "lgc0-043 rectangle.mp3",
+    "matched": false,
+    "path": "audio/lgc0-043.mp3"
+  },
+  {
+    "id": "lgc0-044",
+    "originalFile": "lgc0-044 diamond.mp3",
+    "matched": false,
+    "path": "audio/lgc0-044.mp3"
+  },
+  {
+    "id": "lgc0-045",
+    "originalFile": "lgc0-045 oval.mp3",
+    "matched": false,
+    "path": "audio/lgc0-045.mp3"
+  },
+  {
+    "id": "lgc0-046",
+    "originalFile": "lgc0-046 egg.mp3",
+    "matched": false,
+    "path": "audio/lgc0-046.mp3"
+  },
+  {
+    "id": "lgc0-047",
+    "originalFile": "lgc0-047 elephant.mp3",
+    "matched": false,
+    "path": "audio/lgc0-047.mp3"
+  },
+  {
+    "id": "lgc0-049",
+    "originalFile": "lgc0-049 farm.mp3",
+    "matched": false,
+    "path": "audio/lgc0-049.mp3"
+  },
+  {
+    "id": "lgc0-051",
+    "originalFile": "lgc0-051 goat.mp3",
+    "matched": true,
+    "path": "audio/lgc0-051.mp3"
+  },
+  {
+    "id": "lgc0-053",
+    "originalFile": "lgc0-053 house.mp3",
+    "matched": false,
+    "path": "audio/lgc0-053.mp3"
+  },
+  {
+    "id": "lgc0-054",
+    "originalFile": "lgc0-054.mp3",
+    "matched": false,
+    "path": "audio/lgc0-054.mp3"
+  },
+  {
+    "id": "lgc0-056",
+    "originalFile": "lgc0-056 1.mp3",
+    "matched": false,
+    "path": "audio/lgc0-056.mp3"
+  },
+  {
+    "id": "lgc0-057",
+    "originalFile": "lgc0-057 2.mp3",
+    "matched": true,
+    "path": "audio/lgc0-057.mp3"
+  },
+  {
+    "id": "lgc0-058",
+    "originalFile": "lgc0-058 3.mp3",
+    "matched": true,
+    "path": "audio/lgc0-058.mp3"
+  },
+  {
+    "id": "lgc0-059",
+    "originalFile": "lgc0-059 4.mp3",
+    "matched": false,
+    "path": "audio/lgc0-059.mp3"
+  },
+  {
+    "id": "lgc0-060",
+    "originalFile": "lgc0-060 5.mp3",
+    "matched": true,
+    "path": "audio/lgc0-060.mp3"
+  },
+  {
+    "id": "lgc0-061",
+    "originalFile": "lgc0-061 6.mp3",
+    "matched": true,
+    "path": "audio/lgc0-061.mp3"
+  },
+  {
+    "id": "lgc0-062",
+    "originalFile": "lgc0-062 7.mp3",
+    "matched": true,
+    "path": "audio/lgc0-062.mp3"
+  },
+  {
+    "id": "lgc0-064",
+    "originalFile": "lgc0-064 9.mp3",
+    "matched": false,
+    "path": "audio/lgc0-064.mp3"
+  },
+  {
+    "id": "lgc0-065",
+    "originalFile": "lgc0-065 10.mp3",
+    "matched": false,
+    "path": "audio/lgc0-065.mp3"
+  },
+  {
+    "id": "lgc0-066",
+    "originalFile": "lgc0-066 igloo.mp3",
+    "matched": false,
+    "path": "audio/lgc0-066.mp3"
+  },
+  {
+    "id": "lgc0-067",
+    "originalFile": "lgc0-067 iguana.mp3",
+    "matched": false,
+    "path": "audio/lgc0-067.mp3"
+  },
+  {
+    "id": "lgc0-068",
+    "originalFile": "lgc0-068 jumprope.mp3",
+    "matched": true,
+    "path": "audio/lgc0-068.mp3"
+  },
+  {
+    "id": "lgc0-069",
+    "originalFile": "lgc0-069 jeans.mp3",
+    "matched": false,
+    "path": "audio/lgc0-069.mp3"
+  },
+  {
+    "id": "lgc0-070",
+    "originalFile": "lgc0-070 kangaroo.mp3",
+    "matched": false,
+    "path": "audio/lgc0-070.mp3"
+  },
+  {
+    "id": "lgc0-071",
+    "originalFile": "lgc0-071 kite.mp3",
+    "matched": false,
+    "path": "audio/lgc0-071.mp3"
+  },
+  {
+    "id": "lgc0-072",
+    "originalFile": "lgc0-072 lion.mp3",
+    "matched": false,
+    "path": "audio/lgc0-072.mp3"
+  },
+  {
+    "id": "lgc0-073",
+    "originalFile": "lgc0-073 ladybug.mp3",
+    "matched": false,
+    "path": "audio/lgc0-073.mp3"
+  },
+  {
+    "id": "lgc0-074",
+    "originalFile": "lgc0-074.mp3",
+    "matched": true,
+    "path": "audio/lgc0-074.mp3"
+  },
+  {
+    "id": "lgc0-076",
+    "originalFile": "lgc0-076.mp3",
+    "matched": true,
+    "path": "audio/lgc0-076.mp3"
+  },
+  {
+    "id": "lgc0-077",
+    "originalFile": "lgc0-077.mp3",
+    "matched": false,
+    "path": "audio/lgc0-077.mp3"
+  },
+  {
+    "id": "lgc0-078",
+    "originalFile": "lgc0-078.mp3",
+    "matched": false,
+    "path": "audio/lgc0-078.mp3"
+  },
+  {
+    "id": "lgc0-079",
+    "originalFile": "lgc0-079.mp3",
+    "matched": false,
+    "path": "audio/lgc0-079.mp3"
+  },
+  {
+    "id": "lgc0-080",
+    "originalFile": "lgc0-080 dog.mp3",
+    "matched": false,
+    "path": "audio/lgc0-080.mp3"
+  },
+  {
+    "id": "lgc0-082",
+    "originalFile": "lgc0-082 cat.mp3",
+    "matched": false,
+    "path": "audio/lgc0-082.mp3"
+  },
+  {
+    "id": "lgc0-083",
+    "originalFile": "lgc0-083 cats.mp3",
+    "matched": true,
+    "path": "audio/lgc0-083.mp3"
+  },
+  {
+    "id": "lgc0-084",
+    "originalFile": "lgc0-084 bird.mp3",
+    "matched": true,
+    "path": "audio/lgc0-084.mp3"
+  },
+  {
+    "id": "lgc0-085",
+    "originalFile": "lgc0-085 birds.mp3",
+    "matched": true,
+    "path": "audio/lgc0-085.mp3"
+  },
+  {
+    "id": "lgc0-086",
+    "originalFile": "lgc0-086 cow.mp3",
+    "matched": true,
+    "path": "audio/lgc0-086.mp3"
+  },
+  {
+    "id": "lgc0-088",
+    "originalFile": "lgc0-088 rabbit.mp3",
+    "matched": true,
+    "path": "audio/lgc0-088.mp3"
+  },
+  {
+    "id": "lgc0-089",
+    "originalFile": "lgc0-089 rabbits.mp3",
+    "matched": false,
+    "path": "audio/lgc0-089.mp3"
+  },
+  {
+    "id": "lgc0-090",
+    "originalFile": "lgc0-090 duck.mp3",
+    "matched": true,
+    "path": "audio/lgc0-090.mp3"
+  },
+  {
+    "id": "lgc0-091",
+    "originalFile": "lgc0-091 ducks.mp3",
+    "matched": false,
+    "path": "audio/lgc0-091.mp3"
+  },
+  {
+    "id": "lgc0-092",
+    "originalFile": "lgc0-092 moon.mp3",
+    "matched": true,
+    "path": "audio/lgc0-092.mp3"
+  },
+  {
+    "id": "lgc0-093",
+    "originalFile": "lgc0-093 monkey.mp3",
+    "matched": false,
+    "path": "audio/lgc0-093.mp3"
+  },
+  {
+    "id": "lgc0-095",
+    "originalFile": "lgc0-095 net.mp3",
+    "matched": false,
+    "path": "audio/lgc0-095.mp3"
+  },
+  {
+    "id": "lgc0-096",
+    "originalFile": "lgc0-096 octopus.mp3",
+    "matched": true,
+    "path": "audio/lgc0-096.mp3"
+  },
+  {
+    "id": "lgc0-097",
+    "originalFile": "lgc0-097 ostrich.mp3",
+    "matched": false,
+    "path": "audio/lgc0-097.mp3"
+  },
+  {
+    "id": "lgc0-098",
+    "originalFile": "lgc0-098 panda.mp3",
+    "matched": false,
+    "path": "audio/lgc0-098.mp3"
+  },
+  {
+    "id": "lgc0-099",
+    "originalFile": "lgc0-099 popcorn.mp3",
+    "matched": false,
+    "path": "audio/lgc0-099.mp3"
+  },
+  {
+    "id": "lgc0-101",
+    "originalFile": "lgc0-101.mp3",
+    "matched": false,
+    "path": "audio/lgc0-101.mp3"
+  },
+  {
+    "id": "lgc0-102",
+    "originalFile": "lgc0-102 ice_cream.mp3",
+    "matched": true,
+    "path": "audio/lgc0-102.mp3"
+  },
+  {
+    "id": "lgc0-103",
+    "originalFile": "lgc0-103 pizza.mp3",
+    "matched": false,
+    "path": "audio/lgc0-103.mp3"
+  },
+  {
+    "id": "lgc0-104",
+    "originalFile": "lgc0-104 cake.mp3",
+    "matched": true,
+    "path": "audio/lgc0-104.mp3"
+  },
+  {
+    "id": "lgc0-105",
+    "originalFile": "lgc0-105 chicken.mp3",
+    "matched": true,
+    "path": "audio/lgc0-105.mp3"
+  },
+  {
+    "id": "lgc0-106",
+    "originalFile": "lgc0-106 milk.mp3",
+    "matched": false,
+    "path": "audio/lgc0-106.mp3"
+  },
+  {
+    "id": "lgc0-107",
+    "originalFile": "lgc0-107 fish.mp3",
+    "matched": false,
+    "path": "audio/lgc0-107.mp3"
+  },
+  {
+    "id": "lgc0-108",
+    "originalFile": "lgc0-108 bread.mp3",
+    "matched": false,
+    "path": "audio/lgc0-108.mp3"
+  },
+  {
+    "id": "lgc0-109",
+    "originalFile": "lgc0-109 rice.mp3",
+    "matched": false,
+    "path": "audio/lgc0-109.mp3"
+  },
+  {
+    "id": "lgc0-110",
+    "originalFile": "lgc0-110 queen.mp3",
+    "matched": false,
+    "path": "audio/lgc0-110.mp3"
+  },
+  {
+    "id": "lgc0-111",
+    "originalFile": "lgc0-111 quilt.mp3",
+    "matched": true,
+    "path": "audio/lgc0-111.mp3"
+  },
+  {
+    "id": "lgc0-112",
+    "originalFile": "lgc0-112 rabbit.mp3",
+    "matched": false,
+    "path": "audio/lgc0-112.mp3"
+  },
+  {
+    "id": "lgc0-113",
+    "originalFile": "lgc0-113 rock.mp3",
+    "matched": true,
+    "path": "audio/lgc0-113.mp3"
+  },
+  {
+    "id": "lgc0-114",
+    "originalFile": "lgc0-114 sun.mp3",
+    "matched": false,
+    "path": "audio/lgc0-114.mp3"
+  },
+  {
+    "id": "lgc0-115",
+    "originalFile": "lgc0-115 sandwich.mp3",
+    "matched": false,
+    "path": "audio/lgc0-115.mp3"
+  },
+  {
+    "id": "lgc0-116",
+    "originalFile": "lgc0-116 tiger.mp3",
+    "matched": true,
+    "path": "audio/lgc0-116.mp3"
+  },
+  {
+    "id": "lgc0-117",
+    "originalFile": "lgc0-117 teapot.mp3",
+    "matched": true,
+    "path": "audio/lgc0-117.mp3"
+  },
+  {
+    "id": "lgc0-119",
+    "originalFile": "lgc0-119.mp3",
+    "matched": false,
+    "path": "audio/lgc0-119.mp3"
+  },
+  {
+    "id": "lgc0-120",
+    "originalFile": "lgc0-120.mp3",
+    "matched": false,
+    "path": "audio/lgc0-120.mp3"
+  },
+  {
+    "id": "lgc0-121",
+    "originalFile": "lgc0-121.mp3",
+    "matched": false,
+    "path": "audio/lgc0-121.mp3"
+  },
+  {
+    "id": "lgc0-122",
+    "originalFile": "lgc0-122.mp3",
+    "matched": false,
+    "path": "audio/lgc0-122.mp3"
+  },
+  {
+    "id": "lgc0-123",
+    "originalFile": "lgc0-123.mp3",
+    "matched": false,
+    "path": "audio/lgc0-123.mp3"
+  },
+  {
+    "id": "lgc0-124",
+    "originalFile": "lgc0-124.mp3",
+    "matched": false,
+    "path": "audio/lgc0-124.mp3"
+  },
+  {
+    "id": "lgc0-125",
+    "originalFile": "lgc0-125 head.mp3",
+    "matched": true,
+    "path": "audio/lgc0-125.mp3"
+  },
+  {
+    "id": "lgc0-126",
+    "originalFile": "lgc0-126 shoulders.mp3",
+    "matched": true,
+    "path": "audio/lgc0-126.mp3"
+  },
+  {
+    "id": "lgc0-127",
+    "originalFile": "lgc0-127 knees.mp3",
+    "matched": true,
+    "path": "audio/lgc0-127.mp3"
+  },
+  {
+    "id": "lgc0-128",
+    "originalFile": "lgc0-128 toes.mp3",
+    "matched": false,
+    "path": "audio/lgc0-128.mp3"
+  },
+  {
+    "id": "lgc0-129",
+    "originalFile": "lgc0-129 eyes.mp3",
+    "matched": false,
+    "path": "audio/lgc0-129.mp3"
+  },
+  {
+    "id": "lgc0-130",
+    "originalFile": "lgc0-130 ears.mp3",
+    "matched": true,
+    "path": "audio/lgc0-130.mp3"
+  },
+  {
+    "id": "lgc0-131",
+    "originalFile": "lgc0-131 mouth.mp3",
+    "matched": false,
+    "path": "audio/lgc0-131.mp3"
+  },
+  {
+    "id": "lgc0-132",
+    "originalFile": "lgc0-132 nose.mp3",
+    "matched": true,
+    "path": "audio/lgc0-132.mp3"
+  },
+  {
+    "id": "lgc0-133",
+    "originalFile": "lgc0-133 umbrella.mp3",
+    "matched": true,
+    "path": "audio/lgc0-133.mp3"
+  },
+  {
+    "id": "lgc0-134",
+    "originalFile": "lgc0-134 up.mp3",
+    "matched": false,
+    "path": "audio/lgc0-134.mp3"
+  },
+  {
+    "id": "lgc0-136",
+    "originalFile": "lgc0-136 vest.mp3",
+    "matched": false,
+    "path": "audio/lgc0-136.mp3"
+  },
+  {
+    "id": "lgc0-137",
+    "originalFile": "lgc0-137 watch.mp3",
+    "matched": false,
+    "path": "audio/lgc0-137.mp3"
+  },
+  {
+    "id": "lgc0-138",
+    "originalFile": "lgc0-138 water.mp3",
+    "matched": true,
+    "path": "audio/lgc0-138.mp3"
+  },
+  {
+    "id": "lgc0-139",
+    "originalFile": "lgc0-139.mp3",
+    "matched": true,
+    "path": "audio/lgc0-139.mp3"
+  },
+  {
+    "id": "lgc0-140",
+    "originalFile": "lgc0-140.mp3",
+    "matched": false,
+    "path": "audio/lgc0-140.mp3"
+  },
+  {
+    "id": "lgc0-141",
+    "originalFile": "lgc0-141 ride_a_bicycle.mp3",
+    "matched": false,
+    "path": "audio/lgc0-141.mp3"
+  },
+  {
+    "id": "lgc0-142",
+    "originalFile": "lgc0-142 sing_a_song.mp3",
+    "matched": false,
+    "path": "audio/lgc0-142.mp3"
+  },
+  {
+    "id": "lgc0-144",
+    "originalFile": "lgc0-144 bounce_a_ball.mp3",
+    "matched": true,
+    "path": "audio/lgc0-144.mp3"
+  },
+  {
+    "id": "lgc0-146",
+    "originalFile": "lgc0-146 smile.mp3",
+    "matched": true,
+    "path": "audio/lgc0-146.mp3"
+  },
+  {
+    "id": "lgc0-147",
+    "originalFile": "lgc0-147 wink.mp3",
+    "matched": true,
+    "path": "audio/lgc0-147.mp3"
+  },
+  {
+    "id": "lgc0-148",
+    "originalFile": "lgc0-148 dance.mp3",
+    "matched": false,
+    "path": "audio/lgc0-148.mp3"
+  },
+  {
+    "id": "lgc0-149",
+    "originalFile": "lgc0-149 fox.mp3",
+    "matched": false,
+    "path": "audio/lgc0-149.mp3"
+  },
+  {
+    "id": "lgc0-150",
+    "originalFile": "lgc0-150 box.mp3",
+    "matched": false,
+    "path": "audio/lgc0-150.mp3"
+  },
+  {
+    "id": "lgc0-152",
+    "originalFile": "lgc0-152 yak.mp3",
+    "matched": false,
+    "path": "audio/lgc0-152.mp3"
+  },
+  {
+    "id": "lgc0-153",
+    "originalFile": "lgc0-153 zebra.mp3",
+    "matched": false,
+    "path": "audio/lgc0-153.mp3"
+  },
+  {
+    "id": "lgc0-154",
+    "originalFile": "lgc0-154 zero.mp3",
+    "matched": false,
+    "path": "audio/lgc0-154.mp3"
+  }
+]
