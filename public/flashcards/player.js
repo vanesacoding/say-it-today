@@ -3,7 +3,7 @@
   const data=window.JIGU_FLASHCARDS,cards=data.cards,key='jigu-oxford-flashcards-v1';
   const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   let saved={seen:{},again:{},cursors:{}},group='all',level='all',revisit=false,session=null,player=null,token=0,timer=null,watchdog=null,playing=false,callbacks;
-  let speed=2500,autoSound=true,loop=false;
+  let speed=2500,autoSound=true,loop=false,autoPlayer=null;
   try{const s=JSON.parse(localStorage.getItem(key));if(s&&typeof s==='object')for(const f of ['seen','again','cursors'])if(s[f]&&typeof s[f]==='object'&&!Array.isArray(s[f]))saved[f]=s[f];}catch(_){}
   const persist=()=>{try{localStorage.setItem(key,JSON.stringify(saved));}catch(_){}};
   const byId=id=>cards.find(c=>c.id===id);
@@ -21,7 +21,7 @@
   }
   function prepare(){if(!current())return;session.revealed=session.mode==='auto';session.wrong=[];session.feedback='';session.error='';const c=current();const candidates=cards.filter(o=>o.audio&&o.category===c.category&&o.id!==c.id&&o.label.toLowerCase()!==c.label.toLowerCase());const fallback=audioPool().filter(o=>o.id!==c.id&&o.label.toLowerCase()!==c.label.toLowerCase()&&!candidates.some(p=>p.id===o.id));session.options=shuffle([c,...shuffle(candidates).concat(shuffle(fallback)).slice(0,2)]).map(o=>o.id);}
   function start(mode){stop();const items=mode==='listen'?audioPool():pool();if(!items.length||mode==='listen'&&items.length<3)return;const cursorKey=`theme:${group}:${level}:${revisit?'again':'all'}:${mode}`;session={mode,index:0,ids:items.map(c=>c.id),revealed:false,running:false,wrong:[],options:[],error:'',cursorKey};prepare();callbacks.open();if(mode==='listen')play();if(mode==='auto'){session.running=true;refresh();automatic();}}
-  function play(after){const c=current();if(!c?.audio){after?.();return;}cancelPlayback();const own=token,a=new Audio(c.audio);player=a;playing=true;session.error='';
+  function play(after){const c=current();if(!c?.audio){after?.();return;}cancelPlayback();const own=token,a=session.mode==='auto'?(autoPlayer||(autoPlayer=new Audio())):new Audio(c.audio);if(session.mode==='auto')a.src=c.audio;player=a;playing=true;session.error='';
     const fail=()=>{if(own!==token)return;cancelPlayback();session.running=false;session.error='原声暂时没加载好，点“重试原声”继续，或关闭原声后快闪。';refresh();};
     a.onended=()=>{if(own!==token)return;clearTimeout(watchdog);playing=false;player=null;refresh();after?.();};a.onerror=fail;watchdog=setTimeout(fail,20000);refresh();try{a.play()?.catch(fail);}catch(_){fail();}
   }

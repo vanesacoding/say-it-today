@@ -28,7 +28,7 @@ h.click('[data-group="animals"]');h.click('[data-mode="browse"]');assert(h.html(
 for(let i=0;i<6;i++){h.click('[data-action="flash-flip"]');assert(h.selector('.flashAnswer'));h.click('[data-action="flash-mark"][data-known="yes"]');}
 assert(h.html().includes(`7 / ${count}`),'full themes continue beyond five cards');h.click('[data-action="flash-prev"]');assert(h.html().includes(`6 / ${count}`));h.click('[data-action="flash-exit"]');
 h.click('[data-mode="auto"]');assert(h.html().includes('暂停快闪'));assert(h.audios.length);const first=h.selector('.flashAutoArt img').src;
-h.audios.at(-1).onended();h.tick(2500);assert.notEqual(h.selector('.flashAutoArt img').src,first);
+const unlockedAudio=h.audios.at(-1);h.audios.at(-1).onended();h.tick(2500);assert.notEqual(h.selector('.flashAutoArt img').src,first);assert.equal(h.audios.at(-1),unlockedAudio,'autoplay reuses the audio element unlocked by the initial user gesture');
 const stale=h.audios.at(-1).onended;h.click('[data-action="flash-auto-toggle"]');const paused=h.selector('.flashAutoArt img').src;stale();h.tick(30000);assert.equal(h.selector('.flashAutoArt img').src,paused,'paused autoplay ignores stale audio and timers');
 h.click('[data-action="flash-auto-toggle"]');h.audios.at(-1).onerror();assert(h.html().includes('重试原声'));assert(h.html().includes('继续快闪'));h.click('[data-action="flash-retry"]');assert(h.html().includes('暂停快闪'));
 h.click('[data-action="flash-sound"]');h.api.handle('flash-speed',{value:'1500'});const before=h.selector('.flashAutoArt img').src;h.tick(1500);assert.notEqual(h.selector('.flashAutoArt img').src,before);
