@@ -10,9 +10,9 @@
     "content:check": "node scripts/check-content-bank.mjs",
     "preview": "vite preview",
     "check": "node scripts/check-content-bank.mjs && node --import tsx scripts/check-srs.ts && node --import tsx scripts/check-db.ts && node --import tsx scripts/check-ui.ts && npm run reading:check && npm run flashcards:check",
-    "reading:check": "python3 scripts/fetch-reading-library.py",
-    "flashcards:check": "python3 scripts/prepare-oxford-flashcards.py && node scripts/check-flashcards.cjs",
-    "prebuild": "python3 scripts/prepare-oxford-flashcards.py"
+    "reading:check": "python scripts/fetch-reading-library.py",
+    "flashcards:check": "python scripts/prepare-oxford-flashcards.py && python scripts/check-learning-media.py && node scripts/check-flashcards.cjs",
+    "prebuild": "python scripts/prepare-oxford-flashcards.py"
   },
   "dependencies": {
     "@phosphor-icons/react": "^2.1.10",

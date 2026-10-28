@@ -1,0 +1,50 @@
+(() => {
+  'use strict';
+  const books=window.JIGU_PHONICS.books,key='jigu-oxford-phonics-v1';
+  const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  let records={},level='all',query='',id=null,index=0,player=null,playing=false,token=0,error='',callbacks,completed=false,lastSaved=0;
+  try{const s=JSON.parse(localStorage.getItem(key));if(s&&typeof s==='object'&&!Array.isArray(s))records=s;}catch(_){}
+  const save=()=>{try{localStorage.setItem(key,JSON.stringify(records));}catch(_){}};
+  const current=()=>books.find(b=>b.id===id);
+  const record=()=>records[id]||(records[id]={page:0,audioPosition:0,finished:false});
+  const clock=n=>{const s=Math.floor(Number(n)||0);return `${Math.floor(s/60)}:${String(s%60).padStart(2,'0')}`;};
+  function stop(){token++;if(player){if(current()&&Number.isFinite(player.currentTime)&&player.currentTime>0)record().audioPosition=player.currentTime;player.onended=player.onerror=player.ontimeupdate=player.onloadedmetadata=null;player.pause();player=null;save();}playing=false;}
+  function refresh(){callbacks?.render();}
+  function library(){const filtered=books.filter(b=>(level==='all'||b.level===level)&&(!query||b.title.toLowerCase().includes(query.toLowerCase())));const recent=books.filter(b=>records[b.id]?.lastReadAt).sort((a,b)=>records[b.id].lastReadAt-records[a.id].lastReadAt)[0];
+    return `<section class="phonicsLibrary" aria-label="牛津树自然拼读"><div class="phonicsIntro"><span class="guideKicker">SOUND · BLEND · READ</span><h2>从发音，走进故事</h2><p>66本自然拼读绘本，从 Level 1+ 到 Level 6。先听原声，再指着画面试着读。</p></div><div class="phonicsLevels" role="group" aria-label="自然拼读级别">${[{id:'all',label:'全部'},...Array.from({length:6},(_,i)=>({id:String(i+1),label:i===0?'Level 1+':`Level ${i+1}`}))].map(l=>`<button class="${level===l.id?'selected':''}" data-action="phonics-level" data-level="${l.id}" aria-pressed="${level===l.id}">${l.label}<small>${books.filter(b=>l.id==='all'||b.level===l.id).length}本</small></button>`).join('')}</div>${recent?`<button class="phonicsContinue" data-action="phonics-open" data-id="${recent.id}"><span>接着读 · ${esc(recent.title)}<small>${recent.levelLabel} · 上次读到第${Math.min(recent.pages.length,(records[recent.id].page||0)+1)}页</small></span><span>→</span></button>`:''}<form class="phonicsSearch" role="search" aria-label="查找自然拼读绘本"><label class="srOnly" for="phonics-search">搜索自然拼读书名</label><input id="phonics-search" data-phonics-search type="search" placeholder="搜索英文书名" value="${esc(query)}" autocomplete="off"></form><p class="phonicsCount" role="status">${filtered.length}本 · 每本都有配套原声</p><div class="phonicsGrid">${filtered.map(b=>`<button class="phonicsBook" data-action="phonics-open" data-id="${b.id}"><span class="phonicsCover"><img src="${b.cover}" alt="${esc(b.title)}封面" loading="lazy" width="${b.pages[0].width}" height="${b.pages[0].height}">${records[b.id]?.finished?'<span class="phonicsReadBadge">读过啦</span>':''}</span><small>${b.levelLabel}</small><strong lang="en">${esc(b.title)}</strong><span>${b.pages.length}页 · 原声${clock(b.duration)}</span></button>`).join('')}</div>${!filtered.length?'<p class="phonicsEmpty">暂时没有找到，换个书名或级别试试。</p>':''}<p class="phonicsNote">按原书级别选择，不等同于年龄。整本原声可暂停、拖动进度；翻页由你掌握，边听边看。</p></section>`;
+  }
+  function open(bookid){if(!books.some(b=>b.id===bookid))return;stop();id=bookid;index=Math.max(0,Math.min(current().pages.length-1,Number(record().page)||0));completed=false;error='';record().lastReadAt=Date.now();save();callbacks.open();}
+  function toggle(){const b=current();if(!b)return;if(playing){stop();refresh();return;}stop();const own=token,a=new Audio(b.audio);player=a;playing=true;error='';let position=Number(record().audioPosition)||0;if(position>=b.duration-.5)position=0;
+    a.onloadedmetadata=()=>{if(own!==token)return;try{a.currentTime=position;}catch(_){};};
+    a.ontimeupdate=()=>{if(own!==token)return;record().audioPosition=a.currentTime;const slider=document.querySelector('[data-phonics-seek]'),label=document.querySelector('[data-phonics-time]');if(slider)slider.value=String(a.currentTime);if(label)label.textContent=`${clock(a.currentTime)} / ${clock(b.duration)}`;if(Date.now()-lastSaved>3000){save();lastSaved=Date.now();}};
+    a.onended=()=>{if(own!==token)return;record().audioPosition=b.duration;playing=false;player=null;save();refresh();};
+    const fail=()=>{if(own!==token)return;stop();error='原声暂时没加载好，点“播放整本原声”重试。';refresh();};a.onerror=fail;refresh();try{a.play()?.catch(fail);}catch(_){fail();}
+  }
+  function turn(delta){const b=current();if(!b)return;if(index+delta>=b.pages.length){record().finished=true;save();completed=true;stop();refresh();window.scrollTo?.(0,0);return;}index=Math.max(0,index+delta);record().page=index;record().lastReadAt=Date.now();save();refresh();window.scrollTo?.(0,0);const next=b.pages[index+1];if(next){const im=new Image();im.src=next.image;}}
+  function view(){const b=current();if(!b)return library();
+    if(completed)return `<main class="page"><header class="simpleHead"><button class="textBtn" data-action="phonics-exit">‹ 返回自然拼读</button><span class="tiny">${b.levelLabel}</span></header><section class="phonicsDone"><span>✓</span><h1>读完这本啦</h1><p lang="en">${esc(b.title)}</p><p>选一个喜欢的词，离开屏幕也可以读一读。</p><button class="primary" data-action="phonics-restart">再读一遍</button><button class="mutedLink" data-action="phonics-exit">回到书架</button></section></main>`;
+    const p=b.pages[index],position=Number(record().audioPosition)||0;return `<main class="page phonicsReader"><header class="phonicsHeader"><button class="iconBtn" data-action="phonics-exit" aria-label="返回自然拼读">‹</button><div><strong lang="en">${esc(b.title)}</strong><small>${b.levelLabel} · ${index+1} / ${b.pages.length}页</small></div><button class="textBtn" data-action="phonics-pages">目录</button></header><div class="phonicsArt"><img src="${p.image}" width="${p.width}" height="${p.height}" alt="${esc(b.title)}第${index+1}页完整原图"><div class="phonicsImageIssue"><p>这一页暂时没加载好</p><button class="secondary" data-action="phonics-retry-image">重新加载图片</button></div></div><p class="phonicsReadingTip">整本原声 · 听到哪，手动翻到哪</p><p class="phonicsError" role="status">${esc(error)}</p><div class="phonicsDock"><div class="phonicsAudio"><button class="secondary" data-action="phonics-audio" aria-label="${playing?'暂停整本原声':'播放整本原声'}">${playing?'Ⅱ 暂停原声':'▶ 播放整本原声'}</button><span data-phonics-time>${clock(position)} / ${clock(b.duration)}</span></div><label class="srOnly" for="phonics-seek">整本原声进度</label><input id="phonics-seek" data-phonics-seek type="range" min="0" max="${b.duration}" step=".1" value="${position}" aria-label="整本原声进度"><div class="phonicsPageControls"><button class="secondary" data-action="phonics-prev" ${index===0?'disabled':''}>‹ 上一页</button><span>${index+1} / ${b.pages.length}</span><button class="primary" data-action="phonics-next">${index===b.pages.length-1?'读完这本 ✓':'下一页 ›'}</button></div></div></main>`;
+  }
+  function handle(action,d={}){if(!action?.startsWith('phonics-'))return false;
+    if(action==='phonics-open')open(d.id);
+    else if(action==='phonics-level'){level=['all','1','2','3','4','5','6'].includes(d.level)?d.level:'all';refresh();}
+    else if(action==='phonics-exit'){stop();id=null;callbacks.close();}
+    else if(action==='phonics-audio')toggle();
+    else if(action==='phonics-next')turn(1);
+    else if(action==='phonics-prev')turn(-1);
+    else if(action==='phonics-restart'){completed=false;index=0;record().page=0;record().audioPosition=0;save();refresh();}
+    else if(action==='phonics-pages'){stop();const b=current();callbacks.showPages?.(b,index);}
+    else if(action==='phonics-page'&&current()){const n=Number(d.page);if(Number.isInteger(n)&&n>=0&&n<current().pages.length){index=n;record().page=n;save();callbacks.closePages?.();refresh();window.scrollTo?.(0,0);}}
+    else if(action==='phonics-retry-image'){const img=document.querySelector('.phonicsArt img');if(img){img.parentElement.classList.remove('failed');img.src=current().pages[index].image+'?retry='+Date.now();}}
+    return true;
+  }
+  document.addEventListener('submit',e=>{if(e.target.matches('.phonicsSearch')){e.preventDefault();e.target.querySelector('input').blur();}});
+  document.addEventListener('input',e=>{if(e.target.matches('[data-phonics-search]')){const input=e.target,start=input.selectionStart;query=input.value;refresh();const replacement=document.querySelector('[data-phonics-search]');replacement?.focus({preventScroll:true});try{replacement?.setSelectionRange(start,start);}catch(_){}}if(e.target.matches('[data-phonics-seek]')&&current()){const value=Math.max(0,Math.min(current().duration,Number(e.target.value)));record().audioPosition=value;if(player)try{player.currentTime=value;}catch(_){}save();const label=document.querySelector('[data-phonics-time]');if(label)label.textContent=`${clock(value)} / ${clock(current().duration)}`;}});
+  document.addEventListener('error',e=>{if(e.target.matches?.('.phonicsArt img'))e.target.parentElement.classList.add('failed');},true);
+  document.addEventListener('load',e=>{if(e.target.matches?.('.phonicsArt img'))e.target.parentElement.classList.remove('failed');},true);
+  let touch=null;
+  document.addEventListener('touchstart',e=>{if(e.target.closest?.('.phonicsArt'))touch={x:e.touches[0].clientX,y:e.touches[0].clientY};else touch=null;},{passive:true});
+  document.addEventListener('touchend',e=>{if(!touch||!current())return;const dx=e.changedTouches[0].clientX-touch.x,dy=e.changedTouches[0].clientY-touch.y;touch=null;if(Math.abs(dx)>60&&Math.abs(dx)>Math.abs(dy)*1.5)turn(dx<0?1:-1);},{passive:true});
+  document.addEventListener('keydown',e=>{if(!document.querySelector('.phonicsReader')||e.target.closest('input,select,textarea,button'))return;if(e.key==='ArrowRight'){e.preventDefault();turn(1);}if(e.key==='ArrowLeft'){e.preventDefault();turn(-1);}if(e.key==='Escape')handle('phonics-exit');});
+  window.JiguPhonics={init(c){callbacks=c;},library,view,handle,stop,count:books.length};
+})();

@@ -26,10 +26,10 @@ export default defineConfig({
       workbox: {
         navigateFallback: 'index.html',
         globPatterns: ['**/*.{js,css,html,svg,png,jpg,webp,woff2,mp3}'],
-        globIgnores: ['images/**/*', 'design-demos/**/*', 'books/library/**/*', 'flashcards/oxford/images/**/*', 'flashcards/oxford/audio/**/*'],
+        globIgnores: ['images/**/*', 'design-demos/**/*', 'books/library/**/*', 'flashcards/oxford/images/**/*', 'flashcards/oxford/audio/**/*', 'flashcards/supplement/**/*', 'phonics/media/**/*'],
         maximumFileSizeToCacheInBytes: 3 * 1024 * 1024,
         runtimeCaching: [{
-          urlPattern: /\/(?:books\/library|flashcards\/oxford\/(?:images|audio))\/.*\.(jpg|png|webp|mp3)$/,
+          urlPattern: /\/(?:books\/library|flashcards\/oxford\/(?:images|audio)|flashcards\/supplement|phonics\/media)\/.*\.(jpg|png|webp|mp3)$/,
           handler: 'CacheFirst',
           options: {cacheName: 'jigu-book-media-v2', expiration: {maxEntries: 450, maxAgeSeconds: 365 * 24 * 60 * 60}, rangeRequests: true}
         }]
