@@ -37,6 +37,15 @@ h.api.stop();h.tick(20000);assert(h.html().includes('暂停快闪')||h.html().in
 h.click('[data-mode="listen"]');assert.equal(h.w.document.querySelectorAll('.flashOption').length,3);const target=h.audios.at(-1).src.match(/(lgc\d-\d+)\.mp3/)[1];h.click(`[data-card-id="${target}"]`);assert(h.selector('.flashOption.correct'));h.click('[data-action="flash-mark"][data-known="no"]');h.click('[data-action="flash-exit"]');
 const state=h.w.localStorage.getItem('jigu-oxford-flashcards-v1');h.dom.window.close();const restored=moduleHarness('public/flashcards/player.js','public/flashcards/oxford/catalog.js',{'jigu-oxford-flashcards-v1':state});assert(restored.html().includes('已玩'));assert(restored.html().includes('再认认 · 1'));restored.dom.window.close();
 
+const listening=moduleHarness('public/flashcards/player.js','public/flashcards/oxford/catalog.js');listening.click('[data-group="animals"]');listening.click('[data-mode="listen"]');
+const answerKey=c=>c.label.toLowerCase().replace(/^(?:a|an|the)\s+/,'').replace(/[.!?]/g,'').trim();
+while(listening.selector('.flashOption')){
+ const targetId=listening.audios.at(-1).src.match(/(lgc\d-\d+)\.mp3/)[1],target=flash.cards.find(c=>c.id===targetId);
+ const options=[...listening.w.document.querySelectorAll('.flashOption')].map(e=>flash.cards.find(c=>c.id===e.dataset.cardId));
+ assert.equal(options.filter(c=>answerKey(c)===answerKey(target)).length,1,'same object with a different article must not become a second correct picture');
+ listening.click('[data-action="flash-reveal"]');listening.click('[data-action="flash-mark"][data-known="yes"]');
+}
+listening.dom.window.close();
 const p=moduleHarness('public/phonics/player.js','public/phonics/catalog.js');p.click('[data-level="6"]');assert.equal(p.w.document.querySelectorAll('.phonicsBook').length,6);p.click('.phonicsBook');assert(p.selector('.phonicsArt img'));p.click('[data-action="phonics-next"]');assert(p.html().includes('2 / '));p.click('[data-action="phonics-audio"]');const a=p.audios.at(-1);a.onloadedmetadata();a.currentTime=12;a.ontimeupdate();p.click('[data-action="phonics-audio"]');assert(a.paused);const old=a.onended;p.click('[data-action="phonics-exit"]');if(old)old();p.click('.phonicsContinue');assert(p.html().includes('2 / '));p.click('[data-action="phonics-audio"]');p.audios.at(-1).onloadedmetadata();assert.equal(p.audios.at(-1).currentTime,12);p.audios.at(-1).onerror();assert(p.html().includes('重试'));p.click('[data-action="phonics-exit"]');p.dom.window.close();
 
 const errors=[],vc=new VirtualConsole();vc.on('jsdomError',e=>{if(!e.message.includes('Not implemented'))errors.push(e.message);});
