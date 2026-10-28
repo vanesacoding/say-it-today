@@ -11,7 +11,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "everyday"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 939,
     "sourceCoverHeight": 796,
     "source": {
@@ -51,7 +51,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          7.866,
+          10.759
+        ],
+        "audioDurationSeconds": 2.926,
+        "audioSha256": "3ecf60cb61d7743844081979d7d3671b45330cc03cb7974de79545cf14d675e0"
       },
       {
         "en": "I can see the bananas.",
@@ -63,7 +76,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          15.777,
+          18.247
+        ],
+        "audioDurationSeconds": 2.508,
+        "audioSha256": "77e22bfe210dc47a08cc7964c8be555c032074a76e0c059f28411a48c664651d"
       },
       {
         "en": "I can see the eggs.",
@@ -75,7 +101,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          21.434,
+          24.121
+        ],
+        "audioDurationSeconds": 2.717,
+        "audioSha256": "0525570e53a77014249008c0a0e293a11973d69afcf0b8424d262d81dfe909ec"
       },
       {
         "en": "I can see the cheese.",
@@ -87,7 +126,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          27.546,
+          30.327
+        ],
+        "audioDurationSeconds": 2.821,
+        "audioSha256": "3ea3fe6179a94b7a513fbe51f936fbbfaa663f856ab584abcacc6acd8a47af2f"
       },
       {
         "en": "I can see the milk.",
@@ -99,7 +151,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          34.145,
+          36.418
+        ],
+        "audioDurationSeconds": 2.325,
+        "audioSha256": "d1bbafef1d7979bc498afb7e5a83f7762149030438cd57b5fdd05c44edf81221"
       },
       {
         "en": "I can see the bread.",
@@ -111,7 +176,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          39.978,
+          42.338
+        ],
+        "audioDurationSeconds": 2.403,
+        "audioSha256": "287f6c496e94e5b3c6e5fba4415d1939a2d069273cd02ab75380547589d540f6"
       },
       {
         "en": "I can see the meat.",
@@ -123,7 +201,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          45.935,
+          48.29
+        ],
+        "audioDurationSeconds": 2.403,
+        "audioSha256": "2d76e4a085a4ff13dc115d7cfcdb3d9db92fa144603fc8e7a8bea58635277bc7"
       },
       {
         "en": "I can see the market.",
@@ -135,7 +226,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 940,
         "imageHeight": 796,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          0.68
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          51.354,
+          54.018
+        ],
+        "audioDurationSeconds": 2.691,
+        "audioSha256": "ee210ca932df3bcd00f799ded1361262541e651006d49602774d5d25ac6a0c9e"
       }
     ],
     "keywords": [
@@ -257,7 +361,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "discovery"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 939,
     "sourceCoverHeight": 796,
     "source": {
@@ -298,7 +402,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          3.207,
+          8.578
+        ],
+        "audioDurationSeconds": 5.407,
+        "audioSha256": "2ee092469c04758206f683b0145215aa5edaef2a779f2eb561224bccb1f61867"
       },
       {
         "en": "I like to run.",
@@ -310,7 +427,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          11.066,
+          13.058
+        ],
+        "audioDurationSeconds": 2.038,
+        "audioSha256": "8296a6e2451c42bb214e34d8c9fa0a776b011b1ac4b8b14f86e4d1779ddf2202"
       },
       {
         "en": "I like to climb.",
@@ -322,7 +452,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          15.898,
+          17.922
+        ],
+        "audioDurationSeconds": 2.064,
+        "audioSha256": "43ed6daf62f2b8ec882ad2b85531e86dfa2712aa745aa592905eb3a07f865ef5"
       },
       {
         "en": "I like to hang.",
@@ -334,7 +477,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          20.826,
+          22.882
+        ],
+        "audioDurationSeconds": 2.09,
+        "audioSha256": "5a82d523d9ef30a43c31a58199933e4d37bdb544f618500f3b04e793092f2d90"
       },
       {
         "en": "I like to jump.",
@@ -346,7 +502,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          25.754,
+          27.65
+        ],
+        "audioDurationSeconds": 1.933,
+        "audioSha256": "d3aca6d4d46628791878daefccf314321047414015e60ba2042a5b2d768baf97"
       },
       {
         "en": "I like to slide.",
@@ -358,7 +527,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          30.458,
+          32.418
+        ],
+        "audioDurationSeconds": 2.011,
+        "audioSha256": "ef0237763e2bdf679ec8bbd0ebac1d2e69f897825d7a0d451ce23df1fc8e4e43"
       },
       {
         "en": "I like to ride.",
@@ -370,7 +552,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          35.61,
+          37.506
+        ],
+        "audioDurationSeconds": 1.933,
+        "audioSha256": "c4413e85d822f361e4cb1f706364bd3df1aa8cc5e3f95361aa18f5a89362205a"
       },
       {
         "en": "I like to swim!",
@@ -382,7 +577,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 940,
         "imageHeight": 796,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0.18,
+          1,
+          0.82
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          40.474,
+          42.466
+        ],
+        "audioDurationSeconds": 2.038,
+        "audioSha256": "879ae2e951ca18aeeba30bc9805de02c2fcd5707044894f3fa2142b0ad128f14"
       }
     ],
     "keywords": [
@@ -504,7 +712,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "discovery"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 939,
     "sourceCoverHeight": 796,
     "source": {
@@ -544,7 +752,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          3.594,
+          8.973
+        ],
+        "audioDurationSeconds": 5.407,
+        "audioSha256": "b4283adb8957d1898bf68c408788b21be17e4aafcd57f7558b4e8b8c4aa91456"
       },
       {
         "en": "Look at the funny socks.",
@@ -556,7 +777,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          11.45,
+          14.253
+        ],
+        "audioDurationSeconds": 2.847,
+        "audioSha256": "0d03f0bcce0bb9b5876b55b7b246bfe31f8cd7e52546b5a55c8372d9bd68e69f"
       },
       {
         "en": "Look at the funny pants.",
@@ -568,7 +802,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          17.338,
+          20.283
+        ],
+        "audioDurationSeconds": 2.978,
+        "audioSha256": "12e21835d016db20aa7f972f43cd59334aede325bee88cbbe5e1907ff937e691"
       },
       {
         "en": "Look at the funny shirt.",
@@ -580,7 +827,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          23.738,
+          26.562
+        ],
+        "audioDurationSeconds": 2.873,
+        "audioSha256": "5789ebe9aebcd14569caf07062e0087da564c52117d43c0a667595e6ceb974ac"
       },
       {
         "en": "Look at the funny coat.",
@@ -592,7 +852,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          30.202,
+          33.058
+        ],
+        "audioDurationSeconds": 2.9,
+        "audioSha256": "f48063ce0a8dd0caae7b5c4d590b2dc1900bdffa76e864767024ed1eb4b27a38"
       },
       {
         "en": "Look at the funny wig.",
@@ -604,7 +877,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          36.538,
+          39.33
+        ],
+        "audioDurationSeconds": 2.821,
+        "audioSha256": "fcc6ee499a834fd32972f426b35b2694bd53cd9a3854038539519bd69f3ffcac"
       },
       {
         "en": "Look at the funny hat.",
@@ -616,7 +902,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          42.81,
+          45.602
+        ],
+        "audioDurationSeconds": 2.821,
+        "audioSha256": "d9d64b8cc34858c76a884dbc86b02da6e7be6ea1b5c1c3b4d82905e455b6060d"
       },
       {
         "en": "Look at the funny clown!",
@@ -628,7 +927,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 940,
         "imageHeight": 796,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          48.506,
+          51.297
+        ],
+        "audioDurationSeconds": 2.821,
+        "audioSha256": "6313e32098b1972ab98f747b7e357d977d41ba83f70657f14b243c7f172ecdaf"
       }
     ],
     "keywords": [
@@ -750,7 +1062,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "nature"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 939,
     "sourceCoverHeight": 796,
     "source": {
@@ -790,7 +1102,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          6.586,
+          9.698
+        ],
+        "audioDurationSeconds": 3.161,
+        "audioSha256": "c036b3b0d0ce2a6f46ef68533fcaf3a4d4e79d5a1a66620891c89dbd9751a2f1"
       },
       {
         "en": "Come and see a baby chick.",
@@ -802,7 +1127,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          13.018,
+          15.874
+        ],
+        "audioDurationSeconds": 2.9,
+        "audioSha256": "cd22d876d5f829daa65260a6528a865cd6bd06281d87b2c1b6dabeb4f66cefe5"
       },
       {
         "en": "Come and see the baby duckling.",
@@ -814,7 +1152,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          19.162,
+          22.178
+        ],
+        "audioDurationSeconds": 3.056,
+        "audioSha256": "26f446bfb815408cee05c2fde7360cc869b04d51ccdbfc060d9c88cf8e41ae72"
       },
       {
         "en": "Come and see a baby puppy.",
@@ -826,7 +1177,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          24.794,
+          27.682
+        ],
+        "audioDurationSeconds": 2.926,
+        "audioSha256": "7c2fb504b2bf8a3e69c0f6cfe30259bd43492404f1287fd8b308e01e43a07028"
       },
       {
         "en": "Come and see the baby kitten.",
@@ -838,7 +1202,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          30.586,
+          33.442
+        ],
+        "audioDurationSeconds": 2.9,
+        "audioSha256": "6a048609b304c399a94b3a4614bb06b0bd922bebb1e35cee033919080029164a"
       },
       {
         "en": "Come and see a baby lamb.",
@@ -850,7 +1227,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          36.09,
+          38.914
+        ],
+        "audioDurationSeconds": 2.873,
+        "audioSha256": "3112eb095558ffa03bcc66fd4720bc34965d1fb564fd32ddcf49c5d09b69b60e"
       },
       {
         "en": "Come and see the baby piglet.",
@@ -862,7 +1252,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          42.074,
+          44.898
+        ],
+        "audioDurationSeconds": 2.873,
+        "audioSha256": "61e92c0c3f6f7595def91f30b7afbfd96469ace38a172dd8553917279e5c4d5e"
       },
       {
         "en": "Come and see the baby animals.",
@@ -874,7 +1277,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 940,
         "imageHeight": 796,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.02,
+          0.27,
+          0.96,
+          0.69
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          48.538,
+          51.55
+        ],
+        "audioDurationSeconds": 3.056,
+        "audioSha256": "e6fffe5438ca8e415119b0f44f43aafea5e21c6c5a02499a62ded29afca8c579"
       }
     ],
     "keywords": [
@@ -996,7 +1412,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "nature"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 939,
     "sourceCoverHeight": 796,
     "source": {
@@ -1037,7 +1453,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          4.794,
+          8.802
+        ],
+        "audioDurationSeconds": 4.049,
+        "audioSha256": "b7fffa56b24809720da3644c716f888c4ebaea31582e48ae3ad3bce61a684747"
       },
       {
         "en": "We can see a squirrel go over the river.",
@@ -1049,7 +1478,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          10.618,
+          14.562
+        ],
+        "audioDurationSeconds": 3.971,
+        "audioSha256": "10e1feb9098d7c8fc09b41f9db1560660655cb0660ffbe147ba59aba67e164e6"
       },
       {
         "en": "We can see a rabbit go over the river.",
@@ -1061,7 +1503,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          16.858,
+          20.738
+        ],
+        "audioDurationSeconds": 3.918,
+        "audioSha256": "e61cbabac30ec41922137eb1f8d690338837816ffe707a3ba4aca6118de4e650"
       },
       {
         "en": "We can see a skunk go over the river.",
@@ -1073,7 +1528,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          23.162,
+          26.978
+        ],
+        "audioDurationSeconds": 3.866,
+        "audioSha256": "4c6e5325b968f1a38404762e0ce2a6593b3fe8ff4db7c318300165d5201a5b30"
       },
       {
         "en": "We can see a fox go over the river.",
@@ -1085,7 +1553,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          29.306,
+          33.058
+        ],
+        "audioDurationSeconds": 3.788,
+        "audioSha256": "7ebad42a201c52fc56b458191d54f59c3571673aa2de45b2f9f0f3fd171b0d12"
       },
       {
         "en": "We can see a deer go over the river.",
@@ -1097,7 +1578,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          35.258,
+          39.386
+        ],
+        "audioDurationSeconds": 4.18,
+        "audioSha256": "20d25b29c8f0214d6ee7471ce58c3ff03230652309a78c5070a30508fd03e7ed"
       },
       {
         "en": "We can see a bear go over the river.",
@@ -1109,7 +1603,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          42.138,
+          45.922
+        ],
+        "audioDurationSeconds": 3.814,
+        "audioSha256": "f83b49918490f2a602034b30741851d502bff51fc6a61c20ef3ab26f3ef48dce"
       },
       {
         "en": "We can see the bear go in the river!",
@@ -1121,7 +1628,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 940,
         "imageHeight": 796,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          48.25,
+          52.194
+        ],
+        "audioDurationSeconds": 3.971,
+        "audioSha256": "169b46c6b268b43daceeb5e5168933894de82ecf26bccb795a83deefd37b310f"
       }
     ],
     "keywords": [
@@ -1243,7 +1763,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "discovery"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 939,
     "sourceCoverHeight": 796,
     "source": {
@@ -1283,7 +1803,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          5.242,
+          10.168
+        ],
+        "audioDurationSeconds": 4.963,
+        "audioSha256": "159249161a15701487712396f1dcf6bdf77cfbd960deb22fcec1a55bdd837612"
       },
       {
         "en": "Look at my big bear. He has a big mouth.",
@@ -1295,7 +1828,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          12.986,
+          17.651
+        ],
+        "audioDurationSeconds": 4.702,
+        "audioSha256": "027b2278177d2f58919828c4ae1a84a2687aeff5c5bc47de24d0b044d40bbffa"
       },
       {
         "en": "Look at my big bear. He has big eyes.",
@@ -1307,7 +1853,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          21.146,
+          25.785
+        ],
+        "audioDurationSeconds": 4.676,
+        "audioSha256": "85b96f3cee1e267b5992e966bf73ab29512c4a03d3d84878adcfdc66ca060651"
       },
       {
         "en": "Look at my big bear. He has big ears.",
@@ -1319,7 +1878,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          28.25,
+          32.478
+        ],
+        "audioDurationSeconds": 4.258,
+        "audioSha256": "9312a771d92921ec614093913ef2a43139f9ed57464db2c0e037e735c9c4677b"
       },
       {
         "en": "Look at my big bear. He has big arms.",
@@ -1331,7 +1903,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          35.898,
+          40.147
+        ],
+        "audioDurationSeconds": 4.284,
+        "audioSha256": "46682fca51c0cbcb39663e317a5ff06257b9e8918cf92799e46b694b07c50228"
       },
       {
         "en": "Look at my big bear. He has big legs.",
@@ -1343,7 +1928,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          43.13,
+          47.259
+        ],
+        "audioDurationSeconds": 4.18,
+        "audioSha256": "d06e1555b3e99f73ebeb3a01d6610afcc555e28b7be159413d26d755090897bb"
       },
       {
         "en": "Look at my big bear. He has big feet.",
@@ -1355,7 +1953,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          50.426,
+          54.417
+        ],
+        "audioDurationSeconds": 4.023,
+        "audioSha256": "e5260f8ceab8d559e24ca35f852ab03edd502a27392974a63a4a8e1017a1d085"
       },
       {
         "en": "Look at my big bear. He has a little bear.",
@@ -1367,7 +1978,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 940,
         "imageHeight": 796,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          0.6
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          56.826,
+          61.249
+        ],
+        "audioDurationSeconds": 4.467,
+        "audioSha256": "a4df817a750928d339ead189194aed734de9a9301a05f1103ea214e78daa4265"
       }
     ],
     "keywords": [
@@ -1489,7 +2113,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "everyday"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 939,
     "sourceCoverHeight": 796,
     "source": {
@@ -1530,7 +2154,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          5.818,
+          8.898
+        ],
+        "audioDurationSeconds": 3.109,
+        "audioSha256": "639f1cefa3be67120c04bfd5852e4817b4e7df135fb7dd30c0686bf5e3a8a972"
       },
       {
         "en": "Here is the water for the soup.",
@@ -1542,7 +2179,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          11.852,
+          14.498
+        ],
+        "audioDurationSeconds": 2.691,
+        "audioSha256": "0b0001a287ac0d3c936c1c8609ea9ff0aca63978a289158fed03e94fee6b709f"
       },
       {
         "en": "Here are the beans for the soup.",
@@ -1554,7 +2204,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          17.853,
+          20.77
+        ],
+        "audioDurationSeconds": 2.952,
+        "audioSha256": "b816c8f31ae1f0bb994d9aee47b5467a7a77e2c3c7d7075e37fba72e2b391026"
       },
       {
         "en": "Here are the potatoes for the soup.",
@@ -1566,7 +2229,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          24.45,
+          27.33
+        ],
+        "audioDurationSeconds": 2.926,
+        "audioSha256": "88318f4af5e4ef5478bde33b1b2f430e9a81d7f8dc29a310aee3e83a4fac53a1"
       },
       {
         "en": "Here are the onions for the soup.",
@@ -1578,7 +2254,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          31.365,
+          34.278
+        ],
+        "audioDurationSeconds": 2.952,
+        "audioSha256": "a90998577eed6d53dd11fb18b703bb574dbc61761c455f1443451f2541a570ea"
       },
       {
         "en": "Here is the corn for the soup.",
@@ -1590,7 +2279,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          37.962,
+          40.706
+        ],
+        "audioDurationSeconds": 2.795,
+        "audioSha256": "3628772161a0c7ee4d740132a65e83987698738e968fcd05885590f83b18dfa6"
       },
       {
         "en": "Here are the carrots for the soup.",
@@ -1602,7 +2304,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          44.201,
+          46.754
+        ],
+        "audioDurationSeconds": 2.586,
+        "audioSha256": "8a42663c7392db8f30d87b70bd01650469b08062e11bd43fcf18603dc1ee33e0"
       },
       {
         "en": "Here is the soup!",
@@ -1614,7 +2329,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 940,
         "imageHeight": 796,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          49.804,
+          51.746
+        ],
+        "audioDurationSeconds": 1.985,
+        "audioSha256": "43ce5a226156686acca627dc71a618be89ea9ddded5397413b4bec6ac12a3c19"
       }
     ],
     "keywords": [
@@ -1736,7 +2464,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "feelings"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 939,
     "sourceCoverHeight": 796,
     "source": {
@@ -1777,7 +2505,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          6.138,
+          10.914
+        ],
+        "audioDurationSeconds": 4.807,
+        "audioSha256": "5e5e423956b05bfce5ea888286dde7904dd6e19f8897f6d4253b39fa497fb972"
       },
       {
         "en": "This is my dad. My dad likes to bake.",
@@ -1789,7 +2530,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          13.818,
+          18.53
+        ],
+        "audioDurationSeconds": 4.754,
+        "audioSha256": "916f3a2bb6c83fba42534e1ee90f192c9d257d1261da7faed2ab65fbde17680b"
       },
       {
         "en": "This is my sister. My sister likes to sing.",
@@ -1801,7 +2555,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          21.754,
+          26.274
+        ],
+        "audioDurationSeconds": 4.571,
+        "audioSha256": "18282166b2e4e67c43d491030c9beabef1dc7abf9857cc7cf3a703ebb198e25d"
       },
       {
         "en": "This is my brother. My brother likes to paint.",
@@ -1813,7 +2580,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          29.402,
+          34.338
+        ],
+        "audioDurationSeconds": 4.963,
+        "audioSha256": "39c8e16d9ee236c6bcc5bd40cff0d5cdbaaa91297b87ab545ec4a428f9089ed9"
       },
       {
         "en": "This is my grandma. My grandma likes to read.",
@@ -1825,7 +2605,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          37.754,
+          42.178
+        ],
+        "audioDurationSeconds": 4.467,
+        "audioSha256": "8844f3186e08435438e3125f0ec2ef385a230a6aef12dd2c46f3797e373154e1"
       },
       {
         "en": "This is my grandpa. My grandpa likes to run.",
@@ -1837,7 +2630,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          44.986,
+          49.762
+        ],
+        "audioDurationSeconds": 4.807,
+        "audioSha256": "ca89328fcb04d1f2bf90d84e792df236932d9138f116dff8997a9dc631f3c63f"
       },
       {
         "en": "This is my family. My family likes to eat.",
@@ -1849,7 +2655,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          52.762,
+          57.218
+        ],
+        "audioDurationSeconds": 4.493,
+        "audioSha256": "ae75e1ce6fc789041fdc640476fae54cb18da616d6502d0b464c19dddd484608"
       },
       {
         "en": "And my family loves to play!",
@@ -1861,7 +2680,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 940,
         "imageHeight": 796,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          0.63
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          59.19,
+          62.565
+        ],
+        "audioDurationSeconds": 3.422,
+        "audioSha256": "02bce99ab656e87b74aa77a7b6115ede694d0d26d68ed358f210d505b035744f"
       }
     ],
     "keywords": [
@@ -1983,7 +2815,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "everyday"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 939,
     "sourceCoverHeight": 796,
     "source": {
@@ -2024,7 +2856,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          1.511,
+          9.41
+        ],
+        "audioDurationSeconds": 7.941,
+        "audioSha256": "0b6c7375c535443017f5b88d96b1994dec14f66fe37521ce243c888f30d576dc"
       },
       {
         "en": "Mouse likes cookies. She likes to eat cookies in bed.",
@@ -2036,7 +2881,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          10.418,
+          15.618
+        ],
+        "audioDurationSeconds": 5.251,
+        "audioSha256": "50d4ff32d474514760b0be4cecebf5a52383e4ad02cda3dd418a84c624fc867a"
       },
       {
         "en": "She likes sandwiches. Mouse likes to eat sandwiches in bed.",
@@ -2048,7 +2906,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          16.684,
+          22.018
+        ],
+        "audioDurationSeconds": 5.381,
+        "audioSha256": "842c6465f3748d7cd67d5d1a731d2a4ebf5ea5ec57418685bebb2c642a110e1a"
       },
       {
         "en": "Mouse likes pizza. She likes to eat pizza in bed.",
@@ -2060,7 +2931,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          22.874,
+          27.81
+        ],
+        "audioDurationSeconds": 4.963,
+        "audioSha256": "d363af64825a39ecec6c3a1d433e773897932dcda2f50d0bd0e5249356c6fe6d"
       },
       {
         "en": "She likes apples. Mouse likes to eat apples in bed.",
@@ -2072,7 +2956,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          28.686,
+          33.058
+        ],
+        "audioDurationSeconds": 4.415,
+        "audioSha256": "54cf21f59a29282e7e8269d4fe57bbcc550e34960a0837e26c4e63c7bcc9b157"
       },
       {
         "en": "Mouse likes bananas. She likes to eat bananas in bed.",
@@ -2084,7 +2981,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          34.008,
+          39.138
+        ],
+        "audioDurationSeconds": 5.172,
+        "audioSha256": "f4d27a5676d7f6da49f429ebe2409e847e60b0c7a08f1ed8178a25cc69bc5a82"
       },
       {
         "en": "Mouse loves cheese. She loves to eat cheese in bed.",
@@ -2096,7 +3006,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          40.009,
+          45.378
+        ],
+        "audioDurationSeconds": 5.407,
+        "audioSha256": "2685a2a18b69d9ec1c86e8895a8543f6fd62ad93feec406be73529d0572c154f"
       },
       {
         "en": "And Mouse likes to dream in bed, too.",
@@ -2108,7 +3031,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 940,
         "imageHeight": 796,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          0.63
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          45.973,
+          49.634
+        ],
+        "audioDurationSeconds": 3.709,
+        "audioSha256": "79b464a602ed0648e1ee843ddb79ea54c1394996438a03e00e8cf7dec941e4ad"
       }
     ],
     "keywords": [
@@ -2230,7 +3166,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "everyday"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 939,
     "sourceCoverHeight": 796,
     "source": {
@@ -2271,7 +3207,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          5.146,
+          12.098
+        ],
+        "audioDurationSeconds": 7.001,
+        "audioSha256": "262d0dbef625098c0e0a5561a2dbf35684539ade006808665d83494f51b6addc"
       },
       {
         "en": "“Sit, Mop,” said Jill. But Mop did not sit.",
@@ -2283,7 +3232,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          15.13,
+          21.73
+        ],
+        "audioDurationSeconds": 6.635,
+        "audioSha256": "0212d8950a8a5416e655f9511892bcef5716cd2545d80935210cea4ebad6970d"
       },
       {
         "en": "“Jump up, Mop,” said Jill. But he did not jump.",
@@ -2295,7 +3257,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          24.666,
+          31.354
+        ],
+        "audioDurationSeconds": 6.74,
+        "audioSha256": "173d1d61b4de13800f9eb90ed930ba392f4231eb47cb774b4f9fd9be2ceca33a"
       },
       {
         "en": "Jill said, “Get the stick, Mop.” But he did not get the stick.",
@@ -2307,7 +3282,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          33.882,
+          41.634
+        ],
+        "audioDurationSeconds": 7.784,
+        "audioSha256": "6e838e6fc24b95933912b42c33f3ba93ea9da165b2b6625a25798b142c5ee1e4"
       },
       {
         "en": "“Get the ball, Mop,” said Jill. But Mop did not get the ball.",
@@ -2319,7 +3307,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          44.634,
+          52.482
+        ],
+        "audioDurationSeconds": 7.889,
+        "audioSha256": "4b12917dc9829df4f95f9e27bf457e16d740c5695b53227772dba44676167d62"
       },
       {
         "en": "“Run, Mop,” said Jill. But he did not run.",
@@ -2331,7 +3332,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          54.65,
+          60.866
+        ],
+        "audioDurationSeconds": 6.243,
+        "audioSha256": "02864024f4b675a3f7a4d9f1d4f5c48345c4ea9ef61776a8f80f2fe160cf90d9"
       },
       {
         "en": "“Stop!” said Jill. “Stop, Mop!”",
@@ -2343,7 +3357,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          62.906,
+          67.074
+        ],
+        "audioDurationSeconds": 4.206,
+        "audioSha256": "900ba57ea32b86f581f419a1bc35242d3c36fa9f0a485300eec9439ea02710be"
       },
       {
         "en": "But Mop did not stop!",
@@ -2355,7 +3382,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 940,
         "imageHeight": 796,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          0.74
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          69.562,
+          72.706
+        ],
+        "audioDurationSeconds": 3.187,
+        "audioSha256": "cb37a987d1ce40adfbf6ebcfc67d807c7144bf659036b60068efed2cc9ec75b6"
       }
     ],
     "keywords": [
@@ -2477,7 +3517,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "feelings"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 1083,
     "sourceCoverHeight": 850,
     "source": {
@@ -2518,7 +3558,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          4.122,
+          6.321
+        ],
+        "audioDurationSeconds": 2.247,
+        "audioSha256": "7f54d544253a3555be2e82bc63cd1fe6a42e6d1647496b1c786d17fa6abbcd44"
       },
       {
         "en": "Mom is reading.",
@@ -2530,7 +3583,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          9.018,
+          11.167
+        ],
+        "audioDurationSeconds": 2.194,
+        "audioSha256": "e6a59326f24421eabda7c19a1b29d570b38e7f593ae1dced96175c128616fc51"
       },
       {
         "en": "Mom is jumping.",
@@ -2542,7 +3608,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          14.298,
+          16.359
+        ],
+        "audioDurationSeconds": 2.09,
+        "audioSha256": "2598d87e38e7f7ef9029fd4b57a1ea077034b6d631da623a0fe9ac25dfc96744"
       },
       {
         "en": "Mom is swimming.",
@@ -2554,7 +3633,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          19.226,
+          21.363
+        ],
+        "audioDurationSeconds": 2.168,
+        "audioSha256": "13b5edd5a9cc6fe5289637cebf76aa4c80057c4f7bde64a4eba728e8af95acaf"
       },
       {
         "en": "Mom is riding.",
@@ -2566,7 +3658,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          24.41,
+          26.492
+        ],
+        "audioDurationSeconds": 2.116,
+        "audioSha256": "92bde5f399afa766a4132cda3bbddd854bd9c1622b608942af862df8a67dedc4"
       },
       {
         "en": "Mom is shopping.",
@@ -2578,7 +3683,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          29.306,
+          31.432
+        ],
+        "audioDurationSeconds": 2.168,
+        "audioSha256": "2fd5144f68e56a2270fc8cdc82d7880850e3481e443577a915794d4c6beb807c"
       },
       {
         "en": "Mom is eating.",
@@ -2590,7 +3708,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          34.106,
+          36.258
+        ],
+        "audioDurationSeconds": 2.194,
+        "audioSha256": "555a68bcbd5dceaa7a33367069fa423ae7c4d9ba2c91489217ccb21d03b8417c"
       },
       {
         "en": "Mom is hugging me.",
@@ -2602,7 +3733,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1084,
         "imageHeight": 850,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          38.234,
+          40.615
+        ],
+        "audioDurationSeconds": 2.429,
+        "audioSha256": "34399e217dc4e91b7b19efb6db114e872c6848cf1bc7b49465078eb8062e1510"
       }
     ],
     "keywords": [
@@ -2724,7 +3868,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "feelings"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 1083,
     "sourceCoverHeight": 850,
     "source": {
@@ -2765,7 +3909,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          3.93,
+          6.115
+        ],
+        "audioDurationSeconds": 2.22,
+        "audioSha256": "6961ccc2ba297bcc3a2df3004495bc80a4b02eca9cac1ae4c707a6d264f243ee"
       },
       {
         "en": "Dad is cooking.",
@@ -2777,7 +3934,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          8.122,
+          10.197
+        ],
+        "audioDurationSeconds": 2.116,
+        "audioSha256": "478ef9b357062d0f0c00c646b7e4cf7254cdc7681b7b26dd6f70d87b64eb3ddc"
       },
       {
         "en": "Dad is singing.",
@@ -2789,7 +3959,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          13.29,
+          15.321
+        ],
+        "audioDurationSeconds": 2.064,
+        "audioSha256": "0d5da6ced4d1a8daaa0d2750ef2e02bc3d551c0cec4550ce7376e96090732339"
       },
       {
         "en": "Dad is running.",
@@ -2801,7 +3984,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          18.65,
+          20.169
+        ],
+        "audioDurationSeconds": 1.567,
+        "audioSha256": "b975f5ef67b0238bf45c6eb22edba48b9a11240dc2575fae88b0a9b0c4d737c6"
       },
       {
         "en": "Dad is digging.",
@@ -2813,7 +4009,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          23.263,
+          25.171
+        ],
+        "audioDurationSeconds": 1.959,
+        "audioSha256": "1f51a20f0bea8887ea76cce311bc8da33dad35a6a95314cd6b0fe5af143e8864"
       },
       {
         "en": "Dad is writing.",
@@ -2825,7 +4034,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          27.962,
+          30.142
+        ],
+        "audioDurationSeconds": 2.22,
+        "audioSha256": "24f43fb2365603a5645af3fd5a357668d5b67446840dfc162f77ee41fb644fef"
       },
       {
         "en": "Dad is painting.",
@@ -2837,7 +4059,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          33.021,
+          34.929
+        ],
+        "audioDurationSeconds": 1.959,
+        "audioSha256": "2a142d912374cb6435a7b4150fd5265722b3bcaa5ab4802779db176bfbd6c321"
       },
       {
         "en": "Dad is hiding!",
@@ -2849,7 +4084,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1084,
         "imageHeight": 850,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          37.931,
+          39.9
+        ],
+        "audioDurationSeconds": 2.011,
+        "audioSha256": "0c7af2f40cbb4ec38b2fa5be6cc8e9844aceb7d8928ff65d018df1b5c494977b"
       }
     ],
     "keywords": [
@@ -2971,7 +4219,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "nature"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 975,
     "sourceCoverHeight": 706,
     "source": {
@@ -3011,7 +4259,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          4.954,
+          7.425
+        ],
+        "audioDurationSeconds": 2.508,
+        "audioSha256": "db32deee55bf6f6f248b2b77e8f975aa5e969a53badbecd73c6f5b0a1a358c2f"
       },
       {
         "en": "We can see a snake.",
@@ -3023,7 +4284,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          10.087,
+          12.309
+        ],
+        "audioDurationSeconds": 2.273,
+        "audioSha256": "5358b3029a86bc148cbd79c6f7be3fb8dc28e30140ac648cbdde5eb99002ac43"
       },
       {
         "en": "We can see a bear.",
@@ -3035,7 +4309,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          15.258,
+          17.628
+        ],
+        "audioDurationSeconds": 2.403,
+        "audioSha256": "4b5e594a4a7c10565d0ff05bf90a3ea5dbd4b43744effc7650c48fca72845022"
       },
       {
         "en": "We can see a lion.",
@@ -3047,7 +4334,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          20.346,
+          22.69
+        ],
+        "audioDurationSeconds": 2.377,
+        "audioSha256": "b00e1888a02c7d0c18e6689228c9cf21e54fdb4999494ec2527dc6d9c94c9294"
       },
       {
         "en": "We can see an elephant.",
@@ -3059,7 +4359,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          25.658,
+          27.998
+        ],
+        "audioDurationSeconds": 2.377,
+        "audioSha256": "2b0fd904fe07291dc18733f89c5e0b24ea97d1b6d2620bd593cd672bfb3574c2"
       },
       {
         "en": "We can see a giraffe.",
@@ -3071,7 +4384,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          31.194,
+          33.506
+        ],
+        "audioDurationSeconds": 2.351,
+        "audioSha256": "9120f6e763b428bbe61da45c7993b9a2955a7ca999b3eb93add72c63ab4ee894"
       },
       {
         "en": "We can see a zebra.",
@@ -3083,7 +4409,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          36.634,
+          38.978
+        ],
+        "audioDurationSeconds": 2.377,
+        "audioSha256": "5c0239d67cbdd30c95f8ecce050b30a3515d9162cdb12b54737c4f72f5dd2ffc"
       },
       {
         "en": "We can see a bird.",
@@ -3095,7 +4434,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 976,
         "imageHeight": 706,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          0.66
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          41.306,
+          43.654
+        ],
+        "audioDurationSeconds": 2.377,
+        "audioSha256": "d1966ae04ca93bdc0e2f8615b64bb89e0f7aa609f53ded4ca08977ace05da2c5"
       }
     ],
     "keywords": [
@@ -3217,7 +4569,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "everyday"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 939,
     "sourceCoverHeight": 796,
     "source": {
@@ -3257,7 +4609,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          6.554,
+          8.813
+        ],
+        "audioDurationSeconds": 2.299,
+        "audioSha256": "e48673b77326ea98f6c5a3a2decb5b8ffd1b51876876fbbce07dd2b0b2213836"
       },
       {
         "en": "I see the bus.",
@@ -3269,7 +4634,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          11.674,
+          13.634
+        ],
+        "audioDurationSeconds": 2.011,
+        "audioSha256": "9b0da27a6e635ae52c37b9458004391cd4ab91a446f60e37ae606c5941453a07"
       },
       {
         "en": "I see the driver.",
@@ -3281,7 +4659,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          17.178,
+          19.203
+        ],
+        "audioDurationSeconds": 2.064,
+        "audioSha256": "ca993ebeb6348564d17d3dd84c9dc0e588273efd116a709111b23a7519639326"
       },
       {
         "en": "I see the children.",
@@ -3293,7 +4684,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          22.618,
+          24.674
+        ],
+        "audioDurationSeconds": 2.09,
+        "audioSha256": "49d145d015eb78d42b4fc3aee8712d2376afb10d6ca15402ac31f46d19b98385"
       },
       {
         "en": "I see the school.",
@@ -3305,7 +4709,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          27.514,
+          29.57
+        ],
+        "audioDurationSeconds": 2.09,
+        "audioSha256": "69aa2e7d784b37c6835d1a4bbecedf8df0298700a0d23df1d322d0e6e78311d7"
       },
       {
         "en": "I see the playground.",
@@ -3317,7 +4734,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          32.89,
+          35.181
+        ],
+        "audioDurationSeconds": 2.325,
+        "audioSha256": "b684a3c68a668db177144a0998cbbc76adc90ee86db0cd21f32d14c060640b1f"
       },
       {
         "en": "I see the door.",
@@ -3329,7 +4759,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          38.298,
+          40.258
+        ],
+        "audioDurationSeconds": 2.011,
+        "audioSha256": "3e6e82ad38860f4a68ce9dd83f1018d73a9d1f4a738836e1f57a445fc32f0c1d"
       },
       {
         "en": "I see my teacher.",
@@ -3341,7 +4784,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 940,
         "imageHeight": 796,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          0.73
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          42.97,
+          45.129
+        ],
+        "audioDurationSeconds": 2.194,
+        "audioSha256": "2ce9af0ac4513ff66721237602e9059877766814c8802520c235bd99e627bbc3"
       }
     ],
     "keywords": [
@@ -3463,7 +4919,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "everyday"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 1083,
     "sourceCoverHeight": 850,
     "source": {
@@ -3504,7 +4960,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          4.282,
+          6.781
+        ],
+        "audioDurationSeconds": 2.534,
+        "audioSha256": "cf9d54d28ad990aadb02221e9ff0a1bed841a4fd09219ee2982c412aa39433c1"
       },
       {
         "en": "I can see the flowers.",
@@ -3516,7 +4985,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          9.403,
+          11.558
+        ],
+        "audioDurationSeconds": 2.194,
+        "audioSha256": "521ad24ae1b98bcb0c913b38c4d78329ced8a3eed89e31870b2bce541641fcd3"
       },
       {
         "en": "I can see the trees.",
@@ -3528,7 +5010,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          14.768,
+          16.956
+        ],
+        "audioDurationSeconds": 2.22,
+        "audioSha256": "2a5f431dfca7348b6274bb867572154318dbd16e3852f1e6821e94deae040b3c"
       },
       {
         "en": "I can see the birds.",
@@ -3540,7 +5035,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          19.418,
+          21.797
+        ],
+        "audioDurationSeconds": 2.429,
+        "audioSha256": "3d2d9333917728f74f6976f215da3e46434655c067565c3911822e475c28e1c2"
       },
       {
         "en": "I can see the slide.",
@@ -3552,7 +5060,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          24.844,
+          27.01
+        ],
+        "audioDurationSeconds": 2.194,
+        "audioSha256": "bbc6ce2aae2a69879ee3830391482f7cd143f4ea7ebfab105814457ad290bf33"
       },
       {
         "en": "I can see the swings.",
@@ -3564,7 +5085,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          29.562,
+          31.972
+        ],
+        "audioDurationSeconds": 2.456,
+        "audioSha256": "3dafe5058a3fc6739d3ed8adc4f0c19e36bc9af85a341b756821e4166ddea5b5"
       },
       {
         "en": "I can see the children.",
@@ -3576,7 +5110,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          34.724,
+          37.026
+        ],
+        "audioDurationSeconds": 2.351,
+        "audioSha256": "58640cf5f4473c6e83906e252c5a6e83e26067a19f2d2d43c869c140776f8b7f"
       },
       {
         "en": "I can see the park.",
@@ -3588,7 +5135,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1084,
         "imageHeight": 850,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          39.322,
+          41.786
+        ],
+        "audioDurationSeconds": 2.508,
+        "audioSha256": "b7a537384d3ce7c92eb4c1a594d97f2dc2e85dc2b50390a2e2784fb6a935b3f9"
       }
     ],
     "keywords": [
@@ -3652,7 +5212,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "nature"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 975,
     "sourceCoverHeight": 706,
     "source": {
@@ -3693,7 +5253,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          4.922,
+          6.882
+        ],
+        "audioDurationSeconds": 2.011,
+        "audioSha256": "6152db6871ad78361edb7e1cea2965f1b155e7c3b397ab37e1dac67d5c93fda5"
       },
       {
         "en": "Tom can play.",
@@ -3705,7 +5278,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          9.082,
+          11.051
+        ],
+        "audioDurationSeconds": 2.011,
+        "audioSha256": "18995097e8445cbc7c603fa11ee05c91ec394f0b9186aefe1a03157606e648f6"
       },
       {
         "en": "Tom can hide.",
@@ -3717,7 +5303,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          13.882,
+          15.97
+        ],
+        "audioDurationSeconds": 2.116,
+        "audioSha256": "37cdd61c93e9d2b1e35d0d309cf624a7b50a77283e00169cf07bc8ee4c27061a"
       },
       {
         "en": "Tom can eat.",
@@ -3729,7 +5328,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          18.586,
+          20.354
+        ],
+        "audioDurationSeconds": 1.802,
+        "audioSha256": "9d03051645d389edc150e04b3966a9ff0f34d208dab16a703c0857bf6616c2b7"
       },
       {
         "en": "Tom can drink.",
@@ -3741,7 +5353,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          22.842,
+          24.77
+        ],
+        "audioDurationSeconds": 1.959,
+        "audioSha256": "4d0ce09d3fc3b3a78b721980b2b91b21d5ebdeef0f4c75ce570c3e69cbc00012"
       },
       {
         "en": "Tom can jump.",
@@ -3753,7 +5378,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          27.29,
+          29.282
+        ],
+        "audioDurationSeconds": 2.038,
+        "audioSha256": "f7964feee7075ad965b167594b9286ee98ca58ae54b61d2735d86b83d22f48a5"
       },
       {
         "en": "Tom can sleep.",
@@ -3765,7 +5403,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          31.834,
+          33.794
+        ],
+        "audioDurationSeconds": 2.011,
+        "audioSha256": "06918e046ea8858dedf21a0c768e31f14d02b8a80b2b432394b06e1e75decd03"
       },
       {
         "en": "Tom can purr. Purr, Purr",
@@ -3777,7 +5428,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 976,
         "imageHeight": 706,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          0.72
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          36.026,
+          39.892
+        ],
+        "audioDurationSeconds": 3.892,
+        "audioSha256": "d774d8c1893c1712d1c8d1005b3b486f5b4ed69978c01112280e5ea481a5ea07"
       }
     ],
     "keywords": [
@@ -3899,7 +5563,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "feelings"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 975,
     "sourceCoverHeight": 706,
     "source": {
@@ -3939,7 +5603,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          6.138,
+          8.898
+        ],
+        "audioDurationSeconds": 2.795,
+        "audioSha256": "5c074e62e3dbdd4e543a4e3c84846d76f18bb72fd0a48a049002d6fa4d655243"
       },
       {
         "en": "I can read to my dad.",
@@ -3951,7 +5628,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          11.194,
+          14.05
+        ],
+        "audioDurationSeconds": 2.9,
+        "audioSha256": "eb4b5f02da39da0e3c1fdfb9df480405798cf422cbc344c95c9f847077f91816"
       },
       {
         "en": "I can read to my grandma.",
@@ -3963,7 +5653,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          16.922,
+          19.841
+        ],
+        "audioDurationSeconds": 2.952,
+        "audioSha256": "91d6276f7d7b63ba5bcf51015ec7e8a2a6edb7f915b73fdfee8ba2ba6a017ad2"
       },
       {
         "en": "I can read to my grandpa.",
@@ -3975,7 +5678,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          22.33,
+          25.442
+        ],
+        "audioDurationSeconds": 3.161,
+        "audioSha256": "1e5698562bb404ec927cd920911c9c62d9c4464367ec60bfef107f4cf4109bdb"
       },
       {
         "en": "I can read to my brother.",
@@ -3987,7 +5703,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          27.93,
+          30.626
+        ],
+        "audioDurationSeconds": 2.743,
+        "audioSha256": "1e44a0947134f0b11da1763921f811217c0afc076e832f7a07f8e1eb1b5d4337"
       },
       {
         "en": "I can read to my dog.",
@@ -3999,7 +5728,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          33.082,
+          35.682
+        ],
+        "audioDurationSeconds": 2.638,
+        "audioSha256": "a5bbc9c73b86b1a8968ed55ac35aa2d29332f391dfe00d66a844e2a171dff0b0"
       },
       {
         "en": "I can read to my bear.",
@@ -4011,7 +5753,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          38.605,
+          41.09
+        ],
+        "audioDurationSeconds": 2.534,
+        "audioSha256": "d84a9a78ba044ee5ec0d4d9fe62d374e9c3424a26e259d4a47b8b4940baf5816"
       },
       {
         "en": "I can read to myself.",
@@ -4023,7 +5778,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 976,
         "imageHeight": 706,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          0.64
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          43.676,
+          46.173
+        ],
+        "audioDurationSeconds": 2.534,
+        "audioSha256": "4d13f0c27cd1620942ecc7667fb3e7b0e3ca87ee4d8009cef40f1f8336af073a"
       }
     ],
     "keywords": [
@@ -4145,7 +5913,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "feelings"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 1083,
     "sourceCoverHeight": 850,
     "source": {
@@ -4185,7 +5953,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          2.339,
+          9.108
+        ],
+        "audioDurationSeconds": 6.818,
+        "audioSha256": "04cf4dcf054b467054e2bab7120c1d4d07f005197fae91a391259091b5d24dfa"
       },
       {
         "en": "Baby is crying.",
@@ -4197,7 +5978,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          11.514,
+          13.706
+        ],
+        "audioDurationSeconds": 2.22,
+        "audioSha256": "a0157ab2c8d8a2cbf09a4a853ba50d187acd7fca592ec1ef00daed877b1dfa52"
       },
       {
         "en": "Baby is eating.",
@@ -4209,7 +6003,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          16.538,
+          18.858
+        ],
+        "audioDurationSeconds": 2.351,
+        "audioSha256": "f61bcdbb1397c221a177be21c069b1027121563d84f75c77abe3f0866fa30693"
       },
       {
         "en": "Baby is sitting.",
@@ -4221,7 +6028,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          21.658,
+          24.009
+        ],
+        "audioDurationSeconds": 2.377,
+        "audioSha256": "8d04f3a3321e467afe941da375898bcabff490881816b37bda4731adbf1547bd"
       },
       {
         "en": "Baby is crawling.",
@@ -4233,7 +6053,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          27.13,
+          29.402
+        ],
+        "audioDurationSeconds": 2.299,
+        "audioSha256": "fc528ba1aa05f18dd72c0cc74d3c7c642ea709b742d7dd11963618d07286c245"
       },
       {
         "en": "Baby is playing.",
@@ -4245,7 +6078,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          32.25,
+          34.449
+        ],
+        "audioDurationSeconds": 2.247,
+        "audioSha256": "f0da730e3cf1b86789698284f155e563adf5573a9141973bb27587306f609602"
       },
       {
         "en": "Baby is smiling.",
@@ -4257,7 +6103,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          37.722,
+          39.946
+        ],
+        "audioDurationSeconds": 2.273,
+        "audioSha256": "53fa4bbe5a8e44d6caa7dbb0d29efa51725069e1d3da81acf488d93da38fb8e9"
       },
       {
         "en": "Baby is laughing.",
@@ -4269,7 +6128,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1084,
         "imageHeight": 850,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0.2,
+          1,
+          0.8
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          42.906,
+          45.167
+        ],
+        "audioDurationSeconds": 2.299,
+        "audioSha256": "3c21a2c772eb1012af4c51d826fc79f7cac3b6ec4229b0f44d31931518742fc9"
       }
     ],
     "keywords": [
@@ -4391,7 +6263,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "discovery"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 1083,
     "sourceCoverHeight": 850,
     "source": {
@@ -4431,7 +6303,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          8.154,
+          10.617
+        ],
+        "audioDurationSeconds": 2.508,
+        "audioSha256": "a1990c0642126855bb2ea943a4761e5c26c6b8d27f11f05ee3c365a95062d508"
       },
       {
         "en": "I am a little bee.",
@@ -4443,7 +6328,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          13.882,
+          16.162
+        ],
+        "audioDurationSeconds": 2.325,
+        "audioSha256": "9ca41496f9e38b9a1b9306d6d6db58f030e2113df2f06ae0615b7dca5fb31b11"
       },
       {
         "en": "I am a little duck.",
@@ -4455,7 +6353,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          19.61,
+          21.986
+        ],
+        "audioDurationSeconds": 2.403,
+        "audioSha256": "a424665f88905ed64a2b2691059c139b8ead48d68eae265cede5a20cffc570d0"
       },
       {
         "en": "I am a little monster.",
@@ -4467,7 +6378,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          25.306,
+          27.751
+        ],
+        "audioDurationSeconds": 2.482,
+        "audioSha256": "5c899284191c66509af6fa971963a8c71e34f0bb59768b9d586f931149ab1c3c"
       },
       {
         "en": "I am a little dancer.",
@@ -4479,7 +6403,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          31.578,
+          33.953
+        ],
+        "audioDurationSeconds": 2.403,
+        "audioSha256": "fdd1019509036ac71bcc82abb4d85f9b0826d8db571c920bfeec86bb01ecea53"
       },
       {
         "en": "I am a little dog.",
@@ -4491,7 +6428,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          37.242,
+          39.394
+        ],
+        "audioDurationSeconds": 2.194,
+        "audioSha256": "b571df0fd29f6d2e47a5f30f1b071aae9ce31057d254b9dfcdcb412d50c81d33"
       },
       {
         "en": "I am a little bunny.",
@@ -4503,7 +6453,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          42.97,
+          45.272
+        ],
+        "audioDurationSeconds": 2.351,
+        "audioSha256": "1ddb8b0132160346f17b8d5d2ec0445dd108f6435c1f080120f03614c20c4c55"
       },
       {
         "en": "I am a little girl.",
@@ -4515,7 +6478,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1084,
         "imageHeight": 850,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          48.186,
+          50.582
+        ],
+        "audioDurationSeconds": 2.429,
+        "audioSha256": "41535e3131605d23fae3e367d985f0f482babfe9163423b02f906c2f36d802bc"
       }
     ],
     "keywords": [
@@ -4637,7 +6613,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "discovery"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 1191,
     "sourceCoverHeight": 976,
     "source": {
@@ -4678,7 +6654,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          6.81,
+          8.768
+        ],
+        "audioDurationSeconds": 1.985,
+        "audioSha256": "a17538e1c898ad154d9cf86f72bf390819ba1387101e233cd3bf58636f69d7f1"
       },
       {
         "en": "I am running.",
@@ -4690,7 +6679,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          11.34,
+          13.314
+        ],
+        "audioDurationSeconds": 2.011,
+        "audioSha256": "27cf72617f2efacc7172148b2681df54c4976dedf37647d2b7ffad3ae8c8da36"
       },
       {
         "en": "I am riding.",
@@ -4702,7 +6704,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          15.994,
+          17.979
+        ],
+        "audioDurationSeconds": 2.011,
+        "audioSha256": "a04dd1542a410b27d6cdda508576bdf6b102d295548faa99f15d1f1c0ae1ceb8"
       },
       {
         "en": "I am drawing.",
@@ -4714,7 +6729,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          21.018,
+          22.926
+        ],
+        "audioDurationSeconds": 1.959,
+        "audioSha256": "be1f9ba748d05f187633e5c43ec5052942830e8505d23ffbe63c98430f5b777f"
       },
       {
         "en": "I am kicking.",
@@ -4726,7 +6754,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          26.17,
+          28.134
+        ],
+        "audioDurationSeconds": 2.011,
+        "audioSha256": "d7bcb3362d886a5262e2775fed20720fb187ad2e2599fb25011760a384a1a2ff"
       },
       {
         "en": "I am playing.",
@@ -4738,7 +6779,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          31.066,
+          32.919
+        ],
+        "audioDurationSeconds": 1.881,
+        "audioSha256": "8d82a71b81ef571d5c9e190518ddf8a6be80a844a501b2d72fe076286942b498"
       },
       {
         "en": "I am reading.",
@@ -4750,7 +6804,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          35.898,
+          37.867
+        ],
+        "audioDurationSeconds": 2.011,
+        "audioSha256": "83b2585d705a8d43d99bf08f411eeb64f76b447df59ffd9070437276bdda765b"
       },
       {
         "en": "I am dreaming.",
@@ -4762,7 +6829,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1192,
         "imageHeight": 976,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          40.762,
+          42.684
+        ],
+        "audioDurationSeconds": 1.959,
+        "audioSha256": "b319eba5d7b4ca7d4ddc7cdaf7750ad600ef154d3eab76449f3e8290d5725017"
       }
     ],
     "keywords": [
@@ -4884,7 +6964,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "everyday"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 975,
     "sourceCoverHeight": 706,
     "source": {
@@ -4924,7 +7004,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          6.65,
+          8.546
+        ],
+        "audioDurationSeconds": 1.933,
+        "audioSha256": "1e9b273a5562cc47fee2ab95e3b42a51a0a98ea231ce85d9663b3a96fda457ed"
       },
       {
         "en": "I like my books.",
@@ -4936,7 +7029,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          11.546,
+          13.526
+        ],
+        "audioDurationSeconds": 2.011,
+        "audioSha256": "32435ae21cb1ff6d9c71885358d9fef07764374b4929cb271529e29e191003c2"
       },
       {
         "en": "I like my lamp.",
@@ -4948,7 +7054,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          17.018,
+          18.946
+        ],
+        "audioDurationSeconds": 1.959,
+        "audioSha256": "26a8117ddab4df49e02aaca9097c445610de67a13da1322652ff14aabcd9f365"
       },
       {
         "en": "I like my chair.",
@@ -4960,7 +7079,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          22.33,
+          24.29
+        ],
+        "audioDurationSeconds": 2.011,
+        "audioSha256": "2bb190d7de3d0ea9bb1e66c2502e844b619e059cd8b3eb5469a7200709e006db"
       },
       {
         "en": "I like my toys.",
@@ -4972,7 +7104,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          27.898,
+          29.933
+        ],
+        "audioDurationSeconds": 2.064,
+        "audioSha256": "128167e511d5f62d6928b0ceb926a26aba00054bee75792e32edcd304fad9485"
       },
       {
         "en": "I like my picture.",
@@ -4984,7 +7129,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          33.946,
+          35.938
+        ],
+        "audioDurationSeconds": 2.038,
+        "audioSha256": "2f79b4a4ce3dc50fb7f4922e1c93617820717da4ff50045c4b005784e4c121bc"
       },
       {
         "en": "I like my bear.",
@@ -4996,7 +7154,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          39.13,
+          41.122
+        ],
+        "audioDurationSeconds": 2.038,
+        "audioSha256": "7e456efb8d58b232e753334038162fcf8a2456e39f0f36becb072626c530c28d"
       },
       {
         "en": "I like my room!",
@@ -5008,7 +7179,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 976,
         "imageHeight": 706,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          44.474,
+          46.37
+        ],
+        "audioDurationSeconds": 1.933,
+        "audioSha256": "4d829fbc993ea79b4ec4a2131513e0b39623200a2b94a50d0e311721c2f0a9a9"
       }
     ],
     "keywords": [
@@ -5130,7 +7314,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "feelings"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 1191,
     "sourceCoverHeight": 976,
     "source": {
@@ -5170,7 +7354,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          5.146,
+          7.554
+        ],
+        "audioDurationSeconds": 2.456,
+        "audioSha256": "ae8de9fea206302ad4b9f590c50253555b2c11b6cebb23f959765e6f99faaee2"
       },
       {
         "en": "The baby has a book.",
@@ -5182,7 +7379,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          10.49,
+          12.706
+        ],
+        "audioDurationSeconds": 2.247,
+        "audioSha256": "d0b69942339ebbc512809ad0e02a2f028d1401fe3d2b021e88b5582062072450"
       },
       {
         "en": "The baby has a blanket.",
@@ -5194,7 +7404,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          15.802,
+          18.296
+        ],
+        "audioDurationSeconds": 2.534,
+        "audioSha256": "2db47e0bb70c51e6f86d2ba17c6ce2a660f7333a71bcf5d4671278f4a90cb282"
       },
       {
         "en": "The baby has a block.",
@@ -5206,7 +7429,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          20.858,
+          23.106
+        ],
+        "audioDurationSeconds": 2.299,
+        "audioSha256": "9f2ef79cd47076caa004a54d24f1e8cd17e9b5686781ef114d70557c315a3bbd"
       },
       {
         "en": "The baby has a bear.",
@@ -5218,7 +7454,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          26.042,
+          28.418
+        ],
+        "audioDurationSeconds": 2.403,
+        "audioSha256": "eec5481f446e3c646b4c6110d863be4ced478875e22957d474ddd0dbc715824e"
       },
       {
         "en": "The baby has a duck.",
@@ -5230,7 +7479,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          31.002,
+          33.282
+        ],
+        "audioDurationSeconds": 2.325,
+        "audioSha256": "ac5d2443e9ac6c8723e478fd56356e9729b5bb93f5749b2cf4d9a45d7ec451ff"
       },
       {
         "en": "The baby has a toy.",
@@ -5242,7 +7504,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          36.346,
+          38.669
+        ],
+        "audioDurationSeconds": 2.351,
+        "audioSha256": "16cf7449bf5be9849a073ffdbc83a378328e914e20457276a4ed9f8869d607fa"
       },
       {
         "en": "The baby has a smile!",
@@ -5254,7 +7529,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1192,
         "imageHeight": 976,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.1,
+          0.23,
+          0.8,
+          0.66
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          41.594,
+          44.127
+        ],
+        "audioDurationSeconds": 2.56,
+        "audioSha256": "fb38973f0e23e61ac670e22584f5fd258c3750a235a76d26e458c9d99b35bb0f"
       }
     ],
     "keywords": [
@@ -5376,7 +7664,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "everyday"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 1400,
     "sourceCoverHeight": 857,
     "source": {
@@ -5416,7 +7704,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 857,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          5.69,
+          7.988
+        ],
+        "audioDurationSeconds": 2.325,
+        "audioSha256": "792caf2a34c96532b7d18ed0ff711f63bcea7aad910312b1713e724cee89914e"
       },
       {
         "en": "Look at my jacket.",
@@ -5428,7 +7729,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 857,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          9.978,
+          12.382
+        ],
+        "audioDurationSeconds": 2.456,
+        "audioSha256": "b27aaf1de66fa818e7108246fccdcb23f6e6cb76673032086d664c98c5364989"
       },
       {
         "en": "Look at my socks.",
@@ -5440,7 +7754,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 857,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          15.386,
+          17.655
+        ],
+        "audioDurationSeconds": 2.299,
+        "audioSha256": "55f081aeb9ea90008f33c3f92dafaa3a9ea3c21fa0735be96bb6986ce0ae5cd5"
       },
       {
         "en": "Look at my boots.",
@@ -5452,7 +7779,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 857,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          20.986,
+          23.279
+        ],
+        "audioDurationSeconds": 2.325,
+        "audioSha256": "135a1d51fa70c4375642344820431d9ad23b5e0caec7b03002364af7ee3d483a"
       },
       {
         "en": "Look at my hat.",
@@ -5464,7 +7804,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 857,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          26.97,
+          28.962
+        ],
+        "audioDurationSeconds": 2.038,
+        "audioSha256": "e9aa4f94b78ae9d2fa17ad0cfabe93005e0d093cbf54deec9e088d1675ec3135"
       },
       {
         "en": "Look at my mittens.",
@@ -5476,7 +7829,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 857,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          32.442,
+          34.529
+        ],
+        "audioDurationSeconds": 2.116,
+        "audioSha256": "823209acf21b2a6d9ccd599e8a4159a303e08b286c25c89a7277ababaf391dad"
       },
       {
         "en": "Look at my sled.",
@@ -5488,7 +7854,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 857,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          38.618,
+          40.575
+        ],
+        "audioDurationSeconds": 1.985,
+        "audioSha256": "a268ce6012e727a2e008c57c3bd7211140675080bad96efcf77c4f4b0acb0a3d"
       },
       {
         "en": "Look at me!",
@@ -5500,7 +7879,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 976,
         "imageHeight": 1192,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          43.514,
+          45.25
+        ],
+        "audioDurationSeconds": 1.776,
+        "audioSha256": "c384a2ff660eb448683658b6b9372a2fc4d03438a17ddef38c41c5a7ddc8a3c8"
       }
     ],
     "keywords": [
@@ -5622,7 +8014,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "discovery"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 1191,
     "sourceCoverHeight": 976,
     "source": {
@@ -5663,7 +8055,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          6.298,
+          8.565
+        ],
+        "audioDurationSeconds": 2.299,
+        "audioSha256": "cbc6a26b3edb1666be578566f79f6a997a3abcbd3153af85a363a7f4d5ce3182"
       },
       {
         "en": "Look at the hat.",
@@ -5675,7 +8080,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          12.186,
+          14.402
+        ],
+        "audioDurationSeconds": 2.247,
+        "audioSha256": "8f22a0386d1ed2ce7910bc2211c6a28866f424aa91a242aba931d7fe725a974e"
       },
       {
         "en": "Look at the buttons.",
@@ -5687,7 +8105,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          19.002,
+          21.088
+        ],
+        "audioDurationSeconds": 2.116,
+        "audioSha256": "84774bfd252bbe6e7aa9debfd54e64b578177b02da48484cc5aaeffb8cc27a82"
       },
       {
         "en": "Look at the carrot.",
@@ -5699,7 +8130,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          24.89,
+          27.175
+        ],
+        "audioDurationSeconds": 2.325,
+        "audioSha256": "916b832bd54cefca3c16f9599f7956b938f04a00cc7fbb54c34518fa4594e4a3"
       },
       {
         "en": "Look at the banana.",
@@ -5711,7 +8155,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          30.234,
+          32.371
+        ],
+        "audioDurationSeconds": 2.168,
+        "audioSha256": "1a3b1cd4e55091a808f9ac44023cb2279f6320c377a9554775e260c670350e91"
       },
       {
         "en": "Look at the scarf.",
@@ -5723,7 +8180,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          35.866,
+          37.876
+        ],
+        "audioDurationSeconds": 2.038,
+        "audioSha256": "5fb0aa334d8be0c94f16546e95cc7ee59da34a1ce7ab5228ca9bca0b63de5d4c"
       },
       {
         "en": "Look at the stick.",
@@ -5735,7 +8205,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          41.722,
+          43.731
+        ],
+        "audioDurationSeconds": 2.038,
+        "audioSha256": "6f296f956c5af0ac331d8fb16ccd00ae551c02fe9a955baf85885bab1976e104"
       },
       {
         "en": "Look at the snowman!",
@@ -5747,7 +8230,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1192,
         "imageHeight": 976,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          47.386,
+          49.666
+        ],
+        "audioDurationSeconds": 2.325,
+        "audioSha256": "cca4f5f5a032d55e2b8df80909b2e83915f433e2ab143e9ab39fd37133ef0d8c"
       }
     ],
     "keywords": [
@@ -5869,7 +8365,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "everyday"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 975,
     "sourceCoverHeight": 706,
     "source": {
@@ -5909,7 +8405,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          6.266,
+          8.418
+        ],
+        "audioDurationSeconds": 2.194,
+        "audioSha256": "7cdf847cf1479dc24a0cff86081e185311c7155eed3457137800927e76950c4c"
       },
       {
         "en": "Here is my juice.",
@@ -5921,7 +8430,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          11.799,
+          13.728
+        ],
+        "audioDurationSeconds": 1.959,
+        "audioSha256": "127f1769b0997ec276b7b19701658c972cd938ebdf6507c891960e35ec17c999"
       },
       {
         "en": "Here is my bread.",
@@ -5933,7 +8455,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          17.426,
+          19.618
+        ],
+        "audioDurationSeconds": 2.22,
+        "audioSha256": "e8d2fe774aa0cc190812c1a26f3134cdafaf78e8e45d99829632e4d5c758aa0f"
       },
       {
         "en": "Here is my cheese.",
@@ -5945,7 +8480,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          23.226,
+          25.458
+        ],
+        "audioDurationSeconds": 2.273,
+        "audioSha256": "75e1cad4f094b0128078b831b31fa7c7adfa6f27376a94d40f8b82f856837668"
       },
       {
         "en": "Here is my lettuce.",
@@ -5957,7 +8505,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          29.485,
+          31.487
+        ],
+        "audioDurationSeconds": 2.038,
+        "audioSha256": "d6d9fc0262748a61ccb45de6f1ec26b90fbb61399e73c9c490546a1474ece3be"
       },
       {
         "en": "Here is my cookie.",
@@ -5969,7 +8530,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          34.938,
+          37.151
+        ],
+        "audioDurationSeconds": 2.247,
+        "audioSha256": "855c5cbd2856824f189f15e20127f6d276f70da5c13d899ff5e09586334deb1b"
       },
       {
         "en": "Here is my napkin.",
@@ -5981,7 +8555,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          40.474,
+          42.69
+        ],
+        "audioDurationSeconds": 2.247,
+        "audioSha256": "c6aff682ee37fd1fa8ea798fb056a6696b7a2a5b26cbec632d23c7015714a96f"
       },
       {
         "en": "Here is my lunch.",
@@ -5993,7 +8580,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 976,
         "imageHeight": 706,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.16,
+          0.22,
+          0.7,
+          0.76
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          45.466,
+          47.81
+        ],
+        "audioDurationSeconds": 2.377,
+        "audioSha256": "d35f6ff8e04f31af4cb5dd6a5a505a466961b3cf0b1ef5662619a0b8b3c14676"
       }
     ],
     "keywords": [
@@ -6115,7 +8715,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "discovery"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 1191,
     "sourceCoverHeight": 976,
     "source": {
@@ -6156,7 +8756,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          2.407,
+          8.13
+        ],
+        "audioDurationSeconds": 5.773,
+        "audioSha256": "a0560b95fbd91fb7b9254f7b1c71e6789b24baff140cf2163cb1171559e89d90"
       },
       {
         "en": "Here is a ball.",
@@ -6168,7 +8781,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          11.226,
+          13.474
+        ],
+        "audioDurationSeconds": 2.299,
+        "audioSha256": "d1cd658dd83a43974dcb354f86852d64a46006cf3e3e20792cdcf7091276f4d9"
       },
       {
         "en": "Here is a truck.",
@@ -6180,7 +8806,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          17.274,
+          19.586
+        ],
+        "audioDurationSeconds": 2.351,
+        "audioSha256": "ad055ccf3f1cc82026aa90bbfc66e655ef729832bf5f3b65cec597f8cbabb6ac"
       },
       {
         "en": "Here is a bus.",
@@ -6192,7 +8831,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          23.162,
+          25.533
+        ],
+        "audioDurationSeconds": 2.403,
+        "audioSha256": "cfe8d030c12edfc723d7fe8d9510a1786999a67a175d227d7df5b5efce3ad1c8"
       },
       {
         "en": "Here is a boat.",
@@ -6204,7 +8856,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          28.762,
+          31.042
+        ],
+        "audioDurationSeconds": 2.325,
+        "audioSha256": "a0ca6729fffa8165c546b05ed9b286c12b6593c1a617a74987a6a5bc1ae6fdcf"
       },
       {
         "en": "Here is a plane.",
@@ -6216,7 +8881,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          34.618,
+          36.866
+        ],
+        "audioDurationSeconds": 2.299,
+        "audioSha256": "99e0d9462db6fd036ce15d3544b56dd9fb85af5fd860addaca749993c295fbfe"
       },
       {
         "en": "Here is a train.",
@@ -6228,7 +8906,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          40.314,
+          42.53
+        ],
+        "audioDurationSeconds": 2.247,
+        "audioSha256": "7da50a771c7044df6a11e1d700da133d4914c1fefb0516d4be0fc1ab41efb71d"
       },
       {
         "en": "Happy birthday!",
@@ -6240,7 +8931,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1192,
         "imageHeight": 976,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          44.858,
+          46.496
+        ],
+        "audioDurationSeconds": 1.672,
+        "audioSha256": "ab0e1052445ef46e60987380d47ef63da7270625bc0da0dccdf72d8e96a1945a"
       }
     ],
     "keywords": [
@@ -6362,7 +9066,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "discovery"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 1083,
     "sourceCoverHeight": 850,
     "source": {
@@ -6402,7 +9106,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          7.386,
+          9.794
+        ],
+        "audioDurationSeconds": 2.456,
+        "audioSha256": "400c675c9ae2ec750c759a33a53b794cc68713fd1ed23041c79d2f0d0daab0eb"
       },
       {
         "en": "I have a little table.",
@@ -6414,7 +9131,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          13.306,
+          15.746
+        ],
+        "audioDurationSeconds": 2.482,
+        "audioSha256": "3c61c7bcf1b8f7529c335a3afda2f07a27b0d54e6e124678b50108c36471677e"
       },
       {
         "en": "I have a little chair.",
@@ -6426,7 +9156,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          19.098,
+          21.474
+        ],
+        "audioDurationSeconds": 2.403,
+        "audioSha256": "63f1507eb64edcb6bc8f87104ea462153b6e28d9cc9266a11eb849f61e37bbe4"
       },
       {
         "en": "I have a little lamp.",
@@ -6438,7 +9181,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          25.146,
+          27.234
+        ],
+        "audioDurationSeconds": 2.116,
+        "audioSha256": "82b80b01b60f18e03ad46843dc0f488a52a2ecd12945911e6fe14d94c183d14f"
       },
       {
         "en": "I have a little clock.",
@@ -6450,7 +9206,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          31.13,
+          33.314
+        ],
+        "audioDurationSeconds": 2.22,
+        "audioSha256": "42d1f9288c527b4f70fb7a25576b9697ff7cb96a4a4a1ae6f5200e0cca2e4d34"
       },
       {
         "en": "I have a little stove.",
@@ -6462,7 +9231,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          37.594,
+          39.845
+        ],
+        "audioDurationSeconds": 2.299,
+        "audioSha256": "c4aee64ef0eb6612f1171ab030ec817d8ab736684d20bf1c76ca91034f4dee51"
       },
       {
         "en": "I have a little sink.",
@@ -6474,7 +9256,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          44.41,
+          46.626
+        ],
+        "audioDurationSeconds": 2.247,
+        "audioSha256": "feaf1202b814f5ec54f74b04ddc644bd9428ae145cbc676c0e517c13b72769a8"
       },
       {
         "en": "I have a little house!",
@@ -6486,7 +9281,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1084,
         "imageHeight": 850,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0.19,
+          1,
+          0.81
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          50.01,
+          52.326
+        ],
+        "audioDurationSeconds": 2.351,
+        "audioSha256": "d46467724a533eeb0a2b0c716105a95439bb615d19b55d99e86199a1611cf49a"
       }
     ],
     "keywords": [
@@ -6608,7 +9416,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "everyday"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 1083,
     "sourceCoverHeight": 850,
     "source": {
@@ -6648,7 +9456,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          6.746,
+          9.029
+        ],
+        "audioDurationSeconds": 2.325,
+        "audioSha256": "59bf2e7812411b21dd6321116b6596ce998c2042b27af739545399ea85f00390"
       },
       {
         "en": "I have my shirt.",
@@ -6660,7 +9481,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          13.114,
+          15.106
+        ],
+        "audioDurationSeconds": 2.038,
+        "audioSha256": "dd942214d7cbba68c55e20bd0c295d27fcdda44ee061b6dd959a7435260e3bd3"
       },
       {
         "en": "I have my socks.",
@@ -6672,7 +9506,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          20.122,
+          22.169
+        ],
+        "audioDurationSeconds": 2.09,
+        "audioSha256": "68d20c445c960eec760954ed1503bcf7908c53a7f6adeff35a9b881bd997fec9"
       },
       {
         "en": "I have my shoes.",
@@ -6684,7 +9531,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          26.138,
+          28.372
+        ],
+        "audioDurationSeconds": 2.273,
+        "audioSha256": "e255b78ff915c657f605f0595dc71a41f112010df2ac16eee3358c09bf1c64a5"
       },
       {
         "en": "I have my toothbrush.",
@@ -6696,7 +9556,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          33.306,
+          35.682
+        ],
+        "audioDurationSeconds": 2.403,
+        "audioSha256": "10e71484876a49aae2bb506ef46d39dfb64f51a6a7e99e93cce5b22219525a9d"
       },
       {
         "en": "I have my pajamas.",
@@ -6708,7 +9581,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          39.882,
+          42.205
+        ],
+        "audioDurationSeconds": 2.351,
+        "audioSha256": "20e3022927af23d53b10963c53e9d23bdf8607e71a7723f3b475a290a645afbe"
       },
       {
         "en": "I have my bear.",
@@ -6720,7 +9606,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          46.362,
+          48.45
+        ],
+        "audioDurationSeconds": 2.116,
+        "audioSha256": "72da27ea834c7db1cb103fdaf094cb4db243d86aef654d32eb30075d4ebb62e4"
       },
       {
         "en": "I have my bag.",
@@ -6732,7 +9631,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1084,
         "imageHeight": 850,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          51.61,
+          53.698
+        ],
+        "audioDurationSeconds": 2.116,
+        "audioSha256": "8fab0397c5398ab0fb433283e82e0599800403f70ffaa13bab26736d26da0942"
       }
     ],
     "keywords": [
@@ -6854,7 +9766,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "everyday"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 1191,
     "sourceCoverHeight": 976,
     "source": {
@@ -6894,7 +9806,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          7.354,
+          9.41
+        ],
+        "audioDurationSeconds": 2.09,
+        "audioSha256": "1537a8ef0edc4d42331be568a57051e3f6cafa90a18f5cca8805ee92cdc42f53"
       },
       {
         "en": "Here is the napkin.",
@@ -6906,7 +9831,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          13.146,
+          15.49
+        ],
+        "audioDurationSeconds": 2.377,
+        "audioSha256": "5b4672de82b5ba4fcd46d5dd19a084a489e0b8832ea395827a1a241d6f2bf170"
       },
       {
         "en": "Here is the plate.",
@@ -6918,7 +9856,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          19.098,
+          21.281
+        ],
+        "audioDurationSeconds": 2.22,
+        "audioSha256": "654cae6680907522d3210066d6f9f52a8507ef9fa7fa118de4fd2441e4d7ffe1"
       },
       {
         "en": "Here is the knife.",
@@ -6930,7 +9881,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          25.146,
+          27.33
+        ],
+        "audioDurationSeconds": 2.22,
+        "audioSha256": "3a7144a0d4188d75c7c90a26a6b3154d54e45287996d452eae5dd81a26d1c4ef"
       },
       {
         "en": "Here is the fork.",
@@ -6942,7 +9906,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          31.514,
+          33.666
+        ],
+        "audioDurationSeconds": 2.194,
+        "audioSha256": "647c56c0b2d5c438e59f9dc4042c6e23cf09fc3d99c829f0f7b7019789d5083b"
       },
       {
         "en": "Here is the spoon.",
@@ -6954,7 +9931,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          37.338,
+          39.65
+        ],
+        "audioDurationSeconds": 2.351,
+        "audioSha256": "913e368b95dbddb9dd0e5e4b77479fa7c8eae9119340063e641091175919b0c0"
       },
       {
         "en": "Here is the glass.",
@@ -6966,7 +9956,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          43.29,
+          45.663
+        ],
+        "audioDurationSeconds": 2.403,
+        "audioSha256": "0d6ce19bc0fef4137cda8cf66175005d0e14961a364096f544ae828875774b9e"
       },
       {
         "en": "Here is the table.",
@@ -6978,7 +9981,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1192,
         "imageHeight": 976,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0.2,
+          1,
+          0.8
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          48.73,
+          51.074
+        ],
+        "audioDurationSeconds": 2.377,
+        "audioSha256": "39784b0d1276ea81c22ffe12df915fe2f3d66ada2093eee52029060aaae5c457"
       }
     ],
     "keywords": [
@@ -7100,7 +10116,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "nature"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 975,
     "sourceCoverHeight": 706,
     "source": {
@@ -7140,7 +10156,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          6.362,
+          8.61
+        ],
+        "audioDurationSeconds": 2.299,
+        "audioSha256": "8beb2c5fe17e4cf6080e795642b682d429f7d4d1988163bd83852f8220bfc590"
       },
       {
         "en": "Here is the dirt.",
@@ -7152,7 +10181,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          11.995,
+          14.146
+        ],
+        "audioDurationSeconds": 2.194,
+        "audioSha256": "a76db6ebe2ba7979ed2f70c852d6a8e205e1bdf7ef181b519af1fd51bfc61bf3"
       },
       {
         "en": "Here is the seed.",
@@ -7164,7 +10206,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          17.882,
+          20.188
+        ],
+        "audioDurationSeconds": 2.351,
+        "audioSha256": "14fba779a12617873f8dcc8d7f0f861d508a03de5be9ca7454ce9bf3f59b7cbc"
       },
       {
         "en": "Here is the water.",
@@ -7176,7 +10231,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          23.514,
+          25.846
+        ],
+        "audioDurationSeconds": 2.377,
+        "audioSha256": "b7610ac5991bc696a25cd58f8f6cdbf93250d8687bdd1ea8e45abe7bef25fc87"
       },
       {
         "en": "Here is the sun.",
@@ -7188,7 +10256,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          29.37,
+          31.554
+        ],
+        "audioDurationSeconds": 2.22,
+        "audioSha256": "02b4c480b37f27e961b90fa7029454f83442ea4d3d5a88fcd43f05f2985413f3"
       },
       {
         "en": "Here is the stem.",
@@ -7200,7 +10281,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          35.418,
+          37.634
+        ],
+        "audioDurationSeconds": 2.247,
+        "audioSha256": "763ce40b892e30330371d0be1c831cbbe03a2c314f9ff93edaf8562d3cc1d69f"
       },
       {
         "en": "Here is the leaf.",
@@ -7212,7 +10306,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          41.188,
+          43.138
+        ],
+        "audioDurationSeconds": 1.985,
+        "audioSha256": "65afaf66889e1d79dfd54cb5d729e18d42e561ae696dd759e827ead8c4caf3fe"
       },
       {
         "en": "Here is the flower.",
@@ -7224,7 +10331,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 976,
         "imageHeight": 706,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0.16,
+          1,
+          0.84
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          46.394,
+          48.59
+        ],
+        "audioDurationSeconds": 2.247,
+        "audioSha256": "710fd3ca82c3370d7da7f781d4f838ecc040b159b2b27c2108bf2fe55966a93e"
       }
     ],
     "keywords": [
@@ -7346,7 +10466,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "feelings"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 1191,
     "sourceCoverHeight": 976,
     "source": {
@@ -7386,7 +10506,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          7.738,
+          10.925
+        ],
+        "audioDurationSeconds": 3.239,
+        "audioSha256": "b041f66c2dc9891afebead85d1e20dcc478f1356699ea0af92e1f42a5b42fabf"
       },
       {
         "en": "We like to play with the trucks.",
@@ -7398,7 +10531,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          13.178,
+          16.291
+        ],
+        "audioDurationSeconds": 3.161,
+        "audioSha256": "fff4b6f9d5eb8230d51db0ed2c23c39c95212533f3ecbb96e545c39c9468693f"
       },
       {
         "en": "We like to play with the dolls.",
@@ -7410,7 +10556,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          19.13,
+          22.155
+        ],
+        "audioDurationSeconds": 3.056,
+        "audioSha256": "b08c6d118c3f73db648dc626b70940aec830c90600befa43112562f814caefc1"
       },
       {
         "en": "We like to play with a ball.",
@@ -7422,7 +10581,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          24.826,
+          27.714
+        ],
+        "audioDurationSeconds": 2.926,
+        "audioSha256": "eb7deda862514cce19d501b87655a2918e27a3793886cb20e9d49156373736fc"
       },
       {
         "en": "We like to play with the bears.",
@@ -7434,7 +10606,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          30.682,
+          33.615
+        ],
+        "audioDurationSeconds": 2.978,
+        "audioSha256": "53b21b0f8234433354df20c559d96fbeb2e03854a1ec9660e957b0d05a5f5c8a"
       },
       {
         "en": "We like to play with the puzzles.",
@@ -7446,7 +10631,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          36.378,
+          39.402
+        ],
+        "audioDurationSeconds": 3.056,
+        "audioSha256": "656fbada9319651945a85852f05f7ec5edfc2994a74862c6b8d05fcaeb0a2733"
       },
       {
         "en": "We like to play with the cars.",
@@ -7458,7 +10656,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          41.978,
+          44.844
+        ],
+        "audioDurationSeconds": 2.9,
+        "audioSha256": "27db3e0a1abb9d78d6082328feab1c987b6cf9f5d961a2868a685e6281aa0667"
       },
       {
         "en": "We like to play with the toys.",
@@ -7470,7 +10681,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1192,
         "imageHeight": 976,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.02,
+          0.06,
+          0.96,
+          0.65
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          47.098,
+          50.363
+        ],
+        "audioDurationSeconds": 3.291,
+        "audioSha256": "688b6782675a707d78aca36a894ae1914478e7e906a7c4b54f8fb388029d92a6"
       }
     ],
     "keywords": [
@@ -7592,7 +10816,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "nature"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 975,
     "sourceCoverHeight": 706,
     "source": {
@@ -7633,7 +10857,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          5.242,
+          7.522
+        ],
+        "audioDurationSeconds": 2.325,
+        "audioSha256": "2f78e1cab09274163a75e2bfca43bc6a1b6324383cac9e1e38a3b6f5950c53fd"
       },
       {
         "en": "Polly likes the carrot.",
@@ -7645,7 +10882,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          10.234,
+          12.852
+        ],
+        "audioDurationSeconds": 2.664,
+        "audioSha256": "614ed078cd5920292904f1fd5eba772fdb2facbf47000f7b83a228f1cbec0094"
       },
       {
         "en": "She likes the apple.",
@@ -7657,7 +10907,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          15.61,
+          18.114
+        ],
+        "audioDurationSeconds": 2.534,
+        "audioSha256": "08860ee2a36d066e775103c6e032b8776a981d37cf1064e2acc50d45b5f4fea8"
       },
       {
         "en": "She likes the tomato.",
@@ -7669,7 +10932,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          20.57,
+          22.942
+        ],
+        "audioDurationSeconds": 2.403,
+        "audioSha256": "2bf953861db5b1aae01751d4c503a64b20efc73973c92fa5f6ac9b2486437b90"
       },
       {
         "en": "Polly likes the orange.",
@@ -7681,7 +10957,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          25.592,
+          27.971
+        ],
+        "audioDurationSeconds": 2.429,
+        "audioSha256": "7dc9c75d243b8b85a4574d754f165617229771d27defa9e169217687e215e28e"
       },
       {
         "en": "She likes the corn.",
@@ -7693,7 +10982,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          30.202,
+          32.258
+        ],
+        "audioDurationSeconds": 2.09,
+        "audioSha256": "07fdd11e2b6403c3a656afd8f28d2e3e1c20a84d50161c831865c075717fc833"
       },
       {
         "en": "She likes the flower.",
@@ -7705,7 +11007,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          34.55,
+          36.642
+        ],
+        "audioDurationSeconds": 2.142,
+        "audioSha256": "72f6a229dae7840da01442a1cae4bfc323707b76cce439899517a9fbbd92d1ac"
       },
       {
         "en": "Polly likes the hat!",
@@ -7717,7 +11032,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 976,
         "imageHeight": 706,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0.2,
+          1,
+          0.8
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          38.138,
+          40.578
+        ],
+        "audioDurationSeconds": 2.482,
+        "audioSha256": "01d9706ff7d8c6c117d31aeb526afe52bdd7c23e42ac5720949437701eea79ab"
       }
     ],
     "keywords": [
@@ -7839,7 +11167,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "nature"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 939,
     "sourceCoverHeight": 795,
     "source": {
@@ -7879,7 +11207,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          7.098,
+          10.114
+        ],
+        "audioDurationSeconds": 3.056,
+        "audioSha256": "61656a7cfebe999c28a18de6edb62d587cde7e41ddd79d877af749ef2ea4d71f"
       },
       {
         "en": "And a little kitten is at the farm, too.",
@@ -7891,7 +11232,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          13.114,
+          17.218
+        ],
+        "audioDurationSeconds": 4.153,
+        "audioSha256": "35336e9fd5a494cf7bf6e6ca5def5ded2a2ff4b3c7e1aa2431825fd35d297e78"
       },
       {
         "en": "A dog is at the farm.",
@@ -7903,7 +11257,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          20.405,
+          22.946
+        ],
+        "audioDurationSeconds": 2.586,
+        "audioSha256": "a7ab35744bf2711ce673fd9f580cb1d1df41e92e49dbbd5c90213d505aa19773"
       },
       {
         "en": "And a little puppy is at the farm, too.",
@@ -7915,7 +11282,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          26.074,
+          30.274
+        ],
+        "audioDurationSeconds": 4.232,
+        "audioSha256": "251e0ce5aafa51e0d438273fbaf112a64573f795168af32defee7d145158723c"
       },
       {
         "en": "A duck is at the farm.",
@@ -7927,7 +11307,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          33.626,
+          36.482
+        ],
+        "audioDurationSeconds": 2.9,
+        "audioSha256": "ce975f0da1b7902c31b45c764e1485f14b823b241a8053f8e4a6d2911fabba8b"
       },
       {
         "en": "And a little duckling is at the farm, too.",
@@ -7939,7 +11332,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          39.994,
+          44.162
+        ],
+        "audioDurationSeconds": 4.206,
+        "audioSha256": "603e2b9d6b0a649682e9e4f00d0879ae7814dc62ff571d877210fd2d6d9ec893"
       },
       {
         "en": "The pig is at the farm.",
@@ -7951,7 +11357,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          47.158,
+          49.922
+        ],
+        "audioDurationSeconds": 2.795,
+        "audioSha256": "e46857fbcf05bf523013315cbd5fc50b2b01d1eec95936c4b1deea064b0c666c"
       },
       {
         "en": "And the little piglet is at the farm, too.",
@@ -7963,7 +11382,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 938,
         "imageHeight": 794,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          0.6
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          52.89,
+          57.278
+        ],
+        "audioDurationSeconds": 4.415,
+        "audioSha256": "d82578c5320336241b7b7d27793ae3ca0498a0cf59b5042d3b234c620e8fa8c9"
       }
     ],
     "keywords": [
@@ -8085,7 +11517,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "everyday"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 1083,
     "sourceCoverHeight": 850,
     "source": {
@@ -8126,7 +11558,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          7.098,
+          9.21
+        ],
+        "audioDurationSeconds": 2.142,
+        "audioSha256": "ace290255dfcc7ae23416591ffc7de02c313b55e9642e0b33d281db6456383e8"
       },
       {
         "en": "Look at the bird.",
@@ -8138,7 +11583,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          11.898,
+          13.916
+        ],
+        "audioDurationSeconds": 2.064,
+        "audioSha256": "e2ec063f2c7aa1e00dc3ba2d85c256e342cf574561899513e4be16c86e415beb"
       },
       {
         "en": "Look at the flower.",
@@ -8150,7 +11608,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          17.37,
+          19.36
+        ],
+        "audioDurationSeconds": 2.038,
+        "audioSha256": "6bd48c014b5dcb8f68582550f027531d8d7a5849bd9b97e94893bab6c51eccee"
       },
       {
         "en": "Look at the dog.",
@@ -8162,7 +11633,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          23.002,
+          24.994
+        ],
+        "audioDurationSeconds": 2.038,
+        "audioSha256": "a8bbd91a15e2c3fb59d2458d419d483187a986d18febd08297ec4403f6e20e62"
       },
       {
         "en": "Look at the car.",
@@ -8174,7 +11658,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          28.154,
+          30.178
+        ],
+        "audioDurationSeconds": 2.064,
+        "audioSha256": "1c7a2c6d7221d1257cefd502259eb54affb4c73bebc3f3f84c4b2e26396c7f9d"
       },
       {
         "en": "Look at the tree.",
@@ -8186,7 +11683,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          33.498,
+          35.551
+        ],
+        "audioDurationSeconds": 2.09,
+        "audioSha256": "c4ab6298deb2e645057221df85de187f5e0b319f25b005d92ee5bf737794acef"
       },
       {
         "en": "Look at the rainbow.",
@@ -8198,7 +11708,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          38.426,
+          40.468
+        ],
+        "audioDurationSeconds": 2.09,
+        "audioSha256": "c710b65cab407a576d2a08aad72c400c9fc5e3da4951aa1a5b83f179cf7e1bf1"
       },
       {
         "en": "Look at the rain!",
@@ -8210,7 +11733,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1084,
         "imageHeight": 850,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          43.77,
+          45.806
+        ],
+        "audioDurationSeconds": 2.064,
+        "audioSha256": "2d6ccce5059c86ff95d1fc544ca82a9cf8465b9a3b8f3a7d42aec95934b69c4e"
       }
     ],
     "keywords": [
@@ -8323,7 +11859,7 @@ window.JIGU_BOOKS = [
   {
     "id": "heinemann-gk-35",
     "number": 35,
-    "title": "The Hat  Retold by Michael Shannon Heinemann  361 Hanover Street  Portsmouth, NH 03801–3912  www.heinemann.com Offices and agents throughout the world Fountas and Pinnell Leveled Literacy Intervention Books  Copyright © 2009 by Irene C. Fountas, Gay Su Pinnell, and Heinemann All rights reserved. No portion of this book may be reproduced in any form or by any electronic  or mechanical means, including information storage and retrieval systems, without permission  in writing from the publisher. Requests for permission should be mailed to the Permissions  Department at Heinemann, 361 Hanover Street, Portsmouth, NH 03801. ISBN-13: 978-0-325-01441-8\t ISBN-10: 0-325-01441-8 Editorial Development, Design, and Production by Brown Publishing Network Credits  Illustrations: Richard Bernal Photographs: pp. 19–24 (Narrator 1) © Sergio Burani; (Narrator 2) © Ken O’Donoghue; (Narrator 3)  © Lawrence Migdale/PIX. Printed in China  09 10 11 12 13 14 15 16  RRD  8 7 6 5 4 3 2 1",
+    "title": "The Hat",
     "zh": "挤进帽子里",
     "series": "海尼曼 GK",
     "fpLevel": "B",
@@ -8332,7 +11868,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "discovery"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 1400,
     "sourceCoverHeight": 888,
     "source": {
@@ -8372,7 +11908,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 888,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          6.618,
+          9.506
+        ],
+        "audioDurationSeconds": 2.926,
+        "audioSha256": "4d303744fd59804c7d4ff257e25c250f28390d23ee50a06c3be1685d2c286feb"
       },
       {
         "en": "The fox went in the hat.",
@@ -8384,7 +11933,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 888,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          12.986,
+          15.842
+        ],
+        "audioDurationSeconds": 2.9,
+        "audioSha256": "a8441a69f6a99ab237cff72a58e176932391b68d855a9c496314684431e79343"
       },
       {
         "en": "A rabbit went in the hat.",
@@ -8396,7 +11958,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 888,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          19.226,
+          22.178
+        ],
+        "audioDurationSeconds": 3.004,
+        "audioSha256": "d399047a42899ca09d4604da80fc5750a98cb97f22bcd2cfc67e46e9287bf9fc"
       },
       {
         "en": "A duck went in the hat.",
@@ -8408,7 +11983,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 888,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          26.49,
+          29.218
+        ],
+        "audioDurationSeconds": 2.769,
+        "audioSha256": "c502d77c371a85bdbe21fa50702fc9749f431497328e7307a6c22d84c27c1a7f"
       },
       {
         "en": "The squirrel went in the hat.",
@@ -8420,7 +12008,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 888,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          33.37,
+          36.386
+        ],
+        "audioDurationSeconds": 3.056,
+        "audioSha256": "684c08f31c7cf13e7feefaaf0b12f740ef48c0d66a6241eae7ba2093d8807bdd"
       },
       {
         "en": "A mouse went in the hat.",
@@ -8432,7 +12033,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 888,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          39.674,
+          42.434
+        ],
+        "audioDurationSeconds": 2.795,
+        "audioSha256": "143641ff6e916cf414cd3fee767fd74a0beefe5f5b6c79658bb21b2ce23d2419"
       },
       {
         "en": "The ant went in the hat.",
@@ -8444,7 +12058,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 888,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          45.8,
+          48.738
+        ],
+        "audioDurationSeconds": 2.978,
+        "audioSha256": "e4a81382a3e0ae89fad0a32e65a019ddc7cb0f2597f30c784d0e4a2802d70cc9"
       },
       {
         "en": "Pop!",
@@ -8456,7 +12083,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 888,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          50.1,
+          51.35
+        ],
+        "audioDurationSeconds": 1.28,
+        "audioSha256": "581ec405fc63d3e43de50409bd20b20ce2c3d72addeaf3c28b85cfc42b129515"
       }
     ],
     "keywords": [
@@ -8579,7 +12219,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "nature"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 939,
     "sourceCoverHeight": 796,
     "source": {
@@ -8619,7 +12259,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          6.682,
+          8.898
+        ],
+        "audioDurationSeconds": 2.247,
+        "audioSha256": "685d7293fe7ec116cf9bb1b56d2108832ff464e93a717f7dda25f37b8155ad9e"
       },
       {
         "en": "Here is a puppy.",
@@ -8631,7 +12284,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          11.578,
+          13.762
+        ],
+        "audioDurationSeconds": 2.22,
+        "audioSha256": "c25ed8815f28e756e3a6377816643c2a2cfda38a42b659f9f2160d034de4564c"
       },
       {
         "en": "Here is a fish.",
@@ -8643,7 +12309,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          17.37,
+          19.128
+        ],
+        "audioDurationSeconds": 1.802,
+        "audioSha256": "1a2b723d0588d7e02ce5e84e1bfcd25329bc7c09653b9a55ab48ea379cc593e7"
       },
       {
         "en": "Here is a frog.",
@@ -8655,7 +12334,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          22.746,
+          24.802
+        ],
+        "audioDurationSeconds": 2.09,
+        "audioSha256": "9735a2f0fdb3c12e8c6ad757102ad60a3fa15ec6d5a8a880dfb2a86337d7d17f"
       },
       {
         "en": "Here is a gerbil.",
@@ -8667,7 +12359,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          28.762,
+          30.978
+        ],
+        "audioDurationSeconds": 2.247,
+        "audioSha256": "0aa648202048f6bf0653e1eb9e9e679fbc566c1fbffcc9780046b882c43f29cb"
       },
       {
         "en": "Here is a bird.",
@@ -8679,7 +12384,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          34.106,
+          36.219
+        ],
+        "audioDurationSeconds": 2.142,
+        "audioSha256": "67595a57ccf905285961d56efc17c806948e0cd2c2690c85cd49e66c312e000a"
       },
       {
         "en": "Here is a snake.",
@@ -8691,7 +12409,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          39.706,
+          41.762
+        ],
+        "audioDurationSeconds": 2.09,
+        "audioSha256": "db75847e281462253f3fe2a4f2747cc5740adad79e2392b5d6b56ca434db7963"
       },
       {
         "en": "Here is a bunny.",
@@ -8703,7 +12434,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 940,
         "imageHeight": 796,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0.18,
+          1,
+          0.82
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          44.954,
+          46.978
+        ],
+        "audioDurationSeconds": 2.064,
+        "audioSha256": "91d8b50db5b4f04a69bcced319a675734dca015ee53735b89ef3f717356dc8f2"
       }
     ],
     "keywords": [
@@ -8825,7 +12569,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "everyday"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 1191,
     "sourceCoverHeight": 976,
     "source": {
@@ -8866,7 +12610,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          6.362,
+          9.474
+        ],
+        "audioDurationSeconds": 3.161,
+        "audioSha256": "039135965d08a97a286bd17d45631c78dd9c8f3a987aa0560d1f1bcbe2828397"
       },
       {
         "en": "We put the toys in the car.",
@@ -8878,7 +12635,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          12.095,
+          15.362
+        ],
+        "audioDurationSeconds": 3.318,
+        "audioSha256": "a5514fefe7f8fe8dd3f356021dfb7c85af59ee7126de38e58b550bf911085b8e"
       },
       {
         "en": "We put the blankets in the car.",
@@ -8890,7 +12660,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          17.754,
+          21.186
+        ],
+        "audioDurationSeconds": 3.474,
+        "audioSha256": "47d8b2ff135b37b3f69fb413322e597ffbc71a5ae54d8b18c99bc61c5eb81fe0"
       },
       {
         "en": "We put the balls in the car.",
@@ -8902,7 +12685,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          23.61,
+          27.042
+        ],
+        "audioDurationSeconds": 3.474,
+        "audioSha256": "ed78b6a5bbda1e5247b46cf162dae5d703bbc05d6d5ac41703327dd12b243713"
       },
       {
         "en": "We put the bears in the car.",
@@ -8914,7 +12710,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          29.754,
+          33.09
+        ],
+        "audioDurationSeconds": 3.37,
+        "audioSha256": "ff83dc2faa9e4aa7307d96784b037d5f6259cfd9c3dd84ff6d27e0cbc0fc8fa1"
       },
       {
         "en": "We put the food in the car.",
@@ -8926,7 +12735,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          35.738,
+          39.042
+        ],
+        "audioDurationSeconds": 3.344,
+        "audioSha256": "bf339af0868968b4199f095fea2a9dbc95941269914186f05b7c3685f2ffa667"
       },
       {
         "en": "We put the dogs in the car.",
@@ -8938,7 +12760,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          41.338,
+          44.738
+        ],
+        "audioDurationSeconds": 3.448,
+        "audioSha256": "2803fe8959ec7baf558f8013bd1a17ff42790ff1d5a1e9da1d143accce06cc71"
       },
       {
         "en": "Good-bye!",
@@ -8950,7 +12785,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1192,
         "imageHeight": 976,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0.25,
+          1,
+          0.75
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          45.786,
+          47.138
+        ],
+        "audioDurationSeconds": 1.384,
+        "audioSha256": "9d9c02bee9ceea785e767b791ebacce4c8cb6afe5ad75d4c703efcab8f7ac944"
       }
     ],
     "keywords": [
@@ -9072,7 +12920,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "discovery"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 975,
     "sourceCoverHeight": 706,
     "source": {
@@ -9112,7 +12960,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          5.37,
+          8.051
+        ],
+        "audioDurationSeconds": 2.717,
+        "audioSha256": "53299b0db231ea8f853ea412d4dc55778b1b51c5ac8c5d19a4a062d72c8f5c76"
       },
       {
         "en": "A car has wheels.",
@@ -9124,7 +12985,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          10.074,
+          12.824
+        ],
+        "audioDurationSeconds": 2.795,
+        "audioSha256": "38f3e584590f10edec8181c8d189cc21d1b5c9fe4770929cd4a60d63bd6f399b"
       },
       {
         "en": "A truck has wheels.",
@@ -9136,7 +13010,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          15.77,
+          18.274
+        ],
+        "audioDurationSeconds": 2.534,
+        "audioSha256": "6c1065c1467f581b76575718e87c5bd80d457c50720ddf61d9ccd6fa0747b42d"
       },
       {
         "en": "A bus has wheels.",
@@ -9148,7 +13035,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          21.722,
+          24.115
+        ],
+        "audioDurationSeconds": 2.429,
+        "audioSha256": "cd48923d38141c2ea4a11779d71d4eb61faa3384c232c6202dd5c0b18eee8cfd"
       },
       {
         "en": "A van has wheels.",
@@ -9160,7 +13060,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          28.154,
+          30.491
+        ],
+        "audioDurationSeconds": 2.377,
+        "audioSha256": "177d4fcd304123549682d092e752dfe60e28e6e78cb9ea09147977fa44657d74"
       },
       {
         "en": "A plane has wheels.",
@@ -9172,7 +13085,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          33.818,
+          36.439
+        ],
+        "audioDurationSeconds": 2.664,
+        "audioSha256": "b320dd958554a2535a7f193e26924deb62a2efa801a7e187ed50fa282239a313"
       },
       {
         "en": "A train has wheels.",
@@ -9184,7 +13110,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          38.924,
+          41.248
+        ],
+        "audioDurationSeconds": 2.351,
+        "audioSha256": "c3a2531315c2764702748e36930705ade53c7558e502f10dacc5232ead62ce49"
       },
       {
         "en": "A wheelchair has wheels!",
@@ -9196,7 +13135,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 976,
         "imageHeight": 706,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          0.68
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          43.519,
+          46.377
+        ],
+        "audioDurationSeconds": 2.9,
+        "audioSha256": "caafc04d843c8b366f838161bed19564cb81c85e34bce4f37c2ac2e9b5850f43"
       }
     ],
     "keywords": [
@@ -9319,7 +13271,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "everyday"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 1191,
     "sourceCoverHeight": 976,
     "source": {
@@ -9360,7 +13312,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          5.434,
+          8.582
+        ],
+        "audioDurationSeconds": 3.187,
+        "audioSha256": "2941afa822d707c4202f17c8b793f14c1cc521a8f368a874b660fb5e05ed7d82"
       },
       {
         "en": "Puff likes to hide in the bag.",
@@ -9372,7 +13337,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          11.13,
+          14.242
+        ],
+        "audioDurationSeconds": 3.161,
+        "audioSha256": "7e7957853cbe370f3f2fc29b6835ca999e92efb9bcfe85a1e1df958645f7ea7e"
       },
       {
         "en": "Puff likes to hide in the closet.",
@@ -9384,7 +13362,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          16.73,
+          19.92
+        ],
+        "audioDurationSeconds": 3.239,
+        "audioSha256": "128f53592c58563a1a9362708eeb50f2423af02957a508746640ddda3395e2a4"
       },
       {
         "en": "Puff likes to hide behind the chair.",
@@ -9396,7 +13387,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          22.586,
+          26.018
+        ],
+        "audioDurationSeconds": 3.474,
+        "audioSha256": "f6b02cb16f66f9e74786df1a021eba0bafe732b0f749abae686134fab3acad75"
       },
       {
         "en": "Puff likes to hide in the basket.",
@@ -9408,7 +13412,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          29.402,
+          32.553
+        ],
+        "audioDurationSeconds": 3.187,
+        "audioSha256": "2b1b96ce009386de9cb1aa1147469c5623d8eea83cbc02343a83a510df7f0a12"
       },
       {
         "en": "Puff likes to hide under the rug.",
@@ -9420,7 +13437,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          35.706,
+          38.754
+        ],
+        "audioDurationSeconds": 3.082,
+        "audioSha256": "b5bb262f0cb45d8bc0dda25c4dc7044396edc21d1dda1ed6eeb89dfc2b535765"
       },
       {
         "en": "Puff likes to hide under the bed.",
@@ -9432,7 +13462,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          41.914,
+          45.186
+        ],
+        "audioDurationSeconds": 3.318,
+        "audioSha256": "b36ae3754a81597f6f780e27fbabc6d34c5c060b2cfafca52c08f9455c8bec4f"
       },
       {
         "en": "Puff likes to hide in the bed, too.",
@@ -9444,7 +13487,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1192,
         "imageHeight": 976,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          48.186,
+          51.746
+        ],
+        "audioDurationSeconds": 3.605,
+        "audioSha256": "0a78b87fbe25165591d590fb1386096c2cbd06063229cdbceb43909396d28eee"
       }
     ],
     "keywords": [
@@ -9566,7 +13622,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "discovery"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 1083,
     "sourceCoverHeight": 850,
     "source": {
@@ -9607,7 +13663,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          5.786,
+          8.214
+        ],
+        "audioDurationSeconds": 2.456,
+        "audioSha256": "d708f47071308c1ecc4c3914995d0d4e4a53c493a498ef0cbac169374b9f3c75"
       },
       {
         "en": "Come and see the horse.",
@@ -9619,7 +13688,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          10.97,
+          13.286
+        ],
+        "audioDurationSeconds": 2.351,
+        "audioSha256": "8a13ef33a7c2bd17bb20927d6a8ceb8a837afbc71c9e9eb54efb6b63bc10d8eb"
       },
       {
         "en": "Come and see a dog.",
@@ -9631,7 +13713,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          16.474,
+          18.722
+        ],
+        "audioDurationSeconds": 2.299,
+        "audioSha256": "a6798daae4a18a5bea20ba21d725f916eca3e7fcdea441d48d52bf04c6fe6d61"
       },
       {
         "en": "Come and see a bear.",
@@ -9643,7 +13738,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          22.714,
+          25.015
+        ],
+        "audioDurationSeconds": 2.351,
+        "audioSha256": "115eaa6c7d8b5cde8493e8d769d6dcb69b2b2d640cc1221bf1680e8a5758cfd0"
       },
       {
         "en": "Come and see the lion.",
@@ -9655,7 +13763,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          27.994,
+          30.37
+        ],
+        "audioDurationSeconds": 2.403,
+        "audioSha256": "15a24fefa94674089c31fb296d68e62e9fdc51d93b34f7b7d416fd04265b629a"
       },
       {
         "en": "Come and see an elephant.",
@@ -9667,7 +13788,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          33.178,
+          35.582
+        ],
+        "audioDurationSeconds": 2.456,
+        "audioSha256": "758939296d4ff0e2145289c6e02e7c6309331f1ace757cebadf3af0a8c897f26"
       },
       {
         "en": "Come and see a tiger.",
@@ -9679,7 +13813,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          38.458,
+          40.83
+        ],
+        "audioDurationSeconds": 2.403,
+        "audioSha256": "838a0b58d7ddd17b0ce0c2244f47c9ce158ee44b91ce74c1765ae9306d93cd82"
       },
       {
         "en": "Come and see the show!",
@@ -9691,7 +13838,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1084,
         "imageHeight": 850,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          43.002,
+          45.41
+        ],
+        "audioDurationSeconds": 2.456,
+        "audioSha256": "da6f2ffe4f01268eb3b4f6a62edc54d371dc6116d1b86b72d3a35d1ab63458dd"
       }
     ],
     "keywords": [
@@ -9813,7 +13973,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "discovery"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 1083,
     "sourceCoverHeight": 850,
     "source": {
@@ -9854,7 +14014,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          6.426,
+          8.994
+        ],
+        "audioDurationSeconds": 2.612,
+        "audioSha256": "cc8d53cd18ffea1a59b69641242202a2a9046b08bd0c174be9bb44b28bde48d2"
       },
       {
         "en": "I can hop in the leaves.",
@@ -9866,7 +14039,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          11.866,
+          14.458
+        ],
+        "audioDurationSeconds": 2.638,
+        "audioSha256": "9dd2c18e1e9c084d8102e582059d53ba1c1b16ca9b3346700c5f1322149346b1"
       },
       {
         "en": "I can hop on the wall.",
@@ -9878,7 +14064,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          18.235,
+          20.29
+        ],
+        "audioDurationSeconds": 2.09,
+        "audioSha256": "791cc881a70b004d6cebcb1cea0e4c8c112cc2ef206481c771501d3d4c33d799"
       },
       {
         "en": "I can hop on the rocks.",
@@ -9890,7 +14089,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          23.962,
+          26.383
+        ],
+        "audioDurationSeconds": 2.456,
+        "audioSha256": "746d1ced0397a44e9b8ed9c45b04c08dc8e85fd638cd2680ee7ded9037b9954a"
       },
       {
         "en": "I can hop in a puddle.",
@@ -9902,7 +14114,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          30.65,
+          33.09
+        ],
+        "audioDurationSeconds": 2.482,
+        "audioSha256": "0e0f94155b760ae7e89e17cc644fd47cfb42625acf4ba73995cd5a816e0993c5"
       },
       {
         "en": "I can hop up the stairs.",
@@ -9914,7 +14139,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          36.666,
+          39.225
+        ],
+        "audioDurationSeconds": 2.586,
+        "audioSha256": "2abb85a4987844f3c8d0b51b749c6f92881fcd928b0d7891b73df86c31d701f6"
       },
       {
         "en": "I can hop, hop, hop on the bed.",
@@ -9926,7 +14164,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          42.523,
+          46.338
+        ],
+        "audioDurationSeconds": 3.866,
+        "audioSha256": "bfba9308956fbd0c99da5b386994d79d47eb8e190f3a53aeca9652af79852443"
       },
       {
         "en": "And I can hop in the tub.",
@@ -9938,7 +14189,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1084,
         "imageHeight": 850,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          50.106,
+          52.002
+        ],
+        "audioDurationSeconds": 1.933,
+        "audioSha256": "6cf4380c1907d26b4e06a569d183f720fd0767c4f51c321eedf4521d904adc80"
       }
     ],
     "keywords": [
@@ -10060,7 +14324,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "discovery"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 1083,
     "sourceCoverHeight": 850,
     "source": {
@@ -10101,7 +14365,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          6.522,
+          8.546
+        ],
+        "audioDurationSeconds": 2.064,
+        "audioSha256": "2e34c932d13c43b7d25d294d10a60f7ea27a972e52252c9dda4f85dd0609e997"
       },
       {
         "en": "I can see the ticket.",
@@ -10113,7 +14390,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          12.282,
+          14.306
+        ],
+        "audioDurationSeconds": 2.064,
+        "audioSha256": "a69ec255928cbdee4b7a2449f7e209d711d849f3f6eb62adffb31746f225457f"
       },
       {
         "en": "I can see the popcorn.",
@@ -10125,7 +14415,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          18.298,
+          20.36
+        ],
+        "audioDurationSeconds": 2.09,
+        "audioSha256": "daab38d576d0a1420786dc1ae3b5a63f098d1754d467ee76d6b05862bca8814c"
       },
       {
         "en": "I can see the seats.",
@@ -10137,7 +14440,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          24.826,
+          26.818
+        ],
+        "audioDurationSeconds": 2.038,
+        "audioSha256": "46c4f46ebb62fcf7a16f210b1b0e519ab26c7e41defd850fba6a3bac72489acb"
       },
       {
         "en": "I can see the stage.",
@@ -10149,7 +14465,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          30.682,
+          32.802
+        ],
+        "audioDurationSeconds": 2.168,
+        "audioSha256": "86fcc4dd313a3fbb0d48eb99a8dee8ae45eb1a464f93b54ec112e3a74a343287"
       },
       {
         "en": "I can see the puppets.",
@@ -10161,7 +14490,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          36.154,
+          38.274
+        ],
+        "audioDurationSeconds": 2.168,
+        "audioSha256": "f15c931c9197785b27c15e54f367caaf33c2fb505dba8df6cb30617952127626"
       },
       {
         "en": "I can see the show.",
@@ -10173,7 +14515,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          41.786,
+          43.65
+        ],
+        "audioDurationSeconds": 1.907,
+        "audioSha256": "980d1359e985e3b51fd97edd20964e5625cc9156169c7b2306368dbdc0c2eff5"
       },
       {
         "en": "",
@@ -10185,7 +14540,13 @@ window.JIGU_BOOKS = [
         "imageWidth": 1084,
         "imageHeight": 850,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "device-page-speech",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ]
       }
     ],
     "keywords": [
@@ -10307,7 +14668,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "everyday"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 1400,
     "sourceCoverHeight": 857,
     "source": {
@@ -10347,7 +14708,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 857,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          4.474,
+          9.73
+        ],
+        "audioDurationSeconds": 5.303,
+        "audioSha256": "d8227772d8ddf610c87b0274df0a2e771217a34118b561f8d99c7a585bbbfb59"
       },
       {
         "en": "Look at the rain! The rain is falling on the grass.",
@@ -10359,7 +14733,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 857,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          12.378,
+          17.227
+        ],
+        "audioDurationSeconds": 4.885,
+        "audioSha256": "45d9108d04b8f5d2996f291f20328e0ec047565ed2683a32b0c9f5822b2684cd"
       },
       {
         "en": "Look at the rain! The rain is falling on a frog.",
@@ -10371,7 +14758,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 857,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          20.634,
+          25.218
+        ],
+        "audioDurationSeconds": 4.624,
+        "audioSha256": "22ab2c34d09ab7b0b2e448d9ec775d38ca51f0f5a02e7b50e99637ef807e6d37"
       },
       {
         "en": "Look at the rain! The rain is falling on the flowers.",
@@ -10383,7 +14783,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 857,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          29.018,
+          33.857
+        ],
+        "audioDurationSeconds": 4.885,
+        "audioSha256": "8b5a6ff68246f362bb9c6a5aac3a84b08937112e287f9ad613e11151064c0305"
       },
       {
         "en": "Look at the rain! The rain is falling on a bird.",
@@ -10395,7 +14808,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 857,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          37.626,
+          42.05
+        ],
+        "audioDurationSeconds": 4.467,
+        "audioSha256": "87cbc03850d875335170b847f75a5330cb6657ec1edfdabaf23a5cc0b4b46008"
       },
       {
         "en": "Look at the rain! The rain is falling on the trees.",
@@ -10407,7 +14833,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 857,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          45.242,
+          49.709
+        ],
+        "audioDurationSeconds": 4.519,
+        "audioSha256": "1276f3f0d128555368e0c7c9c87034174d62e6edb1552792eadaac4e8ad935ed"
       },
       {
         "en": "Look at the rain! The rain is falling on a dog.",
@@ -10419,7 +14858,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 857,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          52.986,
+          57.346
+        ],
+        "audioDurationSeconds": 4.389,
+        "audioSha256": "504f00afb485cf45e6e70537697d14d4314a84fadd05a54419f953d2b119ff5d"
       },
       {
         "en": "Look at the rain! The rain is falling on me!",
@@ -10431,7 +14883,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 976,
         "imageHeight": 1192,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0.29,
+          1,
+          0.71
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          60.154,
+          64.418
+        ],
+        "audioDurationSeconds": 4.31,
+        "audioSha256": "95dfa3130968f47c24f9c3edb333385fcb6d34864919332db3b9c0705db16a93"
       }
     ],
     "keywords": [
@@ -10553,7 +15018,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "feelings"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 975,
     "sourceCoverHeight": 706,
     "source": {
@@ -10594,7 +15059,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          6.138,
+          8.098
+        ],
+        "audioDurationSeconds": 2.011,
+        "audioSha256": "3879bdbe90f02e5f530ea1a8035be85be5a575c278e8e51ef3262da04c193cd7"
       },
       {
         "en": "Look at the book.",
@@ -10606,7 +15084,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          11.578,
+          13.442
+        ],
+        "audioDurationSeconds": 1.907,
+        "audioSha256": "4da7ef63096ac1f09c3febe5b6c40b59cc4924b81d70bf59f57648aa91f61cac"
       },
       {
         "en": "Look at the bear.",
@@ -10618,7 +15109,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          16.794,
+          18.798
+        ],
+        "audioDurationSeconds": 2.038,
+        "audioSha256": "df32935a9f3342e2bc98c90414efa20fa0cb1b26d09c61010dd755498948fda7"
       },
       {
         "en": "Look at the rattle.",
@@ -10630,7 +15134,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          22.33,
+          24.45
+        ],
+        "audioDurationSeconds": 2.168,
+        "audioSha256": "e2cde29fc127a05af02d04ae148a192c2197d6a425524e169bf29ac27a391ade"
       },
       {
         "en": "Look at the duck.",
@@ -10642,7 +15159,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          28.09,
+          29.986
+        ],
+        "audioDurationSeconds": 1.933,
+        "audioSha256": "1797d4247be8b8952cfde65ab4494f5a1bc7ade8db7740fd6bbd66fe830a6034"
       },
       {
         "en": "Look at the dog.",
@@ -10654,7 +15184,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          33.402,
+          35.202
+        ],
+        "audioDurationSeconds": 1.829,
+        "audioSha256": "4023d4cac4c08dc28024b6ec3b2aa8bb1f773ef068e5d5e6ac19b1998d3a2b19"
       },
       {
         "en": "Look at the baby.",
@@ -10666,7 +15209,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          38.138,
+          40.036
+        ],
+        "audioDurationSeconds": 1.933,
+        "audioSha256": "befc842ed577c3ac35c2a35d48104fb38370908d7bc49815fe08db48d10ea2a9"
       },
       {
         "en": "Look at the smile!",
@@ -10678,7 +15234,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 976,
         "imageHeight": 706,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          0.6
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          43.098,
+          45.086
+        ],
+        "audioDurationSeconds": 2.038,
+        "audioSha256": "bc78d4c485da70e035ffcffcac2e3f7fd69aa13b60d018f75c536024ae6a3393"
       }
     ],
     "keywords": [
@@ -10800,7 +15369,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "discovery"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 1400,
     "sourceCoverHeight": 857,
     "source": {
@@ -10841,7 +15410,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 857,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          6.17,
+          10.466
+        ],
+        "audioDurationSeconds": 4.336,
+        "audioSha256": "6c485fd40fd5af208f6f48ef97cc77f93cb8465f5331f99797615fd9ee11d169"
       },
       {
         "en": "Look at my coat. My coat is big.",
@@ -10853,7 +15435,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 857,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          13.818,
+          18.242
+        ],
+        "audioDurationSeconds": 4.467,
+        "audioSha256": "06274c5e814167c5515368a16d76db14ef59ae7ab9baf0597420efd99e4de4ed"
       },
       {
         "en": "Look at my bag. My bag is big.",
@@ -10865,7 +15460,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 857,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          21.498,
+          25.634
+        ],
+        "audioDurationSeconds": 4.18,
+        "audioSha256": "b4c6bd9d7c146c35b7253a3729284a54751f70b4172191711b171c82bd03d136"
       },
       {
         "en": "Look at my bowl. My bowl is big.",
@@ -10877,7 +15485,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 857,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          28.922,
+          33.186
+        ],
+        "audioDurationSeconds": 4.31,
+        "audioSha256": "712d29e1007f04cf9690f2fed060617efea5dc15f8a4b9f5384106cc2f3d562c"
       },
       {
         "en": "Look at my spoon. My spoon is big.",
@@ -10889,7 +15510,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 857,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          37.082,
+          41.218
+        ],
+        "audioDurationSeconds": 4.18,
+        "audioSha256": "db5b4ddcc8692a3d8d5a38bbf9d8310964ab52336f3e86140c94f4d4ad4cea60"
       },
       {
         "en": "Look at my book. My book is big.",
@@ -10901,7 +15535,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 857,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          45.178,
+          49.186
+        ],
+        "audioDurationSeconds": 4.049,
+        "audioSha256": "6df515b4a61c4ec50787e8f47d76f1af0efc7172a16d503678a19890ae75c563"
       },
       {
         "en": "Look at my chair. My chair is big.",
@@ -10913,7 +15560,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 857,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          53.114,
+          57.282
+        ],
+        "audioDurationSeconds": 4.206,
+        "audioSha256": "a4d0ebeedce6bd5d781e8c8449aa679f1a24010bae97e09a57b3673475f64789"
       },
       {
         "en": "Look at me. I am big, too!",
@@ -10925,7 +15585,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 976,
         "imageHeight": 1192,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          60.474,
+          64.514
+        ],
+        "audioDurationSeconds": 4.075,
+        "audioSha256": "b6d57890e9724921fcc0a8974f7dbeb741884c48759844927da2f0ca38309245"
       }
     ],
     "keywords": [
@@ -11047,7 +15720,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "discovery"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 939,
     "sourceCoverHeight": 796,
     "source": {
@@ -11088,7 +15761,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          5.754,
+          7.655
+        ],
+        "audioDurationSeconds": 1.933,
+        "audioSha256": "ba281526dc0d4a8bf676f6988b0f82550ffbbe8e717402b0e5128e1a35018967"
       },
       {
         "en": "Look at the clowns.",
@@ -11100,7 +15786,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          10.106,
+          12.386
+        ],
+        "audioDurationSeconds": 2.325,
+        "audioSha256": "dcd3ba968f445d096cecb8921b8c4dc9bec393da5db1579b639bd0e722a58e2b"
       },
       {
         "en": "Look at the band.",
@@ -11112,7 +15811,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          15.13,
+          17.09
+        ],
+        "audioDurationSeconds": 2.011,
+        "audioSha256": "d9ed02a9d41e91d6e6c826fc1d0ca7cb6eb6317449474bf7dfa5f232cf312152"
       },
       {
         "en": "Look at the truck.",
@@ -11124,7 +15836,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          20.378,
+          22.338
+        ],
+        "audioDurationSeconds": 2.011,
+        "audioSha256": "dd53a3f793001131cf8647ae9c54563a1a0c2516cafcd82c04327f3e1fd8bd6f"
       },
       {
         "en": "Look at the car.",
@@ -11136,7 +15861,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          25.722,
+          27.682
+        ],
+        "audioDurationSeconds": 2.011,
+        "audioSha256": "13308819c588027edd683e913e78b504e22630388053b052e94d0bba29ae19ca"
       },
       {
         "en": "Look at the balloons.",
@@ -11148,7 +15886,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          30.586,
+          32.486
+        ],
+        "audioDurationSeconds": 1.933,
+        "audioSha256": "194dc3f56238775ec655a9b3c49bc882846135920e3ad0775f8725c965b2158b"
       },
       {
         "en": "Look at the people.",
@@ -11160,7 +15911,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          35.354,
+          37.322
+        ],
+        "audioDurationSeconds": 2.011,
+        "audioSha256": "b43f86fbeff510f5069fc859abe4b10f56f093827a0bf32a39effe200029d540"
       },
       {
         "en": "Look at the parade!",
@@ -11172,7 +15936,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 940,
         "imageHeight": 796,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          0.78
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          39.61,
+          41.634
+        ],
+        "audioDurationSeconds": 2.064,
+        "audioSha256": "71973b386afc4e1150328667fb56e3a80a1310b2fe0f38ea50d8ce0d5353eada"
       }
     ],
     "keywords": [
@@ -11294,7 +16071,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "everyday"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 1191,
     "sourceCoverHeight": 976,
     "source": {
@@ -11334,7 +16111,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          5.85,
+          8.73
+        ],
+        "audioDurationSeconds": 2.926,
+        "audioSha256": "07e5c2ae3f67f42977478e5c50d6701af2322164d277a6940ac9c586d4384614"
       },
       {
         "en": "We write stories at school.",
@@ -11346,7 +16136,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          10.996,
+          13.869
+        ],
+        "audioDurationSeconds": 2.9,
+        "audioSha256": "5d6a40d87bb123b73df619b0e094da23732db59552c3de86bd5956fddbe99356"
       },
       {
         "en": "We paint pictures at school.",
@@ -11358,7 +16161,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          16.309,
+          19.17
+        ],
+        "audioDurationSeconds": 2.9,
+        "audioSha256": "b5adf66e7412627b8b8ac838063ce4513639798ffa531550a47f971ccb1fc5b1"
       },
       {
         "en": "We sing songs at school.",
@@ -11370,7 +16186,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          21.594,
+          24.418
+        ],
+        "audioDurationSeconds": 2.873,
+        "audioSha256": "8537b79402d94f15af13ae2acc69e3fb823fd36dbaf95aab2b629234d2f591dc"
       },
       {
         "en": "We eat lunch at school.",
@@ -11382,7 +16211,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          26.49,
+          29.282
+        ],
+        "audioDurationSeconds": 2.821,
+        "audioSha256": "c094b10f88af0a8c97a9b80a42e2c987bc3e62fc9c56dc05ee8f7546cc0012d2"
       },
       {
         "en": "We play games at school.",
@@ -11394,7 +16236,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          31.834,
+          34.434
+        ],
+        "audioDurationSeconds": 2.638,
+        "audioSha256": "b2181697502bcd4d5af308b2fdf841550fe8b6de7077307066e58a6622ca162d"
       },
       {
         "en": "We make puppets at school.",
@@ -11406,7 +16261,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 574,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          37.594,
+          40.354
+        ],
+        "audioDurationSeconds": 2.795,
+        "audioSha256": "270a9cd4a85abc5756c5b4c37f48534ef57d972b3bc200679fdce6b475688a6d"
       },
       {
         "en": "We make friends at school.",
@@ -11418,7 +16286,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1192,
         "imageHeight": 976,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.17,
+          0,
+          0.66,
+          0.7
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          42.65,
+          45.442
+        ],
+        "audioDurationSeconds": 2.821,
+        "audioSha256": "8ff2ec63a4188590a2f4ae6133e03f04c93e2fcd7530362c911bd66eb3822358"
       }
     ],
     "keywords": [
@@ -11540,7 +16421,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "everyday"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 1400,
     "sourceCoverHeight": 857,
     "source": {
@@ -11580,7 +16461,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 857,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          5.594,
+          8.513
+        ],
+        "audioDurationSeconds": 2.952,
+        "audioSha256": "a4a458e41b32fbecbe0ae0db3d787a06787702d222cc22478f8bb1d3e9ba9739"
       },
       {
         "en": "I like to write at school.",
@@ -11592,7 +16486,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 857,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          11.013,
+          13.506
+        ],
+        "audioDurationSeconds": 2.534,
+        "audioSha256": "4d5fdd9da639dd11033bdf2f3da9f621d6566ec46fd83b3835ef130c930b9b16"
       },
       {
         "en": "I like to build at school.",
@@ -11604,7 +16511,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 857,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          16.058,
+          18.978
+        ],
+        "audioDurationSeconds": 2.952,
+        "audioSha256": "88ad76e98c66292a3153b507965edc30f4ce944e90770bf620962cf9d7100ddc"
       },
       {
         "en": "I like to cut at school.",
@@ -11616,7 +16536,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 857,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          21.018,
+          23.874
+        ],
+        "audioDurationSeconds": 2.9,
+        "audioSha256": "0420c9e49961f8351539a2ce084214b1f6e627aaed3d59bafad77d8206659e9f"
       },
       {
         "en": "I like to draw at school.",
@@ -11628,7 +16561,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 857,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          26.906,
+          29.666
+        ],
+        "audioDurationSeconds": 2.795,
+        "audioSha256": "953fe0737046167feba9969bca771f03b5685d283258ed314f89298a982fea6d"
       },
       {
         "en": "I like to paint at school.",
@@ -11640,7 +16586,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 857,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          32.602,
+          35.362
+        ],
+        "audioDurationSeconds": 2.795,
+        "audioSha256": "4ab036003f501cfe49ad31b15aa499c6828406acbbfdb0aea829a9563cda1903"
       },
       {
         "en": "I like to play at school.",
@@ -11652,7 +16611,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 857,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          38.042,
+          40.866
+        ],
+        "audioDurationSeconds": 2.873,
+        "audioSha256": "d22b414c8035f0ee8fc9dc3087c19b6011fc80f5b7fb467200e66c9732497e66"
       },
       {
         "en": "I like school.",
@@ -11664,7 +16636,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 976,
         "imageHeight": 1192,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          43.098,
+          44.802
+        ],
+        "audioDurationSeconds": 1.75,
+        "audioSha256": "4bf25ffb0b77e421b2b18f4da9adf934036ebdbd557948ca7e0074754291b63b"
       }
     ],
     "keywords": [
@@ -11786,7 +16771,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "feelings"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 1083,
     "sourceCoverHeight": 850,
     "source": {
@@ -11826,7 +16811,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          6.778,
+          10.882
+        ],
+        "audioDurationSeconds": 4.153,
+        "audioSha256": "4887153364c1c4804abd1fd8a72f74e2c8bdc9de356f99899f6f9dee452d582e"
       },
       {
         "en": "My big brother likes to ride bikes with me.",
@@ -11838,7 +16836,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          14.101,
+          18.114
+        ],
+        "audioDurationSeconds": 4.049,
+        "audioSha256": "d91234243ef2fabfc98fa6c61d489ad43c8780f005989444465ec6f7034e69c4"
       },
       {
         "en": "He likes to swing with me.",
@@ -11850,7 +16861,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          21.018,
+          23.586
+        ],
+        "audioDurationSeconds": 2.612,
+        "audioSha256": "de5dc0ffeebbcd30dd71258b36363a558e5eb9c9f790d3604481e06db6f2de3d"
       },
       {
         "en": "He likes to jump with me.",
@@ -11862,7 +16886,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          26.394,
+          29.09
+        ],
+        "audioDurationSeconds": 2.743,
+        "audioSha256": "7c756b2ea47adf8be8c4b5291826ef1c7888b68dedba09805d15d5e9b3b82266"
       },
       {
         "en": "My brother and I like to climb.",
@@ -11874,7 +16911,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          32.218,
+          35.458
+        ],
+        "audioDurationSeconds": 3.291,
+        "audioSha256": "3ae2b7dc43cf32b8c825bbb16f6a17b92b915af392140443afae67640bfbda23"
       },
       {
         "en": "My brother and I like to slide.",
@@ -11886,7 +16936,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          38.906,
+          41.958
+        ],
+        "audioDurationSeconds": 3.082,
+        "audioSha256": "8c1f4cfff91a36377d4c3b41b0dd3512803aaeb9ff7391264b86177971f90ee0"
       },
       {
         "en": "My big brother likes to read books with me.",
@@ -11898,7 +16961,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          45.85,
+          49.73
+        ],
+        "audioDurationSeconds": 3.918,
+        "audioSha256": "2cdee1d672ddd64e039a56f16402704e53f9ee4fbacceb3b00ab894fbc2a8cf9"
       },
       {
         "en": "My big brother likes me. And I like my big brother!",
@@ -11910,7 +16986,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1084,
         "imageHeight": 850,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          52.666,
+          59.042
+        ],
+        "audioDurationSeconds": 6.426,
+        "audioSha256": "228fe2110043a46850d158551215247729346278123b1c4face023c3b189d7db"
       }
     ],
     "keywords": [
@@ -12032,7 +17121,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "discovery"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 1400,
     "sourceCoverHeight": 857,
     "source": {
@@ -12072,7 +17161,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 857,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          5.882,
+          8.031
+        ],
+        "audioDurationSeconds": 2.194,
+        "audioSha256": "05e75c159d0b5e946eb9031a608ac2c63a52d0e5069c875a5f56850871f2267c"
       },
       {
         "en": "Look at my socks.",
@@ -12084,7 +17186,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 857,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          11.162,
+          13.109
+        ],
+        "audioDurationSeconds": 1.985,
+        "audioSha256": "aaaba259cc29090d907d0d93f61f0d6389b98d371946e1fe27654840aa299432"
       },
       {
         "en": "Look at my shoes.",
@@ -12096,7 +17211,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 857,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          16.218,
+          18.152
+        ],
+        "audioDurationSeconds": 1.985,
+        "audioSha256": "eb3237727095e0c5f55d3b2275343acf2999d75d901fac4e126fdd6d3486ffaf"
       },
       {
         "en": "Look at my shirt.",
@@ -12108,7 +17236,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 857,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          21.466,
+          23.362
+        ],
+        "audioDurationSeconds": 1.933,
+        "audioSha256": "14cd52052850c5b5877d1f1e0480de49740a5c010c5d40600fc6050f3202c5b7"
       },
       {
         "en": "Look at my cap.",
@@ -12120,7 +17261,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 857,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          26.65,
+          28.514
+        ],
+        "audioDurationSeconds": 1.907,
+        "audioSha256": "3ec58028b2c6ec46f2d4b769b8d8196f4a120b6e56432ec4e0610a05bd2b2cad"
       },
       {
         "en": "Look at my ball.",
@@ -12132,7 +17286,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 857,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          31.866,
+          33.794
+        ],
+        "audioDurationSeconds": 1.959,
+        "audioSha256": "cf63ea40ee14e6d58be6237b4664042d48a6a573b0e6098ee466b6ee13ddffe1"
       },
       {
         "en": "Look at my bat.",
@@ -12144,7 +17311,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 857,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          37.114,
+          39.01
+        ],
+        "audioDurationSeconds": 1.933,
+        "audioSha256": "019bf12db94cd803b298cff2ef2aa86efc84ee2a8366365a668aa9fe306cbe04"
       },
       {
         "en": "Look at my dad!",
@@ -12156,7 +17336,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 976,
         "imageHeight": 1192,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0.16,
+          1,
+          0.84
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          41.914,
+          43.778
+        ],
+        "audioDurationSeconds": 1.907,
+        "audioSha256": "067ea4cfcb7a6ca5a71974fe3e607e9968465d0c6ebbe2e9331dbfa780b00b4d"
       }
     ],
     "keywords": [
@@ -12278,7 +17471,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "discovery"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 939,
     "sourceCoverHeight": 796,
     "source": {
@@ -12319,7 +17512,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          6.266,
+          12.066
+        ],
+        "audioDurationSeconds": 5.851,
+        "audioSha256": "409dafc2c22297286cbaa45c5f842b05dddff26fe4e148320d5021a280fa9e94"
       },
       {
         "en": "Look at this big truck. I can ride in this truck.",
@@ -12331,7 +17537,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          15.13,
+          21.154
+        ],
+        "audioDurationSeconds": 6.06,
+        "audioSha256": "93d5ca393e91c05ba1abef0d32671758bef45bbc77bf996ee344461681aa4e24"
       },
       {
         "en": "Look at this little boat. I can play with this boat.",
@@ -12343,7 +17562,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          24.698,
+          30.242
+        ],
+        "audioDurationSeconds": 5.59,
+        "audioSha256": "dac17516ec4921e554fd6305048d46a03eabfd588f817a282b3dad1b12dc48bf"
       },
       {
         "en": "Look at this big boat. I can ride in this boat.",
@@ -12355,7 +17587,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          33.082,
+          38.658
+        ],
+        "audioDurationSeconds": 5.616,
+        "audioSha256": "3f4118bd21b1bec8ca0afc3a4fa31b2e31992e86e3b7f7fae648674def307e57"
       },
       {
         "en": "Look at this little train. I can play with this train.",
@@ -12367,7 +17612,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          42.042,
+          48.194
+        ],
+        "audioDurationSeconds": 6.191,
+        "audioSha256": "807040aee7c42ae48bcd5a7ec3aa60cc1f17b795ac062eddd316a2c84ef23b79"
       },
       {
         "en": "Look at this big train. We can ride in this train.",
@@ -12379,7 +17637,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          51.61,
+          57.474
+        ],
+        "audioDurationSeconds": 5.904,
+        "audioSha256": "d60f4dad1bea162f38ba918cd7bacc695bc829921f8990c5c095ca083bc2e1f4"
       },
       {
         "en": "Look at this little car. I can play with this car.",
@@ -12391,7 +17662,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          60.154,
+          66.05
+        ],
+        "audioDurationSeconds": 5.93,
+        "audioSha256": "a090da7c04ee9d19de1145a70e24577726438178165d84f701ffd4a78c84a26f"
       },
       {
         "en": "Look at this big car. We can ride in this car.",
@@ -12403,7 +17687,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 940,
         "imageHeight": 796,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0.44,
+          1,
+          0.56
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          68.762,
+          73.634
+        ],
+        "audioDurationSeconds": 4.911,
+        "audioSha256": "971ab5cfc0da22798b14a49c59d218bd953354745bf73bb556fc34fb15620749"
       }
     ],
     "keywords": [
@@ -12525,7 +17822,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "feelings"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 975,
     "sourceCoverHeight": 706,
     "source": {
@@ -12566,7 +17863,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          6.202,
+          8.962
+        ],
+        "audioDurationSeconds": 2.795,
+        "audioSha256": "73a6b3fa5457128fa69910b008560f9c9e56691002c94ccd56cff279b9103c2c"
       },
       {
         "en": "I can eat with my bear.",
@@ -12578,7 +17888,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          11.61,
+          14.53
+        ],
+        "audioDurationSeconds": 2.952,
+        "audioSha256": "baa55acf7cb3750ea03fe7e10956a876faabc87e8b7eafdab69ee252adbf5c40"
       },
       {
         "en": "I can dance with my bear.",
@@ -12590,7 +17913,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          17.754,
+          20.61
+        ],
+        "audioDurationSeconds": 2.9,
+        "audioSha256": "fca17914a2feda2a4ceba802665a90c097c63d234aa3e481390cf319b5e1782d"
       },
       {
         "en": "I can read with my bear.",
@@ -12602,7 +17938,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          23.994,
+          26.658
+        ],
+        "audioDurationSeconds": 2.691,
+        "audioSha256": "9a4aa9149dccfafdc545a6e9f78daee9a91531f12747b46aab885972bd245991"
       },
       {
         "en": "I can skate with my bear.",
@@ -12614,7 +17963,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          30.01,
+          32.834
+        ],
+        "audioDurationSeconds": 2.873,
+        "audioSha256": "9f6c674e8c1fcd63c8ac6b4764b32be8d98aa29591e1c6e2c743a46db01777d7"
       },
       {
         "en": "I can paint with my bear.",
@@ -12626,7 +17988,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          35.61,
+          38.53
+        ],
+        "audioDurationSeconds": 2.952,
+        "audioSha256": "00f3386b92324e6cec53d20eab54c7855ee1cd09bb8e8362c77de5e0f8db3dda"
       },
       {
         "en": "I can swing with my bear.",
@@ -12638,7 +18013,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          41.53,
+          44.322
+        ],
+        "audioDurationSeconds": 2.821,
+        "audioSha256": "eebf7a69cc45be96d93e6645d911581c5c33dd6a0d8904b0f824cc724e418904"
       },
       {
         "en": "I can sleep with my bear.",
@@ -12650,7 +18038,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 976,
         "imageHeight": 706,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          0.65
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          45.645,
+          48.482
+        ],
+        "audioDurationSeconds": 2.873,
+        "audioSha256": "6af30082521e033d1ba2a39369201babc47e61e1caa40d6dcf74b19f9c4b8be0"
       }
     ],
     "keywords": [
@@ -12772,7 +18173,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "nature"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 1400,
     "sourceCoverHeight": 895,
     "source": {
@@ -12812,7 +18213,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 895,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          6.554,
+          12.45
+        ],
+        "audioDurationSeconds": 5.93,
+        "audioSha256": "8a12d98f85b3aa9cb8772c00444e616ee7f815feb4d0e4dea249721d7313dddd"
       },
       {
         "en": "Here is a frog. The frog has very long legs.",
@@ -12824,7 +18238,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 895,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          15.162,
+          20.93
+        ],
+        "audioDurationSeconds": 5.799,
+        "audioSha256": "6d3d8bcb22f8ca2bcea12b534da2175872857bc36554b4e002dadc289f474e1c"
       },
       {
         "en": "This is a bird. The bird has a very long beak.",
@@ -12836,7 +18263,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 895,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          23.77,
+          29.314
+        ],
+        "audioDurationSeconds": 5.59,
+        "audioSha256": "096bf307c9bbdecdc911f9a69628fe5829b9148ccdbce9b0c43a901381b607f3"
       },
       {
         "en": "Here is an elephant. The elephant has a very long trunk.",
@@ -12848,7 +18288,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 895,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          32.378,
+          38.53
+        ],
+        "audioDurationSeconds": 6.191,
+        "audioSha256": "92e9449bdf08f0f8b0816a733d942b4b8ec6d3fd106c5dafd163fc92f291b014"
       },
       {
         "en": "This is a monkey. The monkey has a very long tail.",
@@ -12860,7 +18313,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 895,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          42.138,
+          47.874
+        ],
+        "audioDurationSeconds": 5.773,
+        "audioSha256": "feba603e25ff116ef5e4c86a8a1d30de0f1cdae708807874b178d96eab8027de"
       },
       {
         "en": "Here is a rabbit. The rabbit has very long ears.",
@@ -12872,7 +18338,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 895,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          51.642,
+          57.416
+        ],
+        "audioDurationSeconds": 5.825,
+        "audioSha256": "a39003669d0db3a733c91f43b2b2f003534f2d01b66360eccde8fa74fe2d2cd5"
       },
       {
         "en": "This is a walrus. The walrus has very long teeth.",
@@ -12884,7 +18363,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 895,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          61.082,
+          67.618
+        ],
+        "audioDurationSeconds": 6.583,
+        "audioSha256": "552e90a686e85c6b5d72596398f984230d437c0e16a20870c389b655054f900f"
       },
       {
         "en": "Here is a hippopotamus. The hippopotamus has a very long name!",
@@ -12896,7 +18388,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 850,
         "imageHeight": 1084,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0.45,
+          1,
+          0.55
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          70.906,
+          77.922
+        ],
+        "audioDurationSeconds": 7.053,
+        "audioSha256": "5a5ad54ba61975659d8cd29c97bd0eec546924caebbf21ea4a9017978944e4ea"
       }
     ],
     "keywords": [
@@ -13018,7 +18523,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "discovery"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 939,
     "sourceCoverHeight": 796,
     "source": {
@@ -13058,7 +18563,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          6.17,
+          8.594
+        ],
+        "audioDurationSeconds": 2.456,
+        "audioSha256": "365bb9d9f6a0fb349426ef441343866ccf7f152ae8fd1155a82c8d177cb38a48"
       },
       {
         "en": "Here is the hen.",
@@ -13070,7 +18588,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          10.746,
+          12.96
+        ],
+        "audioDurationSeconds": 2.247,
+        "audioSha256": "c9f79d2f5d4d58c43f79e3ed95228247416f7a610ff2f301d5526783d8db5fa2"
       },
       {
         "en": "Here is the cat.",
@@ -13082,7 +18613,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          15.305,
+          17.453
+        ],
+        "audioDurationSeconds": 2.194,
+        "audioSha256": "6850e7828b655925bfae69074c47bd3e0c6a67ab1c41c3b0c8e9c1f59ae38915"
       },
       {
         "en": "Here is the duck.",
@@ -13094,7 +18638,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          20.154,
+          22.338
+        ],
+        "audioDurationSeconds": 2.22,
+        "audioSha256": "986f30290a0a871f02a06fea0ec3424be7ffc645c2b440cfd3120e97738282b5"
       },
       {
         "en": "Here is the dog.",
@@ -13106,7 +18663,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          24.986,
+          27.202
+        ],
+        "audioDurationSeconds": 2.247,
+        "audioSha256": "c395d115f346cad34142fa773bc142a06d38985860eeb2eb9f0daae24227a498"
       },
       {
         "en": "Here is the cow.",
@@ -13118,7 +18688,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          30.106,
+          32.366
+        ],
+        "audioDurationSeconds": 2.299,
+        "audioSha256": "9dac34d61c64a3ff6643647c5e08f3d96278c16195af0417401ac1037d4efd17"
       },
       {
         "en": "Here is the horse.",
@@ -13130,7 +18713,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          34.938,
+          37.178
+        ],
+        "audioDurationSeconds": 2.273,
+        "audioSha256": "13a3f1ef01df26930f0c99f8e20410ca0deaf529a580a3e28d3875850782b288"
       },
       {
         "en": "Here is the play!",
@@ -13142,7 +18738,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 940,
         "imageHeight": 796,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0.16,
+          1,
+          0.84
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          39.226,
+          41.666
+        ],
+        "audioDurationSeconds": 2.482,
+        "audioSha256": "9c408662c7c4396f5bd51a227e0adcf8b28c20d0c8ebfce73c634a9b9932b2e4"
       }
     ],
     "keywords": [
@@ -13264,7 +18873,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "nature"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 1400,
     "sourceCoverHeight": 895,
     "source": {
@@ -13304,7 +18913,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 895,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          6.682,
+          15.49
+        ],
+        "audioDurationSeconds": 8.856,
+        "audioSha256": "bc067122fb0d853804b1418c7bc540f4143dfd9b85563345061f9529c3aeef89"
       },
       {
         "en": "This is a long pet. It is a snake. I like this long snake.",
@@ -13316,7 +18938,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 895,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          18.81,
+          28.066
+        ],
+        "audioDurationSeconds": 9.3,
+        "audioSha256": "d374efa089399f22dccdf5240d9051b67a8aa95514969ef8167b041df0994fb6"
       },
       {
         "en": "This is a yellow pet. It is a bird. I like this yellow bird.",
@@ -13328,7 +18963,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 895,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          30.874,
+          40.162
+        ],
+        "audioDurationSeconds": 9.326,
+        "audioSha256": "272bad6ce5b827ef9adb13d10619a9efa353d6bc0735a74ad6630e8f0935a84a"
       },
       {
         "en": "This is a big pet. It is a horse. I like this big horse.",
@@ -13340,7 +18988,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 895,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          42.714,
+          51.758
+        ],
+        "audioDurationSeconds": 9.091,
+        "audioSha256": "915b67774114ea1515a65f0a9bf3b475857dbfea28ee8d79c9e5fa4c1a8f34b5"
       },
       {
         "en": "This is a soft pet. It is a cat. I like this soft cat.",
@@ -13352,7 +19013,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 895,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          55.034,
+          64.002
+        ],
+        "audioDurationSeconds": 9.012,
+        "audioSha256": "73b8d461dd6cd11b7526917f0b93af595d1b6a30514a70e0cf7eabe9799f2588"
       },
       {
         "en": "This is a wet pet. It is a goldfish. I like this wet goldfish.",
@@ -13364,7 +19038,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 895,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          66.554,
+          76.61
+        ],
+        "audioDurationSeconds": 10.083,
+        "audioSha256": "c6b53c55cbe1fefca89b3dd494f598826154663b3e8004f9bec007f4f29e7f7d"
       },
       {
         "en": "This is a fat pet. It is a pig. I like this fat pig.",
@@ -13376,7 +19063,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 895,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          79.546,
+          87.522
+        ],
+        "audioDurationSeconds": 8.02,
+        "audioSha256": "d7fd4af8c87b640a1f1605ecc00f4f824d6210ca5fab6b43f185b7cf4dad566c"
       },
       {
         "en": "I like this black and white pet. It is a cow!",
@@ -13388,7 +19088,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 850,
         "imageHeight": 1084,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0.29,
+          1,
+          0.71
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          89.85,
+          96.322
+        ],
+        "audioDurationSeconds": 6.504,
+        "audioSha256": "eb33cb7be4e4debe46592115d94b32cbb27600c60ee2b68ae18a9e2909ad3a78"
       }
     ],
     "keywords": [
@@ -13510,7 +19223,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "everyday"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 1083,
     "sourceCoverHeight": 850,
     "source": {
@@ -13550,7 +19263,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          6.586,
+          8.77
+        ],
+        "audioDurationSeconds": 2.22,
+        "audioSha256": "f905c76f718bb601b66b4f48751f1a5efeac7079af4f9461c5aeaa3560c049d3"
       },
       {
         "en": "Here is the dough.",
@@ -13562,7 +19288,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          12.026,
+          14.178
+        ],
+        "audioDurationSeconds": 2.194,
+        "audioSha256": "27792f3fd04bf34d37df5f96969d1bb4b1deb1869057c5cca1ce305cff75d07b"
       },
       {
         "en": "Here is the sauce.",
@@ -13574,7 +19313,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          17.434,
+          19.716
+        ],
+        "audioDurationSeconds": 2.325,
+        "audioSha256": "dea394619af0e2345ace12c478826410e5ff0e405de29cf161358a7d4cdcf394"
       },
       {
         "en": "Here is the cheese.",
@@ -13586,7 +19338,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          23.354,
+          25.474
+        ],
+        "audioDurationSeconds": 2.168,
+        "audioSha256": "636cb2a1403b51213718669079359e523253c9a2cf3b8a9aa6b9120de652dced"
       },
       {
         "en": "Here is the pepperoni.",
@@ -13598,7 +19363,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          29.402,
+          31.874
+        ],
+        "audioDurationSeconds": 2.508,
+        "audioSha256": "6ceab443e583883ad87d6c8420c2394859243439f4e5521e58946deabdb57d52"
       },
       {
         "en": "Here is the oven.",
@@ -13610,7 +19388,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          35.45,
+          37.506
+        ],
+        "audioDurationSeconds": 2.09,
+        "audioSha256": "3211160f351edafe40cda0d7c689f2077b691657427da86055f7abe5fe49373c"
       },
       {
         "en": "Here is the pizza.",
@@ -13622,7 +19413,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          40.41,
+          42.466
+        ],
+        "audioDurationSeconds": 2.09,
+        "audioSha256": "d77b9e86ca023a70adbe5bd84d3164728ef28a663f3b4af8ae4246848d1c9fa2"
       },
       {
         "en": "Here is the pan.",
@@ -13634,7 +19438,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1084,
         "imageHeight": 850,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0.2,
+          1,
+          0.8
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          45.242,
+          47.266
+        ],
+        "audioDurationSeconds": 2.064,
+        "audioSha256": "062d3389951ed2c0b73b9b00f35bed96c4814483a27377a08349864fcbbfa089"
       }
     ],
     "keywords": [
@@ -13756,7 +19573,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "feelings"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 939,
     "sourceCoverHeight": 796,
     "source": {
@@ -13797,7 +19614,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          6.458,
+          9.666
+        ],
+        "audioDurationSeconds": 3.239,
+        "audioSha256": "31d215a9ea604db933c0251e4187bacd6cdfb9c597293b1d521252ba3a1b5417"
       },
       {
         "en": "Aunt Bee is coming. We clean the house.",
@@ -13809,7 +19639,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          12.41,
+          16.708
+        ],
+        "audioDurationSeconds": 4.336,
+        "audioSha256": "d90c63f7182acb79319d75c86ef8445b7dc3f0d593f50455bcd16d08c0f5390d"
       },
       {
         "en": "Aunt Bee is coming. We pick some flowers.",
@@ -13821,7 +19664,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          19.098,
+          23.526
+        ],
+        "audioDurationSeconds": 4.467,
+        "audioSha256": "7bbe8d6a0676f29db388c26d3b3f13a8f587375bff30fb8bb3d01b0bece4efb8"
       },
       {
         "en": "Aunt Bee is coming. We blow up balloons.",
@@ -13833,7 +19689,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          26.362,
+          30.686
+        ],
+        "audioDurationSeconds": 4.362,
+        "audioSha256": "e39d5f7165378e71b3e7d359370b68a2eaf1c7494d3395d4ce51a3258bb93ce7"
       },
       {
         "en": "Aunt Bee is coming. We make a cake.",
@@ -13845,7 +19714,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          33.786,
+          37.73
+        ],
+        "audioDurationSeconds": 3.971,
+        "audioSha256": "1027f6c2b3f1b78e83953ccf4f54eea0fcf80a3a45d0729d9ed70f54e40acae8"
       },
       {
         "en": "Aunt Bee is coming. We set the table.",
@@ -13857,7 +19739,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          41.082,
+          45.09
+        ],
+        "audioDurationSeconds": 4.049,
+        "audioSha256": "03c2aa1d1a4cb9e8e0011725b252e4e750039f1707e29975846e3dfa873b395f"
       },
       {
         "en": "Aunt Bee is coming. We make a card.",
@@ -13869,7 +19764,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          47.61,
+          51.682
+        ],
+        "audioDurationSeconds": 4.101,
+        "audioSha256": "62feb4a0e67763f67e07bfab7dd252dcc75bda42560db80d3a0147a3f506428b"
       },
       {
         "en": "Aunt Bee is here!",
@@ -13881,7 +19789,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 940,
         "imageHeight": 796,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0.18,
+          1,
+          0.82
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          53.594,
+          55.938
+        ],
+        "audioDurationSeconds": 2.377,
+        "audioSha256": "27e9850add3e5bd2c003e9e641d51af7c0bfaaaef21eed47b817dc6c33ca9fc3"
       }
     ],
     "keywords": [
@@ -14003,7 +19924,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "nature"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 1083,
     "sourceCoverHeight": 850,
     "source": {
@@ -14043,7 +19964,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          2.157,
+          7.283
+        ],
+        "audioDurationSeconds": 5.172,
+        "audioSha256": "66095c40ffb4b5b8dde334fca37ab8b7cf76a54e38dc246a32244a9b6ca89a04"
       },
       {
         "en": "This bird is swimming.",
@@ -14055,7 +19989,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          9.498,
+          11.931
+        ],
+        "audioDurationSeconds": 2.482,
+        "audioSha256": "14ccfd00ae139bae3c66b3f2af4768c02b32f857961a988758c308acfc2801c3"
       },
       {
         "en": "This bird is drinking.",
@@ -14067,7 +20014,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          14.298,
+          16.717
+        ],
+        "audioDurationSeconds": 2.456,
+        "audioSha256": "8095f04fca2f804328385e5ef3c59d46add4f18610fbb32babaf8f1f8a599396"
       },
       {
         "en": "This bird is eating.",
@@ -14079,7 +20039,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          19.322,
+          21.813
+        ],
+        "audioDurationSeconds": 2.534,
+        "audioSha256": "5d779e083550230dbd47603023c05e21de9ea400188bb05ebda90d6851cd017e"
       },
       {
         "en": "This bird is walking.",
@@ -14091,7 +20064,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          24.794,
+          27.185
+        ],
+        "audioDurationSeconds": 2.429,
+        "audioSha256": "ee2ae984c5682c07accaf5f50aac4146321692c43677a9395b8af604f776549e"
       },
       {
         "en": "This bird is running.",
@@ -14103,7 +20089,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          30.458,
+          32.866
+        ],
+        "audioDurationSeconds": 2.456,
+        "audioSha256": "58e796bbd30449576489b947fe7168a03dfb96c0e0d82eb7fd4044d76cb23d9a"
       },
       {
         "en": "This bird is sleeping.",
@@ -14115,7 +20114,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          36.57,
+          39.133
+        ],
+        "audioDurationSeconds": 2.612,
+        "audioSha256": "450f87f143acf12becfae431cdda8b024a49fa8630a3d419ccb78a6a67e1a944"
       },
       {
         "en": "This bird is talking! Hello!",
@@ -14127,7 +20139,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1084,
         "imageHeight": 850,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.16,
+          0.24,
+          0.68,
+          0.74
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          41.69,
+          47.276
+        ],
+        "audioDurationSeconds": 5.616,
+        "audioSha256": "35e8f35cfeab41c22a079f7c09e2d660530c5057bc5d5842842fcb791c3d99c9"
       }
     ],
     "keywords": [
@@ -14249,7 +20274,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "nature"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 939,
     "sourceCoverHeight": 796,
     "source": {
@@ -14290,7 +20315,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          6.01,
+          13.89
+        ],
+        "audioDurationSeconds": 7.915,
+        "audioSha256": "4a56d836789fbe2cfaad3427ed1197f5fa36913b316b397e4988f4199495505c"
       },
       {
         "en": "The little ducks can walk. They walk and walk. They walk by the pond.",
@@ -14302,7 +20340,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          16.818,
+          25.282
+        ],
+        "audioDurationSeconds": 8.516,
+        "audioSha256": "d730372a3fabeebdbae7a893facfdab70641a515b95925b5d080306b99338d8b"
       },
       {
         "en": "Mother Duck can eat. She eats and eats. She eats by the pond.",
@@ -14314,7 +20365,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          28.314,
+          36.514
+        ],
+        "audioDurationSeconds": 8.229,
+        "audioSha256": "6e619ec82d60a0554c4a6368fa9f53270ce9d3f4351d89bcfd7f9291d3656c37"
       },
       {
         "en": "The little ducks can eat. They eat and eat. They eat by the pond.",
@@ -14326,7 +20390,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          38.798,
+          46.882
+        ],
+        "audioDurationSeconds": 8.124,
+        "audioSha256": "a5115241f5ca99a92a7637eafd09ef7bc90044b7106a960e0635f8c0f5691115"
       },
       {
         "en": "Mother Duck can swim. She swims and swims. She swims in the pond.",
@@ -14338,7 +20415,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          49.05,
+          57.922
+        ],
+        "audioDurationSeconds": 8.908,
+        "audioSha256": "dc6f7bc9f61a42c18cb339e90c7e9a1c2458a21af3014db4a310108c8090696d"
       },
       {
         "en": "The little ducks can swim. They swim and swim. They swim in the pond.",
@@ -14350,7 +20440,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          60.114,
+          68.354
+        ],
+        "audioDurationSeconds": 8.281,
+        "audioSha256": "cc16f62709524282f2262c9ea065faa4ef523e712b945b3fd608174ac8e90699"
       },
       {
         "en": "Mother Duck can fly.",
@@ -14362,7 +20465,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 594,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          70.17,
+          72.578
+        ],
+        "audioDurationSeconds": 2.456,
+        "audioSha256": "8f4b64afb47993dc2c427c6121f9bd22e14a9490b4476d573c2c06ba1be5ac32"
       },
       {
         "en": "The little ducks can . . . flap, flap, flap, fly!",
@@ -14374,7 +20490,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 940,
         "imageHeight": 796,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          74.746,
+          80.19
+        ],
+        "audioDurationSeconds": 5.486,
+        "audioSha256": "da134148a139b6acab378b979b25bd538b8667eac3a8b52cbe9f20429e8854cb"
       }
     ],
     "keywords": [
@@ -14496,7 +20625,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "nature"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 1083,
     "sourceCoverHeight": 850,
     "source": {
@@ -14537,7 +20666,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          6.074,
+          8.354
+        ],
+        "audioDurationSeconds": 2.325,
+        "audioSha256": "a11253053df2f7fc73f32670fd93c2991e4343311fcf688074570164fe62846a"
       },
       {
         "en": "We can see a turtle.",
@@ -14549,7 +20691,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          10.874,
+          13.123
+        ],
+        "audioDurationSeconds": 2.299,
+        "audioSha256": "41c7c37693ff6fe9b19ea34602638b72a8afb2963c27b37a093fbfb2a5df3c44"
       },
       {
         "en": "We can see the fish.",
@@ -14561,7 +20716,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          15.962,
+          18.178
+        ],
+        "audioDurationSeconds": 2.247,
+        "audioSha256": "0d1dc9bae33e230cfd2f446064e16e925d8263859bce13e15f20348ef1404b7b"
       },
       {
         "en": "We can see a fox.",
@@ -14573,7 +20741,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          21.082,
+          23.304
+        ],
+        "audioDurationSeconds": 2.273,
+        "audioSha256": "f584d46d25d802211490afc3ab3b310a6253cd3d779c7c4c467cc126e69f928a"
       },
       {
         "en": "We can see the snake.",
@@ -14585,7 +20766,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          26.778,
+          29.09
+        ],
+        "audioDurationSeconds": 2.351,
+        "audioSha256": "e12ed6fc53a59bcdc57cf5b18c0ee8ec7bac84c2d73cf2c869f3bfadf5805ff8"
       },
       {
         "en": "We can see a butterfly.",
@@ -14597,7 +20791,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          31.706,
+          34.036
+        ],
+        "audioDurationSeconds": 2.377,
+        "audioSha256": "f055f55c53a89ada8cab7f69f9b16bbdc76dad65e4d8f1fbc3d74c3832afd563"
       },
       {
         "en": "We can see a duck.",
@@ -14609,7 +20816,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          36.89,
+          39.042
+        ],
+        "audioDurationSeconds": 2.194,
+        "audioSha256": "ccc2a8fe4d6b527121a1d1b70d5153703173c1f5c6b6d43a68d4270be99966c1"
       },
       {
         "en": "We can see the pond!",
@@ -14621,7 +20841,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1084,
         "imageHeight": 850,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          41.37,
+          43.632
+        ],
+        "audioDurationSeconds": 2.299,
+        "audioSha256": "4211915e68a5b069a766a83cf1ad127ed936a2baeba2fe873eea5ffbc20474a6"
       }
     ],
     "keywords": [
@@ -14743,7 +20976,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "everyday"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 1083,
     "sourceCoverHeight": 850,
     "source": {
@@ -14784,7 +21017,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          6.426,
+          11.202
+        ],
+        "audioDurationSeconds": 4.807,
+        "audioSha256": "5b1aa4d5d95650d3c48dc3088a7d6e6e69a39ebcb4ff666af5943cb3289f0ca7"
       },
       {
         "en": "My dad likes trains. He can go on the train ride, too.",
@@ -14796,7 +21042,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          13.466,
+          19.802
+        ],
+        "audioDurationSeconds": 6.374,
+        "audioSha256": "bee928a43e9961b089e3fb0ef8110e5d2507adb649365b8c19ad87b18dbe5c72"
       },
       {
         "en": "My little sister likes trains. My sister can come on the train, too.",
@@ -14808,7 +21067,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          21.946,
+          28.77
+        ],
+        "audioDurationSeconds": 6.87,
+        "audioSha256": "657d569f141fa1f259b273811d6afd6702a22eadb6405cbe3acc9c9ce035c104"
       },
       {
         "en": "My big brother can ride on the train. He likes trains.",
@@ -14820,7 +21092,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          31.322,
+          36.696
+        ],
+        "audioDurationSeconds": 5.407,
+        "audioSha256": "8c38f7f1cf0d8b9e76619d1b7c497d97d582ebacf6ce4ee8e64851ce50a2faa4"
       },
       {
         "en": "My Gram can ride on the train, too. She loves trains.",
@@ -14832,7 +21117,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          39.45,
+          44.917
+        ],
+        "audioDurationSeconds": 5.512,
+        "audioSha256": "a4f4dc07d52517758aa2e0a135148f322722737e45c60ab40ade3f9bfbadb521"
       },
       {
         "en": "Gramps can come with us, too.",
@@ -14844,7 +21142,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          47.866,
+          50.69
+        ],
+        "audioDurationSeconds": 2.873,
+        "audioSha256": "758512e1544f6b8ed23a6b9f5a6c5cf6466dfabe42dbe5026cbcd9397e56b985"
       },
       {
         "en": "And Bear likes trains. He can ride on the train, too.",
@@ -14856,7 +21167,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          52.396,
+          58.082
+        ],
+        "audioDurationSeconds": 5.721,
+        "audioSha256": "114575848a744f90863cffaddcbc13c2454e1e39385bce6fccc7843a41f28b21"
       },
       {
         "en": "Choo! Choo!",
@@ -14868,7 +21192,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1084,
         "imageHeight": 850,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          58.7,
+          59.98
+        ],
+        "audioDurationSeconds": 1.332,
+        "audioSha256": "79b9c62f007a93988dbde9992992e9c24e03679fc8ec7214c4fc0ce2eee4d48d"
       }
     ],
     "keywords": [
@@ -14990,7 +21327,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "discovery"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 1083,
     "sourceCoverHeight": 850,
     "source": {
@@ -15031,7 +21368,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          4.634,
+          7.181
+        ],
+        "audioDurationSeconds": 2.586,
+        "audioSha256": "5d39ee1e2d2976e829ed12b4b7561058302f73a036e1435bc2f667b797a3d069"
       },
       {
         "en": "A cow has spots.",
@@ -15043,7 +21393,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          10.362,
+          12.798
+        ],
+        "audioDurationSeconds": 2.482,
+        "audioSha256": "3b5e3ee8c9ee7edc249c35e181df5a4f34e34da0d2b54d4a613d8402e7e169a8"
       },
       {
         "en": "The pig has spots.",
@@ -15055,7 +21418,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          15.14,
+          17.718
+        ],
+        "audioDurationSeconds": 2.612,
+        "audioSha256": "1c97e7967dc41bb5609b270cc2d49a44777e6f4de8990d03bc0f9b35b98610b8"
       },
       {
         "en": "A ladybug has spots.",
@@ -15067,7 +21443,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          19.66,
+          22.304
+        ],
+        "audioDurationSeconds": 2.691,
+        "audioSha256": "c03bdc43ffd96eb4bc0ab998dfbda4bc7e29dcccadfdb9f789fda2cfafc0fa74"
       },
       {
         "en": "The frog has spots.",
@@ -15079,7 +21468,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          25.144,
+          27.423
+        ],
+        "audioDurationSeconds": 2.325,
+        "audioSha256": "2c554c928577a22f9260846f4c1187d1cb912283acd1dfac75b3fce4696e180c"
       },
       {
         "en": "The fish has spots.",
@@ -15091,7 +21493,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          29.978,
+          32.542
+        ],
+        "audioDurationSeconds": 2.612,
+        "audioSha256": "a6160f5fda519926518ac302182597de227832b7e6fe831896be2d2a70481936"
       },
       {
         "en": "The cat has spots.",
@@ -15103,7 +21518,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          34.81,
+          37.328
+        ],
+        "audioDurationSeconds": 2.56,
+        "audioSha256": "40f60075b852738793b5577e30df0768c379992808e8a6fc541d93c50acd3096"
       },
       {
         "en": "The clown has spots!",
@@ -15115,7 +21543,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1084,
         "imageHeight": 850,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0.17,
+          1,
+          0.83
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          39.769,
+          41.915
+        ],
+        "audioDurationSeconds": 2.194,
+        "audioSha256": "c6c4f930537a51ce8d83b175a56a28819edbce5010ffda8f7f386ef1a7b89f5f"
       }
     ],
     "keywords": [
@@ -15237,7 +21678,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "discovery"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 1083,
     "sourceCoverHeight": 850,
     "source": {
@@ -15278,7 +21719,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          7.034,
+          12.802
+        ],
+        "audioDurationSeconds": 5.799,
+        "audioSha256": "2f51e55fd393eaaa7be4cd1fc7793bfbe47b0c5c93633bc76bd71a51eb286544"
       },
       {
         "en": "“Look at the big wall. I made it with the blocks,” Tim said.",
@@ -15290,7 +21744,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          15.994,
+          21.378
+        ],
+        "audioDurationSeconds": 5.433,
+        "audioSha256": "e27d1db3984fd2f5d3cb9d3e5b92800401eed768f31c9f25fbf0b02ae254afe5"
       },
       {
         "en": "Pam said, “Look at the road. I made it with the blocks.”",
@@ -15302,7 +21769,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          23.866,
+          30.505
+        ],
+        "audioDurationSeconds": 6.687,
+        "audioSha256": "90331f6ae2c73aa7e349bd331ce3831b8ed5f948e8e7aaacda27cb51648bf906"
       },
       {
         "en": "“Look at this tunnel. I made it with the blocks,” said Tim.",
@@ -15314,7 +21794,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          33.274,
+          38.658
+        ],
+        "audioDurationSeconds": 5.433,
+        "audioSha256": "f01f2fd42aae46234e289d844de23ff8c84a8e95a2369bff86d25f47e8692f5a"
       },
       {
         "en": "“Look! I made a bridge with the blocks,” said Pam.",
@@ -15326,7 +21819,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          42.042,
+          47.234
+        ],
+        "audioDurationSeconds": 5.224,
+        "audioSha256": "042a0d6120dda1c5272ee44a451bad6e05c1f2aa7590de26faebbe60c34b1436"
       },
       {
         "en": "“I made a building with the blocks. Look at this building,” Tim said.",
@@ -15338,7 +21844,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          50.554,
+          55.394
+        ],
+        "audioDurationSeconds": 4.885,
+        "audioSha256": "582b43fde3fa11d878c8c0b30ce87b03aa9bfcc46c9c856c9803debb67c1830b"
       },
       {
         "en": "“We can make a big building,” Pam said.",
@@ -15350,7 +21869,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          58.01,
+          61.442
+        ],
+        "audioDurationSeconds": 3.474,
+        "audioSha256": "791d3efe7cfab5af50792ce4e0e4d68055d400ad0b049060e1c0769ac0bf5b4e"
       },
       {
         "en": "Oh, no!",
@@ -15362,7 +21894,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1084,
         "imageHeight": 850,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          62.906,
+          64.448
+        ],
+        "audioDurationSeconds": 1.593,
+        "audioSha256": "4c6926abf17df39c7cf0227f55ee527e4c4969ac3584d1616d17ba3278b20669"
       }
     ],
     "keywords": [
@@ -15484,7 +22029,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "discovery"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 1083,
     "sourceCoverHeight": 850,
     "source": {
@@ -15525,7 +22070,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          6.298,
+          8.418
+        ],
+        "audioDurationSeconds": 2.168,
+        "audioSha256": "6c2e24874e03f4d115f95314078f895c9ac8e4bd2969246226ea308b7f38d874"
       },
       {
         "en": "I can draw a dad.",
@@ -15537,7 +22095,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          11.482,
+          13.666
+        ],
+        "audioDurationSeconds": 2.22,
+        "audioSha256": "ec66daa29a276376360ddc9ec44c28f5adb906e04615ab42baac450de1c1f060"
       },
       {
         "en": "I can draw a girl.",
@@ -15549,7 +22120,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          16.25,
+          18.302
+        ],
+        "audioDurationSeconds": 2.09,
+        "audioSha256": "276f060cb26887e5bc34f5abb090ffbcc4d3fdb49434734daf42f8e649bfa4bb"
       },
       {
         "en": "I can draw a boy.",
@@ -15561,7 +22145,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          21.338,
+          23.394
+        ],
+        "audioDurationSeconds": 2.09,
+        "audioSha256": "4e37e95999c9a04b1f2d3fbeb560b5933eef20e80d2aa4d8d0fb06098fc63c16"
       },
       {
         "en": "I can draw a baby.",
@@ -15573,7 +22170,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          26.426,
+          28.386
+        ],
+        "audioDurationSeconds": 2.011,
+        "audioSha256": "326760fe005fdca5a546d38eb4b8caa480e9f3646fbed791de486d18320f9b80"
       },
       {
         "en": "I can draw a dog.",
@@ -15585,7 +22195,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          31.523,
+          33.346
+        ],
+        "audioDurationSeconds": 1.855,
+        "audioSha256": "32887294369ea36eaf63aa097a50e4190797eb02c09c7405f198d076d99cebde"
       },
       {
         "en": "I can draw a cat.",
@@ -15597,7 +22220,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          36.09,
+          38.152
+        ],
+        "audioDurationSeconds": 2.09,
+        "audioSha256": "fb1e747e7674b0d9408b5695454d3bf3f97343ecfd982c7396be899e938eb252"
       },
       {
         "en": "I can draw my family!",
@@ -15609,7 +22245,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1084,
         "imageHeight": 850,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0.18,
+          1,
+          0.82
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          41.6,
+          43.426
+        ],
+        "audioDurationSeconds": 1.855,
+        "audioSha256": "0718a5e3d3b23a7352b5ceed1799d3d983a7bc188be44be3233b2ac86d32798a"
       }
     ],
     "keywords": [
@@ -15731,7 +22380,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "feelings"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 975,
     "sourceCoverHeight": 706,
     "source": {
@@ -15772,7 +22421,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          5.658,
+          9.925
+        ],
+        "audioDurationSeconds": 4.31,
+        "audioSha256": "f2cec25f18df4681cb0d587a1994325d830a321fe52dd376bce4b7de65d8154b"
       },
       {
         "en": "Look at us! We can help pick up the books.",
@@ -15784,7 +22446,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          13.146,
+          17.154
+        ],
+        "audioDurationSeconds": 4.049,
+        "audioSha256": "ec3ef8c698a0a5eecad9c4d3a63dbc64ae0addc5378e11b000cb249c0c55043e"
       },
       {
         "en": "Look at us! We can help pick up the toys.",
@@ -15796,7 +22471,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          19.834,
+          24.062
+        ],
+        "audioDurationSeconds": 4.258,
+        "audioSha256": "932bdb109597aef701fd7809879b54090233c5dff81dcc9c9fff00e12f77bcf4"
       },
       {
         "en": "We can help feed the cat. Look at us!",
@@ -15808,7 +22496,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          26.842,
+          31.115
+        ],
+        "audioDurationSeconds": 4.31,
+        "audioSha256": "d84bfcfe43caed68833cd7acfa98e3a613c911cec4053ebd4ffcc3ef97158d9f"
       },
       {
         "en": "We can help wash the dishes. Look at us!",
@@ -15820,7 +22521,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          33.626,
+          38.37
+        ],
+        "audioDurationSeconds": 4.78,
+        "audioSha256": "10eecd029b71186c8014bfd17bbe855dd4c6de79d089dacdd6dcd7401685acff"
       },
       {
         "en": "Look at us! We can help rake the leaves.",
@@ -15832,7 +22546,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          40.954,
+          44.831
+        ],
+        "audioDurationSeconds": 3.918,
+        "audioSha256": "4aa61d5d30d6da16dbc095936f4ae4970b7b3bd16fc22038076f4ef8431ab854"
       },
       {
         "en": "Look at us! We can help carry the bags.",
@@ -15844,7 +22571,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          47.191,
+          50.765
+        ],
+        "audioDurationSeconds": 3.605,
+        "audioSha256": "250ddb03cc881c05ed4b10bbe9bb82691cc4b45b27cb03d3de254b0dae17eef9"
       },
       {
         "en": "And we can help eat the ice cream, too!",
@@ -15856,7 +22596,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 976,
         "imageHeight": 706,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          0.59
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          53.256,
+          56.898
+        ],
+        "audioDurationSeconds": 3.683,
+        "audioSha256": "d1a17935a13a14955dcbba7ef7c80edd5df6e3f5062f2c0fba54605960f7cc75"
       }
     ],
     "keywords": [
@@ -15978,7 +22731,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "everyday"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 975,
     "sourceCoverHeight": 706,
     "source": {
@@ -16019,7 +22772,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          5.274,
+          7.515
+        ],
+        "audioDurationSeconds": 2.273,
+        "audioSha256": "79b5ab8246809b7bba72be06a07ea411948d9476b9b66010567fb9ccd77c00ff"
       },
       {
         "en": "We baked the bread.",
@@ -16031,7 +22797,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          10.175,
+          12.244
+        ],
+        "audioDurationSeconds": 2.116,
+        "audioSha256": "939406a11125ae021fe3d35bea516de23a4bb5043259366158c75988b2ed83b9"
       },
       {
         "en": "We baked the pies.",
@@ -16043,7 +22822,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          15.546,
+          17.959
+        ],
+        "audioDurationSeconds": 2.456,
+        "audioSha256": "9dbc0c2f24ef2a2a5805041e2e55ba276183d2fe79623aa0f017a4b7f384b98b"
       },
       {
         "en": "We baked the brownies.",
@@ -16055,7 +22847,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          20.602,
+          23.106
+        ],
+        "audioDurationSeconds": 2.534,
+        "audioSha256": "21828a532c53567727126e70da0468a5aab5f36a44e640996a1485560edd5b0c"
       },
       {
         "en": "We baked the cupcakes.",
@@ -16067,7 +22872,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          26.298,
+          28.875
+        ],
+        "audioDurationSeconds": 2.612,
+        "audioSha256": "61a61483c438cd8cd4cca62a5505170c69293a5aea6233ec7d897a2e24513e8d"
       },
       {
         "en": "We baked the cookies.",
@@ -16079,7 +22897,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          32.282,
+          34.511
+        ],
+        "audioDurationSeconds": 2.273,
+        "audioSha256": "5f0c7510bc25953d151618393d4b58efffe370f4caa6166819bf894374e85a61"
       },
       {
         "en": "We baked the cake.",
@@ -16091,7 +22922,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          37.114,
+          39.298
+        ],
+        "audioDurationSeconds": 2.22,
+        "audioSha256": "b33eeb62f5eb053d438a2edc540e19ceb3c1c23736db5a35c63bd93323264ab3"
       },
       {
         "en": "cupcakes cake cookies brownies pizza bread pie",
@@ -16103,7 +22947,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 976,
         "imageHeight": 706,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          42.074,
+          51.058
+        ],
+        "audioDurationSeconds": 9.012,
+        "audioSha256": "f8d9febc6dfcacca3466402bb7195808d2d84a3843231c291889f258a58280b1"
       }
     ],
     "keywords": [
@@ -16225,7 +23082,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "everyday"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 1083,
     "sourceCoverHeight": 850,
     "source": {
@@ -16266,7 +23123,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          6.458,
+          10.05
+        ],
+        "audioDurationSeconds": 3.631,
+        "audioSha256": "b900fde63ae51c4e325e54aa491a48b217b13055c774cc459d77179e9c0375e2"
       },
       {
         "en": "“You can go out,” said Mom. “Get your shoes.”",
@@ -16278,7 +23148,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          12.25,
+          19.232
+        ],
+        "audioDurationSeconds": 7.027,
+        "audioSha256": "68d395cb9d22e29763b523bc358ee7221ad867b7d6ce64a25d849e2d136df6ac"
       },
       {
         "en": "Bunny got her shoes.",
@@ -16290,7 +23173,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          19.232,
+          21.599
+        ],
+        "audioDurationSeconds": 2.403,
+        "audioSha256": "6625e5715a35f97e8a794c83d3e5488b18a4128a4384227b1e3a07630db08dcb"
       },
       {
         "en": "“Get your hat, Bunny,” Mom said. Bunny got her hat.",
@@ -16302,7 +23198,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          23.93,
+          30.114
+        ],
+        "audioDurationSeconds": 6.217,
+        "audioSha256": "ca56448a2b77df9206bbe9055e0db44dff9ce2d1bf22c39a990d7c666f632f91"
       },
       {
         "en": "“Get your toys,” said Mom. Bunny got her toys.",
@@ -16314,7 +23223,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          33.274,
+          39.477
+        ],
+        "audioDurationSeconds": 6.243,
+        "audioSha256": "56a762e518a5358ff89b4efa239ddcc57e04eec61281c6f7636a5b69359b7036"
       },
       {
         "en": "Mom said, “Look at the rain. You can not go out to play, Bunny.”",
@@ -16326,7 +23248,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          41.53,
+          48.913
+        ],
+        "audioDurationSeconds": 7.419,
+        "audioSha256": "8aadad96113f589efdab9cc98c5f8f7f29975dbfdc4cf3734b05b0cb0e676310"
       },
       {
         "en": "“Look, Mom!” Bunny said. “I got my umbrella.”",
@@ -16338,7 +23273,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          49.69,
+          56.462
+        ],
+        "audioDurationSeconds": 6.818,
+        "audioSha256": "845270767c8e9321a6b9b91a3dac19f382f9bf82a9eb1e62ff620de9f3fb4bad"
       },
       {
         "en": "And she went out to play.",
@@ -16350,7 +23298,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1084,
         "imageHeight": 850,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          56.462,
+          59.778
+        ],
+        "audioDurationSeconds": 3.344,
+        "audioSha256": "0c14bce95e3c99fa591224495e7dcfcae77379b503e8c1e4a35e275c8e242bac"
       }
     ],
     "keywords": [
@@ -16483,7 +23444,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "discovery"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 975,
     "sourceCoverHeight": 706,
     "source": {
@@ -16524,7 +23485,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          3.207,
+          8.866
+        ],
+        "audioDurationSeconds": 5.695,
+        "audioSha256": "3e714afefb927b92d1a49d6dd50abb21d74a872397fdef98e366a9a7271b1ce0"
       },
       {
         "en": "I can paint a flower.",
@@ -16536,7 +23510,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          12.218,
+          14.599
+        ],
+        "audioDurationSeconds": 2.429,
+        "audioSha256": "329f8b74e154c127f9a30d502454840c03106ec4c4f14d6d58aeb02fb28b92e1"
       },
       {
         "en": "I can paint the house.",
@@ -16548,7 +23535,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          17.53,
+          20.12
+        ],
+        "audioDurationSeconds": 2.638,
+        "audioSha256": "1a1e63fa510c3e9a4b276b51e147c9e920aede3bd76f5e90f1fc4171116a546a"
       },
       {
         "en": "I can paint a car.",
@@ -16560,7 +23560,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          23.706,
+          26.082
+        ],
+        "audioDurationSeconds": 2.403,
+        "audioSha256": "2ddf8734d9271abcebbf71b3668977ea71b95ef30c28c645a9543cd8fe325a4c"
       },
       {
         "en": "I can paint a dog.",
@@ -16572,7 +23585,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          29.434,
+          31.746
+        ],
+        "audioDurationSeconds": 2.351,
+        "audioSha256": "0b618603fb0b5adc8e202a7d44af15ca911daa519e388da678b6f4ff1ec7671c"
       },
       {
         "en": "I can paint a cat.",
@@ -16584,7 +23610,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          35.706,
+          38.082
+        ],
+        "audioDurationSeconds": 2.403,
+        "audioSha256": "3ed9603569db8097ca46170b5ac056da106a9f81a67afa9ed5c42055539a6908"
       },
       {
         "en": "I can paint a family.",
@@ -16596,7 +23635,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 508,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          41.252,
+          43.49
+        ],
+        "audioDurationSeconds": 2.273,
+        "audioSha256": "4bbee7ff60e8837e7ed66bcca9c1d654307a161076dc4dab6d0ee7ed6951e8cb"
       },
       {
         "en": "I can paint a picture!",
@@ -16608,7 +23660,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 976,
         "imageHeight": 706,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0.25,
+          1,
+          0.75
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          46.251,
+          48.418
+        ],
+        "audioDurationSeconds": 2.194,
+        "audioSha256": "c4fa37dcec547f0a8801a07bc4bcf1aa99bd4c795c4dadbd14a7eaf9a8c2c7ed"
       }
     ],
     "keywords": [
@@ -16730,7 +23795,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "nature"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 1083,
     "sourceCoverHeight": 850,
     "source": {
@@ -16770,7 +23835,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          7.674,
+          12.93
+        ],
+        "audioDurationSeconds": 5.303,
+        "audioSha256": "995a8818eda3a8128ebd61b50611ead2731e5f5a7ec34d515c1413eb40aff0bd"
       },
       {
         "en": "This animal is a big cat. The cat can run very fast.",
@@ -16782,7 +23860,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          15.834,
+          22.178
+        ],
+        "audioDurationSeconds": 6.374,
+        "audioSha256": "83fa48407310e6a6c3cb981be7cbabea3b17799b52e0672d6ac08f419371c93a"
       },
       {
         "en": "This animal is a penguin. Penguins can swim fast.",
@@ -16794,7 +23885,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          25.146,
+          30.978
+        ],
+        "audioDurationSeconds": 5.878,
+        "audioSha256": "19bf657b66000ad4be41070a880683b9ffb21d9273ac7b859888b7119b9ea88a"
       },
       {
         "en": "This animal is a shark. Sharks can swim fast, too.",
@@ -16806,7 +23910,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          34.554,
+          40.322
+        ],
+        "audioDurationSeconds": 5.799,
+        "audioSha256": "8d89662ecf302adbe3579b37e13f80133201a852b383f3d8441a26f2732a3cbb"
       },
       {
         "en": "This animal is a big bird. Birds can fly very fast.",
@@ -16818,7 +23935,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          43.578,
+          49.986
+        ],
+        "audioDurationSeconds": 6.452,
+        "audioSha256": "1acfd8f4787cd62c370a121040ba20b427c365065316632d393a44aa6c7ded88"
       },
       {
         "en": "This animal is a little bird. It can fly fast, too.",
@@ -16830,7 +23960,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          53.274,
+          58.786
+        ],
+        "audioDurationSeconds": 5.564,
+        "audioSha256": "f7c8d8398e0113355b6ca6520e883c8f8c74a17b1c30f62139c16558ea65dafa"
       },
       {
         "en": "This animal is a deer. It can run fast.",
@@ -16842,7 +23985,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          61.722,
+          66.082
+        ],
+        "audioDurationSeconds": 4.389,
+        "audioSha256": "e15b392cb0414d7e15bdbdef0d8f9c663f5f4591f520ccc1acbc71afa59a83ff"
       },
       {
         "en": "This animal is a big turtle. It can not run fast!",
@@ -16854,7 +24010,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1084,
         "imageHeight": 850,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0.3,
+          1,
+          0.7
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          68.346,
+          74.4
+        ],
+        "audioDurationSeconds": 6.087,
+        "audioSha256": "2fda5c9c9f2e201f9a2b9bea7dfbb57391bb6d1859fe0ba61ecae5c4a3f0957c"
       }
     ],
     "keywords": [
@@ -16976,7 +24145,7 @@ window.JIGU_BOOKS = [
     "themeIds": [
       "discovery"
     ],
-    "audioType": "device",
+    "audioType": "human",
     "sourceCoverWidth": 1083,
     "sourceCoverHeight": 850,
     "source": {
@@ -17017,7 +24186,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "01.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-01.mp3",
+        "audioSourceRange": [
+          6.586,
+          9.026
+        ],
+        "audioDurationSeconds": 2.482,
+        "audioSha256": "5632ed1a0617d3f277d2bb65f54a7307ef8858593d1adf11ccbbfd503c564275"
       },
       {
         "en": "The plane can go fast.",
@@ -17029,7 +24211,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "02.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-02.mp3",
+        "audioSourceRange": [
+          12.25,
+          14.722
+        ],
+        "audioDurationSeconds": 2.508,
+        "audioSha256": "3a7e6dea464eb79a93b11978690d42afd95dbba80fa05ffed3a22686e05e9526"
       },
       {
         "en": "A train can go fast.",
@@ -17041,7 +24236,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "03.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-03.mp3",
+        "audioSourceRange": [
+          17.521,
+          19.778
+        ],
+        "audioDurationSeconds": 2.299,
+        "audioSha256": "d4862c02b360849c29c2757ef443e43c6b54365aa32353d58c69ae78b6ec8f48"
       },
       {
         "en": "The bus can go fast.",
@@ -17053,7 +24261,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "04.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-04.mp3",
+        "audioSourceRange": [
+          22.472,
+          24.962
+        ],
+        "audioDurationSeconds": 2.534,
+        "audioSha256": "e90c11cde892d810aef7a75daa06267b968568e358ee89c23812f017ad99119d"
       },
       {
         "en": "A boat can go fast.",
@@ -17065,7 +24286,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "05.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-05.mp3",
+        "audioSourceRange": [
+          28.11,
+          30.562
+        ],
+        "audioDurationSeconds": 2.482,
+        "audioSha256": "1387a7a6dd927093509ca04289fd7b5825c1858be38d767a8e636a47fa04a4d5"
       },
       {
         "en": "A truck can go fast.",
@@ -17077,7 +24311,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "06.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-06.mp3",
+        "audioSourceRange": [
+          33.439,
+          35.778
+        ],
+        "audioDurationSeconds": 2.377,
+        "audioSha256": "0d857fa74bce71343c7a4259d9c72971ff9dad7e677ff7b9d1b52fadb039468f"
       },
       {
         "en": "A bike can go fast.",
@@ -17089,7 +24336,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1400,
         "imageHeight": 550,
         "imageFile": "07.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "audioFile": "audio/page-07.mp3",
+        "audioSourceRange": [
+          38.114,
+          40.834
+        ],
+        "audioDurationSeconds": 2.769,
+        "audioSha256": "4c25881dfbe4a41fa9ea84a6aed24729d5f5fe1b744e3c7d711a0150d688de26"
       },
       {
         "en": "I can go fast!",
@@ -17101,7 +24361,20 @@ window.JIGU_BOOKS = [
         "imageWidth": 1084,
         "imageHeight": 850,
         "imageFile": "08.jpg",
-        "audioScope": "device-page-speech"
+        "audioScope": "original-page-excerpt",
+        "artCrop": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "audioFile": "audio/page-08.mp3",
+        "audioSourceRange": [
+          42.756,
+          44.884
+        ],
+        "audioDurationSeconds": 2.168,
+        "audioSha256": "098ff2cbaace19aeb71acad28e359b9fc25f2ba3e2a5527796396ae6cb830628"
       }
     ],
     "keywords": [

@@ -13,6 +13,8 @@ jobs:
     timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
+      - name: Install MP3 slicing tools
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
       - run: python3 -m pip install PyMuPDF==1.26.6 Pillow
       - uses: actions/setup-node@v4
         with:

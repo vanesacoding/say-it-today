@@ -12,12 +12,13 @@ const p=await browser.newPage({serviceWorkers:'block'});p.setDefaultTimeout(1500
 for(const [width,height] of [[320,568],[390,844],[430,932],[1024,768]]){
 console.log('Viewport',width);await p.setViewportSize({width,height});await p.goto(remote||localURL);await p.evaluate(()=>localStorage.clear());await p.reload();
 await p.locator('[data-go="shelf"]').first().click();assert.equal(await p.locator('[data-book]').count(),70);
-await p.locator('[data-book="heinemann-gk-01"]').click();assert.equal(await p.locator('.readingGuide summary').count(),4);
+await p.locator('[data-book="heinemann-gk-01"]').click();assert.equal(await p.locator('.readingGuide .guideRow').count(),5);assert.equal(await p.locator('[data-action="credits"]').count(),0);
 await p.locator('.bookEntry .primary').click();await p.locator('#artFrame img').evaluate(im=>im.decode());
-await p.locator('[data-action="whole-audio"]').click();await p.waitForFunction(()=>Number(document.querySelector('[data-whole-seek]').value)>.1);
-await p.locator('[data-action="whole-audio"]').click();
-for(let i=0;i<8;i++)await p.locator('[data-action="next"]').click();
-await p.locator('[data-action="sing-start"]').click();await p.waitForFunction(()=>Number(document.querySelector('[data-song-seek]').value)>.1);
+assert.equal(await p.locator('.wholeAudio').count(),0);
+const crop=await p.locator('#artFrame img').evaluate(im=>({left:im.style.left,width:im.style.width}));assert.equal(crop.left,'-100%');assert.equal(crop.width,'200%');assert.ok(await p.locator('#artFrame').evaluate(e=>{const r=e.getBoundingClientRect();return r.height>r.width*.7&&r.height<r.width*.95;}),'cropped artwork must retain a visible full-size frame');
+await p.locator('[data-action="speak"]').click();await p.waitForFunction(()=>Number(document.querySelector('[data-page-seek]').value)>.1);
+await p.locator('[data-action="speak"]').click();
+await p.locator('[data-action="listen"]').click();await p.waitForFunction(()=>Number(document.querySelector('[data-song-seek]').value)>.1);
 await p.locator('[data-song-seek]').evaluate(e=>{e.value='20';e.dispatchEvent(new Event('input',{bubbles:true}));});
 await p.waitForFunction(()=>document.querySelector('.singLyrics>p').textContent.includes('milk')&&Number(document.querySelector('[data-song-seek]').value)>20.2);
 await p.locator('.singArtwork img').evaluate(im=>im.decode());
@@ -31,7 +32,8 @@ await p.waitForFunction(()=>document.querySelector('[data-action="sing-toggle"]'
 assert.ok(await p.locator('[data-song-seek]').evaluate(e=>Math.abs(Number(e.value)-Number(e.max))<.11),'completed song progress must remain at the end');
 }
 
-await p.getByRole('button',{name:'退出唱读',exact:true}).click();assert.ok(await p.locator('.endTitle').isVisible());
+await p.getByRole('button',{name:'退出唱读',exact:true}).click();assert.ok(await p.locator('.readEnglish').isVisible());assert.match(await p.locator('.readerHeader .heading').textContent(),/1\/8/);
+for(let i=0;i<8;i++)await p.locator('[data-action="next"]').click();assert.ok(await p.locator('.endTitle').isVisible());
 }
-assert.deepEqual(errors,[]);console.log('PASS four viewports: 70 books, guides, MP3 playback, fullscreen singing and seek/page synchronization');
+assert.deepEqual(errors,[]);console.log('PASS four viewports: 70 books, guides, page MP3 playback, default fullscreen singing and seek/page synchronization');
 }finally{await browser.close();server?.kill();}
