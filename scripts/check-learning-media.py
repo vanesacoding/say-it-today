@@ -14,6 +14,12 @@ assert {level:sum(b['level']==level for b in phonics['books']) for level in '123
 def asset(url):
     assert url.startswith('./') and '..' not in url
     return root/'public'/url[2:]
+covers=load('public/books/curation.js')['covers']
+assert len(covers)==8
+for c in covers.values():
+    with Image.open(asset(c['file'])) as im:
+        assert im.size==(c['width'],c['height']) and .65<im.width/im.height<1
+        im.verify()
 jobs=[]
 for b in phonics['books']:
     assert b['layoutVersion']==2 and b['duration']>10
