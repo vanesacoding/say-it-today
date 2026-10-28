@@ -16,11 +16,13 @@ def asset(url):
     return root/'public'/url[2:]
 jobs=[]
 for b in phonics['books']:
-    assert b['cover']==b['pages'][0]['image'] and b['duration']>10
+    assert b['layoutVersion']==2 and b['duration']>10
+    with Image.open(asset(b['cover'])) as im:
+        assert im.width/im.height<1.12 and im.size==(b['coverWidth'],b['coverHeight']);im.verify()
     jobs.append(asset(b['audio']))
     for p in b['pages']:
         with Image.open(asset(p['image'])) as im:
-            assert im.size==(p['width'],p['height']) and im.width>=320
+            assert im.size==(p['width'],p['height']) and im.width>=320 and im.width/im.height<1.12
             im.verify()
 for c in flash['cards']:
     assert c['category'] in {g['id'] for g in flash['categories']}
